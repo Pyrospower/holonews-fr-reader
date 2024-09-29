@@ -3,16 +3,33 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "astro dev --host",
     "start": "astro dev",
+    "check": "astro check",
+    "clean": "rm -rf node_modules dist .eslintcache",
+    "format": "prettier '**/*.{cjs,mjs,ts,md,mdx,json,astro}' --ignore-path ./.gitignore --ignore-unknown --write",
+    "format:check": "prettier '**/*.{cjs,mjs,ts,md,mdx,json,astro}' --ignore-path ./.gitignore --ignore-unknown --check",
+    "lint": "eslint . --report-unused-disable-directives",
+    "lint:fix": "pnpm lint --fix",
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.15.9",
     "@astrojs/check": "^0.9.3",
+    "astro": "^4.15.9",
     "typescript": "^5.6.2"
   },
-  "packageManager": "pnpm@9.11.0+sha512.0a203ffaed5a3f63242cd064c8fb5892366c103e328079318f78062f24ea8c9d50bc6a47aa3567cabefd824d170e78fa2745ed1f16b132e16436146b7688f19b"
+  "packageManager": "pnpm@9.11.0+sha512.0a203ffaed5a3f63242cd064c8fb5892366c103e328079318f78062f24ea8c9d50bc6a47aa3567cabefd824d170e78fa2745ed1f16b132e16436146b7688f19b",
+  "devDependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "^4.3.1",
+    "@typescript-eslint/parser": "^8.7.0",
+    "astro-eslint-parser": "^1.0.3",
+    "eslint": "^9.11.1",
+    "eslint-plugin-astro": "^1.2.4",
+    "eslint-plugin-jsx-a11y": "^6.10.0",
+    "prettier": "^3.3.3",
+    "prettier-plugin-astro": "^0.14.1",
+    "prettier-plugin-tailwindcss": "^0.6.8"
+  }
 }
