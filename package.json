@@ -23,6 +23,7 @@
     "bits-ui": "^0.21.15",
     "clsx": "^2.1.1",
     "lucide-svelte": "^0.446.0",
+    "playwright": "^1.48.0",
     "sharp": "^0.33.5",
     "svelte": "^4.2.19",
     "tailwind-merge": "^2.5.2",
