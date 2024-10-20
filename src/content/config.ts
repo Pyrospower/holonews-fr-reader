@@ -5,14 +5,9 @@ export const collections = {
     type: "content",
     schema: z.object({
       title: z.string(),
-      date: z.date(),
+      date: z.string().datetime({ offset: true }).pipe(z.coerce.date()),
       link: z.string().url(),
-      thumbnail: z.string().url(),
-      images: z.array(
-        z.object({
-          url: z.string(),
-        }),
-      ),
+      images: z.array(z.string().url()),
       tags: z.array(z.string()),
     }),
   }),
