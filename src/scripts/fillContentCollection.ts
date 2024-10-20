@@ -15,6 +15,15 @@ if (await rejectCookiesButton.isVisible()) {
   await rejectCookiesButton.click();
 }
 
+await page.waitForTimeout(1500);
+
+const translationMenu = page.locator("#translation-desktop-menu");
+await translationMenu.click();
+const translationButton = page.locator("#hui-translation-switch");
+if (await translationButton.isVisible()) await translationButton.click();
+
+await page.waitForTimeout(2000);
+
 // Scroll to the bottom of the page
 let isAtBottom = false;
 while (!isAtBottom) {
