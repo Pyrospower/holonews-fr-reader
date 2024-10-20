@@ -13,11 +13,27 @@ const { title } = Astro.props;
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content="Astro description" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
     <title>{title} - HoloNews FR Reader</title>
+    <meta
+      name="description"
+      content="Retrouvez les articles d'HoloNews traduits en français !"
+    />
+    <meta
+      name="keywords"
+      content="hololive, news, fr, français, holonews, vtuber"
+    />
+    <meta name="theme-color" content="#5FDDEF" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={Astro.url} />
+    <meta property="og:title" content={`${title} - HoloNews FR Reader`} />
+    <meta
+      property="og:description"
+      content="Retrouvez les articles d'HoloNews traduits en français !"
+    />
+    <meta property="og:site_name" content="HoloNews FR Reader" />
   </head>
   <body class="flex min-h-screen flex-col items-center">
     <Header />
