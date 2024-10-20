@@ -77,7 +77,7 @@
           />
         </Card.Content>
         <Card.Footer>
-          <Button variant="outline">Lire</Button>
+          <Button href={`/issues/${issue.slug}`} variant="outline">Lire</Button>
         </Card.Footer>
       </Card.Root>
     {/each}
