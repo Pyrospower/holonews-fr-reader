@@ -3,16 +3,17 @@
   import * as Card from "$lib/components/ui/card";
   import { Input } from "$lib/components/ui/input";
   import { Label } from "$lib/components/ui/label";
+  import type { CollectionEntry } from "astro:content";
   import { Search } from "lucide-svelte";
+
+  export let issues: CollectionEntry<"issues">[];
 
   let searchQuery = "";
   let startDate = "";
   let endDate = "";
 
-  // TODO: Use content collections
-  const articles: Array<Record<string, any>> = [];
-  let filteredArticles = articles.filter((article) =>
-    article.title.toLowerCase().includes(searchQuery.toLowerCase()),
+  let filteredIssues = issues.filter((issue: CollectionEntry<"issues">) =>
+    issue.data.title.toLowerCase().includes(searchQuery.toLowerCase()),
   );
 
   function handleSearch() {
@@ -23,23 +24,23 @@
 </script>
 
 <div class="mb-8">
-  <h1 class="text-4xl font-bold mb-4">Latest Issues</h1>
+  <h1 class="text-3xl md:text-4xl font-bold mb-4">Derniers numéros</h1>
   <form on:submit|preventDefault={handleSearch} class="space-y-4">
-    <div class="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-2">
+    <div class="flex flex-row space-x-2">
       <Input
         type="search"
-        placeholder="Search articles..."
+        placeholder="Chercher un article..."
         bind:value={searchQuery}
         class="flex-grow"
       />
       <Button type="submit" size="icon">
         <Search class="w-4 h-4" />
-        <span class="sr-only">Search</span>
+        <span class="sr-only">Chercher</span>
       </Button>
     </div>
     <div class="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
       <div class="flex-1">
-        <Label for="start-date">Start Date</Label>
+        <Label for="start-date">Date de début</Label>
         <Input
           id="start-date"
           type="date"
@@ -48,36 +49,39 @@
         />
       </div>
       <div class="flex-1">
-        <Label for="end-date">End Date</Label>
+        <Label for="end-date">Date de fin</Label>
         <Input id="end-date" type="date" bind:value={endDate} class="w-full" />
       </div>
     </div>
   </form>
 </div>
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-  {#if filteredArticles.length > 0}
-    {#each filteredArticles as article (article)}
+  {#if filteredIssues.length > 0}
+    {#each filteredIssues as issue (issue)}
       <Card.Root>
         <Card.Header>
-          <Card.Title>{article.title}</Card.Title>
+          <Card.Title>{issue.data.title}</Card.Title>
           <Card.Description>
-            {article.date.toISOString().split("T")[0]} - {article.description}
+            Publié le {issue.data.date.toLocaleDateString("fr-FR", {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+            })}
           </Card.Description>
         </Card.Header>
         <Card.Content>
           <img
-            src="https://placehold.co/200x400/png"
-            alt={`First page of ${article.title}`}
-            class="w-full h-48 object-cover rounded-md mb-4"
+            src={issue.data.images[0]}
+            alt={`Première page de ${issue.data.title}`}
+            class="w-full object-cover rounded-md mb-4"
           />
-          <p>{article.description}</p>
         </Card.Content>
         <Card.Footer>
-          <Button variant="outline">Read More</Button>
+          <Button variant="outline">Lire</Button>
         </Card.Footer>
       </Card.Root>
     {/each}
   {:else}
-    <p class="text-muted-foreground mt-8">No articles found.</p>
+    <p class="text-muted-foreground mt-8">Aucun article trouvé.</p>
   {/if}
 </div>
