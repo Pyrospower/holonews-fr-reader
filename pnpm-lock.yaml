@@ -23,15 +23,9 @@ importers:
       astro:
         specifier: ^4.16.2
         version: 4.16.2(@types/node@22.7.5)(rollup@4.22.5)(typescript@5.6.2)
-      bits-ui:
-        specifier: ^0.21.15
-        version: 0.21.15(svelte@4.2.19)
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
-      lucide-svelte:
-        specifier: ^0.446.0
-        version: 0.446.0(svelte@4.2.19)
       playwright:
         specifier: ^1.48.0
         version: 1.48.0
@@ -69,6 +63,9 @@ importers:
       astro-eslint-parser:
         specifier: ^1.0.3
         version: 1.0.3(typescript@5.6.2)
+      bits-ui:
+        specifier: ^0.21.15
+        version: 0.21.15(svelte@4.2.19)
       eslint:
         specifier: ^9.11.1
         version: 9.11.1(jiti@1.21.6)
@@ -78,6 +75,9 @@ importers:
       eslint-plugin-jsx-a11y:
         specifier: ^6.10.0
         version: 6.10.0(eslint@9.11.1(jiti@1.21.6))
+      lucide-svelte:
+        specifier: ^0.446.0
+        version: 0.446.0(svelte@4.2.19)
       prettier:
         specifier: ^3.3.3
         version: 3.3.3
