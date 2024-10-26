@@ -42,7 +42,12 @@
     <span class="sr-only">Page précédente</span>
   </Button>
   <span>Page {currentPage} sur {maxPage}</span>
-  <Button variant="outline" size="icon" on:click={handleNextPage}>
+  <Button
+    variant="outline"
+    size="icon"
+    on:click={handleNextPage}
+    disabled={currentPage === maxPage}
+  >
     <ChevronRight class="w-4 h-4" />
     <span class="sr-only">Page suivante</span>
   </Button>
