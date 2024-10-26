@@ -64,7 +64,7 @@
         >
           <img
             src={image}
-            alt={`Page ${index + 1} de ${issue.data.title}`}
+            alt={`Page ${index + 1}`}
             class="w-full h-full object-cover"
             decoding="async"
             loading="lazy"
