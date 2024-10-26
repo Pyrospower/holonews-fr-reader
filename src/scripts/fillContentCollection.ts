@@ -54,14 +54,18 @@ const issues: PostData[] = [];
 
 for (let i = 0; i < amountOfPosts; i++) {
   const postElement = page.locator("shreddit-post").nth(i);
+
+  const postTitle = await postElement.locator("div[slot='title']").innerText();
+
   issues.push({
-    title: await postElement.getAttribute("post-title"),
+    title: postTitle.replace(/\n/g, "").trim(),
     contentHref: await postElement.getAttribute("content-href"),
     permalink: `https://reddit.com${await postElement.getAttribute("permalink")}`,
     createdAt: await postElement.getAttribute("created-timestamp"),
     images: [],
   });
 }
+// console.dir(issues, { colors: true, depth: Infinity });
 
 for (const issue of issues) {
   const galleryUrl = issue?.contentHref;
