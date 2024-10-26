@@ -1,6 +1,7 @@
 <script lang="ts">
   import { Button } from "$lib/components/ui/button";
   import * as Card from "$lib/components/ui/card";
+  // import { ScrollArea } from "$lib/components/ui/scroll-area";
   import type { CollectionEntry } from "astro:content";
   import { ChevronLeft, ChevronRight } from "lucide-svelte";
 
@@ -46,6 +47,33 @@
     <span class="sr-only">Page suivante</span>
   </Button>
 </div>
+
+<Card.Card>
+  <Card.Content class="p-4">
+    <h3 class="text-lg font-semibold mb-2">Quick Navigation</h3>
+    <div class="flex flex-wrap space-x-2 gap-y-4">
+      {#each issue.data.images as image, index}
+        <button
+          on:click={() => (currentPage = index + 1)}
+          class={`relative w-16 h-16 flex-shrink-0 overflow-hidden rounded ${currentPage === index + 1 ? "ring-2 ring-primary" : ""}`}
+        >
+          <img
+            src={image}
+            alt={`Page ${index + 1} de ${issue.data.title}`}
+            class="w-full h-full object-cover"
+            decoding="async"
+            loading="lazy"
+          />
+          <span
+            class="absolute bottom-0 right-0 bg-background text-foreground text-xs px-1 rounded-tl"
+          >
+            {index + 1}
+          </span>
+        </button>
+      {/each}
+    </div>
+  </Card.Content>
+</Card.Card>
 
 <svelte:window
   on:keydown|preventDefault={(e) => {
