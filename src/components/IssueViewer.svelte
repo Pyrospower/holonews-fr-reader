@@ -55,7 +55,7 @@
 
 <Card.Card>
   <Card.Content class="p-4">
-    <h3 class="text-lg font-semibold mb-2">Quick Navigation</h3>
+    <h3 class="text-lg font-semibold mb-2">Navigation rapide</h3>
     <div class="flex flex-wrap space-x-2 gap-y-4">
       {#each issue.data.images as image, index}
         <button
