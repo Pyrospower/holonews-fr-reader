@@ -1,54 +1,74 @@
-# Astro Starter Kit: Basics
+# HoloNews FR Reader
 
-```sh
-npm create astro@latest -- --template basics
-```
+Un lecteur web moderne pour les articles d'HoloNews traduits en français, construit avec Astro et Svelte.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## 🌟 À propos
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+HoloNews FR Reader est une application web qui permet de consulter facilement tous les articles d'HoloNews traduits en français. Le contenu, disponible sur Reddit, est présenté dans une interface claire et moderne.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## ✨ Fonctionnalités
 
-## 🚀 Project Structure
+- **Navigation intuitive** : Parcourez facilement tous les numéros d'HoloNews FR
+- **Interface moderne** : Design réalisé avec Tailwind CSS et shadcn-svelte
+- **Filtrage par tags** : Articles classés par type (LITE, Spécial, etc.)
+- **Récupération automatique** : Script automatisé pour récupérer les articles depuis Reddit
+- **Performance optimisée** : Construit avec Astro pour des performances maximales
 
-Inside of your Astro project, you'll see the following folders and files:
+## 🛠 Installation
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+1. **Cloner le repository**
+   ```sh
+   git clone https://github.com/Pyrospower/holonews-fr-reader.git
+   cd holonews-fr-reader
+   ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+2. **Installer les dépendances**
+   ```sh
+   pnpm install
+   ```
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+3. **Lancer le serveur de développement**
+   ```sh
+   pnpm dev
+   ```
 
-Any static assets, like images, can be placed in the `public/` directory.
+L'application sera accessible sur `http://localhost:4321`
 
-## 🧞 Commands
+## 🧞 Commandes disponibles
 
-All commands are run from the root of the project, from a terminal:
+| Commande | Action |
+| :------- | :----- |
+| `pnpm install` | Installe les dépendances |
+| `pnpm dev` | Lance le serveur de développement |
+| `pnpm build` | Génère le site pour la production |
+| `pnpm preview` | Prévisualise le build en local |
+| `pnpm astro ...` | Exécute les commandes CLI d'Astro |
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## 🔧 Technologies utilisées
 
-## 👀 Want to learn more?
+- Frameworks : **[Astro](https://astro.build)** + **[Svelte](https://svelte.dev)**
+- Styles : **[Tailwind CSS](https://tailwindcss.com)** + **[shadcn-svelte](https://shadcn-svelte.com)**
+- Scraping (récupération du contenu) : **[Playwright](https://playwright.dev)**
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## 📝 Récupération du contenu
+
+Le projet inclut un script automatisé ([`fillContentCollection.ts`](src/scripts/fillContentCollection.ts)) qui :
+
+1. Accède au [subreddit d'HoloNews](https://reddit.com/r/HoloNews) avec Playwright
+2. Récupère les posts d'[HoloNews FR](https://www.reddit.com/r/HoloNews/new/?f=flair_name%3A"FR+Issue")
+3. Extrait le contenu et les métadonnées
+4. Génère automatiquement les fichiers MDX dans `src/content/issues/`
+
+## 🎨 Interface
+
+- **Page d'accueil** : Liste tous les articles avec aperçu et filtrage
+- **Pages d'articles** : Affichage complet de chaque numéro avec images
+
+## 🏷 Tags disponibles
+
+- `lite` - Numéros allégés
+- `special` - Numéros spéciaux
+
+## 📄 Licence
+
+Ce projet est sous [licence MIT](LICENSE).
