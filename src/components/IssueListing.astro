@@ -15,26 +15,16 @@ const maxDate = issues[0]?.data.date.toISOString().split("T")[0];
   <h1 class="text-3xl md:text-4xl font-bold mb-4">Derniers numéros</h1>
   <search>
     <form id="filter-form" class="space-y-4">
-      <div class="flex flex-row space-x-2">
-        <input
-          id="search-input"
-          type="search"
-          placeholder="Chercher un article..."
-          data-slot="input"
-          class="dark:bg-input/30 border-input focus-visible:border-ring focus-visible:ring-ring/50 h-8 rounded-lg border bg-transparent px-2.5 py-1 text-base transition-colors focus-visible:ring-3 md:text-sm placeholder:text-muted-foreground w-full min-w-0 outline-none grow"
-        />
-        <button
-          type="submit"
-          data-slot="button"
-          class="focus-visible:border-ring focus-visible:ring-ring/50 rounded-lg border border-transparent bg-clip-padding text-sm font-medium focus-visible:ring-3 active:translate-y-px inline-flex shrink-0 items-center justify-center whitespace-nowrap transition-all outline-none select-none cursor-pointer bg-primary text-primary-foreground size-8"
-        >
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-4"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></svg>
-          <span class="sr-only">Chercher</span>
-        </button>
-      </div>
+      <input
+        id="search-input"
+        type="search"
+        placeholder="Chercher un article..."
+        data-slot="input"
+        class="dark:bg-input/30 border-input focus-visible:border-ring focus-visible:ring-ring/50 h-8 rounded-lg border bg-transparent px-2.5 py-1 text-base transition-colors focus-visible:ring-3 md:text-sm placeholder:text-muted-foreground w-full min-w-0 outline-none"
+      />
       <div class="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
         <div class="flex-1">
-          <label for="start-date" class="gap-2 text-sm leading-none font-medium flex items-center select-none">Date de début</label>
+          <label for="start-date" class="gap-2 text-sm leading-none font-medium flex items-center select-none mb-1">Date de début</label>
           <input
             id="start-date"
             type="date"
@@ -45,7 +35,7 @@ const maxDate = issues[0]?.data.date.toISOString().split("T")[0];
           />
         </div>
         <div class="flex-1">
-          <label for="end-date" class="gap-2 text-sm leading-none font-medium flex items-center select-none">Date de fin</label>
+          <label for="end-date" class="gap-2 text-sm leading-none font-medium flex items-center select-none mb-1">Date de fin</label>
           <input
             id="end-date"
             type="date"
@@ -56,7 +46,7 @@ const maxDate = issues[0]?.data.date.toISOString().split("T")[0];
           />
         </div>
         <div class="flex-1">
-          <label for="tag-filter" class="gap-2 text-sm leading-none font-medium flex items-center select-none">Filtrer par tag</label>
+          <label for="tag-filter" class="gap-2 text-sm leading-none font-medium flex items-center select-none mb-1">Filtrer par tag</label>
           <select
             id="tag-filter"
             data-slot="input"
