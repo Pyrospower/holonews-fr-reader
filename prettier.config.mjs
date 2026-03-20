@@ -24,10 +24,10 @@ const config = {
     },
   ],
   astroAllowShorthand: false,
-  tailwindConfig: "./tailwind.config.ts",
+  tailwindStylesheet: "./src/styles/app.css",
   importOrder: ["<THIRD_PARTY_MODULES>", "", "^$lib/", "^[.][.]/", "^[.]/"],
   importOrderParserPlugins: ["typescript", "jsx", "decorators-legacy"],
-  importOrderTypeScriptVersion: "4.4.0",
+  importOrderTypeScriptVersion: "5.9.0",
 };
 
 export default config;

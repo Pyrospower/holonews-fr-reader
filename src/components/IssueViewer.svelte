@@ -1,14 +1,14 @@
 <script lang="ts">
   import { Button } from "$lib/components/ui/button";
   import * as Card from "$lib/components/ui/card";
-  // import { ScrollArea } from "$lib/components/ui/scroll-area";
   import type { CollectionEntry } from "astro:content";
-  import { ChevronLeft, ChevronRight } from "lucide-svelte";
+  import ChevronLeftIcon from "@lucide/svelte/icons/chevron-left";
+  import ChevronRightIcon from "@lucide/svelte/icons/chevron-right";
 
-  export let issue: CollectionEntry<"issues">;
+  let { issue }: { issue: CollectionEntry<"issues"> } = $props();
 
-  let currentPage = 1;
-  let maxPage = issue.data.images.length;
+  let currentPage = $state(1);
+  const maxPage = $derived(issue.data.images.length);
 
   function handlePrevPage() {
     currentPage = currentPage > 1 ? currentPage - 1 : currentPage;
@@ -19,48 +19,46 @@
   }
 </script>
 
-<Card.Card class="mx-auto">
-  <Card.CardContent class="p-0">
-    <div class="relative">
-      <img
-        src={issue.data.images[currentPage - 1]}
-        alt={`Page ${currentPage} de ${issue.data.title}`}
-        class="w-full sm:w-1/2 mx-auto h-full object-cover"
-      />
-    </div>
-  </Card.CardContent>
-</Card.Card>
+<Card.Root class="mx-auto py-0">
+  <Card.Content class="p-0">
+    <img
+      src={issue.data.images[currentPage - 1]}
+      alt={`Page ${currentPage} de ${issue.data.title}`}
+      class="block w-full sm:w-1/2 mx-auto object-cover"
+    />
+  </Card.Content>
+</Card.Root>
 
 <div class="flex justify-between items-center p-4">
   <Button
     variant="outline"
     size="icon"
-    on:click={handlePrevPage}
+    onclick={handlePrevPage}
     disabled={currentPage === 1}
   >
-    <ChevronLeft class="w-4 h-4" />
+    <ChevronLeftIcon class="w-4 h-4" />
     <span class="sr-only">Page précédente</span>
   </Button>
   <span>Page {currentPage} sur {maxPage}</span>
   <Button
     variant="outline"
     size="icon"
-    on:click={handleNextPage}
+    onclick={handleNextPage}
     disabled={currentPage === maxPage}
   >
-    <ChevronRight class="w-4 h-4" />
+    <ChevronRightIcon class="w-4 h-4" />
     <span class="sr-only">Page suivante</span>
   </Button>
 </div>
 
-<Card.Card>
+<Card.Root>
   <Card.Content class="p-4">
     <h3 class="text-lg font-semibold mb-2">Navigation rapide</h3>
     <div class="flex flex-wrap space-x-2 gap-y-4">
       {#each issue.data.images as image, index}
         <button
-          on:click={() => (currentPage = index + 1)}
-          class={`relative w-16 h-16 flex-shrink-0 overflow-hidden rounded ${currentPage === index + 1 ? "ring-2 ring-primary" : ""}`}
+          onclick={() => (currentPage = index + 1)}
+          class={`relative w-16 h-16 shrink-0 overflow-hidden rounded cursor-pointer ${currentPage === index + 1 ? "ring-2 ring-primary" : ""}`}
         >
           <img
             src={image}
@@ -78,13 +76,18 @@
       {/each}
     </div>
   </Card.Content>
-</Card.Card>
+</Card.Root>
 
 <svelte:window
-  on:keydown|preventDefault={(e) => {
+  onkeydown={(e) => {
     if (e.repeat) return;
-
-    if (e.key === "ArrowLeft") handlePrevPage();
-    if (e.key === "ArrowRight") handleNextPage();
+    if (e.key === "ArrowLeft") {
+      e.preventDefault();
+      handlePrevPage();
+    }
+    if (e.key === "ArrowRight") {
+      e.preventDefault();
+      handleNextPage();
+    }
   }}
 />

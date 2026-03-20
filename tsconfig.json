@@ -10,13 +10,10 @@
     }
   },
   "include": [
+    ".astro/types.d.ts",
     "src",
     "astro.config.mjs",
-    ".eslintrc.cjs",
     "**/*.js",
-    "**/*.cjs",
-    "**/*.mjs",
-    "../reset.d.ts",
-    "./tailwind.config.ts"
+    "**/*.mjs"
   ]
 }

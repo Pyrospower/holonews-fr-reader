@@ -1,13 +1,16 @@
 // @ts-check
-import svelte from "@astrojs/svelte";
-import tailwind from "@astrojs/tailwind";
-import { defineConfig } from "astro/config";
-
 import mdx from "@astrojs/mdx";
+import svelte from "@astrojs/svelte";
+import tailwindcss from "@tailwindcss/vite";
+import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [tailwind({
-    applyBaseStyles: false,
-  }), svelte(), mdx()],
+  integrations: [svelte(), mdx()],
+  vite: {
+    plugins: [tailwindcss()],
+    resolve: {
+      noExternal: ["@lucide/svelte", "bits-ui"],
+    },
+  },
 });
