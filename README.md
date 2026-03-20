@@ -17,12 +17,14 @@ HoloNews FR Reader est une application web qui permet de consulter facilement to
 ## 🛠 Installation
 
 1. **Cloner le repository**
+
    ```sh
    git clone https://github.com/Pyrospower/holonews-fr-reader.git
    cd holonews-fr-reader
    ```
 
 2. **Installer les dépendances**
+
    ```sh
    pnpm install
    ```
@@ -36,12 +38,12 @@ L'application sera accessible sur `http://localhost:4321`
 
 ## 🧞 Commandes disponibles
 
-| Commande | Action |
-| :------- | :----- |
-| `pnpm install` | Installe les dépendances |
-| `pnpm dev` | Lance le serveur de développement |
-| `pnpm build` | Génère le site pour la production |
-| `pnpm preview` | Prévisualise le build en local |
+| Commande         | Action                            |
+| :--------------- | :-------------------------------- |
+| `pnpm install`   | Installe les dépendances          |
+| `pnpm dev`       | Lance le serveur de développement |
+| `pnpm build`     | Génère le site pour la production |
+| `pnpm preview`   | Prévisualise le build en local    |
 | `pnpm astro ...` | Exécute les commandes CLI d'Astro |
 
 ## 🔧 Technologies utilisées

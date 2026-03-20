@@ -6,26 +6,30 @@
   import { Label } from "$lib/components/ui/label";
   import * as Select from "$lib/components/ui/select";
   import type { CollectionEntry } from "astro:content";
-  import { Search } from "lucide-svelte";
+  import SearchIcon from "@lucide/svelte/icons/search";
 
-  export let issues: CollectionEntry<"issues">[];
+  let { issues }: { issues: CollectionEntry<"issues">[] } = $props();
 
-  let searchQuery = "";
-  let startDate = "";
-  let endDate = "";
-  let tagFilter = "all";
+  let searchQuery = $state("");
+  let startDate = $state("");
+  let endDate = $state("");
+  let tagFilter = $state<string>("");
 
-  const minDate = issues[issues.length - 1]?.data.date
-    .toISOString()
-    .split("T")[0];
-  const maxDate = issues[0]?.data.date.toISOString().split("T")[0];
-
-  let filteredIssues = issues.filter((issue: CollectionEntry<"issues">) =>
-    issue.data.title.toLowerCase().includes(searchQuery.toLowerCase()),
+  const minDate = $derived(
+    issues[issues.length - 1]?.data.date.toISOString().split("T")[0],
+  );
+  const maxDate = $derived(
+    issues[0]?.data.date.toISOString().split("T")[0],
   );
 
-  function handleSearch() {
-    filteredIssues = issues.filter((issue: CollectionEntry<"issues">) => {
+  const tagLabels: Record<string, string> = {
+    all: "Tous",
+    lite: "Lite",
+    special: "Special",
+  };
+
+  let filteredIssues = $derived(
+    issues.filter((issue: CollectionEntry<"issues">) => {
       const titleMatch = issue.data.title
         .toLowerCase()
         .includes(searchQuery.toLowerCase());
@@ -37,26 +41,31 @@
         : true;
 
       const tagMatch =
-        tagFilter === "all" ? true : issue.data.tags.includes(tagFilter);
+        !tagFilter || tagFilter === "all"
+          ? true
+          : issue.data.tags.includes(tagFilter);
 
       return titleMatch && startDateMatch && endDateMatch && tagMatch;
-    });
-  }
+    }),
+  );
 </script>
 
 <div class="mb-8">
   <h1 class="text-3xl md:text-4xl font-bold mb-4">Derniers numéros</h1>
   <search>
-    <form on:submit|preventDefault={handleSearch} class="space-y-4">
+    <form
+      onsubmit={(e) => e.preventDefault()}
+      class="space-y-4"
+    >
       <div class="flex flex-row space-x-2">
         <Input
           type="search"
           placeholder="Chercher un article..."
           bind:value={searchQuery}
-          class="flex-grow"
+          class="grow"
         />
         <Button type="submit" size="icon">
-          <Search class="w-4 h-4" />
+          <SearchIcon class="w-4 h-4" />
           <span class="sr-only">Chercher</span>
         </Button>
       </div>
@@ -87,22 +96,17 @@
         </div>
         <div class="flex-1">
           <Label for="tag-filter">Filtrer par tag</Label>
-          <Select.Root
-            onSelectedChange={(v) => {
-              if (typeof v?.value === "string") {
-                tagFilter = v.value;
-              }
-            }}
-          >
-            <Select.Trigger id="tag-filter">
-              <Select.Value placeholder="Filtrer par tag" />
+          <Select.Root type="single" bind:value={tagFilter}>
+            <Select.Trigger id="tag-filter" class="w-full">
+              {tagFilter ? tagLabels[tagFilter] ?? tagFilter : "Filtrer par tag"}
             </Select.Trigger>
             <Select.Content>
-              <Select.Item value="all">Tous</Select.Item>
+              <Select.Item value="all" label="Tous" />
               {#each ["lite", "special"] as tag (tag)}
-                <Select.Item value={tag}
-                  >{tag.charAt(0).toUpperCase() + tag.slice(1)}</Select.Item
-                >
+                <Select.Item
+                  value={tag}
+                  label={tag.charAt(0).toUpperCase() + tag.slice(1)}
+                />
               {/each}
             </Select.Content>
           </Select.Root>
@@ -141,7 +145,7 @@
           />
         </Card.Content>
         <Card.Footer>
-          <Button href={`/issues/${issue.slug}`} variant="outline">
+          <Button href={`/issues/${issue.id}`} variant="outline">
             Lire l'article
           </Button>
         </Card.Footer>
