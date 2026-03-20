@@ -1,5 +1,5 @@
 ---
-import IssueListing from "$lib/components/IssueListing.svelte";
+import IssueListing from "$lib/components/IssueListing.astro";
 import Layout from "$lib/layouts/Layout.astro";
 import { getCollection } from "astro:content";
 
@@ -9,5 +9,5 @@ const issues = (await getCollection("issues")).sort((a, b) =>
 ---
 
 <Layout title="Home">
-  <IssueListing client:load issues={issues} />
+  <IssueListing issues={issues} />
 </Layout>

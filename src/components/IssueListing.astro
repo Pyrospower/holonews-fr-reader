@@ -1,0 +1,170 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  issues: CollectionEntry<"issues">[];
+}
+
+const { issues } = Astro.props;
+
+const minDate = issues[issues.length - 1]?.data.date.toISOString().split("T")[0];
+const maxDate = issues[0]?.data.date.toISOString().split("T")[0];
+---
+
+<div class="mb-8">
+  <h1 class="text-3xl md:text-4xl font-bold mb-4">Derniers numéros</h1>
+  <search>
+    <form id="filter-form" class="space-y-4">
+      <div class="flex flex-row space-x-2">
+        <input
+          id="search-input"
+          type="search"
+          placeholder="Chercher un article..."
+          data-slot="input"
+          class="dark:bg-input/30 border-input focus-visible:border-ring focus-visible:ring-ring/50 h-8 rounded-lg border bg-transparent px-2.5 py-1 text-base transition-colors focus-visible:ring-3 md:text-sm placeholder:text-muted-foreground w-full min-w-0 outline-none grow"
+        />
+        <button
+          type="submit"
+          data-slot="button"
+          class="focus-visible:border-ring focus-visible:ring-ring/50 rounded-lg border border-transparent bg-clip-padding text-sm font-medium focus-visible:ring-3 active:translate-y-px inline-flex shrink-0 items-center justify-center whitespace-nowrap transition-all outline-none select-none cursor-pointer bg-primary text-primary-foreground size-8"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-4"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></svg>
+          <span class="sr-only">Chercher</span>
+        </button>
+      </div>
+      <div class="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
+        <div class="flex-1">
+          <label for="start-date" class="gap-2 text-sm leading-none font-medium flex items-center select-none">Date de début</label>
+          <input
+            id="start-date"
+            type="date"
+            min={minDate}
+            max={maxDate}
+            data-slot="input"
+            class="dark:bg-input/30 border-input focus-visible:border-ring focus-visible:ring-ring/50 h-8 rounded-lg border bg-transparent px-2.5 py-1 text-base transition-colors focus-visible:ring-3 md:text-sm placeholder:text-muted-foreground w-full min-w-0 outline-none"
+          />
+        </div>
+        <div class="flex-1">
+          <label for="end-date" class="gap-2 text-sm leading-none font-medium flex items-center select-none">Date de fin</label>
+          <input
+            id="end-date"
+            type="date"
+            min={minDate}
+            max={maxDate}
+            data-slot="input"
+            class="dark:bg-input/30 border-input focus-visible:border-ring focus-visible:ring-ring/50 h-8 rounded-lg border bg-transparent px-2.5 py-1 text-base transition-colors focus-visible:ring-3 md:text-sm placeholder:text-muted-foreground w-full min-w-0 outline-none"
+          />
+        </div>
+        <div class="flex-1">
+          <label for="tag-filter" class="gap-2 text-sm leading-none font-medium flex items-center select-none">Filtrer par tag</label>
+          <select
+            id="tag-filter"
+            data-slot="input"
+            class="dark:bg-input/30 border-input focus-visible:border-ring focus-visible:ring-ring/50 h-8 rounded-lg border bg-transparent px-2.5 py-1 text-base transition-colors focus-visible:ring-3 md:text-sm w-full min-w-0 outline-none appearance-none"
+          >
+            <option value="">Filtrer par tag</option>
+            <option value="all">Tous</option>
+            <option value="lite">Lite</option>
+            <option value="special">Special</option>
+          </select>
+        </div>
+      </div>
+    </form>
+  </search>
+</div>
+
+<div id="issues-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+  {issues.map((issue) => (
+    <div
+      class="issue-card"
+      data-title={issue.data.title.toLowerCase()}
+      data-date={issue.data.date.toISOString().split("T")[0]}
+      data-tags={issue.data.tags.join(",")}
+    >
+      <div
+        data-slot="card"
+        class="ring-foreground/10 bg-card text-card-foreground gap-4 overflow-hidden rounded-xl py-4 text-sm ring-1 has-data-[slot=card-footer]:pb-0 has-[>img:first-child]:pt-0 group/card flex flex-col"
+      >
+        <div data-slot="card-header" class="gap-1 rounded-t-xl px-4 grid auto-rows-min items-start">
+          <div data-slot="card-title" class="text-base leading-snug font-medium">{issue.data.title}</div>
+          <p data-slot="card-description" class="text-muted-foreground text-sm">
+            Publié le{" "}
+            <time datetime={issue.data.date.toISOString()}>
+              {issue.data.date.toLocaleDateString("fr-FR", {
+                year: "numeric",
+                month: "long",
+                day: "numeric",
+              })}
+            </time>
+            {issue.data.tags[0] && (
+              <span class="h-5 gap-1 rounded-4xl border border-transparent px-2 py-0.5 text-xs font-medium bg-secondary text-secondary-foreground inline-flex w-fit shrink-0 items-center justify-center overflow-hidden whitespace-nowrap ml-2">
+                {issue.data.tags[0].charAt(0).toUpperCase() + issue.data.tags[0].slice(1)}
+              </span>
+            )}
+          </p>
+        </div>
+        <div data-slot="card-content" class="px-4">
+          <img
+            src={issue.data.images[0]}
+            alt={`Couverture de ${issue.data.title}`}
+            class="w-full object-cover rounded-md mb-4"
+          />
+        </div>
+        <div data-slot="card-footer" class="bg-muted/50 rounded-b-xl border-t p-4 flex items-center">
+          <a
+            href={`/issues/${issue.id}`}
+            data-slot="button"
+            class="focus-visible:border-ring focus-visible:ring-ring/50 rounded-lg border bg-clip-padding text-sm font-medium focus-visible:ring-3 active:translate-y-px inline-flex shrink-0 items-center justify-center whitespace-nowrap transition-all outline-none select-none cursor-pointer border-border bg-background hover:bg-muted hover:text-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-8 gap-1.5 px-2.5"
+          >
+            Lire l'article
+          </a>
+        </div>
+      </div>
+    </div>
+  ))}
+</div>
+
+<p id="no-results" class="text-muted-foreground mt-8 hidden">Aucun article trouvé.</p>
+
+<script>
+  const searchInput = document.getElementById("search-input") as HTMLInputElement;
+  const startDateInput = document.getElementById("start-date") as HTMLInputElement;
+  const endDateInput = document.getElementById("end-date") as HTMLInputElement;
+  const tagFilter = document.getElementById("tag-filter") as HTMLSelectElement;
+  const cards = document.querySelectorAll<HTMLElement>(".issue-card");
+  const noResults = document.getElementById("no-results")!;
+  const form = document.getElementById("filter-form")!;
+
+  form.addEventListener("submit", (e) => e.preventDefault());
+
+  function filterCards() {
+    const query = searchInput.value.toLowerCase();
+    const startDate = startDateInput.value;
+    const endDate = endDateInput.value;
+    const tag = tagFilter.value;
+
+    let visibleCount = 0;
+
+    cards.forEach((card) => {
+      const title = card.dataset.title!;
+      const date = card.dataset.date!;
+      const tags = card.dataset.tags!;
+
+      const titleMatch = !query || title.includes(query);
+      const startMatch = !startDate || date >= startDate;
+      const endMatch = !endDate || date <= endDate;
+      const tagMatch = !tag || tag === "all" || tags.split(",").includes(tag);
+
+      const visible = titleMatch && startMatch && endMatch && tagMatch;
+      card.style.display = visible ? "" : "none";
+      if (visible) visibleCount++;
+    });
+
+    noResults.classList.toggle("hidden", visibleCount > 0);
+  }
+
+  searchInput.addEventListener("input", filterCards);
+  startDateInput.addEventListener("input", filterCards);
+  endDateInput.addEventListener("input", filterCards);
+  tagFilter.addEventListener("change", filterCards);
+</script>
