@@ -7,6 +7,9 @@ import { defineConfig } from "astro/config";
 // https://astro.build/config
 export default defineConfig({
   integrations: [svelte(), mdx()],
+  image: {
+    domains: ["i.redd.it", "preview.redd.it"],
+  },
   vite: {
     plugins: [tailwindcss()],
     resolve: {
