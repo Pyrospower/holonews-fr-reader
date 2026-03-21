@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from "astro:content";
+import { Image } from "astro:assets";
 
 interface Props {
   issues: CollectionEntry<"issues">[];
@@ -64,7 +65,7 @@ const maxDate = issues[0]?.data.date.toISOString().split("T")[0];
 </div>
 
 <div id="issues-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-  {issues.map((issue) => (
+  {issues.map((issue, index) => (
     <div
       class="issue-card"
       data-title={issue.data.title.toLowerCase()}
@@ -94,11 +95,30 @@ const maxDate = issues[0]?.data.date.toISOString().split("T")[0];
           </p>
         </div>
         <div data-slot="card-content" class="px-4">
-          <img
-            src={issue.data.images[0]}
-            alt={`Couverture de ${issue.data.title}`}
-            class="w-full object-cover rounded-md mb-4"
-          />
+          {(() => {
+            const cover = issue.data.images[0];
+            if (!cover) return null;
+            const alt = `Couverture de ${issue.data.title}`;
+            return cover.endsWith(".gif") ? (
+              <img
+                src={cover}
+                alt={alt}
+                class="w-full object-cover rounded-md mb-4"
+                loading={index < 3 ? "eager" : "lazy"}
+                decoding={index < 3 ? "sync" : "async"}
+              />
+            ) : (
+              <Image
+                src={cover}
+                alt={alt}
+                class="w-full object-cover rounded-md mb-4"
+                inferSize
+                loading={index < 3 ? "eager" : "lazy"}
+                decoding={index < 3 ? "sync" : "async"}
+                priority={index === 0}
+              />
+            );
+          })()}
         </div>
         <div data-slot="card-footer" class="bg-muted/50 rounded-b-xl border-t p-4 flex items-center">
           <a
