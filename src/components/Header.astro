@@ -3,6 +3,8 @@ const navItems = [
   { name: "Accueil", href: "/" },
   { name: "À propos", href: "/about" },
 ];
+
+const currentPath = Astro.url.pathname.replace(/\/+$/, "") || "/";
 ---
 
 <header
@@ -31,12 +33,78 @@ const navItems = [
       </svg>
       <span class="font-bold md:text-2xl">HoloNews FR Reader</span>
     </a>
-    <nav>
+
+    <nav aria-label="Principale" class="hidden md:block">
       <ul class="flex space-x-4">
         {
           navItems.map((item) => (
             <li>
-              <a href={item.href} class="hover:underline">
+              <a
+                href={item.href}
+                aria-current={item.href === currentPath ? "page" : undefined}
+                class="hover:underline aria-[current=page]:underline"
+              >
+                {item.name}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+
+    <button
+      type="button"
+      popovertarget="mobile-menu"
+      aria-controls="mobile-menu"
+      aria-haspopup="true"
+      aria-label="Menu principal"
+      class="menu-toggle -m-1.5 rounded-md p-1.5 hover:bg-primary-foreground/10 md:hidden"
+    >
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="24"
+        height="24"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        class="icon-open"
+        aria-hidden="true"
+      >
+        <path d="M4 6h16"></path>
+        <path d="M4 12h16"></path>
+        <path d="M4 18h16"></path>
+      </svg>
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="24"
+        height="24"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        class="icon-close"
+        aria-hidden="true"
+      >
+        <path d="M18 6 6 18"></path>
+        <path d="m6 6 12 12"></path>
+      </svg>
+    </button>
+
+    <nav id="mobile-menu" popover aria-label="Principale">
+      <ul class="flex flex-col">
+        {
+          navItems.map((item) => (
+            <li>
+              <a
+                href={item.href}
+                aria-current={item.href === currentPath ? "page" : undefined}
+                class="block rounded-md px-3 py-2 hover:bg-primary-foreground/10 aria-[current=page]:underline aria-[current=page]:underline-offset-4"
+              >
                 {item.name}
               </a>
             </li>
@@ -46,3 +114,54 @@ const navItems = [
     </nav>
   </div>
 </header>
+
+<style>
+  .menu-toggle .icon-close {
+    display: none;
+  }
+  header:has(#mobile-menu:popover-open) .icon-open {
+    display: none;
+  }
+  header:has(#mobile-menu:popover-open) .icon-close {
+    display: block;
+  }
+
+  #mobile-menu {
+    position: fixed;
+    inset: unset;
+    top: 5.5rem;
+    right: 1rem;
+    margin: 0;
+    min-width: 11rem;
+    padding: 0.375rem;
+    border: 1px solid hsl(var(--primary-foreground) / 0.15);
+    border-radius: 0.75rem;
+    background-color: hsl(var(--primary));
+    color: hsl(var(--primary-foreground));
+    box-shadow:
+      0 10px 15px -3px rgb(0 0 0 / 0.2),
+      0 4px 6px -4px rgb(0 0 0 / 0.2);
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    #mobile-menu {
+      opacity: 0;
+      transform: translateY(-0.375rem);
+      transition:
+        opacity 0.15s ease,
+        transform 0.15s ease,
+        display 0.15s allow-discrete,
+        overlay 0.15s allow-discrete;
+    }
+    #mobile-menu:popover-open {
+      opacity: 1;
+      transform: none;
+    }
+    @starting-style {
+      #mobile-menu:popover-open {
+        opacity: 0;
+        transform: translateY(-0.375rem);
+      }
+    }
+  }
+</style>
