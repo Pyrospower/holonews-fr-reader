@@ -62,7 +62,7 @@ Le projet inclut un script automatisé ([`fillContentCollection.ts`](src/scripts
 1. Accède au [subreddit d'HoloNews](https://reddit.com/r/HoloNews) avec Playwright
 2. Récupère les posts d'[HoloNews FR](https://www.reddit.com/r/HoloNews/new/?f=flair_name%3A"FR+Issue")
 3. Extrait le contenu et les métadonnées
-4. Génère automatiquement les fichiers MDX dans `src/content/issues/`
+4. Génère automatiquement les fichiers MDX dans `src/data/issues/`
 
 ## 🔎 Transcriptions (OCR)
 
