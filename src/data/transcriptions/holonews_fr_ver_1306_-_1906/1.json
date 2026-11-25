@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Korone est de retour °",
+      "bbox": {
+        "x": 0.0188,
+        "y": 0.0117,
+        "width": 0.2631,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "modèle 2.0",
+      "bbox": {
+        "x": 0.0194,
+        "y": 0.4918,
+        "width": 0.1744,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "heading",
+      "text": "#StarsFor",
+      "bbox": {
+        "x": 0.0181,
+        "y": 0.5417,
+        "width": 0.2706,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Silver Noel Ranch Dream",
+      "bbox": {
+        "x": 0.3519,
+        "y": 0.0117,
+        "width": 0.2956,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "STARS 3Rise",
+      "bbox": {
+        "x": 0.8175,
+        "y": 0.0117,
+        "width": 0.1575,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a célébré son anniversaire le 19 juin",
+      "bbox": {
+        "x": 0.7525,
+        "y": 0.2222,
+        "width": 0.2288,
+        "height": 0.0755
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Cover",
+      "bbox": {
+        "x": 0.7969,
+        "y": 0.3251,
+        "width": 0.185,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nouvelle directive pour les clips",
+      "bbox": {
+        "x": 0.7775,
+        "y": 0.3681,
+        "width": 0.2044,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vous voulez nous aider ? Rejoignez notre Discord !",
+      "bbox": {
+        "x": 0.5813,
+        "y": 0.9297,
+        "width": 0.2794,
+        "height": 0.0482
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4gafg71007891.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

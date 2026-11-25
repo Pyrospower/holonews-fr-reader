@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Ollie a surpris ses fans en dévoilant un tout nouveau modèle Live2D 2.0 ! Ce nouveau modèle a été fait par kefily, mais avec des ajustements ainsi que quelques ajouts.",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.4969,
+        "width": 0.5161,
+        "height": 0.0675
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le suivi de sa bouche a été amélioré, permettant à Ollie d'avoir un sourire plus ravissant.",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.5791,
+        "width": 0.5328,
+        "height": 0.0316
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/d18nbs2007891.gif",
+    "gifFrame": 77,
+    "confidence": 94
+  }
+}

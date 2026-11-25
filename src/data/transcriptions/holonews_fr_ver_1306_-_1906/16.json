@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le 16 juin, un autre record a été battu dans la communauté des VTubers, car Gura a atteint quatre millions d'abonnés sur YouTube, ce qui fait d'elle la première VTuber de l'histoire à franchir ce cap. Elle a célébré cet événement avec un stream karaoké non archivé. Un communiqué de presse est disponible sur r/Hololive et sur PR Times, tandis que A-chan a félicité notre requin préféré sur Twitter. Encore bravo, Gura !",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2214,
+        "width": 0.385,
+        "height": 0.1289
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir joué à l'original il y a quelque temps, IRyS a décidé de jouer The Stanley Parable : Ultra Deluxe. Elle s'est lancée dans de nombreuses mésaventures, notamment en tombant un peu trop fort sur le sol de l'entrepôt, en observant de minuscules détails dans tout le bureau, et en laissant les IRyStocrats voter entre « traité » et « manifeste » pour le Narrateur. Cependant, tout a changé lorsque le seau est descendu (tout comme IRyS elle-même), car elle est instantanément tombée amoureuse. Elle a peut-être été séduite par les variantes de fin du seau, car elle a joué pendant près de six heures d'affilée et a vu l'épilogue du jeu, ne s'arrêtant que lorsque le Narrateur a détruit son précieux seau.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.5265,
+        "width": 0.3906,
+        "height": 0.2148
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque Bae a demandé à Roberu un PNG de lui pour l'utiliser dans son programme, Roberu lui a envoyé un fichier ZIP de tous les PNG qu'il utilise pour ses vignettes.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.918,
+        "width": 0.3875,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 15 juin (JST), Calli a organisé un stream pour promouvoir les produits dérivés et révéler les invités de son concert solo, New Underworld Order. Elle a déballé le pack essentiel limité, qui comprend un T-shirt, une lampe en acrylique, une serviette avec une pochette en PVC et un set d'autocollants, le tout pour 10 500 ¥. Si vous avez commandé le pack au moment de la diffusion, il y a environ 90 % de chances que vous le receviez avant le concert ! Calli a également révélé trois nouveaux articles spéciaux : un ensemble de badges à boutons (1 200 yens), une tapisserie illustré par Yukisame-mama (3 000 yens) et un porte-clés à motifs (3 500 yens). Ces articles ne seront PAS prêts avant le concert.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.2214,
+        "width": 0.3856,
+        "height": 0.1884
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli a également annoncé une nouvelle chanson, Holy Shitto, qui sortira le 27 juin (JST). Ce n'est pas une faute de frappe, « shitto » est le mot japonais pour « jalousie ». Enfin, elle a révélé les quatre invités spéciaux pour son concert solo : Suisei, Watame, Gura, et TeddyLoid ! Calli n'a pas du tout fait allusion à une nouvelle chanson avec Watame, tandis que Gura aura des aménagements spéciaux pour pouvoir apparaître, et TeddyLoid apparaîtra d'une manière « complètement folle », mais nous ne savons pas encore comment. Le concert aura lieu le 21 juillet, et les billets sont disponibles sur SPWN !",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.4227,
+        "width": 0.3875,
+        "height": 0.1632
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AME EST DEVENUE UN ROCHER... ou, plus exactement, elle a joué à Rock Simulator, un jeu où l'on est un rocher. Quoi d'autre ? Elle a invité ses coéquipiers à devenir un rocher avec elle, en gagnant des niveaux au fil du temps et en débloquant de nouvelles tenues. Elle a également nié qu'elle buvait du thé, car ce n'est pas ce que font les rochers ! À un moment donné, elle a mis son modèle dans la silhouette du rocher et s'est alignée avec le rocher dans le jeu, en disant que c'était sa propre peau. Ame a terminé par un rap original parlant de son expérience d'être un rocher et celle du tchat.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.7726,
+        "width": 0.39,
+        "height": 0.1849
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8bwjx61007891.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

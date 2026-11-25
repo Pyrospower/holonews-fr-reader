@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "#1 +Welcome to DEMPA world+> A! K! |, B, A! AKIBA POP!!! AZki a publié une reprise de « SPACE! WAVE! AKIBA-POP!! » de MOSAIC.WAV avec Polka qui s'est joint à la fête. La chanson, comme le montrent les paroles, s'appuie sur les genres Denpa (musique japonaise volontairement étrange et entraînante) et electropop. Rimukoro, l'artiste de The Helpful Fox Senko-san, a été chargé des illustrations du clip.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2222,
+        "width": 0.3819,
+        "height": 0.135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei a commencé son stream vers 1,5 million d'abonnés à environ 530 abonnés de son objectif, et a réussi à atteindre le cap au moment même où elle a commencé à chanter sa chanson originale, « Starry Jet ». Lors des célébrations qui ont suivi, les Hoshiyomis ont eu droit à une rare tentative de Suisei de chanter « Fansa », à une courte interprétation de « The Disappearance of Hatsune",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.5438,
+        "width": 0.3831,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miku » trois octaves en dessous de la tonalité originale, et à trois autres chansons. Elle a terminé son stream en demandant en plaisantant aux Kagai Nikkis de lui donner cinquante milliards d'abonnements supplémentaires, tout en plaisantant avec son chat sur la perspective d'atteindre les deux millions d'abonnés.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.6649,
+        "width": 0.3813,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko a créé Koyori et Haachama dans WWE2K22 la semaine dernière. Elle a trouvé une entrée en scène très appropriée pour Haachama en se basant sur l'action de « The Demon » Finn Balor, qui implique que Haachama entre sur le ring en rampant comme une tarentule. Elle a fait ses débuts avec Koyori dans un match Extreme Rules à cinq entre Watame, Noel, Miko, Marine et Koyori. Après un match dramatique où elles se sont toutes battus avec des armes, Watame a réussi à remporter la victoire en épinglant Marine après que Miko et Watame se soient ligués contre Marine.",
+      "bbox": {
+        "x": 0.5337,
+        "y": 0.2218,
+        "width": 0.3888,
+        "height": 0.1879
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a fait ses débuts dans un match à trois, de type Table, Echelles et Chaises, entre Koyori, Miko et Haachama, où les IA ne parvenaient pas à comprendre comment utiliser la table, et où les trois se faisaient tirer par l'échelle à chaque fois qu'elles essayaient de débloquer le Money in the Bank. Finalement, Koyori a réussi à sécuriser la mallette pendant que Haachama et Miko étaient occupés à se battre entre eux.",
+      "bbox": {
+        "x": 0.5331,
+        "y": 0.4236,
+        "width": 0.3869,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "J'ai. fait cette tête (o! A1)! 1!",
+      "bbox": {
+        "x": 0.5463,
+        "y": 0.602,
+        "width": 0.1244,
+        "height": 0.0508
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/s8i86e1007891.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

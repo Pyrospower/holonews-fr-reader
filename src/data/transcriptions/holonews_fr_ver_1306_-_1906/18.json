@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Amazon",
+      "bbox": {
+        "x": 0.2656,
+        "y": 0.1576,
+        "width": 0.0888,
+        "height": 0.0082
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "amazon",
+      "bbox": {
+        "x": 0.0869,
+        "y": 0.1832,
+        "width": 0.0625,
+        "height": 0.0078
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merch by Amazon",
+      "bbox": {
+        "x": 0.1731,
+        "y": 0.1892,
+        "width": 0.2825,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des vêtements mettant en vedette les talents affiliés à hololive sont désormais en vente sur Merch by Amazon. Il s'agit d'un service d'impression à la demande. Amazon reçoit la commande, l'imprime et la livre au client. Ce service est disponible aux États-Unis, au Royaume-Uni, en Italie, en Espagne, en Allemagne et en France. ; - Pour l'instant, des T-shirts blancs avec des impressions de Sora, Roboco, Miko, Suisei, Aki,",
+      "bbox": {
+        "x": 0.075,
+        "y": 0.2318,
+        "width": 0.3819,
+        "height": 0.1424
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki, Mel, Matsuri et Haato sont disponibles.",
+      "bbox": {
+        "x": 0.0763,
+        "y": 0.375,
+        "width": 0.3713,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils prévoient d'ajouter d'autres talents.",
+      "bbox": {
+        "x": 0.0769,
+        "y": 0.388,
+        "width": 0.2975,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au cas où vous auriez manqué les annonces, les Blu-Ray du 1er concert de Watame, Watame Night Fever!! à Zepp Tokyo seront mis en vente le 29 juin, et ceux de Stellar Into The Galaxy de Suisei le 27 juillet. Les bonus de précommande sur Melonbooks sont un poster A3 et un article spécial selon le concert, pour Watame, un enregistrement vidéo inédit de Tsunomaki Janken, et pour Suisei, une tombola pour son autographe it ! EEE",
+      "bbox": {
+        "x": 0.5419,
+        "y": 0.2322,
+        "width": 0.3819,
+        "height": 0.158
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "NICHT ALONE",
+      "bbox": {
+        "x": 0.7781,
+        "y": 0.6606,
+        "width": 0.1088,
+        "height": 0.0113
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/urmq5h1007891.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 19,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0226,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/ 13 [Mel] Vampire: 1M [Kanata] Ghost Rule: 7M [Mel/Kanata/Calliope] Luvoratorrrrry: 750K",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.0699,
+        "width": 0.4388,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Rikka] Lilac: 75K [OKFAMS] Monster: 3M",
+      "bbox": {
+        "x": 0.2844,
+        "y": 0.1428,
+        "width": 0.2031,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Chloe] Fukurou-san: 500K",
+      "bbox": {
+        "x": 0.26,
+        "y": 0.1775,
+        "width": 0.2275,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[IRyS] See The World: 500K",
+      "bbox": {
+        "x": 0.2481,
+        "y": 0.1949,
+        "width": 0.2394,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[IRyS] Till the end of me: 500K",
+      "bbox": {
+        "x": 0.23,
+        "y": 0.2122,
+        "width": 0.2575,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Chloe] Chimera (Cover): 250K",
+      "bbox": {
+        "x": 0.2263,
+        "y": 0.2296,
+        "width": 0.2613,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kiara] Viva Happy (Live cover): 25K [Kanata] Tondemo Wonders (Live): 750K [AZKi/Polka] SPACE! WAVE! AKIBA-POP!! (Cover): 25K",
+      "bbox": {
+        "x": 0.14,
+        "y": 0.247,
+        "width": 0.3475,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kobo] Mantra Hujan: 3M",
+      "bbox": {
+        "x": 0.2756,
+        "y": 0.3164,
+        "width": 0.2106,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Marine] Shuukou: 3M",
+      "bbox": {
+        "x": 0.3013,
+        "y": 0.3338,
+        "width": 0.185,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06 / 17 [Aqua] Gyutto: 500K [Koyori] WAO!!: 100K [Polka] Chimera: 500K [Gura/Shion] Renai Circulation (Cover): 1M",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.3602,
+        "width": 0.4388,
+        "height": 0.0707
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Rikka] Vampire: 250K",
+      "bbox": {
+        "x": 0.2981,
+        "y": 0.4353,
+        "width": 0.1894,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sana] Astrogirl: 250K",
+      "bbox": {
+        "x": 0.3031,
+        "y": 0.4527,
+        "width": 0.1844,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Tricologe: 1M",
+      "bbox": {
+        "x": 0.305,
+        "y": 0.4701,
+        "width": 0.1813,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "(01674 19 [Kanata] Drain (Cover): 75K [Kanata] Tenshi No Agape: 750K [Okayu] Rinkai Diver (Cover): 25K [Watame] Kimi Iro Hanamizuki: 250K [Aqua/Mea] Naisho No Hanashi (Cover): 10K",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.4957,
+        "width": 0.4413,
+        "height": 0.0894
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lui/Okayu] Identity: 2M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.0755,
+        "width": 0.1975,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Astel/lzuru] Oni Kyokan: 250K [Watame] Kimi Dake No Melody: 750K [Rikka] Mizugiwa Endroll (Live): 25K [Okayu/Lamy] Betelguese: 750K [Akirose] Here (Live): 25K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.0929,
+        "width": 0.3263,
+        "height": 0.0825
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[IRyS] Palette: 750K 06/16 [Lui] Yoru Naderu Menou: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1897,
+        "width": 0.4363,
+        "height": 0.0356
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sora] Sekai Wa Mada Hajimatte Sura Inai: 75K [Akirose/Korone] There's Supposed to Be a Cheat Code for Happiness (Live): 75K",
+      "bbox": {
+        "x": 0.5131,
+        "y": 0.2296,
+        "width": 0.4244,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Intersection: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2817,
+        "width": 0.2094,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Fuma] Infection: 10K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3142,
+        "width": 0.18,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Aoi Yume: 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3316,
+        "width": 0.1944,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Shion] Yoidore Shirazu: 750K [Iroha/La+] Identity (Cover): 750K [Shion/Gura] Platinum Disco (Cover): 500K [Aruran/Astel] Houki Gumo: 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.349,
+        "width": 0.3631,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Polka] Empress (Cover): 75K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4184,
+        "width": 0.2519,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Yuurei Tokyo: 3M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4358,
+        "width": 0.215,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Shoujo Rei: 6M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4531,
+        "width": 0.1963,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE ORIGINALE NOUVEAU",
+      "bbox": {
+        "x": 0.5263,
+        "y": 0.5239,
+        "width": 0.4175,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "heading",
+      "text": "New Releases",
+      "bbox": {
+        "x": 0.3581,
+        "y": 0.6124,
+        "width": 0.2825,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "heading",
+      "text": "INFECTION",
+      "bbox": {
+        "x": 0.0406,
+        "y": 0.826,
+        "width": 0.1869,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gura & Shion",
+      "bbox": {
+        "x": 0.2731,
+        "y": 0.9054,
+        "width": 0.0844,
+        "height": 0.0078
+      }
+    },
+    {
+      "type": "heading",
+      "text": "DRAIN",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.9171,
+        "width": 0.1156,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "RENAI CIRCULATION",
+      "bbox": {
+        "x": 0.2719,
+        "y": 0.9184,
+        "width": 0.1319,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aqua-&Kagura Mea NAISHO NO HANASHI",
+      "bbox": {
+        "x": 0.5094,
+        "y": 0.7196,
+        "width": 0.1288,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.8125,
+        "width": 0.0325,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.7444,
+        "y": 0.7196,
+        "width": 0.0344,
+        "height": 0.0078
+      }
+    },
+    {
+      "type": "heading",
+      "text": "EMPRESS",
+      "bbox": {
+        "x": 0.7444,
+        "y": 0.7331,
+        "width": 0.1656,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion & Gura PLATINUM DISCO",
+      "bbox": {
+        "x": 0.5094,
+        "y": 0.9054,
+        "width": 0.1,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AZKi & Polka SPACE! WAVE! AKIBA-POP!!",
+      "bbox": {
+        "x": 0.7431,
+        "y": 0.9054,
+        "width": 0.1394,
+        "height": 0.0299
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/x7r5pk1007891.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pour le Lundi Productif de cette semaine, lofi a décidé qu'elle (et ses spectateurs) avait assez travaillé. A la place, elle a organisé un stream productif dormant depuis son lit. Il s'agissait d'une discussion libre qui ressemblait plus à l'ASMR qu'à un stream de discussion normal.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2227,
+        "width": 0.3894,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans une série de tweets, Kaela a décrit son combat pour tenter de ranimer PC-kun. Après avoir fait quelques ajustements à son pied de micro et à sa table, son écran a cessé de fonctionner. Après quelques heures d'essais, elle a finalement décidé de remplacer son PC. Le lendemain, l'astucieuse forgeronne a assemblé son nouveau PC en un rien de temps. Elle est revenue avec un stream Minecraft et les spectateurs ont eu droit une fois de plus à sa réponse « Get some help » à l'un de ses spectateurs dans le chat.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.4887,
+        "width": 0.3838,
+        "height": 0.161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kaela a joué à Dorfromantik, un jeu de réflexion sur la construction de villes, pendant qu'elle discutait avec les Pemalo tout au long du stream. Elle a expliqué qu'elle jouait rarement à des jeux de rôle, en particulier aux jeux de rôle « hardcore », parce que le « grinding » prend beaucoup de temps. Elle a également parlé de ses réflexions sur d'autres jeux, de son adhésion à plusieurs équipes sportives à l'école et de sa préférence pour le café noir plutôt que l'expresso. En ce qui concerne le gameplay, Kaela a terminé trois « sessions » (trois villes), la troisième étant dans le mode créatif du jeu, qui a des tuiles infinies.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.8264,
+        "width": 0.38,
+        "height": 0.1632
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a tweeté la photo d'une grenouille qu'elle avait trouvée dans la cuvette de ses toilettes. La zombie était très confuse quant à la façon dont la grenouille avait pu s'y retrouver. Zeta a trouvé la grenouille mignonne et a voulu la manger, même si Ollie lui a fait remarquer qu'elle était dans ses toilettes. Kaela s'est demandé ce que la grenouille aurait pensé si Ollie s'était assise sur les toilettes. D'autres ont commenté qu'Ollie avait maîtrisé le jutsu d'invocation, ou que le « j'suis une grenouille » de Kiara avait rendu visite au zombie. Finalement, elle a relâché la grenouille dans la nature.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.2214,
+        "width": 0.3894,
+        "height": 0.1554
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a fait une courte pause dans le streaming pour se soigner après s'être blessée en tombant dans les escaliers. Au moment de la publication de ce numéro, elle a déjà publié un programme indiquant qu'elle reprendra ses activités le 22 juin à 20h00 heure indonésienne.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.4753,
+        "width": 0.3794,
+        "height": 0.072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Apres avoir récupéré grace a sa pause, Moona a décidé de nous frapper avec une vague de collabs avec Reine. Par la suite, Reine a fait une démonstration sur Twitter en montrant la boîte à bento que Moona avait fabriquée pour elle, ce qui a fait de nombreux",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.7313,
+        "width": 0.3762,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "jaloux.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.8103,
+        "width": 0.0531,
+        "height": 0.0165
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/y13tq21007891.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

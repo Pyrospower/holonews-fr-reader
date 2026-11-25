@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 3,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Nouvelle ligne directrice de Cover pour les clips",
+      "bbox": {
+        "x": 0.1144,
+        "y": 0.1194,
+        "width": 0.4944,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "COVER Corp. a mis à jour ses directives sur les œuvres dérivées concernant le détournement des streams de talents et d'autres contenus. Consultez-les si vous êtes un clippeur ! Veuillez garder à l'esprit que ceci est un bref résumé et ne constitue en aucun cas une directive complète. Pour le descriptif complet des directives, consultez le site :",
+      "bbox": {
+        "x": 0.1113,
+        "y": 0.2014,
+        "width": 0.7781,
+        "height": 0.0742
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "https://en.hololive.tv/terms",
+      "bbox": {
+        "x": 0.1163,
+        "y": 0.2895,
+        "width": 0.2463,
+        "height": 0.0113
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Introduction",
+      "bbox": {
+        "x": 0.1281,
+        "y": 0.3194,
+        "width": 0.1713,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette mise à jour a été jugée nécessaire afin que les fans puissent avoir l'esprit tranquille et profiter du contenu des talents sous autant de formes différentes que possible.",
+      "bbox": {
+        "x": 0.1113,
+        "y": 0.3576,
+        "width": 0.7781,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Outre les directives générales toujours en vigueur, COVER demande aux clippeurs :",
+      "bbox": {
+        "x": 0.1113,
+        "y": 0.4032,
+        "width": 0.6919,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• D’indiquer la source originale et le titre du contenu dans la description du clip. (Si sur YouTube)",
+      "bbox": {
+        "x": 0.1531,
+        "y": 0.4384,
+        "width": 0.7075,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• De s'abstenir de poster des clips avant que le stream source ne se termine et que la VOD ne soit rendue publique",
+      "bbox": {
+        "x": 0.1531,
+        "y": 0.4844,
+        "width": 0.7081,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Comprendre que COVER peut lancer des procédures de retrait d'un clip en fonction de son contenu, de sa miniature et/ou d'autres facteurs.",
+      "bbox": {
+        "x": 0.1531,
+        "y": 0.5291,
+        "width": 0.7075,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Demandes de Cover:",
+      "bbox": {
+        "x": 0.1281,
+        "y": 0.5994,
+        "width": 0.2675,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le cas des propriétés intellectuelles de tiers, de droits d'auteur ou autres, les clippeurs doivent également suivre les directives et/ou les conditions d'utilisation du détenteur des droits.",
+      "bbox": {
+        "x": 0.1156,
+        "y": 0.6376,
+        "width": 0.7775,
+        "height": 0.0412
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le cas de contenu payant (c'est-à-dire les vidéos réservées aux membres, les séquences de concert, etc.), tout type d'utilisation du contenu est interdit, sauf autorisation expresse préalable.",
+      "bbox": {
+        "x": 0.1156,
+        "y": 0.6927,
+        "width": 0.7775,
+        "height": 0.0443
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "COVER Corp a également déclaré qu'elle n'interviendra pas dans la monétisation des programmes de partenaires ou de créateurs sur les sites de partage de vidéos, à condition qu'il n'y ait pas de violation des directives, des conditions d'utilisation, des droits de propriété intellectuelle ou des droits d'auteur.",
+      "bbox": {
+        "x": 0.1156,
+        "y": 0.747,
+        "width": 0.7763,
+        "height": 0.0595
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les clippeurs peuvent également enregistrer leurs chaînes auprès de COVER en utilisant un formulaire fourni. Ceci afin que COVER puisse établir une connexion directe et demander, par exemple, la suppression volontaire de clips problématiques sans passer par le processus fastidieux d'une demande de retrait.",
+      "bbox": {
+        "x": 0.1138,
+        "y": 0.8164,
+        "width": 0.7781,
+        "height": 0.0564
+      }
+    },
+    {
+      "type": "other",
+      "text": "production",
+      "bbox": {
+        "x": 0.4713,
+        "y": 0.9514,
+        "width": 0.0881,
+        "height": 0.0113
+      }
+    },
+    {
+      "type": "other",
+      "text": "COVER",
+      "bbox": {
+        "x": 0.1175,
+        "y": 0.9549,
+        "width": 0.0438,
+        "height": 0.0056
+      }
+    },
+    {
+      "type": "other",
+      "text": "holonews",
+      "bbox": {
+        "x": 0.835,
+        "y": 0.9553,
+        "width": 0.0506,
+        "height": 0.0056
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/afwo4y0007891.png",
+    "gifFrame": null,
+    "confidence": 95
+  }
+}

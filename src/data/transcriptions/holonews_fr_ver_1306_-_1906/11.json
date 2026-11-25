@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 11,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dans le cadre de son partenariat avec Nissin, Nene a annoncé que l'actrice Machico sera l'invitée spéciale de son prochain concert, Nene-iro NOODLE Live. Elle a révélé la maquette de l'affiche et du CD, a fait la promotion du prochain événement de Nissin avec les doubleuses de Yuru Camp et a présenté la variété de Cup Noodles actuellement disponibles. Elle a même goûté deux saveurs différentes en direct.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2222,
+        "width": 0.3769,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il y a un tirage au sort pour le poster original (dix gagnants) et des Cup Noodles (vingt gagnants). Pour gagner, vous devez les suivre et retweeter le message avec le hashtag #71 ‘y 7x— FJLŸHYT— (Japonais uniquement).",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.3702,
+        "width": 0.3881,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka apparaîtra en tant qu'invité spécial dans le 45ème épisode de Secret Show Room d'Kuroki Honoka. Vous pouvez envoyer des questions à Polka avec le lien trouvé dans les sources. La diffusion de l'émission est prévue le 30 juin.",
+      "bbox": {
+        "x": 0.0675,
+        "y": 0.5404,
+        "width": 0.3869,
+        "height": 0.0642
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 6",
+      "bbox": {
+        "x": 0.21,
+        "y": 0.6359,
+        "width": 0.1125,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant qu'elle jouait à Ojisan to Asobou, Lui s'est remémoré de la phrase « KENJA Time » (@ #37 L). « Kenja » fait généralement référence à un vieil homme sage, donc Lui a d'abord pensé que « KENJA » signifiait que quelqu'un devenait sage. À la demande insistante des Luitomos de vérifier par elle-même, Lui a été horrifiée de découvrir que « KENJA time » est en fait l'équivalent japonais de « post-n*t clarity ». Elle s'est immédiatement excusée d'avoir demandé à ses fans de l'expliquer.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.8411,
+        "width": 0.3956,
+        "height": 0.1424
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.6331,
+        "y": 0.0981,
+        "width": 0.0956,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La deuxième chronique de Botan pour Red Bull a été publiée sur leur site. Cette fois, elle a parlé de sa fascination pour les jeux d'horreur. Elle a remarqué que les gens créaient des clips de ses réactions particulières aux moments choquants, notamment sur TikTok. À la fin de l'article, Botan se cache dans une miniature du stream d'Inunaki Tunnel, le jeu auquel elle a joué pour le premier rendez-vous d'horreur de ShishiLamy. Son emplacement sur la miniature sera révélé dans le prochain blog.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.1411,
+        "width": 0.395,
+        "height": 0.1476
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron et Watame ont testé leur amitié avec le jeu de coopération Goonect. Elles ont relevé des défis en se tenant la main, ce qui a donné lieu à une manière de jouer chaotique, des cris et des rires. Le jeu a fini par leur attribuer le classement de « parfaits inconnus », ce qui les a amenés à se présenter de nouveau l'un à l'autre comme des amis de travail.",
+      "bbox": {
+        "x": 0.5344,
+        "y": 0.464,
+        "width": 0.3875,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après une pause d'un mois, Korone est revenue sous forme de boule de poils. Elle a expliqué que sa santé mentale était fragile, et qu'elle a donc pris du recul. Pendant cette pause, elle a évité les réseaux sociaux et internet en général, elle n'a même pas ouvert Discord. Elle a cependant dîné avec Botan, reçu des cadeaux de Mio et fait de la peinture. Son premier message sur Discord après la pause était destiné à Okayu, auquel elle a immédiatement répondu par « KORO-SAN !!! »,",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.839,
+        "width": 0.385,
+        "height": 0.1424
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/yapvr21007891.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}
