@@ -11,6 +11,9 @@
     "format:check": "prettier '**/*.{cjs,mjs,ts,md,mdx,json,astro}' --ignore-path ./.gitignore --ignore-unknown --check",
     "lint": "eslint . --report-unused-disable-directives",
     "lint:fix": "pnpm lint --fix",
+    "test": "bun test",
+    "ocr": "bun src/scripts/ocr/index.ts",
+    "ocr:status": "bun src/scripts/ocr/status.ts",
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro"
@@ -43,8 +46,10 @@
     "eslint": "^10.15.0",
     "eslint-plugin-astro": "^3.2.1",
     "eslint-plugin-jsx-a11y-x": "^0.2.0",
+    "github-slugger": "^2.0.0",
     "prettier": "^3.10.1",
     "prettier-plugin-astro": "^1.1.2",
-    "prettier-plugin-tailwindcss": "^0.8.1"
+    "prettier-plugin-tailwindcss": "^0.8.1",
+    "tesseract.js": "^7.0.0"
   }
 }
