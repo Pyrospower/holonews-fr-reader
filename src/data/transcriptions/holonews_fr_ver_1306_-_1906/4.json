@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_1306_-_1906",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Sakamata Chloe",
+      "bbox": {
+        "x": 0.0833,
+        "y": 0.267,
+        "width": 0.8389,
+        "height": 0.064
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 13 juin, notre chère orque maladroite Chloe a inauguré son modèle 3D ! Alors qu'elle nageait sur la scène de l'aquarium avec son masque, elle a reçu un jeton de poker pour s'être réveillée à temps pour le stream. Chloe a continué avec une vue d'ensemble du modèle après avoir stocké le jeton dans... euh... sa poitrine ? Elle nous a ensuite demandé d'écrire « <>< » dans le tchat (un émoticône poisson) pour qu'elle obtienne une récompense. En échange, elle a dit qu'elle retirerait son masque.",
+      "text": "Le 13 juin, notre chère orque maladroite Chloe a inauguré son modèle 3D ! Alors qu'elle nageait sur la scène de l'aquarium avec son masque, elle a reçu un jeton de poker pour s'être réveillée à temps pour le stream. Chloe a continué avec une vue d'ensemble du modèle après avoir stocké le jeton dans… euh... sa poitrine ? Elle nous a ensuite demandé d'écrire « <>< » dans le tchat (un émoticône poisson) pour qu'elle obtienne une récompense. En échange, elle a dit qu'elle retirerait son masque..",
       "bbox": {
         "x": 0.39,
         "y": 0.3773,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les messages du tchat ont fait apparaître des poissons sur la scène, à sa grande surprise. Malgré qu’elle ait refusé d'enlever son masque, une vidéo mystérieuse l’a hypnotisée pour qu'elle I'enléve quand même, en référence a son stream d'anniversaire. Chloe s'est ensuite mise au défi de faire divers exercices, notamment des sauts latéraux, des étirements du haut du corps et des abdominaux. En plein milieu de sa session d'exercices, elle a encore été hypnotisée et a cette fois-ci enlevé son manteau. Elle a ensuite fait rebondir une pastèque sur sa tête, puis a pris des poses mignonnes à la demande de ses fans.",
+      "text": "Les messages du tchat ont fait apparaître des poissons sur la scène, à sa grande surprise. Malgré qu’elle ait refusé d’enlever son masque, une vidéo mystérieuse l’a hypnotisée pour qu'elle l'enlève quand même, en référence à son stream d'anniversaire.. Chloe s'est ensuite mise au défi de faire divers exercices, notamment des sauts latéraux, des étirements du haut du corps et des abdominaux. En plein milieu de sa session d'exercices, elle a encore été hypnotisée et a cette fois-ci enlevé son manteau. Elle a ensuite fait rebondir une pastèque sur sa tête, puis a pris des poses mignonnes à la demande de ses fans.",
       "bbox": {
         "x": 0.3906,
         "y": 0.5424,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pendant tout ce temps, elle a été récompensée par encore plus de jetons de poker. Chloe nous a ensuite emmenés dans son propre casino, où elle a joué au Plus ou Moins, un jeu de cartes, avec sa manager à la table de poker. Lors d'un tour, sa manager a misé sur « plus », mais elle a changé sa mise en « moins » au dernier moment. Chloe a remarqué que le jeu était truqué, mais a quand même perdu, perdant tous ses jetons. Elle s'est défoulée sur un poisson assis à côté d'elle. Par la suite, Chloe nous a rappelé qu'il y avait des produits dérivés pour son anniversaire et les débuts de Koyori en 3D avant de nous faire partir en chantant « Deal with the Devil », « Umi no Yuurei » et « Anata ga Iru Koto de ».",
+      "text": "Pendant tout ce temps, elle a été récompensée par encore plus de jetons de poker. Chloe nous a ensuite emmenés dans son propre casino, où elle a joué au Plus ou Moins, un jeu de cartes, avec sa manager à la table de poker. Lors d’un tour, sa manager a misé sur « plus », mais elle a changé sa mise en « moins » au dernier moment. Chloe a remarqué que le jeu était truqué, mais a quand même perdu, perdant tous ses jetons. Elle s'est défoulée sur un poisson assis à côté d'elle. Par la suite, Chloe nous a rappelé qu’il y avait des produits dérivés pour son anniversaire et les débuts de Koyori en 3D avant de nous faire partir en chantant « Deal with the Devil », « Umi no Yuurei » et « Anata ga Iru Koto de ».",
       "bbox": {
         "x": 0.3894,
         "y": 0.7407,

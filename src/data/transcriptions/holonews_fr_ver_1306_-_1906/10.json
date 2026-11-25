@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_1306_-_1906",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Gen 3",
+      "bbox": {
+        "x": 0.4438,
+        "y": 0.0148,
+        "width": 0.1125,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.1762,
+        "width": 0.1088,
+        "height": 0.0252
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pekora a annoncé une compétition de construction sur Minecraft qui s'intitule Fly the Pekora! The Strongest TNT Cannon Champonship!! Ce défi consistait à construire un canon à TNT qui propulserait Pekora le plus loin possible. En plus de la distance, la présentation, la touche artistique, l'opinion des spectateurs ainsi que l'avis de Pekora seraient tous pris en compte. Avec l'annonce, Pekora a publié une courte vidéo pour promouvoir l'événement et a fourni un lien pour la page d'inscription. Faites le plein de matériaux et faites de votre mieux!",
+      "text": "Pekora a annoncé une compétition de construction sur Minecraft qui s’intitule Fly the Pekora! The Strongest TNT Cannon Champonship!! Ce défi consistait à construire un canon à TNT qui propulserait Pekora le plus loin possible. En plus de la distance, la présentation, la touche artistique, l’opinion des spectateurs ainsi que l’avis de Pekora seraient tous pris en compte. Avec l’annonce, Pekora a publié une courte vidéo pour promouvoir l’événement et a fourni un lien pour la page d’inscription. Faites le plein de matériaux et faites de votre mieux!",
       "bbox": {
         "x": 0.0712,
         "y": 0.2218,
@@ -16,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.5382,
+        "width": 0.1088,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "La figurine figma tant attendu de Pekora est prévue pour être sortie le 28 Juin. La figurine entièrement colorée est autour de 15cm et est disponible avec trois visages, sa mascotte Don-chan ainsi qu'un lance-carotte.",
+      "text": "La figurine figma tant attendu de Pekora est prévue pour être sortie le 28 Juin. La figurine entièrement colorée est autour de 15cm et est disponible avec trois visages, sa mascotte Don-chan ainsi qu’un lance-carotte.",
       "bbox": {
         "x": 0.0719,
         "y": 0.5803,
@@ -36,8 +66,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.8464,
+        "width": 0.1288,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 17 Juin, Watame a tweeté « joyeux anniversaire » avec un emoji dragon et un cœur orange car ce jour représente l'anniversaire d’une certaine dragonne orange.",
+      "text": "Le 17 Juin, Watame a tweeté « joyeux anniversaire » avec un emoji dragon et un cœur orange car ce jour représente l’anniversaire d’une certaine dragonne orange.",
       "bbox": {
         "x": 0.0719,
         "y": 0.8906,
@@ -47,17 +87,17 @@
     },
     {
       "type": "heading",
-      "text": "1) Rn Flare & [RyS",
+      "text": "Flare & IRyS",
       "bbox": {
-        "x": 0.64,
-        "y": 0.1359,
-        "width": 0.2,
-        "height": 0.0703
+        "x": 0.65,
+        "y": 0.1762,
+        "width": 0.1913,
+        "height": 0.0252
       }
     },
     {
       "type": "paragraph",
-      "text": "Flare a invité IRyS pour déjeuner ensemble dans la vraie vie. Après avoir entendu que IRyS aimait la viande, Flare a proposé qu'elles devraient partir manger du sukiyaki. Lorsqu'elles se sont rencontrées, Flare était très impressionné par la maitrise du japonais d’IRyS pendant leur rencontre. IRyS a également pu faire gouter du lait de soja à Flare après l'avoir suggéré.",
+      "text": "Flare a invité IRyS pour déjeuner ensemble dans la vraie vie. Après avoir entendu que IRyS aimait la viande, Flare a proposé qu’elles devraient partir manger du sukiyaki. Lorsqu'elles se sont rencontrées, Flare était très impressionné par la maitrise du japonais d’IRyS pendant leur rencontre. IRyS a également pu faire gouter du lait de soja à Flare après l’avoir suggéré.",
       "bbox": {
         "x": 0.5381,
         "y": 0.2218,
@@ -66,8 +106,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Noel",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.4731,
+        "width": 0.0725,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "En collaboration avec Noel, Ichigoya a fabriqué un shôchu au lait qui se nomme Silver Noel Ranch Dream. Le shochu est une boisson d'alcool distillée à partir de lait et de riz. Il en existe deux types : 16% et 25% d'alcool, les deux étant 750ml. Les deux bouteilles ont une illustration propre à elles, un coffret et un porte-clé assorti. C'est un produit de charité car une partie des bénéfices seront versés à des projets de reconstruction pour les zones touchés par une forte pluie en 2020. Il n’y a pas de plan de revendre ce produit et les ventes seront terminées dès le 19 Juillet avec une expédition estimée autour de fin août et septembre. Hololive on également fait la sortie de produits dérivés pour l’occasion de cette collaboration, avec un sous-verre en acrylique et une coupe de saké guinomi « homenomi ».",
+      "text": "En collaboration avec Noel, Ichigoya a fabriqué un shōchu au lait qui se nomme Silver Noel Ranch Dream. Le shōchu est une boisson d’alcool distillée à partir de lait et de riz. Il en existe deux types : 16% et 25% d’alcool, les deux étant 750ml. Les deux bouteilles ont une illustration propre à elles, un coffret et un porte-clé assorti. C’est un produit de charité car une partie des bénéfices seront versés à des projets de reconstruction pour les zones touchés par une forte pluie en 2020. Il n’y a pas de plan de revendre ce produit et les ventes seront terminées dès le 19 Juillet avec une expédition estimée autour de fin août et septembre. Hololive on également fait la sortie de produits dérivés pour l’occasion de cette collaboration, avec un sous-verre en acrylique et une coupe de saké guinomi « homenomi ».",
       "bbox": {
         "x": 0.5381,
         "y": 0.5208,

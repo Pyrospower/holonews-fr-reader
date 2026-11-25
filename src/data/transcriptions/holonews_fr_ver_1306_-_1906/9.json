@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_1306_-_1906",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 1",
+      "bbox": {
+        "x": 0.4463,
+        "y": 0.0148,
+        "width": 0.11,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama & Okayu",
+      "bbox": {
+        "x": 0.1813,
+        "y": 0.1762,
+        "width": 0.3038,
+        "height": 0.0252
+      }
+    },
     {
       "type": "paragraph",
       "text": "Okayu et Haachama ont récemment fait un stream boisson, dans lequel elles ont parlé de diverses choses, notamment de leurs travaux récents, de leurs réflexions sur leurs styles de VTubing respectifs et de leurs espoirs pour l'avenir. Ils ont plaisanté et se sont beaucoup taquinés tout au long du stream. Les sujets du voyage dans le temps, de leur vie et de leur famille ont également été abordés. Okayu a mentionné qu'elle aimerait retourner à l'époque où elle était au collège et voir ce qui est arrivé à ses harceleurs, tandis que Haachama voulait faire un futur tour du monde. Les deux filles ont partagé leur respect pour le travail de l'autre et se sont amusées pendant cette collaboration.",
@@ -13,6 +33,16 @@
         "y": 0.2222,
         "width": 0.3906,
         "height": 0.2148
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama & Zeta",
+      "bbox": {
+        "x": 0.1963,
+        "y": 0.612,
+        "width": 0.2725,
+        "height": 0.026
       }
     },
     {
@@ -46,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Haachama & Choco",
+      "bbox": {
+        "x": 0.6475,
+        "y": 0.1762,
+        "width": 0.3025,
+        "height": 0.0252
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Haachama et Choco ont organisé un concours de cuisine et ont rassemblé de nombreux plats délicieux proposés par leurs fans. Le concours s'est déroulé sans encombre avec de nombreuses propositions qui vous donneraient faim. Du moins, c'était le cas jusqu'à ce qu'ils révèlent I'« Okonomiyaki à la tarentule », qui a fait pousser à Choco un cri de terreur, et le « Frelon jaune frit », qui était le plat préféré d'Haachama.",
+      "text": "Haachama et Choco ont organisé un concours de cuisine et ont rassemblé de nombreux plats délicieux proposés par leurs fans. Le concours s'est déroulé sans encombre avec de nombreuses propositions qui vous donneraient faim. Du moins, c'était le cas jusqu'à ce qu'ils révèlent l'« Okonomiyaki à la tarentule », qui a fait pousser à Choco un cri de terreur, et le « Frelon jaune frit », qui était le plat préféré d'Haachama.",
       "bbox": {
         "x": 0.5381,
         "y": 0.2209,
@@ -67,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Enfin, ils ont promis de faire une vraie i émission de cuisine ensemble a l'avenir.",
+      "text": "Enfin, ils ont promis de faire une vraie émission de cuisine ensemble à l'avenir.",
       "bbox": {
         "x": 0.5387,
         "y": 0.4475,
@@ -77,12 +117,22 @@
     },
     {
       "type": "heading",
-      "text": "Gen 2 7",
+      "text": "Gen 2",
       "bbox": {
-        "x": 0.6556,
-        "y": 0.4983,
-        "width": 0.1313,
-        "height": 0.0616
+        "x": 0.6775,
+        "y": 0.4948,
+        "width": 0.11,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.6554,
+        "width": 0.115,
+        "height": 0.026
       }
     },
     {

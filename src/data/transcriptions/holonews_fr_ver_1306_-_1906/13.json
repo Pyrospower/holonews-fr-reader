@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1306_-_1906",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0174,
         "width": 0.26,
         "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu & Bae",
+      "bbox": {
+        "x": 0.1875,
+        "y": 0.178,
+        "width": 0.2094,
+        "height": 0.0217
       }
     },
     {
@@ -26,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel & Izuru",
+      "bbox": {
+        "x": 0.1906,
+        "y": 0.4158,
+        "width": 0.2,
+        "height": 0.0239
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Astel et lzuru ont pu augmenter leur rang, respectivement de Platine 3 à Platine 2 et de Platine 4 à Platine 3. Avec le nouveau système mis en place sur Apex, ils ont tous les deux partagé, lors de leurs streams solo, que jouer seul n'est pas conseillé et que leurs deux parcours se sont mal terminés. Astel a mentionné que chaque match était aléatoire car il est très rare de trouver un bon coéquipier. De plus, Fuma, qui a finalement atteint le rang Platine, a rejoint le duo dans la dernière partie.",
+      "text": "Astel et Izuru ont pu augmenter leur rang, respectivement de Platine 3 à Platine 2 et de Platine 4 à Platine 3. Avec le nouveau système mis en place sur Apex, ils ont tous les deux partagé, lors de leurs streams solo, que jouer seul n'est pas conseillé et que leurs deux parcours se sont mal terminés. Astel a mentionné que chaque match était aléatoire car il est très rare de trouver un bon coéquipier. De plus, Fuma, qui a finalement atteint le rang Platine, a rejoint le duo dans la dernière partie.",
       "bbox": {
         "x": 0.0694,
         "y": 0.4605,
@@ -47,12 +67,22 @@
     },
     {
       "type": "paragraph",
-      "text": "La chaîne officielle HOLOSTARS a mis en ligne une vidéo de compilation des streams des membres d'UPROARI!! La chaîne officielle a réussi à montrer que Fuma, Uyu, Gamma et Rio sont incroyables et très intéressants. Elle comprend leurs let's plau sur Apex, PAYDAY 2, KUUKIYOMI : Consider It, Unpacking, etc. Ils ont également inclus des sous-titres en anglais pour aider les fans internationaux.",
+      "text": "La chaîne officielle HOLOSTARS a mis en ligne une vidéo de compilation des streams des membres d'UPROAR!! La chaîne officielle a réussi à montrer que Fuma, Uyu, Gamma et Rio sont incroyables et très intéressants. Elle comprend leurs let's plau sur Apex, PAYDAY 2, KUUKIYOMI : Consider It, Unpacking, etc. Ils ont également inclus des sous-titres en anglais pour aider les fans internationaux.",
       "bbox": {
         "x": 0.07,
         "y": 0.7257,
         "width": 0.385,
         "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.6388,
+        "y": 0.178,
+        "width": 0.1219,
+        "height": 0.0217
       }
     },
     {
@@ -66,8 +96,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.6388,
+        "y": 0.5352,
+        "width": 0.1219,
+        "height": 0.0217
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Gamma a terminé un autre dessin pour l'un de ses aînés. L'aîné choisi cette fois-ci est le chef de la mafia, Kageyama Shien. Il a terminé son dessin en 2 streams. Il a ensuite posté lillustration complète sur Twitter.",
+      "text": "Gamma a terminé un autre dessin pour l'un de ses aînés. L'aîné choisi cette fois-ci est le chef de la mafia, Kageyama Shien. Il a terminé son dessin en 2 streams. Il a ensuite posté l'illustration complète sur Twitter.",
       "bbox": {
         "x": 0.5375,
         "y": 0.5777,
@@ -87,7 +127,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Utsugi Uyu de UPROAR! a prouvé qu'il mérite d'étre appelé un monstre du streaming. Les 17 et 18 juin, Uyu a fait cing streams différents l'un après l'autre, en jouant a 5 jeux différents, pour un total de 14 heures de stream. Il a commencé par Persona 4 Golden, puis l'm on Observation Duty, Dead by Daylight, Sanrio Miracle Match, et a terminé avec du Apex. Il c'est également lancé un défi sur Apex dans lequel il ne pouvait dormir que s'il parvenait a tuer un joueur dans un match classé, ce qui était en fait un mensonge, puisqu'il n'a pas dormi même après avoir tué le joueur, et qu'il a mis fin au stream après avoir joué pendant presque 4 heures.",
+      "text": "Utsugi Uyu de UPROAR!! a prouvé qu'il mérite d'être appelé un monstre du streaming. Les 17 et 18 juin, Uyu a fait cinq streams différents l'un après l'autre, en jouant à 5 jeux différents, pour un total de 14 heures de stream. Il a commencé par Persona 4 Golden, puis I'm on Observation Duty, Dead by Daylight, Sanrio Miracle Match, et a terminé avec du Apex. Il c'est également lancé un défi sur Apex dans lequel il ne pouvait dormir que s'il parvenait à tuer un joueur dans un match classé, ce qui était en fait un mensonge, puisqu'il n'a pas dormi même après avoir tué le joueur, et qu'il a mis fin au stream après avoir joué pendant presque 4 heures.",
       "bbox": {
         "x": 0.5387,
         "y": 0.7509,

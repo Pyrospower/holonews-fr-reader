@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1306_-_1906",
   "page": 20,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -27,37 +27,17 @@
     },
     {
       "type": "paragraph",
-      "text": "& Gura 4M a Rikka 210K",
+      "text": "Gura 4M\nSuisei 1,5M\nRikka 210K\nMoona 1,1M\nKobo 800K\nMatsuri 1,25M",
       "bbox": {
-        "x": 0.5131,
+        "x": 0.5094,
         "y": 0.115,
-        "width": 0.1831,
-        "height": 0.1089
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "& Moona 1,1M",
-      "bbox": {
-        "x": 0.7663,
-        "y": 0.1762,
-        "width": 0.1863,
-        "height": 0.049
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Matsuri 1,25M",
-      "bbox": {
-        "x": 0.8406,
-        "y": 0.2604,
-        "width": 0.1163,
-        "height": 0.0117
+        "width": 0.45,
+        "height": 0.1758
       }
     },
     {
       "type": "heading",
-      "text": "Evénements a venir",
+      "text": "Événements à venir",
       "bbox": {
         "x": 0.54,
         "y": 0.3082,
@@ -67,17 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Suisei 1,5M",
-      "bbox": {
-        "x": 0.8544,
-        "y": 0.1367,
-        "width": 0.0963,
-        "height": 0.0117
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 22 juin : 3e anniversaire des débuts d'lzuru",
+      "text": "• 22 juin : 3e anniversaire des débuts d'Izuru",
       "bbox": {
         "x": 0.5613,
         "y": 0.3711,
@@ -97,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "• 26 juin : HOLOSTARS 3RISE SUPER FAN MEETING ~ FLAGSHIP",
+      "text": "• 26 juin : HOLOSTARS 3RISE SUPER FAN MEETING 〜 FLAGSHIP",
       "bbox": {
         "x": 0.5613,
         "y": 0.4514,
@@ -107,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte a hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur, @ Discord pour participer et donner un coup æ de main à la création d’HoloNews !",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
         "x": 0.0463,
         "y": 0.691,

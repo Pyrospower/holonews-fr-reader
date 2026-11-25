@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1306_-_1906",
   "page": 17,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,7 +17,7 @@
     },
     {
       "type": "heading",
-      "text": "j Rest In Peace, Lilly",
+      "text": "Rest In Peace, Lilly",
       "bbox": {
         "x": 0.3856,
         "y": 0.0799,
@@ -57,7 +57,7 @@
     },
     {
       "type": "heading",
-      "text": "# Summer Voyage!!",
+      "text": "Summer Voyage!!",
       "bbox": {
         "x": 0.1356,
         "y": 0.5321,
@@ -76,6 +76,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "VARK",
+      "bbox": {
+        "x": 0.1762,
+        "y": 0.7535,
+        "width": 0.0925,
+        "height": 0.0217
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Le concert VR, hololive Virtual LIVE series in VARK « Cinderella Switch » est de retour. Les billets pour le premier concert, avec Shishiron et Watame le 30 juillet, sont en vente. Le prochain concert aura lieu le 27 août avec Matsuri et Fubuki.",
       "bbox": {
@@ -87,22 +97,22 @@
     },
     {
       "type": "heading",
-      "text": "SCHOOL OF LOCK!",
+      "text": "ichibanKUJI",
       "bbox": {
-        "x": 0.1025,
-        "y": 0.9158,
-        "width": 0.3794,
-        "height": 0.0373
+        "x": 0.6425,
+        "y": 0.5417,
+        "width": 0.1938,
+        "height": 0.0217
       }
     },
     {
       "type": "paragraph",
-      "text": "chibanKUJI La collaboration hololive x ichibanKUJI (BANDAI SPIRITS) est disponible ! Les talents participants sont Aqua, Korone, Pekora, Noel, et Marine. Le coût d'un ticket de tombola est de 700 yens. La tombola offre une chance de gagner un tas de goodies différents, y compris des tapisseries A2, des mini figurines, des tableaux en toile et des porte-clés.",
+      "text": "La collaboration hololive x ichibanKUJI (BANDAI SPIRITS) est disponible ! Les talents participants sont Aqua, Korone, Pekora, Noel, et Marine. Le coût d'un ticket de tombola est de 700 yens. La tombola offre une chance de gagner un tas de goodies différents, y compris des tapisseries A2, des mini figurines, des tableaux en toile et des porte-clés.",
       "bbox": {
         "x": 0.5425,
-        "y": 0.543,
+        "y": 0.5872,
         "width": 0.3875,
-        "height": 0.151
+        "height": 0.1055
       }
     },
     {
@@ -123,6 +133,16 @@
         "y": 0.786,
         "width": 0.3875,
         "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "SCHOOL OF LOCK!",
+      "bbox": {
+        "x": 0.1025,
+        "y": 0.9158,
+        "width": 0.3794,
+        "height": 0.0373
       }
     },
     {

@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1306_-_1906",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -36,8 +36,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "• Introduction",
+      "type": "heading",
+      "text": "Introduction",
       "bbox": {
         "x": 0.1281,
         "y": 0.3194,
@@ -96,8 +96,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "• Demandes de Cover:",
+      "type": "heading",
+      "text": "Demandes de Cover :",
       "bbox": {
         "x": 0.1281,
         "y": 0.5994,
@@ -143,36 +143,6 @@
         "y": 0.8164,
         "width": 0.7781,
         "height": 0.0564
-      }
-    },
-    {
-      "type": "other",
-      "text": "production",
-      "bbox": {
-        "x": 0.4713,
-        "y": 0.9514,
-        "width": 0.0881,
-        "height": 0.0113
-      }
-    },
-    {
-      "type": "other",
-      "text": "COVER",
-      "bbox": {
-        "x": 0.1175,
-        "y": 0.9549,
-        "width": 0.0438,
-        "height": 0.0056
-      }
-    },
-    {
-      "type": "other",
-      "text": "holonews",
-      "bbox": {
-        "x": 0.835,
-        "y": 0.9553,
-        "width": 0.0506,
-        "height": 0.0056
       }
     }
   ],

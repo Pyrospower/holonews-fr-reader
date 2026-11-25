@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_1306_-_1906",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.4719,
+        "y": 0.0152,
+        "width": 0.0575,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gura",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.178,
+        "width": 0.08,
+        "height": 0.0217
+      }
+    },
     {
       "type": "paragraph",
       "text": "Le 16 juin, un autre record a été battu dans la communauté des VTubers, car Gura a atteint quatre millions d'abonnés sur YouTube, ce qui fait d'elle la première VTuber de l'histoire à franchir ce cap. Elle a célébré cet événement avec un stream karaoké non archivé. Un communiqué de presse est disponible sur r/Hololive et sur PR Times, tandis que A-chan a félicité notre requin préféré sur Twitter. Encore bravo, Gura !",
@@ -13,6 +33,16 @@
         "y": 0.2214,
         "width": 0.385,
         "height": 0.1289
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.4852,
+        "width": 0.0725,
+        "height": 0.0217
       }
     },
     {
@@ -26,6 +56,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Baelz",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.8728,
+        "width": 0.0838,
+        "height": 0.0217
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Lorsque Bae a demandé à Roberu un PNG de lui pour l'utiliser dans son programme, Roberu lui a envoyé un fichier ZIP de tous les PNG qu'il utilise pour ses vignettes.",
       "bbox": {
@@ -33,6 +73,16 @@
         "y": 0.918,
         "width": 0.3875,
         "height": 0.0534
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.6375,
+        "y": 0.178,
+        "width": 0.0725,
+        "height": 0.0217
       }
     },
     {
@@ -53,6 +103,16 @@
         "y": 0.4227,
         "width": 0.3875,
         "height": 0.1632
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ame",
+      "bbox": {
+        "x": 0.6362,
+        "y": 0.7296,
+        "width": 0.07,
+        "height": 0.0217
       }
     },
     {

@@ -3,66 +3,16 @@
   "issueId": "holonews_fr_ver_1306_-_1906",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Watame s'est jointe à elle pour un duo sur « Rettou Joutou », vient au tour de Kanata sur « Oni KYOKAN » avec sa performance flamboyante où elle criait les notes les plus aiguës. Une performance solo de « Over the Rainbow » a été suivie d'un duo sur « PUPPY LOVE !! » avec Pekora. Au tour de Ayame de chanter « Kakawari » avec Flare. Lamy était le suivant, changeant la scène en bord de route pour chanter ensemble « Itsumo Kono Basho de ».",
+      "type": "heading",
+      "text": "Shiranui Flare",
       "bbox": {
-        "x": 0.0656,
-        "y": 0.4402,
-        "width": 0.4106,
-        "height": 0.1755
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Les produits commémoratifs sont les suivants :",
-      "bbox": {
-        "x": 0.0661,
-        "y": 0.7894,
-        "width": 0.3506,
-        "height": 0.027
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Une lampe de bureau LED en acrylique Une peluche Elfriend",
-      "bbox": {
-        "x": 0.1033,
-        "y": 0.8387,
-        "width": 0.3761,
-        "height": 0.0297
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Une pochette multi-usage",
-      "bbox": {
-        "x": 0.1033,
-        "y": 0.8715,
-        "width": 0.2439,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Un bracelet",
-      "bbox": {
-        "x": 0.1033,
-        "y": 0.8877,
-        "width": 0.1089,
-        "height": 0.0112
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Un bonus pour le set complet : Carte postale avec un autographe tamponné et un message de Shiranui Flare. (Dessin par lack)",
-      "bbox": {
-        "x": 0.0661,
-        "y": 0.9209,
-        "width": 0.4306,
-        "height": 0.0463
+        "x": 0.0667,
+        "y": 0.172,
+        "width": 0.8611,
+        "height": 0.0733
       }
     },
     {
@@ -87,6 +37,16 @@
     },
     {
       "type": "paragraph",
+      "text": "Watame s'est jointe à elle pour un duo sur « Rettou Joutou », vient au tour de Kanata sur « Oni KYOKAN » avec sa performance flamboyante où elle criait les notes les plus aiguës. Une performance solo de « Over the Rainbow » a été suivie d'un duo sur « PUPPY LOVE !! » avec Pekora. Au tour de Ayame de chanter « Kakawari » avec Flare. Lamy était le suivant, changeant la scène en bord de route pour chanter ensemble « Itsumo Kono Basho de ».",
+      "bbox": {
+        "x": 0.0656,
+        "y": 0.4402,
+        "width": 0.4106,
+        "height": 0.1755
+      }
+    },
+    {
+      "type": "paragraph",
       "text": "Le dernier duo a été ave Suisei, l'étoile filante incandescente, elles ont interprété « How-To Sekai Seifuku ».",
       "bbox": {
         "x": 0.5183,
@@ -103,6 +63,36 @@
         "y": 0.6632,
         "width": 0.4106,
         "height": 0.1127
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les produits commémoratifs sont les suivants :",
+      "bbox": {
+        "x": 0.0661,
+        "y": 0.7894,
+        "width": 0.3506,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une lampe de bureau LED en acrylique\n• Une peluche Elfriend\n• Une pochette multi-usage\n• Un bracelet",
+      "bbox": {
+        "x": 0.1033,
+        "y": 0.8387,
+        "width": 0.3761,
+        "height": 0.0602
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un bonus pour le set complet : Carte postale avec un autographe tamponné et un message de Shiranui Flare. (Dessin par lack)",
+      "bbox": {
+        "x": 0.0661,
+        "y": 0.9209,
+        "width": 0.4306,
+        "height": 0.0463
       }
     }
   ],

@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_1306_-_1906",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 5",
+      "bbox": {
+        "x": 0.4375,
+        "y": 0.0152,
+        "width": 0.1187,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.178,
+        "width": 0.0813,
+        "height": 0.0217
+      }
+    },
     {
       "type": "paragraph",
       "text": "Dans le cadre de son partenariat avec Nissin, Nene a annoncé que l'actrice Machico sera l'invitée spéciale de son prochain concert, Nene-iro NOODLE Live. Elle a révélé la maquette de l'affiche et du CD, a fait la promotion du prochain événement de Nissin avec les doubleuses de Yuru Camp et a présenté la variété de Cup Noodles actuellement disponibles. Elle a même goûté deux saveurs différentes en direct.",
@@ -17,12 +37,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Il y a un tirage au sort pour le poster original (dix gagnants) et des Cup Noodles (vingt gagnants). Pour gagner, vous devez les suivre et retweeter le message avec le hashtag #71 ‘y 7x— FJLŸHYT— (Japonais uniquement).",
+      "text": "Il y a un tirage au sort pour le poster original (dix gagnants) et des Cup Noodles (vingt gagnants). Pour gagner, vous devez les suivre et retweeter le message avec le hashtag #カップヌードルサンデー (Japonais uniquement).",
       "bbox": {
         "x": 0.0719,
         "y": 0.3702,
         "width": 0.3881,
         "height": 0.0668
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.1656,
+        "y": 0.4961,
+        "width": 0.0875,
+        "height": 0.0217
       }
     },
     {
@@ -33,26 +63,6 @@
         "y": 0.5404,
         "width": 0.3869,
         "height": 0.0642
-      }
-    },
-    {
-      "type": "heading",
-      "text": "Gen 6",
-      "bbox": {
-        "x": 0.21,
-        "y": 0.6359,
-        "width": 0.1125,
-        "height": 0.0208
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Pendant qu'elle jouait à Ojisan to Asobou, Lui s'est remémoré de la phrase « KENJA Time » (@ #37 L). « Kenja » fait généralement référence à un vieil homme sage, donc Lui a d'abord pensé que « KENJA » signifiait que quelqu'un devenait sage. À la demande insistante des Luitomos de vérifier par elle-même, Lui a été horrifiée de découvrir que « KENJA time » est en fait l'équivalent japonais de « post-n*t clarity ». Elle s'est immédiatement excusée d'avoir demandé à ses fans de l'expliquer.",
-      "bbox": {
-        "x": 0.0706,
-        "y": 0.8411,
-        "width": 0.3956,
-        "height": 0.1424
       }
     },
     {
@@ -76,6 +86,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Botan & Watame",
+      "bbox": {
+        "x": 0.6469,
+        "y": 0.4201,
+        "width": 0.2562,
+        "height": 0.0217
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Shishiron et Watame ont testé leur amitié avec le jeu de coopération Goonect. Elles ont relevé des défis en se tenant la main, ce qui a donné lieu à une manière de jouer chaotique, des cris et des rires. Le jeu a fini par leur attribuer le classement de « parfaits inconnus », ce qui les a amenés à se présenter de nouveau l'un à l'autre comme des amis de travail.",
       "bbox": {
@@ -86,8 +106,58 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gen 6",
+      "bbox": {
+        "x": 0.21,
+        "y": 0.6359,
+        "width": 0.1125,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lui",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.7969,
+        "width": 0.05,
+        "height": 0.0217
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après une pause d'un mois, Korone est revenue sous forme de boule de poils. Elle a expliqué que sa santé mentale était fragile, et qu'elle a donc pris du recul. Pendant cette pause, elle a évité les réseaux sociaux et internet en général, elle n'a même pas ouvert Discord. Elle a cependant dîné avec Botan, reçu des cadeaux de Mio et fait de la peinture. Son premier message sur Discord après la pause était destiné à Okayu, auquel elle a immédiatement répondu par « KORO-SAN !!! »,",
+      "text": "Pendant qu’elle jouait à Ojisan to Asobou, Lui s’est remémoré de la phrase « KENJA Time » (賢者タイム). « Kenja » fait généralement référence à un vieil homme sage, donc Lui a d'abord pensé que « KENJA » signifiait que quelqu'un devenait sage. À la demande insistante des Luitomos de vérifier par elle-même, Lui a été horrifiée de découvrir que « KENJA time » est en fait l'équivalent japonais de « post-n*t clarity ». Elle s'est immédiatement excusée d'avoir demandé à ses fans de l'expliquer.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.8411,
+        "width": 0.3956,
+        "height": 0.1424
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamers",
+      "bbox": {
+        "x": 0.675,
+        "y": 0.635,
+        "width": 0.1531,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Korone",
+      "bbox": {
+        "x": 0.6362,
+        "y": 0.7969,
+        "width": 0.115,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après une pause d'un mois, Korone est revenue sous forme de boule de poils. Elle a expliqué que sa santé mentale était fragile, et qu'elle a donc pris du recul. Pendant cette pause, elle a évité les réseaux sociaux et internet en général, elle n'a même pas ouvert Discord. Elle a cependant dîné avec Botan, reçu des cadeaux de Mio et fait de la peinture. Son premier message sur Discord après la pause était destiné à Okayu, auquel elle a immédiatement répondu par « KORO-SAN !!! ».",
       "bbox": {
         "x": 0.5375,
         "y": 0.839,

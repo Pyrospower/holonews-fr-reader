@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_1306_-_1906",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Hakui Koyori",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.2894,
+        "width": 0.8278,
+        "height": 0.0656
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 16 juin, Koyori est la 3e membre d'holoX a avoir révélé son modèle 3D. Elle a commencé par danser dans son laboratoire et s'est mise à chanter « Luma » par Kairiki Bear. Pleine d'enthousiasme, elle avait bu une gorgée de sa bouteille de mayonnaise préférée et a ensuite montré sa mascotte, Kokoro, dans sa poche. La machine en arrière-plan du stream sont nommés Koyorobo et est apparemment faite à partir de l'énergie des Super Chats.",
+      "text": "Le 16 juin, Koyori est la 3e membre d’holoX à avoir révélé son modèle 3D. Elle a commencé par danser dans son laboratoire et s’est mise à chanter « Luma » par Kairiki Bear. Pleine d’enthousiasme, elle avait bu une gorgée de sa bouteille de mayonnaise préférée et a ensuite montré sa mascotte, Kokoro, dans sa poche. La machine en arrière-plan du stream sont nommés Koyorobo et est apparemment faite à partir de l’énergie des Super Chats.",
       "bbox": {
         "x": 0.4283,
         "y": 0.4012,
@@ -17,27 +27,17 @@
     },
     {
       "type": "paragraph",
-      "text": "Des invitées sont apparus peu après, en commençant par le reste d'holoX qui ont chacun leur tour suggéré des poses. Ce qui a montré les capacités du nouveau modèle de Koyori notamment ses expressions du visage. Kanata et Flare étaient les prochaines à arriver, et à travers plusieurs poses clichés, Koyori a montré ses lunettes ainsi que plus d'expressions. C'était ensuite le tour de Marine, Noel et Miko qui comme Lbs ont demandé a Koyori d'enlever sa blouse de",
+      "text": "Des invitées sont apparus peu après, en commençant par le reste d’holoX qui ont chacun leur tour suggéré des poses. Ce qui a montré les capacités du nouveau modèle de Koyori notamment ses expressions du visage. Kanata et Flare étaient les prochaines à arriver, et à travers plusieurs poses clichés, Koyori a montré ses lunettes ainsi que plus d’expressions. C’était ensuite le tour de Marine, Noel et Miko qui comme prévu ont demandé à Koyori d’enlever sa blouse de laboratoire pendant qu’elles exploraient chaque moindre détail du modèle en sa gloire 3D.",
       "bbox": {
         "x": 0.4278,
         "y": 0.5648,
         "width": 0.5283,
-        "height": 0.1362
+        "height": 0.1532
       }
     },
     {
       "type": "paragraph",
-      "text": "boratoire pendant qu'elles exploraient chaque moindre détail du modèle en sa gloire 3D.",
-      "bbox": {
-        "x": 0.4289,
-        "y": 0.6898,
-        "width": 0.4528,
-        "height": 0.0282
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Koyori s'est plus tard mise à chanter « Hokori Takai no Idol » et « Ichiban no Takaramono ». Elle a mentionné une chanson qu'elle avait toujours voulu chanter mais elle devait d’abord faire plusieurs défis d'idole et en réussir en moins un. Elle a tout raté sauf le dernier défi où elle devait trouver la potion qui la rendrait humaine, la permettant d'enfin pouvoir chanter « Shiny Smily Story ».",
+      "text": "Koyori s’est plus tard mise à chanter « Hokori Takai no Idol » et « Ichiban no Takaramono ». Elle a mentionné une chanson qu’elle avait toujours voulu chanter mais elle devait d’abord faire plusieurs défis d’idole et en réussir en moins un. Elle a tout raté sauf le dernier défi où elle devait trouver la potion qui la rendrait humaine, la permettant d’enfin pouvoir chanter « Shiny Smily Story ».",
       "bbox": {
         "x": 0.4283,
         "y": 0.7477,
@@ -47,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Koyori a annoncé qu'elle allait avoir une afterparty réservée à ses membres et que Lui est la prochaine à faire ses débuts 3D. Enfin, elle a révélé et chanté sa première chanson originale « WAO!! » produite par DECO*27. Le clip a été présenté plus tard ce jour-là.",
+      "text": "Koyori a annoncé qu’elle allait avoir une afterparty réservée à ses membres et que Lui est la prochaine à faire ses débuts 3D. Enfin, elle a révélé et chanté sa première chanson originale « WAO!! » produite par DECO*27. Le clip a été présenté plus tard ce jour-là.",
       "bbox": {
         "x": 0.4278,
         "y": 0.8912,

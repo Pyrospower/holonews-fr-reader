@@ -3,26 +3,16 @@
   "issueId": "holonews_fr_ver_1306_-_1906",
   "page": 18,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Amazon",
+      "type": "heading",
+      "text": "Divers",
       "bbox": {
-        "x": 0.2656,
-        "y": 0.1576,
-        "width": 0.0888,
-        "height": 0.0082
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "amazon",
-      "bbox": {
-        "x": 0.0869,
-        "y": 0.1832,
-        "width": 0.0625,
-        "height": 0.0078
+        "x": 0.4356,
+        "y": 0.0174,
+        "width": 0.1269,
+        "height": 0.026
       }
     },
     {
@@ -37,52 +27,72 @@
     },
     {
       "type": "paragraph",
-      "text": "Des vêtements mettant en vedette les talents affiliés à hololive sont désormais en vente sur Merch by Amazon. Il s'agit d'un service d'impression à la demande. Amazon reçoit la commande, l'imprime et la livre au client. Ce service est disponible aux États-Unis, au Royaume-Uni, en Italie, en Espagne, en Allemagne et en France. ; - Pour l'instant, des T-shirts blancs avec des impressions de Sora, Roboco, Miko, Suisei, Aki,",
+      "text": "Des vêtements mettant en vedette les talents affiliés à hololive sont désormais en vente sur Merch by Amazon. Il s'agit d'un service d'impression à la demande. Amazon reçoit la commande, l'imprime et la livre au client. Ce service est disponible aux États-Unis, au Royaume-Uni, en Italie, en Espagne, en Allemagne et en France.",
       "bbox": {
         "x": 0.075,
         "y": 0.2318,
         "width": 0.3819,
-        "height": 0.1424
+        "height": 0.1024
       }
     },
     {
       "type": "paragraph",
-      "text": "Fubuki, Mel, Matsuri et Haato sont disponibles.",
+      "text": "Pour l'instant, des T-shirts blancs avec des impressions de Sora, Roboco, Miko, Suisei, Aki, Fubuki, Mel, Matsuri et Haato sont disponibles. Ils prévoient d'ajouter d'autres talents.",
       "bbox": {
-        "x": 0.0763,
-        "y": 0.375,
-        "width": 0.3713,
-        "height": 0.0122
+        "x": 0.075,
+        "y": 0.3472,
+        "width": 0.3844,
+        "height": 0.0512
       }
     },
     {
-      "type": "paragraph",
-      "text": "Ils prévoient d'ajouter d'autres talents.",
+      "type": "heading",
+      "text": "Blu-ray Discs",
       "bbox": {
-        "x": 0.0769,
-        "y": 0.388,
-        "width": 0.2975,
-        "height": 0.0122
+        "x": 0.6406,
+        "y": 0.1866,
+        "width": 0.2075,
+        "height": 0.0239
       }
     },
     {
       "type": "paragraph",
-      "text": "Au cas où vous auriez manqué les annonces, les Blu-Ray du 1er concert de Watame, Watame Night Fever!! à Zepp Tokyo seront mis en vente le 29 juin, et ceux de Stellar Into The Galaxy de Suisei le 27 juillet. Les bonus de précommande sur Melonbooks sont un poster A3 et un article spécial selon le concert, pour Watame, un enregistrement vidéo inédit de Tsunomaki Janken, et pour Suisei, une tombola pour son autographe it ! EEE",
+      "text": "Au cas où vous auriez manqué les annonces, les Blu-Ray du 1er concert de Watame, Watame Night Fever!! à Zepp Tokyo seront mis en vente le 29 juin, et ceux de Stellar Into The Galaxy de Suisei le 27 juillet.",
       "bbox": {
         "x": 0.5419,
         "y": 0.2322,
-        "width": 0.3819,
-        "height": 0.158
+        "width": 0.3825,
+        "height": 0.0651
       }
     },
     {
       "type": "paragraph",
-      "text": "NICHT ALONE",
+      "text": "Les bonus de précommande sur Melonbooks sont un poster A3 et un article spécial selon le concert, pour Watame, un enregistrement vidéo inédit de Tsunomaki Janken, et pour Suisei, une tombola pour son autographe manuscrit !",
       "bbox": {
-        "x": 0.7781,
-        "y": 0.6606,
-        "width": 0.1088,
-        "height": 0.0113
+        "x": 0.5419,
+        "y": 0.3125,
+        "width": 0.3825,
+        "height": 0.0794
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4075,
+        "y": 0.4223,
+        "width": 0.1862,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "other",
+      "text": "LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.7831,
+        "y": 0.428,
+        "width": 0.1625,
+        "height": 0.0148
       }
     }
   ],

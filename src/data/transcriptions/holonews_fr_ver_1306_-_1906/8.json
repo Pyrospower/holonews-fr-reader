@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_1306_-_1906",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Gen 0",
+      "bbox": {
+        "x": 0.44,
+        "y": 0.013,
+        "width": 0.1188,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "heading",
+      "text": "AZKi & Polka",
+      "bbox": {
+        "x": 0.1913,
+        "y": 0.1762,
+        "width": 0.2063,
+        "height": 0.0252
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "#1 +Welcome to DEMPA world+> A! K! |, B, A! AKIBA POP!!! AZki a publié une reprise de « SPACE! WAVE! AKIBA-POP!! » de MOSAIC.WAV avec Polka qui s'est joint à la fête. La chanson, comme le montrent les paroles, s'appuie sur les genres Denpa (musique japonaise volontairement étrange et entraînante) et electropop. Rimukoro, l'artiste de The Helpful Fox Senko-san, a été chargé des illustrations du clip.",
+      "text": "☆✧Welcome to DEMPA world✧☆ A! K! I, B, A! AKIBA POP!!! AZki a publié une reprise de « SPACE! WAVE! AKIBA-POP!! » de MOSAIC.WAV avec Polka qui s'est joint à la fête. La chanson, comme le montrent les paroles, s'appuie sur les genres Denpa (musique japonaise volontairement étrange et entraînante) et electropop. Rimukoro, l'artiste de The Helpful Fox Senko-san, a été chargé des illustrations du clip.",
       "bbox": {
         "x": 0.0712,
         "y": 0.2222,
@@ -16,23 +36,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Suisei a commencé son stream vers 1,5 million d'abonnés à environ 530 abonnés de son objectif, et a réussi à atteindre le cap au moment même où elle a commencé à chanter sa chanson originale, « Starry Jet ». Lors des célébrations qui ont suivi, les Hoshiyomis ont eu droit à une rare tentative de Suisei de chanter « Fansa », à une courte interprétation de « The Disappearance of Hatsune",
+      "type": "heading",
+      "text": "Suisei",
       "bbox": {
-        "x": 0.0719,
-        "y": 0.5438,
-        "width": 0.3831,
-        "height": 0.1207
+        "x": 0.1688,
+        "y": 0.4974,
+        "width": 0.0963,
+        "height": 0.0252
       }
     },
     {
       "type": "paragraph",
-      "text": "Miku » trois octaves en dessous de la tonalité originale, et à trois autres chansons. Elle a terminé son stream en demandant en plaisantant aux Kagai Nikkis de lui donner cinquante milliards d'abonnements supplémentaires, tout en plaisantant avec son chat sur la perspective d'atteindre les deux millions d'abonnés.",
+      "text": "Suisei a commencé son stream vers 1,5 million d'abonnés à environ 530 abonnés de son objectif, et a réussi à atteindre le cap au moment même où elle a commencé à chanter sa chanson originale, « Starry Jet ». Lors des célébrations qui ont suivi, les Hoshiyomis ont eu droit à une rare tentative de Suisei de chanter « Fansa », à une courte interprétation de « The Disappearance of Hatsune Miku » trois octaves en dessous de la tonalité originale, et à trois autres chansons. Elle a terminé son stream en demandant en plaisantant aux Kagai Nikkis de lui donner cinquante milliards d'abonnements supplémentaires, tout en plaisantant avec son chat sur la perspective d'atteindre les deux millions d'abonnés.",
       "bbox": {
         "x": 0.0712,
-        "y": 0.6649,
-        "width": 0.3813,
-        "height": 0.1042
+        "y": 0.5438,
+        "width": 0.3838,
+        "height": 0.2253
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.1762,
+        "width": 0.0813,
+        "height": 0.0252
       }
     },
     {
@@ -47,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Haachama a fait ses débuts dans un match à trois, de type Table, Echelles et Chaises, entre Koyori, Miko et Haachama, où les IA ne parvenaient pas à comprendre comment utiliser la table, et où les trois se faisaient tirer par l'échelle à chaque fois qu'elles essayaient de débloquer le Money in the Bank. Finalement, Koyori a réussi à sécuriser la mallette pendant que Haachama et Miko étaient occupés à se battre entre eux.",
+      "text": "Haachama a fait ses débuts dans un match à trois, de type Table, Échelles et Chaises, entre Koyori, Miko et Haachama, où les IA ne parvenaient pas à comprendre comment utiliser la table, et où les trois se faisaient tirer par l'échelle à chaque fois qu'elles essayaient de débloquer le Money in the Bank. Finalement, Koyori a réussi à sécuriser la mallette pendant que Haachama et Miko étaient occupés à se battre entre eux.",
       "bbox": {
         "x": 0.5331,
         "y": 0.4236,
@@ -56,8 +86,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "J'ai. fait cette tête (o! A1)! 1!",
+      "type": "other",
+      "text": "J'ai.. fait cette tête (๑╹ㅅ╹)！！！",
       "bbox": {
         "x": 0.5463,
         "y": 0.602,
