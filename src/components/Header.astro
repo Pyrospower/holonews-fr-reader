@@ -7,9 +7,7 @@ const navItems = [
 const currentPath = Astro.url.pathname.replace(/\/+$/, "") || "/";
 ---
 
-<header
-  class="sticky top-0 z-30 w-full bg-primary text-primary-foreground shadow-md"
->
+<header class="sticky top-0 z-30 w-full bg-primary text-primary-foreground shadow-md">
   <div class="container mx-auto flex items-center justify-between px-4 py-6">
     <a class="flex items-center space-x-2" href="/">
       <svg
@@ -24,9 +22,7 @@ const currentPath = Astro.url.pathname.replace(/\/+$/, "") || "/";
         stroke-linejoin="round"
         class="lucide lucide-newspaper"
       >
-        <path
-          d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"
-        ></path>
+        <path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"></path>
         <path d="M18 14h-8"></path>
         <path d="M15 18h-5"></path>
         <path d="M10 6h8v4h-8V6Z"></path>
@@ -36,19 +32,17 @@ const currentPath = Astro.url.pathname.replace(/\/+$/, "") || "/";
 
     <nav aria-label="Principale" class="hidden md:block">
       <ul class="flex space-x-4">
-        {
-          navItems.map((item) => (
-            <li>
-              <a
-                href={item.href}
-                aria-current={item.href === currentPath ? "page" : undefined}
-                class="hover:underline aria-[current=page]:underline"
-              >
-                {item.name}
-              </a>
-            </li>
-          ))
-        }
+        {navItems.map((item) => (
+          <li>
+            <a
+              href={item.href}
+              aria-current={item.href === currentPath ? "page" : undefined}
+              class="hover:underline aria-[current=page]:underline"
+            >
+              {item.name}
+            </a>
+          </li>
+        ))}
       </ul>
     </nav>
 
@@ -97,19 +91,17 @@ const currentPath = Astro.url.pathname.replace(/\/+$/, "") || "/";
 
     <nav id="mobile-menu" popover aria-label="Principale">
       <ul class="flex flex-col">
-        {
-          navItems.map((item) => (
-            <li>
-              <a
-                href={item.href}
-                aria-current={item.href === currentPath ? "page" : undefined}
-                class="block rounded-md px-3 py-2 hover:bg-primary-foreground/10 aria-[current=page]:underline aria-[current=page]:underline-offset-4"
-              >
-                {item.name}
-              </a>
-            </li>
-          ))
-        }
+        {navItems.map((item) => (
+          <li>
+            <a
+              href={item.href}
+              aria-current={item.href === currentPath ? "page" : undefined}
+              class="block rounded-md px-3 py-2 hover:bg-primary-foreground/10 aria-[current=page]:underline aria-[current=page]:underline-offset-4"
+            >
+              {item.name}
+            </a>
+          </li>
+        ))}
       </ul>
     </nav>
   </div>
