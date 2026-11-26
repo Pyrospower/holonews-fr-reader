@@ -94,6 +94,26 @@
         "width": 0.1625,
         "height": 0.0148
       }
+    },
+    {
+      "type": "other",
+      "text": "ROCK SIMULATOR\njust shapes & beats\nPEC-MEN\nA DANCE OF FIRE AND ICE\nSURGEON SIMULATOR 2\nOVERCOOKED! 2\nGOONECT",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.4674,
+        "width": 0.4,
+        "height": 0.5026
+      }
+    },
+    {
+      "type": "other",
+      "text": "frog detective 1\nCYBERPUNK BARTENDER ACTION va-11 hall-a\nYOMAWARI NIGHT ALONE\nTO THE MOON\nproject ZOMBOID\nPROPNIGHT\nGOLF IT",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.4674,
+        "width": 0.4,
+        "height": 0.5026
+      }
     }
   ],
   "source": {
