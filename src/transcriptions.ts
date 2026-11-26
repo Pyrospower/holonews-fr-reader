@@ -50,6 +50,11 @@ export type Transcription = z.infer<typeof transcriptionSchema>;
 export type TranscriptionStatus = Transcription["status"];
 export type TranscriptionBlock = Transcription["blocks"][number];
 
-export function transcriptionText(transcription: Transcription) {
+// What the reader needs of a page's transcription, passed to the client.
+export type PageTranscription = Pick<Transcription, "status" | "blocks">;
+
+export function transcriptionText(
+  transcription: Pick<Transcription, "blocks">,
+) {
   return transcription.blocks.map((block) => block.text).join("\n\n");
 }
