@@ -138,6 +138,7 @@ puis relancez la page : une page `auto` est régénérée automatiquement si son
 
 - **Page d'accueil** : Liste tous les articles avec aperçu et filtrage
 - **Pages d'articles** : Affichage complet de chaque numéro avec images
+- **Modes de lecture** : Original (image seule), Mixte (image et transcription côte à côte) et Texte (transcription seule), avec copie du texte et taille de texte réglable. Le mode et la taille sont mémorisés dans le navigateur, et la page courante est dans l'URL (`?page=N`)
 
 ## 🏷 Tags disponibles
 
