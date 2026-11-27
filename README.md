@@ -134,10 +134,21 @@ puis relancez la page : une page `auto` est régénérée automatiquement si son
 - L'ordre de lecture suit les colonnes (de gauche à droite, de haut en bas) : sur les mises en page en zigzag ou en grille, il peut différer de l'ordre voulu.
 - Le texte japonais et le texte dans les illustrations sont ignorés ou filtrés.
 
+## 🔍 Recherche
+
+La page [`/search`](src/pages/search.astro) cherche dans le texte de toutes les pages transcrites. Tout se passe dans le navigateur : pas de serveur, pas de base de données.
+
+- Au build, Astro génère [`/search-index.json`](src/pages/search-index.json.ts) : une entrée par page transcrite (numéro, titre, date, page, texte), sans les pages `unavailable`. Le fichier est téléchargé uniquement en ouvrant la page de recherche, qui construit alors l'index avec [MiniSearch](https://github.com/lucaong/minisearch).
+- La recherche ignore les accents et les majuscules (`ecole` trouve « École », `coeur` trouve « cœur »), cherche le début des mots pendant la frappe, exige tous les mots de la requête et tolère une faute de frappe dans les mots de 5 lettres ou plus (deux à partir de 8), en classant les correspondances exactes en premier.
+- La requête est dans l'URL (`/search?q=...`) et chaque résultat ouvre le lecteur sur la bonne page (`/issues/<id>?page=N&q=...`). Le lecteur surligne alors les mots trouvés dans la transcription, encadre les blocs correspondants sur l'image et propose un champ « Rechercher dans ce numéro » pour passer d'une page trouvée à l'autre (Entrée / Maj+Entrée).
+
+Les règles de recherche et de surlignage sont dans [`src/search.ts`](src/search.ts), testées dans [`src/search.test.ts`](src/search.test.ts).
+
 ## 🎨 Interface
 
 - **Page d'accueil** : Liste tous les articles avec aperçu et filtrage
 - **Pages d'articles** : Affichage complet de chaque numéro avec images
+- **Recherche** : Recherche dans le texte de toutes les pages, avec surlignage dans le lecteur
 - **Modes de lecture** : Original (image seule), Mixte (image et transcription côte à côte) et Texte (transcription seule), avec copie du texte et taille de texte réglable. Le mode et la taille sont mémorisés dans le navigateur, et la page courante est dans l'URL (`?page=N`)
 
 ## 🏷 Tags disponibles
