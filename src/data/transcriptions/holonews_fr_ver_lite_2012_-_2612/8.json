@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pour la première fois en presque 6 mois, Kanata, Towa, Watame et Luna se sont réunies pour un stream en collaboration sur Mario Kart 8. Elles ont toutes commencé le stream avec d’étranges salutations, qu’elles ont fait en donnant la date de leurs débuts avec une phrase d’accroche farfelue, comme « Speed of sound! 50KG! I'm Tsunomaki Watame! » (A la vitesse de la lumière ! 50 KG ! Je suis Tsunomaki Watame !) pour",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2509,
+        "width": 0.8906,
+        "height": 0.0816
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3338,
+        "width": 0.0913,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les quatre ont passe un bon moment a jouer avec les fans et a plaisanter entre elles, et Kanata a même appris la signification de « sus » (-pect). ll y a aussi eu un moment mignon ou, les 4 membres de la gen 4 et le chat on choisis à l’unanimité “Route du",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3663,
+        "width": 0.895,
+        "height": 0.0486
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dragon”.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.4162,
+        "width": 0.0869,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans une deuxième partie inattendue de l'histoire de l'humidificateur de Miko de la semaine dernière, Kanata a fièrement proclamé qu'elle mettait de l'eau dans son humidificateur et qu'elle n'était pas comme Miko. Toutefois, elle a rapidement été vaincue par son tchat lorsqu'ils ont demandé si elle avait retiré le film plastique de protection du filtre à air, ou si elle avait déjà nettoyé l'appareil. Kanata a ensuite retiré le filtre pour la première fois en 1 an et demi, et a été complètement dégoûtée par sa découverte. Conformément à cette nouvelle tradition, le tchat a dit à Kanata : « Le filtre Dyson ne va pas se nettoyer tout seul, tu sais », à son grand désarroi.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.6072,
+        "width": 0.4238,
+        "height": 0.2561
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame a appelé Koyori pendant son stream stream « totsumachi » et elles ont discuté de leurs goûts très similaires en matière de poitrines.",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.8937,
+        "width": 0.4238,
+        "height": 0.069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En préparation pour le tournoi Mario Kart 8 à venir, Towa a fait un stream décidant du destin de plusieurs membres d’hololive. Ce « destin » étant bien évidemment le groupe dans lequel elles allaient être placées. Elle a affecté chaque membre à un groupe de façon aléatoire : A, B ou C, tout en leur laissant la possibilité de l’appeler pour réagir en direct à leur placement. À ce moment-là, Ina a été prise en train de tweeter au père Noël, implorant de ne pas être mise dans le groupe B. lly a eu d’autres moments amusants, comme quand Towa a planifié un rendez-vous en trio avec Kronii et Sana, ou encore l'apparition de la 6e génération.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.6072,
+        "width": 0.4269,
+        "height": 0.2561
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame a essayé de prendre une voix « sexy » mais le tchat l’a rapidement arrêtée, et elle a fait exploser la cuisine dans Cooking Simulator pour faire des feux d'artifices pour célébrer la fin d'année .",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.888,
+        "width": 0.4219,
+        "height": 0.0799
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/w3tzco3zeab81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.0386,
+        "width": 0.3525,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Izuru a enfin fini son mémoire de fin de licence ! Le 3 janvier, lzuru a tweeté ça joyeusement et il espère que son professeur n’aimera pas trop son travail pour qu'il ne soit pas envoyé à l'étranger faire des conférences. Il voulait juste que tout soit fait rapidement. Pour célébrer la fin de son mémoire, Izuru a fait un stream de chanson, ou il a chanté tout en jouant du piano pour l'accompagner. Allez voir son stream pour savoir ce qu'il a chanté.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2513,
+        "width": 0.41,
+        "height": 0.1762
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Izuru a joué à Apex avec son ami Leia. Laissant le jeu choisir un inconnu comme troisième membre de leur d'équipe, des drôles de moments de confusion sont survenus sur ce que l’inconnue faisait pendant la partie, ou quand ils ont essayé de communiquer avec un tricheur anglais, le frappant contre un mur pour l'intimider. Cela a mené lzuru et Leia à s'appeler la « Police d’Apex ». Toutefois, ils se sont beaucoup amusés, Izuru abattant ses adversaires à longue distance, cumulant des points de dégâts et gagnant même un match.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.6571,
+        "width": 0.4263,
+        "height": 0.2305
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a déconcerté les Astellas avec une salle d'attente de stream, possédant une miniature rouge avec « HEY » écrit dessus. Il a dit que le contenu du stream changerait selon son humeur. Astel a commencé le stream avec son installation habituelle pour un karaoké, mais il a décidé de ne pas en faire un. Il a joué à Golf It avec ses fans et a mis un nombre de participants illimité, permettant à tout le monde de rejoindre, mais créant le chaos. Pendant qu'il jouait, il a chanté quelque fois pour rendre le stream plus excitant. Il a fini en préparant un autre stream sur Moonlighter, qu'il a lancé immédiatement après.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2539,
+        "width": 0.4275,
+        "height": 0.227
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une interaction inattendue entre Astel et Tenga a eu lieu sur Twitter. Tenga, une compagnie connue pour vendre des produits pour adultes, a répondu à un tweet pendant une conversation entre Astel et un de ses amis, qui a acheté un produit de la compagnie. Astel était surpris de la réponse et a commencé à suivre Tenga sur Twitter.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.4974,
+        "width": 0.4219,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.6369,
+        "y": 0.7765,
+        "width": 0.1631,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il y a quelques semaines, Aruran avais prévu de finir Minecraft en mode hardcore pour le réveillon de Noel dans un long stream endurance. Cependant, il a décidé d'arrêter après avoir raté trois fois. Depuis, pour prendre sa revanche, Aruran fait des streams dans lesquels il essaie de finir le jeu une bonne fois pour toute. Après avoir joué prudemment pendant 8 streams, il a fini Minecraft en hardcore le 11 janvier.",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.8151,
+        "width": 0.4225,
+        "height": 0.151
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/th3koth6i8e81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

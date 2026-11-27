@@ -1,0 +1,528 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_3005_-_0506",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0226,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] King: 10M",
+      "bbox": {
+        "x": 0.335,
+        "y": 0.0755,
+        "width": 0.1513,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lui] Fukurou-san: 1M",
+      "bbox": {
+        "x": 0.3025,
+        "y": 0.0929,
+        "width": 0.1838,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Chloe] Fukurou-san: 100K",
+      "bbox": {
+        "x": 0.26,
+        "y": 0.1102,
+        "width": 0.2275,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[lzuru] Gaitou Ga Sabita Mama: 100K [Aqua/Subaru/Nene (Negi U)] Panight (Old): 100K [Chloe] Nisemono Ningen 40-gou: 500K [Chloe] Kagayakashi: 500K",
+      "bbox": {
+        "x": 0.065,
+        "y": 0.1276,
+        "width": 0.4225,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Kotonoha: 100K",
+      "bbox": {
+        "x": 0.2938,
+        "y": 0.197,
+        "width": 0.1938,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Ghost: 15M",
+      "bbox": {
+        "x": 0.3219,
+        "y": 0.2144,
+        "width": 0.1644,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Ina] Nainai: 1M",
+      "bbox": {
+        "x": 0.355,
+        "y": 0.2318,
+        "width": 0.1313,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Aqua] Vampire: 4M [Sora] Alien Alien: 10M",
+      "bbox": {
+        "x": 0.2944,
+        "y": 0.2643,
+        "width": 0.1919,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "heading",
+      "text": "[Polka] Po: 2M",
+      "bbox": {
+        "x": 0.3644,
+        "y": 0.3138,
+        "width": 0.1219,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Botan] Souzou: 500K",
+      "bbox": {
+        "x": 0.3019,
+        "y": 0.3312,
+        "width": 0.1856,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi/Else] Turing Love: 25K",
+      "bbox": {
+        "x": 0.2431,
+        "y": 0.3485,
+        "width": 0.2444,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sora] Sekai Wa Mada Hajimatte Sura Inai: 50K [Watame/AZKi] Mawaru Sora Usagi: 250K",
+      "bbox": {
+        "x": 0.0844,
+        "y": 0.3659,
+        "width": 0.4031,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lui] Yoru Naderu Menou (Cover): 100K [HoloJP5] Ochame Kinou: 2M",
+      "bbox": {
+        "x": 0.15,
+        "y": 0.4006,
+        "width": 0.3375,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei/Miko] Animal: 5M",
+      "bbox": {
+        "x": 0.2794,
+        "y": 0.4353,
+        "width": 0.2069,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Okayu] Prince of Poison: 250K [Akirose/Korone] There's Supposed",
+      "bbox": {
+        "x": 0.1869,
+        "y": 0.4679,
+        "width": 0.3013,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "to Be a Cheat Code for Happiness (Live): 25K [Akirose/AZKi/Mio] Your Silver Garden (Live): 50K [Akirose/Mel/Watame/Polka] Moon Pride: 10K [Aqua/Subaru/Nene (Negi U)] Panight: 75K [Akirose] Shikisai No Blues (Live): 10K",
+      "bbox": {
+        "x": 0.0663,
+        "y": 0.5026,
+        "width": 0.4213,
+        "height": 0.0825
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Mumei] Dilemma: 500K",
+      "bbox": {
+        "x": 0.2838,
+        "y": 0.5894,
+        "width": 0.2037,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.1063,
+        "y": 0.622,
+        "width": 0.1019,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ORIGINALE",
+      "bbox": {
+        "x": 0.4325,
+        "y": 0.622,
+        "width": 0.1356,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[La+] Aen Jihen: 250K [Matsuri] Kuraberarekko: 750K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.0755,
+        "width": 0.2581,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Rikka] Mizugiwa Endroll: 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1102,
+        "width": 0.2619,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lamy/Okayu] Betelguese: 500K [Aqua/Suisei/Towa] Asu no Yozora",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1276,
+        "width": 0.2944,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shoukaihan: 4M",
+      "bbox": {
+        "x": 0.5131,
+        "y": 0.1623,
+        "width": 0.1369,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[La+] Life: 750K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1949,
+        "width": 0.1325,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Anya] Schema: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2122,
+        "width": 0.1844,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Calliope] Mera Mera: 2M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2296,
+        "width": 0.2125,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Chloe] Fukurou-san: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.247,
+        "width": 0.2275,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nene/Lamy] Hitorigoto: 750K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2643,
+        "width": 0.2494,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[HoloJP1] Plasmagic Seasons (Live): 25K [Risu/Reine] Kakumei Dualism (Side B): 250K [IRyS] Internet Overdose (Cover): 250K [Aqua] Aqua Iro Palette: 7M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2817,
+        "width": 0.3869,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Yuurei Tokyo: 2M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3511,
+        "width": 0.215,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kiara] Fever Night: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3685,
+        "width": 0.2131,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Towa] Gira Gira: 1M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3859,
+        "width": 0.175,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Marine] Colors: 1M [Moona/Suisei] Saikai: 3M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4184,
+        "width": 0.2188,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sora] Otome Kaibou: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4531,
+        "width": 0.2331,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Roboco] Little Bit (Live): 25K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4705,
+        "width": 0.245,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Aqua/Subaru/Nene (Negi U)] Panight: 50K [Akirose/AZKi/Mio] Your Silver Garden (Live): 25K [Koyori/Kiara] Newton Dance (Cover): 100K [Kanata] Telecaster B-Boy: 1M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4878,
+        "width": 0.4213,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Akirose/Okayu] Phony: 10K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.5573,
+        "width": 0.2381,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Akirose] Here (Live): 10K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.5747,
+        "width": 0.2169,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Izuru] Getsuyobi: 50K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.592,
+        "width": 0.1875,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "NOUVEAU",
+      "bbox": {
+        "x": 0.775,
+        "y": 0.622,
+        "width": 0.1213,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.0444,
+        "y": 0.7318,
+        "width": 0.0556,
+        "height": 0.0156
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka YOIDORE SHIRAZU",
+      "bbox": {
+        "x": 0.355,
+        "y": 0.7335,
+        "width": 0.1106,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "heading",
+      "text": "KINGWORLD",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.7504,
+        "width": 0.2788,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lui YORU",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.8542,
+        "width": 0.0681,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Keyori& Kiara NEWTON",
+      "bbox": {
+        "x": 0.3575,
+        "y": 0.8559,
+        "width": 0.1131,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "NADERU MENOU",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.8832,
+        "width": 0.2025,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "DANCE",
+      "bbox": {
+        "x": 0.3575,
+        "y": 0.8837,
+        "width": 0.0862,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Akirose",
+      "bbox": {
+        "x": 0.6681,
+        "y": 0.7335,
+        "width": 0.0613,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ROSE OF THE LAMP",
+      "bbox": {
+        "x": 0.6675,
+        "y": 0.7491,
+        "width": 0.1269,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "IRyS INTERNET OVERDOSE",
+      "bbox": {
+        "x": 0.6681,
+        "y": 0.8559,
+        "width": 0.1356,
+        "height": 0.0378
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/yx6dvdgvbt591.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

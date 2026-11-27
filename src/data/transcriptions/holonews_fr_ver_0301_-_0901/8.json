@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Haachama a répondu aux questions de ses fans pour la modique somme de 10 000 yens dans un stream FAQ. Cependant, elle a clarifié que le montant n’importait pas et qu’elle répondrait quoi qu’il en soit à toutes les questions. La plupart de ces dernières n'avaient que pour but de taquiner et ne demandaient rien de spécial. Voici quelques exemples de questions qui lui ont été envoyées ainsi que les réponses d’'Haachama.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2283,
+        "width": 0.4463,
+        "height": 0.1558
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le proverbe de la semaine d’Haachama :",
+      "bbox": {
+        "x": 0.0913,
+        "y": 0.4236,
+        "width": 0.3488,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« L'érotisme sauvera le monde. »",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.487,
+        "width": 0.4344,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion a décidé de prendre une pause jusqu’à mi-janvier 2022 a cause de problèmes de santé mentale.",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.7652,
+        "width": 0.3731,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De ce fait, elle a également décidé de se retirer du tournoi Mario Kart récemment organisé par Towa.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.8294,
+        "width": 0.4006,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'annonce a été faite sur Twitter, et ses fans lui ont répondu en lui souhaitant un prompt rétablissement.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.8937,
+        "width": 0.3931,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "* « Quelles sont vos mensurations ? » - Mes mensurations sont 810-810-810.",
+      "bbox": {
+        "x": 0.5181,
+        "y": 0.2279,
+        "width": 0.3806,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "* « Qui aimez-vous le plus, votre papa ou votre maman ? » - J'aime l'humanité.",
+      "bbox": {
+        "x": 0.5181,
+        "y": 0.2635,
+        "width": 0.4019,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "+ « Des conseils pour les aspirants VTubeurs ? » - Faites ce qui vous plaît, mais n’oubliez jamais ce qui vous a poussé à vous engager dans cette voie.",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.299,
+        "width": 0.4288,
+        "height": 0.0408
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "+ « Plutôt riz ou pain au petit déjeuner ? » - Le riz car ça réchauffe, mais tout dépend en fin de compte du plat principal.",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.3481,
+        "width": 0.4181,
+        "height": 0.0412
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "» Avez-vous l'intention de faire une collaboration avec kson ? » - Ce n’est pas prévu, mais j'aimerais bien.",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.398,
+        "width": 0.4294,
+        "height": 0.0378
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "+ « Si vous pouviez réaliser un anime, quel scénario aimeriez-vous écrire ? » - Je voudrais en créer un qui soit amusant et divertissant, et qui transcende la barrière de la langue à la manière de Tom et Jerry.",
+      "bbox": {
+        "x": 0.5169,
+        "y": 0.447,
+        "width": 0.4313,
+        "height": 0.069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ayame s'est récemment inquiétée que ses produits dérivés soient trop mignons. Elle s'est inquiétée car la majorité de ses spectateurs sont probablement des hommes, et ses derniers produits dérivés étaient plutôt orientés vers un public féminin. Beaucoup de ses spectateurs l'ont rassurée, lui assurant qu'ils les utilisaient en ce moment-même devan son stream.",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.7652,
+        "width": 0.4219,
+        "height": 0.161
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ixnr5z5kevc81.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

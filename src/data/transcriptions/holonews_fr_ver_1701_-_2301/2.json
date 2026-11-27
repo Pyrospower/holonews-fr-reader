@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 2,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le 22 janvier, Rushia a fêté son anniversaire avec le reste de la Gen 3 !",
+      "bbox": {
+        "x": 0.0333,
+        "y": 0.5401,
+        "width": 0.51,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La célébration a pris la forme d’un concert en 3D illuminé e les prestations de Rushia et ses camarades de génération. Elle a chanté des duos avec les autres membres d'holoFantasy, et le groupe réuni au complet sur scène a interprété sa chanson originale « Interact Fantasia ». Chacune des membres a passé du temps avec Rushia et les filles ont eu l'occasion de mettre en valeur leur proximité.",
+      "bbox": {
+        "x": 0.0328,
+        "y": 0.5779,
+        "width": 0.5239,
+        "height": 0.1377
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rushia a également levé le voile sur une nouvelle chanson originale : « Omoikou ». Elle a remercié ses spectateurs de leur présence pour son anniversaire et a ensuite présenté ses produits dérivés commémoratifs :",
+      "bbox": {
+        "x": 0.0328,
+        "y": 0.723,
+        "width": 0.5067,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une figurine en acrylique de Rushia en mariée Des mugs assortis\n• Une bague de fiançailles",
+      "bbox": {
+        "x": 0.0539,
+        "y": 0.8063,
+        "width": 0.4939,
+        "height": 0.0467
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'ensemble complet disponible en quantité limitée qui inclut une carte postale comportant la signature manuscrite de Rushia a été entièrement vendu en l'espace d'une minute ! L'ensemble normal comportant une signature estampillée est cependant toujours disponible. En cadeau pour ses fans, Rushia a également révélé une variante de son modèle 2D avec des couettes.",
+      "bbox": {
+        "x": 0.0328,
+        "y": 0.8596,
+        "width": 0.5244,
+        "height": 0.1192
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0se94vf6x8f81.gif",
+    "gifFrame": 89,
+    "confidence": 93
+  }
+}

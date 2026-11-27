@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Subaru a fêté son anniversaire le 2 juillet. Notre canard préféré a maintenant 17,4 ans ! Le stream a commencé avec Shuba qui a parlé des demandes qu'elle a faites à la direction pour son anniversaire, comme un sponsoring de Sausage Legends (ils ont dit qu'ils y travaillaient) et son désir de porter un vrai exosquelette (ce qu'elle a fait !).",
+      "bbox": {
+        "x": 0.3731,
+        "y": 0.3785,
+        "width": 0.5031,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a fait une « conférence de presse », annonçant non seulement un nouveau costume 3D, mais aussi sa troisième chanson originale, « Summer High Heel » ! Nous l'attendons avec impatience, Shuba ! Elle a continué avec les vœux d'anniversaire, lisant les lettres envoyées par Polka, Towa, Marine, Botan, Kiara, Choco, Luna, Sora, Okayu, Korone, Noel, Lui, son manager, et sa vraie mère concernant ce qu'elles aimaient chez elle et ce qu'elle pouvait améliorer.",
+      "bbox": {
+        "x": 0.3731,
+        "y": 0.5022,
+        "width": 0.4994,
+        "height": 0.1385
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le consensus général était que Shuba était une amie positive, gentille et fiable, mais la plupart s'inquiétaient du fait qu'elle travaillait trop et qu'elle devrait prendre davantage soin d'elle. D'ailleurs, Noel, un fan inconditionnel de Shuba, a envoyé un essai complet. Fubuki et Mio (que Subaru considérait comme un papa et une maman) ont appelé pour donner eux-mêmes leur avis avant de parler d'anime et de la joie qu'elles avaient de s'être rencontrées.",
+      "bbox": {
+        "x": 0.3731,
+        "y": 0.658,
+        "width": 0.5044,
+        "height": 0.1228
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin, elle a révélé ses produits dérivés d'anniversaire : un panneau acrylique à double couche avec une illustration de Shigure Ui-mama, une peluche Subaru Duck, une tasse Subatomo et un bracelet. Le bonus d'achat du set complet est une carte postale avec un autographe manuscrit de Subaru. Elle a terminé le stream après avoir remercié en larmes les fans de l'avoir soutenue, en souhaitant qu'ils continuent à le faire à l'avenir.",
+      "bbox": {
+        "x": 0.3731,
+        "y": 0.7977,
+        "width": 0.5044,
+        "height": 0.1228
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/mq7aco635kb91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

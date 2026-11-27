@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Un mangaka fétard qui dirige une entreprise clandestine. ll à l'habitude de penser que les mangas sont les plus cool, mais il s'est rendu compte que les idoles qui chantent et dansent sont aussi cool. ll veut devenir le plus cool.",
+      "bbox": {
+        "x": 0.3667,
+        "y": 0.1775,
+        "width": 0.6039,
+        "height": 0.137
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/56grmz56wis81.gif",
+    "gifFrame": 65,
+    "confidence": 94
+  }
+}

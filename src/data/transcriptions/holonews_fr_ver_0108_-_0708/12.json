@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 12,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.2606,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a demandé à Apolleon, son ami lion, d'écrire un journal quotidien tout l'été. Depuis le 1er août, Apolleon écrit une page de ce journal accompagnée d'une image correspondante chaque jour. Astel lui attribue des notes. Ici, nous pouvons voir les activités quotidiennes d'Apolleon, comme faire une sieste, couper des fruits pour Astel, fabriquer un teru teru bozu (un charme pour arrêter la pluie), ou jouer dans une flaque d'eau après la pluie. C'est un devoir d'été passionnant ! Suivez le compte Twitter d'Apolleon pour voir les nouvelles pages !",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.3234,
+        "width": 0.3863,
+        "height": 0.1745
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran a organisé une collaboration avec Marna Popri du groupe de VTuber World Connect Project. Ils ont joué ensemble au jeu de plateforme Super Bunny Man pendant environ une heure et demie.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.5981,
+        "width": 0.3925,
+        "height": 0.066
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka a montré son étagère qui contient sa collection de produits dérivés de lui-même. Il a mentionné que son étagère est pleine.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.9141,
+        "width": 0.385,
+        "height": 0.0399
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Parfois, on a envie d'un aliment particulier, et pour Aruran, c'était un McDonald. Il a vérifié, mais McDonald ne livre pas chez lui, même par Uber Eats, ce qui l'a frustré. Afin de satisfaire ses envies, il a rejoint le serveur vocal des membres d'HOLOSTARS et a informé tout le monde qu'il allait au magasin pour acheter de la nourriture et leur a demandé de rejoindre le vocal pour divertir les spectateurs de son stream. Pendant son absence, Astel et Oga ont rejoint le vocal. Astel a joué de son triangle, de son électone, et a chanté « W.I.M. », « Just Follow Stars », et « Shooting Stars ». Pendant ce temps, Oga jouait de sa flûte à bec et chantait « POP-TALK ».",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2183,
+        "width": 0.39,
+        "height": 0.1788
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après qu'Aruran soit rentré chez lui, Oga a rejoint le vocal pour le gronder d'avoir quitté sa maison alors qu'il était en stream. Pour pardonner l'abandon de son stream, il a demandé à Aruran de donner une critique de son repas. Après son stream, il a tweeté",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.4084,
+        "width": 0.3713,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suite à l'ajout d'une fonctionnalité pour tous les modèles des membres d'holopro, ils peuvent maintenant attacher une ou plusieurs images PNG sur leur modèle L2D. De nombreux fans ont EIR des images intéressantes, dont les",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.8299,
+        "width": 0.3894,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astella. Cependant, Astel s'est excuse sur Twitter, car il ne savait pas comment utiliser cette fonctionnalité et avait abandonné. Peu de temps apres, Astel a posté une superbe photo e lui-même utilisant une moustache",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.8928,
+        "width": 0.3644,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "leue assortie à ses cheveux. Merci quand même, Astel.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.9557,
+        "width": 0.3544,
+        "height": 0.0243
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/mpcmzv56lwh91.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

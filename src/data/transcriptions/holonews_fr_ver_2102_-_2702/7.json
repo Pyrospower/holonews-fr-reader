@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le 26 février, Subaru a commencé sa pause de deux semaines pour laisser sa gorge se reposer. C’est une mesure de prévention pour protéger ses cordes vocales d'autres tensions.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2808,
+        "width": 0.4231,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru est connue pour avoir peur de faire des pauses, c'est donc un acte courageux de sa part. Pendant cette période, elle rendra visite à ses grands-parents, ce qu'elle ne pouvait pas faire auparavant en raison de son emploi du temps chargé.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.3403,
+        "width": 0.4188,
+        "height": 0.0877
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLO FANTASY",
+      "bbox": {
+        "x": 0.1269,
+        "y": 0.4674,
+        "width": 0.2775,
+        "height": 0.0629
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après une pause d’une semaine, Pekora est de retour pour tenter de récupérer sa voix ! Pendant sa pause, Pekora a passé son temps à regarder Netflix. Elle a également révélé qu'elle a un nouveau membre dans sa famille, un chat nommé Mimi ! Apparemment, Mimi est avec Pekora depuis un mois, mais Pekora n’en avait pas parlé à ses spectateurs jusque là.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7157,
+        "width": 0.425,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la Journée Nationale du chat, Pekora a décidé d’élever 222 chats sur Minecraft. Elle a réussi à le faire après 3 heures, mais non sans que quelques chats ici et là ne causent des problèmes.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.8763,
+        "width": 0.425,
+        "height": 0.0794
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a parlé du clip de sa dernière chanson, « Secret Class », lors d'un stream discussion. Elle a parlé de sa conception, des décisions artistiques et, en général, a montré à quel point elle aimait le clip. Sa version humaine était, comme l'a dit Choco: « vraiment mignonne ». Choco a également montré les illustrations complètes de toutes les scènes colorées, y compris la plus osée. N'oubliez pas de regarder le clip si vous ne l'avez pas déjà vu !",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2808,
+        "width": 0.42,
+        "height": 0.1619
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Noel aime beaucoup Elden Ring, et elle était très excitée lorsqu'elle a reçu un message de son manager lui disant qu'elle avait la permission de faire des streams sur Elden Ring le lendemain, plutôt que 3 jours plus tard. Cette excitation a rapidement été remplacée par de la tristesse lorsque son manager lui a rappelé qu'elle avait d'autres tâches à accomplir. Finalement, elle a pu faire un stream sur le jeu le lendemain.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7153,
+        "width": 0.4238,
+        "height": 0.1471
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Tandis que Noel jouait à Elden Ring, un de ses spectateurs l'a poussée à sauter d'une fosse, ce qui a causé sa mort. Son rire après coup était contagieux.",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.8976,
+        "width": 0.4013,
+        "height": 0.0638
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/vfwjodj7e0m81.png",
+    "gifFrame": null,
+    "confidence": 95
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 4,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Kureiji Ollie",
+      "bbox": {
+        "x": 0.1067,
+        "y": 0.0448,
+        "width": 0.3228,
+        "height": 0.039
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce 4 décembre, Ollie a célébré son premier anniversaire depuis ses débuts en regardant son tout premier stream ! Nostalgique, elle a utilise à nouveau l'écran de chargement, l’overlay et la musique de fond qu'elle avait lors de ses débuts. Elle est allée jusqu'à rejouer le cri Pare qu'elle a poussé alors qu’elle rencontrait le tchat pour la première fois.",
+      "bbox": {
+        "x": 0.0178,
+        "y": 0.1057,
+        "width": 0.505,
+        "height": 0.0999
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant sa réaction à ses débuts, elle n'a cessé de grimacer face à son ancienne personnalité, puis s'est mise à comparer son comportement et son activité actuels avec ceux de cette époque. Elle est même allée jusqu'à essayer de chanter à nouveau la chanson « Karakuri Pierrot » pour confirmer sa progression. Ollie a pu remarquer de nombreux messages de ses aînées dans le tchat de la rediffusion, comme des « STONKS » inopinés d'Aruran, la réaction d'Astel quand elle a évoqué son amour pour les films Disney, et Moona, exaltée devant ses débuts.",
+      "bbox": {
+        "x": 0.0167,
+        "y": 0.2199,
+        "width": 0.5078,
+        "height": 0.1551
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En second lieu, elle a réagi à un clip vidéo créé par des fans contenant des messages de Zomrades, Zomilies, clippeurs, et même d'amis. Elle fut tellement touchée qu'elle se mit à pleurer à chaudes larmes. Après s'être calmée, elle a continué à lire les lettres individuelles envoyées par des Zomrades sur Twitter.",
+      "bbox": {
+        "x": 0.0178,
+        "y": 0.392,
+        "width": 0.4872,
+        "height": 0.086
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a terminé en lisant une lettre qu'elle avait écrite elle-même afin de remercier tout le monde de l'avoir soutenue et aimée malgré ses travers.",
+      "bbox": {
+        "x": 0.0183,
+        "y": 0.4923,
+        "width": 0.5089,
+        "height": 0.0428
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "(J Anya Melfissa Anya fête son 1er anniversaire ! Elle a commencé son stream en faisant une rétrospective de ses débuts. Elle a parlé de ses anciens Visual Novel qu'elle voulait montrer en entier, mais elle n'a pas pu",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.5934,
+        "width": 0.4806,
+        "height": 0.1146
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "/ / IE CA A er",
+      "bbox": {
+        "x": 0.5433,
+        "y": 0.6223,
+        "width": 0.3978,
+        "height": 0.0702
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "retrouver les fichiers, donc elle est finalement allée flans sh prs tov 2x sur son PowerPoint de l'époque. Anya a ensuite 1 bo ends wih every! demandé au tchat qu'elles avaient été leurs moments oath RE préférés de ses débuts. Les réponses allaient de son a Visual Novel a ses cris d'amour pour Fubuki. Anya Hpi» enchaîna avec une lecture de lettres de fan ainsi sd sy JE rn qu'un tour des différents fanarts, Reine et Astel en ont profité pour apparaitre dans le tchat.",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.7079,
+        "width": 0.6889,
+        "height": 0.1181
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À l'approche de la fin du stream, Anya dit que plutôt que recevoir plus, elle donnerait plus a partir de maintenant. Elle annonça ensuite qu'elle comptait",
+      "bbox": {
+        "x": 0.0239,
+        "y": 0.8387,
+        "width": 0.4744,
+        "height": 0.0459
+      }
+    },
+    {
+      "type": "heading",
+      "text": "12 HOURS",
+      "bbox": {
+        "x": 0.6633,
+        "y": 0.8754,
+        "width": 0.2067,
+        "height": 0.0228
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/y903pm7rjq581.gif",
+    "gifFrame": 101,
+    "confidence": 89
+  }
+}

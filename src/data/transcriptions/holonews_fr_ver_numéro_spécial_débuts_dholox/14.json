@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
+  "page": 14,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Programme de Laplus",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.3116,
+        "width": 0.4219,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Programme de Lui",
+      "bbox": {
+        "x": 0.5631,
+        "y": 0.3116,
+        "width": 0.3506,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Programme de Koyori | Programme de Chloe",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.5812,
+        "width": 0.89,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "A 12/02 23:00- IEUBTORE !",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.7513,
+        "width": 0.1769,
+        "height": 0.0078
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Programme d'Iroha",
+      "bbox": {
+        "x": 0.3256,
+        "y": 0.8511,
+        "width": 0.3694,
+        "height": 0.0234
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/k6y7cyo8kc481.png",
+    "gifFrame": null,
+    "confidence": 52
+  }
+}

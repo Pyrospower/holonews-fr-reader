@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holo ID",
+      "bbox": {
+        "x": 0.1581,
+        "y": 0.0382,
+        "width": 0.2088,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moona et Risu ont finalement fait un karaoké ensemble dans le cadre d'une collaboration IRL en direct attendue depuis longtemps. Elles ont chanté 20 chansons pendant près de deux heures, avec quelques hésitations au début dues au duo improvisé. Elles se sont beaucoup amusées en mélangeant leurs performances incroyables avec des tournures comiques et leurs plaisanteries habituelles (entre elles et avec le tchat).",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2535,
+        "width": 0.425,
+        "height": 0.1584
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOMYTH",
+      "bbox": {
+        "x": 0.0913,
+        "y": 0.441,
+        "width": 0.3456,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De retour de sa pause, Calli a joué à Terraria avec Gura, Ame, Mumei, Kronii et Fauna. Le groupe a rejoint le monde de Gura pour l'explorer et construire une base. Calli a passé du temps à creuser, puis s'est rendue dans les grottes avec les filles pour espérer atteindre le monde souterrain. Elle a déclaré que le jeu était très amusant à jouer entre amis et a été bouleversée par l'accueil chaleureux de ses fans au retour de sa pause, elle a exprimé toute sa gratitude sur Twitter.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.6541,
+        "width": 0.4194,
+        "height": 0.1918
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a mentionné qu'elle fera visiter à Aruran et Astel le serveur Minecraft ID. La collaboration devrait avoir lieu aux alentours du 7 février.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.168,
+        "width": 0.4144,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lofi était mignonne, comme a son habitude.",
+      "bbox": {
+        "x": 0.51,
+        "y": 0.2917,
+        "width": 0.1056,
+        "height": 0.0781
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La célèbre commentatrice de Paladins, Amelia Watson, a joué au jeu avec Kiara pour lui apprendre un autre jeu FPS. Kiara a saisi l'occasion d'obtenir le pack de l'annonceur Ame car elle voulait lui parler même lorsque la vraie Ame n'était pas disponible. Elles ont joué quelques matchs amusants et en ont gagné la plupart. Kiara ne voulait jouer que les jolies filles qui font des dégâts, tandis qu'Ame jouait surtout le rôle de tank ou de soutien. Etonnamment, Kiara a tellement apprécié le jeu qu'elle a demandé à plusieurs reprises « une autre dernière partie ». Le stream n'était pas sponsorisé, mais le compte officiel de Paladins a été repéré dans le tchat, en offrant à Kiara quelques skins et débloquant tous les personnages pour elle dans le jeu.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.6541,
+        "width": 0.4206,
+        "height": 0.2886
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8oh3ekhuufg81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

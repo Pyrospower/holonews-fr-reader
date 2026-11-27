@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 0",
+      "bbox": {
+        "x": 0.4438,
+        "y": 0.0174,
+        "width": 0.1131,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "The release has been postponed ... (® ! n ! )! Please wait a little longer ;; (n “w™ n) ;: NY",
+      "bbox": {
+        "x": 0.0581,
+        "y": 0.105,
+        "width": 0.385,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "is 9/7! !! It's the 5th anniversary * °. +, (* O",
+      "bbox": {
+        "x": 0.1556,
+        "y": 0.1484,
+        "width": 0.3131,
+        "height": 0.0109
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La sortie du quatrième album de Sora, « Sign », a été reportée du 20 juillet au 7 septembre. Sora nous a rassurés sur ce report, car maintenant elle coincide également avec le cinquième anniversaire de ses débuts.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3769,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki a dessiné plus de timbres et de badges de membres tout en parlant de sa récente performance au xR ARTISTS SUPER FES 2022 en tant que AyaFubuMi. Fubuki mentionne que son groupe a dévoilé sa nouvelle chanson, Tsubaki, pour la première fois et pense qu'elles ont montré leur côté d'idole parfaite. Elle a dessiné ses badges de 3e et 4e année, car elle les a récemment débloqués. Elle a également créé un nouveau timbre pour les magnats du pétrole qui la suivent, car quelques membres de son chat offraient jusqu'à 50 membres à l'époque.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.5234,
+        "width": 0.3844,
+        "height": 0.1693
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après une très longue période, la tenue détente d'Aki est de retour, mise à jour et améliorée en tant que modèle 2.0 !",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8681,
+        "width": 0.3413,
+        "height": 0.0391
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle fait remarquer que sa tenue est parfaite pour hololive Summer, et Erolive est de retour en vue de la surface de peau à découvert. Elle a ensuite commencé à montrer ses cuisses et sa poitrine, pour le plus grand bonheur des spectateurs.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.9071,
+        "width": 0.3863,
+        "height": 0.0781
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la première fois depuis sa pause d'un mois en mai, Suisei a relancé Tetris 99. Dès sa quatrième partie, elle a réussi à remporter une victoire spectaculaire, frôlant la défaite pour finalement s'emparer de la première place.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2183,
+        "width": 0.3925,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a fait une apparition dans l'émission Twitch d'Ironmouse, « Speak of the Devil », pour la première fois ! Après les présentations, HighGai a également été présenté pour aider aux traductions si nécessaire. Ironmouse n'a pas pu contenir son excitation à l'idée d'avoir sa VTuber préférée dans son émission. Elles ont discuté pendant une heure, Haachama apprenant l'espagnol de Ironmouse, ainsi que le meme ligma, avant de passer à la partie questions-réponses.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.5239,
+        "width": 0.38,
+        "height": 0.161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au cours de cette dernière, Ironmouse a posé à Haachama les questions qu'elle avait préparées pour ce stream. Parmi les questions posées, citons le genre de musique qu'elle aime, ses passe-temps, la cuisine, les voyages, des idées de stream, et bien d'autres encore, qui ont permis aux spectateurs de mieux connaître Haachama. Elle a même appris l'existence des memes de Morbius, même si elle l'a confondu avec Morpheus de Matrix. Elles ont également parlé des futures collaborations qu'elles pourraient avoir dans le domaine du jeu ou de la chanson. Une collaboration à ne pas manquer !",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.6988,
+        "width": 0.3875,
+        "height": 0.1879
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/exo5mb635kb91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

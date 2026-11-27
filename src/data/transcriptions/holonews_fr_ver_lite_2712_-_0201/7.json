@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2712_-_0201",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holo ID",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.2374,
+        "width": 0.1638,
+        "height": 0.0408
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La famille holoID a fait un décompte jusqu'à la nouvelle année sur la chaîne de Risu. Reine n'a pas pu être présente, donc après avoir montré de la dinde rôtie, elles ont montré son portrait funèbre. Le décompte était chaotique, comme à leur habitude. Elles ont dit parler de leurs résolutions pour cette nouvelle année, et Ollie a demandé à ses cadettes (encore inconnues) de la gen 3 d’hololD de ne pas l'enquiquiner. Il y a eu plusieurs « problèmes de connexion », et à la fin du stream, elles avaient toutes un portrait funèbre à la place de leur avatar.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.3112,
+        "width": 0.4219,
+        "height": 0.2027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Adepte des streams déballage de colis, cette semaine, Moona a déballé et assemblé son nouveau clavier de jeu. Pendant le stream, elle a demandé aux spectateurs leurs opinions sur les couleurs qu’elle devrait utiliser pour le personnaliser (évidemment, la touche F est noire). Quelques jours plus tard, elle a ouvert des Lego Harry Potter et a commencé à les construire en stream. Elle a prévu de les finir en stream dans le futur.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.6966,
+        "width": 0.4206,
+        "height": 0.1727
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lofi a atteint les 500 000 abonnés quelques heures avant la fin de 2021. Quand c’est arrivé, elle a planifié un karaoké de célébration et un stream « ASMR comptage de grains de riz ».",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2765,
+        "width": 0.4238,
+        "height": 0.0799
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Parmi les nombreux streams discussion qu'elle a faites cette semaine, lofi en a fait un sur les hamsters. Elle a réalisé que toutes les histoires sur les hamsters se terminent par leur mort d’une manière bizarre.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3919,
+        "width": 0.4288,
+        "height": 0.0951
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le « Lundi Productif » de cette semaine, lofi a commencé à dessiner les images qu'elle utilisera pour sa chanson originale (qui sortira en mars) en stream, pour montrer un petit quelque chose à ses spectateurs.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.5239,
+        "width": 0.4169,
+        "height": 0.0955
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/40hgtlcubhb81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Divers",
+      "bbox": {
+        "x": 0.4388,
+        "y": 0.0169,
+        "width": 0.1263,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina, Bae et IRyS se sont transformées en ojii-san (vieil homme) en regardant le concert de Calli avec les spectateurs. Tout a commencé avec OssanRyS remarquant la jupe fendue de Calli, déclenchant l’apparition de Oji-Ina et son admiration pour les cuisses de Calli. Cette dernière mettait tellement OssanRyS en chaleur qu'on aurait pu « faire un barbecue sur elle ». Bae a essayé de résister, mais a succombé à leur influence et est devenue Ojii-Taro pendant le rappel du concert. Elles ont terminé en criant « Calli-chan » dans une voix sinistre d’ojii-san.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.1853,
+        "width": 0.3881,
+        "height": 0.1875
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au cours d’une collaboration des trois branches, Towa, Zeta et Mumei ont joué à Apex Legends. Elles ont participé à une quinzaine de parties pendant plus de deux heures, et bien qu'elles les aient toutes perdues, elles se sont amusées à essayer de communiquer difficilement entre elles en anglais.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.5234,
+        "width": 0.3881,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nos très chères membres du staff, A-chan et Nodoka, ont joué à hololive ERROR sur la chaîne officielle d’hololive, Sora les ayant convaincues d'y jouer. Les spectateurs ont été bénis par pléthore de cris. Nodoka a essayé de rester près d’A-chan, mais celle-ci était elle-même terrifiée. Elles ont également rencontré un esprit dans le jeu qu’elles ont surnommé « YAGOO » et A-chan a essayé d'harceler sexuellement sa cadette Nodoka en japonais et en anglais quand cette dernière avait peur. Merci holomanagers.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.799,
+        "width": 0.3919,
+        "height": 0.161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le dernier épisode de C de CHAD Cast, cette fois sur la chaîne de Bae, elle, Calli et IRyS ont discuté au sujet des activités estivales. Elles ont parlé des maillots de bain des holomems japonaises et se sont demandé à quoi pourraient ressembler les leurs. Elles ont également parlé de suikawari (jeu où l’on doit casser une pastèque les yeux bandés), de glaces, de leurs boissons préférées, et des émissions de leur enfance. Elles ont également abordé le sujet de leurs soins dentaires et cutanés, ont appris de l'anglais australien et ont parlé des restaurants avec des serveuses en tenues légères, tels que Hooters. Les CHADs ont fini l'épisode en parlant de leurs versions masculines et d’anime.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2205,
+        "width": 0.3888,
+        "height": 0.2266
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Groove Coaster",
+      "bbox": {
+        "x": 0.6381,
+        "y": 0.6293,
+        "width": 0.2388,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu et Mumei seront des navigatrices et des avatars dans Groove Coaster: Wai Wai Party! Elles seront incluses dans le DLC Hit Song + VTuber Pack 4. Plusieurs nouvelles musiques sont incluses, telles que « A New Start » de Mumei ou encore « Doku no Oujisama » et « adieu, Salauds » d'Okayu.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.6654,
+        "width": 0.3619,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "hololive ERROR",
+      "bbox": {
+        "x": 0.6363,
+        "y": 0.895,
+        "width": 0.2494,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "COVER présentera hololive ERROR au TOKYO GAME SHOW VR 2022. L'événement se tiendra du 15 au 18 septembre.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.9336,
+        "width": 0.39,
+        "height": 0.0399
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/x3pycvrupok91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

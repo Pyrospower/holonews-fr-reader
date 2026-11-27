@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 11,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.0929,
+        "width": 0.3525,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Avec la sortie du premier épisode de StaCole, Roberu a fait un stream dans lequel il n’était pas lui-même, mais une enfant de 12 ans. Elle vit dans un gigantesque manoir avec un majordome appelé Roberuto, dont on a pu entendre le rire plusieurs fois lors du stream, un chien nommé Gorgeous, et enfin une personne âgée prénommée Jiiya par la fillette.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.3255,
+        "width": 0.4181,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant ce stream, la jeune fillette a demandé qui était « Roberu » et a essayé de chanter une chanson malgré sa nervosité. Néanmoins, la jeune fille a avoué, avant de partir, qu’elle allait étudier au Etats-Unis pour devenir rappeuse.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.4865,
+        "width": 0.4163,
+        "height": 0.0955
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant un stream assez étrange, Roberu a joué avec de l'otamatone et n'a pas cessé d'en rire. Il a joué des musiques proposées par son tchat comme le thème de Lupin Ill ou de Monster Hunter. Il a aussi joué des originaux d’holostars comme « Pentas », « POP-TALK », « Just Follow Stars », « Journey to Find Stars » et d'autres encore.",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.6502,
+        "width": 0.3975,
+        "height": 0.1697
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le meilleur moment du stream reste quand Roberu a joué à l’otamatone la version flute de « Kaze no Sakana Ramune ».",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.8416,
+        "width": 0.3981,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran est le dernier membre d’holopro à essayer Jump King en stream. Sauf que son stream n’était pas tout à fait normal. En effet, à chaque fois qu'il tombait dans le jeu, une paire de mains géantes s'approchait petit à petit de lui. Après être tombé beaucoup de fois, les mains qui étaient derrière lui l’ont attrapé et ont transformé son avatar 2D en avatar 1D (une seule ligne), ce qui a fait rire ses spectateurs, ce qui a motivé de nombreux fans à faire des fanarts de lui en tant que ligne.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.3056,
+        "width": 0.4206,
+        "height": 0.1923
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka est de retour apres une longue semaine d'absence avec un stream karaoké et une nouvelle reprise. Il a blagué sur le fait qu'il a oublié comment chanter durant sa pause, tout en reprenant en live des chansons difficiles comme « World’s End », « Dancehall », « Babylon », et « From Y to Y » juste avant la première de sa nouvelle reprise.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.671,
+        "width": 0.425,
+        "height": 0.122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il était aussi très proche des 200k abonnés et a fait un stream endurance karaoké quelques jours après son live de retour. Cette fois-ci, il a chanté « Eine Kleine », « Tokyo Teddy",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8034,
+        "width": 0.4225,
+        "height": 0.0612
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bear », « Pretender » et « Gunjou ». Une demi-heure après ce live, Rikka a finalement atteint les 200k abonnés !",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.8646,
+        "width": 0.4088,
+        "height": 0.0421
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/fdc3qqhuufg81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

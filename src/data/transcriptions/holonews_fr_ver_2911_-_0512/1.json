@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "LE RETOUR TANT ATTENDU DE NENE",
+      "bbox": {
+        "x": 0.405,
+        "y": 0.7734,
+        "width": 0.4056,
+        "height": 0.0859
+      }
+    },
+    {
+      "type": "other",
+      "text": "Egalement disponible en JP, RU, ID, CN, sûr et PL! !",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.8958,
+        "width": 0.8544,
+        "height": 0.0638
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/qfiuoa7rjq581.png",
+    "gifFrame": null,
+    "confidence": 70
+  }
+}

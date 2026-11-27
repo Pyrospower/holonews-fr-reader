@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Anniversaire d'Aki et Choco.",
+      "bbox": {
+        "x": 0.0369,
+        "y": 0.1549,
+        "width": 0.2656,
+        "height": 0.0412
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les tenues assorties de Temma et Miyabi.",
+      "bbox": {
+        "x": 0.0369,
+        "y": 0.2135,
+        "width": 0.2713,
+        "height": 0.0686
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Stream de la Saint-Valentin.",
+      "bbox": {
+        "x": 0.0381,
+        "y": 0.2938,
+        "width": 0.2244,
+        "height": 0.0412
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous sommes a la recherche de plus de journalistes pour les talents JP.",
+      "bbox": {
+        "x": 0.1969,
+        "y": 0.9674,
+        "width": 0.7669,
+        "height": 0.0174
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/vofozn9hplk81.png",
+    "gifFrame": null,
+    "confidence": 76
+  }
+}

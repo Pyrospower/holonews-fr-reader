@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
+  "page": 15,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Merci d'avoir lu notre numéro spécial sur les débuts d'holoxX !",
+      "bbox": {
+        "x": 0.1125,
+        "y": 0.1454,
+        "width": 0.7769,
+        "height": 0.0503
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "N'oubliez pas de consulter nos réseaux sociaux et de lire nos numéros précédents !",
+      "bbox": {
+        "x": 0.1275,
+        "y": 0.2313,
+        "width": 0.7469,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez contribuer à notre groupe ou simplement rester à jour sur tout ce qui concerne Hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord !",
+      "bbox": {
+        "x": 0.1156,
+        "y": 0.3494,
+        "width": 0.7669,
+        "height": 0.0994
+      }
+    },
+    {
+      "type": "other",
+      "text": "HoloNews | 10/11-10/17 issue out now",
+      "bbox": {
+        "x": 0.3494,
+        "y": 0.5972,
+        "width": 0.2088,
+        "height": 0.0078
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d'avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.2688,
+        "y": 0.6406,
+        "width": 0.4594,
+        "height": 0.0556
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lp8tsto8kc481.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

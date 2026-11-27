@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Divers",
+      "bbox": {
+        "x": 0.4369,
+        "y": 0.0169,
+        "width": 0.1263,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kiara a invité Aoi Nabi, l'ilustratrice d'Ame, à lui apprendre quelques phrases coréennes basiques en vue de son voyage en Corée. Nabi a appris à Kiara comment saluer les autres et se présenter, comment répondre aux questions, et l'argot coréen basique, entre autres.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.3168,
+        "width": 0.3863,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le stream était rempli de moments caractéristiques de Kiara, comme la demande de la main d'Ame et la bénédiction de Nabi, la demande... audacieuse de « lait humain » à Nabi et la révélation du caractère masochiste d'Ame. Kiara a également parlé de ce qu'elle allait faire en Corée avec Nabi comme guide touristique, et les projets de Nabi de partir en Europe pendant six mois. Le stream s'est terminé par la promesse de Kiara de voler Nabi à Ame et de l'engraisser avec du chocolat pour avoir plus de lait, en nous assurant que ce n'était pas bizarre.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.4245,
+        "width": 0.3825,
+        "height": 0.1745
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron et Watame ont participé à Cinderella Switch, une série de concerts virtuels sur la plateforme VARK. Il s'agissait de leur deuxième représentation. La première chanson du concert est disponible gratuitement sur NicoNico. Le prochain concert aura lieu le 27 août et mettra en vedette Matsuri et Fubuki.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8733,
+        "width": 0.3875,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "heading",
+      "text": ", game kiwawagace",
+      "bbox": {
+        "x": 0.6194,
+        "y": 0.1207,
+        "width": 0.2694,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le lendemain de leur concert au VARK, ShishiWata a organisé une autre collaboration dans laquelle elles ont joué à Valheim. Il leur a fallu plus d'un an pour obtenir l'autorisation, donc elles ont débuté toutes les deux. Une série de moments amusants s'ensuivit : leurs deux personnages se sont avérés très similaires, Watame a été écrasé par un arbre, et Shishiron est mort d'un empoisonnement au monoxyde de carbone après que Watame ait placé un feu en intérieur. Elles ont tout de même réussi à vaincre le premier boss et ont fait preuve d'un excellent travail d'équipe, Watame distrayant la bête mythique pendant que Shichiron l'abattait avec un arc.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.8064,
+        "width": 0.3931,
+        "height": 0.1732
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/817aptg4fig91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

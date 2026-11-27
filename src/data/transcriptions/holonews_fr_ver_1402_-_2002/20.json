@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 20,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENTS PALIERS À VENIR D’ABONNÉS",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.0326,
+        "width": 0.8531,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "other",
+      "text": "(Du 22 au 28 février)",
+      "bbox": {
+        "x": 0.1875,
+        "y": 0.1115,
+        "width": 0.1588,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 22 février : Anniversaire et concert d'Okayu",
+      "bbox": {
+        "x": 0.0869,
+        "y": 0.1372,
+        "width": 0.3569,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 24 février : 2e anniversaire de Bakatare et concert « Bakataration",
+      "bbox": {
+        "x": 0.0869,
+        "y": 0.1853,
+        "width": 0.3606,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "party »",
+      "bbox": {
+        "x": 0.1069,
+        "y": 0.2188,
+        "width": 0.0656,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 25 février : Anniversaire de Shien",
+      "bbox": {
+        "x": 0.0869,
+        "y": 0.2496,
+        "width": 0.3463,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 28 février : Anniversaire d'A-chan",
+      "bbox": {
+        "x": 0.0869,
+        "y": 0.2817,
+        "width": 0.3456,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 29 février : Anniversaire de Bae",
+      "bbox": {
+        "x": 0.0869,
+        "y": 0.3138,
+        "width": 0.3294,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[4 Merci! Si vous voulez voir votre oshi dans les actualités ou aimeriez rester a jour sur tout ce qui se rapporte a hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.6081,
+        "width": 0.8588,
+        "height": 0.1723
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.3137,
+        "y": 0.793,
+        "width": 0.3825,
+        "height": 0.056
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/38e8fj9hplk81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

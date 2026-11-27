@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Magazine hebdomadaire d’actualités.",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.1376,
+        "width": 0.3013,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "OMOCAT",
+      "bbox": {
+        "x": 0.0156,
+        "y": 0.1949,
+        "width": 0.185,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "other",
+      "text": "Avec Calli et Kiara",
+      "bbox": {
+        "x": 0.0156,
+        "y": 0.2201,
+        "width": 0.1,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vampire Survivors",
+      "bbox": {
+        "x": 0.0169,
+        "y": 0.5065,
+        "width": 0.1775,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Concours de manga d’Haachama",
+      "bbox": {
+        "x": 0.0188,
+        "y": 0.5634,
+        "width": 0.2125,
+        "height": 0.066
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Botan a enfin été",
+      "bbox": {
+        "x": 0.0194,
+        "y": 0.648,
+        "width": 0.1544,
+        "height": 0.0447
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "surprise E*",
+      "bbox": {
+        "x": 0.02,
+        "y": 0.691,
+        "width": 0.3619,
+        "height": 0.1337
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pleins d'autres",
+      "bbox": {
+        "x": 0.0188,
+        "y": 0.7865,
+        "width": 0.1356,
+        "height": 0.046
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "articles. y y i",
+      "bbox": {
+        "x": 0.0188,
+        "y": 0.8077,
+        "width": 0.4275,
+        "height": 0.0994
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/23q6kht6bdn81.png",
+    "gifFrame": null,
+    "confidence": 79
+  }
+}

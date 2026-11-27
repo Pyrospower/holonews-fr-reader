@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Nouvelle tenue après avoir atteint 100 000 abonnés.",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.1997,
+        "width": 0.165,
+        "height": 0.0408
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aqua-iro in wonderland",
+      "bbox": {
+        "x": 0.0419,
+        "y": 0.3047,
+        "width": 0.1069,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De retour après une longue semaine sans stream.",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.395,
+        "width": 0.1963,
+        "height": 0.0417
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "0 NJ huit Shubas pour gagner… rien du tout",
+      "bbox": {
+        "x": 0.595,
+        "y": 0.9106,
+        "width": 0.3931,
+        "height": 0.0482
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous sommes à la recherche de plus de journalistes pour les talents JP.",
+      "bbox": {
+        "x": 0.3431,
+        "y": 0.9674,
+        "width": 0.6525,
+        "height": 0.0156
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/6z4vachuufg81.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

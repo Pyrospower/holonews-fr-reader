@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 12,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Okayu a pris deux jours de pause cette semaine pour aller voir Korone, et a ensuite partagé les détails de ses vacances en stream. Elles sont allées au « Universal Studios Japan », dans divers manèges et attractions comme des montagnes russes qui ont beaucoup fait crier Korone. Okayu a aussi montré un dessin d'elles deux avec les habits habituels.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2513,
+        "width": 0.4244,
+        "height": 0.1363
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.0769,
+        "y": 0.4141,
+        "width": 0.3844,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "other",
+      "text": "Translate Tweet",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.5417,
+        "width": 0.0731,
+        "height": 0.0052
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.1619,
+        "y": 0.5885,
+        "width": 0.1263,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après qu'Astel et Leia de DTN aient atteint le rang de Maître le 21 novembre dernier, lzuru était resté seul dans le rang inférieur. Il avait précédemment mentionné qu'il ne voulait plus jouer seul, il s’est donc cherché des coéquipiers pour jouer en parties classées avec lui. Après son tweet, Meika et Nyosu (des joueurs professionnels) sont venus à sa rescousse pour jouer avec lui.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.628,
+        "width": 0.4269,
+        "height": 0.1402
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyabi, Aruran et Temma ont fait du camping ensemble. Pendant 2 jours, elles ont animé différents espaces Twitter et ont réussi à faire un stream sur la chaîne d'Aruran avec l'aide de leurs managers.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7977,
+        "width": 0.4188,
+        "height": 0.0794
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils ont déclaré que si ce projet était considéré comme un succès, ils aimeraient recommencer avec les 9 membres la prochaine fois.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.8937,
+        "width": 0.4263,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mio, Subaru et Miko sont parties ensemble en voyage dans des bains de relaxation. Leur emploi du temps consistait principalement à tremper dans le bain, dormir et jouer aux cartes. Elles ont fait en sorte de raconter leur voyage plus tard, sans oublier lorsque Subaru a vu les vêtements trop amples de Mio, ce qui a valu une illustration plutôt coquine du papa de Mio, lzumi-sensei.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2513,
+        "width": 0.4206,
+        "height": 0.1306
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka &",
+      "bbox": {
+        "x": 0.6331,
+        "y": 0.5894,
+        "width": 0.1594,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roberu et Rikka ont participé au « Friend Tree Virtual Fes 2021 » avec le VTuber et doubleur Ono Yuuki et le VTuber indépendant Tenkai Tsukasa. Des concerts en solo et en live ont eu lieu. Cet événement a été le premier de stream musical de Roberu en 3D.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.628,
+        "width": 0.4138,
+        "height": 0.1085
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/eroq6e7rjq581.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 20,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Un grand merci a notre équipe",
+      "bbox": {
+        "x": 0.235,
+        "y": 0.0964,
+        "width": 0.5288,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "pour son travail cette année Shifty Equipe éditoriale Equipe de traduction Rédacteurs en chef JP ES sleepygirl Saralia Jakes57 Fulli Saginomiya fransuke-sama Ryokhan ID Macf kingofpikon minyaksayur Yagato TheBigMD Millie BadGrammar PhantomZamber Soyash Frappu Chefs d'édition = losfroger : Joestar san KnifyMan Leviathong A : smallrain Zephias [= ; Terence PL REE] BE [Arashi] sanena Rédacteurs RU KapiWilq Absolute Zero Elvendan koxiu Elvendan DarellaTheZ# 3 anxs Fineko kkkkkk EnaxTM ggggxxxx kakain-pon4ukette FR Smoked Pancakes' House infernail Wel jiget Développeur Chilluno! AyaVirus Toothless Pyrospower fransuke-sama Nickatak Sebas1509",
+      "bbox": {
+        "x": 0.1663,
+        "y": 0.1302,
+        "width": 0.6694,
+        "height": 0.5729
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "RealNicheMarket Consultant en graphisme Whenever Niklas AllBaito Yayaka Modérateur dutchat Piexlll DonL Drad",
+      "bbox": {
+        "x": 0.2131,
+        "y": 0.7088,
+        "width": 0.5931,
+        "height": 0.0816
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Journalistes sur Discord et Reddit Gabin Andmeuths, Atrophius, Bomber, KyouMoKawaii, mattscout007, Sasuga!, Zahder, Irystocrat, Kirill,",
+      "bbox": {
+        "x": 0.2188,
+        "y": 0.8008,
+        "width": 0.5613,
+        "height": 0.066
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bling, Cannongerbil, NurseT, Jellyjelly, ET BIEN PLUS",
+      "bbox": {
+        "x": 0.2775,
+        "y": 0.8733,
+        "width": 0.4375,
+        "height": 0.0347
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/gxjactqbop881.png",
+    "gifFrame": null,
+    "confidence": 68
+  }
+}

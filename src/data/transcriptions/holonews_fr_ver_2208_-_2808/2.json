@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2208_-_2808",
+  "page": 2,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le troisième concert anniversaire de Noel était intitulé Summer Memories -Natsu no omoide-. La chanson avec laquelle elle a commencé son concert a été « lkenai Taiyou » qu'elle a performé vêtue d'un bikini et avec un décor de plage. Après une introduction rapide, Noel a disparu de la scène pour réapparaître en compagnie de sa première invitée, Koyori, qui a chanté « Solar system disco » avec elle.",
+      "bbox": {
+        "x": 0.0817,
+        "y": 0.4464,
+        "width": 0.3844,
+        "height": 0.1682
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuite, elles sont tombées de la scène alors qu'elle était en train d'être changée pour revenir au décor de plage. Noel a chanté « Thrilling! Is this love? » et « Homenobi » sans tenir compte de ce qui venait de se produire.",
+      "bbox": {
+        "x": 0.0811,
+        "y": 0.7369,
+        "width": 0.3894,
+        "height": 0.1003
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Alors qu'elle était encore a la plage, Noel a chanté « Alligator » et",
+      "bbox": {
+        "x": 0.0811,
+        "y": 0.8434,
+        "width": 0.3889,
+        "height": 0.0289
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« Shampoo » avec le reste d'holofantasy, puis « Coco vr Natsu » avec Akirose, Polka et Lui. Elles ont faites des petites pauses pour pouvoir faire des captures d'écrans entre chaque performance.",
+      "bbox": {
+        "x": 0.0811,
+        "y": 0.8723,
+        "width": 0.3894,
+        "height": 0.0864
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La partie suivante du concert a débuté sur Danchou émergeant d'une porte Torii en yukata pour chanter «Hana ni Bourei» et « You together ». Elle a mentionné vraiment vouloir représenter une atmosphère estivale avec cette partie.",
+      "bbox": {
+        "x": 0.5339,
+        "y": 0.4468,
+        "width": 0.3906,
+        "height": 0.1157
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir chanté « Clock lock works » et « Dango Daikazoku », Noel a révélé sa nouvelle gamme de produits dérivés d'anniversaire:",
+      "bbox": {
+        "x": 0.5333,
+        "y": 0.7052,
+        "width": 0.3983,
+        "height": 0.0648
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un tableau en acrylique, illustré ar Watao » Son sweat à capuche\n• Un porte clé de la peluche Knights“",
+      "bbox": {
+        "x": 0.5489,
+        "y": 0.7728,
+        "width": 0.3694,
+        "height": 0.0718
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un shaker Le bonus pour avoir acheté toute la collection est une carte postale avec son autographe écrit à la main.",
+      "bbox": {
+        "x": 0.5339,
+        "y": 0.8445,
+        "width": 0.3839,
+        "height": 0.0571
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin, elle a révélé puis chanté sa 3e chanson originale, « ours » qui a fait sa première juste après le concert.",
+      "bbox": {
+        "x": 0.5339,
+        "y": 0.9101,
+        "width": 0.3978,
+        "height": 0.0486
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/q2jbxbvzr1m91.gif",
+    "gifFrame": 89,
+    "confidence": 93
+  }
+}

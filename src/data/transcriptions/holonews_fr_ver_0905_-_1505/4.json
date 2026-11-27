@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 4,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le 10 mai, Uyu a fêté son anniversaire en le répartissant sur trois streams. Il a commencé par un stream compte a rebours, pour lequel il a désactivé les Super Chats afin que les gens les envoient plutôt pendant le stream d'anniversaire. Il a remercié plusieurs de ses collègues pour lui avoir souhaité un joyeux anniversaire, chantonné « Romeo » et « Yoru ni kakeru », et a décidé du hashtag pour son anniversaire. Est ensuite venue l'heure du stream d'anniversaire, lors duquel il a lu autant de poèmes envoyés par des Fantoms que possible en 30 minutes, le reste devant attendre une prochaine fois. Avant cela, il a discuté de ses projets pour les émoticônes et souscriptions de membres à sa chaîne.",
+      "bbox": {
+        "x": 0.0578,
+        "y": 0.4907,
+        "width": 0.2833,
+        "height": 0.4491
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a également expliqué à son tchat qu'il lirait les Super Chats et regarderait les fan arts lors d'un autre stream. La discussion a dérivé pendant encore 30 minutes avant que son tchat lui rappelle qu'il devait encore lire leurs poèmes. Il s'est finalement attelé à la tâche et a donné une note à chacun des poèmes en fonction de son avis et de la finesse d'écriture. L'une des œuvres envoyées était écrite en morse, et Uyu a lu individuellement chacun des points et traits. Heureusement, Machamane (le manager d'UPROAR!!) a rapidement traduit le message, qui donnait :",
+      "bbox": {
+        "x": 0.3583,
+        "y": 0.49,
+        "width": 0.2817,
+        "height": 0.3526
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« Uyu, je t'aime, épouse-moi. » Uyu lui a accordé 78 points, justifiant en expliquant que ce n'était pas un poème mais une déclaration d'amour.",
+      "bbox": {
+        "x": 0.3589,
+        "y": 0.8434,
+        "width": 0.2794,
+        "height": 0.0922
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après cela, il a levé le voile sur une illustration commandée à Nardack. C'était son cadeau aux Fantoms, pour compenser le fait qu'il ne pouvait pas proposer de produits dérivés.",
+      "bbox": {
+        "x": 0.6589,
+        "y": 0.49,
+        "width": 0.2833,
+        "height": 0.1246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin, le troisième et dernier stream était dédié à la lecture des Super Chats ainsi qu'au visionnage des fan arts envoyés par ses fans. Ce stream a duré pendant près de 9 heures, durant lesquelles il n'a cessé d'alterner entre lecture de Super Chats et discussions sur des sujets divers. Après que la date a changé à minuit (heure japonaise), il a plaisanté en disant que les Fantoms qui lui souhaitent un bon anniversaire après la date seraient bannis de sa chaîne.",
+      "bbox": {
+        "x": 0.6589,
+        "y": 0.6188,
+        "width": 0.2822,
+        "height": 0.2847
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/fytcxvbndn191.gif",
+    "gifFrame": 63,
+    "confidence": 95
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 15,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "hololive EN",
+      "bbox": {
+        "x": 0.3856,
+        "y": 0.0161,
+        "width": 0.23,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kiara a fait un stream dans lequel elle passait en revue les sacs de ses collègues d'hololive ainsi que leur contenu. Elle a aussi joué à un jeu de devinette où ses spectateurs devaient essayer de trouver à qui appartenaient les sacs. Alerte spoiler : Les sacs qui ont été utilisés durant le stream appartenaient respectivement à Ollie, Calli, Fubuki, Fauna, Ina, Baelz, Marine, Mumei, Nene, Amelia, Reine et a elle-méme. Elle a aussi revu un sac surprise, qui appartenait a Pomu Rainpuff, de Nijisanji En.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.5404,
+        "width": 0.3881,
+        "height": 0.1662
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le dernier épisode de sa série Snackbox, Kiara a passé en revue un coffret aux couleurs du Royaume-Uni. Elle a eu l'occasion de goûter a du Pepsi Max Raspberry, des Wotsits, des chips saveur oignon mariné, des Drumsticks Squashies, des Skittles Squishy Cloudz, des Wispa Gold, des Twix (achetés à part par Kiara), des Fox's party rings, des bâtons gâteaux Maltesers, de la glace Kinder, des Jaffa Cakes, et une barre Mars. Elle s’est aussi essayée à un quiz Harry Potter situé sur l’un des emballages, et s’est souvenue avoir montré son titre d'écossaise qu’un fan lui avait offert à ses amis. Elle a aussi abordé le sujet de sa présence au Crunchyroll Panel en compagnie d'autres vtubeuses.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.4987,
+        "width": 0.3863,
+        "height": 0.2218
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre couple divorcé préféré, Bae et IRyS, ont fait ensemble une vidéo donnant des conseils conjugaux pour la CRUNCHYROLL EXPO. La vidéo, intitulée « How to save your failing marriage 101 », donne les 7 étapes nécessaires pour sauver une relation en déclin, accompagnées des démonstrations faites par Baerys, pour couronner le tout. Les étapes 1 à 6 sont les suivantes: être gentil, exprimer ses ressentis, se concentrer sur les bonnes choses, faire des rendez-vous toutes les semaines, rendre les soirées Monopoly plus excitantes, et s'imaginer son futur partenaire. L'étape 7 est de considérer le divorce, avec Bae s'exclamant, disant que « Le mariage n’est qu’un mensonge », mettant en colère IRyS.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.8125,
+        "width": 0.4238,
+        "height": 0.1701
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lp3qz866lwh91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

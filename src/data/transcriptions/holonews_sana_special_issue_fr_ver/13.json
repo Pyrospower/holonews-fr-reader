@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_sana_special_issue_fr_ver",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "ee Tsukumo Sana Special Issue 4",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.0213,
+        "width": 0.8,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "heading",
+      "text": "#5 Sana & Watame",
+      "bbox": {
+        "x": 0.095,
+        "y": 0.0725,
+        "width": 0.3881,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En guise de cinquième collaboration, Sana a joué a Minecraft avec Watame. Elles ont surtout discuté en japonais et ont construit une boulangerie sur le serveur JP qu'elles ont nommé « La boulangerie de Sana et Watame ». Le stream n'a pas duré longtemps, mais elles ont apprécié le temps passé ensemble, et la boulangerie en sera le souvenir. Plus tard, Sana a joué une dernière fois à Tsunomaki Janken et a laissé un message disant qu'elle s'était beaucoup amusée avec Watame. Elles ont mis fin au stream après avoir fait des captures d'écran devant leur boulangerie.",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.2891,
+        "width": 0.3656,
+        "height": 0.1997
+      }
+    },
+    {
+      "type": "heading",
+      "text": "#6 Aussies",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.5122,
+        "width": 0.2175,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Deux australiennes, une australien honoraire et une ancienne australienne se sont battues sur Mario Party pour savoir qui sera la véritable australienne. Ce stream était la sixième collaboration de Sana avant sa graduation. Bae était Yoshi, Sana Harmonie, Kiara Daisy et Haachama était Birdo. Kiara a conservé l'avantage au début, en remportant la panels es mini-jeux, mais elle a inalement été surclassée par Bae gagnant le dernier mini-jeu, Les deux vraies australiennes ont défendu leur nationalité en prenant la première et la deuxième place. Haachama s'est faite déconnecter à la dernière minute et n'a be pu revenir, mais ama est resté ort dans les mini-jeux. El beaucoup d'argot austr« 7 ~ _ stream, et Kiara a déclaré q prévu ce stream depuis lo qu'elle-était heureuse qu'il EN",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.6645,
+        "width": 0.4125,
+        "height": 0.2925
+      }
+    },
+    {
+      "type": "heading",
+      "text": "#7 Sana & —c",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.0725,
+        "width": 0.2888,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de la septième collaboration avant sa graduation, Sana et Bae ont classé des Collations australiennes. Elles ont commencé le stream juste après leur retour du festival SMASH! et nous ont accueillis avec leur nouvelle salutation. Bae aimait beaucoup de collations, tandis que Sana était plus difficile. Leurs opinions sur les collations salées étaient pratiquement les mêmes, mais parmi les collations sucrées, elles n'étaient d'accord que sur les Tim Tams.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.27,
+        "width": 0.3656,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sana a mis le vegemite au rang S et a dit que ses fans étaient des chiens de pain qui seraient heureux si elle étalait du vegemite dessus. Il semblait que le stream aurait dû s'arrêter là, mais ils ont commencé une deuxième tier-list et ont immédiatement fait l'éloge du Boost Juice. Le duo a mis fin au stream en chantant la chanson de fin de Bae en disant qu'elles ne comprenaient pas ce qu'il se passait.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.4275,
+        "width": 0.365,
+        "height": 0.1224
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/r5bl842un4f91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

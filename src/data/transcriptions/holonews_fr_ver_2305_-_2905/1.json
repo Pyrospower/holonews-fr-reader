@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2305_-_2905",
+  "page": 1,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roi Démon Kobo * Revue de bonbon de lofi « Subaru est mignonne",
+      "bbox": {
+        "x": 0.0663,
+        "y": 0.0113,
+        "width": 0.8969,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "heading",
+      "text": "& VRChat",
+      "bbox": {
+        "x": 0.0175,
+        "y": 0.2726,
+        "width": 0.2388,
+        "height": 0.046
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vaca n",
+      "bbox": {
+        "x": 0.0144,
+        "y": 0.5803,
+        "width": 0.2094,
+        "height": 0.0269
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8xlqlojpo1391.png",
+    "gifFrame": null,
+    "confidence": 61
+  }
+}

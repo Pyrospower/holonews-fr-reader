@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Koyori&",
+      "bbox": {
+        "x": 0.6619,
+        "y": 0.3099,
+        "width": 0.1781,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Chloe a tweeté un enregistrement vocal de Cette semaine, nous avons assisté à une",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.3485,
+        "width": 0.85,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "sa petite sœur et d'elle-même dans le bain. combinaison unique entre le stream ASMR de C'était son premier bain depuis une Koyori et la diffusion par La+ de sa réaction en semaine, contrairement à sa sœur qui direct à celui-ci. Sous les attaques incessantes elle, se lave tous les jours. Chloe aime de Koyori (taquineries, caresses, nettoyage et",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3637,
+        "width": 0.9,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A beaucoup sa sœur et est extrêmement",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.4297,
+        "width": 0.3831,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "doux chuchotements), La+ s'est lancée en réponse dans une série de bruitages plutôt",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.4223,
+        "width": 0.3919,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "protectrice envers elle, à tel point qu'elle a étranges, qui ne pouvaient être décrits que",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.4457,
+        "width": 0.8619,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "dit au tchat d'arrêter d'envoyer des comme dégoûtants. Ils étaient si indécents messages d'amour pour celle-ci, sinon elle = qu'à un moment, YouTube a signalé le stream les bloquerait sans préavis. Il faudra lui comme inapproprié, ce qui aurait pu affecter la passer sur le corps pour avoir sa sœur ! monétisation.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.4618,
+        "width": 0.8981,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A la suite de la diffusion du stream La+ et Iroha se sont associées pour faire collaboration Among Us, holoX ont deux streams collab. Jouant sur leurs annoncé la sortie des produits points forts, Iroha a entraîné La+ sur Ring commémoratifs de leurs débuts : un badge Fit Adventure, et pour équilibrer le tout, La+ avec le logo holoX et une tapisserie au a regardé Iroha jouer au jeu d'horreur Night format B2 illustrée par Nmuri-sensei. Delivery. Elles ont toutes deux crié, mais",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.7205,
+        "width": 0.9006,
+        "height": 0.0959
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "pour différentes raisons.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.8168,
+        "width": 0.2356,
+        "height": 0.0156
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xtq505r7op881.png",
+    "gifFrame": null,
+    "confidence": 80
+  }
+}

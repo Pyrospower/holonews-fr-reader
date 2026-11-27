@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 2,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Shien est le dernier membre d'holostars à obtenir une nouvelle tenue. Avant de la présenter, il a montré les précédentes, comme sa tenue habituelle, celle du Nouvel An et celle d'été. Shien nous a ensuite emmenés dans une rue pleine de graffitis et a commencé à révéler son nouveau modèle, en partant du bas. Sa tenue s'inspire du streetwear : baskets, jogging et veste coupe-vent. Le design présente également des éléments asymétriques. Cependant, le plus grand changement se situe au niveau de ses cheveux, qui présentent désormais davantage de mèches blanches et une frange balayée sur le côté. D'autre part, il peut enfiler sa capuche et porter un masque à gaz à lunettes amovibles en forme de museau de chacal:",
+      "bbox": {
+        "x": 0.0383,
+        "y": 0.5328,
+        "width": 0.5022,
+        "height": 0.2905
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En plus de sa nouvelle tenue, Shien a également dévoilé des produits dérivés : « Une figurine en acrylique » Un badge en métal",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.8449,
+        "width": 0.4272,
+        "height": 0.0691
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les produits dérivés sont disponibles en précommande jusqu'au 7 mars.",
+      "bbox": {
+        "x": 0.0406,
+        "y": 0.9317,
+        "width": 0.4239,
+        "height": 0.0336
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "New Outfit Celebration 2022",
+      "bbox": {
+        "x": 0.7878,
+        "y": 0.5849,
+        "width": 0.1594,
+        "height": 0.0367
+      }
+    },
+    {
+      "type": "other",
+      "text": "On Sale January 31",
+      "bbox": {
+        "x": 0.8061,
+        "y": 0.6265,
+        "width": 0.1211,
+        "height": 0.0073
+      }
+    },
+    {
+      "type": "other",
+      "text": "2 Celebration Merch Sporty Shien Acrylic Stand Sporty Shien Pin Badge",
+      "bbox": {
+        "x": 0.8239,
+        "y": 0.6551,
+        "width": 0.1267,
+        "height": 0.0224
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/z53agqfs4uh81.gif",
+    "gifFrame": 90,
+    "confidence": 93
+  }
+}

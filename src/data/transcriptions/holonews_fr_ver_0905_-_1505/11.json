@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 11,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.26,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOSTARS vs UPROAR!!",
+      "bbox": {
+        "x": 0.1981,
+        "y": 0.0755,
+        "width": 0.2025,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les cadets de UPROARI!! et les ainés de HOLOSTARS ont décidé de s'affronter sur Overwatch 2. Avec Miyabi, lzuru, Aruran et Astel représentant les ainés et Fuma, Uyu, Gamma et Rio du côté des cadets, ils se sont réunis dans un lobby personnalisé. C’est ainsi que débuta « HOLOSTARS vs UPROARI! ». Avec Aruran comme tank, Astel et Miyabi comme DPS, et Izuru comme soutien, les ainés ont prouvé leur force en battant leurs cadets sans pitié. Les membres d UPROAR! ont pu constater la force de leurs ainés.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.151,
+        "width": 0.3806,
+        "height": 0.161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lofi a décidé de faire un stream « Critique de Mauvaise Nourritures », incitant ses fans à envoyer des photos et des clips détaillés de leur « création maudite ». Cependant, elle a eu les yeux plus gros que le ventre. Après une heure et demie à passer en revue des choses qui pourraient violer les conventions de Genève, lofi a profondément regretté son choix.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.5395,
+        "width": 0.39,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le deuxième épisode de « Risu Radio Night », notre écureuil local a parlé en détail des « coulisses » du métier de créateur de contenu. Le stream s'est concentré sur le processus réel de développement de son contenu, dans le but de donner aux spectateurs et aux futurs streameurs une idée générale du processus de création d'un stream. Elle a également partagé ses propres réflexions ainsi que des conseils constructifs.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.8342,
+        "width": 0.3806,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque l'horloge a atteint minuit, ils ont également célébré l'anniversaire d'Uyu. Comme « cadeau », ils l'ont laissé décider de son équipe de rêve. Il a choisi Astel, Miyabi et Aruran pour faire partie de son équipe, puis a choisi de jouer en soutien pour eux. lzuru et le reste d'UPROAR!! se sont mis en colère et ont juré de s'en prendre spécifiquement à Uyu lors du match. Cependant, l'équipe de rêve d'Uyu était toujours dominante. Après cela, ils ont mélangé et équilibré les équipes. Cette fois, le match était plus équilibré, mais ils ont rapidement découvert que la clé de la victoire était d'avoir Astel dans leur équipe. Son équipe l'emportait toujours, sauf au tout dernier tour où Miyabi a choisi un héros pour le contrer.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.0838,
+        "width": 0.3919,
+        "height": 0.2253
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant son stream Lundi Productif, lofi a choisi au hasard le thème « Vêtements amples ». Elle a dessiné Kobo, et comme elle semblait seule, elle s'est aussi dessinée. Bien sûr, les deux portaient des vêtements très amples.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.6141,
+        "width": 0.41,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'idole espionne Zeta et sa partenaire, l'idole à l'épée tranchante Anya, ont terminé le dernier niveau d'Operation : Tango en localisant la bombe, en évitant les drones de sécurité piratés, et enfin en désamorçant la bombe. Cependant, comme elles sont de nature maladroite, elles ont dû s’y reprendre à plusieurs fois avant de terminer la mission finale.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.8685,
+        "width": 0.4044,
+        "height": 0.1042
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/wu1g0qbndn191.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

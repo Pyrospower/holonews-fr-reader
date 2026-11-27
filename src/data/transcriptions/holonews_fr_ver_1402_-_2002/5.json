@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Miko a fait un stream ASMR spécial Saint-Valentin avec son nouveau micro KU100 ! Elle a pris soin de préparer le micro et Noel l’a même aidée à le paramétrer. Durant le stream, elle a fait ce que demandait son tchat, comme jouer avec un doigt mouillé sur un verre, compter le nombre de moutons (sauf qu’elle comptait le nombre de Miko dans son cas) et chanter une berceuse. À certains moments, Miko était gênée de faire cet ASMR puisqu'elle en fait rarement. Elle a tout de même promis de faire plus de streams ASMR pour les membres de sa chaîne.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2483,
+        "width": 0.4269,
+        "height": 0.2092
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après que Choco ait fait une imitation de Roboco, Roboco a essayé d'imiter Choco. Malheureusement, elle n'était pas convaincante et Choco pense que c'est parce que Roboco est trop mignonne et qu'elle n’a pas assez de pouvoir de séduction. Roboco a démenti et a fait un Ara Ara avec sa voix normale pour lui prouver le contraire. Selon Choco, cela donnait juste l'impression quelle était en train de limiter.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.6393,
+        "width": 0.4225,
+        "height": 0.1445
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1606,
+        "y": 0.8477,
+        "width": 0.1375,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Six mois après, Suisei est de retour sur APEX. Même cela fait un long moment qu'elle n’a pas rejoué, elle a montré qu'elle n’avait rien perdu de ses talents sur le jeu en gagnant une partie avec cing kills et plus de 1000 de dégâts infligés.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.8863,
+        "width": 0.4219,
+        "height": 0.0868
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sora a fait un stream spécial pour la Saint-Valentin. Durant ce stream, elle a essayé de reproduire un rencard amoureux en utilisant différentes voix et poses. Elle a aussi donné des chocolats à ces spectateurs à plusieurs reprises. Elle a donné une première fois les chocolats timidement avec son modèle 3D, puis une seconde fois en utilisant des accessoires 3D avec lesquels elle a pu jouer. Après ça, elle a fait une session photo ou elle a fait des poses adorables avec son modèle 3D. Dans son ensemble, le stream était g'aisant et adorable pour un stream aint-Valentin.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2491,
+        "width": 0.4206,
+        "height": 0.2122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Connue pour être une amatrice de manga, Sora a une façon plutôt unique de les lire. Ce qu'elle aime faire est de prendre et lire le dernier chapitre d'un manga, avant de lire le début en sachant comment cela va se terminer. Sora procède ainsi parce qu'elle veut absolument connaître la fin et ainsi pouvoir en parler avec les autres.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.487,
+        "width": 0.4188,
+        "height": 0.1276
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AZKi a fait une apparition pour la première fois dans Hologra dimanche dernier ! u/C-ShoR3, un redditor qui postait du contenu de AZKi de façon journalière jusqu'à ce qu'elle soit dans Hologra, peut enfin aller se reposer.",
+      "bbox": {
+        "x": 0.5281,
+        "y": 0.6441,
+        "width": 0.24,
+        "height": 0.1441
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/rtbwlt9hplk81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

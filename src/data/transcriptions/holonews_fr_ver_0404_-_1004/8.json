@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 3",
+      "bbox": {
+        "x": 0.4394,
+        "y": 0.0174,
+        "width": 0.1213,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Flare a rencontré un personnage nommé Pat lors de son stream sur Elden Ring. Elle l'a combattu et épargné, mais se doutait qu'il allait la trahir. Ses soupçons se sont malheureusement avérés vrais lorsqu'elle a été soudainement téléportée loin à cause de lui, et sa réaction était très mignonne.",
+      "bbox": {
+        "x": 0.0663,
+        "y": 0.224,
+        "width": 0.39,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Noel a récemment eu un rendez-vous avec Subaru ! Elles avaient été invitées à une expo consacrée à Baki et Subaru a invité Noel à l'accompagner. En tant que Subatomo, Noel était très nerveuse en allant à l'expo avec Subaru, et tellement nerveuse qu'elle n'a pas beaucoup parlé ! En fin de compte, Noel a dit qu'elle avait aimé aller à l'expo avec Subaru malgré cela.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.2183,
+        "width": 0.405,
+        "height": 0.1141
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora rejoint les rangs de Flare, Miko et Shishiron pour tuer la Sentinelle de I'Arbre dès qu'elles quittent la zone de tutoriel sur Elden Ring. Il a fallu à Pekora plus de 6 heures et d'innombrables tentatives Pekora pour vaincre un ennemi aussi puissant. Après avoir gagné de eu l'expérience, elle a affronté un dragon lors du stream suivant et a anéanti Margit et Godrick.",
+      "bbox": {
+        "x": 0.1606,
+        "y": 0.3798,
+        "width": 0.7619,
+        "height": 0.0877
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GEN 4",
+      "bbox": {
+        "x": 0.4388,
+        "y": 0.5069,
+        "width": 0.1213,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa s'est réveillée après une sieste tardive et a fait un stream imprévu sur Unpacking, dans lequel elle a utilisé sa voix plus grave pour le plus grand plaisir de ses fans. Kotaro a également fait une apparition, rendant ce stream encore plus chaleureux pour les fans qui n'ont pas pu dormir. Elle a raconté avoir rencontré Aqua et Suisei plus tôt dans la journée et avoir regardé le stream d'anniversaire d'Okayu ensemble chez elle. Elle a aussi raconté comment elle a appris a bien se déplacer sur Apex et donné le nom de la souris et du clavier qu'elle utilise actuellement. Enfin, Kronii est apparu et l'a appelée TMT, laissant Towa légèrement troublée.",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.7101,
+        "width": 0.39,
+        "height": 0.2352
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame est absolument adorable dans son pyjama dinosaure. Beaucoup de ses spectateurs sont d'accord avec cette affirmation, mais cela ne les a pas empêchés de faire des blagues. Comme pour Ina, deux de ses spectateurs ont joué au morpion avec son front dans le tchat. Un autre spectateur a dit que son visage était long. En réponse à cela, elle a craché du feu sur son tchat.",
+      "bbox": {
+        "x": 0.5469,
+        "y": 0.7101,
+        "width": 0.3856,
+        "height": 0.1437
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/47q8zz59qau81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

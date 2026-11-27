@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENTS PALIERS À VENIR D’ABONNÉS",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.0326,
+        "width": 0.8531,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "other",
+      "text": "(Du 8 au 14 Mars)",
+      "bbox": {
+        "x": 0.1919,
+        "y": 0.112,
+        "width": 0.1394,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 12 Mars : Anniversaire de Anya\n• 14 Mars : Anniversaire de Kronii",
+      "bbox": {
+        "x": 0.1,
+        "y": 0.1484,
+        "width": 0.3344,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 14 Mars : Première de la chanson originale d’lofi.",
+      "bbox": {
+        "x": 0.1,
+        "y": 0.2122,
+        "width": 0.2631,
+        "height": 0.0317
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci!",
+      "bbox": {
+        "x": 0.3881,
+        "y": 0.5968,
+        "width": 0.2263,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner",
+      "bbox": {
+        "x": 0.0981,
+        "y": 0.6454,
+        "width": 0.8263,
+        "height": 0.1046
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.3137,
+        "y": 0.793,
+        "width": 0.3825,
+        "height": 0.056
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/uipk4ut6bdn81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

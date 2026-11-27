@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Ollie, lofi et Bae ont réagi en direct en stream au concert « Journey to Find",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2617,
+        "width": 0.3956,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Stars » d'holostars, les adulant de tout @ p-",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2795,
+        "width": 0.6313,
+        "height": 0.0751
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "LET'S PLAY TERMINES",
+      "bbox": {
+        "x": 0.8369,
+        "y": 0.3659,
+        "width": 0.0944,
+        "height": 0.0308
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2ms3s35zeab81.png",
+    "gifFrame": null,
+    "confidence": 87
+  }
+}

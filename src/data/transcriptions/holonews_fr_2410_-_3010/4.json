@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 4,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "La nouvelle tenue de lofi donne une nouvelle fraîcheur à son lore de princesse extraterrestre. Elle porte une élégante robe de bal multicolore, avec une jupe courte à l'avant, plus longue à l'arrière, de couleur claire à l'extérieur, et d'un bleu nuit sombre à l'intérieur. Deux longs gants blancs, maintenusen place par des brassards, enveloppent les bras, et un bracelet à la cuisse, des chevilles et des escarpins en verre couvrent les jambes.",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.3442,
+        "width": 0.4081,
+        "height": 0.1962
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des pendentifs dorés, des accessoires multicolores et un tissu semi-transparent ornent la robe, jusqu'au décolleté, un collier d'étoiles et une petite couronne. Des ornements défiant la gravité donnent l'impression de petites ailes dans le dos, tandis que de petits cercles ornent ses couettes, perfectionnant l'équilibre délicat entre l'élégance et l'excitation.",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.5477,
+        "width": 0.3725,
+        "height": 0.1758
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin, elle peut exhiber un verre en cristal pour les boissons, des gestes de dame noble et des pupilles en forme de cœur, lui donnant un nouveau regard . | 4",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.7344,
+        "width": 0.4481,
+        "height": 0.0859
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "de prédateur agressif.",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.7999,
+        "width": 0.2175,
+        "height": 0.0148
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2opnzsf5o22a1.gif",
+    "gifFrame": 67,
+    "confidence": 86
+  }
+}

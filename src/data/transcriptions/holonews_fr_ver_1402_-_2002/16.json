@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pour la Saint-Valentin, Gura et Fauna nous ont offert une vidéo ASMR sur le thème d'un café avec des neko-maids. La vidéo comprend des illustrations de shouu_kyun et des animations de Shikabashi. Leurs fans ont eu droit à une boisson spéciale pour la Saint-Valentin et à des bonbons (bien que le café n'ait pas de licence pour vendre de la nourriture), mais la plus belle récompense a sans doute été le brossage spécial des oreilles par Gura et Fauna et leurs « nyan- » bénis.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3303,
+        "width": 0.4238,
+        "height": 0.1628
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 14 février, Calli a commencé un stream de discussion mais avec une particularité :",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.6732,
+        "width": 0.4169,
+        "height": 0.0321
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli vous a piégé dans une salle de classe",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.7027,
+        "width": 0.4244,
+        "height": 0.0156
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "tout comme Monika de DDLC. Calli a parlé de certaines expériences de sa vie en plus de faits aléatoires, de lectures de paroles dramatiques et de poémes humoristiques. Cependant, certains dialogues tournaient en boucle lorsqu'elle répétait certains faits, et l'arrière-plan était parfois brouillé. Le dernier temps fort comprend également une longue période de silence avant qu'elle ne ferme le stream avec une seule Zone de texte. Juste Mori.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7174,
+        "width": 0.4225,
+        "height": 0.1597
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ololive",
+      "bbox": {
+        "x": 0.6944,
+        "y": 0.1068,
+        "width": 0.1819,
+        "height": 0.0321
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Gura, Fauna, Ina et Kiara ont diffusé un stream collaboratif dans _ lequel elles jouaient au Monopoly. Les filles ont essayé de s'enrichir plus que les autres et de remporter la partie. Fauna a eu du mal à le faire car elle était constamment en prison. Finalement, Gura a dominé ses pairs et a gagné la partie. Après avoir terminé la session, elles ont parlé de leurs",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.3516,
+        "width": 0.4269,
+        "height": 0.1298
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "rochaines collaborations sur RAFT et de a possibilité de jouer à nouveau au Monopoly avec d'autres membres d’hololive.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.4805,
+        "width": 0.4094,
+        "height": 0.0547
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bien que Calli l'ait grondée pour avoir dit « des conneries » sur elle, Mumei a une fois de plus déclaré que Calli était mauvaise à Jump King. Elle a réitéré sa déclaration sarcastique selon laquelle le jeu est facile pour tout le monde, sauf pour ceux qui sont mauvais. Mumei a ensuite demandé aux clippers de ne pas sortir ses mots de leur contexte.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.7374,
+        "width": 0.4213,
+        "height": 0.1406
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/oe03uf9hplk81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

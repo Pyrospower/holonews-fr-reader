@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 11,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "La+ a porté Haachama vers la victoire sur Valorant, pendant qu’Haachama essayait de se rapprocherdesa . cadette afin de lui laver le cerveau. À la fin de la collaboration, La+ a suggéré le tagame (lethocerus deyrollei) lorsque Haachama a demandé ce qu'elles devraient manger et Haachama a proposé d’en cuisiner pour elle la prochaine fois.",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.309,
+        "width": 0.4156,
+        "height": 0.1723
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lui a organisé un autre stream entièrement en anglais, dans lequel elle a répondu à quelques questions de spectateurs d’outre-mer. Elle a parlé de sa relation avec ses aînées, ainsi que de ses plats et ses jeux préférés. Dans ce stream, Lui a confirmé qu'elle était bien une comédienne et a également affirmé que Chloe était son associée plutôt que sa petite amie. L'anglais de Lui semble s'améliorer rapidement !",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.6615,
+        "width": 0.4194,
+        "height": 0.1558
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 13 janvier, Chloe a annoncé sur YouTube qu'elle allait prendre une pause d'une durée indéterminée afin de faire le deuil de sa grand-mère.",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.9128,
+        "width": 0.4056,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La+ a rejoint ses aînées pour une partie de Left 4 Dead 2. Elle était accompagnée par Towa et Botan, joueuses invétérées de FPS, ainsi que de Subaru, la criarde. La collab a été légèrement retardée car La+ téléchargeait le jeu en WiFi. Une capture d’écran d’un test de vitesse Internet a révélé son faible débit descendant de 5,6 Mbps et un surprenant débit montant de 580 Kbps. La+ ne connaissait pas la différence entre Kbps et Mbps, suscitant les taquineries de ses aînées qui lui ont demandé comment elle avait pu jouer jusqu'à présent.",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.2678,
+        "width": 0.4244,
+        "height": 0.2183
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Koyori a continué son let's play Minecraft en difficulté hardcore. Elle a fait du commerce avec des villageois, a terminé ses préparations et est partie chercher une forteresse du Nether pour enfin se préparer à activer le portail de 'End. Elle est entrée dans le portail et a combattu le Dragon de l’'Ender jusqu'à ce qu'elle soit malencontreusement projetée dans les airs et meure, mettant ainsi fin à son let's play. Koyori retentera peut-être sa chance à l'avenir.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.6615,
+        "width": 0.4231,
+        "height": 0.1541
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/7gvwwhh6i8e81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

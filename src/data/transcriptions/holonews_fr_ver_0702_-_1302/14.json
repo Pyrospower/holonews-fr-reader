@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0702_-_1302",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOCOUNCIL",
+      "bbox": {
+        "x": 0.0606,
+        "y": 0.053,
+        "width": 0.4075,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "(e ) Ouro Kronii X holoEN y Getting my booster shot today! It’s not so bad during the first day right? I'm built different so it should be fine lol",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.0972,
+        "width": 0.4425,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kronii a tweeté qu'elle recevait sa piqûre de rappel. Kronii a prétendu qu'elle était construite différemment, donc elle n’aurait pas d'effet secondaire. On lui a prouvé qu'elle avait tort.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.2626,
+        "width": 0.4125,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Baelz rejoint les nombreux membres d'hololive qui ont joué a Needy Streamer Overload. Baelz a obtenu la fin « Flatline », en manquant 5 messages privés de KAngel, car elle était trop occupée à démarrer un stream pour voir KAngel dire qu'elle voulait un chat. Plus tard, lorsque KAngel lui a posé la question sur ces fétiches, Baelz a noté ses fétiches dans le questionnaire à réponse libre avant de les effacer instantanément, et elle a même écrit une longue tangente sur la nature des fétiches avant de l'effacer également. Sa réponse finale a été « oui ».",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.5321,
+        "width": 0.4244,
+        "height": 0.2018
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 11 février, IRyS a joué à Hatoful Boyfriend, un jeu de drague où le joueur incarne une écolière humaine dans une école remplie d'oiseaux mâles qu'elle peut fréquenter. Elle doit ensuite compléter les parcours liés à Shuu lwanime et Anghel Higure.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.8424,
+        "width": 0.4025,
+        "height": 0.1085
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le cadre du févriBAE, Baelz a décidé de jouer a Jump King. Comme d'autres membres d'hololive avant elle, elle a joué en étant dans un salon vocal Discord pour que tout le monde puisse venir et entendre sa souffrance. Le début de son stream a été difficile, son OBS ayant planté, elle a dû redémarrer son stream. Comme prévu, le jeu était plein de sauts et de chutes, et Bae s'est mis en colère à cause de toutes ses chutes. Elle est tombée tellement qu'elle a commencé à perdre la tête et elle s'est mise à chanter des chansons en criant sans musique de fond. Calli, Mumei et Ollie ont rejoint le tchat vocal une par une pour lui apporter un soutien mental. Mel et Astel l'encouragaient également depuis le tchat.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2626,
+        "width": 0.4213,
+        "height": 0.2648
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après son histoire sur les SMS sous la douche, Bae a raconté une autre histoire sur son téléphone dans la salle de bains. Elle a avoué avoir apporté son téléphone dans la douche alors qu'elle était en appelle avec le reste d’holoEN. Elles étaient au milieu d'une très bonne conversation et elle ne voulait pas raccrocher, alors Bae a choisi d'apporter son téléphone dans la salle de bain pendant qu'elle se douchait. Bae a également mentionné qu'Ina voulait qu'elle active son micro pendant l'appel pour pouvoir entendre Bae se doucher.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.5595,
+        "width": 0.4281,
+        "height": 0.1997
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/qf0n8aoe17j81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

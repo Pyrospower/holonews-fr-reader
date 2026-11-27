@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "SUPER",
+      "bbox": {
+        "x": 0.225,
+        "y": 0.1497,
+        "width": 0.3613,
+        "height": 0.0365
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le premier jour du hololive 3rd fes, AZKi, Miko, Suisei, Subaru, Korone, Noel, Marine, Luna, Towa, Kanata, Nene, Polka, Gura, Amelia, Ina et Moona sont toutes montées sur scène ! Au cours de 28 chansons, chacune des membres ont participé à des prestations en solo, et les membres de la branche JP ont pu interpréter en groupe une chanson supplémentaire. Un extrait gratuit du concert est disponible sur la chaîne officielle d’hololive.",
+      "bbox": {
+        "x": 0.2131,
+        "y": 0.4926,
+        "width": 0.3825,
+        "height": 0.1836
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le deuxième jour, ce sont Sora, Mel, Aki, Choco, Ayame, Shion, Aqua, Okayu, Mio, Flare, Pekora, Watame, Lamy, Botan, Calli, Kiara, lofi et Risu qui ont fait leur apparition. 26 chansons étaient prévues cette fois, suivies de deux annonces : le fait que « Prism Melody » serait disponible sur le jeu de rythme Taiko no Tatsujin Plus, et qu’un blu-ray du concert serait mis en vente prochainement. Un extrait gratuit du concert est également disponible sur la chaîne officielle d’hololive.",
+      "bbox": {
+        "x": 0.2131,
+        "y": 0.6927,
+        "width": 0.3825,
+        "height": 0.1992
+      }
+    },
+    {
+      "type": "heading",
+      "text": "EXPO",
+      "bbox": {
+        "x": 0.655,
+        "y": 0.1497,
+        "width": 0.2756,
+        "height": 0.0365
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'Holofes a également marqué l'inauguration des modèles 3D des membres d’holoMyth et d’Area 15 ! Chacune d'entre elles a donné à voir des prestations spectaculaires, éblouissant l'ensemble des spectateurs. L’archive des deux jours est disponible sur SPWN jusqu'au 19 et 20 avril, donc assurez-vous d'acheter vos billets tant que vous le pouvez encore !",
+      "bbox": {
+        "x": 0.6525,
+        "y": 0.6927,
+        "width": 0.2919,
+        "height": 0.2027
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/vdqp7661s5q81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

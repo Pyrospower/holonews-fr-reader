@@ -1,0 +1,398 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2208_-_2808",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.22,
+        "y": 0.0278,
+        "width": 0.56,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Flare] Mental Chainsaw: 2M",
+      "bbox": {
+        "x": 0.2544,
+        "y": 0.1359,
+        "width": 0.2319,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Fubuki] Cat Loving: 750K [Kanata] Ai Kotoba IV: 500K [Miyabi/Temma] Suirenka: 10K",
+      "bbox": {
+        "x": 0.2331,
+        "y": 0.1962,
+        "width": 0.2569,
+        "height": 0.046
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kronii] Mafia: 500K [HololD 1/2/3] Bebas: 750K",
+      "bbox": {
+        "x": 0.2625,
+        "y": 0.2561,
+        "width": 0.225,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Reine/Suisei/Calliope] Beat Eater: 4M [HoloEN 1/2/Hope] Ochame Kinou: 9M [Reine/Kotone] RAD DOGS: 50K [Marine] Ochame Kinou: 2M [HoloCouncil] Rise: 250K",
+      "bbox": {
+        "x": 0.1663,
+        "y": 0.306,
+        "width": 0.3213,
+        "height": 0.0781
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sora] Polaris Solaris: 25K [Matsuri/Suisei/Flare/Nene] Niccori” Survey Team Theme: 75K",
+      "bbox": {
+        "x": 0.215,
+        "y": 0.3997,
+        "width": 0.2725,
+        "height": 0.046
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.0419,
+        "y": 0.4944,
+        "width": 0.0888,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "CHANSON ORIGINAL",
+      "bbox": {
+        "x": 0.3513,
+        "y": 0.6432,
+        "width": 0.0806,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A MILLION MILES AWAY",
+      "bbox": {
+        "x": 0.0413,
+        "y": 0.615,
+        "width": 0.1244,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "hololiÿe English",
+      "bbox": {
+        "x": 0.3581,
+        "y": 0.7114,
+        "width": 0.1344,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "heading",
+      "text": "RISE",
+      "bbox": {
+        "x": 0.3594,
+        "y": 0.7309,
+        "width": 0.0931,
+        "height": 0.0178
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "EPILOGUE IN THE ATTIC",
+      "bbox": {
+        "x": 0.0444,
+        "y": 0.7296,
+        "width": 0.1613,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka & Tenjin Kotone",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.8168,
+        "width": 0.1419,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ODO",
+      "bbox": {
+        "x": 0.0406,
+        "y": 0.8307,
+        "width": 0.0788,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "heading",
+      "text": "KAIBUTSU",
+      "bbox": {
+        "x": 0.2744,
+        "y": 0.8203,
+        "width": 0.1769,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Subaru/Ui] Adrenaline: 4M [HoloSummer] Sparklers: 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1029,
+        "width": 0.2569,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kobo] Tondemo Wonders: 1M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1359,
+        "width": 0.2481,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Polka] Epilogue In The Attic: 75K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1523,
+        "width": 0.2644,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Polka] S'il Vous President: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1853,
+        "width": 0.2594,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Fubuki] CREATION (Cover): 75K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2253,
+        "width": 0.2613,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Towa/Nene] Rimokon (Cover): 100K [Baelz] A Million Miles Away (Cover): 100K [Moona/Pekora] Turing Love: 3M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2582,
+        "width": 0.3406,
+        "height": 0.046
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Noel] ours: 50K 08/28 [Kanata] Roshin Yuukai: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3316,
+        "width": 0.4369,
+        "height": 0.0482
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Polka/Kotone] Odo (Cover): 50K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3841,
+        "width": 0.2719,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Aqua/Okayu] Tenbyou No Uta: 2M [Koyori/Sora/Suisei/Subaru/Polka/Chloe]",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4006,
+        "width": 0.3438,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kaibutsu (Cover): 750K",
+      "bbox": {
+        "x": 0.5131,
+        "y": 0.4336,
+        "width": 0.1875,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nene] Kaisei: 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4501,
+        "width": 0.16,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "NOUVEAU",
+      "bbox": {
+        "x": 0.8631,
+        "y": 0.4944,
+        "width": 0.1131,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "CHANSON ORIGINAL",
+      "bbox": {
+        "x": 0.5063,
+        "y": 0.5516,
+        "width": 0.0806,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata ROSHIN YUUKAI J CHANSON NE",
+      "bbox": {
+        "x": 0.65,
+        "y": 0.6024,
+        "width": 0.1663,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sora POLARIS SOLARIS",
+      "bbox": {
+        "x": 0.5094,
+        "y": 0.6024,
+        "width": 0.0831,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "-Council-",
+      "bbox": {
+        "x": 0.4988,
+        "y": 0.7114,
+        "width": 0.0825,
+        "height": 0.0104
+      }
+    },
+    {
+      "type": "heading",
+      "text": "CREATION",
+      "bbox": {
+        "x": 0.7444,
+        "y": 0.8307,
+        "width": 0.1806,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.745,
+        "y": 0.8168,
+        "width": 0.0438,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "heading",
+      "text": "RIMOKON",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.8168,
+        "width": 0.1681,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Aqua - Heroine wa Heikin Ika.",
+      "bbox": {
+        "x": 0.215,
+        "y": 0.8694,
+        "width": 0.3175,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "9. Shion - HoneyWorks",
+      "bbox": {
+        "x": 0.215,
+        "y": 0.8906,
+        "width": 0.1025,
+        "height": 0.0378
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Otokonoko no Mokuteki wa Nani?",
+      "bbox": {
+        "x": 0.3144,
+        "y": 0.8911,
+        "width": 0.3475,
+        "height": 0.0113
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "KOKUHAKU JIKKOU IINKAI FLYING SONGS: KOISHITERU",
+      "bbox": {
+        "x": 0.215,
+        "y": 0.9332,
+        "width": 0.4156,
+        "height": 0.0269
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5jr7r6vzr1m91.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

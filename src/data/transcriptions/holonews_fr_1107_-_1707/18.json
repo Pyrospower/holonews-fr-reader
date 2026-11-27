@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.4288,
+        "y": 0.0256,
+        "width": 0.1431,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 18 juillet, COVER a officiellement révélé HOLOSTARS EN ! Leur première génération, holoTEMPUS, est une guilde d'aventuriers dans le monde numérique d'« Elysium ». Le groupe est composé de Regis Altare, le fondateur du groupe, enfantin mais franc, Magni Dezmond, un alchimiste autoproclamé, Axel Syrios, un gladiateur qui possède une arène de combat, et Noir Vesper, le conseiller académique et le gardien. Leurs illustrateurs sont respectivement Kurahana Chinatsu, Furumi Showichi, Hagure Ginsu et Shidokenai.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2179,
+        "width": 0.3888,
+        "height": 0.1628
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils feront leurs débuts les 23 et 24 juillet. Leurs chaînes YouTube et leurs comptes Twitter sont désormais publics, et vous pouvez en apprendre davantage sur leur histoire sur le site officiel. Attendez-vous à un numéro spécial sur leurs débuts dans le futur !",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.5456,
+        "width": 0.385,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.691,
+        "width": 0.5144,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.8242,
+        "width": 0.2512,
+        "height": 0.0369
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli 2,1M Kiara 1.4M ! Rist k 700 Kobo 1,1M",
+      "bbox": {
+        "x": 0.6413,
+        "y": 0.2157,
+        "width": 0.045,
+        "height": 0.2235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 22 juillet : Anniversaire de Matsuri",
+      "bbox": {
+        "x": 0.58,
+        "y": 0.5421,
+        "width": 0.3506,
+        "height": 0.0152
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5fxqsw55sqd91.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

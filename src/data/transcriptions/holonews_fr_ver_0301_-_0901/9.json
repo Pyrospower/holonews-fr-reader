@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Aqua s'est rendu compte que les gens la prenaient pour cible lorsqu'elle jouait Roy sur Mario Kart, alors elle a décidé de jouer Waluigi à la place. Elle a tout de même perdu beaucoup de courses, mais elle a remarqué qu'elle se débrouillait de mieux en mieux et a même réussi à se classer 2e et 3e à plusieurs reprises.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.3207,
+        "width": 0.4256,
+        "height": 0.1172
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après un mois de génocide d'Endermen, Choco a enfin atteint le niveau 510 sur Minecraft. Malheureusement, la fête n'a pas duré longtemps car elle a raté son saut dans l'entrée magmatique de Roboco et n'a pas réussi à atteindre l'autre côté. Elle est morte",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.6159,
+        "width": 0.4238,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a été prise d'une telle excitation en attrapant le Pokémon légendaire Dialga qu'elle s'est mise à saigner du nez. Il lui a fallu plusieurs Hyper Balls, mais elle a finalement réussi à le capturer.",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.8785,
+        "width": 0.4188,
+        "height": 0.0794
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bandai Spirit a entamé la conception d’une gamme de figurines intitulée « hololive IF! ». La première figurine à voir le jour sera Marine, en tenue de nuit décontractée, assise et détendue avec son mug en forme de tête de mort. D'une taille estimée à 11 cm, sa sortie est prévue pour avril.",
+      "bbox": {
+        "x": 0.5163,
+        "y": 0.322,
+        "width": 0.4325,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Google Thank you monetization, goodbye monetization",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.6393,
+        "width": 0.3787,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Près de deux semaines après l'ouverture des abonnements payants , La+ a découvert gue sa chaine avait été démonétisée. Elle a tweeté « Merci et au revoir la monétisation » en réponse. Heureusement, sa monétisation et ses abonnements payants ont été restauré peu de temps apres.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7444,
+        "width": 0.4263,
+        "height": 0.1085
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le numéro de février d'Animedia va contenir une interview de La+ sous forme de questions-réponses. Il y aura aussi une description manuscrite de La+ réalisée par elle-même.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.8759,
+        "width": 0.4225,
+        "height": 0.082
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/kktgi06kevc81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

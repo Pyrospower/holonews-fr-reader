@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dans l'épisode de cette semaine de la Légende de Polka, Mlle Isutzu s'est questionnée sur la popularité de Polka à l'international, cette dernière approchant le million d'abonnés. Afin de répondre à la question, l'équipe et son animatrice, Aya, se sont rendus à Ypao Beach sur l'île de Guam et ont montré la photo de Polka à des passants en leur demandant s'ils la connaissaient. Leurs réponses ont laissé Polka sans voix. La plupart n'ont pas su répondre correctement, mais lors du quatrième sondage, alors que l'homme ne connaissait pas son nom, son ami autoproclamé « pro en anime » a donné la bonne réponse, indiquant qu'il la connaissait en tant que streamer. L'excitation de Polka à la mention de son nom a été coupée court lorsqu'il a ajouté qu'il ne la regardait pas très souvent.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2517,
+        "width": 0.425,
+        "height": 0.2543
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aya a conclu que Polka n'était pas très connue à Guam, ce qui n'a pas manqué d'éveiller sa frustration. Aya a annoncé qu'il serait triste que l'épisode se termine de cette façon, et l'épisode s'est donc conclu avec un « sondage bonus », où les participants ont lu un script disant qu'ils connaissaient Polka, qu'elle était la meilleure, et qu'ils l'adoraient. Polka a vite compris la supercherie et, malgré la surprise et le sentiment d'avoir été dupée, a convenu qu'il était « encore un peu trop tôt pour elle de radier hors du Japon ! ».",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.5217,
+        "width": 0.4219,
+        "height": 0.1714
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "BREATHS, WILD",
+      "bbox": {
+        "x": 0.1744,
+        "y": 0.77,
+        "width": 0.1575,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "other",
+      "text": "THE LEGEND OF ZELDA",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.77,
+        "width": 0.0944,
+        "height": 0.0048
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Botan a défié l'ORDI dans 51 Worldwide Games. Elle a vaincu l'ordinateur à de nombreux jeux, comme le Blackjack et Yam’s. Même à la difficulté la plus haute, Shishiron a complété le Lièvres et chiens ainsi que le Puissance 4. Les seuls à lui avoir posé des difficultés ont été le Suites de six et les Fléchettes.",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.2517,
+        "width": 0.43,
+        "height": 0.0968
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La nouvelle et sixième génération JP, holoX, n'a pas manqué d'évoquer surprise et enthousiasme chez Lamy. Durant son stream discussion habituel, elle a interviewé Polka et Botan sur leur ressenti quant au fait de devenir des aînées, ainsi que sur les membres ayant attiré leur attention. Lamy, pour sa part, a été très impressionnée par la vidéo promotionnelle. Elle a également montré des photos de ses produits dérivés d'anniversaire, la peluche Daifuku et sa propre peluche Don Quijote côte à côte.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.5347,
+        "width": 0.4294,
+        "height": 0.1571
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Alors qu'elle jouait à Breath of the Wild, Lamy s'est retrouvée en difficulté face à deux ennemis imposants situés dans un camp, pendant qu'une tempête faisait rage. Elle les observait à l'aide de ses jumelles quand un éclair a frappé un de ses opposants, l'orage paraissant presque vouloir l'aider. Un peu plus tard, lors de son « affrontement » avec le second ennemi, elle n'a cessé de fuir en demandant à l'orage de bien vouloir l'aider à nouveau, mais ce dernier n'a pas répondu à son appel. Elle réussit néanmoins à décocher une flèche de son fidèle arc et à finir son adversaire d'un coup fatal à la tête, s'assurant une nouvelle victoire.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.8702,
+        "width": 0.8969,
+        "height": 0.0985
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/84x9lydmjr381.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 20,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.1963,
+        "y": 0.1489,
+        "width": 0.1463,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AZKi 600k",
+      "bbox": {
+        "x": 0.1369,
+        "y": 0.2205,
+        "width": 0.0794,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "(9) Subaru 1,3M 2 (as)",
+      "bbox": {
+        "x": 0.2844,
+        "y": 0.2001,
+        "width": 0.1825,
+        "height": 0.0751
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le stream en anglais de Koyori revient, et avec un invité, Bae ! L'une des tâches de Bae pendant le stream était de deviner ce que Koyori voulait faire passer avec son anglais approximatif. La plupart du temps, elle comprenait l'anglais de Koyori et",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.2222,
+        "width": 0.3775,
+        "height": 0.0877
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Zeta 300k",
+      "bbox": {
+        "x": 0.3681,
+        "y": 0.3281,
+        "width": 0.0763,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "l'aidait à corriger ses phrases en anglais. Vers la fin du cours, elles communiquaient en anglais et Koyori essayait d'améliorer",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.3108,
+        "width": 0.3838,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rio 40k",
+      "bbox": {
+        "x": 0.3706,
+        "y": 0.2743,
+        "width": 0.0575,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "other",
+      "text": "Kaela 200k N",
+      "bbox": {
+        "x": 0.1406,
+        "y": 0.2743,
+        "width": 0.1606,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "sa compréhension orale.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.355,
+        "width": 0.2225,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Chloe 800k",
+      "bbox": {
+        "x": 0.1356,
+        "y": 0.3828,
+        "width": 0.0862,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Uyu 40k",
+      "bbox": {
+        "x": 0.3688,
+        "y": 0.3828,
+        "width": 0.0625,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Evénement a venir",
+      "bbox": {
+        "x": 0.5475,
+        "y": 0.3893,
+        "width": 0.3731,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gamma 40k",
+      "bbox": {
+        "x": 0.1381,
+        "y": 0.4379,
+        "width": 0.0938,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fuma 45k",
+      "bbox": {
+        "x": 0.3688,
+        "y": 0.4366,
+        "width": 0.0756,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 13 avril : Troisième anniversaire des dévuts de Korone",
+      "bbox": {
+        "x": 0.5675,
+        "y": 0.4384,
+        "width": 0.3331,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Korone 1,8M",
+      "bbox": {
+        "x": 0.1388,
+        "y": 0.4922,
+        "width": 0.0963,
+        "height": 0.0104
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion 1 M",
+      "bbox": {
+        "x": 0.3706,
+        "y": 0.4922,
+        "width": 0.075,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 15 avril : Anniversaire de Rikka",
+      "bbox": {
+        "x": 0.5675,
+        "y": 0.487,
+        "width": 0.3256,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 15 avril : Deuxième anniversaire d'Area15",
+      "bbox": {
+        "x": 0.5675,
+        "y": 0.5187,
+        "width": 0.3363,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 17 avril : Tournoi Apex V-saikyo (2022)",
+      "bbox": {
+        "x": 0.5675,
+        "y": 0.5673,
+        "width": 0.3325,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 18 avril : Anniversaire de Temma",
+      "bbox": {
+        "x": 0.5675,
+        "y": 0.6155,
+        "width": 0.3463,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas à rejoindre notre subreddit ou notre serve Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.6949,
+        "width": 0.5094,
+        "height": 0.1124
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.8242,
+        "width": 0.2537,
+        "height": 0.0373
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/e9o8r269qau81.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

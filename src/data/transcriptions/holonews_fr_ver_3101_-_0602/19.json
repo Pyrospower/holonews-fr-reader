@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 19,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "REPRISE ORIGINAL",
+      "bbox": {
+        "x": 0.845,
+        "y": 0.0812,
+        "width": 0.1,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "heading",
+      "text": "STATS ET NOUVELLES SORTIES",
+      "bbox": {
+        "x": 0.0938,
+        "y": 0.0911,
+        "width": 0.6587,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[IRyS] Inochi: 750K",
+      "bbox": {
+        "x": 0.32,
+        "y": 0.1615,
+        "width": 0.1688,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sora] Melancholic: 750K",
+      "bbox": {
+        "x": 0.2688,
+        "y": 0.1793,
+        "width": 0.22,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Polka] Tondemo Wonders: 750K [Temma] 1.15man Kilo No Film: 75K [Kanata] Soran Bushi Remix: 750K [Calliope] Cursed Night: 4M [Watame] My Song: 1M",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.197,
+        "width": 0.3206,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sora] King: 1M",
+      "bbox": {
+        "x": 0.3506,
+        "y": 0.3021,
+        "width": 0.135,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Okayu] Animal: 2M",
+      "bbox": {
+        "x": 0.3137,
+        "y": 0.3199,
+        "width": 0.1719,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Aruran/Astel] Houki Gumo: 75K [Pekora] Discommunication Alien: 15M [Suisei/Toko] Honeycomb Summer: 2M [Shien] Mafia: 1M",
+      "bbox": {
+        "x": 0.14,
+        "y": 0.3377,
+        "width": 0.3463,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Towa] Error: 8M",
+      "bbox": {
+        "x": 0.3394,
+        "y": 0.4253,
+        "width": 0.1463,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Phony: 7M",
+      "bbox": {
+        "x": 0.3219,
+        "y": 0.4431,
+        "width": 0.1638,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Astel/Oga] Airhead: 75K",
+      "bbox": {
+        "x": 0.2688,
+        "y": 0.4609,
+        "width": 0.2175,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Moona] KSZK Song: 100K [Suisei/Toko] Holy Angel's Carol: 1M [Fubuki/Oga/Shien] Turing Love: 750K [Baelz] Hontou No Oto: 250K",
+      "bbox": {
+        "x": 0.1488,
+        "y": 0.4787,
+        "width": 0.3375,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Okayu] Otome Kaibou: 5M",
+      "bbox": {
+        "x": 0.2469,
+        "y": 0.5499,
+        "width": 0.2388,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Rushia] Omoikou: 250K",
+      "bbox": {
+        "x": 0.2713,
+        "y": 0.5677,
+        "width": 0.215,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sora] Angel: 250K",
+      "bbox": {
+        "x": 0.3206,
+        "y": 0.5855,
+        "width": 0.1656,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Shion] Animal: 250K",
+      "bbox": {
+        "x": 0.3019,
+        "y": 0.6194,
+        "width": 0.1844,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Polka] Undercover: 750K",
+      "bbox": {
+        "x": 0.2606,
+        "y": 0.6372,
+        "width": 0.2256,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Oga] Silent Night Requiem: 10K [Sora] Kono Sekai De: 100K",
+      "bbox": {
+        "x": 0.2,
+        "y": 0.6549,
+        "width": 0.2863,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Chloe ANIMAL CHANSON * NW ORIGINALE AZKi NEKO NARABA IKERU",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.7661,
+        "width": 0.1963,
+        "height": 0.1454
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "NOUVEAU",
+      "bbox": {
+        "x": 0.8438,
+        "y": 0.1124,
+        "width": 0.1031,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lui] Phony (Cover): 100K [HoloMyth] Myth Or Treat: 4M [Polka] Hokori Takaaki Idol: 750K [Aqua] Kirakira: 1M 02/03 [Suisei] Cry Baby: 4AM",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1615,
+        "width": 0.4325,
+        "height": 0.1011
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Hitokuchi Chodai: 50K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2669,
+        "width": 0.2556,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[HoloEN 1/2/Hope] Ochame Kinou: 4M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2847,
+        "width": 0.3413,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Calliope/Gura] Q: 1M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3186,
+        "width": 0.19,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Shion] Front Memory: 500K [Suisei] Lower (Cover): 750K [Haachama] Infinity (Live): 100K [Chloe] Animal (Cover): 500K [Watame] Fansa: 750K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3364,
+        "width": 0.2819,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Heartbeat: 75K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4253,
+        "width": 0.1925,
+        "height": 0.0135
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4x14jafs4uh81.png",
+    "gifFrame": null,
+    "confidence": 87
+  }
+}

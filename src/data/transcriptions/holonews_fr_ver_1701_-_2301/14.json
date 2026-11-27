@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOMYTH",
+      "bbox": {
+        "x": 0.0925,
+        "y": 0.0755,
+        "width": 0.3456,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli organise un tournoi Pokémon amateur, auquel participeront les filles d’holoEN et holoID. Ce sera un tournoi toutes rondes, ou tous les participants s'affronteront au moins une fois et seront éliminés après un certain nombre de défaites. Il y aura 7 ou 8 participants, mais leurs noms n'ont pas encore été annoncés. Le tournoi aura lieu le 27 janvier à 9:00 JST.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2886,
+        "width": 0.4238,
+        "height": 0.1563
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli a annoncé qu'elle avait créé un compte sur Twitch, qu'elle utilisera pour faire des streams imprévus et spontanés. YouTube restera toutefois sa plateforme principale. En début de semaine, elle a offert 50 abonnements à Connor (CDawgVA) après qu'il ait terminé le DLC New Babe+ de Jump King.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5039,
+        "width": 0.4263,
+        "height": 0.1554
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "QS Ninomae Ina’nis À holoEN @ =",
+      "bbox": {
+        "x": 0.0413,
+        "y": 0.8498,
+        "width": 0.2069,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "other",
+      "text": "@ninomaeinanis",
+      "bbox": {
+        "x": 0.0888,
+        "y": 0.865,
+        "width": 0.0844,
+        "height": 0.0056
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "As said on the stream, I will be taking a week-ish break to recover from the coughing!! l'm sorry for making you all worry! ; w;; I'll be back soon to streaming as soon as l'm better!",
+      "bbox": {
+        "x": 0.0413,
+        "y": 0.8872,
+        "width": 0.4431,
+        "height": 0.0547
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer la sortie de son second album Journey, IRyS s'associe à la société de karaoké Joysound pour offrir 3 CD normaux et 2 CD signés de l'album. Pour participer, vous devez chanter « Sparks of Joy » ou « HERE COMES HOPE » dans l'un des karaokés de Joysound et vous inscrire. Le tirage au sort est réservée au Japon.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2886,
+        "width": 0.4219,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 22 janvier, IRyS a annoncé qu'elle allait faire une pause d'au moins une semaine en raison d'une blessure aux cordes vocales. Par conséquent, Calli a reporté d'une semaine le podcast CHAD avec Baelz et IRyS, qui devait avoir lieu le 23 janvier. Ses fans ont rassemblé leurs messages lui souhaitant un prompt rétablissement dans un collage posté sur Twitter.",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.4822,
+        "width": 0.4288,
+        "height": 0.1727
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina prendra quelques jours de repos pour se remettre de sa toux. Son état semble avoir commencé à se détériorer après la collaboration sur Mario Party. Elle a consulté son médecin qui a diagnostiqué une hypersensibilité respiratoire. Ina a commencé à suivre un traitement et les conseils de son médecin, reposer sa voix et boire beaucoup d'eau chaude. Elle espère qu’elle sera de retour pour le concert d’Aqua.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7582,
+        "width": 0.4088,
+        "height": 0.1758
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/re6y8of6x8f81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

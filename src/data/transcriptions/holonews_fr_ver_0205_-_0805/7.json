@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.1775,
+        "width": 0.1081,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Depuis quelque temps, Pekora publie presque quotidiennement de courtes vidéos, montrant à quel point elle est mignonne et pure.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.2161,
+        "width": 0.3913,
+        "height": 0.0399
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.3147,
+        "width": 0.1081,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora n'est pas connue pour être la fille la plus athlétique. Pendant sa scolarité, ses camarades de classe étaient surpris lorsqu'elle réussissait une activité physique. Selon Pekora, cela déclenchait une « aura noire » dans son cœur, même si ses camarades n'étaient pas malveillants. Même Towa a été surprise de voir à quel point Pekora peut être athlétique. Ne sous-estimez pas cette lapine !",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.3498,
+        "width": 0.3881,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Noel a fait un stream discussion pour célébrer son 1 000e stream après ses débuts. Elle a changé de tenue plusieurs fois pour se remémorer un peu tout en racontant les difficultés rencontrées depuis son enfance jusqu'à ses débuts.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.5586,
+        "width": 0.3825,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen",
+      "bbox": {
+        "x": 0.4438,
+        "y": 0.6519,
+        "width": 0.0794,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.7201,
+        "width": 0.1106,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Depuis que Kanata a eu sa dernière tenue, elle a fait bon usage de sa tête de psychopathe. Lors d’un récent stream sur Mario Kart, elle a fait tourner une roue à chaque fois qu’elle finissait 8e ou moins pour décider d’une punition. En guise de punition, elle devait interpréter différents personnages.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.7582,
+        "width": 0.42,
+        "height": 0.0777
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un des personnages qu'elle devait interpréter était une petite amie en manque d'affection. Tout en jouant ce rôle, elle a demandé à ses spectateurs si elle était leur préférée. Quelqu'un a répondu « 5e favorite », ce qui l’a fait sortir de son personnage. Les réponses de ses spectateurs l’ont rendue si « déprimée » qu'elle a dit qu’elle allait mourir. Après avoir perdu ce round, elle a déplacé son modèle pour montrer que son corps était « déchiré en deux » et que c'était la faute des spectateurs.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.8494,
+        "width": 0.42,
+        "height": 0.1298
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.178,
+        "width": 0.1106,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La légendaire pirate Marine a une fois de plus volé le cœur de son public en publiant une vidéo à la première personne d'un placage au mur intitulée « You became a woman... <3. » Dans la vidéo, Marine a plaqué son public contre un mur, puis a remonté leur menton et leur a donné un baiser avant de s'éloigner. Merci, Senchou.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.2135,
+        "width": 0.3919,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La monétisation du deuxième stream Dragon Quest 8 de Danchou a été limitée ! Elle n'en revenait pas, mais un spectateur lui a fait remarquer que c'était peut-être parce que Noel montrait la « physique » de la poitrine d'un des personnages du jeu. Elle a conclu que quatre seins à l'écran, c'était trop pour YouTube, les deux autres étant ceux d'elle-même bien sûr.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.4766,
+        "width": 0.3888,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "heading",
+      "text": "4 @ Watame",
+      "bbox": {
+        "x": 0.5337,
+        "y": 0.6541,
+        "width": 0.2269,
+        "height": 0.0955
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame n’a rien fait de mal ! Sauf qu’elle a fait une erreur en calculant une équation. Un spectateur lui a demandé « Combien font 3+3*3 ? » et elle a instantanément répondu « 18 ! » avec confiance. Heureusement, un spectateur l’a corrigée, à son grand embarras.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.7587,
+        "width": 0.3875,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais l’histoire ne s'arrête pas là, car quelques jours plus tard, lors de sa collab avec Flare, Watame a posé la même question à cette dernière. Watame s'attendait à ce qu’elle réponde aussi 18. À sa surprise, Flare s'est rappelée des règles de priorité et a bien répondu 12. Tu l’auras la prochaine fois, Watame !",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.8529,
+        "width": 0.38,
+        "height": 0.1042
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/50v2twmspg091.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

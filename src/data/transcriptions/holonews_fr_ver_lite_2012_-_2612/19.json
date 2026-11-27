@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 19,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "PALIERS D'ABONNÉS",
+      "bbox": {
+        "x": 0.0888,
+        "y": 0.0286,
+        "width": 0.3125,
+        "height": 0.0725
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENTS À VENIR",
+      "bbox": {
+        "x": 0.5581,
+        "y": 0.0269,
+        "width": 0.3925,
+        "height": 0.0703
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 27 décembre : 2ème anniversaire des débuts de Kanata",
+      "bbox": {
+        "x": 0.5475,
+        "y": 0.1298,
+        "width": 0.3756,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 29 décembre : 2ème anniversaire des débuts de Watame",
+      "bbox": {
+        "x": 0.5475,
+        "y": 0.1819,
+        "width": 0.3756,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 32 décembre : Anniversaire d'Omegaa",
+      "bbox": {
+        "x": 0.5475,
+        "y": 0.2339,
+        "width": 0.3113,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 3 janvier 2022 : 2ème anniversaire des débuts de Towa",
+      "bbox": {
+        "x": 0.5475,
+        "y": 0.286,
+        "width": 0.385,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 3 janvier 2022 : 2ème anniversaire des débuts de Towa",
+      "bbox": {
+        "x": 0.5475,
+        "y": 0.3381,
+        "width": 0.385,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci!",
+      "bbox": {
+        "x": 0.3881,
+        "y": 0.6497,
+        "width": 0.2263,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir consulté notre édition allégée spéciale vacances ! La majorité des membres de l’équipe de production sont en pause, alors veuillez nous excuser si cette édition n’est pas",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.6931,
+        "width": 0.8844,
+        "height": 0.0677
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "aussi approfondie que d'habitude, et passez de bonnes",
+      "bbox": {
+        "x": 0.1069,
+        "y": 0.7622,
+        "width": 0.7806,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "vacances et une bonne année !",
+      "bbox": {
+        "x": 0.2744,
+        "y": 0.7852,
+        "width": 0.4431,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu !!",
+      "bbox": {
+        "x": 0.3494,
+        "y": 0.8247,
+        "width": 0.25,
+        "height": 0.0182
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/eisvlg3zeab81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

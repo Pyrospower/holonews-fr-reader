@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 3,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "La nouvelle tenue de Risu a une esthétique cyberpunk, avec du vert clair, du magenta, du rose et du gris clair comme couleurs principales.",
+      "bbox": {
+        "x": 0.0306,
+        "y": 0.4831,
+        "width": 0.4256,
+        "height": 0.0629
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La tenue comprend des sneakers, des collants, une ceinture et des bandages à la cuisse, une jupe évasée, un haut court maintenu par des bandes en cuir, et un large manteau amovible.",
+      "bbox": {
+        "x": 0.1513,
+        "y": 0.5911,
+        "width": 0.3988,
+        "height": 0.076
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a également présenté une coupe de cheveux légèrement = différente que d'habitude, avec des nuances rose, des épingles à cheveux, ainsi qu'une longue mèche sur un côté.",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.7109,
+        "width": 0.3988,
+        "height": 0.0764
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette nouvelle apparence, totalement différente de ses précédentes, est sublimée par deux accessoires : un casque audio tactique et une visière à la pointe de la technologie qui lui sert aussi de lunettes. Avec cette nouvelle Risu dans les parages, pouvez-vous vraiment vous sentir en sécurité ?",
+      "bbox": {
+        "x": 0.1406,
+        "y": 0.8147,
+        "width": 0.4244,
+        "height": 0.1094
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/q8w30uc5o22a1.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

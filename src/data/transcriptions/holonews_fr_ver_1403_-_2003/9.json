@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1644,
+        "y": 0.1793,
+        "width": 0.1125,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Votre colis Pekozon est arrivé ! Pekora a passé en revue une douzaine d'articles d'Amazon suggérés par ses spectateurs en stream. Elle a passé en revue des articles tels que du slime, un SodaStream, une réplique d'un Wingman, le parfum d'une lycéenne, et bien plus encore ! L'un des articles les plus remarquables était un mignon jouet en forme de lapin qui imitait sa voix avec un ton (encore) plus aigu.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.2183,
+        "width": 0.3919,
+        "height": 0.1467
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1669,
+        "y": 0.4575,
+        "width": 0.1081,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Flare a été contactée par Capcom pour regarder l'annonce de la première extension de Monster Hunter Rise, appelée Monster Hunter Rise: Sunbreak, avec ses spectateurs. L'extension introduit une toute nouvelle zone de chasse, une nouvelle base d'opérations, ainsi que plusieurs monstres redoutables. L'attention de Flare a été attirée par un personnage, qui était tellement mignon qu'elle voulait le chasser. À la fin de l'émission officielle de Monster Hunter, la lecture automatique de YouTube a proposé à Flare de regarder le stream ARK de Pekora, ce qui lui a beaucoup fait rire.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.2179,
+        "width": 0.4081,
+        "height": 0.194
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora a mesuré sa force de préhension : elle est de 21 kg pour sa main droite et de 19 pour sa main gauche. Rationnellement, un lapin n’est pas aussi fort qu’un demi-gorille.",
+      "bbox": {
+        "x": 0.3162,
+        "y": 0.4475,
+        "width": 0.5831,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GEN 4",
+      "bbox": {
+        "x": 0.4388,
+        "y": 0.5347,
+        "width": 0.1213,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Watame & Botan",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.7031,
+        "width": 0.2575,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron et Watame ont toutes les deux reçu de nouveaux accessoires pour leur modèle Live2D, qu'elles ont révélé lors de leur stream sur Food Delivery Service. Avant qu'elles dévoilent leurs nouveaux accessoires, elles portaient des découpes en carton d'un lion et d'un mouton pour les cacher. Les illustrations sur ces découpes en carton étaient similaires à celles d'un livre pour enfant. Shishiron et Watame ont reconstitué l'histoire du Petit Chaperon Rouge, avant de montrer leurs nouveaux accessoires. Watame portait une capuche rouge (comme le petit chaperon rouge), et Botan portait le couvre-chef de la grand-mère avec des oreilles de loup.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.7439,
+        "width": 0.3906,
+        "height": 0.2218
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après sa performance au jour 1 du concert Link Your Wish, Kanata a posté un message intime dans un post communautaire sur YouTube dans lequel elle nous a remerciés pour nos encouragements. Elle a parlé brievement d'un accident qu'elle a eu avant un précédent concert, et du fait qu’elle a attrapé la Covid cette année. Kanata était heureuse d'avoir un moment sur scène où elle a pu chanter sa précieuse chanson en solo. À la fin de son message, elle a dit qu'elle voulait reprendre les streams et elle veut qu'on l'attende encore un peu.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.7444,
+        "width": 0.3881,
+        "height": 0.2057
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ilke9b61s5q81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOMYTH",
+      "bbox": {
+        "x": 0.0925,
+        "y": 0.089,
+        "width": 0.3456,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 9 janvier, les membres d’holoMyth ont révélé leurs kimonos du nouvel an, une tradition originaire de la branche japonaise. Immédiatement après le relai de streams, elles ont fait une collab sur Worms W.M.D, leur permettant de montrer leurs tenues pour la première fois en stream. En plus de ces nouvelles tenues, elles ont également publié leur première chanson originale collective, intitulée « Journey Like a Thousand Years ».",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.1549,
+        "width": 0.425,
+        "height": 0.1723
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les tenues du Nouvel An d’holoCouncil seront dévoilées le 15 janvier.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.3477,
+        "width": 0.3881,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'annonce de la tenue du nouvel an d'IRyS a été retardée en raison de discussions en cours entre IRyS et la direction.",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.3958,
+        "width": 0.4225,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli a fait un stream speedrun de Jump King et a terminé le jeu en seulement 07:56.748 (une run sous les 8 minutes), battant le meilleur temps d’Iroha ! Calli et les Dead Beats pensaient qu’elle s'était classée à la 420e place mondiale, mais elle était en fait 421e. Plus tard dans le même stream, alors qu'elle lisait des Super Chats, Calli est passée sur Pokémon pour essayer de faire éclore un œuf de Spiritomb chromatique, mais sans succès.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.6849,
+        "width": 0.4444,
+        "height": 0.1549
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli a animé pour la première fois un Space Twitter, dans lequel elle s'est adressée à ses auditeurs depuis sa baignoire.",
+      "bbox": {
+        "x": 0.0419,
+        "y": 0.8689,
+        "width": 0.4419,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après le succes de l'interview de Gura en avril de l'année dernière, Febri.jp est de retour avec une interview disponible en anglais et en japonais de notre papa préféré : Mori Calliope. Dans l'article, Mori nous parle de sa vie au sein d’hololive et conseille a ses fans de prendre soin d'eux, de manger correctement, et de se doucher de temps en temps.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.6871,
+        "width": 0.4263,
+        "height": 0.1476
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Febri organise également une loterie pour gagner une illustration de Calli dessinée à la main par Yukisame-sensei.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.852,
+        "width": 0.4188,
+        "height": 0.0486
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/zugkx56kevc81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Matsuri a été invitée pour jouer le rôle de juge lors de l'épreuve finale d'un concours de talents de VTubeurs : Let go ! VTuber Fes. Il s'agissait d'une émission en RA et elle était aux côtés de l'animateur Yoshida Hisanori.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2964,
+        "width": 0.4181,
+        "height": 0.0703
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama est encore allée sur le serveur Minecraft EN. Son but était de prendre le contrôle du serveur, mais elle a été rapidement tuée par Endy qui gardait la voie ferrée avant qu'elle ne puisse faire quoi que ce soit. Renonçant à son objectif, elle a lancé un nouveau projet de construction au sommet de la montagne dans le village EN. Elle a dit que ce serait comme le Machu Picchu, mais on dirait juste qu'elle improvise.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.5586,
+        "width": 0.4269,
+        "height": 0.1471
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Twitter pense aussi qu'Aki n'est pas réelle, et a rapidement rejeté sa demande de \" certification. 1",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.8832,
+        "width": 0.4519,
+        "height": 0.043
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la soutenir dans sa quête de la capture du mythique Magicarpe doré, le magasin Yodobashi Camera à Akihabara a affichés informations sur les streams Pokémon de Fubuki, y compris sa dernière phrase culte « akai na » (C'est un rouge) sur sa propre tapisserie. Au moment de l'écriture de cet article, Fubuki n'a pas encore réussi à attraper le légendaire Magicarpe doré. Prions pour la chance de notre amie renarde!",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.3021,
+        "width": 0.4238,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haato a réalisé un stream de construction de robot où elle a intentionnellement essayé de montrer son reflet en portant un masque de singe, parodiant son précédent stream de construction de robot où elle avait accidentellement montré ses véritable lunettes dans un reflet. Elle a également sorti un nouveau clip de rap.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.6332,
+        "width": 0.4269,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a beaucoup réfléchi à la signification des paroles de certaines comptines pour enfants comme « Te no Hira wo Taiyou ni », « Anpanman March » et surtout « Yume wo Kanaete Doraemon », l'ayant faite pleurer. Elle a insisté sur la profondeur et la signification des paroles, et elle voulait que les spectateurs puissent —= aussi les comprendre. 388 Ve",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.7778,
+        "width": 0.4775,
+        "height": 0.1571
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/6hzku9r7op881.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Aruran, lzuru, Roberu et Shien se sont réunis pour accomplir trois missions différentes afin d'annoncer plus de détails sur leur prochain concert.",
+      "bbox": {
+        "x": 0.0589,
+        "y": 0.4105,
+        "width": 0.38,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Chaque mission révélait plus d'informations, du logo et des visuels, aux ventes de billets et de produits dérivés. Après avoir accompli les trois missions avec succès, ils ont annoncé tous les détails restants et plus encore.",
+      "bbox": {
+        "x": 0.0589,
+        "y": 0.4846,
+        "width": 0.3817,
+        "height": 0.0876
+      }
+    },
+    {
+      "type": "other",
+      "text": "HOLOSTARS 2nd ACT",
+      "bbox": {
+        "x": 0.0689,
+        "y": 0.5984,
+        "width": 0.1272,
+        "height": 0.0062
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "GRE vo",
+      "bbox": {
+        "x": 0.0583,
+        "y": 0.6092,
+        "width": 0.1361,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "INIVEF RSE!",
+      "bbox": {
+        "x": 0.3139,
+        "y": 0.6092,
+        "width": 0.1356,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "HOLOSTARS 2nd ACT « GREAT VOYAGE to UNIVERSE ! » aura lieu le 20 octobre 2022, au Zepp DiverCity (Tokyo). Le logo a été conçu par Nago, tandis que le visuel a été désigné par Nozaki Tsubata.",
+      "bbox": {
+        "x": 0.0589,
+        "y": 0.7689,
+        "width": 0.3872,
+        "height": 0.0856
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Immédiatement après la fin du stream, la vente des billets a commencé pour le stream en direct du concert. La rediffusion pourra être consultées jusqu'au 13 novembre, 23h59 JST.",
+      "bbox": {
+        "x": 0.0583,
+        "y": 0.8719,
+        "width": 0.3856,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des billets premium sont disponibles pour les places au Zepp DiverCity et pour le streaming en ligne, accompagné de bonus différents. Les détenteurs de billets premium qui assisteront au concert en personne recevront une série de 10 photos style polaroid, tandis que les détenteurs de billets pour le visionnage en direct premium recevront une plaque en acrylique AS signé et une vidéo de quarante-cinq minutes de moments pris dans les coulisses durant la préparation du concert.",
+      "bbox": {
+        "x": 0.5544,
+        "y": 0.4105,
+        "width": 0.3822,
+        "height": 0.1717
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette fois-ci, les produits dérivés sont les suivants :\n• Des bandanas (trois types) Un t-shirt De grands éventails (neuf types) Un bâton lumineux « Stars Light » Des badges (neuf types) Des figurines en acrylique (neuf types)",
+      "bbox": {
+        "x": 0.555,
+        "y": 0.591,
+        "width": 0.3728,
+        "height": 0.1146
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "HOLOSTARS accepte également des commandes de bouquets numériques. Ils ont également rappelé que le Blu-ray de HOLOSTARS 1st ACT, leur premier concert, sortira le 31 août. Un livret d'images spéciales et d'autres bonus seront inclus à l'achat. Ne uez pas HOLOSTARS 2nd ACT le 20 octobre 2022 !",
+      "bbox": {
+        "x": 0.5544,
+        "y": 0.8314,
+        "width": 0.3894,
+        "height": 0.1123
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/garj0urupok91.gif",
+    "gifFrame": 71,
+    "confidence": 94
+  }
+}

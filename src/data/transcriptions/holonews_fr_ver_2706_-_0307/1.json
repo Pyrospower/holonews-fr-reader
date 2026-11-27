@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "OMO x holoEN",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.0117,
+        "width": 0.1731,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Magazine hebdomadaire d'a nous a montré son nouvelle modele 3D",
+      "bbox": {
+        "x": 0.0238,
+        "y": 0.1536,
+        "width": 0.2206,
+        "height": 0.1827
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Leur première collab en 3D AZKi",
+      "bbox": {
+        "x": 0.0231,
+        "y": 0.4158,
+        "width": 0.1963,
+        "height": 0.1385
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Azki fête son 4ème",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.5638,
+        "width": 0.1569,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le retour d'ina ?",
+      "bbox": {
+        "x": 0.7831,
+        "y": 0.0117,
+        "width": 0.1913,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "heading",
+      "text": "\\Shuba",
+      "bbox": {
+        "x": 0.7469,
+        "y": 0.3954,
+        "width": 0.2313,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "célèbre son nniversaire",
+      "bbox": {
+        "x": 0.7938,
+        "y": 0.4401,
+        "width": 0.1825,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "et sa folie des karaokés",
+      "bbox": {
+        "x": 0.7631,
+        "y": 0.7131,
+        "width": 0.2113,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "= Vous voulez nous aider ? Rejoignez notre Discord ! rt 4",
+      "bbox": {
+        "x": 0.1244,
+        "y": 0.8251,
+        "width": 0.7256,
+        "height": 0.1749
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lzth3o635kb91.png",
+    "gifFrame": null,
+    "confidence": 83
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_holoid03_debut_special_-_fr_version",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Kaela Kovalskia est la deuxième membre de la 3e génération d’holoID à faire ses débuts. Elle a commencé son stream en racontant son extraordinaire histoire. Kaela était dans une quête pour trouver un matériel rare et lors de son voyage, elle a fini par se faire prendre pour une des candidates pour l'ID3. Après son histoire, Kaela a immédiatement réprimandé ses spectateurs pour l'avoir appelée un pingouin et les a forcés à lui promettre d'être une communauté positive.",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.2044,
+        "width": 0.4756,
+        "height": 0.2504
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle s'est ensuite présentée et à déclarer qu’elle était d'accord pour qu’on l'appelle Kael ou Ela mais surtout pas « pingouin ».",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.4761,
+        "width": 0.4656,
+        "height": 0.0647
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/n244sqayvis81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

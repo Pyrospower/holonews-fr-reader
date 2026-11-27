@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_holoid03_debut_special_-_fr_version",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "01:00 EST",
+      "bbox": {
+        "x": 0.3931,
+        "y": 0.3116,
+        "width": 0.0356,
+        "height": 0.0061
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Zeta",
+      "bbox": {
+        "x": 0.1863,
+        "y": 0.3542,
+        "width": 0.3831,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "GMT+7",
+      "bbox": {
+        "x": 0.8644,
+        "y": 0.4136,
+        "width": 0.0725,
+        "height": 0.0104
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mon pEJUANG SENIN #ELAONDUTY (TFT) 05.30 20.00",
+      "bbox": {
+        "x": 0.6038,
+        "y": 0.4353,
+        "width": 0.3131,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Tue GETTING OVER IT 9 1400",
+      "bbox": {
+        "x": 0.6056,
+        "y": 0.4718,
+        "width": 0.1919,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Wed RAFT WITH 3RD GEN. 30 2000",
+      "bbox": {
+        "x": 0.6019,
+        "y": 0.5074,
+        "width": 0.2131,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Thus HEARTHSTONE 31 2000 Sat MARO #KAELABORATION 02 1930 \\ Sun SUPER BUNNY MAN WITH ZETA ya 03 1400",
+      "bbox": {
+        "x": 0.5731,
+        "y": 0.5421,
+        "width": 0.3194,
+        "height": 0.0955
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Kaela",
+      "bbox": {
+        "x": 0.4194,
+        "y": 0.6484,
+        "width": 0.4069,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "™ Koboo Maro! MalJum w/ Kobo! MARCH",
+      "bbox": {
+        "x": 0.4669,
+        "y": 0.7322,
+        "width": 0.2231,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Valorant",
+      "bbox": {
+        "x": 0.2125,
+        "y": 0.7782,
+        "width": 0.0381,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Karaoke Stream",
+      "bbox": {
+        "x": 0.5519,
+        "y": 0.7817,
+        "width": 0.0719,
+        "height": 0.0048
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Kobo",
+      "bbox": {
+        "x": 0.18,
+        "y": 0.9297,
+        "width": 0.3944,
+        "height": 0.0365
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/iaef6vayvis81.png",
+    "gifFrame": null,
+    "confidence": 77
+  }
+}

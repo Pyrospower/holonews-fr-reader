@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLO FANTASY 4",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.0577,
+        "width": 0.48,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "YouTube a publié une alpha des cadeaux d'abonnements ! Pendant qu'elle mangé des carottes trempées dans de la mayonnaise, elle a expliqué que cette fonctionnalité permettait d'offrir un abonnement à quelqu'un et d'en recevoir. Les Nousadgis lui ont offert un nombre massif de cadeau d'abonnement, allant d’un simple cadeau à 5, 10 voire 20 abonnements offerts ! Pekora a accueilli les nouveaux membres en annonçant qu’elle regardait prochainement un film avec ces nouveaux compagnons.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2886,
+        "width": 0.4125,
+        "height": 0.2079
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "KonPeko ! KonPeko ! KonPeko ! Pekora a maintenant sa propre figurine, de la série POP UP PARADE. La figurine fait 18cm de haut et est entièrement peinte. Les précommandes sont disponibles sur GoodSmile jusqu'au 2 mars, donc dépêchez vous d’en commander une ! Date d'envoi prévue pour juin 2022.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.5143,
+        "width": 0.4181,
+        "height": 0.1276
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Noel a annoncé sur Twitter qu’elle prendrait une pause sur les lives. Elle a dit qu’elle avait besoin de repos car elle se sentait épuisée mentalement et physiquement.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.8186,
+        "width": 0.4013,
+        "height": 0.0816
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La seconde partie de la collaboration d'HoloFantasy avec Raku Spa est arrivée ! Les illustrations d’holoFantasy en peignoir sont sorties. De nombreux produits en rapport avec la collaboration comme des dessins, des bannières, des pins ou bien des posters sont en vente. Pas seulement des accessoires, mais aussi de la nourriture ! Une édition limitée d’un des posters est accompagnée d’un pancake avec une soucoupe !",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.3433,
+        "width": 0.4356,
+        "height": 0.1806
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'auteur d’Air, Clannad et Little Busters! vient avec un nouveau jeu, Heaven Burns Red, un RPG sur mobile. Flare a fait un stream sponsorisé durant lequel elle a visionné le live officiel dédié au lancement du jeu. Par ailleurs, elle a joué au jeu avant sa sortie ! Elle a montré du gameplay du jeu ainsi que son aspect gacha.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7578,
+        "width": 0.42,
+        "height": 0.1476
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/hl9l6dfs4uh81.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

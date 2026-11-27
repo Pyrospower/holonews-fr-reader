@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "@saka",
+      "bbox": {
+        "x": 0.1056,
+        "y": 0.0833,
+        "width": 0.0244,
+        "height": 0.0056
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Chloe a pris un bain et a déclaré qu'elle commence peut-être à aimer se baigner.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3669,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Avec l'aide de Mio, Koyori a finalement réussi à finir le jeu Getting Over It pour la première fois. Cependant, elle a ensuite voulu essayer de le faire sans aide. Le dimanche, elle a tenté sa chance et a réussi en deux heures.",
+      "bbox": {
+        "x": 0.0781,
+        "y": 0.4275,
+        "width": 0.37,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "other",
+      "text": "takaneluilui",
+      "bbox": {
+        "x": 0.6556,
+        "y": 0.0768,
+        "width": 0.0656,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lui a désormais un compte Instagram ! Allez la suivre @takaneluilui si vous le pouvez !",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.2183,
+        "width": 0.4019,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.6475,
+        "y": 0.3142,
+        "width": 0.1038,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir vaincu Radagon, Koyori s'est lancée dans un voyage pour vaincre Renalla, la sorcière de la lune. Cependant, Renalla s'est avérée être trop difficile pour elle. Après six heures de tentatives infructueuses, elle décida de faire une pause, d'explorer les Terres intermédiaires et d'améliorer son équipement et gagner de l'expérience avant d'affronter à nouveau Renalla. Lorsque le moment est venu de défier Renalla, il lui a fallu moins d'une heure pour la vaincre. Elle a finalement appris qu'au lieu d'essayer de battre le boss encore et encore avec la même configuration, elle peut simplement faire une pause, explorer la carte et monter en niveau ou améliorer son équipement pour rendre les choses plus faciles.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.3533,
+        "width": 0.3881,
+        "height": 0.2357
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.4106,
+        "y": 0.6185,
+        "width": 0.1788,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Jeudi, Korone a streamé dans sa tenue d'arbre de Noël. Lors de ses parties sur Apex, elle s'est classée 5e, 9e, 17e et 14e avant de remporter la victoire au bout de la cinquième partie. Lors du dernier match, elle a joué avec un coéquipier qui s'est rendu compte qu'elle était en stream après qu'un ami lui ait parlé d'elle. Ce coéquipier a également laissé un commentaire sur la VOD pour la féliciter de sa victoire.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.7561,
+        "width": 0.3888,
+        "height": 0.2101
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Hololive and Vtubers]",
+      "bbox": {
+        "x": 0.7906,
+        "y": 0.7574,
+        "width": 0.1669,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu est devenue hystérique lorsqu'elle a remarqué le Super Chat d'une valeur de 50 000 yens (environ 350€) que lui a envoyé Hikakin après la partie discussion de son stream. Ce dernier a également envoyé un véritable mur d'onigiris dans son tchat, renforçant encore plus la confusion d'Okayu et amenant celle-ci à mentionner qu'elle aimait les épaules d'Hikakin.",
+      "bbox": {
+        "x": 0.5481,
+        "y": 0.8194,
+        "width": 0.3919,
+        "height": 0.1319
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/bvkxy169qau81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

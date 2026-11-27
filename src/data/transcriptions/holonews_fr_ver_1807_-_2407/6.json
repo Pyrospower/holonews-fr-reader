@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Okayu a donné un concert spécial en 3D le 24 juillet. Elle a commencé par questionner les autres membres de SMOK (Subaru, Mio et Korone) pour savoir si elles connaissaient bien notre chat préféré. Les perdantes, Subaru et Mio, ont dû consommer une boisson qui les ferait « aimer davantage Okayu ». Après avoir dit qu'elle avait bon goût malgré sa couleur verte inquiétante, Korone a décidé d'en prendre aussi.",
+      "bbox": {
+        "x": 0.1006,
+        "y": 0.2234,
+        "width": 0.3756,
+        "height": 0.1497
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cependant, les SMK se sont soudainement évanouies de douleur sous le regard d'Okayu, souriant. Après une transition, Okayu est apparue sur scène dans sa tenue d'idole, chantant « Doku no Oujisama » ; « Adieu, Salauds », et une nouvelle chanson, « Tokuhai Swallow », écrite par Iwami Takashi et Nanahoshi Orchestra. Immédiatement après, Okayu a annoncé son premier concert solo, Poisonya Syndrome, qui aura lieu le 30 septembre au Tachikawa Stage Garden a Tachikawa dans la préfecture de Tokyo !",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.3873,
+        "width": 0.3756,
+        "height": 0.1694
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les billets pour le regarder en streaming sont désormais disponibles sur SPWN et LINE LIVE (ce dernier est réservé au Japon). Des produits dérivés officiels sont aussi disponibles ! Le pack essentiel comprend une serviette pour le visage, un T-shirt, une lampe en acrylique, et également un étui a ticket ainsi qu'un autocollant.",
+      "bbox": {
+        "x": 0.1011,
+        "y": 0.5829,
+        "width": 0.7989,
+        "height": 0.061
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les autres produits dérivés sont : un porte-clés du logo du concert en caoutchouc, une image circulaire avec un support et une figurine en acrylique.",
+      "bbox": {
+        "x": 0.1011,
+        "y": 0.6563,
+        "width": 0.7989,
+        "height": 0.0297
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu a également annoncé son premier album complet, aussi nommé Poisonya Syndrome, qui sortira le 6 septembre ! L'album de 12 titres comprendra toutes les chansons originales d'Okayu jusqu'à présent, avec de nouvelles chansons de producteurs tels que Surii, Kamiyama Yo, et DECO*27. Le 12e morceau, « ORANGE PARADE » produit par FAKE TYPE aura une intervention de Korone.",
+      "bbox": {
+        "x": 0.1006,
+        "y": 0.8592,
+        "width": 0.8,
+        "height": 0.0764
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous avons hâte de voir ça, Okayu !",
+      "bbox": {
+        "x": 0.1017,
+        "y": 0.9514,
+        "width": 0.3189,
+        "height": 0.0135
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/9yip5omo0qf91.gif",
+    "gifFrame": 89,
+    "confidence": 94
+  }
+}

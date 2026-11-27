@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENTS PALIERS À VENIR D’ABONNÉS",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.0326,
+        "width": 0.8531,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 12 janvier : Anniversaire de Pekora\n• 13 janvier : Anniversaire de Shinove\n• 15 janvier : Anniversaire d'Oga",
+      "bbox": {
+        "x": 0.0731,
+        "y": 0.1293,
+        "width": 0.4006,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 15 janvier : Anniversaire de Risu & sortie de sa chanson originale",
+      "bbox": {
+        "x": 0.0731,
+        "y": 0.2335,
+        "width": 0.385,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 16 janvier : Relai pour la révélation des tenues du Nouvel An du Council",
+      "bbox": {
+        "x": 0.0731,
+        "y": 0.2852,
+        "width": 0.3844,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.6471,
+        "width": 0.8588,
+        "height": 0.1332
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.3137,
+        "y": 0.793,
+        "width": 0.3825,
+        "height": 0.056
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/m4mlsr5kevc81.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

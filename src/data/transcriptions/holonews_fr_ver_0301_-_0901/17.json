@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 17,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STATS ET SORTIES",
+      "bbox": {
+        "x": 0.1456,
+        "y": 0.0595,
+        "width": 0.5588,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Marine] Death By Glamour: 2M",
+      "bbox": {
+        "x": 0.21,
+        "y": 0.1311,
+        "width": 0.2781,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Phony: 5M",
+      "bbox": {
+        "x": 0.3219,
+        "y": 0.1645,
+        "width": 0.1638,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Risu/Fonzi] Gurenge: 75K",
+      "bbox": {
+        "x": 0.2531,
+        "y": 0.1823,
+        "width": 0.2331,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Fubuki] S'il Vous President: 1M [Temma] 1.15man Kilo No Film: 50K [Suisei/lzuru/Astel] Cinema: 750K [AZKi] Nekonarabaikeru: 100K [Gura] Target For Love: 1M",
+      "bbox": {
+        "x": 0.1663,
+        "y": 0.2001,
+        "width": 0.3206,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Botan] Animal: 500K",
+      "bbox": {
+        "x": 0.3006,
+        "y": 0.2891,
+        "width": 0.1856,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[La+] God-ish: 5M [Lui] Rabuka: 500K [Toko/Suisei] Easter Carnival: 500K",
+      "bbox": {
+        "x": 0.1737,
+        "y": 0.3225,
+        "width": 0.3125,
+        "height": 0.049
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Astel/Oga] Airhead: 50K [HoloEN 1/2/Hope] Ochame Kinou: 2M",
+      "bbox": {
+        "x": 0.145,
+        "y": 0.4453,
+        "width": 0.3419,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Ollie/Astel] Okochama Sensou: 500K [Suisei/Taku Inoue] 3:12: 2M [Fubuki] Animal: 750K",
+      "bbox": {
+        "x": 0.1544,
+        "y": 0.4987,
+        "width": 0.3325,
+        "height": 0.049
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "v CHANSON",
+      "bbox": {
+        "x": 0.3206,
+        "y": 0.5803,
+        "width": 0.0994,
+        "height": 0.0078
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.5799,
+        "width": 0.065,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "other",
+      "text": "Te ORIGINALE",
+      "bbox": {
+        "x": 0.3531,
+        "y": 0.5859,
+        "width": 0.1056,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "other",
+      "text": "ORIGINALE",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.5894,
+        "width": 0.07,
+        "height": 0.0056
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE ORIGINAL",
+      "bbox": {
+        "x": 0.845,
+        "y": 0.053,
+        "width": 0.1,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Moona] Again: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1311,
+        "width": 0.185,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lamy/Botan] Lion: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1489,
+        "width": 0.2169,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Where Fate Takes Us: 75K [Aqua] Indoor Kei Nara Trackmaker: TM [Polka] Kaikaikitan: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1667,
+        "width": 0.35,
+        "height": 0.049
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Midnight Song: 75K [Calliope/Inoue] Yona Yona Journey: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2357,
+        "width": 0.3756,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Reine] Usseewa: 750K [Kiara/Ina] I~ya I~ya I~ya: 1M [Kiara] Hinotori (Lone Alpha Remix): 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2869,
+        "width": 0.3694,
+        "height": 0.049
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa FACT",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.6502,
+        "width": 0.1181,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "JOURNEY LIKE A THOUSAND YEARS",
+      "bbox": {
+        "x": 0.3581,
+        "y": 0.6641,
+        "width": 0.2288,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame MY SONG",
+      "bbox": {
+        "x": 0.6637,
+        "y": 0.6497,
+        "width": 0.21,
+        "height": 0.0343
+      }
+    },
+    {
+      "type": "heading",
+      "text": "CONCERTS À VENIR",
+      "bbox": {
+        "x": 0.2331,
+        "y": 0.7227,
+        "width": 0.5375,
+        "height": 0.0343
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/mc0gyv5kevc81.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

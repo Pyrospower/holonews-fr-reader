@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Immédiatement après la sortie de « Q&A=E », lofi a animé un stream où elle a discuté de sa chanson originale avec Moona et Risa. Au fil du temps, la stream s'est transformée en une discussion sur toutes leurs chansons originales. Elles ont discuté des paroles, du processus de création des chansons et de leurs expériences de travail sur celles-ci. Ils ont également discuté de leur participation prochaine au holo Fes et ont annoncé qu'ils allaient streamer ensemble pendant les trois prochains jours.",
+      "bbox": {
+        "x": 0.0631,
+        "y": 0.2227,
+        "width": 0.4081,
+        "height": 0.1615
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Même si Moona, Risu et lofi ont fait une pause pour préparer le festival, elles sont restées très actives sur Twitter. Il se trouve que lofi a vu un fanart d'elle-même montrant le résultat d'un test de grossesse. Au même moment, elle a appelé Moona et lui a dit qu'elles allaient avoir un autre bébé. Après le refus de Moona, lofi a approché Risu et lui a demandé si elle voulait un autre frère ou une autre sœur. En réponse, Risu a demandé pourquoi lofi voulait plus d'enfants, étant donné qu'elle avait déjà quatre personnalités, dont l'une était un ikemen (un Joli garçon). lofi a seulement conclu qu'elle voulait plus de garçons et ne changerait pas son rêve d'avoir une famille ikemen.",
+      "bbox": {
+        "x": 0.0619,
+        "y": 0.5725,
+        "width": 0.4069,
+        "height": 0.2322
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les choses sont allées encore plus loin lorsque des fanarts avec Wisnu (la version garçon de Risu) ont commencé à apparaître.",
+      "bbox": {
+        "x": 0.0638,
+        "y": 0.8234,
+        "width": 0.4044,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À ce stade, lofi voulait une version homme d'elle même et a décidé de la dessiner elle-même. Parce que le lofi résultant était magnifique, lofi a décidé de se dessiner avec lui dans des circonstances épicées.",
+      "bbox": {
+        "x": 0.0625,
+        "y": 0.8824,
+        "width": 0.3919,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "» Kureiji Ollie WOULD YOU HIT ME FOR A MILLION DOLLARS?!?!",
+      "bbox": {
+        "x": 0.5669,
+        "y": 0.0812,
+        "width": 0.3538,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 18 mars, Ollie a mis en ligne une vidéo montrant les réactions de ses collegues a la question de savoir s'ils frapperaient Ollie pour un million de dollars/yen. Elle a interrogé 23 participants de toutes les branches et chacun d'entre eux a réagi différemment à sa question. Certains n'hésitaient pas à la frapper, mais la plupart étaient assez gentils pour ne pas le faire.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.2183,
+        "width": 0.3975,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Reine est accro à Vampire Survivors ! Elle a réalisé six live pour un total de plus de vingt heures au cours des seize derniers jours. Reine est passée de l'ignorance totale du jeu à la création de ses propres épreuves. L'addiction est telle qu'elle a même organisé un stream non programmé d'une heure le samedi soir, juste pour calmer ses pulsions.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.5234,
+        "width": 0.3894,
+        "height": 0.1319
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/wk838d61s5q81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

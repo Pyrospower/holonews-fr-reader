@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 17,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STATS ET NOUVELLES SORTIES",
+      "bbox": {
+        "x": 0.0925,
+        "y": 0.0477,
+        "width": 0.6587,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Aqua] / Wanna: 500K",
+      "bbox": {
+        "x": 0.3081,
+        "y": 0.1181,
+        "width": 0.1788,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[IRyS] See The World: 100K",
+      "bbox": {
+        "x": 0.2575,
+        "y": 0.1345,
+        "width": 0.2294,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Rikka] Yoru Naderu Menou: 75K [Fubuki/Marine] Happiness World: 250K [Nene/Kotone] Sunday's Secret: 100K [Okayu] Detabare Neko: 250K",
+      "bbox": {
+        "x": 0.1638,
+        "y": 0.151,
+        "width": 0.3231,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Lower: 2M",
+      "bbox": {
+        "x": 0.3375,
+        "y": 0.2331,
+        "width": 0.1481,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lui] Mira (Cover): 100K",
+      "bbox": {
+        "x": 0.2938,
+        "y": 0.2496,
+        "width": 0.1925,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Aqua/Kanata] God-ish: 1M",
+      "bbox": {
+        "x": 0.2663,
+        "y": 0.2661,
+        "width": 0.2194,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Ollie/Ruuko] Yume ni Yell! Patissiere: 50K [Mel/Korone/Noel/Marine] Miracle Shopping: 500K [Council] Hikaru Nara: 500K [Suisei] Phony: 9M",
+      "bbox": {
+        "x": 0.08,
+        "y": 0.2826,
+        "width": 0.4069,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Call/Gura] Q: 7M",
+      "bbox": {
+        "x": 0.3419,
+        "y": 0.3646,
+        "width": 0.1438,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[MiComet] Animal: 3M",
+      "bbox": {
+        "x": 0.3075,
+        "y": 0.3811,
+        "width": 0.1781,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Reine] Love Me Love Me: 100K [Calliope/Boogey Voxx] Crown: 750K [Korone] Fire Emblem Theme: 750K [Polka] Jealousies: 500K",
+      "bbox": {
+        "x": 0.1869,
+        "y": 0.3976,
+        "width": 0.3,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Towa] Hyakkisai: 3M",
+      "bbox": {
+        "x": 0.3137,
+        "y": 0.4635,
+        "width": 0.1719,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Mio] Animal: 1M",
+      "bbox": {
+        "x": 0.3513,
+        "y": 0.4961,
+        "width": 0.1344,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Okayu] Shitsuraku Petri: TM [Lui/Okayu] Identity (Cover): 10K [Calliope] Off With Their Heads: 10M [Astel] Mirai Ginga to Kiteki no Melody: 100K [Matsuri] Yomosugara Kimi Omou (Cover): 250K [Astel/Kazuya] Identity (Cover): 25K [Kiara/Ame] Dreamin Chuchu: 1M [Suisei] Ranbu No Melody: 5M",
+      "bbox": {
+        "x": 0.0925,
+        "y": 0.5126,
+        "width": 0.3944,
+        "height": 0.1276
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi KAIKA SENGEN",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.8919,
+        "width": 0.1481,
+        "height": 0.0569
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE ORIGINAL NOUVEAU",
+      "bbox": {
+        "x": 0.8413,
+        "y": 0.0365,
+        "width": 0.1081,
+        "height": 0.043
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Flare] RGB: 250K [Polka] Animal: 250K [Calliope] end of a life: 8M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1181,
+        "width": 0.2081,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Okayu] p.h.: 3M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1832,
+        "width": 0.1319,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Moona] High Tide: 750K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1997,
+        "width": 0.2019,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Izuru] Monologue In A Row: 250K [Izuru] Gaitou Ga Sabita Mama: 25K [Reine] Cinderella: 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2161,
+        "width": 0.2944,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Ayame] King: 5M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2656,
+        "width": 0.1425,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[La+] God-ish: 10M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2982,
+        "width": 0.1544,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Baelz] Play Dice!: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3147,
+        "width": 0.195,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Stellar Stellar: 7M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3312,
+        "width": 0.2063,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Astel] Hokori Takaki Aidoru: 75K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3477,
+        "width": 0.2675,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Matsuri] Kimi No Shiranai Monogatari: 4M [Suisei/Natsushiro] Bluer Than Indigo: 100K [Sora/Kotone] Ojamajo Carnival: 2M [Watame] Jingisukan Rap: 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3641,
+        "width": 0.3538,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Roberu] Pop Talk: 75K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4301,
+        "width": 0.1894,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "heading",
+      "text": "100 MILLE VUES!",
+      "bbox": {
+        "x": 0.5788,
+        "y": 0.615,
+        "width": 0.3081,
+        "height": 0.0178
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/zmf24vt6bdn81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

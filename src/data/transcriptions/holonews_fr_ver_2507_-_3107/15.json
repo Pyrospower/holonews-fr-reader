@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 15,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "hololive EN",
+      "bbox": {
+        "x": 0.3856,
+        "y": 0.0161,
+        "width": 0.23,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans son stream discussion, Kiara a raconté son récent voyage à Rimini, en Italie, avec ses amis. lls avaient l'intention de se rendre à un congrès de bandes dessinées al a malheureusement été annulé. Elle a poursuivi en racontant qu'elle s'était rendue à la plage, qu'elle était allée au restaurant et qu'elle avait terminé son voyage en arrivant en Autriche, où elle avait été accueillie par une foule d'applaudissements. Elle a également raconté que sa mère l'avait mise en garde contre la i pollution de l'eau sur les plages italiennes, ce qui s'est avéré vrai.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2179,
+        "width": 0.3838,
+        "height": 0.1558
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli a fini The Quarry à l'aveugle en deux streams. Elle n'a pas réussi à tuer les deux loups-garous lors de la première partie car elle a raté un tir important avec son fusil à pompe lors d'un combat décisif. Cependant, elle a rejoué la dernière partie du jeu et a perdue deux vies pour sauver un personnage et tuer le loup-garou. Plus tard dans le jeu, elle a abattu l'autre loup-garou, sauvant ainsi tous ceux qui avaient été maudits par sa morsure. Elle a réussi à sauver environ la moitié des personnages, puis elle a fini en lisant les Super Chats. Calli a des nerfs d'aciers !",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.6194,
+        "width": 0.385,
+        "height": 0.1693
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina a raconté une histoire de ses années de lycée, elle avait été invitée à la fête d'anniversaire d'une amie qui se tenait dans une boite de nuit. À l'époque, Ina n'avait pas du tout envie d'y aller, et elle avait donc fait exprès de ne pas apporter sa carte d'identité. Ina n'a donc pas pu entrer dans la boîte de nuit, ce qui lui a permis de rentrer chez elle et de se rouler dans une couverture confortable sans qu'il soit évident qu'elle n'avait pas voulu aller en boîte. Quel Tako sournois !",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2183,
+        "width": 0.3925,
+        "height": 0.1471
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli, IRyS et Bae ont fait un épisode de CHAD Cast sur le thème du camping où elles ont « campé », Calli ayant même des s'mores (dessert à cuire sur le feu) et d'autres nécessités. Elles ont parlé de leurs expériences de camping passées, comme la randonnée de Bae, le voyage raté d'IRyS et les différences entre le camping sous tente et le camping en cabane. Parmi les autres sujets abordés, citons leurs expériences avec les vendeurs, l'échec de Calli à rejoindre les scouts, les discussions sur les vieilles consoles de jeux, le Dr Kawashima du Programme d'entraînement cérébral du Dr Kawashima, et les habituelles discussions sur les animés. Ce jour-là, le 29 juillet, c'était la journée de la viande (Niku no Hi [NO H]), qui a lieu le 29 de chaque mois, car « niku » (viande) peut s'écrire comme 2 (ni) et 9 (ku). En abordant le sujet, elles ont commencé à parler de leurs récents repas à base de viande et IRyS leur a dit qu'elle avait récemment acheté un poulet grillé.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.5972,
+        "width": 0.4,
+        "height": 0.2552
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont également joué au jeu des « catégories » où elles devaient nommer des noms de choses d'une certaine catégorie, à savoir les animaux puis les couleurs. Enfin, elles ont annoncé le prochain épisode qui aura lieu sur la chaîne de Bae, la sortie des produits dérivés CounclRyS x OMOCAT, les produits dérivés d'anniversaire d'IRyS et l'EP Quarter Bravery, et la graduation de Sana, qu'elles ont accompagné d'une interprétation d'« Astrogirl ».",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.862,
+        "width": 0.4019,
+        "height": 0.1215
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1sb36tg4fig91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 20,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Credits Milestones",
+      "bbox": {
+        "x": 0.4288,
+        "y": 0.0256,
+        "width": 0.4206,
+        "height": 0.0694
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "à V lofi's Nose",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.1684,
+        "width": 0.1575,
+        "height": 0.0404
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Irys 800k = Izuru 175k",
+      "bbox": {
+        "x": 0.5406,
+        "y": 0.1437,
+        "width": 0.1431,
+        "height": 0.0642
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "@ Fauna 500k",
+      "bbox": {
+        "x": 0.7513,
+        "y": 0.125,
+        "width": 0.1737,
+        "height": 0.0456
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lofi a fait tout un stream pour nous exhiber le nez de son model 3D. Mais, elle a fini par Watame 1,2M",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2283,
+        "width": 0.6381,
+        "height": 0.0352
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "nous montrer tout son modele 3D pendant un moment, ce qui a causé la hausse du taux de diabète chez les spectateurs.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.2561,
+        "width": 0.37,
+        "height": 0.0412
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A 8 x sgn Smol ID Pendant une collab discussion, Reine, Ollie, et Anya ont annoncé qu’une",
+      "bbox": {
+        "x": 0.0581,
+        "y": 0.3854,
+        "width": 0.3594,
+        "height": 0.1259
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "yd \\ ° Evénement a venir\n• 6 avril : 3e anniversaire des débuts d’Okayu\n• 10 avril : 2e anniversaire des débuts de Risu",
+      "bbox": {
+        "x": 0.5475,
+        "y": 0.3728,
+        "width": 0.3731,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "dangereuse « créature » ( qui peut être décrite comme une Smol Reine ) a été signalée et que d'autres créatures",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.5122,
+        "width": 0.3544,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 11 avril: 2e anniversaire des",
+      "bbox": {
+        "x": 0.5675,
+        "y": 0.5352,
+        "width": 0.3025,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "similaires pourraient être en approche",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.5564,
+        "width": 0.3431,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "débuts de Moona",
+      "bbox": {
+        "x": 0.5869,
+        "y": 0.5512,
+        "width": 0.1731,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "aussi. La théorie la plus probable semble menée à un reveal de model 3D chibi pour HoloRo, et peut pas juste pour elle.",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.5712,
+        "width": 0.3863,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "; ; ;\n• 12 avril : 2e anniversaire des débuts d'lofi",
+      "bbox": {
+        "x": 0.5675,
+        "y": 0.5833,
+        "width": 0.3025,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas à rejoindre notre subreddit ou notre serve Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.6949,
+        "width": 0.5094,
+        "height": 0.1124
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.8242,
+        "width": 0.2537,
+        "height": 0.0373
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ytwwazs6qws81.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

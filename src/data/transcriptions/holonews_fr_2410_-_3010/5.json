@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Moona apparaît plus jeune dans son nouveau look, modifiant seulement un peu son image précédente.",
+      "bbox": {
+        "x": 0.1388,
+        "y": 0.4557,
+        "width": 0.4269,
+        "height": 0.0469
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La tenue est composée de bottes en cuir noir, de bas résille, d'une jupe courte avec une ceinture cloutée et un pendentif lune.",
+      "bbox": {
+        "x": 0.1388,
+        "y": 0.5217,
+        "width": 0.4188,
+        "height": 0.0469
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le buste est recouvert d'un corset en cuir noir avec des lacets violets, et couvert dans la partie supérieure par une chemise en résille mixte avec un col.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.6059,
+        "width": 0.4525,
+        "height": 0.0603
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des gants noirs et une veste transparente étoilée complètent cette tenue très détaillée. La coiffure ajoute des nuances d'azur et de rose à sa palette violette et dorée. Des épingles à cheveux maintiennent les longs cheveux raides tandis qu'une longue coiffure et des touffes rebelles rompent harmonieusement l'apparence froide.",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.6719,
+        "width": 0.4494,
+        "height": 0.1293
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "On ne sait pas si ce thème est plus « Mauvaise fille » ou « Enfant rebelle », mais elle a également reçu de nouveaux gadgets : un microphone à main à thème, un masque en dents de requin et un verre pour les boissons.",
+      "bbox": {
+        "x": 0.1388,
+        "y": 0.8385,
+        "width": 0.4381,
+        "height": 0.0938
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/sonzn5m5o22a1.gif",
+    "gifFrame": 60,
+    "confidence": 95
+  }
+}

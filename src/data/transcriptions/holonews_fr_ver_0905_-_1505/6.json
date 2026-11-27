@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Après un mois d'absence, Shion a fait son retour avec un stream discussion dans lequel elle a donné à ses fans des nouvelles sur son état. Elle se sent maintenant beaucoup mieux, et son séjour à l'hôpital lui a évité d'importants problèmes de santé. Cependant, elle s'est fait mal en nettoyant trop souvent ses oreilles qui la démangeaient. Shion a par ailleurs annoncé une collaboration avec Chloe pour la semaine suivante.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3913,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir vu la position assise de Tifa, Subaru comprend enfin ce que ressentent les Subatomos.",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.5273,
+        "width": 0.3794,
+        "height": 0.0369
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a participé au cours d'anglais de Calli aux côtés de Mel et Fauna. Après les questions banales sur ce qu'elles étaient en train de boire et leurs boissons préférées, les filles se sont efforcées de répondre aux questions posées en anglais par Calli. Après la partie questions, le groupe a essayé de chuchoter des mots clés d'ASMR en anglais.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2183,
+        "width": 0.3906,
+        "height": 0.1011
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La semaine dernière, Choco a joué à Apex avec Bae et Mumei. Ces deux-là lui ont demandé de « porter les enfants », en se référant à elles-mêmes. Bae avait véritablement la voix d'un enfant, puisqu'elle utilisait un modificateur de voix et jouait le rôle",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.4948,
+        "width": 0.3806,
+        "height": 0.0781
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "de « l'enfant de BaeRyS ».",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.5729,
+        "width": 0.2206,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamers",
+      "bbox": {
+        "x": 0.4238,
+        "y": 0.6029,
+        "width": 0.1513,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, la série animée d'Okayu a fait son retour ! Les Onigiriyas ont eu droit à la vision adorable d'Okayu tirant la langue après s'être brûlée par inadvertance en buvant du café chaud. Après avoir soufflé dessus, elle est finalement parvenue à boire son café.",
+      "bbox": {
+        "x": 0.065,
+        "y": 0.8003,
+        "width": 0.3919,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "THE SKYWALKER SAGA",
+      "bbox": {
+        "x": 0.5306,
+        "y": 0.651,
+        "width": 0.2581,
+        "height": 0.0087
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Korone a joué à LEGO Star Wars cette semaine ! Avant de mettre fin au stream, elle a questionné ses spectateurs anglophones sur leur personnage préféré de la série. Certains ont répondu Boba Fett, Ahsoka Tano ou encore Bébé Yoda, mais l'une des réponses était Jar Jar, se référant au personnage de Jar Jar Binks. Korone, une fan de ce personnage, a été surprise par la haine que ce message a suscité dans son tchat et s'est questionnée sur la raison. Il semblerait que la haine envers Jar Jar Binks ne soit pas universelle.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.8003,
+        "width": 0.3881,
+        "height": 0.161
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/deqm6xbndn191.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

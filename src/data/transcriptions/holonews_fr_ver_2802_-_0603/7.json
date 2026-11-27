@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLO FANTASY",
+      "bbox": {
+        "x": 0.1269,
+        "y": 0.3945,
+        "width": 0.2775,
+        "height": 0.0629
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans son stream Elden Ring, Noel a mentionné que sa mère regardait parfois ses streams sur des jeux. À certains moments, quand Noel disait « Maman, sauve moi ! », sa mère envoyait parfois un message disant « Qu'est-ce qu'il se passe ? » À cause de cela, Noel ne veut plus appeler sa mère à l'aide, au cas où celle-ci regarderait son stream.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.6402,
+        "width": 0.4256,
+        "height": 0.1363
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Marine est toujours en pause, mais heureusement, elle est toujours active sur Twitter. De temps à autre, elle tweete pour donner de ses nouvelles avec un GIF mignon.",
+      "bbox": {
+        "x": 0.2663,
+        "y": 0.8064,
+        "width": 0.2175,
+        "height": 0.1393
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre bien-aimée Choco-sensei, comme la plupart des autres membres d’hololive, ne pouvait pas résister à la tentation de jouer à Vampire Survivors. Elle y a joué pendant quatre heures et demie d’une traite, montrant à quel point elle aimait ce jeu.",
+      "bbox": {
+        "x": 0.5194,
+        "y": 0.1207,
+        "width": 0.4156,
+        "height": 0.0929
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre sensei a aussi montré qu'elle était attentive, en évitant de tomber dans le piège de la flèche verte, ce même piège qui a mené Pekora à sa perte. La flèche verte qui montre le bas de l'écran incite le joueur à la suivre, en abandonnant de 'EXP et des coffres. Choco a su résister et est restée concentrée sur la montée de niveau, ce qui lui a permis de finir le jeu.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.23,
+        "width": 0.4206,
+        "height": 0.1398
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Flare a montré son modèle 3D à domicile. Elle a chanté beaucoups de chansons comme « Tondemo Wonder », « S'il vous president », « Renai Circulation » et bien plus encore ! Flare a énormément apprécié son nouveau modèle 3D depuis qu'elle l’a reçu.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.6359,
+        "width": 0.4106,
+        "height": 0.1089
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora a joué à Survival Quiz City, et a étalé sa culture générale. Comme d'habitude le stream était amusant. À un moment, elle c'est moqué du jeu car les questions étaient faciles, mais le jeu lui a posé une question difficile juste après.",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.7821,
+        "width": 0.255,
+        "height": 0.1554
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/57dvdet6bdn81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

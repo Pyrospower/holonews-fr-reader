@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 15,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Ina s'est lancée dans un voyage pour devenir un grand chef avec un stream de cuisine dans sa nouvelle résidence ! Elle a fait de la soupe aux œufs et du lait à la fraise. La prêtresse ne pouvait pas cuisiner lorsqu'elle vivait chez ses parents, car « Mama'nis l'empêchait d'entrer dans la cuisine », mais elle est maintenant capable de couper des légumes. D'ailleurs, elle ne s'est rendu compte qu'elle n'avait pas de mixeur pour son lait aux fraises qu'au milieu du stream, ce qui l'a obligée à écraser les fraises à la main. Des fraises chanceuses.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.247,
+        "width": 0.4456,
+        "height": 0.1532
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina a organisé un stream discussion pour informer les Takodachis de sa vie et de ses projets d'avenir. Elle a commencé par parler de son départ de la maison de ses parents, de la rénovation complète de son ancienne chambre par Mama'nis et du remplacement de ses parents par Yuyu (une peluche Takodachi géante). La conversation a lentement glissé vers les lave-vaisselle et le fait qu'elle pensait qu'ils étaient magiques. Malheureusement, bien que les Takodachis se soient portés volontaires, elle a refusé de les laisser faire la vaisselle car ils allaient lécher ses assiettes. Le projet d'une nouvelle chanson a également été évoqué, Ina annonçant qu'elle allait réaliser elle-même le MV. Le stream s'est terminé par le départ d'Ina pour acheter du lait, et les Takodachis qui l'ont suppliée de revenir.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.4583,
+        "width": 0.4456,
+        "height": 0.2418
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "DAVINCI x",
+      "bbox": {
+        "x": 0.7181,
+        "y": 0.0321,
+        "width": 0.0744,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli, qui est passionnée de manga, a organisé un stream avec le célèbre AniTuber Garnt (Gigguk) pour présenter les NEXT MANGA AWARDS 2022. lls avaient déjà collaboré à deux reprises sur le podcast Trash Taste.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.1957,
+        "width": 0.4444,
+        "height": 0.072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ame a décidé de donner aux Teammates un aperçu du passé en faisant une tier list des technologies des années 90. Parmi les entrées notables, citons la Gameboy SP pour laquelle elle et son frère Watson se sont battus (et qu'ils ont cassée), un Bop-It qu'elle prévoit de speedrunner dans un stream 3D, et des Furbies, qu'elle détestait.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.4926,
+        "width": 0.4456,
+        "height": 0.1016
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 3 septembre, Gura a organisé les « Big Brain Games » (aucun rapport avec la Big Brain Academy), avec Ollie, Kronii, Ina, IRyS, Mumei et Bae. Deux autres personnes devaient participer mais se sont désistées en raison de conflits d'horaires de dernière minute.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.6593,
+        "width": 0.4456,
+        "height": 0.0816
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les participantes devaient répondre à des questions assez simples posées par Gura, comme ce qu'est 2\n• 5 ou sur le nom d'un groupe de corbeaux, avec des bonus de type « jeu » à utiliser sur elles-mêmes ou sur leurs camarades. Parmi les moments marquants, plusieurs filles ont oublié que la couleur jaune existait : la question était de savoir quelle couleur de l'arc-en-ciel venait en dernier dans l'ordre alphabétique, et Bae en a profité pour mettre en avant « VIOLET » d'Ina. IRyS a dit à tort qu'un groupe de corbeaux est une foule au lieu d'un meurtre et a failli qualifier un angle obtus d'« obèse ». Malheureusement, le stream a été interrompu en raison de problèmes techniques, mais Gura a promis de continuer une prochaine fois",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.7595,
+        "width": 0.4462,
+        "height": 0.2131
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8t26mh9kaqn91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

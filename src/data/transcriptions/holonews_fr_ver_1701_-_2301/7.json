@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Haachama s’est plainte que YouTube ne l’ait toujours pas démonétisée après tout ce qu'elle a fait, alors elle a décidé de s'imposer une pénalité d'un mois. Elle a désactivé les Super Chats et les publicités de toutes ses vidéos, mais pas les abonnements payants, parce qu’elle n'a pas trouvé comment les désactiver. Pendant cette période d'auto-restriction, elle doit terminer chaque phrase par « -chama ».",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2773,
+        "width": 0.4263,
+        "height": 0.1554
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a organisé des funérailles en stream pour son micro ASMR binaural cassé, qu'elle possède depuis qu’elle était en Australie. Elle était désespérée de ne plus pouvoir tenir le bras du micro et agir comme si c’était son petit ami. Suite à cette tragédie, elle a décidé de sceller son érotisme.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.4618,
+        "width": 0.4281,
+        "height": 0.125
+      }
+    },
+    {
+      "type": "other",
+      "text": "GARIBENGER",
+      "bbox": {
+        "x": 0.0388,
+        "y": 0.5977,
+        "width": 0.0906,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Akirose a révélé sa participation à l'émission télévisée « Gariben Girl V », en compagnie de Kizuna Ai et de Mirai Akari. Restez à l'écoute.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.7609,
+        "width": 0.4125,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour leur première collab ensemble, Mel et Lui ont joué à 51 Worldwide Games avec un gage à la clé.",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.2678,
+        "width": 0.4244,
+        "height": 0.053
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mel s’est peut-être porté la poisse en portant des oreilles de chat lors de la collab, car elle a perdu et a dû terminer ses phrases par « nyan~ », mais à la place, Lui a invité Mel dans sa série de YouTube Shorts pour miauler ensemble le jour de la Saint-Valentin.",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.3294,
+        "width": 0.425,
+        "height": 0.1081
+      }
+    },
+    {
+      "type": "heading",
+      "text": "= Haachama",
+      "bbox": {
+        "x": 0.5444,
+        "y": 0.5642,
+        "width": 0.3275,
+        "height": 0.0391
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a dit tout ce qu'elle pensait de la vie et a exprimé son mécontentement en chantant. Ce stream infernal a duré six heures, elle a chanté jusqu’à l’aube.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.6233,
+        "width": 0.425,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a fait un stream karaoké imprévu et non archivé, dans lequel elle a chanté de nombreuses chansons anglaises et de Disney. Néanmoins, il lui a fallu presque 19 heures avant que la rediffusion soit retirée. (H-HAACHAMA !?)",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.73,
+        "width": 0.4175,
+        "height": 0.0959
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/eg6iinf6x8f81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

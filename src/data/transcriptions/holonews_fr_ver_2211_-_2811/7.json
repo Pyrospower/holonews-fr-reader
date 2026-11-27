@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "oriluna",
+      "bbox": {
+        "x": 0.1225,
+        "y": 0.1771,
+        "width": 0.0525,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Princesse Luna a été certifiée sur Twitter, faisant d'elle la 12e membre d'hololive à obtenir le badge bleu tant convoité avant Fubuki.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2535,
+        "width": 0.3944,
+        "height": 0.0647
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roboco, Suisei, Kanata et Lamy ont joué ensemble à UNO. La collab n'a été planifiée par Kanata qu'une demi-heure avant le début du stream, Roboco l'ayant rejointe à la dernière minute. Elles ont joué douze manches au total, avec les chaotiques règles du « 7 » et du « 0 ». Lamy a remporté la plupart des victoires, tandis que Suisei et Kanata n’ont gagné qu’une et deux fois respectivement. A la fin, Suisei a annoncé en 25 secondes sa participation à VILLS Vol. 3 et sa chanson dans DYSCHRONIA: Chronos Alternate en parlant à une vitesse fulgurante.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.51,
+        "width": 0.42,
+        "height": 0.2244
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame a présenté diverses créations de fans issues du projet Canvas Watame qui s’est tenu en octobre, dans lequel les fans ont envoyé des assets pour le streaming comme des arriere-plans, des accessoires, des animations et des musiques de fond. Elle aimerait organiser un autre projet similaire à 'avenir et montrer davantage de créations de fans dans un futur stream.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2535,
+        "width": 0.4094,
+        "height": 0.1367
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame a invité un membre de chaque génération anglaise (ainsi qu’IRyS) pour une collab Mario Party qui s'est avérée aussi chaotique que prévu. Mention spéciale pour Watame et Fauna qui ont mené la collaboration malgré la barrière linguistique, et pour IRyS et Kiara qui se sont efforcées d'assurer le lien. Attention : les spectateurs se verront exposés à des quantités sans précédent de TeeTee entre Watame et Fauna et à beaucoup de sel d'IRyS.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.5755,
+        "width": 0.4238,
+        "height": 0.171
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata a fait des Miis des membres d’holoX sur Mitopia une heure avant leurs débuts respectifs.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.9323,
+        "width": 0.8313,
+        "height": 0.0334
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/7boungemjr381.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

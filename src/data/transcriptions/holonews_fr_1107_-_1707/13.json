@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Divers",
+      "bbox": {
+        "x": 0.4369,
+        "y": 0.0169,
+        "width": 0.1263,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le serveur Minecraft hololD a enfin été connecté au serveur JP ! Pour fêter ça, Mio a dirigé une équipe de membres d’hololive JP qui se sont relayées pour construire une entrée spectaculaire pour le portail vers le serveur ID dans le ciel.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.3051,
+        "width": 0.3762,
+        "height": 0.0751
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko a créé une magnifique fontaine qui sert de lieu pour prendre des photos. Watame a construit une balançoire (ere avec une publicité pour Uber Sheep). Koyori a construit un aquarium « luxueux » avec un seul bloc d'or, tandis que Matsuri a créé un espace de relaxation dans le jardin. Lui a placé les lits tandis que Botan a planté les arbres. Aki a créé un magnifique cœur fait de verre rose et de lave qui a tellement impressionné Miko qu'elle en a demandé un our elle-même. Mio a créé un « saut à \"élastique sans élastique ». Miko en a profité pour pousser Iroha et Watame d’une falaise avant de se faire passer pour une victime. Les files ont ensuite été amenées à visiter le serveur ID par Ollie, Moona, Kaela et Zeta.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.3963,
+        "width": 0.3838,
+        "height": 0.2214
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour plaisanter, Pekora, Polka et Botan ont accusé Marine d'être secrètement de connivence avec Ubisoft après avoir dominé à plusieurs reprises les parties de Uno. La pirate avait fréquemment réussi à manipuler les autres joueurs en leur faisant croire qu'elle avait des cartes différentes, avant de détruire les autres dans les parties de Uno. C'est ainsi que Botan a suggéré de faire équipe avec Marine, au grand dam de la pirate. Incidemment, Pekora a été malmenée à plusieurs reprises dans le jeu, puisqu'elle a dû piocher 12 cartes une fois, et a même accumulé assez de cartes pour « ouvrir un magasin de cartes ». Coup dur pour Pekora.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.8038,
+        "width": 0.385,
+        "height": 0.1832
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La déesse Matsuri a menacé de mettre fin à la vie de Miko sur RUST si l'Élite ne lui rembourse pas ses 100 ferrailles. Cela s'est produit lorsque Mikochi a proposé à Matsuri de lui prêter 10 ferrailles pour parier ; elle lui rendrait ensuite 50 ferrailles. Cependant, Matsuri n'était pas satisfaite du rendement potentiel et a exigé un remboursement de 100 ferrailles à la place, sinon elle ôterait la vie à Mikochi (sur RUST). Bonne chance Mikochi !",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.3346,
+        "width": 0.3869,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Korone et Pekora ont participé ensemble à une compétition de Super Mario Bros. pour voir qui pouvait aller le plus loin en une heure. Les règles étaient les suivantes : tout était permis, y compris les raccourcis permettant d'accéder a d’autres mondes, et Korone a dit pouvoir battre le jeu en cinq minutes. Pekora a suggéré une punition pour la perdante, qui devrait complimenter la gagnante pendant une minute. Korone s'est demandée à voix haute si cela pouvait vraiment être considéré comme une punition. Le reste de la discussion a consisté en de nombreux échanges comiques entre les deux joueuses qui se taquinaient mutuellement. Pekora est sortie victorieuse et Korone l'a complimentée comme convenu. Korone a ensuite invité Pekora à rejoindre le groupe des GAMERS mais a retiré ce qu'elle a dit avant que Pekora ne puisse répondre. OTSUPEKORONE !",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.7218,
+        "width": 0.3906,
+        "height": 0.2656
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/dzym0t55sqd91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

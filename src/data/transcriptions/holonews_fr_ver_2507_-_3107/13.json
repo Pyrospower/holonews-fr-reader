@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS EN",
+      "bbox": {
+        "x": 0.3356,
+        "y": 0.0174,
+        "width": 0.33,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant ses débuts l'un des rares tweets de Vesper consistait à demander des blagues de papa sous le hashtag #VesperDadJokes, et il allait épingler sa préférée. Lors d'un stream ultérieur, il a fait des sondages avec deux choix et a laissé les spectateurs voter pour savoir lequel était le plus drôle. Cependant, il y a eu des moments où le gagnant était prédéterminé par la façon dont il riait. Pour savoir qui a gagné, regardez son stream ou son Twitter !",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2413,
+        "width": 0.3869,
+        "height": 0.1445
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans l'un de ses streams de discussion, ; Vesper a expliqué à ses spectateurs pourquoi il ne jouerait pas à Among Us. Il a dit que c'était parce qu'il n'aime pas mentir et accuser les gens. Vesper a dit que dès qu'il obtiendrait un rôle d'imposteur, il avouerait i immédiatement et demanderait à être éjecté.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.4796,
+        "width": 0.3831,
+        "height": 0.0859
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le seul moyen de faire jouer Vesper a Among Us est que les trois autres membres de TEMPUS le supplient de jouer dans une collaboration de groupe et que son absence ruine la collaboration.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.5751,
+        "width": 0.3831,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vesper a organisé un stream en collaboration avec Altare où ils ont tous deux joué à Hunt : Showdown, un jeu de tir à la première personne de type Joueur contre Joueur contre Environnement. Bien qu'ils débutaient, ils ont démontré qu'ils apprenaient rapidement de nouvelles compétences. Ils ont réussi à remporter quelques matchs en une heure de streaming.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.8312,
+        "width": 0.3856,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans la dernière interview entre Vesper et Axel, Vesper interrogeait Axel sur sa capacité à parler couramment deux langues, l'anglais et le japonais. L'une des questions posées était de savoir dans quelle langue Axel pense dans sa tête. À cette question, Axel a répondu sans une once d'hésitation : « Je ne pense pas ! » .",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2365,
+        "width": 0.3894,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les membres d'HOLOSTARS EN TEMPUS apparaîtront en tant qu'invités à la CR Expo de Crunchyroll. lls apparaîtront dans la « holoMeet Experience Zone » , mais ne participeront pas aux panels ou aux rencontres",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.4349,
+        "width": 0.3894,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour leur première collaboration en duo, Altare et Magni ont décidé de jouer A Way Out. En raison de leurs limitations actuelles qui les empêchent de diffuser plus d'une heure, ils ont décidé de le faire en relais. La première heure sur la chaîne d'Altare, la suivante sur celle de Magni.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.7257,
+        "width": 0.3881,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces streams ont prouvé l'humour des deux, comme lorsque Altare a utilisé le visage de Vesper pour censurer certaines scènes classées +18 dans le jeu, ou certains commentaires douteux que Magni faisait de temps en temps.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.8333,
+        "width": 0.3631,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ne manquez pas de regarder ces streams sur les chaînes d'Altare et de Magni.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.9275,
+        "width": 0.3825,
+        "height": 0.0265
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lphuwhg4fig91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

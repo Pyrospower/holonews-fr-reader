@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 3,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Mel a fêté son 4e anniversaire le 19 juin (retardé par rapport à la date réelle, qui est le 13 mai) avec un concert 3D, Twinkle Starry Night ! Après une intro animée tape-à-l'œil, Mel a démarré le concert avec « Viva Happy », avec Choco qui est arrivée en plein milieu de la chanson en tant qu'invitée surprise.",
+      "bbox": {
+        "x": 0.0478,
+        "y": 0.5258,
+        "width": 0.4267,
+        "height": 0.1296
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mel a continué en solo avec « Suki?Kirai!?Suki!!! », puis elle a chanté",
+      "bbox": {
+        "x": 0.0478,
+        "y": 0.6698,
+        "width": 0.3906,
+        "height": 0.0293
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« Oshiete...! Twinkle % » avec Luna et Suisei, ainsi que « KING » avec Towa. Mel a également chanté « Tondemo Wonders » avec Subaru, Okayu, Korone et Lamy, puis elle a chanté « Prism Melody » d'hololive IDOL PROJECT ainsi qu'une de ses chansons originales, « Caramel Devil ».",
+      "bbox": {
+        "x": 0.0478,
+        "y": 0.6987,
+        "width": 0.4267,
+        "height": 0.103
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mel a ensuite dévoilé le set de produits dérivés pour son anniversaire, qui comprend :",
+      "bbox": {
+        "x": 0.0478,
+        "y": 0.814,
+        "width": 0.4267,
+        "height": 0.0309
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un bloc acrylique à double couche, avec une illustration de Suimya",
+      "bbox": {
+        "x": 0.0667,
+        "y": 0.8596,
+        "width": 0.405,
+        "height": 0.0309
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un masque et un étui à masque, conçu par saku39",
+      "bbox": {
+        "x": 0.0667,
+        "y": 0.8924,
+        "width": 0.3922,
+        "height": 0.0309
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une breloque conçue d'après l'épingle à cheveux de Mel",
+      "bbox": {
+        "x": 0.0672,
+        "y": 0.9252,
+        "width": 0.4011,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un enregistrement situationnel",
+      "bbox": {
+        "x": 0.0667,
+        "y": 0.9583,
+        "width": 0.3094,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le bonus pour l'achat de l'ensemble complet est une carte bromure de style polaroid avec un autographe manuscrit de Mel.",
+      "bbox": {
+        "x": 0.5261,
+        "y": 0.5258,
+        "width": 0.4267,
+        "height": 0.0471
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin Mel a révélé et interprété sa quatrième chanson originale, « Akaku Naranaide », produite par Hifumi.",
+      "bbox": {
+        "x": 0.5261,
+        "y": 0.5926,
+        "width": 0.4267,
+        "height": 0.0471
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/upgcmano0qf91.gif",
+    "gifFrame": 81,
+    "confidence": 92
+  }
+}

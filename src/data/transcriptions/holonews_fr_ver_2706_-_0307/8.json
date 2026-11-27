@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Shishiron n'a fait que quelques streams cette semaine en raison de son emploi du temps chargé, qui comprenait sa performance en direct au Summer Voyage!! avec d'autres membres d’hololive. Elle a joué au fangame préféré de tous, HoloCure. Après avoir testé le Jeu en dehors du stream, Botan a réussi à vaincre Smol Ame du premier coup. Grâce à de nombreux tirages de gacha, elle a obtenu plusieurs copies de Kronil. Son prochain objectif est de débloquer Baelz et de survivre au-delà de 30 minutes.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.2183,
+        "width": 0.3869,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.5026,
+        "width": 0.085,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy prendra une pause en juillet pour des raisons de santé et pour mettre en place un environnement de streaming dans sa nouvelle maison. Elle sera toujours active sur Twitter et pourrait également faire un test de streaming lorsque sa nouvelle installation sera prête.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.5399,
+        "width": 0.3838,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron a terminé The Quarry, un jeu d'horreur à choix multiple. Malgré des erreurs inhabituelles dans les quick time events, elle a réussi à terminer le jeu avec tous les personnages principaux en vie à la fin. Un personnage en particulier, Jacob, l'a amusée parce qu'il était coincé nu sous terre en attendant que quelqu'un vienne le sauver.",
+      "bbox": {
+        "x": 0.5406,
+        "y": 0.2183,
+        "width": 0.3838,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamers",
+      "bbox": {
+        "x": 0.4156,
+        "y": 0.6437,
+        "width": 0.1519,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 30 juin, Okayu a organisé un stream karaoké durant lequel elle a fait une annonce importante. Okayu sortira son 1er album le 6 septembre et les réservations pour les précommandes sont disponibles dans différents magasins. Elle a également sorti son deuxième single consécutif, « Adieu, salauds ». Son troisième single consécutif et une autre annonce majeure auront lieu le 24 juillet.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.8446,
+        "width": 0.3744,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour fêter son million d'abonnés sur YouTube, Mio vend désormais son sweat à capuche pour être assortie avec ses fans ! La période de vente s'étend du 1er juillet au 1er août, alors assurez-vous d'acheter une veste avant cette date.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.8446,
+        "width": 0.3844,
+        "height": 0.0773
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/fof5pb635kb91.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

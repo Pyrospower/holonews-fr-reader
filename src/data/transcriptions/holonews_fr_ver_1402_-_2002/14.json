@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holo ID (",
+      "bbox": {
+        "x": 0.1625,
+        "y": 0.0508,
+        "width": 0.2094,
+        "height": 0.079
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la Saint-Valentin, Ollie a organisé des Risu Gers a It Takes Two en collaboration appels en stream. Les appels étaient sous la avec Liliana Vampaia de MyHoloTV pour forme d'un tirage au sort, ou chacuns des leur première collaboration ensemble. invités recevait un défi au hasard (en Pendant qu’elles jouaient, elles ont",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2609,
+        "width": 0.8906,
+        "height": 0.059
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "général une phrase de drague) ou un « prix commencé à nommer le jeu Fall Guys",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3168,
+        "width": 0.8406,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "» qui leurs permettaient de donner un défi à après être tombées plusieurs fois dans le Ollie, toujours dans le même genre pour vide alors qu’elles étaient en train d’explorer rester dans le thème de la Saint-Valentin. Ollie a reçu des membres d'hololive comme Risu, Reine, Anya, Lui et Bae durant le stream. Elle a aussi reçu d'autres VTubers en dehors d’hololive : des indépendants comme ZonBko, Issei Kai, Kanna Tamachi, Ganba Ruuko, Vyolfers, VAV-KAS et Takanashi Hayate ; des VTubers venant d’autres compagnies comme Hana Macchia, ZEA Cornelia, Alia Adelia, Zen Gunawan, Ironmouse mais aussi le streameur Twitch rprx.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3307,
+        "width": 0.8975,
+        "height": 0.2105
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Récemment, les Zombrades ont utilisé Olivia comme un porte-bonheur pour leurs tirages et cela a étonnamment bien fonctionné. Cela a attiré l'attention d’Ollie qui, énervée, admet le fait qu'Olivia lui donne de la chance lors de ces tirages peu importe la situation.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.559,
+        "width": 0.4269,
+        "height": 0.0933
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lofi a joué a Needy Streamer Overload et a été captivé par le jeu. Après le stream, elle n’a pas arrêté de tweet « donnez moi de l'amour » (de la même manière que la protagoniste du jeu demande) dans plusieurs langues. Elle a tellement tweet que Oga et Astel se sont inquiétés pour elle.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.8329,
+        "width": 0.4238,
+        "height": 0.1085
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "l'univers du jeu. Le stream a duré deux heures durant lesquelles Risu et Liliana ont battu deux boss du jeu. Le prochain stream sera sur la chaîne de Lili, donc n'oubliez pas de jeter un coup d'œil !",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3581,
+        "width": 0.4194,
+        "height": 0.0703
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Risu (qui est contre la tendance du « marié-moi ») a surpris, encore une fois, ses fans en publiant une vidéo pour la Saint-Valentin.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.4436,
+        "width": 0.4188,
+        "height": 0.0464
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Reine a passé trois heures avec les MERAKyas a joué différents rôles avec ces nouvelles expressions de son modèle 2D, qui ont été révélés la semaine dernière. Montrant toutes les expressions qu’elle peut faire, elle a imaginé et interprété différentes situations. Elle a apprécié faire ça et a même promis qu’elle pourrait refaire ça avec plus de scénarios.",
+      "bbox": {
+        "x": 0.5188,
+        "y": 0.6649,
+        "width": 0.4381,
+        "height": 0.1367
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Jeudi dernier, Reine a continué Needy Streamer Overload en explorant encore plus le jeu pour y découvrir des fins alternatives. Après quatre heures de stream, elle a réussi a avoir huit fin alternative, lui laissant huit autres fins à découvrir. Le début de son stream était plutôt unique donc n'hésite pas à aller le regarder.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.8242,
+        "width": 0.425,
+        "height": 0.1246
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ra08ek9hplk81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

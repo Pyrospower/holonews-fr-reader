@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 11,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.0404,
+        "width": 0.3525,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a annoncé sur Twitter que tous ses prochains streams karaoké ne seront pas archivés, et ce jusqu’à mai ou juin. Il l’a mentionné précédemment lors d’un de ses streams non archivés, mais il a décidé de relayer l'information sur Twitter pour ceux qui ont manqué ce stream. Pour s'adapter à tous les fuseaux horaires, il fera des streams karaoké à différentes heures. Si vous voulez l'écouter, restez à l’affüt !",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2513,
+        "width": 0.4256,
+        "height": 0.1545
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel est de retour sur le jeu qu'il aime tant, APEX. Après avoir échoué à atteindre le rang Or sur Valorant la semaine dernière, Astel a immédiatement changé de jeu et est revenu sur APEX. Il a ensuite invité des gens à jouer avec lui sur Twitter et a réussi à faire venir Pakael et Izuru. Plus tard dans la même semaine, Astel a fait un autre stream APEX avec Pakael. Cette fois, Astel a commencé à recruter des coéquipiers pour le tournoi APEX Vtuber Saikyou, en cherchant des coéquipiers qui sont d'accord pour qu'il joue Mad Maggie dans le tournoi. Astel participera également au tournoi Shibuya HAL Custom, toujours sur APEX, avec Yuuma et Shuhei Yamato le 10 mars.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.4219,
+        "width": 0.4263,
+        "height": 0.2461
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shien & Astel",
+      "bbox": {
+        "x": 0.1813,
+        "y": 0.7895,
+        "width": 0.3075,
+        "height": 0.0378
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après un long moment sans jouer ensemble en stream, Shien et Astel ont décidé de jouer à Monster Hunter Rise. Astel a montré ses vêtements récemment achetés pour le printemps. Shien l'a complimenté en disant qu'il avait un style K-pop distinct. Shien a mentionné qu'il aimait vraiment ces vêtements style K-pop, et Astel les porte souvent.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.8429,
+        "width": 0.4225,
+        "height": 0.1367
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Oga s'est rendu compte qu'il streamait en 720p/30fps depuis près de deux ans après avoir découvert un clip à ce sujet et a demandé pourquoi personne ne lui a dit. Fubuki, lofi, Aruran et Miyabi lui ont tous répondu en disant qu'ils pensaient que ses réglages étaient intentionnels pour réduire la charge de son PC. Après qu'Oga ait tweeté que Miyabi l'avait aidé avec ses réglages OBS, il a annoncé qu'il ferait ses « débuts » avec un stream en HD.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2509,
+        "width": 0.415,
+        "height": 0.1632
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans son premier stream en HD, il a commencé en montrant toutes ses tenues, de sa tenue d'origine à sa tenue du Nouvel An, dans laquelle il portait moins de vêtements, exposant davantage sa peau. Il est ensuite passé à sa tenue d'été, qu'il a montré en jouant le rôle d'un collégien. Enfin, il a montré sa tenue de jeu avant de remettre sa tenue d'origine.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4314,
+        "width": 0.4188,
+        "height": 0.1359
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suntempo",
+      "bbox": {
+        "x": 0.73,
+        "y": 0.7018,
+        "width": 0.2288,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a regardé le stream du classement holostars de Miyabi et il n'a pas pu accepter les résultats lorsqu'il a vu que les spectateurs ont majoritairement répondu qu'il serait le premier à courir dans une maison hantée. Il s'est justifié et a admis qu'il était qu'il était vraiment peureux mais qu'il adorait aller dans des vraies maisons hantées. Il a ensuite tweeté pour demander à la direction d'accorder à Suntempo la permission d'aller à Fuji-Q Highland, connue comme l'une des plus terrifiantes maisons hantées du Japon, pour faire ses preuves. Temma a répondu de laisser Roberu y aller seul, et Roberu a dit qu'il avait peur et qu'il allait fuir.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7418,
+        "width": 0.4275,
+        "height": 0.227
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/c9r3kpt6bdn81.png",
+    "gifFrame": null,
+    "confidence": 87
+  }
+}

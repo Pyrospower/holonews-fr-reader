@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Haachama a fait le tour du serveur Minecraft JP pour chercher un travail. Elle a postulé à UsaKen, Akukin, Shiraken, et Oozora Circle, même si elle s’est déjà procuré un bureau à Shiraken, elle s’est elle-même nommée présidente et a demandé son salaire auprès de UsaKen. Elle a essayé d'inviter ces entreprises à une grande conférence et d'appliquer un rapport sur les édifices de Rushia et de Coco. Elle a fait pour essayer de faire revivre le serveur Minecraft.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2617,
+        "width": 0.4119,
+        "height": 0.1884
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a organisé un concours de mangas, particulièrement des mangas en 4 cases, assez intéressants et hors des normes, proposés par ses spectateurs. Son père y a aussi participé avec une planche et une histoire aussi dingue que sa fille.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.4744,
+        "width": 0.4275,
+        "height": 0.0959
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a enfin sorti son premier fond d'écran réservé aux membres pour ordinateur et téléphone. Devenez membre de sa chaîne pour le recevoir = et la soutenir dès maintenant !",
+      "bbox": {
+        "x": 0.1431,
+        "y": 0.5868,
+        "width": 0.3444,
+        "height": 0.076
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant sa collab ARK avec Matsuri, Aki s'est fait avoir par cette dernière. Matsuri l’a fait dire « ippal » 10 fois à la suite et lui a ensuite demandé de changer la lettre I en O. Malheureusement, Aki a accidentellement dit « oppai » au lieu de « oppao » et a été accusée d’être une perverse.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.8433,
+        "width": 0.4169,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant son stream matinal, Mel nous a fait une imitation étonnement proche de Choco. Les spectateurs ont dit qu’elle dégageait les mêmes ondes que la voix de Choco, et Mel a continué son imitation de Choco pendant encore quelques minutes.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2617,
+        "width": 0.4225,
+        "height": 0.0955
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki a récemment acheté un KU100 et a fait un stream ASMR avec ce micro la semaine dernière. Elle a fait différents types de sons, comme taper sur son clavier ou souffler dans les oreilles, mais le plus important, c'est que notre amie a dit qu'elle pouvait être notre femme juste pour ce jour-là.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.543,
+        "width": 0.4231,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuri a fait un stream matinal et a demandé si elle devait prendre un McDo ou une salade de poulet pour le petit déjeuner. Au final le sondage était inutile puisqu'elle a commandé les deux et a agit comme un enfant tout excité quand sa commande Uber est arrivée.",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.8411,
+        "width": 0.4144,
+        "height": 0.1081
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/s6b0gnt6bdn81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

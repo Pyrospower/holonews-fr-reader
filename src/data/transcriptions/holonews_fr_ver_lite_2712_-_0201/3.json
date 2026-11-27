@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2712_-_0201",
+  "page": 3,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Haachama a fait un stream en l'hommage du 2ème anniversaire de Coco le 28 décembre, que cette dernière n'a jamais pu fêter.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.286,
+        "width": 0.4125,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a chanté « Tegami », « Asu e no Tegami » et « Homura », les yeux pleins de larmes. Elle nous a dit ce qu'elle pense de Coco, à quel point elle l'admirait et que l'un de ses objectifs était de la surpasser, mais elle est partie. Elle a souligné qu'elle respecte le choix de Coco.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3446,
+        "width": 0.4225,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama nous a ensuite montré sa version modifiée du clip de « Weather Hackersys », qui a été faite avec des fanarts d'elle avec Coco. Elle a fait en sorte que les paroles « Good Morning **ther ***ers! » soient entendues à minuit.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.4627,
+        "width": 0.4106,
+        "height": 0.0851
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama continuera d'être l'idole n°1 et la plus forte.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.5664,
+        "width": 0.3988,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les streams anglais matinaux d’Haachama sont de retour ! Elle est retournée sur le serveur Minecraft d’holoEN en utilisant uniquement un anglais Haachama-esque. Elle était terrifiée par les poissons d'argent et se mettait à crier en les entendant jusqu'à ce que des téléspectateurs lui disent que les poissons d'argent provenaient des pierres taillées infestées qu'elle utilisait. Haachama a poursuivi la construction de sa base en utilisant du bois de bouleau et a construit un cercle en forme de halo flottant au-dessus de la mer près du village d’holoEN. Elle prétend que cela l'aidera à conquérir le serveur anglais.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.6411,
+        "width": 0.4306,
+        "height": 0.24
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a fait une rétrospective du contenu qu'elle a créé en 2021 en montrant les MVPs des différents concours qu’elle a organisés : cuisine, clips musicaux, dessin lubrique, cosplay etc. Cependant, elle ne pouvait pas bouger son corps et est resté bloqué avec la même expression durant tout se temps. Elle pense que c'est parce qu'elle utilisé trop son pc pour du montage vidéo",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2856,
+        "width": 0.4231,
+        "height": 0.1398
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le PC d'Haachama a fini par tomber en panne, après des mois de maltraitance.",
+      "bbox": {
+        "x": 0.5194,
+        "y": 0.4527,
+        "width": 0.4206,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a de nouveau fait ses débuts, cette fois-ci en tant que “CHAMA” (sans le Haa), mais c'était un prétexte pour nous montrer la mise à jour de sa tenue du Nouvel An, devenue aussi expressive que que la Haachama qu'on connaît.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.6862,
+        "width": 0.4144,
+        "height": 0.0955
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/qh7q1fcubhb81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

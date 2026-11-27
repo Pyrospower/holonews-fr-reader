@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CODE Melee vous présente la seconde édition d’holoAroma. Cette fois, cela concerne Miko, Lamy, Watame, Towa, et Akirose. Les produits seront disponibles a",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.112,
+        "width": 0.4125,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hololive arrive au Comiket 99 ! En plus",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.1823,
+        "width": 0.3675,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "partir du 16 décembre.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.1762,
+        "width": 0.2213,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "d'organiser un évènement, ils tiennent également un stand où vous pourrez acheter de nouveaux produits dérivés, comme le Blu-ray d’'hololive Alternative Dawn Blue, ou des calendriers holoX. À l'événement, vous pourrez également donner votre sang, et une tapisserie holoGamers vous sera donnée pour votre contribution.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.1979,
+        "width": 0.4263,
+        "height": 0.1237
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La seconde collaboration avec Joypolis, « project Lovely Party », aura lieu du 7 janvier au 27 février. La seconde génération et Roboco y participeront. Plus de détails à venir.",
+      "bbox": {
+        "x": 0.5194,
+        "y": 0.2365,
+        "width": 0.4156,
+        "height": 0.076
+      }
+    },
+    {
+      "type": "heading",
+      "text": "LET'S PLAY",
+      "bbox": {
+        "x": 0.2263,
+        "y": 0.3563,
+        "width": 0.3394,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "BLACK MESA",
+      "bbox": {
+        "x": 0.1463,
+        "y": 0.4401,
+        "width": 0.1856,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "F cooking Simulator",
+      "bbox": {
+        "x": 0.7531,
+        "y": 0.5547,
+        "width": 0.0894,
+        "height": 0.0152
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/l1ow7ap5i4781.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

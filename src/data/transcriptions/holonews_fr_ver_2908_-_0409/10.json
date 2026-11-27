@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pour son grand retour après une longue pause, lofi a rejoint Ollie pour une collab de dessin. Dessinant leur tenue la plus mignonne, elles ont essayé de dessiner les membres de hololive de tête, sans référence. Pendant qu'elles ont parlé de façon calme et reposée, elle a fait des croquis pendant près d'une heure et demi.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.2483,
+        "width": 0.445,
+        "height": 0.099
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie cherche des artistes capables de faire des storyboards ainsi que des animatiques (voir même des animations !) pour le projet sur lequel elle travaille actuellement. Si vous êtes intéressé pour l'aider, répondez à son tweet (voir dans les sources en commentaires) avec votre portfolio !",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.4002,
+        "width": 0.4456,
+        "height": 0.0868
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kaela D",
+      "bbox": {
+        "x": 0.0613,
+        "y": 0.4944,
+        "width": 0.2594,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un geste plus rarement vu qu'un Pokémon chromatique, Kaela a tweeté qu'elle avait éteint son PC. Repose-toi bien, PC.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.5391,
+        "width": 0.445,
+        "height": 0.0425
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les membres de hololD continue de travailler dur pour le projet « Indonesian Independence Day » (voir la sortie de holonews d'il y a 2 semaines). La chaîne de hololive Indonesia a posté un épisode final en trois parties audio (avec des sous-titres anglais et japonais) et une autre courte vidéo, avec cette fois-ci les impressions d'Ollie sur cet événement.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.651,
+        "width": 0.4456,
+        "height": 0.1133
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Airani iofifteen (4 #7 4)",
+      "bbox": {
+        "x": 0.5819,
+        "y": 0.0343,
+        "width": 0.1869,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "hololivelD",
+      "bbox": {
+        "x": 0.7913,
+        "y": 0.0352,
+        "width": 0.0712,
+        "height": 0.0078
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dapet free peformance dari ayang @",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.0799,
+        "width": 0.3919,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant un stream discussion, Moona a parlé en détail de sa visite chez lofi, durant ses vacances pour lui apporter des martabak (des sortes de pancake de street-food, avec différents goûts), mais au final, elle les a oubliés chez elle. Elles se sont bien amusé, elle ont visités différents endroits et lofi a commenté en direct sur twitter leurs mésaventures, pour le plus grands plaisir des abonnées.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.1884,
+        "width": 0.4444,
+        "height": 0.128
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a désactivé sa touche de verrouillage des majuscules, passant du temps avec son tchat a lire des mails fictifs et a écouter de la musique de « Chill Corner ». Elle a partagé ses sentiments et a méme parler de sujet profond, notamment l'importance de trouver du temps pour soi et d'en passer avec sa famille, tant que ces derniers sont encore en vie.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.385,
+        "width": 0.4456,
+        "height": 0.0985
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a aussi partagé son avis a propos des petits drama liés à elle. Notamment le fait qu'elle « collabore avec trop de garçon » et l'incident de vandalisme de QR code de la bannière des holoID. Elle a démenti tout cela en expliquant que « ses dramas sont créés à partir de rien » et qu’elle était déçue que le QR code ne soit pas un rickroll. Pour résumer, elle a passé un agréable moment à parler de qu'elle avait en tête avec les Zomrades.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.6115,
+        "width": 0.4456,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Zeta et Kaela ont fait une apparition au festival ODEX à Singapour. C'était la première fois qu’elle allait dans une convention en Asie depuis leur début. Le duo a répondu à une série de question, notamment sur l'élément préféré de chacun de leur modèle (Pour Zeta c’est son arc et Kaela adore son nez), puis elles ont joué une partie de Battleship qu’elles ont gagné contre l'audience, et enfn elles ont réagit en direct à la danse de YAGOO sur hololive ondo. Nous espérons que vous vous êtes bien amusées, Zeta et Kaela !",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.7938,
+        "width": 0.445,
+        "height": 0.1458
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/bqtatjujaqn91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

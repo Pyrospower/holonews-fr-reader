@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "\\ N Ree Le dernier a faire ses débuts était Minase Rio ! S'étant déjà distingué des autres, il a commencé par une vidéo contant son histoire, suivie",
+      "bbox": {
+        "x": 0.3813,
+        "y": 0.1463,
+        "width": 0.5931,
+        "height": 0.1141
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "d'une performance live de « Betelgeuse ». Il avait même des visuels avec les paroles de la chanson à l'écran !",
+      "bbox": {
+        "x": 0.5531,
+        "y": 0.2704,
+        "width": 0.4131,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rio a continué avec ses débuts en se présentant, ce qu'il aime et n'aime pas, ses compétences et les personnes qui ont rendu ses débuts possibles !",
+      "bbox": {
+        "x": 0.5538,
+        "y": 0.3863,
+        "width": 0.4181,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rio a ensuite parlé de ses genres de - 7 z z musique préférée et de ses types de Names NE MER Minasemio jeux préférés. Il a également parlé | Species: M mx z Birthday: 7/26 de ses COERCION de début et de J oc toutes leurs qualités, de ses Colour Code: #a4a8d4 sue Lavender objectifs, de ses hashtags et de son programme pour la semaine. aces = Pe e Lik > “M3IX -RERLIX =miuo",
+      "bbox": {
+        "x": 0.0344,
+        "y": 0.6059,
+        "width": 0.7969,
+        "height": 0.2062
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant de conclure ses débuts, Rio a ET",
+      "bbox": {
+        "x": 0.0356,
+        "y": 0.8043,
+        "width": 0.7887,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Z \" oO o mentionné qu'il allait sortir une reprise de « I wanted to Dance in Your Pulse » et a interprété « Zankyou Sanka » d'Aimer.",
+      "bbox": {
+        "x": 0.0363,
+        "y": 0.8299,
+        "width": 0.4131,
+        "height": 0.1072
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/31fq3e46wis81.png",
+    "gifFrame": null,
+    "confidence": 79
+  }
+}

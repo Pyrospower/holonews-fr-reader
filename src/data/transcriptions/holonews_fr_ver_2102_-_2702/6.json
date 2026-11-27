@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Haachama a fait le tour du serveur Minecraft, actuellement vide, en souhaitant que tout le monde y joue à nouveau. Elle a visité la maison de Rushia et a essayé de réparer la maison avec les matériaux qu'elle avait, y compris de la TNT. Elle a également proclamé que c'était sa maison à partir de maintenant en plaçant un panneau.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2656,
+        "width": 0.425,
+        "height": 0.1172
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a marché sur une crotte de chien en rentrant chez elle, puis son chien a fait ses besoins dans sa chambre en plein stream ASMR, et il a refait caca apres le stream. On peut dire qu'elle a passé une journée de merde.",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.3976,
+        "width": 0.4156,
+        "height": 0.0959
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Within Skerry",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.5612,
+        "width": 0.1675,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La semaine derniere, Fubuki a joué a Within Skerry ! Elle était assez effrayée par le jeu, alors elle avait son harmonica dans la bouche pour ne pas crier, mais elle l'a ensuite laissé tomber et a joué au jeu normalement. Plus tard, Fubuki a demandé à Polka de la rejoindre pour atténuer sa peur, mais Polka a plutôt effrayé Fubuki (encore plus que le jeu) en jouant aléatoirement de son kazoo pour faire sursauter Fubuki.",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.6697,
+        "width": 0.415,
+        "height": 0.1471
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki sait encore rejeter les avances avec brio ! On lui a demandé : « Veux-tu devenir ma femme » et « Veux-tu devenir mon chat » lors de son stream sur Ramen Sensei 2 et elle a rejeté ces demandes comme si de rien n'était. Ses fans ne sont cependant pas désespérés, car Fubuki n'a pas refusé d'être leur renard ou leur meilleur ami.",
+      "bbox": {
+        "x": 0.0575,
+        "y": 0.8333,
+        "width": 0.4144,
+        "height": 0.1146
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuri flirtait avec Iroha sur ARK en lui avouant son amour et en essayant de lui donner de l'argent. Iroha a été perturbée par ce développement et a finalement accepté d'aller à un rendez-vous avec Matsuri un jour.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2661,
+        "width": 0.415,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuri veut être réincarnée en homme _ parce qu'elle pense que montrer son p*nis en étant ivre serait drôle.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3754,
+        "width": 0.4181,
+        "height": 0.0447
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "nr VAMPIRE SURVIVORS",
+      "bbox": {
+        "x": 0.5713,
+        "y": 0.4497,
+        "width": 0.2419,
+        "height": 0.0378
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mel est accro a Vampire Survivors, un jeu dans lequel elle peut massacrer ses semblables. Elle aime chanter avec la musique de fond et s'ambiancer en ouvrant les coffres au trésor.",
+      "bbox": {
+        "x": 0.5313,
+        "y": 0.6059,
+        "width": 0.4113,
+        "height": 0.0764
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aki a beaucoup apprécié Vampire Survivors, comme en témoignent ses quatre streams consécutifs pour le jeu.",
+      "bbox": {
+        "x": 0.5306,
+        "y": 0.8685,
+        "width": 0.3806,
+        "height": 0.0477
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lchhitc7e0m81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

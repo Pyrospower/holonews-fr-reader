@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_holostars_-tempus-_debut_special",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir notre numéro spécial sur:les débuts de ( TEMPUS !",
+      "bbox": {
+        "x": 0.2213,
+        "y": 0.1571,
+        "width": 0.5581,
+        "height": 0.0903
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "N'oubliez pas de consulter nos réseaux sociaux et liré nos précédents numéros !",
+      "bbox": {
+        "x": 0.2088,
+        "y": 0.2669,
+        "width": 0.5831,
+        "height": 0.0894
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez nous donner un coup de main ou rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas a rejoindre notre subreddit ou notre serveur Discord.",
+      "bbox": {
+        "x": 0.1225,
+        "y": 0.3542,
+        "width": 0.7544,
+        "height": 0.1467
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la prochaine !",
+      "bbox": {
+        "x": 0.1806,
+        "y": 0.605,
+        "width": 0.6356,
+        "height": 0.0273
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0elfze90eje91.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "di: pp 2a € Lamy et Shishiron ont toutes deux publié une vidéo de leur prestation en direct durant le concert VARK :",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2079,
+        "width": 0.4156,
+        "height": 0.0903
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« Los!Los!Los! » d’Aoi Yuuki pour Botan, « Connect » de ClariS pour Lamy.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3025,
+        "width": 0.42,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bien que consciente que l’ennemi se situait juste en face delle, Lamy a quand même été prise par surprise durant son dernier stream sur Breath of the Wild. Elle est parvenue jusqu'aux montagnes enneigées, où elle cherchera des baleines durant son prochain stream.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5156,
+        "width": 0.4131,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene a joué au bourreau des cœurs cette semaine lors de deux collaborations sur APEX. La première était avec Korone, en faisant Grasp leur première collab ensemble",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.7713,
+        "width": 0.4075,
+        "height": 0.0673
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "officielle. Les deux amies se sont beaucoup amusées, ont fait de drôles de voix et sont même Ie à remporter une partie. La seconde collaboration était avec La+ et Rushia. Dérobant le cœur de ses amies, Nene les a vues s'affronter pour obtenir ses faveurs, chacune lui offrant des objets pour tenter de gagner son affection. Après son stream karaoké,",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.8273,
+        "width": 0.4219,
+        "height": 0.1224
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ene a indiqué qu'elle avait proposé à Aqua de faire une collaboration avec elle sur APEX.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.9379,
+        "width": 0.4119,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Jour 4 sur RAFT : Shishiron est parvenue à améliorer significativement ses conditions de vie, transformant ce qui n’était autrefois qu’une simple planche de bois en une véritable forteresse flottante. Grâce à son équipement de plongée flambant neuf, les excursions sous-marines de longue durée sont devenues une balade de santé. Les requins, anciennement prédateurs, ont été relégués au rang de proies. La fabrication d’un arc et des flèches lui a ouvert la possibilité de chasser des créatures terrestres et aériennes. La construction d'antennes et d’un radar a permis d'étendre encore davantage le 2e étage de son radeau. Avec pour projet l'exploration de deux bâtiments abandonnés, Botan continuera l’histoire un autre jour.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2509,
+        "width": 0.4256,
+        "height": 0.2656
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un stream dédié, Polka est revenue en détail sur son concert d'anniversaire. Elle a expliqué ses objectifs, parlé du fait qu'aucun membre n’était au courant pour sa partie en solo, et avoué que l'événement avait dépassé ses attentes. En plus de cela, elle a dévoilé un extrait de sa nouvelle chanson originale, montré ses cadeaux d'anniversaire (un casque audio de DJ) et publié une vidéo de la prestation sur « Adabana Necromancy » réalisée par le groupe durant le concert.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7726,
+        "width": 0.4213,
+        "height": 0.1923
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/x3i8kifs4uh81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

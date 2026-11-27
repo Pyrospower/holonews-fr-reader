@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2208_-_2808",
+  "page": 11,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.1656,
+        "y": 0.1997,
+        "width": 0.12,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "HOLOSTARS EN -TEMPUS- a collaboré avec HOLOSTARS JP et UPROAR !! pour la première fois. TEMPUS a été accueilli par quatre portes torii, chacune aux couleurs des membres, ainsi que par leurs ainés JP sur Minecraft.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.2391,
+        "width": 0.4456,
+        "height": 0.069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La tournée était divisée en trois parties : Le village d'UPROARI!!!, le village de Temma et la maison d'Astel. Dans le village de UPROAR ! ils ont visité le château UPROAR !! et joué au tir à l'arc. Pendant la visite, Astel a donné à Altare une potion d'invisibilité pour intimider ses camarades de TEMPUS, en particulier Magni. La partie suivante de la visite était le village de Temma où ils ont montré toutes les technologies et les fermes du village, principalement construit par Aruran. Temma a même dit : « Même si c'est le village de Temma, 90% de ces bâtiments sont ceux d'Aruran. » Après cela, ils sont montés jusqu'à l'arbre de Noël qui a été construit il y a deux ans. Là, ils ont observé l'ensemble du village au sommet de l'arbre. Enfin, ils se sont téléportés dans la petite maison d'Astel en utilisant la main de Dieu où se trouve la réplique du Taj Mahal.",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.3242,
+        "width": 0.4463,
+        "height": 0.2344
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les TEMPUS étaient loin de se douter que HOLOSTARS JP avait préparé un feu d'artifice dans le village d'UPROAR ! pour clôturer officiellement la tournée des serveurs. Pour cette occasion, ils ont reçu des skins personnalisés sur le thème du yukata des joueurs, basés sur leurs personnages et réalisés par Aragami Oga.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.7248,
+        "width": 0.4456,
+        "height": 0.0981
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La première collaboration Valorant en stream entre Altare et Kobo a finalement eu lieu, et comme prévu, elle a été animée et drôle. Pendant les premières parties, les deux partenaires n'ont pas arrêté de se chamailler et de se disputer. Leur sujet ? Qui est le plus petit et qui est le plus grand démon. Lorsque plus tard, Rio a rejoint le stream, ils ont commencé à se chamailler en japanglais. Avec Rio se joignant à eux, c'était comme si un ange fantôme avait rejoint la réunion d'un couple de démons agaçants.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.1615,
+        "width": 0.4456,
+        "height": 0.1328
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au milieu du stream, ils ont commencé à discuter de la façon dont ils pourraient former une équipe complète et s'ils devaient appeler ou appeler d'autres holomems même s'ils dormaient. Au bon moment, Astel s'est réveillé et a commenté le stream d'Altare. Il a reçu une invitation à les rejoindre. En bon ainé qu'il est, Astel a accepté sans savoir ce qui allait se passer. Altare a créé un lobby personnalisé et a fait un round Robin d'équipes à chaque tour. lls ont même essayé de faire du 3 contre 1 : d'abord avec Astel, puis Altare, et enfin, Kobo. Pour conclure le stream, ils sont allés dans un lobby non classé et ont remporté la victoire.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.3095,
+        "width": 0.4456,
+        "height": 0.1597
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "M. Squeaks, la mascotte de Bae, a fait ses débuts en stream le 21 août. Il a expliqué aux Baerats que Bae était à court d'idées après un an d'activité et qu'elle est venue lui demander de l'aide. Pour son premier quiz, il a révélé que son vrai nom est en fait \"Lord Squeakers”, qu'il est plus âgé que Bae et que son poids \"ne vous regarde pas”. Il a dit que sa boisson préférée est l'alcool et nous a rappelé de boire de façon responsable ! Il a peur que Bae soit stupide, qu'elle meure, qu'elle se cogne ou se secoue trop la tête, qu'elle sorte et qu'elle soit tout simplement Bae en général. Il a également révélé que Bae jouait du piano, mais qu'elle était trop gênée pour l'admettre. Les objectifs de M. Squeaks sont de se maintenir lui et Bae en vie, de voir Bae se produire en 3D et de reconstituer une pièce de Shakespeare entièrement. Il a terminé le stream en interprétant le monologue « to be or not to be » de Hamlet et a rappelé aux Baerats la collaboration pour l'anniversaire du Conseil (voir la page de présentation).",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.5378,
+        "width": 0.4456,
+        "height": 0.276
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un stream discussion, IRyS a confirmé qu'elle aura droit à une légère refonte visuelle avec sa nouvelle tenue. Elle n'a pas précisé ce qui sera ajusté ni donné la raison de ce changement, mais elle a dit que « certaines parties seront différentes. » Elle pense qu'il s'agit plutôt d'un « remaster », précisant qu'elle ne ressemblera pas à une personne complètement différente.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.8707,
+        "width": 0.445,
+        "height": 0.1033
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/pnjv1kvzr1m91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

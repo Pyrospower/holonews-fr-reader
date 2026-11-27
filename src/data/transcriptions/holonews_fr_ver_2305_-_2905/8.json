@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2305_-_2905",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3713,
+        "y": 0.0169,
+        "width": 0.26,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 16 mai, Arurandeisu a diffusé un stream Apex Legends en collaboration avec Lain Patterson de NIJISANJI et Ryugasaki Rene de 774 inc. Pour la plupart des matchs, Arurandeisu s'est mis au défi de jouer et de gagner en utilisant uniquement le pistolet Wingman et le fusil à pompe Mozambique. Naturellement, ils ont continué à perdre, mais se sont amusés jusqu'à la fin du stream.",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.214,
+        "width": 0.39,
+        "height": 0.1137
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.4674,
+        "width": 0.2031,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "HOLOSTARS et UPROARI!! ont organisé un événement de rencontre et d'accueil des fans à harevutai où les fans pouvaient parler à leurs fers en tête à tête pendant 2 minutes. ‘événement a commencé à 10h00 JST et s'est terminé à 19h30 JST. Le compte Twitter officiel de HOLOSTARS a parta SOIT) photos de la scène et des produits dérivés de l'événement. Certains membres ont également partagé un selfie, et un tweet vocal pour ceux qui n'ont pas 2 se rendre à l'événement. Si vous voulez lire es rapports et les selfies des fans, vous pouvez",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.5056,
+        "width": 0.3994,
+        "height": 0.151
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "consulter le tag #1 F",
+      "bbox": {
+        "x": 0.0575,
+        "y": 0.6458,
+        "width": 0.1794,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "UPROAR! a fait sa première off-collab en studio. Le stream a commencé avec leur bande-annonce d'introduction, mais maintenant avec leurs applaudissements bruyants pour les membres. Ils ont mentionné que l'équipe ne leur avait rien dit au sujet de l'off-collab mais qu'ils devaient préparer leur intro et se préparer pour un stream d'une heure et qu'ils n'avaient reçu qu'une page de script. L'équipe a montré une série de questions auxquelles UPROAR!! devait répondre sur place.",
+      "bbox": {
+        "x": 0.0638,
+        "y": 0.8364,
+        "width": 0.4175,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel voulait atteindre 200k abonnés avant d'entreprendre son voyage pour retrouver son cher ami, il a donc organisé un stream de chant d'endurance. Beaucoup de ses amis et de ses cadets ont regardé et partagé son stream d'endurance, y compris ses collègues HOLOSTARS, UPROAR!!, et Ollie qui lui a donné une illustration qu'il a montrée après avoir atteint 200k. Après cinq heures de chant et un total de cinquante-quatre chansons, il a finalement atteint 200k abonnés",
+      "bbox": {
+        "x": 0.5319,
+        "y": 0.2192,
+        "width": 0.3825,
+        "height": 0.1315
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a annoncé sur Twitter qu'il allait partir en voyage après l'évenement de rencontre du 22 Mai. Lors de l'émission, il a révélé qu'il devait retrouver un ami bien-aimé, mais qu'il ne savait pas où il se trouvait. Astel a également déclaré qu'il ne savait pas s'il reviendrait, mais que s'il revenait, il souhaitait être accueilli par un chaleureux « Joyeux anniversaire ». Il a également mentionné qu'il laisserait un message vocal à ses fans s'il ne revenait pas.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.4466,
+        "width": 0.3825,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il s'agissait d'allusions aux célébrations de son prochain anniversaire, le 6 juin. Astel à laissé de nombreux indices lors de la diffusion et dans son pseudo Twitter.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.5946,
+        "width": 0.3844,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une question portait sur la signification de leur unité « UPROAR! » et Uyu a répondu qu'ils venaient pour faire du grabuge et faire du bruit à tout le monde. Une autre question qui leur a été posée était de donner une de leur spécialité dans le streaming à laquelle Fuma a répondu le jeu, Uyu était fier de ses streams d'endurance, Gamma à ses dessins, et Rio qui ne répondra pas.",
+      "bbox": {
+        "x": 0.4944,
+        "y": 0.6875,
+        "width": 0.4631,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À la fin du stream, ils ont annoncé que leurs premiers produits seront revendus le 24 mai et qu'UPROARI! aura un show officiel pour eux. La date du spectacle est encore indéterminée mais le spectacle est confirmé. Pour plus de mise à jour de leur marchandise et de nouvelles, suivez le Twitter officiel d'HOLOSTARS. ARI) Pa ue",
+      "bbox": {
+        "x": 0.4938,
+        "y": 0.799,
+        "width": 0.4631,
+        "height": 0.1007
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/w0mqrjjpo1391.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

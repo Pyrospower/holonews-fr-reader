@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 15,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "La nuit avant son concert, Calli a réalisé un stream d'appels pour son anniversaire avec son modèle 3D, sur lequel elle a dit qu’elle ne voulait s'en servir que pour des occasions spéciales. Le modèle est même venu avec une pose de JoJo's Bizarre Adventure ! Pendant les appels, elle a été visitée par les holomems de toutes les branches, ainsi que trois autres personnes : ironmouse de VShojo, Milky Queen et Monarch (AmaLee) !",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.2174,
+        "width": 0.3956,
+        "height": 0.1615
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour mettre tout le monde en colère, Fauna a réalisé un classement des fruits et légumes. Elle a utilisé le format standard S, A, B, C, D et F. Le stream semblait bien se passer, jusqu'à ce que Fauna décide de mettre les oranges dans F, provoquant le chaos et la confusion dans le tchat. Elle a aussi séparé les raisins verts et les raisins rouges en mettant les verts en A et les rouges en D. Pour les légumes, elle a divisé ses spectateurs en classant les champignons en F. Certains sont d'accord avec tandis que d’autres I'accusent d’être une terroriste de la nourriture.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.217,
+        "width": 0.3875,
+        "height": 0.197
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli étend son empire sur TikTok. Sa première publication sur l'application est un remix de « Reaper ka Rapper », son rap d'introduction lors de son début sur YouTube. Assurez-vous d’aller la suivre @moricalliope_hololiveen !",
+      "bbox": {
+        "x": 0.2581,
+        "y": 0.4423,
+        "width": 0.7006,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsqu'elle a entendu la nouvelle que Chris Pratt allait être la voix de Garfield dans un film à venir, Kiara a confessé en plaisantant qu’elle était secrètement Pratt et de ce fait qu’elle serait la voix de Garfield. Selon Kiara, Yagoo et COVER ont été tellement impressionnés par les voix versatiles de Pratt qu'ils I'ont embauché pour être Kiara. Cependant, elle a ensuite créé une boucle en ajoutant que c'est Kiara faisait le doublage de la voix de Chris Pratt qui faisait le doublage de la voix de Kiara.",
+      "bbox": {
+        "x": 0.0656,
+        "y": 0.6693,
+        "width": 0.3919,
+        "height": 0.1879
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sur Elden Ring, il y a une compétence qui permet de faire un bond vers le haut et de claquer le sol avec son derrière. Naturellement, Ame a abusé de cette compétence pour les six heures qui ont suivi son stream car c'était très caractéristique pour elle. Margit est le premier à en être victime, même Godrick n’a pas pu échapper au « ground pound ».",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.6693,
+        "width": 0.3844,
+        "height": 0.1319
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/rpi8qr59qau81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS EN",
+      "bbox": {
+        "x": 0.3356,
+        "y": 0.0174,
+        "width": 0.33,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Regis Altare a diffusé un stream ASMR dans lequel il a lu trois des contes de Grimm, une collection de contes de fées traditionnels allemands écrits par les « frères Grimm », Jacob et Wilhelm. Il a lu Blanche-Neige et Rose-Rouge, Les Sept Corbeaux et Le Vaillant Petit Tailleur.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3731,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ok I think I have to make it clear that I was doing a bit during the sonic stream I do not find Rogue the bat or Amy attractive in any way or Shadow, Sally Acorn, Mina Mongoose, or Bunny D'Coolette theres also Blaze the Cat.and Tikal. Oh Yea how could I forget Wave from",
+      "bbox": {
+        "x": 0.0619,
+        "y": 0.4844,
+        "width": 0.4094,
+        "height": 0.0673
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En réponse aux réactions des fans après son stream Sonic Adventure 2, Magni a précisé sur Twitter qu'il n'est en aucun cas attiré par Rouge, Amy, Shadow, Sally Acorn, Mina Mongoose, Bunny D'Coolette, Blaze le chat ou Tikal. Oh et aussi Wave de Sonic Ri-",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.6168,
+        "width": 0.3869,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ok, peut-être que sa clarification est un peu trop spécifique. Noté, Magni.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.7109,
+        "width": 0.3619,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une semaine seulement apres ses débuts, le grand alchimiste autoproclamé a décidé de prendre les choses en main d'une manière tellement MAGGANTE.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.3442,
+        "width": 0.3762,
+        "height": 0.0503
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour son stream sur Spore, au lieu d'utiliser les dessins de ses fans, Magni a décidé de dessiner lui-même la vignette. Cependant, ce dessin a suscité de très grandes réactions. En effet, la vignette était une recréation de la célèbre chimère de la série Full Metal Alchemist. Magni s'est dessiné comme l'alchimiste qui a transformé Axel en chimère de chien.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.4076,
+        "width": 0.3919,
+        "height": 0.1176
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour rester fidèle à sa vignette, il a nomme son espèce Axel sur Spore et a juré de le faire évoluer jusqu'à ce qu'elle sache lire.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.5365,
+        "width": 0.3856,
+        "height": 0.0417
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme beaucoup de fans ont demandé à Axel de jouer à Apex, il a décidé de faire un stream imprévue sur Apex avec Altare et Magni. Cependant, comme Axel vit dans le nord d'Elysium avec un fuseau horaire différent de celui du reste de TEMPUS, il a fini par dire la mauvaise heure à Altare et Magni.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.7956,
+        "width": 0.3825,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Magni, qui heureusement était réveillé, a fini par rejoindre le groupe à moitié endormi, tandis qu'Altare a rejoint le groupe avec plus de trente-neuf minutes de retard. Ce n'est pas grave Axel, les fuseaux horaires sont pénibles, nous le savons.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.8997,
+        "width": 0.3863,
+        "height": 0.0773
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/f4u7iug4fig91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

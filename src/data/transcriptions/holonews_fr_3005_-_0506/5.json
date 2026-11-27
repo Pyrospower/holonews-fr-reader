@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_3005_-_0506",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Miko a continué sa quête de création des avatars des membres d’hololive dans WWE 2K22, cette fois en ayant créé deux personnages : une Kanata qui ressemble à un gorille en train de porter une copie de son t-shirt PPT avec un pantalon mal ajusté, ainsi qu'une Marine assez ressemblante avec une séquence d'introduction plutôt sexy.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3844,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko, Fubuki, Noel, et Marine se sont affrontés dans un Royal Rumble qui s’est terminé avec un retour en force de Miko qui a saisi la victoire. Elle a ensuite mis Marine et Kanata en face à face dans un match basique dans lequel on a pu voir Marine exhiber ses sous-vêtements à plusieurs reprises, mais qu'elle a gagné.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.3394,
+        "width": 0.39,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour finir, elle a fait combattre MiComet et KanaMarine dans un match par équipe pour la ceinture de championne du monde de combat féminin en équipe. Suisei a réussi à gagner grâce à un tombé sur Marine malgré que le duo MiComet ait été sur la défensive pendant la grande majorité du match.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.4605,
+        "width": 0.3875,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ninja Sora pre en force une fois de plus sur Minecraft, cette fois-ci sa cible était la PDG de Shiranui Kensetsu, Flare. Informée par son chat, Sora s'est silencieusement rapprochée de Flare pendant que cette dernière était en train de miner dans les souterrains. En",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.2183,
+        "width": 0.3869,
+        "height": 0.0725
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "EER ares Flare a offert à Sora une nouvelle pioche en diamant enchantée qui se",
+      "bbox": {
+        "x": 0.5406,
+        "y": 0.2886,
+        "width": 0.3762,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "nomme « Nun-Nun Touch ».",
+      "bbox": {
+        "x": 0.5413,
+        "y": 0.3121,
+        "width": 0.2356,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roboco",
+      "bbox": {
+        "x": 0.6375,
+        "y": 0.4605,
+        "width": 0.1144,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roboco a montré ses compétences de cuisine avec deux plats, le zuke donburi (un bol de riz avec des légumes marinés), et des spaghetti bolognaises. Elle a invité Choco-sensei chez elle un jour avant pour lui demander des conseils avant de cuisiner. Les deux ont partagé un repas ensemble et Choco a oublié sa bague chez Roboco.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.4996,
+        "width": 0.3856,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roboco nous a montré des photos du progres de ses plats ainsi que ses chats. Comme toujours, il y a eu des moments de maladresse.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.6207,
+        "width": 0.3831,
+        "height": 0.0503
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.4106,
+        "y": 0.7461,
+        "width": 0.1794,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'une des séries les plus longues des collaborations entre hololive et",
+      "bbox": {
+        "x": 0.3162,
+        "y": 0.7995,
+        "width": 0.5694,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.1731,
+        "y": 0.8416,
+        "width": 0.1,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nijisanji, Kamioka family radio, rassemble deux VTuber illustrés par Kamioka Chihiro, Okayu et Shiina. L'épisode de ce mois-ci est disponible sur la chaîne d’Okayu, le duo a répondu aux questions envoyées par les spectateurs. Les sujets discutés étant combien",
+      "bbox": {
+        "x": 0.3156,
+        "y": 0.8129,
+        "width": 0.5594,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "d'enfants ils voudraient, la différence entre Kansai et Kanto, comment elles s'accorderaient sur leurs vêtements, et bien plus. Vous pouvez vous attendre à les voir chanter ensemble lors du V-Carnival plus tard",
+      "bbox": {
+        "x": 0.315,
+        "y": 0.865,
+        "width": 0.5788,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "dans le mois.",
+      "bbox": {
+        "x": 0.3156,
+        "y": 0.9071,
+        "width": 0.1088,
+        "height": 0.01
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5pswx0gvbt591.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

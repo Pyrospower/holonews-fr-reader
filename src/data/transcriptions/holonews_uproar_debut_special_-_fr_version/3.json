@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 3,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Il a commencé par se présenter, puis a parlé des personnes impliquées dans ses débuts, a montré ses hashtags, ce qu'il aime et n'aime pas, ses plans pour le stream et ses objectifs.",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.5885,
+        "width": 0.4888,
+        "height": 0.1198
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fuma a surpris beaucoup de monde avec son morceau et sa vidéo montrant ses talents de rappeur, mais il a immédiatement fait preuve de maladresse en éteignant son micro par inadvertance juste après.",
+      "bbox": {
+        "x": 0.0306,
+        "y": 0.7261,
+        "width": 0.4963,
+        "height": 0.1454
+      }
+    },
+    {
+      "type": "other",
+      "text": "Familiar",
+      "bbox": {
+        "x": 0.9031,
+        "y": 0.73,
+        "width": 0.0338,
+        "height": 0.0043
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a ; ; AB) Il a terminé ses débuts en nous disant de LUA regarder les débuts de ses compagnons, et a remercié toutes les personnes qui sont venues voir ses débuts.",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.8746,
+        "width": 0.5806,
+        "height": 0.105
+      }
+    },
+    {
+      "type": "other",
+      "text": "29% pc (Raccoon)",
+      "bbox": {
+        "x": 0.7319,
+        "y": 0.898,
+        "width": 0.1225,
+        "height": 0.0078
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4309tb46wis81.png",
+    "gifFrame": null,
+    "confidence": 72
+  }
+}

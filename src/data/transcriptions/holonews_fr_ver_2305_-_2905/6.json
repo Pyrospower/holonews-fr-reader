@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2305_-_2905",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gamers",
+      "bbox": {
+        "x": 0.4238,
+        "y": 0.0187,
+        "width": 0.1513,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "@ / Korone",
+      "bbox": {
+        "x": 0.0925,
+        "y": 0.181,
+        "width": 0.1838,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Korone va prendre une pause. Elle se sent très fatiguée ces derniers temps, et n'a pas dit combien de temps durera cette pause. Nous attendrons patiemment son retour.",
+      "bbox": {
+        "x": 0.065,
+        "y": 0.2166,
+        "width": 0.3919,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce qui devait être le défi personnel de Mio s'est transformé en un stream à quatre. Elle a invité Okayu, Kanata et Koyori à jouer à Mario Kart en faisant des squats comme punition. Tout le monde, sauf le gagnant, devait faire des squats en fonction de sa place. Les résultats des 14 courses sont les suivants : Kanata - 48,",
+      "bbox": {
+        "x": 0.5319,
+        "y": 0.2166,
+        "width": 0.3944,
+        "height": 0.0924
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu - 70, Mio - 127, Koyori - 148.",
+      "bbox": {
+        "x": 0.5325,
+        "y": 0.3108,
+        "width": 0.295,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 3",
+      "bbox": {
+        "x": 0.4463,
+        "y": 0.3641,
+        "width": 0.1113,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1719,
+        "y": 0.526,
+        "width": 0.1081,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora a été surprise que rpr, un joueur professionnel d'Apex, se déguise en elle. Elle a fait remarquer que la moitié des cosplays qu'elle reçoit de la part de fans étrangers sont tout simplement délirants. D'autres membres d'hololive ont également réagi, Ollie exprimant sa fierté envers rpr et Fubuki écrivant « BEST IDOL ».",
+      "bbox": {
+        "x": 0.0731,
+        "y": 0.5651,
+        "width": 0.3838,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame a terminé un autre projet sur Minecraft, une ferme à canne à sucre, pour satisfaire sa gourmandise. Elle l'a construit à côté de Fujiki (I'arpenteur de lofi) et de la maison d'lofi.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.895,
+        "width": 0.37,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.6394,
+        "y": 0.526,
+        "width": 0.1081,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant sa pause, Pekora a posté des Shorts. Elle se met en scène dans diverses situations : danser sur Doutankyohi, être enterrée sous des carottes, faire des prévisions météorologiques, perdre un combat contre un marshmallow géant, se faire caresser la tête et se faire frapper sur la tête. Bon rétablissement, Pekora !",
+      "bbox": {
+        "x": 0.5406,
+        "y": 0.5651,
+        "width": 0.3863,
+        "height": 0.1059
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.6381,
+        "y": 0.7782,
+        "width": 0.1106,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant son stream Minecraft, Kanata spéculait sur le moment où elle prendrait sa retraite et dévoilerait son travail et a mentionné que sa mère, Sayuri, a environ 45 ans. Elle a essayé de calculer l'âge de Sayuri si Kanata prenait sa retraite à 80 ans et a immédiatement dit qu'elle aurait plus de 100 ans. Kanata a également dit qu'elle préférait les hommes plus âgés, de l'âge de Hiroaki Abe.",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.8121,
+        "width": 0.3656,
+        "height": 0.1311
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/upd17fjpo1391.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

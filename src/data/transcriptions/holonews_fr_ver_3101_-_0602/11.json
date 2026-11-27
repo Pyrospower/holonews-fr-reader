@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 11,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOL os TARS",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.0955,
+        "width": 0.3525,
+        "height": 0.0495
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a terminé son dernier stream Légendes Pokémon : Arceus en distribuant des Pokémon à ses spectateurs. Il a complètement rempli son Pokédex en battant et en attrapant le Pokémon légendaire, Arceus. Il a ensuite donné douze Motismas à douze spectateurs chanceux qui ont pu rejoindre son poste d'échange. Pendant l'échange, un gentil spectateur a donné à Astel le Pokémon légendaire Giratina. On lui a aussi donné un Cerfrousse nommé Arceus et le petit ami de quelqu'un, un Lucario nommé Kareshi.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3108,
+        "width": 0.4275,
+        "height": 0.2096
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après le stream, Astel a continué à jouer pour terminer toutes les quêtes secondaires et a ensuite montré tous les pokémons chromatiques qu'il a attrapés sur Twitter. Enfin, il a fait une capture d'écran d'un Pokédex entièrement rempli, marquant ainsi la fin de son aventure.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5326,
+        "width": 0.4031,
+        "height": 0.1068
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a obtenu une note de dix points et a été choisi pour être un des capitaine d'équipe du tournoi Shibuya HAL Apex « Vtuber Saikyou ». Cela a frustré Astel car les équipes ne peuvent avoir qu'un total de 18 points, ce qui signifie qu'il doit trouver deux personnes ayant huit points pour deux. Il est très difficile de constituer et d'équilibrer une équipe dans de telles circonstances, donc Astel a commencé à se plaindre de son nombre de points sur Twitter. Il a également changé son nom sur les médias sociaux en « Veuillez réduire mes 10 points, je suis très faible ». Soutenons Astel dans son voyage vers la quatrième saison de Vtuber Saikyou.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.6636,
+        "width": 0.4294,
+        "height": 0.2561
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Oga a partagé sur Twitter une photo de Suica (carte électronique de train), vieille de 20 ans, pour montrer à quel point elle était utilisée. Le tweet est devenu viral de manière inattendue et a reçu 100 000 likes, 14 000 retweets et 400 citations au moment de la rédaction de cet article. Oga a ensuite précisé que la carte avait 15 ans, et non 20.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.3095,
+        "width": 0.425,
+        "height": 0.1406
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir fait le tour des tendances, Oga a assuré la promotion du premier épisode de l'émission Stars Collection. Il a donné un horodatage pour le moment où il plaque Roberu contre un mur.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4688,
+        "width": 0.425,
+        "height": 0.0764
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Etonnamment, Temma a fait sa première collaboration solo en deux ans avec quelqu'un en dehors d’holoPro ! Cela a même surpris Shinove, le directeur d'holostars. Le partenaire de Temma pour ce stream était Junohara Izumi d'Animare. Izumi a kidnappé la mascotte de Temma, Hiyamaru, et l'a défié dans un duel de maître sur Yu-Gi-Oh ! Ils ont joué sept rounds avec un score total de 4-3 en faveur de Temma. Le stream a eu lieu sur la chaîne d'Izumi.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7248,
+        "width": 0.415,
+        "height": 0.1888
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8jlmukfs4uh81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

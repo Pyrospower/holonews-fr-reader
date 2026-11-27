@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Fubuki a rencontré Chloe pour la première fois ! Comme pour toute autre membre d’hololive ayant rencontré Chloe pour la première fois, elle l’a sentie pour connaître son odeur. D'après Fubuki, elle l’a fait par accident sans même le vouloir. Elle sentait plutôt bon, mais les spectateurs de Fubuki n'étaient pas convaincus, et se sont demandés si l'odeur de Chloe était si forte que celle-ci aurait modifié la mémoire de Fubuki.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2161,
+        "width": 0.3838,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsqu'on lui a demandé qui était la membre d’hololive qui sentait le plus bon, Fubuki était surprise qu'ils pensaient qu’elle se baladait pour sentir ses collègues de travail, et la première personne qui lui était venu à l'esprit n’est autre qu’Ayame.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.3641,
+        "width": 0.3694,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mel a annoncé qu'elle allait prendre une pause suite à un décès inattendu dans sa famille.",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.5365,
+        "width": 0.3888,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle sera de retour dès qu'elle aura retrouvé ses forces, alors en attendant, veuillez lui souhaiter bon courage.",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.5634,
+        "width": 0.3638,
+        "height": 0.0399
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1706,
+        "y": 0.7661,
+        "width": 0.1656,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors du Golden Week, Haachama a eu une crise d'adolescence, se renommant « Graychama », et a lancé un stream d'appels téléphonique. Cependant, comme elle se mettait à frapper les membres d’hololive lorsqu'elle invitait dans son stream, seulement deux membres se sont présentés après 50 minutes d'attente. « Graychama » s'est fait expulser de sa maison par sa mère à cause de sa crise d'adolescence. À la fin du stream, elle a supplié sa mère de la laisser rentrer, affirmant qu’elle s’est reformée.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8034,
+        "width": 0.3838,
+        "height": 0.161
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aki",
+      "bbox": {
+        "x": 0.6363,
+        "y": 0.1793,
+        "width": 0.0519,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aki était à fond sur les tambours de Taiko no Tatsujin la semaine dernière ! Après aucun stream réalisé pendant cinq jours, Aki est revenue avec quatre streams consécutifs sur ce jeu. Deux de ces streams étaient des collabs réalisés le même jour !",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2183,
+        "width": 0.3744,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la première collaboration entre Haachama et Kobo, elles ont joué à Valorant ensemble. Avant même qu'elles ne commencent leurs streams, un malentendu s'est produit entre les deux. Les deux pensaient que le stream allait se passer à une heure différente, ce qui finit avec les deux en train de demander à l’une et l’autre à quelle heure la collab était planifiée.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.4779,
+        "width": 0.3819,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir enfin décidé sur l'horaire, elles ont réussi à parler ensemble au travers de leur anglais douteux et se sont chacune échangé des phrases de leur langue natale. À ce moment-là, Haachama a tenté d'apprendre à Kobo le mot « Geboku », qui signifie « esclave » OU « serviteur », mais lui a raconté qu'il signifiait « aîné » et que Kobo devait l'appeler comme tel. Kobo a également révélé qu'elle était un puissant roi démon. Haachama l’a traité de chuuni mais est quand même devenue son larbin.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.6124,
+        "width": 0.3863,
+        "height": 0.158
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont renforcé leurs liens au cours de plusieurs parties de Valorant et pendant qu'elles jouaient, Haachama a déclaré qu'elle voulait cuisiner pour Kobo. Heureusement, Kobo a réussi à convaincre Haachama de cuisiner seulement des plats sans araignées pour elle plus tard (bien que Haachama comptait cuisiner des insectes qui ne sont techniquement pas des araignées).",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.7873,
+        "width": 0.3769,
+        "height": 0.1207
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/hwgnzxmspg091.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

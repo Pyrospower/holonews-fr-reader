@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0702_-_1302",
+  "page": 19,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.8475,
+        "y": 0.0872,
+        "width": 0.0956,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "heading",
+      "text": "STATS ET NOUVELLES SORTIES",
+      "bbox": {
+        "x": 0.0956,
+        "y": 0.0985,
+        "width": 0.6581,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ORIGINAL",
+      "bbox": {
+        "x": 0.8431,
+        "y": 0.1037,
+        "width": 0.1038,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "NOUVEAU",
+      "bbox": {
+        "x": 0.8413,
+        "y": 0.1202,
+        "width": 0.1081,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Marine] Unison: 6M _ [La+] God-ish: 8M [Calliope/Gura] Q: 2M [Calliope] Roki: 10M [Suisei] Stellar Stellar: 6M [Polka] Cinema: 100K [NePoLaBo] Blessing: 3M [Astel/Roberu] Hashire: 50K [Suisei] Lower One's Eyes: IM [Matsuri] ChiChinPuiPui: 750K [Ayame/Fubuki/Mio] Onikemodance: 750K [Polka/Miko/Aqua/Flare/Watame/Towa] _ [Lui] Phony: 250K 02/10 Adabana Necromancy Live: 100K [Shion] God-ish: 2M [Kronii] Daydream: 250K 02/09 [Calliope/Gura] Q:3M [AZKIi] Hikari No Mukou E: 250K [MiComet] Animal: 2M [Pekora/Miko] PekoMiko Daisensou: 8M [Kiara] Goodbye Sengen: 5M _ [Kiara/Ina] I~ya I~ya I~ya: 2M [Suisei] Shoujo Rei: 4M 02/11 [Okayu] flos: 10M _ [Chloe] Animal: 750K [Botan] Animal: 750K [Lamy/Botan] Lion: 1M [OKFAMS] Monster: 2M 02/12 [Watame] Phony: 750K [Marine] Music Hour: 1M [Aqua] Aqua Iro Palette: 5M _ [Aqua/Kanata] God-ish: 500K [Moona] Ai No Chiisana Uta: 3M 02/13 [Rushia] Iris: 1M [Astel] Hokori Takaaki Idol (Cover): 25K [Calliope/Gura] QO: 4M [Sora/Roboco/Miko/AZKi/Mel/Subaru] [Choco] ChocoLove (Live): 100K Blessing: 1M [Roboco] Country Roads Piano: 50K [Choco/Subaru/Luna] Kami No Manimani: 250K [AZKi] Heart Thermography: 50K",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.1688,
+        "width": 0.8925,
+        "height": 0.4362
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.7023,
+        "width": 0.0413,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kronii",
+      "bbox": {
+        "x": 0.3594,
+        "y": 0.7023,
+        "width": 0.0456,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aqua & Kanata",
+      "bbox": {
+        "x": 0.6644,
+        "y": 0.704,
+        "width": 0.1213,
+        "height": 0.0126
+      }
+    },
+    {
+      "type": "heading",
+      "text": "DAYDREAM GOD-ISH",
+      "bbox": {
+        "x": 0.3594,
+        "y": 0.7201,
+        "width": 0.4956,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "heading",
+      "text": "hololive music studio",
+      "bbox": {
+        "x": 0.2963,
+        "y": 0.8299,
+        "width": 0.3781,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "DAYBREAK",
+      "bbox": {
+        "x": 0.2963,
+        "y": 0.8637,
+        "width": 0.5219,
+        "height": 0.0356
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/z6e4h4oe17j81.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

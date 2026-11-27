@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 17,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Toutes les employées de Shiranui Kensetsu étaient de sortie a Disneyland, mais sur ; Minecraft. Elles ont visité et joué dans Minecraft ( Walt Disney World Magic Kingdom tous les cing gah ensembles. Là, elles ont essayé les montagnes Be Si russes et la chasse aux personnages Disney A NS disséminés un peu partout sur la map et ont ” récolté leurs emblèmes. Leur visite leur a donné A fa envie de construire Shiraken Park et aussi G = - vouloir aller dans un vrai Disneyland tous = ER) ensemble dans le futur.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.1905,
+        "width": 0.5738,
+        "height": 0.1675
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "LET'S PLAY TERMINES",
+      "bbox": {
+        "x": 0.8356,
+        "y": 0.3893,
+        "width": 0.0938,
+        "height": 0.0308
+      }
+    },
+    {
+      "type": "heading",
+      "text": "POLICE",
+      "bbox": {
+        "x": 0.8025,
+        "y": 0.5916,
+        "width": 0.1425,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "\"SIMULATOR",
+      "bbox": {
+        "x": 0.7869,
+        "y": 0.6198,
+        "width": 0.1525,
+        "height": 0.0143
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/6szj8cv9e0m81.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

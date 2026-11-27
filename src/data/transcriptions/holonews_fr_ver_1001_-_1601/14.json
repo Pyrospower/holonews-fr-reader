@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Risu et Oga sont de retour pour jouer ensemble à PHOGS! Ensemble, ils ont réussi à résoudre les énigmes efficacement. En dehors du jeu, ils ont également parlé de leurs souhaits pour leurs anniversaires à venir et se sont demandé lequel d'entre eux était le véritable seigneur des démons. D'après leur discussion, Risu pourrait être le plus puissant des deux.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.2635,
+        "width": 0.3994,
+        "height": 0.1597
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après leurs anniversaires, ils se sont remis au jeu, combinant leur matière grise pour tenter de le terminer. Ils ont ensuite lancé le hashtag #Worldominationduo pour leurs futures collaborations (lançant ainsi une équipe non officielle). Comme premier acte de leur plan de domination du monde, ils ont annoncé une nouvelle collaboration : une chanson originale !",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.4397,
+        "width": 0.4244,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant le « lundi productif » de cette semaine, lofi a continué à dessiner des illustrations pour la MV de sa chanson originale (qui sortira le 14 mars, jour du White Day). Dans un autre stream, elle a dessiné une carte de Nouvel An pour souhaiter une bonne année à ses mamans (Mitsuki et Vivi), son papa (Raku) ainsi qu’à",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.7652,
+        "width": 0.4269,
+        "height": 0.1276
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "YAGOO. Le tchat l’a critiquée quand ils se sont rendu compte qu’elle avait oublié comment écrire correctement son nom en hiragana.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.8932,
+        "width": 0.4163,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moona a encore fait un de ses streams Minecraft « détente », mais qui ne sont jamais « détente ». La construction de sa maison a rapidement laissé place à l'exploration en quête de ressources lorsqu'elle a été rejointe par Ollie. Elles ont erré pendant presque trois heures, avant de décider de rentrer chez elles par le Nether, mais elles ont été frappées par une malheureuse succession de catastrophes, perdant ainsi tout leur butin, leurs familiers et leurs équipements. Pour se venger, quelques jours plus tard, Moona a enrôlé Ollie, Risu et Anya. Avec elles, elles ont fait un raid dans le Nether à la recherche de la forteresse - ouvrant au passage une route vers un nouveau biome.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.2626,
+        "width": 0.4225,
+        "height": 0.2322
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Piscok, le chat d'Ollie, à réussi à grimper sur son étagère et a détruit son Blu-ray d’ « Hololive 2nd fes. Beyond the Stage ».",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.6706,
+        "width": 0.4063,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Alors que la plupart des talents ont une discussion après la sortie d'une de leur chanson, Risu a décidé d'en avoir une avant sa sortie.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.901,
+        "width": 0.4231,
+        "height": 0.0582
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/iw24srh6i8e81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

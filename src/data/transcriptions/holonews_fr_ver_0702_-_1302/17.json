@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0702_-_1302",
+  "page": 17,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "DIVERS",
+      "bbox": {
+        "x": 0.1575,
+        "y": 0.0343,
+        "width": 0.2181,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Figurines",
+      "bbox": {
+        "x": 0.1106,
+        "y": 0.0938,
+        "width": 0.185,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une multitude de figurines d’hololive ont été annoncées. Pour commencer, les Nendoroids de Pekora et de Mio sont en phase finale de création, les prototypes sont en attente d’ approbation. Nous avons le design de plusieurs talents pour la série POP UP PARADE. Des images des modeles gris de Marine, Aqua, et Sora ont fait surface. Le modèle de Miko en couleur est aussi en attente de l'approbation finale. Mais il y en a plus ! Noel et Marine ont leur modèle pour la série Figma. Elles se différencient par le fait qu’elles ont des jointures, les permettent de prendre différentes poses variées. Noel a aussi une autre figurine en production par la compagnie Phat. Enfin, un prototype de figurine de Aqua dans la tenue d’ Aqua-iro in Wonderland a été dévoilé. Ce modèle très détaillé est quelque chose que vous ne voulez pas rater !",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.1311,
+        "width": 0.4213,
+        "height": 0.3103
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive",
+      "bbox": {
+        "x": 0.1625,
+        "y": 0.5521,
+        "width": 0.185,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le lancement du site officiel du fanclub hololive a été effectué ce 8 février. Similaire au fan club de Sora, il y a deux options d'abonnement : un paiement mensuel et un annuel. L'option annuelle inclut un numéro de membre unique et une carte de membre physique. Il y aura des streams réservés aux membres, des billets à prix réduit, des événements pour les membres, des vidéos, et plus encore ! Pour célébrer le lancement, s'abonner ce mois-ci permet de recevoir un poster limité et dédicacé par YAGOO et A-chan !",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.6081,
+        "width": 0.4263,
+        "height": 0.1988
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.1669,
+        "y": 0.8559,
+        "width": 0.14,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après un an, Among Us hololive ivre est de retour dans toute sa splendeur, cette fois-ci avec la Gen 6. Cris, rires, alcool, et trahisons sont au rendez-vous dans cette collaboration.",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.8963,
+        "width": 0.4256,
+        "height": 0.0707
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 7 février, Calli et Reine ont enfilé leurs casquettes de pêcheuses et se sont confrontées dans un concours de pêche long d’une heure sur le jeu de pêche de 51 Worldwide Games, s'affrontant pour le plus de poissons attrapés et le plus gros. Pendant qu’elles pêchaient, elles discutaient ensemble à propos de sujets tels que les produits de la mer, de barbecue et de la pêche au Japon et en Indonésie, ainsi que de leurs expériences dans les fast food de leurs pays respectifs. Elles ont aussi partagé leur difficulté dans leur carrière de streamer comme le besoin actuel de Calli de faire une pause sur Jump King et de réduire son nombre de streams sur les conseils de J-chad. A la fin, c’est Calli qui a gagné les deux catégories avec un poisson-chat de 5.338 kg et un total de 178 poissons attrapés ; même si Reine a attrapé une « Leet » Koi Doré pesant 1.337 kg",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.6159,
+        "width": 0.4231,
+        "height": 0.3277
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/e6g9weoe17j81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

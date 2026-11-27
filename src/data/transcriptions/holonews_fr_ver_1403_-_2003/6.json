@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "La semaine dernière, Miko a joué à Mario Kart tout en imitant ses cadettes. Elle a notamment essayé d'imiter Korone, mais n’a réussi qu’à prononcer que quelques phrases. Miko a également essayé d'imiter Marine et était fiere du résultat. Et elle a finalement imité Subaru en racontant une fausse histoire sur Choco en imitant sa voix.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.2183,
+        "width": 0.3881,
+        "height": 0.1289
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La semaine dernière, Suisei a tenté quelque chose de nouveau dans son stream Tetris 99 :",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.5473,
+        "width": 0.4194,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "elle a prétendu que c'était la première fois qu'il y jouait. Les spectateurs ont joué le jeu en lui faisant remarquer qu’elle jouait assez vite pour quelqu'un de nouveau sur Tetris. Elle a conclu de ce stream qu'elle était née pour jouer à ce jeu.",
+      "bbox": {
+        "x": 0.0581,
+        "y": 0.5768,
+        "width": 0.4194,
+        "height": 0.0877
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir annoncé qu'aucun concert n'aurait lieu pour son prochain anniversaire, Suisei en a finalement fait l'annonce lors de son stream karaoké pour le 22 mars.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.8477,
+        "width": 0.3869,
+        "height": 0.0699
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko a pulvérisé de l'eau sur les feuilles de sa plante, sans savoir qu'elle devait aussi arroser les racines. Elle se demandait pourquoi elle dépérissait.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.2183,
+        "width": 0.3863,
+        "height": 0.0582
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 14 mars, Sora, qui portait un casque audio ce jour-là, s'est servie de son stream de chant pour faire une annonce. Il s'agissait d’un CD limité contenant une des musiques qui figurera sur son prochain CD d'anniversaire. Happy Meowthday ! Le CD annoncé peut être précommandé et est accompagné d'un casque JVM incluant son logo. La date limite pour les précommandes est le 23 mars.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.4583,
+        "width": 0.3894,
+        "height": 0.1467
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AZKi a été très active sur Twitter ces deux dernières semaines avec des promotions en plus d'avoir fait une apparition la semaine précédente sur le stream « English Lesson » de Calli avec Watame et IRyS. Elle a fait la promotion de la nouvelle chanson d’hololive, « Prism Melody », du stream de Suisei auquel elle participait sur Tokyo 7th Sisters, et de sa participation au premier jour de « VTuber Fes Japan ».",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.7995,
+        "width": 0.3988,
+        "height": 0.1467
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ii0pva61s5q81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 11,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Miyabi a organisé deux concours cette semaine : le concours tant attendu du nouveau costume de Toranken et le concours Hololy holostars. Après quatre mois, Miyabi a finalement examiné les candidatures pour les nouveaux costumes d'une de ses créatures des bois, Toranken. Les plus mémorables étaient le Toranken ramen, le Toranken idol, et les Toranken hanasaki no mori.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.2174,
+        "width": 0.3881,
+        "height": 0.1215
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le concours Hololy holostars, il y a eu beaucoup d'entrées différentes, certaines mignonnes, d'autres émotionnelles ! Il s'agissait d'un stream d'une heure où tout le monde a pu voir les créations des fans réalisées à l'aide d'une application de réalité augmentée.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.3568,
+        "width": 0.3719,
+        "height": 0.0964
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 4 avril, Izuru a lancé sur Twitter un appel aux personnes qui sont devenues des étudiants universitaires pour qu'elles se fassent des amis. Selon lui, si vous ne vous faites pas d'amis, ce sera difficile à l'institut, et il dit qu'il faut garder les amitiés le plus longtemps possible. lzuru a écrit ce tweet parce qu'il va bientôt être diplômé et qu'il n'a aucun ami. Tous les téléspectateurs dans les réponses ont apprécié les conseils d'Izuru et certains ont même demandé des conseils. Izuru a répondu et a donné des conseils à tous ceux qui ont demandé de l'aide.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.5503,
+        "width": 0.3931,
+        "height": 0.1753
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 8 avril, Temma a de nouveau fait un stream en anglais. Même si l'émission n'a duré qu'une heure, Temma a trouvé le temps d'écrire une histoire en anglais, avec des effets sonores. Il a inclus de nombreux mots liés aux otaku et aux fans anglophones. Les fans anglophones se sont senti viser, mais ont été très heureux de voir le retour des stream matinaux de Temma en anglais.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.8251,
+        "width": 0.3919,
+        "height": 0.1467
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka a participé au Golden Nessie Customs sur Apex, avec Mirage Bomber et Tenjin Cotone, des VTubers indépendants. Après quatre matchs, ils ont finalement réussi à devenir champions.",
+      "bbox": {
+        "x": 0.545,
+        "y": 0.2209,
+        "width": 0.3913,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran a décidé de célébrer son déménagement réussi en organisant un stream discussion, un éventuel karaoké et sa première partie de Ring Fit Adventure ! Il n'a pas chanté, mais a eu une grande discussion avec ses spectateurs. Plus tard, Aruran a fait étalage de sa force dans Ring Fit Adventure. Même en jouant au niveau de difficulté le plus élevé, il parlait avec désinvolture tout en faisant les exercices.",
+      "bbox": {
+        "x": 0.5344,
+        "y": 0.4744,
+        "width": 0.3894,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La semaine dernière, Gamma a fait un stream imprévu le matin où il a dessiné Yagoo. Gamma a montré sa collection de dessins de Yagoo et l'a associée au jeu de cartes Yu-Gi-Oh. À un moment donné, il a décidé de terminer l'un des dessins et l'a appelé Yagoo-Exodia, et a même demandé aux fans de faire une animation Live2D de l'image.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.8016,
+        "width": 0.3863,
+        "height": 0.1319
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4isaim59qau81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_french_1710_-_2310",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Lors du Lundi productif de cette semaine, et aussi pour le défi quotidien d'Holoctobre, lofi a dessiné une demoiselle IRyS, prouvant ainsi qu'un ange peut effectivement dessiner le portrait d'un nephilim.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.299,
+        "width": 0.4456,
+        "height": 0.0512
+      }
+    },
+    {
+      "type": "heading",
+      "text": "lofi",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.372,
+        "width": 0.14,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le loSalon a ouvert ses portes cette semaine avec Subaru et Towa comme invitées ! Subaru a reçu des cheveux ondulés et flottants, avec un ruban girly, et le look de quelqu'un sur le point d'entrer au pays des merveilles. Towa a eu les cheveux longs attachés en queue de cheval avec une frange sur les côtés et un front nu, montrant toute la puissance de son apparence (non) démoniaque.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.4232,
+        "width": 0.4456,
+        "height": 0.1033
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La chatte locale Zeta a fêté ses 600 000 abonnés avec un stream comprenant des jeux, un watch-along et de la nourriture cursed. Sa recette était une combinaison de ramen, chocolat, pastèque, mangue, soupe miso, cabe level 50 (une sauce extrêmement épicée), eau et riz. Avec cette monstruosité « sucrée et salée », Zeta s'est découvert un amour pour les fruits avec du riz, mais a admis qu'elle ne pouvait toujours pas supporter les insectes et la salade. De plus, comme elle était capable de manger du chocolat, cela prouvait qu'elle n'était pas un chat. À la fin du stream, Zeta a remercié avec émotion tous les Zecretaries pour leur soutien et a promis de streamer pour toujours. Félicitations Zeta !",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.7192,
+        "width": 0.4456,
+        "height": 0.1688
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de sa récente collaboration avec Zeta et Selen Tatsuki de NIJISANJI EN, Ollie a expliqué qu'elle avait une « allocation Apex » mensuelle à dépenser sur le jeu, déclarée être aussi élevée que ce qu'elle dépense pour sa nourriture. Selen a dit qu'il ne semblait pas que Ollie mentait, ce que Zeta a confirmé.",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.2036,
+        "width": 0.4469,
+        "height": 0.0777
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "organisé une collaboration Back 4 Blood. Après avoir perdu quelques fois, ils ont terminé l'intégralité de l'acte 1 dans la difficulté la plus faible. Comme prévu, Zeta et Axel se chamaillaient régulièrement, Risu était toujours aussi séduisante, et Altare a expliqué longuement comment il voulait être transformé en diamant post-mortem. Entre Risu qui demandait à chacun sa « forme préférée », Zeta qui ne mâchait pas ses mots sur la nature de la \"réunion d'idoles\" d'Altare et une grande quantité de tirs amis, le résultat a été un stream très chaotique.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.3681,
+        "width": 0.4463,
+        "height": 0.1428
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kobo, toujours en congé maladie, a tweeté au hasard pour demander si elle pouvait manger quelque chose d'épicé et de croustillant avec du MSG dedans. Halodoc, un service médical en ligne en Indonésie, a répondu qu'il valait mieux ne pas manger quelque chose de ce genre pour éviter toute irritation, et a conseillé à Kobo de boire plus d'eau même si elle est «un personnage d'anime ».",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.5734,
+        "width": 0.4456,
+        "height": 0.1037
+      }
+    },
+    {
+      "type": "heading",
+      "text": "lofi",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.6875,
+        "width": 0.14,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un loforia a répondu à lofi sur Facebook en disant « Yopi honeyy », ce à quoi lofi a répondu, le rendant heureux. Cependant, son bonheur a été écourté lorsque sa femme est apparue en disant qu'il était halu et a menacé de le mettre à la porte. Après un certain temps, lofi s'en est aperçue et a renvoyé le mari, car elle a déjà une femme elle aussi.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.7378,
+        "width": 0.4463,
+        "height": 0.0907
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/7htxo03aedy91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

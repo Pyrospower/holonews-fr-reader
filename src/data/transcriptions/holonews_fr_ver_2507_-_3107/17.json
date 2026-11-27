@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 17,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Divers",
+      "bbox": {
+        "x": 0.4369,
+        "y": 0.0265,
+        "width": 0.1263,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Yo-kai PuniPuni",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.2418,
+        "width": 0.255,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "hololive Japan fait une collaboration avec Yo-kai Watch PuniPuni! Le jeu de puzzle va avoir Miko, Fubuki, Okayu, Korone, Pekora, Marine, Watame et Botan en tant que personnages jouables, dans leur tenues normale et leur",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.273,
+        "width": 0.385,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "hololive est en partenariat avec Spotify JP pour vous offrir cinq mois de Spotify Premium gratuitement ! Cette offre n'est valable qu'au",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.3403,
+        "width": 0.3775,
+        "height": 0.0399
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "tenues d'idol. Deux personnes aléatoires qui suivent @yokai_punipuni sur Twitter et ayant retweeté l'annonce auront deux des filles de",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.3403,
+        "width": 0.3744,
+        "height": 0.0369
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Japon.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.3789,
+        "width": 0.055,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "leur choix gratuitement. En plus, il y aura",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.3806,
+        "width": 0.3375,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "heading",
+      "text": "quatre streams sponsorisés en août. Let's play",
+      "bbox": {
+        "x": 0.4081,
+        "y": 0.3941,
+        "width": 0.4325,
+        "height": 0.0582
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/mbsueug4fig91.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

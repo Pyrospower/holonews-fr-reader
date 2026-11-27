@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 12,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Shien est apparu sur son stream imprévu sur Notre Papa italien, Aruran, a posté une Fall Guys sous forme de peluche. Le stream a compilation de clips faits par ses fans. commencé avec quatre Bukatachis qui tenaient Ces clips ont été choisis d'après les",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.2435,
+        "width": 0.8731,
+        "height": 0.0486
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "un panneau sur lequel il y avait écrit « Achetez",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.2878,
+        "width": 0.4188,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "recommandations de ses spectateurs",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.293,
+        "width": 0.3831,
+        "height": 0.0156
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "la peluche ». Shien a fait ce stream car il ne ati ; pouvait pas dormir a cause du thé ordinaire qu'il Regardez la compilation pour voir toutes a reçu à la place du thé décaféiné qu'il avait commandé. C'est pour cette raison que Shien a paru énergique et bruyant au début du stream.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.3025,
+        "width": 0.8869,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka, Temma &",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.4123,
+        "width": 0.3006,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "les pitreries de notre Papa bien aimé.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.326,
+        "width": 0.3787,
+        "height": 0.0156
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Rikka, Temma et Shien ont finalement reçu la version 2.0 de leurs tenues du Nouvel An. Ces mises à jour leur permettent de faire des mouvements plus fluides et plus amples, et de nombreuses nouvelles expressions. Regardez le stream pour voir la différence en détail.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.451,
+        "width": 0.8963,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après s'être échangé les cadeaux, ils ont joué à beaucoup de jeux, comme du jeu de rôle, le « Nya Nya Game » (des charades mais avec « nya » ), et aux cartes Pokémon. Ils ont également fait le très attendu « Yurustars Live Watchalong », et, à un moment, Temma était trop saoul pour commenter.",
+      "bbox": {
+        "x": 0.4894,
+        "y": 0.8255,
+        "width": 0.4625,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les membres de Yurustars sont chaotiques et cette collaboration dans la maison d’Aruran le prouve encore une fois. Cette collab a commencé avec une fondue chinoise et du champagne pour le dîner, puis ils se sont offerts leurs cadeaux. Miyabi a offert une couverture avec un Mickey italien à Aruran, qui a offert un sous-vêtement Calvin Klein rose en édition limitée | 4 lendemain matin, Temma et Miyabi se sont",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.8164,
+        "width": 0.8631,
+        "height": 0.1415
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "à lee Of) &l ES conne beaucoup beaucoup dragués et Aruran faisait la 5e roue du e cartes Pokémon à Miyabli. carrosse dans sa propre maison.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.9518,
+        "width": 0.8856,
+        "height": 0.0356
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/o3u8t16kevc81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

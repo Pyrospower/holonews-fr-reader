@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 17,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ONLINE",
+      "bbox": {
+        "x": 0.5188,
+        "y": 0.079,
+        "width": 0.0894,
+        "height": 0.0417
+      }
+    },
+    {
+      "type": "heading",
+      "text": "DIVERS",
+      "bbox": {
+        "x": 0.1506,
+        "y": 0.0352,
+        "width": 0.2181,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 13 février, une collaboration entre La collaboration entre hololive et Molly holoFantasy et Raku Spa a été annoncée. Online continue de nous apporter des",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.2079,
+        "width": 0.8313,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les articles sous promotions vont des tampons en caoutchouc au sels de bain,",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.2405,
+        "width": 0.3981,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "produits dérivés, cette à l'effigie de Pekora et Botan. Les produits disponibles sont en _",
+      "bbox": {
+        "x": 0.515,
+        "y": 0.2374,
+        "width": 0.4256,
+        "height": 0.0343
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "en passant par les serviettes et les version solo et duo. Dans les cabines de jeu, tapisseries avec des images des filles en on peut entendre des répliques adorables yukata. La promotion se déroulera du 27 des deux filles, disponibles jusqu'au 9 janvier au 28 février. février. Pour en faire la démonstration,",
+      "bbox": {
+        "x": 0.045,
+        "y": 0.2704,
+        "width": 0.8931,
+        "height": 0.0655
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora et Botan ont tenté de remporter la marchandise en stream. Il a fallu à Pekora plus de 20 minutes et l'aide de la main de Dieu pour gagner un prix. Botan, quant à elle, a obtenu son prix dès son premier essai après avoir changé de jeu.",
+      "bbox": {
+        "x": 0.5144,
+        "y": 0.3325,
+        "width": 0.4244,
+        "height": 0.0929
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Daidou Shinove, le manager d’holostars, a fêté son anniversaire le 13 janvier dernier.",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.4874,
+        "width": 0.4206,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a tweeté à ce sujet et reçu de nombreux vœux d'anniversaire de la part de ses fans et de divers membres d’holoPro.",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.5195,
+        "width": 0.4194,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les serveurs Discord « Kronii’s Clock Tower », « Kronii’s Time Vault » et « HololiveEN Fan Server » récoltent des fanarts et des messages pour l'anniversaire de Kronii. Les soumissions, et par extension, la brillance de Kronii, seront affichées sur le panneau publicitaire de NASDAQ a Times Square le 14 mars. La date limite est fixée au 4 mars à 23h59 (UTC -12).",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.6523,
+        "width": 0.4306,
+        "height": 0.1597
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les fonds manquent actuellement pour payer l'affichage, bien qu'ils négocient un prix plus bas. Ils font un financement participatif et acceptent les dons via les / comptes PayPal et Ko-fi de KCT. Les liens 4!\" vers ces deux comptes se trouvent sur la page du projet sur le site non officiel d’holoEN. La date limite pour les dons est fixée au 14 février.",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.829,
+        "width": 0.4988,
+        "height": 0.1402
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/y1gnwei6i8e81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLO FAN TASY",
+      "bbox": {
+        "x": 0.2813,
+        "y": 0.1415,
+        "width": 0.4419,
+        "height": 0.053
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le dernier épisode d'holoNuns, Marine s’est habillée en nonne et Fubuki en prêtre. Elles ont fait un stream confessionnal, en compagnie de leurs nouvelles camarades : les membres d’holoX.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.3863,
+        "width": 0.8713,
+        "height": 0.0417
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En l’espace d’une heure environ, les filles de la Ge génération ont appelé pour se confesser, notamment La+ (qui était chez Lui), qui a avoué qu’elle ne pouvait pas parler correctement lors de sa récente collab avec Towa puisqu'elle était elle-même une Kenzoku, tandis que Chloe et Marine ont passé leur temps à s’accuser mutuellement de sentir mauvais.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.447,
+        "width": 0.8831,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Marine et Koyori ont aussi été surprises à être incroyablement lubriques après que Marine ait envoyé sa culotte au coyote, et cette dernière a finalement été arrêtée par Fubuki car elle s'est déshabillée devant Iroha.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.523,
+        "width": 0.8806,
+        "height": 0.0417
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Puisgu’elle s’est réveillée juste avant le",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.7387,
+        "width": 0.41,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au cours de la semaine de Noël,",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7391,
+        "width": 0.3438,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "début du stream, Rushia a commencé Pekora a mis en ligne sur sa chaîne une son stream karaoké relai de Noël avec sa _ série de courts métrages en 3D, dans voix la plus grave et la plus rauque, sa lesquels on peut voir Pekora dans des voix « Rushifer ». Passant de façon tenues de Noël de différentes couleurs aléatoire d’une voix grave à une voix et même une nouvelle hache-carotte en aiguë, elle a démontré à la fois ses 3D pour qu'elle puisse commettre des prouesses vocales et son côté mignon.",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.7561,
+        "width": 0.9025,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "crimes !",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.8607,
+        "width": 0.0813,
+        "height": 0.0126
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lnb2q25zeab81.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 3,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This year's YouTube Music Weekend was held on April 6 and 7, featuring Reine, Ollie, Risu, and Calli. Unlike last year, there were no hololive JP members participating.",
+      "bbox": {
+        "x": 0.0578,
+        "y": 0.4244,
+        "width": 0.2722,
+        "height": 0.1111
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "As her first performance for this event, Reine got the party started on April 6 with",
+      "bbox": {
+        "x": 0.0572,
+        "y": 0.5363,
+        "width": 0.2689,
+        "height": 0.0475
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mori Calliope",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.961,
+        "width": 0.1567,
+        "height": 0.0185
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a 43-minute DJ set in",
+      "bbox": {
+        "x": 0.3589,
+        "y": 0.4244,
+        "width": 0.2083,
+        "height": 0.012
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "translated to Indonesian by",
+      "bbox": {
+        "x": 0.6589,
+        "y": 0.4244,
+        "width": 0.2667,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "VRChat with a 3D model by herself.",
+      "bbox": {
+        "x": 0.3583,
+        "y": 0.4406,
+        "width": 0.3711,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "The next day, April 7, featured Risu doing karaoke with her lé home 3D model, then Calli sang her greatest hits in her party outfit and promoted her upcoming major debut EP, SHINIGAMI NOTE.",
+      "bbox": {
+        "x": 0.6583,
+        "y": 0.4564,
+        "width": 0.2783,
+        "height": 0.1242
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Priichu. She demonstrated skillful transitions between songs across all hololive branches (including her own), simultaneously singing throughout! Afterwards came Ollie, who sang holopro songs-",
+      "bbox": {
+        "x": 0.3583,
+        "y": 0.4568,
+        "width": 0.27,
+        "height": 0.1269
+      }
+    },
+    {
+      "type": "heading",
+      "text": "YOUTUBE MUSIC WEEKEND",
+      "bbox": {
+        "x": 0.675,
+        "y": 0.6844,
+        "width": 0.2717,
+        "height": 0.1111
+      }
+    },
+    {
+      "type": "heading",
+      "text": "5/7 SAT 24:45 -",
+      "bbox": {
+        "x": 0.7056,
+        "y": 0.8383,
+        "width": 0.21,
+        "height": 0.0818
+      }
+    },
+    {
+      "type": "heading",
+      "text": "• YouTube Music",
+      "bbox": {
+        "x": 0.6672,
+        "y": 0.9595,
+        "width": 0.265,
+        "height": 0.0266
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/sdzj9xnspg091.gif",
+    "gifFrame": 67,
+    "confidence": 91
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Koyori a fait un sondage demandant à ses fans si elle devait se battre contre une maman ou une personne mentalement instable. Les fans de Koyori ont voté pour qu'elle se batte contre la personne mentalement instable. Il s'est avéré que choisir cette option signifiait qu'elle jouerait Needy Streamer Overload en stream. Koyori a alors surmené KAngel tout en évitant les crises causées par son étrange personnalité et a réussi à la placer dans une belle entreprise de streamers.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2617,
+        "width": 0.4244,
+        "height": 0.1866
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori a été beaucoup occupée sur ARK cette semaine. Vendredi, sa maison a été attaquée par un Raptor (Alpha) et un T-Rex ‘Alpha), tous deux de niveau 145. Quelques eures plus tard, elle a décidé de faire un stream imprévu pour évaluer les dégâts. Elle a découvert que trois de ses créatures importantes avaient été tuées et a construit des tombes en leur hommage près de sa base. Plus tard dans la nuit, elle a joué a ARK hors stream après sa collab avec Miko. Koyori a été victime d'un accident lors de sa tentative de recherche d'une autre base et a perdu le gorille qu'elle avait attrapé avec Miko. Le dimanche, elle a de nouveau fait un stream imprévu sur le jeu et a expliqué les détails de l'accident de vendredi. Koyori a ensuite apprivoisé deux gorilles et trouvé un endroit approprié pour sa nouvelle base.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.4722,
+        "width": 0.4275,
+        "height": 0.2808
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La semaine dernière, Koyori s'est lancée un défi dans Getting Over It : elle n'avait pas le droit de se mettre en colère, sinon elle mettrait fin au stream. Pour relever le défi, Koyori s’est mise dans la peau d’une princesse. Malheureusement, cela n'a pas suffi, car Koyori a mis fin au stream après avoir frappé son accoudoir pendant sa chute : ses spectateurs l'ont entendu et elle n'a pas pu les convaincre qu'elle n'était as en colère. Le stream a duré au total une eure et vingt minutes.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.7804,
+        "width": 0.42,
+        "height": 0.1771
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après que Chloe et Lui aient emménagé ensemble, Iroha a également exprimé son désir de déménager de son logement actuel. Elle a envisagé de déménager car selon elle, son logement actuel est assez délabré. Cependant, elle n'a pas encore pris de décision. Iroha a insisté sur le fait qu'elle n'emménagerait pas avec une autre personne, surtout pas avec La+. Elle pense que si elle vit avec La+, leur chambre sera en désordre.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2626,
+        "width": 0.4244,
+        "height": 0.1723
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La+ a enfin trouvé l'endroit idéal pour son emménagement et a annoncé la date à laquelle il aura lieu. Elle a également annoncé qu'elle ferait une pause d'une semaine pendant le déménagement et les préparatifs. Elle fera ensuite des streams dans son nouvel appartement. Elle fera une pause du 24 février au 3 mars.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.6241,
+        "width": 0.4181,
+        "height": 0.1246
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4fs7jhfs4uh81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

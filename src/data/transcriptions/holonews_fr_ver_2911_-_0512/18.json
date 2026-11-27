@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Tokopedia, une plateforme d'e-commerce fondée en",
+      "bbox": {
+        "x": 0.1869,
+        "y": 0.1189,
+        "width": 0.2956,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Indonésie. Actuellement, seuls",
+      "bbox": {
+        "x": 0.1881,
+        "y": 0.1497,
+        "width": 0.2894,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "OFFICIAL A e SHOP les produits hololive Summer Now at Festival sont en vente, mais la NUS ligne de produits sera étendue hid dans le futur. C'est bientôt Noël, et pour célébrer les io vacances, Cover a annoncé une nouvelle série Seulement vendu en de produits dérivés pour fêter Noël, le Nouvel \\ personne auparavant, An ainsi que le 2e anniversaire de la 4e § I les produits dérivés Génération ! Y sont inclus sont plusieurs ; “4 hololive Error sont ensembles de broches, des figurines yi \\§ maintenant sur Booth acryliques, des peluches, et plus encore! Ils et GeekJack. Leurs seront vendus au Tokyo Skytree le 17 A + nombres étant limités, I décembre mais les fans japonais et § & achetez-les tant que internationaux pourront les acheter en ligne à = On Sale November29. VOUS le pouvez! partir du 1er janvier jusqu’au 31 janvier. LET'S PLAY TERMINÉS TERMINES",
+      "bbox": {
+        "x": 0.0313,
+        "y": 0.1615,
+        "width": 0.9169,
+        "height": 0.2904
+      }
+    },
+    {
+      "type": "other",
+      "text": "HE GREAT",
+      "bbox": {
+        "x": 0.8,
+        "y": 0.487,
+        "width": 0.0594,
+        "height": 0.0074
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/740ubz6rjq581.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Flare",
+      "bbox": {
+        "x": 0.45,
+        "y": 0.0161,
+        "width": 0.1006,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "other",
+      "text": "@tsunomakiwatame",
+      "bbox": {
+        "x": 0.1063,
+        "y": 0.5707,
+        "width": 0.0944,
+        "height": 0.0061
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame a récemment tweeté à propos de la démolition du Zepp Tokyo, la salle où elle a donné son premier concert, Watame Night Fever !!. Elle a dit qu'elle était triste de le voir partir, mais que les souvenirs créés ne s'effaceront jamais.",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.7096,
+        "width": 0.3888,
+        "height": 0.0829
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata a enfin refait un stream, après presque un mois et demi. Bien qu'elle soit en pause à cause du Covid, elle a fait ce stream parce qu'elle a été sponsorisée pour jouer à Shinymas, l'une de ses franchises préférées, pendant l'événement du 4e anniversaire du jeu.",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.8819,
+        "width": 0.3869,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le stream d'anniversaire de Flare était plutôt impressionnant : en effet, elle utilisait son modèle 3D à domicile et a reçu des appels de la part de 15 invitées. Les premières étaient Marine et Noel, qui l'ont taquinée avec son gâteau préféré, la Sachertorte. Lamy, Chloe et Miko ont appelé pour exprimer leur désir de jouer a Elden Ring avec elle, mais n'ont pas pu le faire pour diverses raisons. Lors de son appel, Watame a plaisanté sur le fait que Flare s'attendait à ce qu'elle lui recommande des choses à acheter pour 'évenement. Flare a exprimé son intérêt pour les streams sur Sekiro d'Iroha, et Iroha a promis de lui faire des sucreries un jour. Koyori a appelé et a dit vouloir jouer avec Flare et Kanata quand Kanata ira mieux. Comme Iroha, Flare a regardé Mel jouer a Biohazard, et Flare a promis de réaliser un stream de collaboration avec Mel. L'appel de Lui a tourné autour d'une potentielle collaboration NoeFure x Lui/Chloe, et s'est moquée de la nervosité de Flare. La dernière à appeler était Pekora, que Flare a taquiné à propos de Sekiro, en plaisantant également sur le fait qu'elle avait fui le jeu Elden Ring. Après cela, Flare a annoncé qu'elle organiserait un concert d'anniversaire dès qu'une date serait confirmée.",
+      "bbox": {
+        "x": 0.5469,
+        "y": 0.072,
+        "width": 0.4013,
+        "height": 0.3993
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Luna s'est entraînée à jouer « Shiny Smily Story » sur son electone. Vers le début du stream, elle a chanté la chanson tout en la jouant. Luna a également montré une image promotionnel issu d'une collaboration avec Yamaha. Yamaha organise actuellement une promotion dans le cadre de laquelle les clients qui achètent un electone dans leurs magasins au Japon recevront un fichier d'Himemori Luna dans lequel on la voit jouer sur l'electone. Yamaha publie également une interview de Luna et une partition de « Shiny Smily Story » dans le numéro d'avril de son magazine mensuel sur les electones.",
+      "bbox": {
+        "x": 0.5469,
+        "y": 0.7101,
+        "width": 0.39,
+        "height": 0.2205
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/c7y0lat6qws81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

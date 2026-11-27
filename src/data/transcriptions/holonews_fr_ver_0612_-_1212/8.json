@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLO FANTASY",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.0308,
+        "width": 0.4413,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki et Marine ont joué à Phasmophobia. Fubuki a d'abord appris les bases à Marine, puis elles sont entrées dans plusieurs maisons à la recherche de fantômes. Lors de ce stream, Marine a autant crié qu’elle en est morte, pour le plus grand plaisir des spectateurs et de Fubuki.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.2491,
+        "width": 0.4219,
+        "height": 0.1089
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cependant, vers la fin du stream, Fubuki et Marine ont réussi à survivre à un Revenant en restant tapies dans l'ombre. Elles ont décidé de ne pas pousser leur chance plus loin, et elles sont parties en pensant que c’était un Onryo.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.3746,
+        "width": 0.4106,
+        "height": 0.0924
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rushia a reçu un message du staff disant que son cou avait été arrangé. Ensuite, Rushia a remarqué que sa poitrine avait gagné en élasticité. Cependant, plusieurs personnes l'ont nié, mais elle était très convaincue d'avoir reçu une amélioration. Rushia était tellement convaincue que sa poitrine était devenue rebondissante qu'elle a posté le lendemain une courte vidéo à ce propos.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.6628,
+        "width": 0.4231,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Noel a mentionné le fait de ne pas encore avoir dit à sa famille qu'elle était une VTubeuse lors de son stream de discussion en 3D. Elle est persuadée que sa mère et son frère ne le savent pas et ne connaissent pas encore de VTubers, et Noel réfléchit à si elle devrait leur dire ou non.",
+      "bbox": {
+        "x": 0.1963,
+        "y": 0.8268,
+        "width": 0.2825,
+        "height": 0.148
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un spectateur a demandé à Pekora de reproduire son rire caractéristique, mais malheureusement, elle a dit ne pas pouvoir le faire. Même s'il est écrit dans un script, elle n'est pas capable de le faire consciemment.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2491,
+        "width": 0.4169,
+        "height": 0.0734
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora était en train de visiter les îles de ses fans, quand elle est tombée sur une Île très bien faite. À cause de cela, Pekora a paniqué et s'est mise à se soucier de la tenue qu'elle portait sur cette île. Le fan lui a donné de meilleurs accessoires pour y remédier.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.3733,
+        "width": 0.4244,
+        "height": 0.1089
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Flare a levé le voile sur deux nouveautés ! Premièrement, la nouvelle forme d'oiseau des Elfriends. Il existe deux designs : un pour les fans japonais et un autre pour les fans d'outre-mer. Ils ont des accessoires et des couleurs similaires à ceux de Flare.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.6662,
+        "width": 0.4231,
+        "height": 0.0851
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un second temps, Flare a révélé le tout nouveau design pour sa tenue d'origine conçue par Lack-sensei. La robe blanche une pièce incorpore un bleu plus clair pour un meilleur contraste par rapport à l'ancien. Il y avait encore des similitudes avec le design de son ancienne tenue, avec les manches et son emblématique nœud papillon. Ses cheveux étaient légèrement plus sombres, et leur volume a augmenté.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.7695,
+        "width": 0.42,
+        "height": 0.1471
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Flare a aussi annoncé six nouveaux émojis pour les membres.",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.9319,
+        "width": 0.395,
+        "height": 0.0291
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/kplmeso5i4781.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

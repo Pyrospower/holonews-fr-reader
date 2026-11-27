@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projet de fans",
+      "bbox": {
+        "x": 0.3644,
+        "y": 0.0256,
+        "width": 0.2706,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "RO POSES FO",
+      "bbox": {
+        "x": 0.4044,
+        "y": 0.2522,
+        "width": 0.0613,
+        "height": 0.0082
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Atelier loforia, le serveur Discord des fans de lofi, a réalisé un clip pour son dix-huitième anniversaire. Ils ont recueilli des félicitations de fans du monde entier, d'autres VTubers et même de créateurs de contenu. Joyeux anniversaire, lofi !",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.3142,
+        "width": 0.4619,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4081,
+        "y": 0.424,
+        "width": 0.185,
+        "height": 0.0282
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lcvmsu55sqd91.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

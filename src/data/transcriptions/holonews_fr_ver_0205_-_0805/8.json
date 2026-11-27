@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 5",
+      "bbox": {
+        "x": 0.445,
+        "y": 0.0174,
+        "width": 0.1113,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron est devenue la deuxième membre d'hololive à s'emparer du titre de Seigneur d'Elden. Le personnage qu'elle incarnait se nommait Bossan, un homme torse nu à tête de champignon. Il lui a fallu moins de deux heures pour vaincre le boss final. Elle a également terminé le jeu avec la fin « Âge des étoiles ». Durant les streams suivants sur le jeu, Shishiron s'est attaquée aux autres boss détenteurs de runes majeures. Malenia, épée de Miquella, réputée comme l'un des adversaires les plus compliqués du jeu, a",
+      "bbox": {
+        "x": 0.3088,
+        "y": 0.0599,
+        "width": 0.6206,
+        "height": 0.0933
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.1781,
+        "y": 0.1576,
+        "width": 0.0913,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "survécu un stream et brisé la série de boss consécutifs de Botan. Une fois ressourcée, il n'a fallu que deux tentatives à la lionne pour la vaincre lors de leur face-à-face suivant. Avec Mogh également tué, Shishiron prévoit maintenant d'avancer une partie de ses quêtes secondaires restantes lors de son prochain stream.",
+      "bbox": {
+        "x": 0.3088,
+        "y": 0.1541,
+        "width": 0.6187,
+        "height": 0.0664
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Botan a également annoncé qu'elle allait prendre une pause d'une semaine. Elle compte rendre visite à sa famille dans sa ville natale et recevoir son 2e rappel de vaccin. Elle restera active sur Twitter durant cette période.",
+      "bbox": {
+        "x": 0.3094,
+        "y": 0.2348,
+        "width": 0.6225,
+        "height": 0.0395
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamers",
+      "bbox": {
+        "x": 0.4269,
+        "y": 0.2895,
+        "width": 0.1519,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer le « jour de Korone », celle-ci a organisé un stream karaoké le 6 mai. En japonais, les chiffres 5 et 6 qui forment cette date peuvent respectivement se prononcer Ko/Go et Ro. En les combinant, ils forment « Koro » comme dans « Koro-san », faisant ainsi de ce jour le « jour de Korone ». Korone a chanté un total de dix chansons, dont sa chanson originale, « Doggy god's street ». Elle a également chanté un rappel de « Matsuken Samba Il ».",
+      "bbox": {
+        "x": 0.0756,
+        "y": 0.4818,
+        "width": 0.3906,
+        "height": 0.1445
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme chaque Lundi, Mio a présenté son émission matinale intitulée « AsaMio » (Matin Mio). L'émission est principalement fondée sur la discussion entre Mio et son tchat, mais il lui arrive parfois d'appeler des membres d'hololive pour prendre des nouvelles et discuter un peu. Pour l'édition spéciale hololiveGGW, Mio s'est donnée pour projet d'appeler plusieurs membres durant trois jours consécutifs pour les réveiller afin qu'ils se préparent pour leur congé. Mio a pour habitude de les réveiller en les saluant et en posant des questions banales comme « Qu'est-ce que tu fais ? » ou « Quels habits portes-tu pour dormir ? ».",
+      "bbox": {
+        "x": 0.53,
+        "y": 0.4818,
+        "width": 0.4113,
+        "height": 0.1879
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dès le 3 mai, Mio a elle-même eu une panne d'oreiller et a été réveillée par l'appel de Miko, à laquelle elle doit maintenant s'adresser avec le le terme « élite ». Malgré cela, Mio a tout de même réveillé Noel, Chloe, Robocosan et Matsuri lors de sa première journée. Le jour suivant, sont venues s'ajouter à la liste AkiRose, Watame, Lui, Subaru, AZKi, ainsi que Polka qui était alors en train de prendre un bain. Le stream de Mio s'est subitement transformé en un direct de la salle de bain de Polka. Enfin, le 5 mai, Mio a réveillé Koyori, Luna, Haato, Mel, Laplus et Kanata. La plupart des talents étaient encore à moitié endormis au moment de l'appel en raison de leur entraînement pour le GGW. Ce cadre était l'occasion parfaite pour entendre leur voix matinale et a également permis d'en apprendre plus sur la routine matinale de chacun des membres. Mio est parvenue à réveiller 17 talents en l'espace de trois jours.",
+      "bbox": {
+        "x": 0.53,
+        "y": 0.6836,
+        "width": 0.4075,
+        "height": 0.2687
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/tu86yymspg091.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

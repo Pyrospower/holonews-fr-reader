@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Lamy a fait un voyage d'une journée avec Choco, Luna, et Ui-mama (l'illustratrice de Subaru). C'était la première fois que Lamy rencontrait Luna et Ui en personne. Les quatre sont allées dans un yakiniku (restaurant de viande japonais) et à Team Lab, une exposition d'arts immersifs. Alors qu'elles étaient dans la galerie des Glaces, Lamy a dit qu'elle pouvait voir les culottes de Choco et de Ui. Cette dernière a réagi normalement et s'est cachée, mais Choco n'a pas été gênée.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2739,
+        "width": 0.4169,
+        "height": 0.1571
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene est revenue le 5 décembre après une pause de près d'un mois. Lors de ses débuts en 3D à la maison, elle a parlé en détail de ce qu'elle avait fait pendant son absence.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.602,
+        "width": 0.4263,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene a parlé avec de nombreux membres d'hololive afin d'obtenir différents avis sur la façon de gérer son stress, son mental, et elle a mentionné que Polka l'avait beaucoup aidée à cet égard. Nene a également passé du temps avec sa famille et a visité Kaiyukan à Osaka, un aquarium célèbre pour ses phoques et ses requins.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.6801,
+        "width": 0.4269,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pleine d'excitation et d'énergie, elle a chanté 4 chansons pour les Nekkos (ses fans) et a montré ses nouveaux yeux en forme de cœur. Après avoir parlé avec son tchat, Nene a clôturé son stream avec son clip 3D de « Nenenenenenene Daibakushou ». Cependant, elle a chanté en même temps que la chanson et a remplacé les paroles par « senpai » au lieu de « Nene ».",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.8207,
+        "width": 0.4213,
+        "height": 0.1398
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La chance incroyable de Polka l'a accompagnée tout au long de cette semaine? Elle a réussi à attraper deux Pokémon chromatique en une seule partie, un Pachirisu rose et un Racaillou doré.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2765,
+        "width": 0.4081,
+        "height": 0.0738
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Plus tard, elle a montré les deux à Pekora, et lui a même échangé le Racaillou, avec la condition qu'elle n'utilise jamais l'attaque Destruction.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.3698,
+        "width": 0.4275,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Botan a marqué des points sur et en dehors du terrain dans Power Pro Kun Pocket R, un jeu de baseball avec des aspects de jeu de rôle.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.6042,
+        "width": 0.4231,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de sa première partie, elle a été recrutée comme pro en tant que sixième choix, mais elle a abandonné les finales pour être avec sa petite amie Asuka.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.6823,
+        "width": 0.3844,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de la seconde, elle a écrasé ses adversaires et a souvent gagné avec une avance de 20 points, tout se rapprochant de sa petite amie Satomi.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.7604,
+        "width": 0.4181,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron recherche vos moments préférés de Botan cette année !",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8377,
+        "width": 0.41,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vous pouvez soumettre un clip de 60 secondes de n'importe lequel de ses streams en citant ou en répondant au tweet. Il n'y a pas de limite au nombre de soumissions.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.885,
+        "width": 0.4181,
+        "height": 0.0738
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2ndrif7rjq581.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

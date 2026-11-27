@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS EN",
+      "bbox": {
+        "x": 0.3356,
+        "y": 0.0174,
+        "width": 0.33,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En tant que vétéran et fan de Faster Than Light, Vesper a passionnément expliqué tous les aspects du jeu a ses spectateurs. Vesper a facilement terminé une partie en mode normal sans perdre un seul membre de son équipage et en se faisant à peine touché par les vaisseaux ennemis. Les membres de son équipage ont été nommés d’après ses camarades de génération, Astel, Aruran, et quelques spectateurs.",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.25,
+        "width": 0.3881,
+        "height": 0.1302
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Altare nous a montré une nouvelle facette de lui dans la dernière interview que Vesper a faite avec lui. Quand on lui a demandé ce qui le mettait le plus en colère, en tant que gamer toxique réformé, il a eu un déclic et s'est plaint de Shaco dans League of Legends. Les spectateurs ont pu voir ses expressions et entendre son changement de ton de façon amusante.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.5582,
+        "width": 0.3838,
+        "height": 0.1176
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après cela, les spectateurs ont surnomme cette nouvelle facette de lui Maldtare.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.6927,
+        "width": 0.3506,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Axel a montré son côté pur dans le stream RAFT avec le reste de TEMPUS. Axel y a avoué qu'il avait récemment fait un cauchemar dans lequel Vesper disparaissait. Après s'être réveillé, il a immédiatement envoyé un message à Vesper pour s'assurer qu'il aille bien, mais a rapidement été soulagé puisque Vesper a répondu normalement. Axel est trop pur.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8238,
+        "width": 0.4006,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir posté des illustrations provisoires de sa mascotte sur Twitter, Magni a finalement dessiné Magmite, la mascotte de ses fans, lors de son dernier stream de dessin. Magmite était si mignon que peu après l'avoir dessiné, Magni a été tenté de l'écraser avec ses mains. Il a donc dessiné une grande main qui voulait écraser Magmite.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2982,
+        "width": 0.39,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais la beauté de Magmite l'a emporté !",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.4162,
+        "width": 0.3306,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ARE YA WINNING, SON?",
+      "bbox": {
+        "x": 0.64,
+        "y": 0.5764,
+        "width": 0.115,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vesper a décidé que la meilleure façon de montrer des memes en stream était de les dessiner lui-même sur Paint. Ainsi, avec Paint et une simple souris, il a commencé à dessiner les autres membres de TEMPUS sous forme de memes. En un stream, il a réussi à dessiner « Altare : Devenir incontrôlable » et « Dezmond est Mag ». Plus tard, il a également fait un stream imprévue pour compléter sa collection et a terminé I'Axel « La Poigne Australienne ».",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.7127,
+        "width": 0.3863,
+        "height": 0.1476
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En guise de remerciement, Altare a dessiné Vesper en tant que pére dans le meme « Are ya winning, son ? ». Les quatre membres de TEMPUS ont fait de ces dessins leurs photos de profiles sur Twitter, bien que Magni est changé avant la sortie de ce numéro.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.8741,
+        "width": 0.3769,
+        "height": 0.0799
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/gup31rsupok91.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

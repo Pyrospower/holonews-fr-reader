@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 20,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENT PALIERS À VENIR D’ABONNÉS",
+      "bbox": {
+        "x": 0.08,
+        "y": 0.0326,
+        "width": 0.8269,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 22 janvier : 3e concert solo de Sora « Role:Play »",
+      "bbox": {
+        "x": 0.0731,
+        "y": 0.1506,
+        "width": 0.395,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 24 Janvier : Anniversaire de Rushia",
+      "bbox": {
+        "x": 0.0731,
+        "y": 0.2027,
+        "width": 0.3969,
+        "height": 0.0126
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci!",
+      "bbox": {
+        "x": 0.3913,
+        "y": 0.6081,
+        "width": 0.2263,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester a jour sur tout ce qui se rapporte a hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un",
+      "bbox": {
+        "x": 0.0675,
+        "y": 0.6628,
+        "width": 0.8588,
+        "height": 0.1063
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "coup de main a la création d’HoloNews !",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.7704,
+        "width": 0.6663,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d'avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.3231,
+        "y": 0.8112,
+        "width": 0.36,
+        "height": 0.0525
+      }
+    },
+    {
+      "type": "other",
+      "text": "Et joyeux anniversaire à notre traducteur Pyrospower ! v",
+      "bbox": {
+        "x": 0.3094,
+        "y": 0.9557,
+        "width": 0.3331,
+        "height": 0.0339
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/sk6ss9h6i8e81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

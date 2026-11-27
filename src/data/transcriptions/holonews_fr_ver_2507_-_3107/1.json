@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Les 1 million de Polka « Le nouveau clip de Marine < Les 1 million de Sora",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.0117,
+        "width": 0.9494,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "heading",
+      "text": "- Rio anniversaire Marine",
+      "bbox": {
+        "x": 0.0231,
+        "y": 0.1901,
+        "width": 0.2525,
+        "height": 0.1823
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "et à un nouveau costume",
+      "bbox": {
+        "x": 0.0231,
+        "y": 0.4427,
+        "width": 0.1563,
+        "height": 0.0825
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chad cast Episode camping",
+      "bbox": {
+        "x": 0.0194,
+        "y": 0.5582,
+        "width": 0.1881,
+        "height": 0.158
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1coo2kg4fig91.png",
+    "gifFrame": null,
+    "confidence": 79
+  }
+}

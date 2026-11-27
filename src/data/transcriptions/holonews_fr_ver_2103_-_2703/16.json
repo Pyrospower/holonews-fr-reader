@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Divers",
+      "bbox": {
+        "x": 0.4369,
+        "y": 0.0169,
+        "width": 0.1263,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour améliorer leur travail d’équipe et leur communication pour le tournoi APEX VTuber Saikyou à venir, Towa, Suisei et Aqua se sont exercées sur Overcooked 2. Malgré une collab très chaotique, ces trois là sont parvenus à maintenir un score de trois étoiles sur chaque niveau. À la fin de la collab, en plaisantant, Aqua a proposé de nommer leur équipe les Ponkotsu Stars.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.2183,
+        "width": 0.3913,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei & Lamy",
+      "bbox": {
+        "x": 0.1981,
+        "y": 0.513,
+        "width": 0.2156,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei et Lamy ont fait la promotion du quatrième anniversaire d'Idolmaster Shiny Colors de Bandai Spirits. Elles ont montré les figurines que l'on peut obtenir dans le jeu, et ont également révélé que l'une des figurines est encore en cours de développement. Elles ont ensuite fait un chapitre de l'histoire et partagé quelques images du jeu. Vers la fin, elles ont parlé de l'exposition à Yodobashi-Akiba. Les deux se sont montré extrêmement similaire, jusqu'à un ou Suisei voulait même que Lamy l'appelle « grande sœur ».",
+      "bbox": {
+        "x": 0.0681,
+        "y": 0.546,
+        "width": 0.3825,
+        "height": 0.2027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les épisodes 4 et 5 de la série 2D hololive ERROR sont sortis le 24 et 26 mars, respectivement. Après la rencontre avec Misora Shino (Sora), le protagoniste retrouve Hanabi (Matsuri) et Inari (Fubuki) indemnes mais parlant bizarrement. Ils sont soudainement transportés dans le hall de l'école dans le passé, avec des étudiants aux yeux sombres qui les dévisagent depuis les salles de classe. Le protagoniste fait le serment de revenir dans le monde réel alors que Shino les supplie de la suivre. Le chapitre 5 se termine sur un flashback de juillet 19XX, où Shino était montré au bord d’une rivière tenant dans ses main un Lys blanc.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2183,
+        "width": 0.3919,
+        "height": 0.2079
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "hmmmmmmmmmmmmmm can I have 2 moms? @takanashikiara",
+      "bbox": {
+        "x": 0.5306,
+        "y": 0.4983,
+        "width": 0.3506,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy & Kiara",
+      "bbox": {
+        "x": 0.6581,
+        "y": 0.572,
+        "width": 0.2094,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A la suite des débuts de Kobo Kanaeru de HololD 3eme gen, l'instinct maternel de Lamy et Kiara c'est activé. Elles ont toute deux cherché à adopter Kobo comme leur fille, de la choyé, et ont voulu lui envoyer des cadeaux.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.6055,
+        "width": 0.3831,
+        "height": 0.0846
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/z98vbufnbjr81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

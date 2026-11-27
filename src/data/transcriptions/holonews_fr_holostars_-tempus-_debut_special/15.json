@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_holostars_-tempus-_debut_special",
+  "page": 15,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Programme de la première semaine !",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.043,
+        "width": 0.8825,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ART: SNOWMYA",
+      "bbox": {
+        "x": 0.3831,
+        "y": 0.1011,
+        "width": 0.1294,
+        "height": 0.0065
+      }
+    },
+    {
+      "type": "heading",
+      "text": "WEEKLY ‘5 SCHEDULE",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.1237,
+        "width": 0.2019,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "other",
+      "text": "A Way Out",
+      "bbox": {
+        "x": 0.4506,
+        "y": 0.4028,
+        "width": 0.0519,
+        "height": 0.0061
+      }
+    },
+    {
+      "type": "other",
+      "text": "p © Thief Simulator",
+      "bbox": {
+        "x": 0.4325,
+        "y": 0.428,
+        "width": 0.0981,
+        "height": 0.0061
+      }
+    },
+    {
+      "type": "other",
+      "text": "Spore",
+      "bbox": {
+        "x": 0.4544,
+        "y": 0.4523,
+        "width": 0.0288,
+        "height": 0.0052
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de [Jess Dezmond OFFLINE",
+      "bbox": {
+        "x": 0.0938,
+        "y": 0.4653,
+        "width": 0.4538,
+        "height": 0.0495
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pro gramme de Vesper",
+      "bbox": {
+        "x": 0.1156,
+        "y": 0.9106,
+        "width": 0.2063,
+        "height": 0.053
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme d’Altare",
+      "bbox": {
+        "x": 0.6831,
+        "y": 0.2439,
+        "width": 0.2056,
+        "height": 0.0486
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AS ABOVE",
+      "bbox": {
+        "x": 0.8244,
+        "y": 0.3546,
+        "width": 0.1344,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme d’Axel",
+      "bbox": {
+        "x": 0.6831,
+        "y": 0.6884,
+        "width": 0.2056,
+        "height": 0.0551
+      }
+    },
+    {
+      "type": "heading",
+      "text": "SCHEDULE Z| |—",
+      "bbox": {
+        "x": 0.7613,
+        "y": 0.7739,
+        "width": 0.2388,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "WEEK OF JULY 25",
+      "bbox": {
+        "x": 0.7938,
+        "y": 0.8086,
+        "width": 0.08,
+        "height": 0.0056
+      }
+    },
+    {
+      "type": "other",
+      "text": "MON|| TEMPUS GUIL",
+      "bbox": {
+        "x": 0.7138,
+        "y": 0.8346,
+        "width": 0.12,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "other",
+      "text": "'ORTS 4PMPST",
+      "bbox": {
+        "x": 0.8694,
+        "y": 0.8346,
+        "width": 0.0763,
+        "height": 0.0056
+      }
+    },
+    {
+      "type": "other",
+      "text": "TUE || WEST OF LOATHING",
+      "bbox": {
+        "x": 0.7175,
+        "y": 0.8533,
+        "width": 0.1438,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "other",
+      "text": "10 PM PST",
+      "bbox": {
+        "x": 0.9088,
+        "y": 0.8563,
+        "width": 0.0413,
+        "height": 0.0043
+      }
+    },
+    {
+      "type": "other",
+      "text": "WED || HUNT: SHOWDOWN",
+      "bbox": {
+        "x": 0.715,
+        "y": 0.875,
+        "width": 0.155,
+        "height": 0.0126
+      }
+    },
+    {
+      "type": "other",
+      "text": "9AMPST",
+      "bbox": {
+        "x": 0.9088,
+        "y": 0.8776,
+        "width": 0.0375,
+        "height": 0.0052
+      }
+    },
+    {
+      "type": "other",
+      "text": "THU WEST OF LOATHING 10 PM PST SAT spi = SUN || SCRAPPING AN OLDPC 10PMPST",
+      "bbox": {
+        "x": 0.7163,
+        "y": 0.8898,
+        "width": 0.2338,
+        "height": 0.0807
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0f6c7b90eje91.png",
+    "gifFrame": null,
+    "confidence": 72
+  }
+}

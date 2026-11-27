@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 15,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le 17 janvier, Mumei a sorti sa chanson originale « A New Start », une chanson qui raconte son histoire en tant que gardienne de la civilisation. Le clip peut être visionné sur YouTube et la chanson est également disponible sur Spotify, YouTube Music, Apple Music, Amazon Music, iTunes Store et Deezer.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2717,
+        "width": 0.4213,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans les deux streams qui ont suivi la sortie, elle a parlé du processus de création de la chanson et du lien avec elle-même ainsi que ses difficultés, ses craintes et ses ambitions, avant et depuis sont arrivée chez hololive. Elle a également exprimé ses remerciements pourceux qui ont aidé à la création de la chanson, notamment Calliope Mori, qui a écrit les paroles, et le public qui l'a soutenue à chaque étape.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.4162,
+        "width": 0.4269,
+        "height": 0.1758
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mumei, Haachama & ~~",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.7266,
+        "width": 0.425,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Alors qu'elles préparaient une collaboration sur Minecraft, Haachama, Bae et Mumei ont fait face un problème. Elles ont donc changé de jeu pour Mario Party et ont repoussé l’heure du stream. En attendant qu'il se télécharge, Mumei a remarqué qu'elles pouvaient à nouveau aller sur le multijoueur de Minecraft, ce qui les a poussées à changer de jeu à nouveau.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.7648,
+        "width": 0.3988,
+        "height": 0.1602
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Encouragée par ses speedruns précédents, Fauna a décidé d'essayer Jump King. Bien qu'elle y ait passé environ trois heures, elle n'a pratiquement pas progressé lors de sa première tentative. Elle a fait de son mieux pour se rassurer, elle s'est traitée de bébé et a dit qu'elle voulait une « conversation » avec les développeurs. Fauna a également dit qu'elle voulait passer le reste de la semaine sur Skyrim pour retrouver ses nerfs. Mais même malgré la douleur, Fauna n'a pas changé sa nature douce et a joué du kalimba en lisant des Super Chats.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2713,
+        "width": 0.425,
+        "height": 0.2183
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mumei, Haachama & ~~",
+      "bbox": {
+        "x": 0.5275,
+        "y": 0.628,
+        "width": 0.4156,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama, Baelz et Mumei ont exploré le serveur Minecraft EN pendant que Baelz essayait de maintenir l'ordre. Haachama a été accusée d'essayer de dominer le serveur et a commencé une « guerre » en tuant Mumei devant Bae. Mumei était très contente de mourir des mains d'Haachama.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.668,
+        "width": 0.4175,
+        "height": 0.1246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama les a ensuite emmenées dans sa base, qu'elle a mis trois mois à construire. Elle y a tenté de faire un autre suicide en groupe, mais Mumei et Bae ont été tellement impressionnés par l'architecture qu'elles ont décidé de devenir ses sujets. Elles ont finit par se suicidé, mais après avoir prié Godchama",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.8125,
+        "width": 0.4244,
+        "height": 0.128
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ww8qoof6x8f81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

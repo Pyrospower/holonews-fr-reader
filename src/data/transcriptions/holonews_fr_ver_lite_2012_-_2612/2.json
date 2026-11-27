@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 2,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HoloStars",
+      "bbox": {
+        "x": 0.0294,
+        "y": 0.0308,
+        "width": 0.2956,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 26 décembre, les membres d’holostars ont fait leur premier concert « holostars 1st ACT JOURNEY TO FIND STARS! Supported by Bushiroad » face a une salle de 2 021 spectateurs, et de nombreux spectateurs en ligne dans le monde entier.",
+      "bbox": {
+        "x": 0.0269,
+        "y": 0.0885,
+        "width": 0.4444,
+        "height": 0.1011
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "C'était un concert de 2 heures avec 9 passages en solo, 5 en sous-unités et 3 en groupe. Oga et Shien ont même révélé leurs chansons originales pour l'événement. Le concert était en tendances Twitter dans au moins 9 pays.",
+      "bbox": {
+        "x": 0.0269,
+        "y": 0.207,
+        "width": 0.4381,
+        "height": 0.1007
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À la fin, ils ont annoncé qu’un blu-ray du concert était en production, et qu’holostars aura deux collaborations avec ARGONAVIS et CONVERSE. Ils ont aussi sous-entendu qu'il y aurait de nouveaux membres, et plus encore, montrant le début d'un nouveau chapitre de leur voyage à la recherche de stars.",
+      "bbox": {
+        "x": 0.0269,
+        "y": 0.3234,
+        "width": 0.4431,
+        "height": 0.1367
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les tickets pour la rediffusion sont encore disponibles sur SPWN et cette dernière pourra être visionnée jusqu’au 27 janvier 2022.",
+      "bbox": {
+        "x": 0.0275,
+        "y": 0.4779,
+        "width": 0.4313,
+        "height": 0.0638
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/9axzq35zeab81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

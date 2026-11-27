@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLONEWS",
+      "bbox": {
+        "x": 0.0356,
+        "y": 0.013,
+        "width": 0.9331,
+        "height": 0.1793
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a fête son,",
+      "bbox": {
+        "x": 0.02,
+        "y": 0.3377,
+        "width": 0.1513,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a fêté son 4e anniversaire",
+      "bbox": {
+        "x": 0.7925,
+        "y": 0.273,
+        "width": 0.1875,
+        "height": 0.0447
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "_— révélé sa",
+      "bbox": {
+        "x": 0.7513,
+        "y": 0.4019,
+        "width": 0.2281,
+        "height": 0.0412
+      }
+    },
+    {
+      "type": "other",
+      "text": ": org anise par",
+      "bbox": {
+        "x": 0.7575,
+        "y": 0.6766,
+        "width": 0.2231,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "other",
+      "text": "saken",
+      "bbox": {
+        "x": 0.6044,
+        "y": 0.6992,
+        "width": 0.375,
+        "height": 0.0156
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cgmzilkiaqn91.png",
+    "gifFrame": null,
+    "confidence": 74
+  }
+}

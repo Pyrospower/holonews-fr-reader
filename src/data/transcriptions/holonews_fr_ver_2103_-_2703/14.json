@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Reine a célébré avec une fête dans son stream habituel de déjeuner du samedi, montrant le travail de compétition pour sa chanson « Ano Aozora No Sei Da ». Elle à inclus plus d’une vingtaine de participations, y compris la participation de la VTuber indépendante Moon Jelly et un mix réalisé par Redshift, un mixeur régulier de musiques d’hololD. Regardez chaque participations grace au hashtag #AANSD_Showcase ! —",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.2174,
+        "width": 0.3875,
+        "height": 0.1615
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mumei a dessiné une Haachama version tarentule, une Pekora en Big Chungus ainsi qu’une ébauche d’une Matsuri musclée dans un stream d'art. Elle compte en faire une série hebdomadaire ou elle dessine plusieurs interprétations des membres d’hololive. Haachama a exprimé son amour pour le dessin que Mumei a fait",
+      "bbox": {
+        "x": 0.0681,
+        "y": 0.747,
+        "width": 0.3875,
+        "height": 0.1189
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "d'elle.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.865,
+        "width": 0.0506,
+        "height": 0.0109
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après 17 épisodes et onze mois, Anya a enfin fini son playthrough de Death Stranding après plus de 66 heures de stream. Douze de ces heures furent dans ses deux derniers streams, l’un juste avant holoFes et le dernier le jour suivant.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.214,
+        "width": 0.3875,
+        "height": 0.0894
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mumei a atteint les 600k abonnés juste avant son stream intitulé « karaoke d'endurance jusqu’à 600k » planifié soit en direct, Mumei a célébré cet objectif déjà atteint en chantant sa chanson original, « A New Start », 25 fois de suite en 100 minutes dans une multitude de genres. Elle a fini son stream avec 602k abonnés.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.747,
+        "width": 0.3913,
+        "height": 0.1141
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/glejulfnbjr81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

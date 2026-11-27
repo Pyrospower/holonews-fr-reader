@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pekora s’est sentie seule en jouant à Monster Hunter, alors elle a appelé n'importe quel membre d’hololive pour la rejoindre dans sa chasse aux monstres. Koyori, Watame, Polka et Flare ont répondu à son appel. Puisque Monster Hunter Rise n’est jouable qu’à quatre, trois d’entre elles ont joué avec Pekora tandis que l'autre commentait sur les événements du jeu. Après chaque chasse, l’une des trois qui jouait prenait la place de celle qui commentait. Lors des chasses, les invitées ont taquiné Pekora de toutes les manières possibles, avec Pekora qui se lamentait en plaisantant, « Je suis contente que vous soyez venues pour jouer ensemble, mais ce harcèlement m'inquiète vraiment, haha. »",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.2378,
+        "width": 0.3881,
+        "height": 0.2148
+      }
+    },
+    {
+      "type": "heading",
+      "text": "- HE TOI! Cette espace aurait pu étre pour un article.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.6263,
+        "width": 0.3588,
+        "height": 0.1228
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Toute aide apportée a I'écriture d’articles chaque semaine (peu importe la taille) est d’une grande aide.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.7626,
+        "width": 0.3569,
+        "height": 0.082
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Vous pouvez vous renseigner davantage en rejoignant notre Discord.@",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8585,
+        "width": 0.3425,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour fêter la sortie Blu-ray de son premier live solo, Watame Night Fever!!, Watame a sorti un teaser. Avec des extraits de ses interprétations de certaines de ses musiques hits, dont « mayday,mayday », « Holidays! », « Cloudy Sheep » et plus encore. Le Blu-ray est disponible sur plusieurs boutiques en ligne.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2331,
+        "width": 0.39,
+        "height": 0.0937
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/q1yelp635kb91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 15,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOMYTH",
+      "bbox": {
+        "x": 0.0925,
+        "y": 0.089,
+        "width": 0.3456,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 11 janvier, IRyS a fait un stream pour célébrer son anniversaire des 6 mois.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.3021,
+        "width": 0.3975,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans ce stream, elle a principalement chanté avant de faire une annonce, avec quelques discussions disséminées dans le stream. IRyS a mentionné qu'elle avait plusieurs vidéos d'« éternuements d’holoEN » ouvertes, elle a demandé au tchat leurs moment préféré d'IRyS, et a perturbé le tchat en disant qu’elle buvait du « jus de légumes aromatisé à l'ananas ». Toutes ces discussions ont eu lieu entre ses chansons.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3438,
+        "width": 0.4219,
+        "height": 0.1723
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après son karaoké, IRyS a annoncé ses nouveaux produits dérivés, dont un porte-clé en vitrail, ainsi que son second album, Journey, disponible en CD, en vinyle et même en cassette.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5265,
+        "width": 0.4106,
+        "height": 0.0764
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina est retournée sur Minecraft pour réparer l’arbre de sa maison, précédemment brûlé à cause d’un éclair. Malgré qu’Ame ait éteint le feu au bon moment pour sauver la maison, l’arbre au-dessus était totalement brulé. Ina a vu ça comme une opportunité pour reconstruire la partie supérieure de sa maison en un immense Takodachi de verre avec un cerisier à l’intérieur.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.7899,
+        "width": 0.4175,
+        "height": 0.1567
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "bidny worl !",
+      "bbox": {
+        "x": 0.7644,
+        "y": 0.1302,
+        "width": 0.15,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gura est devenu un guide pour Ina, Kiara et Mumei dans leur stream sur Minecraft Disney World. Elle a partagé sa passion et sa connaissance sur l’histoire de Disney World, a donné aux filles des détails plus ou moins utiles, et les a guidées à travers la carte. Vous pouvez regarder le point de vue de Kiara ou de Gura si vous voulez en apprendre plus sur Disney World et vous amusez avec holoEN.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3016,
+        "width": 0.4181,
+        "height": 0.1519
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli a pris le thé avec Sana et Fauna, et elles ont parlé de tout ce qu’elles voulaient. Fauna a mentionné la récente vidéo ASMR de Calli, encensant sa voix et l'ambiance. Sana a ajouté que Calli pouvait « faire tout ce qu'elle voulait faire », ce à quoi Calli a répondu qu’elle n'avait pas une « voix pour l’'ASMR » et qu’elle « préfère devenir un “hypnotiseur du sommeil” ». Elle a timidement accepté les compliments, puis les trois se sont remis à débattre pour savoir si le mac-n-cheese est un thé.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.7439,
+        "width": 0.4263,
+        "height": 0.1888
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2udkcmh6i8e81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

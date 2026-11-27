@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Nene est de retour suite à une pause due au Covid. Elle nous a informé des événements ayant eu lieu avant l'apparition de ses_ symptômes. Lors d’un voyage en famille à la montagne et à la mer, ellé s’est amusée en faisant de la plongée avec masque et tuba et en observant des insectes. Elle a expliqué qu’elle est tombée sérieusement malade après le séjour et a dû se rendre à l'hôpital. Après s'être rétablie, sa famille a commencé à développer des symptômes similaires. Tout n'est cependant pas négatif puisque l'altération de son goût lui a permis de manger des légumes. Bon retour parmi nous Nenechi.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.2183,
+        "width": 0.3894,
+        "height": 0.1589
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy a publié 24 stickers LINE dessinés par Muuran-sensei.",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.5534,
+        "width": 0.3694,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le festival d'été d'hololive sur Minecraft approche et l’organisatrice en chef Botan a déjà commencé les travaux. Le terrain autour du labyrinthe en verre de Flare a été aplani et est prêt pour accueillir des constructions. Bien sûr, il ne s'agirait pas d’un stream Minecraft de Shishiron sans un élément clé : la pluie.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.8763,
+        "width": 0.3863,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Confessez vos péchés et vous serez pardonnés ! Dans le dernier épisode de La Légende de Polka, notre prêtresse a récolté les confessions du côté obscur de Twitter et les a purifiés de leurs méfaits. De nombreux témoignages ont été lus (certains drôles, d'autres plus sérieux). Polka a même avoué que dernièrement, une majeure partie de ses dépenses sont liées à des jeux gacha.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.2183,
+        "width": 0.375,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka a fait la narration d’une vidéo promotionnelle pour la sortie du tome 12 de Kusariya no Hitorigoto (Les Carnets de l’'apothicaire). Plus de dix-huit millions de copies de cette série de light novel à succès ont été écoulées.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.526,
+        "width": 0.3663,
+        "height": 0.0751
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.6388,
+        "y": 0.7517,
+        "width": 0.0906,
+        "height": 0.0156
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron a décidé de jouer a Left 4 Dead 2 sur un coup de téte. Elle voulait initialement inviter d’autres holomems, mais personne n’était disponible, les spectateurs ont donc pu rejoindre la partie. Elle a essayé le mode de jeu The Last Stand avec le but de finir le niveau en moins de treize minutes. Sa première tentative ayant duré vingt-et-une minutes, Botan a principalement récolté des informations sur la disposition du niveau. Son deuxième essai s'est terminé en quinze minutes, soit seulement deux minutes de plus que son objectif.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.7895,
+        "width": 0.3806,
+        "height": 0.1745
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4x4jwu56lwh91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_3005_-_0506",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 6",
+      "bbox": {
+        "x": 0.445,
+        "y": 0.0182,
+        "width": 0.1125,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir répondu à quelques Marshmallow envoyés par ses spectateurs, Iroha a annoncé gu’holoX va avoir leurs modèles 3D ! Elle sera la première a révélé son modèle le 9 juin.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.2192,
+        "width": 0.3856,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ayame a soudainement annoncé un stream a I'improviste sur Twitter et a joué à VALORANT ainsi que d'autres jeux. Il y avait un joueur nommé « shishiroBotan » mais ce joueur n’arrivait pas à la cheville de la vraie Botan, faisant rire les spectateurs.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.4753,
+        "width": 0.3881,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Juste après, elle est apparue dans le stream de soirée de Lui, et était la première invitée de ce format. C’est un stream où habituellement, Lui répond aux questions de ses fans qui lui ont été posées via Marshmallow, mais cette fois-ci elle était accompagnée de Ayame. Plusieurs questions portaient sur la rencontre IRL après qu’elles aient parlé du temps qu’elles passaient ensemble. A la fin du stream, Ayame a fait la promotion d’un live qui sera diffusé le 5 Juin dans lequel elle fera une apparition en tant que /rohanihohetto Ayafubumi.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.566,
+        "width": 0.3844,
+        "height": 0.1745
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La+ a de nouveau fait un trou dans la trésorerie d’holoX. Elle a acheté un Neumann KU 100, une micro stéréo binaural premium, qui peut coûter jusqu’à 7 000€ ! On espère avoir un ASMR de qualité.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2192,
+        "width": 0.3781,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori et Kiara (aussi connu sous le nom de KoaraConnect) se sont affrontées sur 51 Worldwide Games. Elles ont joué au Mancala, aux Petits carrés et au Yam's, et Koyori gagnait sur tous les jeux. Après ça, elle et Kiara ont diffusé en Première leur reprise de « Newton Dance ».",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.4792,
+        "width": 0.3831,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant qu'elle faisait la quête du médaillon de Rold pour le Grand Ascendeur sur Elden Ring, l’un des spectateurs de Chloe lui à dit de sauter dans le vide, en disant que c'était « le chemin à suivre pour sa quête ». Elle ne l'a pas cru au début, mais après réflexion, elle a décidé de le faire. Elle est évidemment morte, et a frappé son bureau, folle de rage en vers ses spectateurs. Quelle orque mignonne !",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.7522,
+        "width": 0.3856,
+        "height": 0.1207
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/i25rzagvbt591.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

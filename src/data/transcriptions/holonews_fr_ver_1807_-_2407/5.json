@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "i ive tsuiro Matsuri pirthday Liv PÉOTARTF",
+      "bbox": {
+        "x": 0.3406,
+        "y": 0.0397,
+        "width": 0.435,
+        "height": 0.064
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuri a fêté son anniversaire le 22 juillet avec un stream où elle recevait des appels de personnes en live, ainsi qu'un concert en 3D, Re:START !",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.1979,
+        "width": 0.8422,
+        "height": 0.0289
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sans plus tarder, elle a commencé son show en 3D avec « Darling Dance » et « Aishite Aishite ». Après ça, elle a montré une mascotte de Risu (un écureuil), l'a posé sur sa tête et a continué le concert avec « Niccori™Survey Team » avec Suisei, Nene et Flare, suivi de « À | U E Onigiri » avec",
+      "bbox": {
+        "x": 0.0783,
+        "y": 0.2365,
+        "width": 0.3967,
+        "height": 0.1073
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Noel.",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.3461,
+        "width": 0.0439,
+        "height": 0.0104
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko, Watame, Akirose, et DJ Polka ont aussi fait leurs apparitions. Comme invité surprise, durant « Fansa », Matsuri a revêti sa nouvelle tenue 3D ! Sa tenue inclut des bottes noires lui arrivant aux genoux, une jupe en diagonale, une nouvelle coiffure et un serre-tête avec des oreilles de chat !",
+      "bbox": {
+        "x": 0.5239,
+        "y": 0.4309,
+        "width": 0.3778,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuri a aussi chanté sa troisième chanson originale, « Never Give Up Natsuiro Story! », puis elle a révélé ses produits dérivés :",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.5475,
+        "width": 0.3917,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un tapis de souris de 500mm de largeur, avec une illustration faite par Minamura Haruki.",
+      "bbox": {
+        "x": 0.5422,
+        "y": 0.6103,
+        "width": 0.3756,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une serviette de toilette avec le logo de Re:START, dessiné par Hiiragiryou",
+      "bbox": {
+        "x": 0.5422,
+        "y": 0.657,
+        "width": 0.3644,
+        "height": 0.0293
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un porte clé",
+      "bbox": {
+        "x": 0.5422,
+        "y": 0.6883,
+        "width": 0.1239,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le pack complet inclut, en bonus, une illustration en A4, par Haruki, avec un duplicat autographié.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.7041,
+        "width": 0.3333,
+        "height": 0.0448
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'édition limitée, qui a été vendue, contenait lui la même illustration avec un autographe fait à la main par Matsuri.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.7662,
+        "width": 0.3856,
+        "height": 0.0451
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ac2sk9no0qf91.gif",
+    "gifFrame": 89,
+    "confidence": 91
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_holostars_-tempus-_debut_special",
+  "page": 14,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Présentation des papâs et mama",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.0525,
+        "width": 0.8517,
+        "height": 0.034
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "@kurahanastaff",
+      "bbox": {
+        "x": 0.15,
+        "y": 0.1574,
+        "width": 0.1461,
+        "height": 0.0166
+      }
+    },
+    {
+      "type": "heading",
+      "text": "# YH Ginka",
+      "bbox": {
+        "x": 0.1472,
+        "y": 0.4117,
+        "width": 0.2272,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "@hasendow",
+      "bbox": {
+        "x": 0.6217,
+        "y": 0.1593,
+        "width": 0.1144,
+        "height": 0.0123
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "@shidokenai",
+      "bbox": {
+        "x": 0.6217,
+        "y": 0.4444,
+        "width": 0.1183,
+        "height": 0.012
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ipc9kf90eje91.gif",
+    "gifFrame": 30,
+    "confidence": 65
+  }
+}

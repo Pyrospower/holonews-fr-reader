@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.1619,
+        "y": 0.1398,
+        "width": 0.115,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le 3e épisode de la série de Kuku et Izumi intitulé « V's Night Gathering », Astel Leda était invité. lls ont parlé de ses passe-temps et de ses points forts comme le fait d'être le meilleur pour dépenser de l'argent, Disney, de mode et d'APEX.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.181,
+        "width": 0.4113,
+        "height": 0.0929
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a expliqué qu'il ne peut vraiment pas économiser de l'argent, car il ressent de la satisfaction lorsqu'il dépense son argent durement gagné, et se sent vide si son compte bancaire reste inutilisé. En plus de parler de Disney, il a prouvé à quel point il est à la mode en présentant 3 types de vêtements automne/hiver qu'il a dessinés. Le stream s'est terminé par un questionnaire sur APEX où Izumi et Kuku ont imité des sons d'armes à feu et il a dû deviner de quelle arme il s'agissait.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.2904,
+        "width": 0.4244,
+        "height": 0.1871
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a finalement annoncé ses débuts en 3D pour le 7 décembre, date de son second anniversaire !",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.6571,
+        "width": 0.4138,
+        "height": 0.0443
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il l’a annoncé depuis des mois, et après ça, tous les membres d’holostars auront leur modèle 3D. N'oubliez pas de regarder ses débuts !",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7214,
+        "width": 0.425,
+        "height": 0.0603
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka avait demandé à ses fans de lui envoyer des photos de leurs étagères à produits dérivés, et il les a finalement regardées lors du stream du 4 décembre.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.829,
+        "width": 0.4069,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Beaucoup d’étagères étaient remplies de produits dérivés de Rikka et d'autres membres d'holoStars, et certaines installations étaient intéressantes.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.9093,
+        "width": 0.4038,
+        "height": 0.0603
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran et Roberu ont fait un combat dans Pokémon DEPS. Pour le premier match, ils ont utilisé l’équipe avec laquelle ils ont battu la Ligue. Roberu a gagné grâce aux deux activations de la Vive Griffe de Pinkman, son Tritosor, qui ont permis d’éliminer le Drascore et l'Etouraptor d’Aruran.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.1814,
+        "width": 0.4163,
+        "height": 0.0933
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après ça, ils ont changé de format. Ils avaient 10 minutes chacun pour attraper des Pokémon dans les sous-sols de Sinnoh et ne pouvaient utiliser que les Pokémon capturés pour combattre.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.2925,
+        "width": 0.4188,
+        "height": 0.0551
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le dernier match, Aruran semblait avoir un avantage, puisqu'il avait une équipe complète avec un Carmache, contre l'équipe de quatre Pokémon de Roberu. Cependant, le Pachirisu de Roberu a éliminé les 4 derniers Pokémon d’Aruran, lui assurant la victoire. Cette victoire est un exploit à la hauteur de sa réputation de gagnant.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.3624,
+        "width": 0.4169,
+        "height": 0.1102
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Temma a finalement réussi à ramener Miyabi pour une collaboration qui lui permettrait de créer la partie du jeu dédié à Miyabi pour son jeu de drague holoStars.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.6571,
+        "width": 0.4,
+        "height": 0.0569
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Etonnamment, Temma pense que Miyabi est « facile » en se basant sur la description du stream. Ils ont fait du personnage de Miyabi un “senpai démoniaque\" du club de jardinage de l'école.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7292,
+        "width": 0.4138,
+        "height": 0.0677
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xnsxdb7rjq581.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

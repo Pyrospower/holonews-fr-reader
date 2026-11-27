@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 12,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.0769,
+        "y": 0.0538,
+        "width": 0.385,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Plusieurs affiches publicitaires ont été disposées à divers endroits pour promouvoir le 1er concert d’holostars qui se tiendra hors ligne au J:Com Hall Hachioji et en ligne sur SPWN le 26 décembre 2021. Les grandes affiches sont également placées dans les gares de Shibuya, Nagoya et Hankyu Umeda. Quant aux petites affiches, elles sont situées dans 29 gares de la ligne JR Yamanote, à l'exception de la ligne Takanawa Gateway. Les affiches seront présentes du 20 au 26 décembre.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.27,
+        "width": 0.4225,
+        "height": 0.1871
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLORO",
+      "bbox": {
+        "x": 0.1219,
+        "y": 0.4839,
+        "width": 0.2831,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a réalisé un cadre de photo de profil en commémoration du concert « Journey to Find Stars » d'holostars, et veut que nous l'utilisions pour soutenir les garçons !",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.8997,
+        "width": 0.415,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour Noël, Astel a surpris tout le monde avec son cadeau en 3D depuis son domicile ! ll nous a offert un karaoké de Noël tout en mettant en valeur les variantes et les expressions de son modèle 3D.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2708,
+        "width": 0.4206,
+        "height": 0.0994
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Reine est revenue sur Minecraft après trois semaines d'inactivité le soir de Noël. Elle a exploré le bunker de Kronii et a lu trois fanfics impliquant Gura, Mumei et Kronii.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.6979,
+        "width": 0.41,
+        "height": 0.0825
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle les a améliorées en ajoutant du contenu et des détails qui ont pimenté les interactions. Elle a également ajouté quelques décorations dans le bunker pour coller à l'ambiance et au contenu de ce qu'elle venait d’écrire. À la fin du stream, Reine a mentionné que la semaine prochaine, elle ne sera pas présente et fera moins de stream.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8021,
+        "width": 0.42,
+        "height": 0.1554
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lm24g45zeab81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

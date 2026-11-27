@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOFORCE",
+      "bbox": {
+        "x": 0.0906,
+        "y": 0.0291,
+        "width": 0.3481,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors d’un stream Pokémon Diamant Étincelant, l’un des Pokémon de Kanata a attrapé le Pokérus, qui s'est ensuite répandu dans le reste de son équipe. Les chances d’un tel évènement sont d'1 sur 21 845. Sa chance ne s’est pas arrêtée là : elle a rencontré un Maraiste chromatique dans le Parc Safari ! Malheureusement, il s’est enfui après s'être échappé des nombreuses Pokéballs lancées par Kanata.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2413,
+        "width": 0.4238,
+        "height": 0.1554
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mio a lu l'avenir de Kanata dans des cartes de Tarot en stream. Mio lui a donné des conseils pour affronter l'année 2022, qui promet d'être mouvementée pour notre Tenshi. Sans surprise, la carte la plus tirée pour Kanata a été celle de la « Force ».",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.4214,
+        "width": 0.4144,
+        "height": 0.1172
+      }
+    },
+    {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.0238,
+        "y": 0.5573,
+        "width": 0.3956,
+        "height": 0.0508
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron a révélé son modèle 3D à domicile, rejoignant le reste du NePoLaBo. Vétue de sa tenue originelle, dont elle peut retirer le manteau, la lionne a passé en revue ses nombreuses adorables expressions avant de faire le tour de son modèle. Pour les fêtes, Botan était également équipée d’un second costume de Mère Noël, avec pour accessoires une tête de bonhomme de neige, un serre-tête à bois de cerf et un bonnet de Noël. Mais ce n’est pas tout ! Comme cadeau de Noël en avance, Botan a également ajouté un SSRB (disponible en chacune des trois couleurs) à son modèle 2D. Ses fans siègent maintenant avec joie sur sa tête.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7791,
+        "width": 0.4256,
+        "height": 0.194
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant son stream Overwatch matinal, J Towa a frappé son bureau après s'être [ faite tuer, renversant son thé qui s’est » répandu sur tout son équipement. Bien § qu’elle en ait ri sur l'instant, elle s'est plus tard rendu compte que les dommages",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.227,
+        "width": 0.4544,
+        "height": 0.1337
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "n'étaient peut-être pas si bénins qu’elle pensait.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.3407,
+        "width": 0.395,
+        "height": 0.0321
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ve Suite au succès du précédent, Tow: organise un nouveau tournoi Mario Kart rassemblant un total de 44 membres répartis sur toutes les générations d’hololive. Il est planifié pour le 7 janvier.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.4253,
+        "width": 0.4231,
+        "height": 0.0959
+      }
+    },
+    {
+      "type": "heading",
+      "text": "J I Lamy s'est jointe à ses aînées, Kanata et z J",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.7244,
+        "width": 0.4506,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu, pour se préparer au tournoi Mario",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.7947,
+        "width": 0.3931,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kart qui approche. Le trio a formé le groupe KAOKAYUI, qui veut aussi dire « visage qui démange ». La course mise a part, Kanata et Okayu ont essayé d'apprendre à Lamy D) comment faire une voix de beau garçon. hy",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.8103,
+        "width": 0.4506,
+        "height": 0.0777
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Malheureusement pour Lamy, son personnage surnommé Lamio avai d'Orochimaru.",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.8889,
+        "width": 0.3281,
+        "height": 0.0425
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8qzv4gr7op881.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dans un stream récent de Pokémon Diamant Etincelant, Fubuki a capturé un autre Magicarpe chromatique pendant qu'elle cherchait un Barpau chromatique.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2982,
+        "width": 0.4163,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Précédemment, Fubuki avait capturé un Magicarpe chromatique après presque un mois à essayer de le pêcher lors de sa « shasse ».",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.372,
+        "width": 0.3831,
+        "height": 0.0556
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki va continuer à chercher un Barpau chromatique dans sa tentative de capturer chaque Pokémon sous sa forme chromatique.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.4457,
+        "width": 0.4219,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama et Matsuri ont organisé un stream ensemble en personne pour se réconcilier. La chance inouïe d’'Haachama a surpris les spectateurs lorsqu'elle a obtenu 2 Yams et prédit le Yams de Matsuri dans la même partie sur 51 Worldwide Games. Après en avoir fini avec ce jeu, elles ont mangé une tarentule spéciale qu'Haachama avait préparée pour renforcer les liens entre elles. Matsuri a mangé une des pattes avec elle à contrecœur, puis elles ont ensuite mangé une pizza.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.6736,
+        "width": 0.4238,
+        "height": 0.1866
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "@akirosenthe",
+      "bbox": {
+        "x": 0.5644,
+        "y": 0.1571,
+        "width": 0.0638,
+        "height": 0.0061
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 6 janvier, Aki Rosenthal a annoncé sur Twitter qu'elle prendrait une pause de deux semaines à partir du 8 janvier pour subir un traitement chirurgical sur ses cordes vocales. Ses fans ont répondu en lui souhaitant un bon rétablissement.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2982,
+        "width": 0.4275,
+        "height": 0.0924
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a déjà renversé de la soupe de porc sur son clavier et le boîtier de son PC, qu'elle avait achetés en remplacement des précédents il y a seulement quelques jours. Pour remuer le couteau dans la plaie, elle ne peut pas installer le nouveau clavier Bluetooth qu’elle a acheté pour remplacer son clavier de rechange sans clavier. Heureusement, on lui a ensuite parlé de la fonction de clavier visuel.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.5781,
+        "width": 0.4256,
+        "height": 0.1771
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama nous a montré le fonctionnement interne de son esprit lors du stream dans lequel elle a enregistré un tas de babillements incohérents, pour ensuite les mixer et monter le clip en direct.",
+      "bbox": {
+        "x": 0.5263,
+        "y": 0.7756,
+        "width": 0.3975,
+        "height": 0.1033
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/i347xy5kevc81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

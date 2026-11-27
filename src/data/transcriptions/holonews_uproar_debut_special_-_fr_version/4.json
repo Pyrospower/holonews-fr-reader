@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 4,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Un voleur fantôme aimant les belles choses. On dit qu'il y a des trésors qui ne sont ouverts qu'aux idoles, donc il est devenu une idole pour accéder à ces trésors.",
+      "bbox": {
+        "x": 0.03,
+        "y": 0.1883,
+        "width": 0.6244,
+        "height": 0.1096
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/18fvcg56wis81.gif",
+    "gifFrame": 58,
+    "confidence": 85
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Apres les recommandations de Calli et Astel, Ollie a commencé a jouer a Jump King. Elle a vite progressé au début, traversant a toute vitesse les bois de Redcrown et trouvant au passage un chapeau caché. Apres avoir beaucoup chuté en dégustant de I'herbe, Ollie a décidé de chanter quelques chansons de karaoké en sautant, notamment « Odo », « Envy Baby » et « Rabuka ». Elle a également discuté en vocal avec de nombreux amis tels que Calli, LAM-sensei, Astel, Anya, Mel et Zen Gunawan. Le plus haut qu'elle ait atteint est « False King's Keep », mais elle a terminé le stream dans « Colossal Drain » après être restée bloquée au premier niveau pendant un long moment. Elle a pour objectif d'atteindre plus d'étapes durant les prochains streams.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2457,
+        "width": 0.4275,
+        "height": 0.2622
+      }
+    },
+    {
+      "type": "heading",
+      "text": "& Astel",
+      "bbox": {
+        "x": 0.3394,
+        "y": 0.7092,
+        "width": 0.1344,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lofi, Anya et Ollie ont amené Astel avec eux pour jouer à Phasmophobia. lls se sont réunis tous les 4 et ont joué 4 manches ensemble. Qu'il s'agisse de la peur de la porte de la salle d'attente, du breakdance d'Astel ou de la discussion d'Anya sur les poitrines, leurs parties ont été marquées par des rires, des cris et quelques difficultés techniques. N'hésitez pas à regarder leurs archives pour être témoin des manigances de ces quatre-là dans Phasmophobia.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.7496,
+        "width": 0.4194,
+        "height": 0.171
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 15 janvier, Risu sortira sa premiere chanson originale ! Elle sera produite par Feryquitous.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2461,
+        "width": 0.4038,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lofi a dessiné de nouvelles coiffures pour ses compagnons de génération. Pour sa femme Moona, lofi a choisi des cheveux longs avec une légère boucle à l'extrémité, ornés de mèches en forme d'étoile. Le design général était très semblable au sien. Risu a reçu deux queues de cheval tressées sur le dessus, qui est un style élégant et adapté à sa tenue.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4779,
+        "width": 0.4175,
+        "height": 0.1176
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour fêter le cap des 500 000 abonnés, atteint juste avant la fin de l'année 2021, lofi a organisé un « ASMR compter les grains de riz » inhabituel ou... elle a compté des grains de riz, tout comme de nombreux spectateurs depuis chez eux. Le lendemain, elle a organisé un karaoké très apprécié de 2 heures et demie, au cours duquel elle a chanté 20 chansons (plus si l'on compte aussi les nombreux a cappella).",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.6159,
+        "width": 0.4244,
+        "height": 0.1853
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.8394,
+        "width": 0.1531,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moona a interrompu sa pause de 10 jours pour un Pagi-Moona (Matinale) mais le stream a naturellement laissé place a un stream Minecraft imprévue ou, une fois de plus, Moona a commencé a travailler sur sa nouvelle maison dans le serveur ID.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.8806,
+        "width": 0.415,
+        "height": 0.092
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/tel1c36kevc81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

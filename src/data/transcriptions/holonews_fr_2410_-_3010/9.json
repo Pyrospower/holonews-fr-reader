@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.1406,
+        "y": 0.1506,
+        "width": 0.1356,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru est partie dormir chez Mio lorsque cette dernière était en train de stream les préparations pour la Journée du Sport avec Kanata, Noel et Miko. La cane était temporairement en train de déménager à ce moment-là et n'avait pas d'endroit où rester. Shuba a révélé qu'elle voulait demander à tout le monde en leur envoyant un message sur le Discord à la base. Mais elle pensait que c'était plutôt intrusif et a plutôt demandé à Noel, Kanata et Mio (mais pas Miko à cause de son emploi du temps chargé) avant de finalement choisir de rester avec Miosha. Noel, une grande fan de Subaru, agissait de manière jalouse pour plaisanter au fait de ne pas avoir eu l'opportunité d’être avec Subaru. Le stream s’est fini avec Shuba en train de chatouiller Mio-mama.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.1905,
+        "width": 0.4463,
+        "height": 0.1918
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora pense que son équipe à ses chances de gagner le festival sportif sur Minecraft à venir (le 6 novembre). Surtout parce que Amelia, Moona et Kiara sont toutes dans son équipe, elle a confiance en la capacité de tous.",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.4761,
+        "width": 0.4456,
+        "height": 0.0647
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata a raconté la fois où Chloe, Koyori et elle ont commencé à se peloter les une les autres lors d’un enregistrement parce qu'elles étaient fatiguées. Chloe a imité cela en saluant Kanata de la même manière, cette dernière a rendu la donne au vestiaire.",
+      "bbox": {
+        "x": 0.0406,
+        "y": 0.74,
+        "width": 0.4456,
+        "height": 0.0621
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sakamata a plus tard riposté en tripotant la poitrine de Kanata une fois de plus mais cette fois-ci aux côtés de Koyori, cette dernière ayant commenté qu'elle n'arrivait pas a trouver pas la poitrine de Kanata. Pendant ce temps, Lui les ignorait en passant du temps sur son smartphone. Selon Kanata, les membres d’holoJP agissent souvent comme ça.",
+      "bbox": {
+        "x": 0.0406,
+        "y": 0.8051,
+        "width": 0.4456,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après tant d'attente, Pekora et Marine ont enfin pu se voir pour faire une collab ! Dû à un malentendu de la part de leur manager, Marine a cru que Pekora comptait rester chez elle et a alors tout nettoyé dans sa maison, avec un plan pour piéger Pekora pour qu’elle ne puisse pas s'enfuir. Malheureusement, Pekora s’en est rendu compte et était encore plus déterminée à s'enfuir après la collab. Cette collab était divisée en deux parties, la première sur la chaîne de Pekora où les deux ont joué ensemble, avec notamment un défi : si Marine perd, il lui est interdit de dire des choses sensibles pendant un mois.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.2309,
+        "width": 0.4463,
+        "height": 0.1558
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La deuxième partie est sur la chaîne de Marine où elles ont répondu à des marshmallows ainsi que des demandes, ce qui donna lieu à pas mal de tangentes. Quelques moments forts incluent un jeu de mot du marshmallow à caractère obscène ce qui conduit Marine à défier le chat de montrer leur service-trois-pièces, Marine qui dévoile que Pekora rit sur des blagues obscènes, Marine qui part en mode sadique pour taquiner Pekora, Pekora qui demande à ce que Marine se fasse interner, Senchou qui taquine Pekora au sujet de son let's play d’Aquarium, et ont répondu à une question qui demandait si elles sortaient ensemble. Marine a également révélé quelle a sérieusement pensé à sortir avec Shion pendant leur dernière soirée pyjama, mais a été dissuadée par son manager. Malheureusement pour Marine, Pekora a réussi à s'échapper après le stream. Pain Peko.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.4002,
+        "width": 0.4456,
+        "height": 0.2209
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora est parti dans une quête pour conquérir toutes les membres d'hololive du nouveau jeu de drague officiel d'Aqua, Aquarium. Lors des sections dédiées à Minato, une démonstration incroyable du tsukkomi nous a été montrée par Pekora qui rétorquait à chaque réplique boke de Baqua. Plus tard, Pekora est parti en mode tsundere et ensuite en mode vieux pervers envers la Marine du jeu, qu'elle note est exactement comme la vraie. Pendant ce temps, la lapine était continuellement à fond sur Fubuki (surtout suite à une scène piquante). Elle a exprimé son enthousiasme pour la route de Fubuki en voulant la plaquer contre un mur. On te comprend Peko.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.7127,
+        "width": 0.4463,
+        "height": 0.1849
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3kvpg596o22a1.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 1,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Edition sp le début:",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.1341,
+        "width": 0.1737,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Illustration par : Mochizuki Kei",
+      "bbox": {
+        "x": 0.7363,
+        "y": 0.1359,
+        "width": 0.2369,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "SPECIALD",
+      "bbox": {
+        "x": 0.0169,
+        "y": 0.9123,
+        "width": 0.5888,
+        "height": 0.0516
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/7y785i46wis81.png",
+    "gifFrame": null,
+    "confidence": 63
+  }
+}

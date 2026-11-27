@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Après s'être mis aux cartes Pokémon pendant une semaine, Temma a préparé cinq paquets différents. Il a dit qu'il était impatient de pouvoir les utiliser un jour.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2678,
+        "width": 0.405,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour en apprendre plus sur le cœur des files pour le jeu de drague holostars sur lequel il travaille, il a décidé de se mettre à jouer à Tokimeki Memorial Girl's Side.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.3711,
+        "width": 0.4044,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un surplus de fanart de Tenko (son alter ego féminin) ont fait surface suite à ce stream.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.4492,
+        "width": 0.4263,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La série RiTunes Labo de Rikka fait un retour en force après 6 mois avec Underbar comme invité. Ils ont chanté en duo sur « Karakuri Pierrot », « Phony », et « Marunouchi Sadistic » et ont ensuite parlé de l’histoire d'Underbar et de sa chaîne YouTube de musique récemment crée.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.6619,
+        "width": 0.4156,
+        "height": 0.1085
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.6319,
+        "y": 0.2062,
+        "width": 0.1638,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant qu'il cherchait un Métamorph 4 IV, Roberu est tombé nez à nez avec un M. Mime chromatique. Il se mit à rigoler en essayant de l’attraper et s'excusa auprès de Fubuki pour avoir trouvé un Pokémon chromatique sans le vouloir.",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.2678,
+        "width": 0.4244,
+        "height": 0.0851
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roberu a fait un stream où il s'est « battu » contre quatre packs ASMR de son oshi, Ueda Reina. Il a déclaré qu'il perdrait si jamais il faisait une réaction étrange. Selon son tchat, il a été l'auteur d'une tonne de réactions douteuses mais Roberu insiste qu'il n'a pas perdu. Cependant, 90% de son tchat est certain de sa défaite.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.3685,
+        "width": 0.4225,
+        "height": 0.115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir eu des difficultés à trouver des partenaires pour jouer à Apex en classé, lzuru est parvenu à atteindre le rang Master pour la deuxième fois. Peu après l'avoir annoncé, il a déclaré sur Twitter qu’il ne jouerait plus jamais des parties classées en solo.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.6619,
+        "width": 0.4225,
+        "height": 0.1085
+      }
+    },
+    {
+      "type": "heading",
+      "text": "5) Oga & Shien",
+      "bbox": {
+        "x": 0.5644,
+        "y": 0.8268,
+        "width": 0.3506,
+        "height": 0.0391
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Oga et Shien ont été inclus sur la première page de W, une partie du nouveau magazine D’Animedia . MaFia ont eu leur propre interview accompagnant leur profils personnels. Une affiche des deux habillés en costumes est également incluse dans le magazine.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8733,
+        "width": 0.4256,
+        "height": 0.0855
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/e4f2xbp5i4781.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

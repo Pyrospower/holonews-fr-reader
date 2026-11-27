@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bae était en retard d'à peu près 50 minutes sur son stream de mardi matin. Après l’avoir débuté, elle a immédiatement fait deux annonces. La première était triste, puisqu'elle a annoncé prendre une pause du 29 novembre au 6 décembre. La bonne nouvelle est qu'elle nous laisse avec Baewatch, une série de vidéos courtes qui seront diffusées pendant son absence.",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.273,
+        "width": 0.8969,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant le reste du stream, elle a parlé majoritairement de 3 sujets. Premièrement, elle a parlé de combien il était facile de discuter avec Mio, surtout en sachant à quel point cette dernière était nerveuse à l'idée de collaborer avec les membres d'holoEN. Bae a dit qu'elle était hésitante à l'idée de la contacter, puisque ses aînées japonaises ont l'air occupé et qu'elle ne veut pas les déranger. Après ça, elle a parlé de son expérience à l'Anime NYC et du fait que c'était un rêve qui s'était réalisé. Enfin, elle a parlé des contenus et des interactions qu'elle pourrait avoir avec ses spectateurs. Plusieurs idées sont sorties, comme jouer à Resident Evil avec un moniteur de fréquence cardiaque et regarder des animés ou des K-Dramas avec ses membres. Bae a même mis au défi son tchat de faire une compilation des « moments les plus ivres de Bae », tout en disant qu'elle voulait boire en stream avec IRyS et faire un stream réaction a des vidéos.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.349,
+        "width": 0.8963,
+        "height": 0.151
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A-chan a récemment reçu un mystérieux fichier .zip contenant une démo pré-alpha de Holoearth, un jeu en monde ouvert dans l’univers d'hololive Alternative, qu’on lui a demandé d'aider à tester. Puisqu'il lui a été demandé de ramener des amis pour « plus de fun », elle a invité Fubuki et Mio pour jouer avec elle.",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.7209,
+        "width": 0.8919,
+        "height": 0.0569
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le gameplay et l'esthétique de Holohearth rappellent Minecraft, Breath of the Wild ou encore Genshin Impact, avec des animaux sauvages, des arbres destructibles et de mystérieux artéfacts lumineux. A-chan, Fubuki, et Mio ont passé le stream à tester les danses et les émoticônes du jeu, mais elles ont été capables de construire une maison (quelque peu caduque) grâce au bois qu'elles ont récolté.",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.7925,
+        "width": 0.8944,
+        "height": 0.0569
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A la fin du stream, A-chan a lu une lettre de U, un des développeurs du jeu, révélant qu'ils ont prévu d'ajouter plus de fonctionnalités, comme de nouvelles zones et créatures, un système de cuisine et de compétences, et « plus ». Si vous avez des réactions ou des idées pour le jeu, vous pouvez les partager en commentaire sur YouTube ou sur Twitter (ils n'ont pas précisé où). Pour finir, A-chan a rajouté que si vous voulez aider au développement, vous pouvez postuler sur la page officielle « Carrières » de COVER.",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.8641,
+        "width": 0.8981,
+        "height": 0.0825
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/f2nlytdmjr381.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

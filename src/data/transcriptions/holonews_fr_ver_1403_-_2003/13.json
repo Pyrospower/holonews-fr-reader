@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Miyabi a décidé de fêter le White Day en faisant du chocolat à partir de fèves de. cacao. || a commence par laver les graines, les a torréfiées, et les a ensuite épluchés. Puis, il se mit à moudre les graines pendant au moins deux heures en se servant d'un mortier et d’un pilon jusqu'à ce qu'ils soient liquides. Il s'est mit à mélanger le liquide avec du sucre et a versé dans un moule qu'il va ensuite déposer dans le réfrigérateur pour qu'il puisse refroidir. Il met fin au stream en annonçant qu'il va goûter à son chocolat lorsqu'il montrera sa tenue de White Day 2.0.",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.2179,
+        "width": 0.4081,
+        "height": 0.1701
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer White Day le 14 mars, tous les membres d’holostars de la 1ère gen, sauf Rikka, ont révélé la version 2.0 de leur tenues de White Day. Aruran a essayé son modèle 3D à domicile en essayant plusieurs poses et accessoires, avant de révéler sa tenue du White Day version 2.0.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.5686,
+        "width": 0.4256,
+        "height": 0.0829
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Puis c’est Izuru qui a décidé d’avoir un stream de discussion en buvant. Il a discuté des habitudes de consommation d'alcools des non-buveurs comme Miyabi, Shien et Oga et des gros buveurs tels que Temma, Aruran et Rikka. Il a d'ailleurs mentionné qu'il voyait rarement Roberu parce qu'il est toujours au toilettes à cause de ses selles molles. Il a raconté également que le rythme d’Astel lui était inconnu car il arrive qu’il se saoule facilement mais dès fois il se peut qu'il ne parvient à ne pas être du tout soûl.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.6632,
+        "width": 0.4244,
+        "height": 0.1523
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin, Miyabi a révélé sa tenue en mangeant des chocolats qu'il a fait maison. Il a réussi à faire deux morceaux de chocolat et a décidé d'en partager en les envoyant à l'adresse d’Aruran. Les frais d’expéditions ont coûté “1.500 pour envoyer seulement un morceau cher Aruran alors il a envoyé une lettre dans laquelle il racontait qu'il s'attendait à recevoir un chocolat qui coûte trois fois plus que ceux qu'il lui a donné. Le modèle version 2.0 Live2D de Rikka sera révélé un autre jour alors gardez un œil sur ses annonces !",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.8281,
+        "width": 0.4231,
+        "height": 0.1523
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 14 Mars, Rikka a fêté White Day avec ses fans en chantant des chansons d'amour. Il a mentionné qu'il comptait se servir de sa tenue de White Day mais n'a pas pu le préparer a",
+      "bbox": {
+        "x": 0.5337,
+        "y": 0.2179,
+        "width": 0.3988,
+        "height": 0.0525
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "temps pour le stream. À la place, il s'est servi d'une disposition de stream différente à la hauteur de l'événement. Il a également annoncé son anniversaire qui se passe le 15 Avril pendant le stream. Il accepte actuellement les fanart, c'est-à-dire des illustrations, des es artisanaux, Hololy ainsi que des peluches qui seront utilisés",
+      "bbox": {
+        "x": 0.5331,
+        "y": 0.27,
+        "width": 0.3925,
+        "height": 0.1046
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "our sa célébration d'anniversaire. Envoyer es avec le hashtag #0 Dd — E BD” sur Twitter dans un format 16:9. La date limite pour les soumissions est le 11 Avril. Il a d’ailleurs rappelé qu'il ne faut pas reproduire ou copier le travail d'autrui.",
+      "bbox": {
+        "x": 0.5337,
+        "y": 0.3741,
+        "width": 0.3844,
+        "height": 0.0786
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Celui que l'on appelle Astel Leda, actif sur YouTube depuis plus de deux ans, marquera le premier anniversaire de ses membres le 1er avril, mais surtout, sa monétisation a été mise en suspens. La direction a pu la restaurer.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.6363,
+        "width": 0.3787,
+        "height": 0.0877
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a tweeté que la raison de sa démonétisation était parcequ'il joue le rôle de Mad Maggie, son obsession pour elle, et sa participation au tournoi de VSaikyo. (Mad Maggie est un personnage d'Apex Legends connu pour ses coups de couteau brutaux).",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.7396,
+        "width": 0.3919,
+        "height": 0.1024
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/gw04iy61s5q81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

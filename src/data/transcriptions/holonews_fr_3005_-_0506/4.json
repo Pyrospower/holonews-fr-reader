@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_3005_-_0506",
+  "page": 4,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Matsuri a organisé un stream d'appel qui a commencé 23 heures pour fêter le 4e anniversaire de ses débuts. Avant de commencer les appels, elle a d'abord montré son nouvel accessoire : un pansement sur son nez, un trait caractéristique des personnages principaux des shônen. Matsuri a également obtenu une nouvelle coiffure avec une frange très courtes et deux queues de cheval, rappelant la coiffure de Shion. Elle a ensuite pris le temps de préparer les questions etles demandes qu'elle allait poser à ses interlocuteurs :",
+      "bbox": {
+        "x": 0.0278,
+        "y": 0.4055,
+        "width": 0.2989,
+        "height": 0.2407
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- Où voudrais-tu aller pendant un rendez-vous avec Matsuri ?",
+      "bbox": {
+        "x": 0.0283,
+        "y": 0.6617,
+        "width": 0.3,
+        "height": 0.0289
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- La différence entre l'ancienne Matsuri et l'actuel ? ;",
+      "bbox": {
+        "x": 0.0283,
+        "y": 0.6887,
+        "width": 0.2811,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- Quel genre de collaboration aimerais-tu avoir avec Matsuri ? - Veuillez déclarer votre amour à l'occasion de mon 4ème anniversaire.",
+      "bbox": {
+        "x": 0.0283,
+        "y": 0.7149,
+        "width": 0.2978,
+        "height": 0.0656
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- La couleur des vos sous-vêtements ?",
+      "bbox": {
+        "x": 0.0278,
+        "y": 0.7828,
+        "width": 0.2417,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir terminé ses préparatifs, elle a commencé à prendre des appels, le premier étant celui de Towa. Etant d'abord timide, Towa a terminé son appel par un message sincère sur le respect qu'elle porte à Matsuri.",
+      "bbox": {
+        "x": 0.3489,
+        "y": 0.4066,
+        "width": 0.2906,
+        "height": 0.1119
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Parmi les autres appels, citons Aki, qui fête également son 4e anniversaire et qui a exprimé son désir d'aller avec elle aux sources chaudes, et Mel, qui a déclaré que Matsuri était toujours énergique, mais qu'elle était plus mature.",
+      "bbox": {
+        "x": 0.3489,
+        "y": 0.5316,
+        "width": 0.2983,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene voulait faire une émission de cuisine avec Matsuri, et les sous-vêtements de Lui étaient blancs avec un motif floral rose et rouge.",
+      "bbox": {
+        "x": 0.3489,
+        "y": 0.6563,
+        "width": 0.2956,
+        "height": 0.0702
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama voulait aller à un rendez-vous avec Matsuri dans un parc d'attractions, Chloe voulait aussi faire un stream cuisine.",
+      "bbox": {
+        "x": 0.3489,
+        "y": 0.7396,
+        "width": 0.2956,
+        "height": 0.0671
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après que Matsuri ait annoncé que son set en édition limitée était épuisé quelques minutes seulement après l'annonce, elle a versé quelques larmes et remercié ses fans pour leur soutien.",
+      "bbox": {
+        "x": 0.67,
+        "y": 0.4066,
+        "width": 0.2983,
+        "height": 0.103
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Tapis en caoutchouc illustré par SHHbHAR (omochinonaka)",
+      "bbox": {
+        "x": 0.6894,
+        "y": 0.5424,
+        "width": 0.2811,
+        "height": 0.0459
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un t-shirt « Matsuri Stall »",
+      "bbox": {
+        "x": 0.6894,
+        "y": 0.5883,
+        "width": 0.2611,
+        "height": 0.0116
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un cadre et une carte postale",
+      "bbox": {
+        "x": 0.6894,
+        "y": 0.6038,
+        "width": 0.2222,
+        "height": 0.0301
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Bonus : Une carte postale avec une copie de son autographe en relief.",
+      "bbox": {
+        "x": 0.6894,
+        "y": 0.6339,
+        "width": 0.2622,
+        "height": 0.0455
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Peu après minuit, Matsuri a mis fin au stream en adressant des mots d'encouragement à tous les participants qui étaient venus.",
+      "bbox": {
+        "x": 0.67,
+        "y": 0.7095,
+        "width": 0.2972,
+        "height": 0.0725
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/jro1atgvbt591.gif",
+    "gifFrame": 65,
+    "confidence": 89
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 2,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Mumei a ajouté une année au compteur de la civilisation Hoomaine (elle a célébré son anniversaire) le 4 août ! Des membres de toutes les branches d'hololive l'ont appelée durant son stream. Fauna a notamment dessiné un GIF représentant le visage de Mumei passant de normal à effrayant, tandis que d'autres avaient préparé des dessins mignons.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.1381,
+        "width": 0.4289,
+        "height": 0.1381
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre deux appels, Mumei a dévoilé ses produits dérivés d'anniversaire :",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.3086,
+        "width": 0.4283,
+        "height": 0.0289
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un journal de 128 pages illustré par Azure-mama",
+      "bbox": {
+        "x": 0.0839,
+        "y": 0.3542,
+        "width": 0.415,
+        "height": 0.0258
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une peluche Hootsie",
+      "bbox": {
+        "x": 0.0839,
+        "y": 0.3854,
+        "width": 0.2144,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une trousse Friend",
+      "bbox": {
+        "x": 0.0839,
+        "y": 0.4008,
+        "width": 0.1978,
+        "height": 0.0104
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un marque-page présentant un dessin de plume",
+      "bbox": {
+        "x": 0.0839,
+        "y": 0.4163,
+        "width": 0.415,
+        "height": 0.0293
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin, Mumei a révélé un message vidéo pré-enregistré de Sana dans lequel elle affirme que Mumei mérite autant d'amour et d'affection que possible en ce jour spécial et lui demande si elle s'est fait plaisir. Elle a ensuite dit vouloir emmener Mumei en voyage à travers l'univers un jour ! Mumei avait les larmes aux yeux à la fin du message et s'est demandé si elle n'aurait pas dû le regarder avant le stream pour éviter d'être aussi touchée.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.7369,
+        "width": 0.4289,
+        "height": 0.1667
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a mis fin au stream en disant que bien que ce soit sa journée, c'est également une célébration pour tout le monde !",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.9232,
+        "width": 0.4289,
+        "height": 0.0444
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le bonus pour l'achat de l'ensemble complet est une carte postale,illustrée par Azure-mama, estampillée de la signature de Mumei. L'édition limitée de l'ensemble, qui est désormais en rupture de stock, contenait une carte postale dédicacée à la main par Mumei.",
+      "bbox": {
+        "x": 0.5222,
+        "y": 0.451,
+        "width": 0.4083,
+        "height": 0.1069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après cela, elle a reçu un appel de Zeta, des vidéos de ses camarades aviaires Kiara, Lui et Subaru, et un message de la part de Towa. Elle a également présenté plusieurs projets réalisés par des fans comme un jeu point-and-click, un gâteau ou encore un journal. Mumei a par la suite annoncé une nouvelle reprise et quelque chose de spécial pour l'anniversaire de Council !",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.5702,
+        "width": 0.4078,
+        "height": 0.1508
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/eph6kg56lwh91.gif",
+    "gifFrame": 84,
+    "confidence": 93
+  }
+}

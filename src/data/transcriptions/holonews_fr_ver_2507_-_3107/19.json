@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 19,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.4288,
+        "y": 0.0256,
+        "width": 0.1431,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.3997,
+        "width": 0.3925,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 4 août : Anniversaire de Mumei",
+      "bbox": {
+        "x": 0.1213,
+        "y": 0.4505,
+        "width": 0.3263,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 7 août : 3e anniversaire des débuts de Flare",
+      "bbox": {
+        "x": 0.1213,
+        "y": 0.4826,
+        "width": 0.2931,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 8 août : Anniversaire de Towa",
+      "bbox": {
+        "x": 0.1213,
+        "y": 0.5308,
+        "width": 0.3156,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 8 août : 4e Anniversaire des débuts d'Aqua",
+      "bbox": {
+        "x": 0.1213,
+        "y": 0.5629,
+        "width": 0.2956,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 8 août : 3e Anniversaire des débuts de Noel",
+      "bbox": {
+        "x": 0.1213,
+        "y": 0.6111,
+        "width": 0.2956,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.691,
+        "width": 0.4944,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.8242,
+        "width": 0.2512,
+        "height": 0.0369
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "= Dezmond Altare 120k J 120k Vesper 110k",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.3364,
+        "width": 0.27,
+        "height": 0.1762
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/kva7dyg4fig91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

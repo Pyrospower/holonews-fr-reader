@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le 22 janvier, Aqua est retournée sur APEX après presque un an pour tenter d'atteindre le rang de Maître en solo avant la fin de la saison APEX. Après presque deux semaines d’entraînement intensif sur APEX, notre soubrette préféré l’as enfin fait ! Elle a atteint le rang de Maître et a relevé son défi, devenant la deuxième membre d'holoPro à I atteindre en solo en stream. Elle a fait des progrès remarquables par rapport à l'année dernière, ce qui a surpris de nombreux joueurs occasionnels et professionnels. Le joueur pro rpr a même tweeté qu'elle était devenue « une déesse » à ce jeu. Peu de temps après avoir atteint le rang de Maître, elle a commencé une partie et a remporté son premier match avec ce rang. Félicitations Aqua !",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.2813,
+        "width": 0.4225,
+        "height": 0.2891
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La première figurine de la série hololive IF -relax time- représente Minato Aqua. La figurine, disponible en précommande depuis septembre dernier, était exposée au 3e étage du Sega Akihabara Building 5. Mesurant 17,78 cm, Aqua, les cheveux détachés, est vêtue d'une chemise blanche oversized, d’un mini-short et un bas.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.5877,
+        "width": 0.4231,
+        "height": 0.1233
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A\" Subaru avait",
+      "bbox": {
+        "x": 0.2306,
+        "y": 0.7504,
+        "width": 0.1775,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ww gagné le droit de faire un caméo dans Lupin Ill lors de l'événement Project V l'année dernière, et elle a enfin fait son apparition dans le 18ème épisode qui a été diffusé le 5 février sur NTV !",
+      "bbox": {
+        "x": 0.2463,
+        "y": 0.7661,
+        "width": 0.2156,
+        "height": 0.1727
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco et Gundou Mirei de Nijisanji ont fait un stream en collaboration durant lequel elles ont discuté et bu de l'alcool ensemble. Cela faisait un moment qu'il n'y avait pas eu de collabs entre elles, alors elles ont passé l'heure à",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2817,
+        "width": 0.4181,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "rattraper le temps perdu. Elles ont parlé de leurs genres de mangas préférés et se sont demandées si elles étaient toutes deux een des « professeurs » ou non. Gundou à égal alement exprimé son amour pour la tenue ouvel An et le corps obscene de Choco.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3468,
+        "width": 0.4213,
+        "height": 0.0881
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ayame a indiqué sur Twitter qu'elle suivait des cours de chant et allait faire des enregistrements. Pas de stream de sa part cette semaine, mais nous sommes déjà impatients d'écouter ses enregistrements !",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.6076,
+        "width": 0.4219,
+        "height": 0.0799
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shion",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.8268,
+        "width": 0.1294,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion a dit qu'elle avait mal a la gorge mais que son état s'est considérablement amélioré. Elle veut reprendre ses streams des que possible, mais demande a ses fans de patienter encore un peu.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8707,
+        "width": 0.4119,
+        "height": 0.0799
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/tzca4efs4uh81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

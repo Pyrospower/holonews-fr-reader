@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Les aventures de Miko dans WWE 2K22 ont continué dans un troisième stream. Elle a créé une Subaru légère et une Noel DX améliorée. Elle a donné à Subaru une entrée très appropriée, énergique et mignonne, empruntée à Nikki A.S.H., tandis qu'elle a donné à Noel DX l'entrée des Ultimate Warriors. Miko a remporté sa toute première victoire contre Subaru dans un match « Hell in a Cell » et a fait s'affronter Subaru et Noel DX grâce à l'I.A. en coulisses, ce qui s'est terminé par Subaru inconscient à la suite d’un coup de pelle de la part de Noel DX. Elle à terminé avec les six personnages qu'elle a créés jusqu'à présent (Miko, Suichan, Polka, MukiRose, Subaru et Noel DX) s'affrontant dans un battle royal contrôlé par une IA. Le match s'est terminé avec la victoire de Miko.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.2183,
+        "width": 0.3863,
+        "height": 0.2387
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1706,
+        "y": 0.6398,
+        "width": 0.1663,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a organisé un concours pour trouver une nouvelle tenue à YAGOO et a traîné A-chan avec elle pour passer en revue les soumissions. Les participants ont envoyé plusieurs tenues mignonnes pour YAGOO comme des mini-jupes, des robes, des kimonos, des tenues de lycéenne, et même la tenue de Subaru. D'autres ont envoyé des tenues d'homme, par exemple une tenue de fermier, de gangster, et un hakama. Des memes ont aussi été envoyés.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.6788,
+        "width": 0.3831,
+        "height": 0.1476
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir vu un YAGOO à moitié nu avec un fundoshi, A-chan a proposé à Haachama de sortir un fundoshi en tant que produit dérivé pour que YAGOO le porte. Plus tard, A-chan s'est rétracté car elle s'est rendue compte de ce que Haachama pourrait faire dès qu'elle aurait l'autorisation de sortir des sous-vêtements en tant que produits dérivés.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.8403,
+        "width": 0.3881,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei a organisé une dernière session de chant avant sa pause d'un mois pour « redevenir une fille ordinaire pendant quelque temps ». Elle a chanté six chansons pendant le karaoké. Elle a également annoncé que le 27 juillet sortirait le Blu-ray de son live solo « Stellar in the Galaxy » de l'année dernière chez Bushiroad Music. Le Blu-ray comprendra l'enregistrement du concert, un livret spécial de photos et des posters dédicacés qui pourront être gagnés par loterie.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2183,
+        "width": 0.39,
+        "height": 0.1476
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki a joué à Undertale en stream et a essayé de finir la route génocide en 1 heure et 30 minutes. Malheureusement, elle a échoué à deux minutes près à cause de la dureté du combat contre Sans.",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.6788,
+        "width": 0.385,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.6375,
+        "y": 0.8056,
+        "width": 0.1213,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Juste avant le changement de saison, Matsuri a dit sur Twitter qu'elle avait atteint le rang Maître sur Apex. Dans son tweet, elle a remercié Hayun de Nijisanji et Minase de Neo Porte pour leur aide.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.8403,
+        "width": 0.3813,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les trois se sont ensuite réunis en stream pour jouer à Apex ensemble dès le début de la nouvelle saison.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.921,
+        "width": 0.3913,
+        "height": 0.0369
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/m2u0pjbndn191.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

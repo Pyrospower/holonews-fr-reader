@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_sana_special_issue_fr_ver",
+  "page": 3,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "SANA INTERVIEW PAGE 2",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.0417,
+        "width": 0.4263,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: Hurray! What's your favourite place beyond the solar system, then?",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.1037,
+        "width": 0.3544,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: The potato planet!",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.1467,
+        "width": 0.2431,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: Pretty Star-chy if you ask us! Speaking of carbs, if one could remove the limiter from your BreadDog plushie, how big would it get?",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.1766,
+        "width": 0.3762,
+        "height": 0.0564
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: |t would get big enough that could headplant into it. Also recommend doing it away from the Earth otherwise it would soak up the planet like a sponge.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.2496,
+        "width": 0.3381,
+        "height": 0.0707
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: And would you rather fight 100 BreadDogs or 1 BEEG Sana-sized BreadDog?",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.3372,
+        "width": 0.33,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Why do we have to fight? Let's play instead!",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.395,
+        "width": 0.355,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: Aww! Also, how's San doing? What's he up to these days?",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.4375,
+        "width": 0.3588,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: I hear he's a senpai for some male talents now... But lately he’s just flying his big rocket out in space somewhere. I think he’s doing fine.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.4805,
+        "width": 0.3994,
+        "height": 0.0564
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: Got it! On to a different topic, what made you decide to audition for hololive?",
+      "bbox": {
+        "x": 0.0681,
+        "y": 0.6072,
+        "width": 0.3506,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: Well, it seems you were certainly able to find that in the Sanallites! What were your first thoughts after your audition and after",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.6072,
+        "width": 0.4063,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "you got accepted to hololive? Answer: I think the talents at hololive are really cute! When I first got interested in",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.6502,
+        "width": 0.71,
+        "height": 0.0443
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vtubers I was mainly watching Fubuki.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.6931,
+        "width": 0.3369,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "I thought that she was adorable, but I also noticed that her viewer community was so positive and welcoming to everything and anything she wanted to do.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.7218,
+        "width": 0.3687,
+        "height": 0.0564
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "I felt like I too wanted to find that kind of community for myself, to meet people who would accept me for who I am and to have fun with them.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.7934,
+        "width": 0.3738,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: I thought to myself, “I've gotten this far but I gotta work really hard from here on out, and I'm so excited to meet other amazing talents from different walks of life.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.6788,
+        "width": 0.4019,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Also, as the Speaker of Space, I was excited to finally be able to come to Earth!",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.7504,
+        "width": 0.3994,
+        "height": 0.0278
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ru3dyl1un4f91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

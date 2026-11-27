@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Mel fait une pause © Fubukiarencontré Chloe ¢ Podcast holoSIMP",
+      "bbox": {
+        "x": 0.0663,
+        "y": 0.0113,
+        "width": 0.8738,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Weekend / estde retour",
+      "bbox": {
+        "x": 0.0156,
+        "y": 0.339,
+        "width": 0.2963,
+        "height": 0.1098
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "fait son pre",
+      "bbox": {
+        "x": 0.8131,
+        "y": 0.3819,
+        "width": 0.1713,
+        "height": 0.0556
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vous voulez nous aider ? Rone? notre Discord !",
+      "bbox": {
+        "x": 0.5994,
+        "y": 0.9154,
+        "width": 0.3288,
+        "height": 0.0373
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4bdt9fnspg091.png",
+    "gifFrame": null,
+    "confidence": 77
+  }
+}

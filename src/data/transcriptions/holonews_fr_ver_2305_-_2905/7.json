@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2305_-_2905",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 5",
+      "bbox": {
+        "x": 0.445,
+        "y": 0.0174,
+        "width": 0.1113,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene a organisé un stream discussion dans lequel elle devait montrer sa chambre, mais qui s'est changé en un sondage auprès des spectateurs sur les odeurs corporelles. Elle a donné des conseils pour ne pas sentir mauvais et a révélé qu'elle avait l'habitude d'aller dans un club de sport, après quoi elle sentait la sueur, quoi qu'elle fasse.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3919,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le saké emblématique de Lamy, Yuki-Yo-Zuki, a remporté une médaille de bronze au Concours International des vins de cette année. La boisson a été louée pour son arôme doux et son bon arrière-goût.",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.52,
+        "width": 0.3881,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy a atteint un million d'abonnés en toute tranquillité. Pendant 4 heures de stream discussion, elle a parlé de ses aînés et de ses cadettes avec tendresse et a dit que la rencontre avec les Yukimins était la rencontre la plus précieuse de sa vie. A 999 000, Lamy a regardé son premier stream et a fait remarquer à quel point elle avait changé depuis. Et à un million, comme on l'attendait d'elle, elle a bu avec nous !",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.7678,
+        "width": 0.3906,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.6406,
+        "y": 0.1801,
+        "width": 0.0788,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene a posté un tweet affirmant qu'elle était « l'idole la plus sexy du monde » et nous a demandé en plaisantant de ne pas « la regarder avec convoitise », en y joignant son portrait chibi avec une barbe. Cependant, Twitter a traduit le message de Nene d'une manière plutôt indécente, choquant ses nombreux maris.",
+      "bbox": {
+        "x": 0.5425,
+        "y": 0.2183,
+        "width": 0.4013,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En tant qu'ambassadrice pour Red Bull, Shishiron écrit mensuellement sur le site web de l'entreprise. Cette fois, elle a écrit sur son hobby, les jeux vidéo. Elle aime les jeux de tir, les hack & slash et les jeux à monde ouvert. La prochaine publication paraîtra à la mi-juin, alors ne la manquez pas !",
+      "bbox": {
+        "x": 0.5444,
+        "y": 0.4931,
+        "width": 0.3806,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.6394,
+        "y": 0.7339,
+        "width": 0.0906,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De retour d'un voyage d'une semaine auprès de sa famille, Shishiron est de retour avec plusieurs streams, le premier étant sur le jeu d'horreur The Closing Shift. Comme toujours, rien ne pouvait effrayer LaLion, qui riait à toute tentative de la surprendre. Elle a ensuite terminé le scénario de BioShock Remastered, puis joué à Vampire Survivors avec SubaChocoLuna, et elle a aussi joué à Peglin entre les streams. Botan est de retour en action !",
+      "bbox": {
+        "x": 0.5419,
+        "y": 0.7678,
+        "width": 0.385,
+        "height": 0.1445
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/q40nsfjpo1391.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 4,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dans son stream discussion de mercredi, Suisei a mis en avant ses collaborations du moment. Cependant, ses Hoshiyomis ont dû lui rappeler dans le tchat sa collaboration avec Skytree qu'elle avait totalement oubliée.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2552,
+        "width": 0.4231,
+        "height": 0.0707
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a aussi révélé qu’elle avait acheté une nouvelle tablette graphique, une tablette LCD, un filtre à air et une batterie externe. Elle a également baptisé son nouveau Roomba « SakamataKuro » en référence à sa cadette, Sakamata Chloe.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3407,
+        "width": 0.4019,
+        "height": 0.0825
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.1619,
+        "y": 0.556,
+        "width": 0.1144,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko s’est plainte de l’air sec de sa piece malgré qu’elle possède deux humidificateurs et il s'est avéré qu’elle n’avait pas mis d’eau à l’intérieur. Elle a retenu l’attention du compte Twitter de la marque SHARP qui a répondu à un de ses clips en disant :",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.5981,
+        "width": 0.4231,
+        "height": 0.0929
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• SHARP n’est pas magicien. (Merci pour votre soutien, mais s’il vous plaît, remplissez le réservoir d’eau.) »",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7079,
+        "width": 0.4225,
+        "height": 0.0456
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "MiComet (Miko et Suisei) ont fait partie du programme du Jour 2 pour la 3e édition de VILLS. Elles y ont chanté et ont réalisé des sketchs ensemble sur scène.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.786,
+        "width": 0.4288,
+        "height": 0.0621
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De la collaboration Suisei x Converse Tokyo est née une collection de vétements constituée d’un t-shirt blanc, d’un pull noir et d'un porte-clés. Elle sera disponible pour une durée limitée du 16 au 24 décembre.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2556,
+        "width": 0.4256,
+        "height": 0.076
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roboco a cuisiné un pot-au-feu pour le dîner et même des accompagnements allant avec le plat principal. Elle a également partagé l'histoire de sa visite à l'hôpital pour se faire retirer du verre de la jambe. Elle a expliqué que la partie la plus douloureuse avait été I'anesthésie locale. Son rétablissement se passe bien et elle prend des médicaments pour accélérer le processus.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.5191,
+        "width": 0.4088,
+        "height": 0.1324
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le cadre d’une promotion, Sora a joué à Groove Coaster. Elle était totalement novice, nous donnant l'occasion de découvrir le jeu depuis le début avec elle pour navigatrice. Au fil du stream, elle a accumulé suffisamment de confiance et de maîtrise pour se mettre au défi en jouant à « Reflect » et « Shiny Smily Story » en mode difficile.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.8307,
+        "width": 0.4263,
+        "height": 0.1207
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/yoztz9r7op881.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

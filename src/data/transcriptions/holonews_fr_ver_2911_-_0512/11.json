@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 11,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "La+ a mis en ligne un montage vidéo d'elle-même jouant à Valorant. Tout en montrant son talent divin de monteuse, elle a fait référence à de nombreux memes occidentaux bien connus, tels que « Ah shit, here we go again » de GTA: San Andreas et « When I see you again » du film Fast and Furious 7.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2847,
+        "width": 0.4244,
+        "height": 0.1211
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lui, qui est épouvantée par l'horreur, a tenté de jouer à Outlast à condition d'arrêter son stream si elle criait. Son premier stream a duré un peu plus de 6 minutes, mais elle n’a pas pu jouer parce qu'elle a crié lorsqu’elle a renversé de l’eau sur son bureau. Son deuxième stream a duré plus de 11 minutes, et s’est terminé parce qu'elle a été effrayée par des lumières clignotantes. Sa dernière tentative a duré près de 9 minutes, mais Lui a crié à pleins poumons lors du premier jumpscare du jeu.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.5803,
+        "width": 0.425,
+        "height": 0.1871
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Iroha a confondu le boss de Ring Fit Adventures avec le père de La+ a cause de leurs couleurs similaires et leurs cornes tape-à-l'œil. Elle a oublié d'afficher le nom du jeu sur le stream et le tchat a dû le lui rappeler.",
+      "bbox": {
+        "x": 0.1706,
+        "y": 0.8086,
+        "width": 0.3025,
+        "height": 0.1276
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Prenant une longueur d'avance, Chloe a fait quatre streams en l’espace de 24 heures lors de la semaine de ses débuts. Elle a organisé une séance de karaoké à 01h JST, un stream d’étude de l'anglais et un stream discussion les uns après les autres le matin, puis un playthrough d’Undertale le soir.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.286,
+        "width": 0.4213,
+        "height": 0.1085
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori a fait ses débuts dans l'ASMR de façon assez unique, puisqu'elle avait une approche différente pour obtenir la même sensation de picotement d'oreille. Parmi les sons émis, citons le nettoyage d'oreilles « gaming », le doux bruit d'une bouteille de mayonnaise et les chuchotements d'une tsundere.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.5816,
+        "width": 0.4244,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La+ a joué a Shadowverse avec ses spectateurs ! Elle a été malmenée et a perdu presque toutes les parties.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8746,
+        "width": 0.3806,
+        "height": 0.0477
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/jz095e7rjq581.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

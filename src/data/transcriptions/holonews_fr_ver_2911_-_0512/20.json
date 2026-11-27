@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 20,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENTS Â VENIR",
+      "bbox": {
+        "x": 0.0581,
+        "y": 0.0326,
+        "width": 0.405,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PALIERS D'ABONNES",
+      "bbox": {
+        "x": 0.5888,
+        "y": 0.033,
+        "width": 0.3131,
+        "height": 0.0603
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "«8 décembre : Anniversaire de Shion, HoloRo Anniversaire 12 heures de stream en relais",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.1137,
+        "width": 0.405,
+        "height": 0.0495
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 9-12 décembre : Nouvelles tenues d'holoMyth",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.1849,
+        "width": 0.3838,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 10 décembre : Anniversaire de YAGOO",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.237,
+        "width": 0.4406,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 11 décembre : Concert gratuit de Matsuri « Natsuiro Winter Festival»",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2717,
+        "width": 0.3906,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 12 décembre : Second anniversaire du début de Temma",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3238,
+        "width": 0.43,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 13 décembre : Anniversaire Sega",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3759,
+        "width": 0.4119,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "MASS, un serveur de projet orienté VTuber, a sorti son magazine numérique, pe Holo Zone Zine. Ce magazine fête le 2e anniversaire d’hololive Production en célébrant les talents préférés des fans avec leurs messages de soutien et leurs œuvres !",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.5326,
+        "width": 0.8988,
+        "height": 0.0885
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci!",
+      "bbox": {
+        "x": 0.3881,
+        "y": 0.6497,
+        "width": 0.2263,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester a jour sur tout ce qui se rapporte a hololive, n’hésitez pas a rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.6936,
+        "width": 0.8856,
+        "height": 0.0977
+      }
+    },
+    {
+      "type": "heading",
+      "text": "création d’HoloNews ! Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.3181,
+        "y": 0.7925,
+        "width": 0.3425,
+        "height": 0.0751
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ev1vbx6rjq581.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

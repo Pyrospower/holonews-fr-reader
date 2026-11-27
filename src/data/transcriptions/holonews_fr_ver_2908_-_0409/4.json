@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 4,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Kovalskia",
+      "bbox": {
+        "x": 0.1419,
+        "y": 0.3594,
+        "width": 0.7169,
+        "height": 0.0655
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre forgeronne préférée Kaela a fêté son anniversaire le 30 Août ! Elle a reçu des messages et des vidéos de 21 de ses senpais, cadets et collègues de sa génération qui ont dû donner",
+      "bbox": {
+        "x": 0.08,
+        "y": 0.4805,
+        "width": 0.3863,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "le super pouvoirs qu'ils souhaiteraient s' ils pouvaient en avoir un. Kaela avait posé à",
+      "bbox": {
+        "x": 0.0806,
+        "y": 0.5573,
+        "width": 0.385,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pemaoles dans l'onglet communauté de youtube la même question environ une semaine auparavant, pour « Aucune raison particulière ».",
+      "bbox": {
+        "x": 0.0806,
+        "y": 0.6055,
+        "width": 0.385,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir passé en revue les réponses de tout le monde, Kaela a révélé sa collection de produits dérivés d'anniversaire:",
+      "bbox": {
+        "x": 0.08,
+        "y": 0.6862,
+        "width": 0.3863,
+        "height": 0.0625
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une plaque en acrylique, illustré par Teita",
+      "bbox": {
+        "x": 0.0963,
+        "y": 0.7708,
+        "width": 0.37,
+        "height": 0.0317
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un set de verre avec un verre, une paille et leur brosse.\n• Un dessous de verre",
+      "bbox": {
+        "x": 0.0963,
+        "y": 0.822,
+        "width": 0.3694,
+        "height": 0.0447
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Trois voix de situations différentes en anglais, indonésien et japonais (les voix anglaises et indonésiennes viennent en 1).",
+      "bbox": {
+        "x": 0.0963,
+        "y": 0.8898,
+        "width": 0.37,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Tous les produits sont en rupture de stocks (excepté pour les voix) dans le hololive shop et sur Tokopedia. Le bonus pour avoir acheté toute la collection consistait en une carte postale avec la signature à la main de Kaela, une voix bonus et les scripts de toutes les voix.",
+      "bbox": {
+        "x": 0.5337,
+        "y": 0.4809,
+        "width": 0.3856,
+        "height": 0.1237
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kaela a aussi amené Zeta et Kobo sur le stream pour un appel mignon mais surtout chaotique. Kobo a même préparé une chanson originale pour la personne la plus importante de la journée! Les célébrations ont continué dans un autre stream, plus tard, dans lequel Kaela a fait une réaction à une chanson faite par ses fans dans le discord Kaela's workshop, puis à la première de sa première reprise, « Phoenix » de League of Legends.",
+      "bbox": {
+        "x": 0.5313,
+        "y": 0.7708,
+        "width": 0.3881,
+        "height": 0.1957
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/vporqo8jaqn91.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

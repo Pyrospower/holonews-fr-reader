@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 2,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "La dernière membre de la Société Secrète holoX à révéler son modèle 3D n'est autre que la chef, La+ Darknesss, le 27 juin !",
+      "bbox": {
+        "x": 0.085,
+        "y": 0.5235,
+        "width": 0.3811,
+        "height": 0.0432
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a commencé sur la scène des idols, en chantant « Undead Alice » de DECO*27.",
+      "bbox": {
+        "x": 0.085,
+        "y": 0.5837,
+        "width": 0.3806,
+        "height": 0.0251
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cependant, les choses ont pris une tournure unique lorsqu'elle a montré un vlog d'elle faisant diverses activités à Kyoto, comme regarder des oiseaux dans un parc, manger à l'Omo Café et regarder le coucher du soleil.",
+      "bbox": {
+        "x": 0.0844,
+        "y": 0.8113,
+        "width": 0.3817,
+        "height": 0.0853
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle est aussi restée à l'Hôtel Kanta Kyoto, où elle a dîné avec sa caméra et s'est détendue dans des sources chaudes.",
+      "bbox": {
+        "x": 0.085,
+        "y": 0.9171,
+        "width": 0.3811,
+        "height": 0.0401
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle est revenue sur scène et a chanté « Wasurena » d'Awesome City Club.",
+      "bbox": {
+        "x": 0.5344,
+        "y": 0.5235,
+        "width": 0.3378,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous avons aussi vu des images d'elle jouant à un jeu avec Lui, A-chan, Fubuki et Aki, puis au jeu du Roi avec Noel, Nene, Towa et Chloe.",
+      "bbox": {
+        "x": 0.5333,
+        "y": 0.554,
+        "width": 0.3817,
+        "height": 0.0548
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La+ est revenue sur scène une fois de plus pour chanter « For Example, The Flowers Placed Here Now » de 164, puis a terminé avec une version dansée de sa chanson originale, « Aien Jihen ». Le stream s'est terminé par l'annonce de la première collaboration 3D en groupe d'holoX, qui aura lieu le 30 juin sur la chaîne principale d'hololive ! Lisez la suite pour voir ce qui s'est passé ce jour-là.",
+      "bbox": {
+        "x": 0.5339,
+        "y": 0.811,
+        "width": 0.3806,
+        "height": 0.1489
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/zfx073835kb91.gif",
+    "gifFrame": 75,
+    "confidence": 94
+  }
+}

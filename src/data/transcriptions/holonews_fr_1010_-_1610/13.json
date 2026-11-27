@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1010_-_1610",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.0363,
+        "y": 0.1354,
+        "width": 0.4263,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 18 octobre: Collab Apex entre Ollie, Zeta et Selen",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.2031,
+        "width": 0.4119,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 20 octobre : Holostars 2nd ACT \"GREAT VOYAGE to UNIVERSE!\"",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.2513,
+        "width": 0.3688,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 20 octobre : Anniversaire de Rikka (reporté au 27 octobre)",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.2995,
+        "width": 0.4006,
+        "height": 0.0326
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 21 octobre : Anniversaire de Magni",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.3477,
+        "width": 0.4069,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 22 octobre : Stream 3D pour le 2e anniversaire des débuts de Nene",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.3798,
+        "width": 0.3894,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 23 octobre : Collab entre Kiara et Pomu",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.428,
+        "width": 0.3863,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "— Crédits Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive,",
+      "bbox": {
+        "x": 0.0581,
+        "y": 0.6337,
+        "width": 0.54,
+        "height": 0.1324
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d'avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.8737,
+        "width": 0.2888,
+        "height": 0.0386
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco subCh ## x Uyu 300k > ay 70k",
+      "bbox": {
+        "x": 0.6313,
+        "y": 0.2656,
+        "width": 0.2469,
+        "height": 0.0369
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuri 1.3M 1",
+      "bbox": {
+        "x": 0.6319,
+        "y": 0.3368,
+        "width": 0.0738,
+        "height": 0.0911
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/oox2exn97cw91.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

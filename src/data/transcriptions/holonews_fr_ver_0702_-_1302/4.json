@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0702_-_1302",
+  "page": 4,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Miko a terminé son let's play Uncharted 4 ! Elle n'a pas cessé d'exprimer a qu’elle point elle aimait le jeu et a même fait les épilogues de ce dernier. Si vous êtes intéressés par son let's play, les rediffusions sont disponibles sur sa chaîne.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.2556,
+        "width": 0.4256,
+        "height": 0.0933
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un récent stream de Dragon Quest, Miko a parlé de SAO et de sa préférence pour Leafa et aux héroïnes perdantes en général. Elle explique qu'elle aime les voir essayer de gagner l'attention du personnage principal. Miko a aussi dit qu’elle a joué une héroïne oubliée dans les enregistrements spécial Saint-Valentin 2022 d'hololive et qu'elle a aimé interpréter ce rôle.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.3937,
+        "width": 0.4256,
+        "height": 0.1402
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "om à) Sora & Axki Sora et AZKi ont continué de faire la construction d’un pixel art sur une carte Minecraft du logo de l’entreprise de Sora. Le duo a passé deux heures et demi ensemble, en construisant lentement mais sûrement le pixel art. Tout du long, le stream était plutôt chaleureux avec les deux parlant de comment s’est passée leur journée, et d’autres sujets comme les jeux d'horreur, de musiques et la peur de perdre des objets précieux.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.6341,
+        "width": 0.4131,
+        "height": 0.2457
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AZki, Sora a trouvé un slogan pour son entreprise. Ce slogan est “On y réfléchit” ce qui inspire une certaine appréhension selon AZki.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.9206,
+        "width": 0.4163,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei a été en retard pour son stream Tetris, et ce a cause de Tetris. Apparemment, avant le stream, Suisei jouait à Tetris pour s'échauffer, mais quand elle était en train de jouer, elle ne s'était pas rendu compte qu’elle était en retard. Elle a commencé le stream en panique et gênée tout en montrant ces matchs qu’elle a fait hors-stream dans lesquels elle était, bien sûr, arrivée à la première place.",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.2552,
+        "width": 0.4225,
+        "height": 0.1558
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei a fait des tirages pour la carte spéciale et animée de son idole, Kaede Takagaki de IM@S Deresute. Elle à réussi à l'obtenir après 383 tirages et a dépensé près de 1 050€ pour l'avoir. Comme quoi, l'augmentation du taux d'apparition est un mensonge…",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.4627,
+        "width": 0.425,
+        "height": 0.1085
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roboco a fait la salutation de Pekora et pensait s'être trompée en prononçant « Almond », ne voulant pas se faire offenser son audience. Heureusement, ses fans de I'étrangers l’ont, au contraire, complimentée.",
+      "bbox": {
+        "x": 0.53,
+        "y": 0.7582,
+        "width": 0.4194,
+        "height": 0.0773
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/y7orleoe17j81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

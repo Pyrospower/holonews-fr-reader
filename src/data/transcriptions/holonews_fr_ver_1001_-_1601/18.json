@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Les fans du Discord Holostars Fan Server ont fait un album virtuel sur yosetti.com, rempli de vœux d'anniversaire et de messages de remerciement pour Shinove, le manager des holostars, qui travaille dur et a supporté les garçons et les fans tout au € long de l’année.",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.0877,
+        "width": 0.4438,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "LET'S PLAY TERMINES",
+      "bbox": {
+        "x": 0.8388,
+        "y": 0.2227,
+        "width": 0.0944,
+        "height": 0.0308
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/djp3zei6i8e81.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

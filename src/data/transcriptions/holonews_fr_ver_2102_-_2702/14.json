@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holo EN",
+      "bbox": {
+        "x": 0.1581,
+        "y": 0.0365,
+        "width": 0.2256,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Amelia, Ina, Fauna, Kronii et Mumei se sont rencontrés pour la première fois dans la vie réelle et ont organisé la plus grande collaboration hors ligne d'holoEN à ce jour, depuis leur chambre d'hôtel. Ils ont organisé une séance de karaoké chaotique sur la chaîne d'Ame, divisée en deux parties, une archivée, l'autre non.",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.2491,
+        "width": 0.4038,
+        "height": 0.1159
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 22 février, Fauna a présenté sa mascotte, Nemu, dessinée par Asagi ! Nemu est une gilin, comme Fauna, elle aime dormir et est un peu égoïste. Ses fans ont également reçu 17 nouveaux émojis dessinés par Maeriette, dont 4 émojis de Nemu, un bâton lumineux rose et un vert, ainsi que Fauna chauve.",
+      "bbox": {
+        "x": 0.0563,
+        "y": 0.5343,
+        "width": 0.4106,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les membres du holoCouncil ont célébré leurs semi-anniversaires par un quiz qui a permis de tester leurs connaissances respectives. Plus tard dans le stream, ils ont annoncé de nouveaux produits dérivés : des figurines en acrylique pour chaque membre, un ensemble de badges et une serviette de bain avec leurs mascottes dessinées par Sana elle-même. La marchandise sera en vente à partir du 23 février, le lien est disponible dans les sources.",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.8194,
+        "width": 0.4063,
+        "height": 0.1489
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kiara, Calli et OMOCAT passeront en revue des photos de fans portant les vêtements holoEN x OMOCAT. Le stream aura lieu sur la chaîne de Kiara le 1er mars à 16h00 JST. Il y aura également une « annonce et des récompenses » ! Vous pouvez soumettre votre tenue en la tweetant avec le hashtag #HoloxOmoFashionPolice 12 heures avant la diffusion.",
+      "bbox": {
+        "x": 0.5306,
+        "y": 0.2556,
+        "width": 0.4175,
+        "height": 0.1289
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bae et IRyS ont organisé un défi « fais le doublage de ma femme », où l'une d'entre eux parle pendant que l'autre streame. Bae a streamé Mario Kart, et Iris faisait la voix. Elle a dit beaucoup de choses que Bae n'a pas aimé, comme promettre à Calli un stream de 72 heures de Jump King. Immédiatement après, c'était le tour d'IRyS, dont le stream comprenait des jeux de puzzle. Pour se venger de la promesse faite à Calli, Bae a fait se défier IRyS et Suisei à Tetris 99.",
+      "bbox": {
+        "x": 0.5263,
+        "y": 0.5703,
+        "width": 0.4169,
+        "height": 0.1619
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le troisième épisode de",
+      "bbox": {
+        "x": 0.5188,
+        "y": 0.7734,
+        "width": 0.275,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Baewatch, les filles ont célébré l'anniversaire du « Directeur ». La première partie de l'épisode était en |i japonais, et les vœux d'anniversaj£&",
+      "bbox": {
+        "x": 0.5163,
+        "y": 0.7891,
+        "width": 0.3738,
+        "height": 0.0629
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "étaient en anglais avec des sous-titres japonais. Hatsuna a admiré la voix douce d'ltsuka, et Murasaki a remercié le directeur pour son appel de Noël. Hatsuna a dit qu'elle avait hâte de voir ce que le directeur allait créer ensuite !",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.8516,
+        "width": 0.3288,
+        "height": 0.1055
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2mcp2m89e0m81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

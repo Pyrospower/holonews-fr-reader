@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Subaru n'a ni confirmé ni démenti la rumeur selon laquelle elle était à l'intérieur du costume de canard Subaru pendant l'exposition hololive. Elle a laissé à notre imagination le soin de croire ou non à la rumeur.",
+      "bbox": {
+        "x": 0.0588,
+        "y": 0.2183,
+        "width": 0.4206,
+        "height": 0.0699
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.1644,
+        "y": 0.4371,
+        "width": 0.1188,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru est une vraie farceuse ! En lisant les Super Chats, Subaru parlait de différents projets de marchandise pour son anniversaire. Elle a suggéré soit un maillot de bain, soit une baignoire, et semblait avoir une préférence pour le maillot de bain, mais c'était un piège ! Elle a précisé qu'elle parlait du canard Shuba, et non d'elle-même. Sa ruse semble avoir porté ses fruits, puisque de nombreux spectateurs se sont indignés dans le chat après avoir réalisé qu'ils avaient été dupés.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.4761,
+        "width": 0.3888,
+        "height": 0.171
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco & Aki",
+      "bbox": {
+        "x": 0.2131,
+        "y": 0.7943,
+        "width": 0.1906,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco et Aki se sont accidentellement retrouvées en jouant à ARK. Elles se sont rencontrées aux côtés de leurs singes dans une grotte, mais leurs retrouvailles ont rapidement tourné court lorsque Choco est soudainement morte. Aki a pu sauver l'inventaire de Choco, mais elle s'est occupée de ses singes et ceux de Choco ensemble pendant que Choco attendait Aki. Choco a fini par récupérer toutes ses affaires mais elle n'est pas devenue plus prudente.",
+      "bbox": {
+        "x": 0.0663,
+        "y": 0.8325,
+        "width": 0.4088,
+        "height": 0.1428
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après l'annonce de l'équipe de Towa pour le tournoi VSaikyou Apex qui avait choqué beaucoup de monde, Aqua a organisé un stream discussion imprévu pour en parler. Ce serait son premier tournoi Apex, et son deuxième tournoi en tout. Son premier tournoi était l'un des premiers tournois VSaikyou PUBG. Aqua voulait faire quelque chose de surprenant cette année, elle a donc demandé à Towa si elle pouvait rejoindre son équipe après avoir vu qu'elle était devenue capitaine. Aqua a également invité Suisei car elle voulait jouer et parler davantage avec elle.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.2183,
+        "width": 0.3906,
+        "height": 0.2057
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vers la fin du stream, elle a expliqué pourquoi elle ne streamait plus depuis quelques semaines, et ce n'était pas seulement car elle s'entraînait à Apex. Aqua a mentionné qu'elle a perdu sa motivation pour le streaming pendant un certain temps et qu'elle a été un peu déprimée. Elle pense vraiment que c'est peut-être le premier et le dernier tournoi Apex pour elle, car il est très difficile pour elle de gérer l'entraînement et tout le reste. Il se peut qu'elle change d'avis plus tard mais le plus important c'est qu'elle est toujours déterminée à gagner.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.4371,
+        "width": 0.3869,
+        "height": 0.2057
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a repéré un nouveau talent pour la génération 7 d'hololive ! Dans son stream Vampire Survivors, elle a mentionné que le personnage qu'elle incarnait, Antonio, était très populaire auprès des monstres. Elle a donc suggéré à Antonio de devenir une idol pour cette raison.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.8329,
+        "width": 0.39,
+        "height": 0.1024
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/y7r06h61s5q81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

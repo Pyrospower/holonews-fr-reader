@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 11,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Présentation des papas et mamans",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.0525,
+        "width": 0.9111,
+        "height": 0.0305
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sakusha",
+      "bbox": {
+        "x": 0.1494,
+        "y": 0.1312,
+        "width": 0.15,
+        "height": 0.0201
+      }
+    },
+    {
+      "type": "other",
+      "text": "@sakusya2honda",
+      "bbox": {
+        "x": 0.1506,
+        "y": 0.159,
+        "width": 0.1622,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Yonemuro @yosk6000",
+      "bbox": {
+        "x": 0.62,
+        "y": 0.1319,
+        "width": 0.1778,
+        "height": 0.0405
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "KEKI",
+      "bbox": {
+        "x": 0.6217,
+        "y": 0.4174,
+        "width": 0.0828,
+        "height": 0.0185
+      }
+    },
+    {
+      "type": "other",
+      "text": "@rudecopper",
+      "bbox": {
+        "x": 0.6217,
+        "y": 0.4444,
+        "width": 0.1289,
+        "height": 0.0127
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/v800fg46wis81.gif",
+    "gifFrame": 15,
+    "confidence": 80
+  }
+}

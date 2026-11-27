@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.3944,
+        "y": 0.0161,
+        "width": 0.2125,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama & Koyori",
+      "bbox": {
+        "x": 0.1963,
+        "y": 0.0994,
+        "width": 0.295,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans leur premier stream Minecraft ensemble, Haachama a obtenu l'aide de Koyori pour faire une blague à Miko. Ensemble, elles ont construit un faux lac de lave, qui mène en fait à une « salle de jeu » contenant une lettre d'invitation pour le rendez-vous qu'Haachama avait promise à Miko pour les élytres. Koyori, la meilleure partenaire, a aidé Haachama à écrire la lettre de sorte que les premières lettres de chaque ligne forment la phrase « Je t'aime, Mikochi », bien que Haachama ait insisté sur le fait qu'elle ne l'avait pas fait pour des raisons romantiques.",
+      "bbox": {
+        "x": 0.0731,
+        "y": 0.1306,
+        "width": 0.3894,
+        "height": 0.194
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama organise un concours de tenue pour Yagoo. Les fans peuvent lui envoyer une photo de Yagoo dans un costume qu'ils aimeraient le voir porter. Les photos seront acceptées jusqu'au 24 avril.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.2188,
+        "width": 0.3863,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama était trop effrayée pour jouer seule à The Closing Shift, elle a donc appelé Hoshikawa Sara de Nijisanji pour qu'elle l'aide. Bien que Sara elle-même n'ait terminé le jeu qu'un jour auparavant, elle taquinait",
+      "bbox": {
+        "x": 0.3444,
+        "y": 0.3559,
+        "width": 0.6131,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Haachama Haachama à chaque fois qu'il y avait un moment effrayant dans le jeu.",
+      "bbox": {
+        "x": 0.1438,
+        "y": 0.3728,
+        "width": 0.7963,
+        "height": 0.0412
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1656,
+        "y": 0.4887,
+        "width": 0.1656,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama ne voulait pas s'inscrire à ses cours à l'université, elle a donc créé un stream où elle s'en plaignait à un Yagoo en carton et lui demandait de s'inscrire pour elle. Elle en est arrivée au point où elle a fait un faux discours d'adieu, car elle ne voulait pas s'occuper de la paperasse. Cependant, le stream a dû être interrompu car Haachama a découvert que Miko s'approchait de son piège sur Minecraft, elle a donc dû se rendre sur le serveur pour voir. Le lendemain, encouragée par son manager, Haachama s'est finalement inscrite au cours.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.526,
+        "width": 0.3906,
+        "height": 0.2027
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1656,
+        "y": 0.7943,
+        "width": 0.1656,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a organisé une fête où elle a rendu hommage aux sous-vêtements. Elle a dessiné et discuté de ses ensembles de lingerie préférés, et a même utilisé Mumei comme modèle pour l'un des dessins. Elle a terminé le stream avec un dessin de son manager et a été ravie de voir à quel point il était dévergondé. Haachama a également mentionné qu'elle pourrait faire une présentation des sous-vêtements qu'elle vient d'acheter la prochaine fois.",
+      "bbox": {
+        "x": 0.0675,
+        "y": 0.829,
+        "width": 0.3863,
+        "height": 0.1523
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La revue de shitpost Reddit d'Haachama est encore une fois de retour. Cette fois, le format était légèrement différent : elle a préfacé ses réflexions et traduit les memes en japonais pour que les spectateurs japonais puissent comprendre. Elle a terminé le stream en déclarant une guerre d'étudiantes à Mumei, et l'a mangée.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.605,
+        "width": 0.3881,
+        "height": 0.1107
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a mangé un œuf malgré ses allergies. Elle a déclaré qu'elle essayait de faire travailler son estomac. Elle a dû souffrir de maux d'estomac toute la journée.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.8906,
+        "width": 0.3838,
+        "height": 0.0729
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0imd3rfnbjr81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

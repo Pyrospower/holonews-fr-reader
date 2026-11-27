@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 11,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.26,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela fait quelque temps qu'Astel a commencé à utiliser des miniatures appropriées pour ses karaokés, mais il a finalement utilisé une illustration de sa tenue d’été pour 'une entres-elles. Ce stream karaoké s'est soudainement transformé en présentation de sa tenue d'été 2.0. L'archive du stream est disponible pour les membres de sa chaîne, donc souscrivez y dès maintenant pour voir la présentation complète !",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.2183,
+        "width": 0.3825,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après le stream, Astel a fait une annonce de la création du compte twitter de son nouvel ami furry, Apolleon, à @STAR_AnimaLs_. Allez le suivre, si ce n’est pas déjà fait.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.3663,
+        "width": 0.3894,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lzuru a tweeté qu'il a été coincé dans son propre appartement parce que le service de distribution d’eau avait bloqué sa porte d'entrée. Il a ensuite réalisé qu’il avait reçu une note lui indiquant qu'il devait partir devant sa porte d'entrée. Il a donc conclu que c'était de sa faute et il s'est senti bête.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.5169,
+        "width": 0.3888,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.1706,
+        "y": 0.8021,
+        "width": 0.2031,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les produits dérivés d'HOLOSTARS SUMMER 2022 sont disponibles ! Les produits disponibles sont un support en acrylique, un ensemble de pochettes transparentes ainsi que des cartes transparentes, des pins et une gourde transparente avec tous les membres d’Holostars ! En plus de ça, trois enregistrements sont disponibles, avec les talents regroupés pour avoir un ensemble divers d'activités liées à l'été. Les produits sont en vente du 25 juillet 2022 au 30 Janvier 2023 et seront disponible jusqu'à écoulement du stock.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8394,
+        "width": 0.3863,
+        "height": 0.1432
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel est de retour cette semaine avec une collab sur Apex. Après avoir atteint le rang Diamant en solo la semaine dernière, Astel a rejoint dtto et Restia, deux streameurs et joueurs pro d’Apex de la team SCARZ, pour défier des Diamants. A cause de certains changements sur le système de rang d’Apex, leurs parties étaient remplis d'anciens joueurs Master et Predator.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.2179,
+        "width": 0.3806,
+        "height": 0.1107
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les trois ont débarqué dans leur première partie avec le sourire. Restia et dito se sont moqués de la taille d'Astel et le groupe a eu des sujets des discussions controversés qui ont pu les rendre « enjouées sous le feu de l’action », le tout en anglais.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.3438,
+        "width": 0.3638,
+        "height": 0.076
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A la fin, ils ont dit qu’ils allaient devenir Master ensemble.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.4319,
+        "width": 0.3819,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Temma semble être addict à Monster Hunter Rise. Cela peut se voir à la liste des streams qu'il a fait. Sur cinq streams récents, tous étaient sur Monster Hunter Rise.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.6337,
+        "width": 0.3744,
+        "height": 0.0503
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a fait quelques variations pour ses streams en faisant du multi-joueurs avec ses spectateurs, et une collaboration avec Miyabi. D'après l'aperçu que l’on a eu, il semble que son addiction soit toujours d'actualité. Bravo Temma.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.701,
+        "width": 0.3787,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir eu son la mise à jour de son Live2D, Aruran a essayé de nombreux accessoires faits par ses fans en stream. Cela allait des perruques, à des lunettes, des boucles d'oreilles, des vêtements, ou bien encore des pizzas, voire même des cache-tétons, etc.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.8854,
+        "width": 0.3844,
+        "height": 0.0924
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/dlffwig4fig91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

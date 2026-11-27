@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "[= Le 28 janvier prochain, Aqua donnera un",
+      "bbox": {
+        "x": 0.0088,
+        "y": 0.3025,
+        "width": 0.4581,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "5 concert solo dans lequel les autres",
+      "bbox": {
+        "x": 0.0113,
+        "y": 0.3073,
+        "width": 0.3938,
+        "height": 0.0412
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "E membres d'UMISEA (Marine, Ina et Gura) feront leur apparition en tant",
+      "bbox": {
+        "x": 0.0113,
+        "y": 0.3394,
+        "width": 0.405,
+        "height": 0.0365
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[= qu'invitées. Les deux camarades",
+      "bbox": {
+        "x": 0.0088,
+        "y": 0.3685,
+        "width": 0.3781,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "5 d’holoMyth participeront en 2D. Elles",
+      "bbox": {
+        "x": 0.0113,
+        "y": 0.3728,
+        "width": 0.4144,
+        "height": 0.0417
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "G rejoignent la liste des invitées confirmées : Subaru & Nene (les partenaires d'Aqua",
+      "bbox": {
+        "x": 0.0113,
+        "y": 0.4049,
+        "width": 0.4581,
+        "height": 0.0369
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La figurine de Flare conçue par Figma est disponible en précommande sur le site de GoodSmile. Trois expressions faciales sont fournies, ainsi que divers accessoires comme & son arc, ses lunettes et sa bague. Kintsuba 7, est également de la partie, et le bonus de El précommande sur le site de GoodSmile est un second Kintsuba d’une couleur alternative. La I tenue utilisée est celle antérieure a la récente & mise à jour.",
+      "bbox": {
+        "x": 0.0113,
+        "y": 0.7166,
+        "width": 0.465,
+        "height": 0.1467
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion et Nene ont organisé un stream ensemble en personne. Equipées d’une : caméra, elles y ont cuisiné des takoyaki en direct tout en discutant dans la joie et la bonne humeur.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.3043,
+        "width": 0.45,
+        "height": 0.089
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Noel a révélé à sa (véritable) mère son appartenance au groupe hololive. Cependant, il se trouve que sa mère était apparemment déjà au courant.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.717,
+        "width": 0.4069,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La discussion entre Noel et sa mere a eu lieu durant la pause qu'elle avait annoncée, où elle est retournée au « vrai Kyushu ». Elle a rendu visite a sa famille pour passer du temps avec eux pour la première fois depuis qu’elle a rejoint",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.7969,
+        "width": 0.4213,
+        "height": 0.0985
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4ans4cr7op881.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

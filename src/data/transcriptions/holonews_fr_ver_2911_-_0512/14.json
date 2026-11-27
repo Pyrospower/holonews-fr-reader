@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "AND CHESS. ALSO AM A MEMBER OF",
+      "bbox": {
+        "x": 0.1463,
+        "y": 0.1654,
+        "width": 0.3244,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre énergique idole Zombie a découvert a son réveil son propre badge de vérification Twitter. Ollie est donc la 2e membre d’holoRo à être certifiée sur Twitter, et la 14e au total avant Fubuki.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2418,
+        "width": 0.425,
+        "height": 0.0742
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le « «Lundi productif » de cette semaine a eu le droit à une Reine en « Tenue de combat et Armes » dans une « tenue des combats » très",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.4466,
+        "width": 0.4125,
+        "height": 0.0503
+      }
+    },
+    {
+      "type": "heading",
+      "text": "RISU",
+      "bbox": {
+        "x": 0.1706,
+        "y": 0.5373,
+        "width": 0.1844,
+        "height": 0.0317
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour finir le « Nonstop Nut November », Risu a tenu un stream afin de passer en revue les « NNN » de 2020 et 2021 avant de sortir sa dernière vidéo de novembre.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.7148,
+        "width": 0.415,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le jour suivant, Risu et I'écureuil de Twitch Sif Avellana ont partagé un stream noiseté pour célébrer le NNN, dans lequel elles ont prévu de faire encore plus de « Nonstop Nut November » avec encore plus de « Ecureuil-VTuber ». Voici leur raisonnement, si vous privez un écureuil de noix pendant un mois, va-t-il survivre ?",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.786,
+        "width": 0.4213,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais la fin du NNN ne va pas empêcher Risu de continuer. En effet, sa nouvelle série a commencé le 1er décembre sous le nom de « Je vais chanter “Padoru” comme je veux 30 jours à la suite ».",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.901,
+        "width": 0.4256,
+        "height": 0.0707
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "HololD a annoncé « holoID week 2021 », des streams allant du 18 au 24 décembre où les filles d’hololD diffuseront du contenu spécial. Le contenu et le programme seront annoncés dans peu de jours.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2422,
+        "width": 0.4244,
+        "height": 0.0777
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le « Youtube Music Weekend », Moona a révélé de stupéfiantes versions acoustiques au piano des chansons d'hololive « Blue Clapper », « Shijoshugi Adtruck », « Ai no Chiisana Uta » et « id:entity voices (arr. 4 Kota Hatamiya) ».",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.355,
+        "width": 0.2563,
+        "height": 0.1554
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Risu et l’auteur de Webtoon Merryweather se sont associées pour la création d’une bande dessinée qui fut ensuite doublée.",
+      "bbox": {
+        "x": 0.5275,
+        "y": 0.7105,
+        "width": 0.4181,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’ addiction de Risu a Minecraft ne s'est jamais autant révélée que cette semaine. Elle a stream rien que pour se vanter de ses constructions. A ce stade, on peut dire sans hésiter que la plupart des batiments viennent delle.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.8785,
+        "width": 0.4175,
+        "height": 0.0951
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cbatbs7rjq581.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

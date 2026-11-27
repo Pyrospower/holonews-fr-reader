@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2208_-_2808",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Astel a accueilli TEMPUS au sein d'HOLOSTARS en les invitant à jouer à Apex au cours de deux streams. Le premier stream était avec Altare et",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.1875,
+        "width": 0.4456,
+        "height": 0.0399
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vesper, tandis que le deuxième avait Axel accompagné d'Izuru (voir la page suivante). À part quelques parties gagnées, et les coups finaux d'Astel et de sa Mag Maggie, ils ont communiqué ensemble avec un anglais et un japonais approximatif, tout en ayant des discussions assez risquées.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.2279,
+        "width": 0.4456,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la première fois, Izuru a fait une collab avec Nekozeno Shin de NoriPro. Izuru et Shin partagent le même illustrateur, TCB, et Shin est le plus jeune de la famille TCB. La collab comportait deux segments, une interview et un duo. Dans le segment interview, lzuru a partagé qu'il a postulé à hololive car HOLOSTARS n'existait pas encore. II a également dévoilé que ses jeux préférés sont Raft, Raft et Raft et qu'il aime le jazz et le rock. Ils ont mis fin à la collab avec un duo, où Izuru à jouer de la guitare et ils ont chanté ensemble.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.3759,
+        "width": 0.445,
+        "height": 0.1606
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils ont chanté deux chansons : « Yozora no Mukou » de SMAP et « Cherry » de SPITZ. Izuru a dit que Shin pouvait l'appeler « Aniki » à partir de maintenant.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.7609,
+        "width": 0.445,
+        "height": 0.0399
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le gang survivaliste est de retour pour explorer la nouvelle mise à jour de Raft. Pendant que Temma et Roberu exploraient les îles, Izuru était occupé en train de découvrir comment peindre leur radeau. Après avoir construit la machine de peinture, il a essayé de tout peindre en rose alors que Temma a coloré les autres parties en vert. Ils ont dit qu’ils voulaient des pièces séparés pour avoir un espace privé chacun mais ont créé une salle de bain que tout le monde peut voir.",
+      "bbox": {
+        "x": 0.0388,
+        "y": 0.8576,
+        "width": 0.4456,
+        "height": 0.1224
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shadowgear",
+      "bbox": {
+        "x": 0.6506,
+        "y": 0.1523,
+        "width": 0.1888,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shien et Rikka, aussi connu sous le nom de Shadowgear, ont fété leur premier anniversaire ensemble au studio. Ils ont dit qu’ils avaient prévu ce stream de collab ensemble depuis un bon moment. Ils ont chanté trois chansons originales ensemble : « Beginning », « PENTAS » et « Re: Hello World ». lls ont également joué à 51 Worldwide Games et le gagnant avait le droit de manger les sucreries qu’ils avaient préparé, allant de pudding fruité à des desserts au fruits. Ensuite, ils ont jeté un œil et ont réagi au fanart de leur hashtag. Ils ont mis fin à leur collab en faisant un peu de pub pour le concert d'HOLOSTARS, HOLOSTARS 2nd ACT qui prendra place le 20 Octobre, l'album à venir d'HOLOSTARS, Follow Us, et le blu-ray HOLOSTARS 1st ACT qui seront disponible le 31 août. Joyeux premier anniversaire, Shadowgear !",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.1918,
+        "width": 0.4456,
+        "height": 0.2491
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rio Le 21 et 22 Août, Rio s'est déchaîné avec un stream marathon sur Minecraft du matin au soir, ne montrant aucun signe de fatigue. Aruran l’a même rejoint pour terminer leurs constructions. D'ailleurs, Aruran et Rio ont révélé un événement pour",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.4635,
+        "width": 0.445,
+        "height": 0.0972
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "accueillir TEMPUS sur leur serveur Minecraft pour le 23 Août.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.5603,
+        "width": 0.4444,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant qu'il se reposait chez lui, Gamma avait du temps libre et s’est mis à jouer à Apex toute la journée. Il a partagé sur Twitter son gain de 495 RP.",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.8207,
+        "width": 0.4463,
+        "height": 0.0425
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4xjo32wzr1m91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

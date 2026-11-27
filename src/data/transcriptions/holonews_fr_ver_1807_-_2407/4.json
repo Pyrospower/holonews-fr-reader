@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 4,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le 21 juillet, la mystérieuse silhouette de Towa dans sa nouvelle tenue a enfin été dévoilée en stream. Towa regardait les prédictions qui ont été envoyées, et l'une d'entre elles était d'une précision effrayante, ce dont Towa se méfiait beaucoup. Mais dans l'ensemble, la plupart des soumissions étaient des uniformes de l'ère victorienne/gothique avec des jupes hautes, à l'exception d'un maillot de bain inspiré d'hololive summer.",
+      "bbox": {
+        "x": 0.0756,
+        "y": 0.4606,
+        "width": 0.3994,
+        "height": 0.1694
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir vu et montré les prédictions des fans, Towa a révélé sa tenue ! Des mocassins bruns avec des chaussettes rayées, une jupe plissée avec un corset, et pour finir une veste courte sur une chemise noire et une cravate violette, elle ressemble à une étudiante de l'académie de magie noire.",
+      "bbox": {
+        "x": 0.0756,
+        "y": 0.6373,
+        "width": 0.3983,
+        "height": 0.1231
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa a deux tresses assorties avec son uniforme. Elle a également reçu de nouveaux piercings de sa maman, cette fois en noir chrome. Tout le monde a été surpris de voir que Towa avait toujours ses cornes de démon sous divers couvre-chefs. Il y a eu une autre surprise : Towa a révélé une version d'été de la tenue, avec la veste en moins, une queue de cheval de côté et des manches courtes. Towa a terminé le stream par une brève salutation à tous les spectateurs et une rapide session de captures d'écran.",
+      "bbox": {
+        "x": 0.0756,
+        "y": 0.7677,
+        "width": 0.395,
+        "height": 0.201
+      }
+    },
+    {
+      "type": "other",
+      "text": "£2016 COVER Corp",
+      "bbox": {
+        "x": 0.8178,
+        "y": 0.4124,
+        "width": 0.0956,
+        "height": 0.0116
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Luna a révélé sa nouvelle tenue le 23 juillet. Pour commencer, elle a montré ses anciennes tenues, avant de laisser les spectateurs deviner. La plupart d'entre eux ont répondu qu'il s'agissait d'un costume de princesse très élégant ou d'un costume de chevalier. Cependant, certaines personnes pensaient que son nouveau costume la transformerait en adulte sexy avec des éléments comme des porte-jarretelles et de la dentelle.",
+      "bbox": {
+        "x": 0.5306,
+        "y": 0.4603,
+        "width": 0.3833,
+        "height": 0.1543
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir passé en revue toutes les soumissions, elle est partie changer de vêtements et de pièces. Elle a révélé un nouvel arrière-plan et est sortie dans sa nouvelle tenue. Sa nouvelle tenue était un peu différente de la normale. Luna portait une robe blanche avec de gros nœuds noirs.",
+      "bbox": {
+        "x": 0.5311,
+        "y": 0.6227,
+        "width": 0.3694,
+        "height": 0.12
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sa coiffure était également différente, puisqu'elle avait de très longues couettes et une frange. Elle a également une version avec un chignon, et son illustrateur, Kanzaki Hiro, peut se reposer sur le dessus de sa tête.",
+      "bbox": {
+        "x": 0.5311,
+        "y": 0.755,
+        "width": 0.38,
+        "height": 0.0887
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer l'arrivée de sa nouvelle tenue, elle sort une couverture de traversin et une couverture de boîte à mouchoirs. Acheter le set complet vous permettra d'obtenir une carte bromure signée. Luna a également publié le clip de sa chanson originale, « Zettai Chuusei/Nanonanora ! », juste après le stream.",
+      "bbox": {
+        "x": 0.5278,
+        "y": 0.8546,
+        "width": 0.3867,
+        "height": 0.1146
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ofvroeno0qf91.gif",
+    "gifFrame": 89,
+    "confidence": 94
+  }
+}

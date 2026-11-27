@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 17,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Divers",
+      "bbox": {
+        "x": 0.4369,
+        "y": 0.0265,
+        "width": 0.1263,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "TOKOYAMI TOWA",
+      "bbox": {
+        "x": 0.2781,
+        "y": 0.1398,
+        "width": 0.1288,
+        "height": 0.0078
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les machines à pinces de Capcom mettront en scène Towa et La+ grâce à leur collaboration avec hololive. Elles ont toutes deux des illustrations originales qui seront une variété de produits dérivés, notamment un support acrylique, une tapisserie B2, un porte-clés, un tapis de souris et des coussins. L'événement débute le 26 août.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.3129,
+        "width": 0.3838,
+        "height": 0.089
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "hololive organisera une foire à Shinjuku les 26 et 27 août. Il y aura des stands où vous pourrez gagner des pièces que vous pourrez dépenser dans le défi de la pastèque géante. Les prix de l'événement comprennent des cartes à l'effigie de AZKi, Matsuri, Aqua, Shion et Flare. Le grand prix est un happi, une veste traditionnelle portée lors des festivals japonais.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.2721,
+        "width": 0.3881,
+        "height": 0.1246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4081,
+        "y": 0.424,
+        "width": 0.185,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "“LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.4275,
+        "width": 0.2094,
+        "height": 0.0169
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/uw7vqwrupok91.png",
+    "gifFrame": null,
+    "confidence": 87
+  }
+}

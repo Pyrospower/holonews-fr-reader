@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Fidèle à sa promesse faite lors de la collaboration sur Diablo 2, Kronii a emprunté la classe de Kiara pour lui donner une leçon de coréen. Kronii lui a enseigné les bases de la langue coréenne, pour le plaisir des nombreux Kankoku-niki (fans coréens) présents dans le tchat de stream. Plus Kiara devenait confiante, plus elle flirtait, laissant souvent la gardienne du temps sans voix. Pour ceux qui se demandent pourquoi il y a des images floues sur la VOD, c'est dû à une erreur de Kronii qui a utilisé des images protégées par le droit d'auteur pour son PowerPoint.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2674,
+        "width": 0.43,
+        "height": 0.1914
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "HoloCouncil nous a enfin dévoilé leur kimono du nouvel An dans un relais de stream dédié ce 16 janvier, une semaine après qu’holoMyth est révélé les siens.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.5043,
+        "width": 0.4006,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Apres le relais, elles ont fait l'étalage de leurs nouvelles tenues en jouant au Pictionary sur la chaîne de Fauna.",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.5846,
+        "width": 0.39,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un autre stream peu orthodoxe, une Mumei « furieuse » s’est plainte au sujet de son expérience en voiture, avec des flammes en arrière plan et du hard rock comme musique de fond. Il semblerait que Mumei ait eu un acces de rage en conduisant son animal de compagnie au parc. Après presque une heure de rage et de plainte, Mumei est allé sous l’eau pour lire les Super Chats.",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.2678,
+        "width": 0.42,
+        "height": 0.1597
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/kc62oei6i8e81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

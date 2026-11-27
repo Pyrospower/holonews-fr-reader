@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 1,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Anniversaire d'Ayame",
+      "bbox": {
+        "x": 0.0189,
+        "y": 0.2643,
+        "width": 0.2239,
+        "height": 0.0459
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'équipe d'Holonews est en pause jusqu'au 1er janvier",
+      "bbox": {
+        "x": 0.0411,
+        "y": 0.9356,
+        "width": 0.92,
+        "height": 0.0224
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/mdbr8fr7op881.gif",
+    "gifFrame": 37,
+    "confidence": 64
+  }
+}

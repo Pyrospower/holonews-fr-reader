@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projets de fans et divers",
+      "bbox": {
+        "x": 0.2638,
+        "y": 0.0317,
+        "width": 0.4706,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ara-Ara Button",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.1072,
+        "width": 0.2406,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suite au stream récent de Fauna « 500 ara-ara pour les 500k », @SanaBeliever sur Twitter a clippé tous les « Ara-ara » de Fauna pour en faire un site sur lequelle tu peux presser un bouton pour entendre un « Ara-ara » aléatoire.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.1428,
+        "width": 0.3831,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron a été rejoint par Subaru, Choco, et Luna pour un stream sponsorisé par ~~ Babylon's Fall. Les quatre se sont précipités dans la bataille, guidés par la lionne blanche qui jouait solo précédemment. Il y a eu beaucoup de cris et de rires en pendant les combats contre les boss.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.3238,
+        "width": 0.3881,
+        "height": 0.0833
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le serveur de fans coréens d’hololive a préparé un cadeau d'anniversaire pour Suisei : un MV animé par les fans pour son original Ghost. Vous pouvez voir le résultat dans les liens dans les commentaires !",
+      "bbox": {
+        "x": 0.5331,
+        "y": 0.204,
+        "width": 0.3888,
+        "height": 0.0699
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4081,
+        "y": 0.4227,
+        "width": 0.185,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.4266,
+        "width": 0.2094,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ÆLERS",
+      "bbox": {
+        "x": 0.2663,
+        "y": 0.7248,
+        "width": 0.0963,
+        "height": 0.0161
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/wmzc4at6qws81.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

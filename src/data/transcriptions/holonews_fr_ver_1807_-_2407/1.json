@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Débuts de TEMPUS *°",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.0113,
+        "width": 0.2688,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Numéro spécial Sana",
+      "bbox": {
+        "x": 0.3819,
+        "y": 0.0113,
+        "width": 0.2519,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Nouvelles tenues",
+      "bbox": {
+        "x": 0.7256,
+        "y": 0.0117,
+        "width": 0.2488,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "heading",
+      "text": "lofi",
+      "bbox": {
+        "x": 0.8863,
+        "y": 0.1918,
+        "width": 0.0869,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a fêté son anniversaire",
+      "bbox": {
+        "x": 0.7713,
+        "y": 0.2348,
+        "width": 0.2056,
+        "height": 0.0447
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "concert 3D spécial",
+      "bbox": {
+        "x": 0.7963,
+        "y": 0.3793,
+        "width": 0.1806,
+        "height": 0.0482
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.8506,
+        "y": 0.4618,
+        "width": 0.1281,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a fait son propre lcAncert 3D",
+      "bbox": {
+        "x": 0.7881,
+        "y": 0.5052,
+        "width": 0.1938,
+        "height": 0.0707
+      }
+    },
+    {
+      "type": "other",
+      "text": "Vous voulez nous aider ? N Rejoignez notre Discord ! NS",
+      "bbox": {
+        "x": 0.4931,
+        "y": 0.9366,
+        "width": 0.3494,
+        "height": 0.0525
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/j1sg7blo0qf91.png",
+    "gifFrame": null,
+    "confidence": 83
+  }
+}

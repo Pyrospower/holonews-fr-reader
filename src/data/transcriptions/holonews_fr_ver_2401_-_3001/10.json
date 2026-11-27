@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Alors que de nombreux membres de la branche japonaise d’hololive jouent a Légendes Pokémon : Arceus ou ARK, Koyori s’est vantée de son permis de conduire en or en streamant Bus Simulator 21. Cependant, conduire un bus est totalement différent de ce qu'elle pensait, résultant en une mine d'or de moments drôles. Nous l’avons vue se coincer dans la porte du concessionnaire de bus, percuter d’autres voitures, et, bien sûr, renverser des piétons. À la fin du stream, certains fans l'ont remerciée d'avoir fait un stream « sur GTA ».",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.2743,
+        "width": 0.4244,
+        "height": 0.2205
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La semaine dernière, notre coyote a organisé un stream karaoké endurance pour atteindre l'objectif des 500k abonnés qu'elle s’est fixé à ses débuts pour l'année 2021. Le stream a duré environ 4 heures, elle a chanté 41 chansons et il y a eu beaucoup de moments hilarants quand elle était proche des 500k. À la fin du stream, elle a aussi annoncé la sortie de sa 3e reprise, cette fois-ci de « S'il Vous President ».",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.5195,
+        "width": 0.4281,
+        "height": 0.178
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lui Après des semaines d'attente, Lui a enfin reçu son prix, un Métamorph chromatique, après avoir gagné le tournoi Métronome que Pekora a organisé le 3 janvier.",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.8316,
+        "width": 0.4175,
+        "height": 0.1016
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les spectateurs d'lroha ont montré un fort instinct maternel envers elle. De nombreux Super Chats ont été envoyés avec des phrases comme « mange de la viande » et « voici de l'argent pour tes frais de subsistance ». Iroha s'est alors demandé si le chat n'était pas sa mère. Beaucoup de téléspectateurs ont reconnu avec enthousiasme qu'elle l'était.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.2739,
+        "width": 0.4244,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Laplus accorde une grande importance au fait d'avoir de nombreux fans inconditionnels. Afin d'en gagner davantage, elle a essayé de ne parler qu'avec une voix mignonne pendant une course entière lors de son stream sur Mario Kart. Malheureusement, elle n'a pas pu maintenir cette façade puisque sa frustration éclatait à chaque fois qu'il lui arrivait quelque chose de mal durant la course.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.6432,
+        "width": 0.4181,
+        "height": 0.1723
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Laplus a été accusée par un de ses spectateurs d'être seule chez elle. Elle l'a nié et a déclaré qu'elle avait en réalité 5 000 personnes avec elle à ce moment précis.",
+      "bbox": {
+        "x": 0.5169,
+        "y": 0.8416,
+        "width": 0.4281,
+        "height": 0.0859
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ou4ruhhuufg81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

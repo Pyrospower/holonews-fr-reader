@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 2,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Lui a révélé son modèle 3D le 21 juin ! Après un message expliquant que le stream est « très convivial pour les familles », elle a fait son entrée en conduisant une moto dans la rue, en portant ses lunettes de Kamina et en chantant « One Night Carnival ». Ensuite, sous la pleine lune, elle a demandé aux nouveaux spectateurs de s'abonner, a présenté le modèle 3D de Ganmo (sa mascotte) puis a chanté « Prologue ». Elle s'est ensuite excusée auprès de Ganmo pour avoir cassé la moto, ce qui lui a valu une interdiction de consommer de l'alcool et une sévère correction de sa part.",
+      "bbox": {
+        "x": 0.3867,
+        "y": 0.3785,
+        "width": 0.5322,
+        "height": 0.1566
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En second lieu, elle nous a emmenés dans un bar et a montré les Luitomos en 3D, qui ont le même mode « œil de faucon » (avec des yeux orange) que Lui. À la demande du tchat qui voulait être « puni », elle a matérialisé un fouet et les a frappés parce que nous pensions toujours à des choses érotiques. « Très f amilial », en effet. Elle a ensuite fait appel à La+, Koyori et Iroha qui souhaitaient toutes être punies également. Lui a fait remarquer qu'lroha était sûrement la plus perverse du groupe.",
+      "bbox": {
+        "x": 0.3872,
+        "y": 0.5579,
+        "width": 0.5156,
+        "height": 0.1497
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont joué par la suite à des charades avec des questions relatives au personnage de Lui. Lui s'est également présentée comme la directrice des Houshou Pirates, imitant la salutation de Marine. Lui a annoncé une after-party réservée aux membres et une cover de « Kimi Sora Kiseki ». Elle a également annoncé que La+ dévoilerait son modèle le jour suivant. Enfin, elle a annoncé et interprété sa première chanson originale, « Overd », produite par Hiiragi Kirai. La diffusion s'est terminée par un message préenregistré de Chloé, qui disait apprécier le travail de Lui. Lui est finalement arrivée sur la scène des idoles pour chanter « Kirameki Rider ».",
+      "bbox": {
+        "x": 0.3867,
+        "y": 0.7411,
+        "width": 0.5294,
+        "height": 0.1852
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xom67c82haa91.gif",
+    "gifFrame": 89,
+    "confidence": 94
+  }
+}

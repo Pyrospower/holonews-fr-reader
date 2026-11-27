@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "« Tonde K! hololive summer » w/ Sora, Marine, Watame, Lamy, Koyori",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.4279,
+        "width": 0.3656,
+        "height": 0.0305
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« Kirameki Rider » w/ Robocosan, Okayu, Noel",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.4788,
+        "width": 0.2561,
+        "height": 0.0305
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« Dreaming Days » w/ Shion, Choco, Kanata, Luna",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.5297,
+        "width": 0.2861,
+        "height": 0.0289
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« BLUE CLAPPER » w/ NePoLaBo",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.5802,
+        "width": 0.1906,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "C'est la fin de l'été ! hololive production a célébré la fin d'hololive Summer 2022 avec un concert spécial, Climax Story Live.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.1377,
+        "width": 0.3756,
+        "height": 0.0621
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Tous les membres d'holoJP étaient présents dans des tenues d'été, il a même eu des apparitions spéciales en 3D de membres d'joloEN. Ina et Gura ont chanté avec le reste d'UMISEA et leur nouveau membre, Chloe. Les musiques étaient originales et énergiques, mais il y a aussi eu des chansons plus apaisantes. Vers la fin, elles ont enfilé des yukata et ont interprété une nouvelle chanson originale, « Sparklers ».",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2222,
+        "width": 0.38,
+        "height": 0.1836
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« Yumemiru Sora He » + Produits dérivés : w/ Fubuki, Matsuri, Haato, Aki, Mel",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.6211,
+        "width": 0.6783,
+        "height": 0.039
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« AsuiroClearSky » w/ Miko, Flare, Lui",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.6817,
+        "width": 0.1767,
+        "height": 0.0289
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« Domination! All the World Is an Ocean » as UMISEA : « Prism Melody » w/ AZKi, Pekora, Watame « hololive ondo » w/ Subaru, Korone, Towa, Laplus « Sparklers » w/ Suisei, Mio, Ayame, Iroha",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.7323,
+        "width": 0.3744,
+        "height": 0.1829
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des acryliques stands 3D, version Shiny Wave : ;",
+      "bbox": {
+        "x": 0.5367,
+        "y": 0.6647,
+        "width": 0.3717,
+        "height": 0.0471
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une plaque en acrylique hololive",
+      "bbox": {
+        "x": 0.5378,
+        "y": 0.7103,
+        "width": 0.2983,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Summer 2022",
+      "bbox": {
+        "x": 0.5378,
+        "y": 0.7257,
+        "width": 0.1283,
+        "height": 0.0108
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des badges version Shiny Wave (aléatoire) Un mini album hololive Summer 2022 (aléatoire)",
+      "bbox": {
+        "x": 0.5378,
+        "y": 0.7562,
+        "width": 0.3433,
+        "height": 0.0745
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La révélation surprise était une nouvelle interprétation de la chanson iconique d'hololive, la version 2022 de Shiny Smily Story, avec l'ensemble des trente-cinq membres de holoJP.",
+      "bbox": {
+        "x": 0.5372,
+        "y": 0.8468,
+        "width": 0.3811,
+        "height": 0.0718
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/whfafsbjaqn91.gif",
+    "gifFrame": 89,
+    "confidence": 92
+  }
+}

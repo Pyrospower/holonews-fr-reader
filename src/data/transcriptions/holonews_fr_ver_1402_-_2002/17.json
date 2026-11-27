@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 17,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "DIVERS",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.0864,
+        "width": 0.2181,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 21e invité d’HoloTalk n’est autre que Flare ! L'épisode a couvert de nombreux sujets comme l'image de Flare et son contenu, ses intérêts, sa relation avec Noel, et plus encore.",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.2908,
+        "width": 0.4325,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Flare a parlé du fait que les streams karaokés sont ses préférés, de la liberté que les streams discussions accordent, et comment Miko a voulu la recruter dans sa propre entreprise sur Minecraft. Elle a également mentionné qu’elle préférait être vue comme une elfe mignonne plutôt que cool.",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.3607,
+        "width": 0.4344,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant qu’elle discutait de ses animés et mangas favoris, elle a expliqué que son amitié avec Noel avait commencé avant hololive, et comment cette amitié a eu un effet sur leur lien avec les autres membres de leur génération. Il y a beaucoup plus de sujets intéressants que nous ne pouvions pas ajouter alors, allez-y jeter un coup d'œil !",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.4748,
+        "width": 0.4394,
+        "height": 0.1176
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Haachama a accueilli deux nouveaux membres de famille lors d'une collab sur Human Fall Flat avec Papa Chloe et Maman Lui. Elles ne pouvaient parler qu’en anglais. Pendant tout le stream, Chloe a essayé de faire des avances à Lui, mais cette dernière refusait à chaque fois en insistant qu'elles étaient seulement mari et femme pour les affaires. Pendant ce temps, Haachama regardait le mariage de son nouveau papa et sa nouvelle maman finir en miettes.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7691,
+        "width": 0.4231,
+        "height": 0.1549
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le stream d'enseignement d'anglais de Calli avec Marine, Ina et Fubuki était devenu légèrement indécent lorsque Marine s’est mise à porter un maillot de bain sexy. Senchou n'arrêtait pas d'essayer de draguer Calli. Elle lui a proposé « d'aller dormir ensemble », une suggestion à laquelle Calli a répondu qu'elle ne dormait qu'avec un renard en peluche. Fubuki voulait s'échapper de tous ces flirts mais Ina est intervenue et l’a gardée sur place avec ses tentacules, au grand amusement de Marine. Lors du même stream, une Calli gênée a avoué qu'elle était une M, répondant aux avances de la capitaine excitée.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.3003,
+        "width": 0.4275,
+        "height": 0.2218
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le premier épisode 2D d’hololive ERROR a été mis en ligne sur la chaîne principale d’hololive cette semaine, nommé « Welcome to Aogami High School ». La vidéo est narrée par Sora pendant qu’elle suit le premier jour d'école du protagoniste en tant que nouvel élève. Nene, Lamy, Aki, Matsuri et Fubuki ont fait le doublage de leurs personnages respectifs. Etonnamment, une silhouette silencieuse qui ressemble grandement a Korone peut être aperçue durant I'épisode.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.727,
+        "width": 0.4231,
+        "height": 0.1918
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/msc19i9hplk81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

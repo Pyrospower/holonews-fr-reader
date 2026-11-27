@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_3005_-_0506",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "L'addiction à OkaKoro de Risu est de retour ! Lorsque la marchandise OkaKoro qu'elle avait commandée a finalement été livrée, Risu a immédiatement lancé un stream Halu. Pendant une heure, elle a exposé ce qu'elle avait acheté dans I'hystérie la plus totale. Elle a poussé des cris et des rires aigus et a sombré dans une folie absolue qui a amené tout le monde à s'interroger sur la nature du stream qu'ils regardaient.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.214,
+        "width": 0.3844,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Risu a organisé une revue de memes avec sa cadette Kobo, passant soigneusement en revue et montrant fièrement tous les memes (souvent dérangeant) soumis par ses fans. Comme on pouvait s'y attendre, il semble que le but de ce stream était davantage d'annihiler ce qui restait de l'innocence de Kobo que de passer en revue des memes. Mission accomplie.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.5356,
+        "width": 0.3975,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a La forgeronne Ka Kaela et sa fidèle dague, Anya, sont devenues d'horribles oies dans Untitled Goose Game. Elles ont passé leur temps à klaxonner sauvagement les villageois et à résoudre des énigmes pour semer le chaos, comme le font beaucoup d'oies. Kaela est restée bloquée à plusieurs reprises à l'intérieur de bâtiments, une fois dans le garage d'un commerçant, et une autre fois en entrant dans la maison de quelqu'un et en perdant de vue son oie.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.8225,
+        "width": 0.3875,
+        "height": 0.1523
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de son émission « Productive Monday », lofi a tiré Risu. Le thème, « Sailor Uniform », a été choisi au hasard sur un plateau tournant, après quoi les spectateurs ont demandé un nouveau tirage. lofi a accepté en déclarant qu'elle pouvait mélanger les thèmes. Le tirage suivant a donné « Wakipai », à la grande joie d'Iofi. Risu à répondu au dessin sur Twitter en commentant « Comme c'est mignon » avec un emoji rougissant. Plus tard dans la semaine, lofi a présenté son chef-d'œuvre dans une courte vidéo de tutoriel sur la création d'arrière-plans.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.214,
+        "width": 0.3781,
+        "height": 0.161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moona était en pause cette semaine parce qu'elle se sentait malade, ce qui a incité M-chan à lui recommander de manger léger et d'éviter les fritures. Mais quand Moona a posté des photos de son dîner, c'était tout sauf léger.",
+      "bbox": {
+        "x": 0.5325,
+        "y": 0.549,
+        "width": 0.3975,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie voulait jouer à Friday Night Funkin' depuis longtemps et elle a finalement pensé à le mettre dans son emploi du temps cette semaine. Dans les premiers niveaux du jeu, Ollie vibrait au son de la musique du jeu (cadeau de KawaiSprite) et participait au jeu d'« Appel et réponse » en improvisant des paroles. Elle a joué les niveaux 1 à 6 une fois en mode normal, puis une autre fois en mode difficile. Comme la plupart des gens, elle a eu du mal avec le niveau MILF en difficulté difficile, mais elle a quand même parlé de manière décontractée tout au long de ses multiples tentatives, mentionnant même les nouveaux jeux Pokémon. Elle prévoit de jouer le niveau 7 sur Newgrounds la prochaine fois.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.7205,
+        "width": 0.39,
+        "height": 0.2148
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/v4p04cgvbt591.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

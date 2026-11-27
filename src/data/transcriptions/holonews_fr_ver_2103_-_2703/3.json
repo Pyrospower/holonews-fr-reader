@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 3,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Hoshinova",
+      "bbox": {
+        "x": 0.1111,
+        "y": 0.0768,
+        "width": 0.3939,
+        "height": 0.0413
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour fêter son million d'abonnés (en février), Moona a organisé le « #1MillionDaywithMoona », un événement au cours duquel elle a streamé une journée entière. Moona a commencé la journée en essayant de faire un gâteau (dans Cooking Simulator), a sorti une nouvelle cover (« Gekkou »), a construit la chouette d'Harry Potter (avec des Lego), et a eu un « instant discussion » après le dîner au cours duquel elle a annoncé qu'elle sortirait son propre EP (mini-album) cette année.",
+      "bbox": {
+        "x": 0.1183,
+        "y": 0.7627,
+        "width": 0.3656,
+        "height": 0.2168
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Apres cela, elle a diffusé un karaoké de 100 chansons, en chantant les 20 premières en direct, puis en diffusant les 80 autres qu'elle avait enregistrées les deux jours suivant le holoFes (elle a dormi un peu pendant la diffusion de la partie préenregistrée). Ensuite, elle s'est réveillée le matin et a montré dans son stream Mamah Moona quelques courtes vidéos où d'autres holomems répondaient à quelques questions (« Quelque chose te préoccupe, ces derniers temps ? Que suggères-tu aux fans qui auditionnent pour hololive ? Que penses-tu de Moona ?\"). Dans cette section, Towa a demandé à Moona quelques suggestions pour être plus maléfique, ce à quoi Moona a répondu avec des détails diaboliques.",
+      "bbox": {
+        "x": 0.59,
+        "y": 0.5162,
+        "width": 0.3822,
+        "height": 0.2967
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin, elle a clôturé cette journée complète de stream par une collaboration sur Minecraft avec Risu et Ollie pour lancer la construction de « Borobudur » (le plus grand temple d'Indonésie) dans le serveur ID. Cela ne I'a pas arrétée pour autant, et elle a tenté une collab avec Bae quelques heures plus tard, qui a été interrompue a cause d'un bug de YouTube.",
+      "bbox": {
+        "x": 0.59,
+        "y": 0.8287,
+        "width": 0.3817,
+        "height": 0.1559
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/z5xe8ifnbjr81.gif",
+    "gifFrame": 101,
+    "confidence": 94
+  }
+}

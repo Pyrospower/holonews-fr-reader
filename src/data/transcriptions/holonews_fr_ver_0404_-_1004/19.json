@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 19,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0373,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Ame] Ookami Blues: 100K [Rio] Kimi no Myaku de Odoritakatta: 25K [Kobo] Mantra Hujan: 500K",
+      "bbox": {
+        "x": 0.1525,
+        "y": 0.0825,
+        "width": 0.335,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "04/ 06 [Flare] RGB: 500K [Towa/Miko/AkiRose/Polka/Iroha]",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.1419,
+        "width": 0.4375,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sakura No Ame: 500K",
+      "bbox": {
+        "x": 0.3044,
+        "y": 0.1801,
+        "width": 0.1831,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "heading",
+      "text": "[Lui/Okayu] identity: 1M",
+      "bbox": {
+        "x": 0.2969,
+        "y": 0.2118,
+        "width": 0.1894,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Shion/Aqua] Nee Nee Nee: 750K",
+      "bbox": {
+        "x": 0.2138,
+        "y": 0.2283,
+        "width": 0.2738,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Okayu] Nani Yatte Mo Umaku Ikanai (Cover): 250K [Watame] Everlasting Soul: 750K",
+      "bbox": {
+        "x": 0.0675,
+        "y": 0.2448,
+        "width": 0.42,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kanata/Towa] Usseewa: 2M",
+      "bbox": {
+        "x": 0.2531,
+        "y": 0.2778,
+        "width": 0.2331,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "04 / 10 [Sora] Sobakasu: 750K [Suisei/Calliope] Getcha: 15M [AZKi/Nene] Roki (Cover): 50K [Towa] Gira Gira (Cover): 100K [Okayu] Yona Yona Dance: 1M [Kanata] Chotto Azatoi (Cover): 75K [AZKi] Gamen No Naka No Kimi Ga Suki: 100K [Shion/Hoshikawa] Mahou Shoujo",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.3043,
+        "width": 0.4344,
+        "height": 0.1328
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "to Chocolate (Cover): 250K",
+      "bbox": {
+        "x": 0.2663,
+        "y": 0.4414,
+        "width": 0.2213,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Miko] Darling Dance: 750K",
+      "bbox": {
+        "x": 0.2656,
+        "y": 0.4579,
+        "width": 0.2219,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Calliope] end of a life: OM",
+      "bbox": {
+        "x": 0.2781,
+        "y": 0.4744,
+        "width": 0.2081,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "heading",
+      "text": "CAPSULE",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.6324,
+        "width": 0.3137,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Overwrite: 50K [Aqua/Okayu] Tenbyou No Uta: 750K [Okayu/Korone] U&l: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.0825,
+        "width": 0.3025,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Fuma] 222: 10K [Suisei] Template: 1M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1471,
+        "width": 0.1744,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Uproar] Envy Baby X King: 75K [HoloEN] Twelve Days of Christmas: 1M [Fubuki/Shien] Roki: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1801,
+        "width": 0.325,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Polka] Phony: 1M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2296,
+        "width": 0.1463,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Roberu] Rashisa: 100K [Okayu] Fuwa Fuwa Time: 2M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2613,
+        "width": 0.2431,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Polka/Kotone] Instant Heaven: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2943,
+        "width": 0.2994,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[A-Chan] Aqua Iro Palette (Tekina Remix): 100K [Suisei] I Shared a Kiss with Hatsune Miku: 750K [Reine] Love Me Love Me: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3108,
+        "width": 0.3956,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Calliope/Suisei] CapSule: 1M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3602,
+        "width": 0.24,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE ORIGINAL ORIGINAL",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.3932,
+        "width": 0.42,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[222] / Yatogami Fuma",
+      "bbox": {
+        "x": 0.5781,
+        "y": 0.5764,
+        "width": 0.2213,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fuma",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.6085,
+        "width": 0.0669,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "© AZKi & Nene ROKI",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.7296,
+        "width": 0.1181,
+        "height": 0.059
+      }
+    },
+    {
+      "type": "heading",
+      "text": "MAHOU SHOUJO TO CHOCOLATE",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.9297,
+        "width": 0.3563,
+        "height": 0.033
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GIRA GIRA",
+      "bbox": {
+        "x": 0.6706,
+        "y": 0.7691,
+        "width": 0.2294,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.9071,
+        "width": 0.0819,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "heading",
+      "text": "CHOTTO AZATOI",
+      "bbox": {
+        "x": 0.5194,
+        "y": 0.9297,
+        "width": 0.1538,
+        "height": 0.033
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xr2di069qau81.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 15,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Les collaborations de Sana",
+      "bbox": {
+        "x": 0.235,
+        "y": 0.0161,
+        "width": 0.5313,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana & Fauna",
+      "bbox": {
+        "x": 0.1769,
+        "y": 0.1771,
+        "width": 0.21,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sauna est de retour ! Pour la neuvième collaboration pré-graduation de Sana, elle et Fauna se sont retrouvées sur Minecraft pour rénover leurs toutes premières constructions ensemble. Elles se sont remémorées leurs débuts sur le serveur EN, et après avoir rassemblé quelques ressources, elles ont construit une fondation et partagé des idées sur la façon de construire ensemble. Elles n'ont pas pu terminer la construction durant le stream mais ont promis de revenir plus tard et de travailler dessus hors-stream.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2144,
+        "width": 0.3819,
+        "height": 0.158
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 19 juillet, le trio composé de Sana, Calli et Mumei s'est réuni pour faire une revue d'« anatomie » pour la onzième collab pré-graduation de Sana. L'« histoire » du stream était qu'elles se sont retrouvées toutes les trois dans un musée d'art où elles ont passé en revue les illustrations des fans posté avec #anatoMei.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.6463,
+        "width": 0.3881,
+        "height": 0.0877
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Beaucoup s'attendaient à ce que le stream soit assez animé, mais elles ont en fait véritablement évalué les différentes techniques artistiques de chaque illustration. Sana a même donné son point de vue sur la composition, les règles et l'éclairage dans le dessin. Elles ont abordé brièvement divers concepts artistiques comme les lumières réfléchissantes et la théorie des couleurs pour chaque œuvre. Sana a vraiment aimé une illustration où Gura a été dessinée sous l'eau ; elle l'a même qualifiée de chef-d' œuvre et était très enthousiaste quand elle en parlait",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.747,
+        "width": 0.3894,
+        "height": 0.1632
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le stream s'est terminé en parlant du prochain stream de Sana, le combat d'Ender Dragon. Calli a souhaité que Sana tue l'Ender Dragon avec du pain",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.9232,
+        "width": 0.3706,
+        "height": 0.0499
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La dixième collaboration de Sana pré-graduation était sur 51 Worldwide Games avec Kaela. Même s'il s'agissait de leur première collaboration ensemble, leur alchimie était évidente dès la première partie de bowling, où elles riaient de leur mauvaise performance. À la surprise générale, Sana a réussi à faire rire Kaela à gorge déployée ! Son accent australien fait ressembler « Kaela » à « Koala », qui est devenu son nouveau surnom. Kaela a dit qu'elle voulait vraiment rencontrer Sana dans la vraie vie et l'a couronnée « Reine des Erreurs ». Sana a annoncé qu'elle aurait cinq collabs en un jour plus tard avant de terminer le stream.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2326,
+        "width": 0.4,
+        "height": 0.1879
+      }
+    },
+    {
+      "type": "heading",
+      "text": "7 Ender Dragon",
+      "bbox": {
+        "x": 0.5581,
+        "y": 0.6263,
+        "width": 0.2844,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il était enfin temps pour holoCouncil et IRyS de se rassembler pour tuer l'Ender Dragon sur Minecraft. C'était la douzième collaboration pré-graduation de Sana. Chaque membre a streamé son point de vue dans cette collaboration... chaotique. L'agitation qui régnait dès le début a étonné Fauna, qui essayait de diriger le groupe en tant que capitaine d'équipe. Bien qu'elles aient réclamé des lits pendant une quarantaine de minutes, la moitié n'ont même pas dormi dedans. Puisque l'Ender Dragon original a été tué il y a longtemps, elles l'ont fait réapparaître grâce aux Cristaux de l'End. Encouragées par le discours de Fauna, elles ont immédiatement oublié qu'elles devaient détruire les cristaux présents sur les tours. Fauna a abattu la plupart d'entre eux avant d'attaquer le dragon. Après quelques tirs sur ses compagnons, Bae a tué le dragon en plein vol ! Elles ont fait quelques captures d'écran pour célébrer l'événement, mais certaines ont été gâchées par des Endermen. Elles sont retournées dans leur monde pour continuer leurs manigances et ont évoqué la mystérieuse collaboration entre le Council et IRyS.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.6571,
+        "width": 0.4013,
+        "height": 0.3121
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0ixorqlo0qf91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

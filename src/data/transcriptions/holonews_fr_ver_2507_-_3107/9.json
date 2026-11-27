@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yukimins, réjouissez-vous ! Après s'être absentée pendant un mois pour déménager, Lamy reprendra son rythme de stream habituel la semaine prochaine. Suite au stream de la semaine dernière, elle nous a donné un aperçu de l'amélioration de l'état de sa gorge.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2391,
+        "width": 0.3838,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Botan a joué à hololive ERROR en stream, avec son modèle 3D à domicile qu'on ne voit que très rarement. Lorsqu'elle y jouait, Shishiron s'est mise à chercher des armes instinctivement, bien qu'il n'y en ait pas dans le jeu. Connue pour son sang-froid et son rire face à l'horreur, Shishiron n'a cessé de s'excuser pour le manque de réactions typiques face aux jumpscares.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.5217,
+        "width": 0.3881,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan & Lamy",
+      "bbox": {
+        "x": 0.1838,
+        "y": 0.8763,
+        "width": 0.2131,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron et Lamy seront présentes au au Smile Fest le 7 août à 11:00 JST. Elles auront beaucoup d'annonces à faire, y compris les dernières figures hololive !",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.9119,
+        "width": 0.3813,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de son stream sur Minecraft, Iroha a tenté de tuer le surpuissant Warden. Elle a creusé un trou avec une échelle pour attirer et piéger le Warden. Elle a ensuite tué au moins deux Warden par diverses méthodes : en leur tirant dessus avec un arc, en les frappant avec une épée et en réapparaissant dans un lit placé relativement près d'elle lorsqu'elle se faisait tuer par les Warden.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2049,
+        "width": 0.39,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir vaincu le Malzeno, le voyage de Koyori dans Monster Hunter Rise: Sunbreak n'est pas terminé. Cette fois, elle a affronté l'un des célèbres monstres du jeu, le Rajang furieux. Ce dernier s'est avéré être un adversaire de taille pour Koyori, puisqu'elle a dû se replier vers le camp à plusieurs reprises car elle était à court de potions, et elle s’est même évanouie deux fois pendant le combat. Mais finalement, Koyori a réussi à maîtriser Rajang furieux.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.4753,
+        "width": 0.3875,
+        "height": 0.1476
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Neuf jours se sont écoulés depuis le stream de Chloe durant lequel elle disait devoir déménager à cause d'activités paranormales dans sa chambre. Inarrêtable, l’orque est revenue en force avec un stream karaoké. Elle a salué les spectateurs en les remerciant pour leur patience, et a exprimé sa gratitude envers la direction. Chloe a chanté quatorze chansons, dont sa propre chanson, « Jinsei Reset Button Pochii w », et une version a cappella de « Kimino Shiranai Monogatari ». Pendant la dernière moitié du stream, elle a lu quelques Super Chats et a eu le temps d’éclaircir des histoires qui se sont accumulées pendant sa pause.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.7813,
+        "width": 0.39,
+        "height": 0.2014
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/zwe0eqg4fig91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

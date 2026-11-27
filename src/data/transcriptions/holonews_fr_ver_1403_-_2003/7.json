@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Haachama a construit un nid d'amour derrière la maison de Miko dans Minecraft qu'elle a affectueusement appelé « Honeytrap ». En réponse, Miko a construit un donjon souterrain dans lequel elle a réussi à piéger Haachama. À l'intérieur, elle a écrit un livre effrayant expliquant que Haachama n'était pas fidèle à son cœur. Miko l'a ensuite retenue jusqu'à ce qu'elle change d'avis.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.2135,
+        "width": 0.3863,
+        "height": 0.1467
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La première tentative d'évasion d'Haachama a échoué, car Miko venait tout juste de se connecter. Lors de sa deuxième tentative, elle a trompé Miko en l'invitant à dormir ensemble dans la cellule, en la tuant à l'aide d'un seau à lave et en détruisant ses élytres... a nouveau. Miko n'était cependant pas triste, car elle avait maintenant une excuse parfaite pour avoir un rendez-vous avec Haachama afin de chercher une nouvelle paire d'élytres.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.3759,
+        "width": 0.3869,
+        "height": 0.1615
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'émission de radio de Fubuki et Marine, Sukondawa, a remporté le prix de la « meilleure radio humoristique » lors de la 7e édition des Aniradi Awards ! L'émission de radio a également été nominée dans trois autres catégories : « Meilleure Radio Féminine », « Meilleure Radio Bénéfique », et « Meilleure Radio Créative » !",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.8108,
+        "width": 0.39,
+        "height": 0.1141
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de son émission d'après-concert, Suisei a raconté qu’elle avait été très occupée en participant à la production de « Link Your Wish » en tant que réalisatrice. Elle a parlé de la commande et de la performance des différents talents pendant les deux jours et a souligné en particulier ses bonnes impressions sur les performances de Moona et Risu, ainsi que sur celles de nombreux autres talents. Elle a aussi mentionné que Towa lui avait laissé le choix de la chanson qu'elles allaient interpréter en duo, ce qui a conduit à la fin du premier jour à « Stellar Stellar » et « Ghost ». À la toute fin, elle a également salué la performance du groupe qui a fourni la musique pour les performances de chacun.",
+      "bbox": {
+        "x": 0.5438,
+        "y": 0.2135,
+        "width": 0.39,
+        "height": 0.2648
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A la fin de son stream de chant, Matsuri a parlé des premiers baisers. Selon elle, les derniers baisers ont plus de valeur que les premiers. Cela a eu beaucoup d'effet et ses spectateurs ont essayé d'envoyer le dernier superchat du stream. Cela a duré cinq bonnes minutes avant que Matsuri ne mette fin au stream.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.8064,
+        "width": 0.385,
+        "height": 0.1141
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ea20f961s5q81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 1,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Également disponible en JP, RU, ID, CN, ES et PL !",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.9323,
+        "width": 0.8538,
+        "height": 0.0256
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5m6u9vp5i4781.png",
+    "gifFrame": null,
+    "confidence": 73
+  }
+}

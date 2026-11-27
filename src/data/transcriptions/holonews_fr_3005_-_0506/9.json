@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_3005_-_0506",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Par pure coïncidence, Shishiron et Lamy avaient des miniatures YouTube similaires dessinées par le même artiste pour leurs streams discussion. De plus, elles ont également commencé leurs streams au même moment. La complicité ShishiLamy était bien visible, montrant qu'elles sont toujours sur la même longueur d'onde.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2192,
+        "width": 0.3875,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene a narré une vidéo de NT pour",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.5004,
+        "width": 0.3725,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "le roman illustré, « FEE MEE D EE» (Savior of non-attributed magic) dont le volume 10 va être mis en vente.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.5126,
+        "width": 0.3888,
+        "height": 0.0382
+      }
+    },
+    {
+      "type": "other",
+      "text": "Translated from Japanese by Google",
+      "bbox": {
+        "x": 0.0563,
+        "y": 0.6411,
+        "width": 0.1588,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ill be helpful if you let me take a break from À It will be delivered tomorrow!",
+      "bbox": {
+        "x": 0.1394,
+        "y": 0.6541,
+        "width": 0.3213,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sma de",
+      "bbox": {
+        "x": 0.0563,
+        "y": 0.6545,
+        "width": 0.0325,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.6944,
+        "width": 0.0913,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En raison de son emploi du temps chargé et de sa lourde charge de travail, Shishiron a pris un jour de congé pour se concentrer sur la finalisation de ses tâches. Elle a laissé les SSRB sortir des mines, mais a fixé un couvre-feu à 18h00 JST pour que tout le monde retourne sous terre. Misa-sensei, la créatrice des SSRB, a mentionné qu'elle reviendrait plutôt à 19h00 en raison de son décalage horaire. Shishiron, qui n'était pas au courant, a lancé Misa dans les fameuses montagnes russes de 96G, ignorant ses supplications.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.7279,
+        "width": 0.3869,
+        "height": 0.161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "(Misa expérimentant 96G.)",
+      "bbox": {
+        "x": 0.2369,
+        "y": 0.9562,
+        "width": 0.2213,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy a ouvert sa propre chaîne Twitch ! En guise de premier stream, elle a organisé une soirée de visionnage du film « Mad Max : Fury Road ». Elle est le troisième membre de sa génération à avoir une chaîne Twitch, après Nene et Botan.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2192,
+        "width": 0.3844,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au départ, il s'agissait d'une joyeuse expression de son imagination dans un jeu de construction de type bac à sable, mais les SSRB ont ensuite remarqué que le style architectural de Shishiron avait un aspect plutôt carcéral. On aurait dit que les SSRB étaient enfermés dans des pièces isolées d’un gratte-ciel, et que la structure épelait « SOS » d'un point de vue aérien.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.4735,
+        "width": 0.3844,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir regardé le stream Besiege de Shishiron, les autres SSRB ont signé un contrat qui accorde à LaLion une immunité totale contre tout dommage, blessure ou mort accidentelle pendant la création d'une arme.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.7682,
+        "width": 0.4006,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a franchi trois niveaux, construisant diverses machines de guerre en cours de route. L'une d'entre elles était constituée de lance-flammes montés sur des pistons, et une autre était une montgolfière où Shishiron a montré ses talents de pilote. Anecdote rigolote : la collection d'images et de GIF des SSRB de Shishiron sur son ordinateur atteint presque 1 Go.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.849,
+        "width": 0.4044,
+        "height": 0.1072
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ey9i7thvbt591.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.4288,
+        "y": 0.0256,
+        "width": 0.1431,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.6625,
+        "y": 0.1519,
+        "width": 0.1456,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloNews",
+      "bbox": {
+        "x": 0.1713,
+        "y": 0.1871,
+        "width": 0.1569,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Anya 500k",
+      "bbox": {
+        "x": 0.6,
+        "y": 0.2214,
+        "width": 0.0894,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "_ wy Fuma 60k",
+      "bbox": {
+        "x": 0.7781,
+        "y": 0.2044,
+        "width": 0.1594,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ee) Kaela 300k",
+      "bbox": {
+        "x": 0.8075,
+        "y": 0.2782,
+        "width": 0.1356,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Saviez-vous que nous publions toutes les semaines depuis presque deux ans ?",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.2391,
+        "width": 0.345,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hololive ch 1,75M",
+      "bbox": {
+        "x": 0.6019,
+        "y": 0.2813,
+        "width": 0.0888,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 11 septembre est la date d'anniversaire des deux ans d'HoloNews.",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.2795,
+        "width": 0.3531,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Evénements a venir",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.3546,
+        "width": 0.3925,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 30 juin : première collaboration 3D d'holoX\n• 1 juillet : anniversaire d'AZKi",
+      "bbox": {
+        "x": 0.5725,
+        "y": 0.4115,
+        "width": 0.3213,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 2 juillet : Anniversaire de Subaru",
+      "bbox": {
+        "x": 0.5725,
+        "y": 0.4922,
+        "width": 0.3369,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 3 juillet : Subaru, Botan, Matsuri et Nene au V-Clan « Summer Voyage »",
+      "bbox": {
+        "x": 0.5725,
+        "y": 0.5243,
+        "width": 0.3319,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur, Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.691,
+        "width": 0.5194,
+        "height": 0.1124
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.8251,
+        "width": 0.2537,
+        "height": 0.0373
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/x5aehn82haa91.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

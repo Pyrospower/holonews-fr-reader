@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOMYTH",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.0352,
+        "width": 0.345,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir dévoilé leurs nouvelles tenues, les 5 membres d’holoMyth ont célébré en jouant a Jackbox. Elles se sont échauffées avec une partie de Quiplash. Elles ont chacune eu leurs chances de briller, comme lorsqu’Ame s'est moquée de la production de la reprise de « Country Roads » par holoMyth. Calli a gagné cette manche avec des blagues simples, mais efficaces, qui l'ont elle-même mise dans l'embarras.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2083,
+        "width": 0.4244,
+        "height": 0.1398
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après ça, elles ont fait deux manches de Talking Points, où elles devaient improviser des exposés. Malheureusement, un bug du jeu les a empêchées de voir les résultats, mais elles se sont quand même bien amusées !",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.3659,
+        "width": 0.4281,
+        "height": 0.0712
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Heureusement, aucun bug n’est survenu durant la partie de Champ’d qui a suivi, dans laquelle les membres d’holoMyth ont dessiné leurs champions et challengeurs pour s'affronter dans différentes catégories. Ina a gagné cette manche avec divers Takodachis et un personnage original « volé » à Calli. Elles ont fini en faisant une autre manche de Quiplash où Calli a encore été couronnée meilleure humoriste malgré elle.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.4523,
+        "width": 0.4256,
+        "height": 0.1424
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le rêve de Gura d’avoir une de ses musiques dans un jeu de rythme est devenu réalité ! Durant sa présentation du nouveau DLC de Groove Coaster, dont font partie Sora et elle-même, Gura a joué « REFLECT » et d’autres musiques d’hololive, ainsi que les musiques préférées du public, puis a fait quelques parties en multijoueur avec ses spectateurs. Elle a également annoncé des écouteurs bluetooth Groove Coaster en édition limitée sur le thème de Gura et Sora. Les précommandes commencent le 18 décembre.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7752,
+        "width": 0.4225,
+        "height": 0.1988
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli a fait un stream « Calli au bar » pendant lequel elle a tenté de nous apprendre du vocabulaire anglais lié à la boisson. Elle a réussi à convertir ses Deadbeats au culte de l'OBC (« Only Bar Calli »), et ses tentatives d'expliquer pourquoi appeller une femme « Milady » (Mademoiselle) était une phrase d'accroche génante ont mené le tchat à l’appeller Milady.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2483,
+        "width": 0.4019,
+        "height": 0.128
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuite, Calli a fait une série de sondages qui ont permis au tchat de créer et de nommer un cocktail. Le résultat était un cocktail fait de vodka, tequila, rhum, jus de citron, glace et Coca Cola, servi secoué et baptisé « Bog Water » (Eau de Tourbiere). Elle a préparé le cocktail et l'a bu en stream. Après ça, elle a annoncé qu’elle comptait faire de « Calli au bar » une série régulière avec différents cocktails personnalisés préparés en stream. Elle lancera également une nouvelle série de cours d'anglais avec les talents d'holoJP, comme annoncé dans un tweet plus tôt dans la journée.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.3911,
+        "width": 0.4263,
+        "height": 0.1858
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant la lecture des Super Chats, elle a parlé de son idée d’une course sur Jump King entre elle et d’autres talents, ouverte à tous les membres d’holopro, y compris holostars. Elle a aussi révélé que les Super Chats seront dorénavant activés dans les futurs karaokés non archivés.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.5916,
+        "width": 0.4188,
+        "height": 0.0968
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli est retournée sur Jump King et l’a fini hors stream. Cette fois-ci, 1 heure et 53 minutes lui ont suffi pour terminer le jeu.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.8928,
+        "width": 0.4263,
+        "height": 0.069
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/g5e6n8rbop881.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MUSIC RELEASES",
+      "bbox": {
+        "x": 0.1769,
+        "y": 0.0443,
+        "width": 0.6481,
+        "height": 0.0321
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.1146,
+        "width": 0.0663,
+        "height": 0.0069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.1849,
+        "width": 0.0556,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "CHANSON",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.3589,
+        "width": 0.0644,
+        "height": 0.0052
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ORIGINALE Suisei RAINY.",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.3663,
+        "width": 0.0875,
+        "height": 0.0985
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.4805,
+        "width": 0.0663,
+        "height": 0.0069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "2) & ; Lamy & Botan LION",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.5265,
+        "width": 0.1506,
+        "height": 0.0582
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE eww Amelia DECK THE HALLS",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7244,
+        "width": 0.1919,
+        "height": 0.1068
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "JING",
+      "bbox": {
+        "x": 0.045,
+        "y": 0.8459,
+        "width": 0.0706,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.3563,
+        "y": 0.1849,
+        "width": 0.0706,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "CHANSON",
+      "bbox": {
+        "x": 0.355,
+        "y": 0.3589,
+        "width": 0.0644,
+        "height": 0.0052
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ROCK: CHANSON 0 | 1 E 0",
+      "bbox": {
+        "x": 0.2519,
+        "y": 0.8429,
+        "width": 0.3031,
+        "height": 0.0395
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei & Natsushiro Takaaki Al YORI",
+      "bbox": {
+        "x": 0.3569,
+        "y": 0.9162,
+        "width": 0.2238,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "GUNJOU",
+      "bbox": {
+        "x": 0.3569,
+        "y": 0.9436,
+        "width": 0.1,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.6637,
+        "y": 0.1146,
+        "width": 0.0663,
+        "height": 0.0069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.6644,
+        "y": 0.1849,
+        "width": 0.0481,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ANIMAL — 4 Chant Shien",
+      "bbox": {
+        "x": 0.6006,
+        "y": 0.2018,
+        "width": 0.29,
+        "height": 0.1141
+      }
+    },
+    {
+      "type": "heading",
+      "text": "SHANTI",
+      "bbox": {
+        "x": 0.6644,
+        "y": 0.3229,
+        "width": 0.1725,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koÿ©ri NH-UH-UH",
+      "bbox": {
+        "x": 0.6656,
+        "y": 0.428,
+        "width": 0.245,
+        "height": 0.0356
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.6637,
+        "y": 0.48,
+        "width": 0.0663,
+        "height": 0.0069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.6637,
+        "y": 0.8459,
+        "width": 0.0663,
+        "height": 0.0113
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama & Kanauru AVERY HAACHAMA",
+      "bbox": {
+        "x": 0.6637,
+        "y": 0.9158,
+        "width": 0.2463,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "CHRISTMAS",
+      "bbox": {
+        "x": 0.6637,
+        "y": 0.9431,
+        "width": 0.145,
+        "height": 0.01
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/90ezx35zeab81.png",
+    "gifFrame": null,
+    "confidence": 72
+  }
+}

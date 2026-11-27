@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 2,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "4ème anniversaire des débuts de Nakiri Ayame ~ Happiness to you © ~",
+      "bbox": {
+        "x": 0.0467,
+        "y": 0.3071,
+        "width": 0.9061,
+        "height": 0.0579
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le concert 3D pour le quatrième anniversaire des débuts d'Ayame a eu lieu le 4 septembre.",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.4282,
+        "width": 0.8417,
+        "height": 0.0324
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le concert était rempli de retrouvailles saines et de scènes d'humour entre chaque performance. La scène était décorée d'un énorme torii, de fleurs de cerisier et de poyoyo géants, reflétant le style d'Ayame. La performance d'AyaFubuMio a été le point culminant du spectacle, où elles ont chanté ensemble leur dernière chanson, « Renjou",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.4815,
+        "width": 0.8417,
+        "height": 0.0675
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shiika ».",
+      "bbox": {
+        "x": 0.08,
+        "y": 0.5529,
+        "width": 0.08,
+        "height": 0.0112
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le concert a été suivi d'une annonce pour une discussion réservée aux membres, laissant présager une présentation de tenues d'été.",
+      "bbox": {
+        "x": 0.08,
+        "y": 0.5883,
+        "width": 0.84,
+        "height": 0.032
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Répertoire :",
+      "bbox": {
+        "x": 0.2128,
+        "y": 0.6725,
+        "width": 0.1056,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« Byomei Koiwazurai » « ODDS&ENDS » « Ready Steady Go! » « Zankyosanka » w/ Mio « Future Sky » « Renjou Shiika » as AyaFubuMio « Tsubaki » as AyaFubuMio « Daishikyu Daisyuk »i w/ Chloe « Identity » w/ Lui « Internet Overdose » w/ Polka « Poppin' CandyyrFever! » w/ Miko",
+      "bbox": {
+        "x": 0.1039,
+        "y": 0.7037,
+        "width": 0.3233,
+        "height": 0.2218
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Produits dérivés d'anniversaire : Un tapis en caoutchouc, illustré par Hina",
+      "bbox": {
+        "x": 0.5494,
+        "y": 0.6725,
+        "width": 0.3711,
+        "height": 0.0386
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un support de diorama en acrylique,illustré par Sencha",
+      "bbox": {
+        "x": 0.6044,
+        "y": 0.723,
+        "width": 0.26,
+        "height": 0.0262
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un gobelet en acier inoxydable,illustré par Sencha",
+      "bbox": {
+        "x": 0.56,
+        "y": 0.76,
+        "width": 0.3494,
+        "height": 0.0266
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une boîte à mouchoirs Poyoyo Enregistrement situationnelle = « Célébration avec toi sous les cerisiers en fleurs ».",
+      "bbox": {
+        "x": 0.5522,
+        "y": 0.7978,
+        "width": 0.3644,
+        "height": 0.0613
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bonus d'achat du set complet : carte postale illustré par Hina avec avec l'autographe d'Ayame estampillé et ainsi qu'un message.",
+      "bbox": {
+        "x": 0.5494,
+        "y": 0.8735,
+        "width": 0.3706,
+        "height": 0.064
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enregistrement ASMR : « Après la célébration ».",
+      "bbox": {
+        "x": 0.5772,
+        "y": 0.9483,
+        "width": 0.3156,
+        "height": 0.0239
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/w1zt85oiaqn91.gif",
+    "gifFrame": 85,
+    "confidence": 91
+  }
+}

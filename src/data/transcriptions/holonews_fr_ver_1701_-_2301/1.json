@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yagoo a été invité sur Holotalk",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.2027,
+        "width": 0.1756,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une énorme collaboration inter-branches sur Gartic Phone",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.299,
+        "width": 0.1925,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le fanbook de Marine",
+      "bbox": {
+        "x": 0.0669,
+        "y": 0.3676,
+        "width": 0.1412,
+        "height": 0.036
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/trqd5hf6x8f81.png",
+    "gifFrame": null,
+    "confidence": 83
+  }
+}

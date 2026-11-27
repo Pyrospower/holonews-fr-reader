@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2208_-_2808",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "App: Clip Studio Paint Tool",
+      "bbox": {
+        "x": 0.2519,
+        "y": 0.0378,
+        "width": 0.12,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "other",
+      "text": ": WACOM Intuos CTH690",
+      "bbox": {
+        "x": 0.2719,
+        "y": 0.0451,
+        "width": 0.1431,
+        "height": 0.0048
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le lundi productif de cette semaine, lofi espérait désespérément obtenir le theme « strings » et se venger d'Ollie, mais le gacha se déroule rarement comme on le souhaite. Le thème sur lequel lofi a atterri était « Bal de promo ». Son cœur ne faiblissant pas, lofi s'est dessinée avec Moona dans des tenues élégantes, en train de danser dans des robes de soirée.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.2478,
+        "width": 0.445,
+        "height": 0.1133
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kobo a organisé un stream ASMR de nettoyage d'oreilles. sauf que, par un horrible coup du sort et sans aucun avertissement, elle a transformé le stream en un torrent de bruits forts à travers un puissant filtre de distorsion. Sérieusement, si vous voulez regarder l'archive, baissez le volume.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.421,
+        "width": 0.4456,
+        "height": 0.0868
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kaela >",
+      "bbox": {
+        "x": 0.0613,
+        "y": 0.5191,
+        "width": 0.2613,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La deuxième tentative de Kaela pour essayer de streamer Need for Speed : Most Wanted a été un succès. La forgeronne a offert de nombreux moments hilarants au volant. Les crashs épiques contrastaient bien avec les courses et les poursuites policières intenses. Comme à son habitude, Kaela a discuté pendant deux heures après avoir terminé le jeu.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.566,
+        "width": 0.445,
+        "height": 0.1163
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Zeta ED",
+      "bbox": {
+        "x": 0.1213,
+        "y": 0.704,
+        "width": 0.1781,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Umami, le cheval bien-aimé de Zeta sur Rust, a été tué après que Polka l'ait accidentellement écrasé avec sa voiture. Dans la panique, Polka a passé tout son stream à chercher un cheval de remplacement pour Zeta avant que Nene ne lui propose son propre cheval. Ce nouveau cheval,",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.7391,
+        "width": 0.445,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "mami 2, a fini par mourir en hors stream. Se sentant mal pour Zeta, Suisei lui a donné un cheval trouvé, plus tard nommé Umami 3, qui était à l'origine le cheval d'IRyS, mais qui a été volé par Bae. Miko a ensuite trouvé Umami 3 et l'a laissé dehors, où Suisei l'a pris. Umami 3 a ensuite mystérieusement disparu de l'écurie de Zeta, qui a trouvé un autre cheval en rencontrant Pekora, appelé Umami 4. Polka a également donné à Zeta un autre Umami qui était à l'origine celui de Miko. Zeta a ensuite tweeté que l'Umami 4 avait également disparu. Reposez en paix, les Umami 1 à 4.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.8147,
+        "width": 0.4456,
+        "height": 0.161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a réalisé l'un de ses rêves dans le cadre de Holoro ! Elle a réussi à convaincre Anya de jouer à Apex avec elle et Reine après avoir tenu sa promesse de terminer Hanako. Anya a réussi à s'amuser en jouant au jeu, disant « tirer sur les gens et piller les corps me rappelle de jouer Rust ». Elle était également réticente à l'idée de savoir qu'il n'y avait pas de dégâts de chute. C'était aussi la première fois que Reine jouait à Apex depuis un certain temps, elle a donc dû réapprendre certains mécanismes tout en étant surprise par les nouveaux éléments ajoutés, comme Storm Point, les araignées, les viseurs laser, etc. Elles n'ont peut-être pas obtenu de Légende, mais elles ont réussi à avoir des discussions intéressantes ensemble. Elles prévoient d'organiser d'autres collaborations entre générations à l'avenir (si elles trouvent un bon jeu à jouer).",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.1905,
+        "width": 0.4456,
+        "height": 0.2491
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a une nouvelle fois invité Karolina Styczynska, une joueuse de shogi polonaise, a étudier ce jeu de société japonais avec elle sur lishogi.org. En quinze parties contre d'autres joueurs, Karolina a enseigné a Ollie quelques astuces afin de lui rafraichir la mémoire, car elle n'avait pas joué depuis longtemps. Et quatorze de ces quinze ont été remportées par Karolina, démontrant encore son expertise.",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.4965,
+        "width": 0.4463,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suite à leur projet pour le Jour de l'Indépendance indonésienne (voir le numéro de la semaine dernière), la chaîne YouTube hololive Indonesia a posté deux courtes vidéos partageant les impressions de Kobo et Reine sur la célébration et a publié le deuxième épisode du drama audio. Ils ont également ajouté des sous-titres anglais et japonais aux deux épisodes du drama.",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.6697,
+        "width": 0.4462,
+        "height": 0.1163
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cnfnk6vzr1m91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

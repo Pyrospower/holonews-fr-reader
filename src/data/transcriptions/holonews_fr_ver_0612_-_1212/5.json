@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Alors que Sora pêchait des magicarpes, elle apprit que Fubuki aussi pêchait depuis plus de 100 heures afin de trouver un Magicarpe doré, ce qu’elle ne voulut pas croire. Elle était tellement choquée que la bouche de son modèle 3D bougeait encore, mais aucun mot n'en sortait.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2517,
+        "width": 0.42,
+        "height": 0.1102
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roboco a streamé des ouvertures de packs Apex en portant sa tenue de Noël. Elle a reçu de nombreux cosmétiques légendaires, mais surtout le tant attendu « héritage » de Wattson. Après s'être précipitée au champ de tir pour le tester, elle a succombé à la beauté des inspections. Elle a ensuite fait quelques matchs pour découvrir l'héritage de Wattson et profiter de ses nouveaux cosmétiques.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.5395,
+        "width": 0.4231,
+        "height": 0.1554
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon Roboco, lorsqu'elle s'est rendue au studio pour réaliser un enregistrement, elle y a trouvé Fubuki toujours à la pêche au magicarpe doré tout en répétant la phrase \"C'est un rouge\".",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7266,
+        "width": 0.4069,
+        "height": 0.1033
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il y a quelques semaines, AZKi a trouvé des Pillards dans un désert lors de sa collaboration sur Minecraft avec Sora. Pour son plus grand amusement, elle en a récemment trouvé d’autres dans le même désert. AZKi craint désormais d'être leur cible.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2517,
+        "width": 0.4269,
+        "height": 0.1081
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko a eu une panne d'oreiller, ce qui lui a valu un retard de 4 heures et 11 minutes pour son stream Pokémon, un nouveau record chez hololive ! Miko s'est retrouvée en tendance Twitter dans le monde entier, et lorsqu'elle est arrivée, elle s'est profondément excusée. Elle a expliqué que son retard était dû à nuit de 13 heures. 35P a demandé un stream de punition, mais pour l'instant Miko a juste montré son costume de mère Noël pour se faire pardonner.",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.5399,
+        "width": 0.4194,
+        "height": 0.1615
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Miko a participé à un stream 51 Worldwide Games au cours duquel Nene, Roboco et Mio sont venues jouer à quelques jeux. Elles ont fait de nombreuses singeries, allant de Nene volant le statut d'élite de Miko dans Petits carrésa Mio détruisant Miko au Solitaire.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.7218,
+        "width": 0.4106,
+        "height": 0.1133
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei a insisté sur le fait qu'elle n'est pas plate et que ses seins sont simplement petits. Elle a affirmé qu'elle avait des bosses au niveau de la poitrine lorsqu'elle a montré son nouveau costume de mère Noël.",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.8898,
+        "width": 0.4144,
+        "height": 0.0703
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/jzt074p5i4781.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

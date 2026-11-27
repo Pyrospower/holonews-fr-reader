@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_holoid03_debut_special_-_fr_version",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Présentation des papas et mamans",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.0525,
+        "width": 0.9111,
+        "height": 0.0301
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Yasuda Suzuhito",
+      "bbox": {
+        "x": 0.6206,
+        "y": 0.1308,
+        "width": 0.2922,
+        "height": 0.0201
+      }
+    },
+    {
+      "type": "other",
+      "text": "@suzupin",
+      "bbox": {
+        "x": 0.6217,
+        "y": 0.1601,
+        "width": 0.0889,
+        "height": 0.012
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suivez et soutenez tous ces merveilleux artistes et riggers !",
+      "bbox": {
+        "x": 0.5628,
+        "y": 0.3426,
+        "width": 0.3389,
+        "height": 0.103
+      }
+    },
+    {
+      "type": "other",
+      "text": "@otsukue",
+      "bbox": {
+        "x": 0.8456,
+        "y": 0.6701,
+        "width": 0.1083,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "other",
+      "text": "@megajujube",
+      "bbox": {
+        "x": 0.7822,
+        "y": 0.87,
+        "width": 0.15,
+        "height": 0.015
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/y66urvayvis81.gif",
+    "gifFrame": 15,
+    "confidence": 84
+  }
+}

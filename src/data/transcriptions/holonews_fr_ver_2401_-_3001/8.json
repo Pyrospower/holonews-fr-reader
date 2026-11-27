@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOFO",
+      "bbox": {
+        "x": 0.0975,
+        "y": 0.0451,
+        "width": 0.2325,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En raison de l'annulation des ShibuyaHal Customs, Towa, Selly et Met ont décidé de se rabattre sur Rainbow Six Extraction.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.2582,
+        "width": 0.4231,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa et Met ont dû attendre Selly quelques minutes au début du stream car celui-ci avait oublié de configurer correctement le jeu. Ils ont ensuite commencé leur première partie, Towa expliquant aux deux autres les objectifs du jeu au fur et à mesure de la partie. Cependant, n'ayant elle-même joué qu’une seule partie, apprendre les règles à ses amis s’est révélé plus compliqué que prévu. En dépit de cela, Selly et Met ont tout de même réussi à se familiariser très rapidement avec le jeu.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.3147,
+        "width": 0.4263,
+        "height": 0.1975
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après quelques parties, le groupe a décidé de monter (littéralement) la difficulté d’un cran après que Selly se soit plaint que le jeu était « trop facile ». Cependant, à leur grande surprise, ils se sont rendus compte que l'écart de niveau entre les différentes",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.5226,
+        "width": 0.4238,
+        "height": 0.1033
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ifficultés était bien trop important pour eux. Après quelques parties de plus, le groupe a donc décidé de mettre fin au stream.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.6137,
+        "width": 0.3825,
+        "height": 0.0577
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La semaine dernière, Luna a fait d'une pierre deux coups en révélant à la fois sa nouvelle chanson et de nouveaux éléments pour sa tenue décontractée. Cette dernière s'est vue agrémentée de couettes, d’une capuche ainsi que d'oreilles de chat ! La nouvelle chanson",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.2578,
+        "width": 0.42,
+        "height": 0.1033
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Luna est intitulée « Absolute Loyalty © ».",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.3481,
+        "width": 0.395,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata a essayé de tuer un requin avec une arbalète dans ARK. Elle a repéré sa victime et s'est mise à lui tirer dessus sous les encouragements du tchat. Cependant, la cible de ces derniers n'était pas Kanata mais bien le requin. Malgré la ferveur du tchat, Kanata est parvenue à tuer le requin, mais elle s'est malheureusement faite tuer par un autre requin alors qu’elle rangeait son butin.",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.5421,
+        "width": 0.4219,
+        "height": 0.1372
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Watame et Ui-mama ont streamé ensemble dans le cadre d’une collaboration. Elles ont commencé le stream en imitant chacune la formule de salutation de l'autre, mais ont remarqué que leurs voix ne se ressemblaient plus autant qu'avant. Beaucoup de spectateurs se sont fait la même réflexion, mais ont ajouté qu'elles ressemblaient maintenant à des sœurs, avec Ui pour aînée et Watame pour cadette. Remplissant son rôle, Ui a réprimandé Watame pour avoir réalisé des « Ui-beam » à de nombreuses reprises, mais Watame s'est justifiée en rejetant la faute sur l'addiction de ses spectateurs à ce mouvement. Heureusement pour ces derniers, Watame a réussi à convaincre Ui de réaliser un « Ui-beam » à pleine puissance après avoir gagné une partie de Yam's sur 51 Worldwide Games.",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.6957,
+        "width": 0.4238,
+        "height": 0.2695
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/z1wvufhuufg81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

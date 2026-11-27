@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 2,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Fauna a fêté son anniversaire avec un court karaoké et en recevant des appels la semaine dernière ! Beaucoup de membres des branches EN et ID d'hololive ont fait leur apparition dans son stream « Fanjoubi » spécial anniversaire. Lui et Polka sont également passées, tandis que Watame a envoyé une vidéo en promettant une collaboration. Chaque visiteur a eu la possibilité de faire tourner une roue pour obtenir des punitions ou des récompenses.",
+      "bbox": {
+        "x": 0.1344,
+        "y": 0.7458,
+        "width": 0.3589,
+        "height": 0.1906
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4o117xfnbjr81.gif",
+    "gifFrame": 101,
+    "confidence": 95
+  }
+}

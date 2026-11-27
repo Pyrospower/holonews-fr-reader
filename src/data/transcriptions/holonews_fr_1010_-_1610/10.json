@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1010_-_1610",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "#3) HOLOTALK L'émission HOLOTALK de Kiara est de retour pour une deuxième saison ! L'invitée de cet épisode est la très appréciée Nakiri Ayame, marquant ainsi sa première collaboration avec une membre d’holoEN. Kiara a commencé l'émission en présentant le nouveau plateau connectant la scène et les zones dédiées aux clips. Elle a profité de l'occasion pour demander à Ayame de chanter des extraits de sa célèbre chanson « Dochi Dochi ». L'interview a aussi dévoilé pourquoi Ayame était appelée Ojou, avec quel membre d’EN elle souhaitait collaborer, quelle était la couleur de sa culotte et quelles difficultés elle rencontrait en tant que VTubeuse. Le stream était rempli de moments adorables entre les deux, et les spectateurs ont pu remplir leur Nakirium grâce aux rires d’Ayame. Merci beaucoup.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.1641,
+        "width": 0.4463,
+        "height": 0.2478
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.0613,
+        "y": 0.4201,
+        "width": 0.1619,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kiara aux fourneaux ! La grande gérante de KFP a décidé de faire une démonstration de ses talents de cuisinière en jouant à Cooking Simulator et a tout de suite affirmé que MamaTori serait “très fière d'elle”. S'en suivirent une côtelette de porc démoniaque, des fuites de saumon et de pommes de terre récurrentes, un combat avec Gordon Ramsay, Kiwawa jetant l'éponge, et enfin, une explosion causée par la cuisson de bonbonnes de gaz. On comprend bien pourquoi KFP a autant de succès.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.4653,
+        "width": 0.4463,
+        "height": 0.1272
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina a annoncé lors d’un stream discussion qu'elle prendrait une pause d’une durée indéterminée a cause de problèmes de santé. Elle a cependant promis qu'elle serait toujours présente sur Twitter et dans un chat créé pour l’occasion. La prêtresse Tako a ensuite dérivé sur plusieurs sujets, racontant qu'elle a parlé à Kronii de congeler des sandwichs Subway (au grand désespoir des Takodachi), qu’Ane’nis lui a fait cacher une bouteille vide de vin par peur de se faire disputer par Mama'nis. Elle a également mentionné le cerf désagréable de Nara.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.6432,
+        "width": 0.4456,
+        "height": 0.1428
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sur une note plus sérieuse, Ina a également demandé de garder #InART pour des réalisations tout public, et n’a toujours pas d'opinion définie sur la question des illustrations réalisées par des IA. Nous te souhaitons un rétablissement rapide Inya !",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.7995,
+        "width": 0.4456,
+        "height": 0.0647
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.0588,
+        "y": 0.872,
+        "width": 0.24,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant son stream d'horreur sur Ao Oni, Bae a saisi une chance de dériver du jeu pour expliquer le meme Takeshi à Fauna, qui lui servait de soutien moral.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.9175,
+        "width": 0.4444,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 10 octobre, Calli a annoncé la sortie de son album SINDERELLA prévue pour le 16 décembre ! La pochette a été illustrée par Rei, qui a aussi travaillé sur UnAlive et Your Mori. Calli a également montré une image de promotion alternative réalisée par sa maman (ilustratrice), Yukisame. Chaque morceau représente l'un des sept péchés capitaux (orgueil, avarice, colère, paresse, luxure, gourmandise et envie), mais comme un album contient généralement dix musiques, Calli a créé tros « péchés bonus ». Les disques de SINDERELLA sont disponibles en précommande sur sa boutique officielle. L'édition standard ne contient que le CD, tandis que l'édition limitée inclut également un Blu-Ray contenant les clips de SHINIGAMI NOTE et une vidéo des coulisses d’une chanson, un livret détaillant les thèmes de l'album, une « carte » aléatoire parmi quatre possibles, et un étui en édition limitée illustrée par Yukisame-mama. Il était également possible d'acheter une édition limitée « spéciale », qui est désormais en rupture de stock. Celle-ci contenait tous les bonus déjà mentionnés à l'exception de la carte aléatoire, remplacée ici par un t-shirt de taille XL.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.1949,
+        "width": 0.4463,
+        "height": 0.286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 14 octobre, Sora a sorti le clip de sa reprise de « Ifuudoudou » par Umetora, chantée par elle-même, AZKi, Suisei, Calli et IRyS, composée par ORYO et mixée par Kettaro. Le clip a été réalisé par Rairi et illustré par Tsujino Asahi. C’est la première collaboration musicale de Sora et AZKi avec des membres d'holoEN, mais aussi la première collaboration musicale d'IRyS (mis à part la reprise de « Ochame Kinou » commune à toutes les holomems d’EN) ! Très agréable à écouter en famille grâce aux gémissements salaces.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.543,
+        "width": 0.4463,
+        "height": 0.1424
+      }
+    },
+    {
+      "type": "heading",
+      "text": "9 Lawson",
+      "bbox": {
+        "x": 0.5513,
+        "y": 0.697,
+        "width": 0.1838,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "hololive collabore avec les supérettes Lawson ! La collaboration inclura Fubuki, Ayame, Mio, Kanata et Towa dans des tenues dédiées a des produits exclusifs tels que des en-cas, des pochettes, des figurines en acrylique et des carnets. En plus de cela, une pochette transparente avec un QR code sera aussi distribuée. En scannant ce QR code, vous ferez apparaître une projection en réalité augmentée présentant l’une des holomems en train de chanter et danser.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.7413,
+        "width": 0.4444,
+        "height": 0.1359
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/091s8zc97cw91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLONEWS",
+      "bbox": {
+        "x": 0.0356,
+        "y": 0.013,
+        "width": 0.9331,
+        "height": 0.1124
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.2096,
+        "width": 0.3406,
+        "height": 0.0664
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "3e anniversaire de debut",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.2934,
+        "width": 0.2894,
+        "height": 0.0538
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a dévoilé de nouvelles ten",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.4444,
+        "width": 0.2494,
+        "height": 0.0551
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "64 a quitte COVER corporation",
+      "bbox": {
+        "x": 0.4763,
+        "y": 0.3615,
+        "width": 0.5,
+        "height": 0.0872
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lab 3D Rio once son modele 3D",
+      "bbox": {
+        "x": 0.7906,
+        "y": 0.5486,
+        "width": 0.185,
+        "height": 0.1871
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/sia4alx4o22a1.png",
+    "gifFrame": null,
+    "confidence": 82
+  }
+}

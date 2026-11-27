@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 4,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Kanade lzuru",
+      "bbox": {
+        "x": 0.6739,
+        "y": 0.0513,
+        "width": 0.2328,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre Izuru bien aimé a reçu une nouvelle tenue ! Avant de la dévoiler, il a publié une reprise de « Gaitou Ga Sabita Mama » de Shiromoon. C'est sa première reprise en solo depuis 8 mois.",
+      "bbox": {
+        "x": 0.6667,
+        "y": 0.0988,
+        "width": 0.3044,
+        "height": 0.1377
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a commencé le stream en montrant ses anciennes tenues : celle d’été, celle du White Day ou encore celle du Nouvel An. Il a ensuite dévoilé sa nouvelle tenue, en commençant par le bas, montrant ses ravissantes bottes et ses longues jambes.",
+      "bbox": {
+        "x": 0.665,
+        "y": 0.2581,
+        "width": 0.2983,
+        "height": 0.1728
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sa nouvelle tenue est simple, il porte un short et a un nouveau parka, toujours avec une capuche a oreilles de chat. Le plus gros changement se situe au niveau de sa coupe de cheveux ! Il a l’air plus jeune et plus mignon avec ses cheveux raccourcis, sans oublier ses lunettes. Il peut utiliser sa coupe habituelle et ses lunettes d'été avec cette nouvelle tenue. Il peut aussi enlever son parka pour révéler un t-shirt large.",
+      "bbox": {
+        "x": 0.6667,
+        "y": 0.4579,
+        "width": 0.3106,
+        "height": 0.277
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lzuru se trouve très mignon avec cette tenue, et qu'il pourrait la porter dans la vie de tous les jours. Il a remercié son illustratrice, TCB, pour l'avoir encore une fois rendu mignon. Une figurine en acrylique est disponible pour commémorer l'évènement.",
+      "bbox": {
+        "x": 0.6661,
+        "y": 0.7566,
+        "width": 0.3078,
+        "height": 0.1694
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/c5zwidl5e0m81.gif",
+    "gifFrame": 100,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Les membres du serveur Discord de fans de Kiara préparent sa fête d'anniversaire plus tôt que d'habitude dans le but d'accorder plus de temps à sa réalisation. L'un des projets consiste à organiser un ballet aérien sur le jeu gratuit War Thunder, et ils recherchent des joueurs. Ils utiliseront des modèles d'avions spécifiques et certains modèles prendront du temps à être",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.1758,
+        "width": 0.4313,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "débloqués ! Ils feront aussi quelques projets",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.2869,
+        "width": 0.3775,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "additionnels comme des parodies de chansons,",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.3008,
+        "width": 0.4138,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "un drama audio, un musée de fanarts en 3D, et plus encore. Pour plus d'informations, veuillez vous référer aux sources dans les commentaires et cliquez sur le lien du serveur Discord.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3147,
+        "width": 0.4238,
+        "height": 0.056
+      }
+    },
+    {
+      "type": "heading",
+      "text": "• LET'S PLAY +",
+      "bbox": {
+        "x": 0.1825,
+        "y": 0.3971,
+        "width": 0.4194,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "HEAVEN BURNS RED",
+      "bbox": {
+        "x": 0.2363,
+        "y": 0.7391,
+        "width": 0.0825,
+        "height": 0.0421
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/vih0tjfs4uh81.png",
+    "gifFrame": null,
+    "confidence": 87
+  }
+}

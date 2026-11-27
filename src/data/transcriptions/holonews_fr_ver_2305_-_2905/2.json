@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2305_-_2905",
+  "page": 2,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le 21 mai est la journée internationale des Tako ! Pour son anniversaire, Ina a organisé un stream dans lequel elle a reçu un appel de 30 membres des différentes branches d'hololive. Ame a été la première à appeler et a partagé une photo du terrarium contenant un takodachi qu'elle avait fabriqué pour Ina. Plus tard, Sana a rappelé à Ina qu'elle mérite son succès et l'amour de ses amis et de ses fans. En terminant la première partie du stream sur ce moment remplie d'émotion, Ina à partagé ses produits dérivés d'anniversaire :",
+      "bbox": {
+        "x": 0.6261,
+        "y": 0.2361,
+        "width": 0.3467,
+        "height": 0.1871
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une pochette transparente magique (en mettant du papier à l'intérieur, on découvre une image cachée)",
+      "bbox": {
+        "x": 0.6261,
+        "y": 0.4344,
+        "width": 0.3228,
+        "height": 0.0394
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un badge a bouton avec un support",
+      "bbox": {
+        "x": 0.6261,
+        "y": 0.4722,
+        "width": 0.3222,
+        "height": 0.0131
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Sac à linge, illustré par Ina",
+      "bbox": {
+        "x": 0.6261,
+        "y": 0.4846,
+        "width": 0.24,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "; Un sac à linge tako en filet, conçu par na",
+      "bbox": {
+        "x": 0.6261,
+        "y": 0.4969,
+        "width": 0.3356,
+        "height": 0.0231
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La pochette transparente et le badge ont été dessinés par Furusawa Atsushi. Le bonus d'achat de l'ensemble complet est une carte postale comportant un autographe et un message d'Ina.",
+      "bbox": {
+        "x": 0.6261,
+        "y": 0.5316,
+        "width": 0.3467,
+        "height": 0.0633
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La deuxième partie du stream avait l'atmosphère d'un jardin d'enfant, Ina et les autres membres se consolant mutuellement. Il s'agissait également du premier stream d'appelle d'holoHeroes, et Ina a déclaré qu'elle ferait de son mieux pour soutenir ses cadettes. Elle a dit qu'il est difficile de ne pas douter de soi lorsque l'on est entourée de personnes talentueuses, mais elle nous a assurés qu'elle ressentait la même chose et a dit que nous devions simplement faire de notre mieux. Elle est très reconnaissante envers les personnes qu'elle a rencontrées a ololive.",
+      "bbox": {
+        "x": 0.6261,
+        "y": 0.6034,
+        "width": 0.3444,
+        "height": 0.1991
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La deuxième surprise pour nous était A Trip Down Tako Lane, une galerie d'art publique sur VRChat qui présente toutes les œuvres d'Ina et son commentaire audio expliquant les motifs et le contexte de ses dessins, quelque chose qui devrait plaire à tout le monde.",
+      "bbox": {
+        "x": 0.6261,
+        "y": 0.8137,
+        "width": 0.3467,
+        "height": 0.0965
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme annoncé, Ina fera une pause prolongée pour récupérer physiquement et mentalement. Elle nous a laissé un message secret spécial à la fin : « Je vous aime, takodachis ».",
+      "bbox": {
+        "x": 0.6256,
+        "y": 0.9209,
+        "width": 0.3472,
+        "height": 0.0667
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/pzvaf5kpo1391.gif",
+    "gifFrame": 65,
+    "confidence": 94
+  }
+}

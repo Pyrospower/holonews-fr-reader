@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1010_-_1610",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "\\ \\ oy)! #9 lofi & Moona",
+      "bbox": {
+        "x": 0.1288,
+        "y": 0.1727,
+        "width": 0.3056,
+        "height": 0.0673
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lofi a invité Moona a se joindre a elle, Risu et Kaela pour sa collaboration avec Ghost watchers puisqu'elle n’avait rien d'autre de prévu. Réputée pour avoir beaucoup de mal avec les jeux d'horreur, Moona a choisi de faire un stream imprévu de presque sept heures sur Rust à la place. Moona a arrêté son stream à peine quelques minutes après la fin de leur stream, et leur disait d'un ton sarcastique à quel point c'était dommage qu'elles aient déjà terminé leur session. Kaela lui a alors promis qu’elles joueraient de nouveau.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.2452,
+        "width": 0.4456,
+        "height": 0.1402
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kaela",
+      "bbox": {
+        "x": 0.0613,
+        "y": 0.3906,
+        "width": 0.1675,
+        "height": 0.0365
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moins d’un jour après que la dernière mise à jour de Delivering Hope ait été lancée (le fangame dans lequel on pouvait lancer des petites IRyS), Kaela a battu son ancien record d'un écart assez impressionnant, et a remercié le développeur pour avoir remarqué ses streams. Elle a ensuite précisé quelle y jouera de nouveau après la prochaine mise à jour. Sans pression pour le dév, bien sûr.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.4336,
+        "width": 0.4456,
+        "height": 0.1037
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kaela",
+      "bbox": {
+        "x": 0.0613,
+        "y": 0.7257,
+        "width": 0.1675,
+        "height": 0.0365
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kaela a ouvert Minecraft dans l'espoir de tester si elle pouvait baffer à mort le Warden. En moins de deux heures, elle a réussi à en tuer 3. Le premier fut tué avec un poisson, le second avec un lit et le dernier avec un bâton. Elle a terminé son stream avec un rire malfaisant.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.7713,
+        "width": 0.445,
+        "height": 0.0747
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "#holoIDNewCostume",
+      "bbox": {
+        "x": 0.6213,
+        "y": 0.0742,
+        "width": 0.2256,
+        "height": 0.0126
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de leur collaboration mensuelle, lofi et Risu ont soudoyé Moona avec de la nourriture pour qu’elle leur promette de jouer à un jeu d'horreur avec elles. Elles ont aussi annoncé leurs nouvelles tenues, avec un stream fin octobre.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.1801,
+        "width": 0.4456,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kobo",
+      "bbox": {
+        "x": 0.5275,
+        "y": 0.2665,
+        "width": 0.1575,
+        "height": 0.0356
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kobo a malheureusement été testée positive au covid. Sa condition est stable et elle n’a pas eu de contact direct avec d’autres talents ou avec le staff ces derniers jours. Bon rétablissement, Kobo !",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.3116,
+        "width": 0.4456,
+        "height": 0.0516
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Risu a récemment commencé à avoir des lags durant ses streams et elle en a enfin compris la cause : apparemment, elle était en train de streamer en 8K, sans le savoir. Elle a juré n’y être pour rien.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.4288,
+        "width": 0.4456,
+        "height": 0.0516
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "So I understood why my last 2 streams has been problematic. Apparently I streamed in 8K resolution.",
+      "bbox": {
+        "x": 0.5188,
+        "y": 0.5404,
+        "width": 0.4106,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "1 didn't change anything, I swear.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.6046,
+        "width": 0.2781,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Risu, Anya, lofi et Reine ont fait un stream collab imprévu sur Overcooked 2. Reine a dû partir au milieu de la collab à cause du stream qu’elle avait planifié, permettant à Kaela de prendre sa place. Miraculeusement, le groupe a réussi à éviter l'incendie.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.6897,
+        "width": 0.4444,
+        "height": 0.0642
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holoctober",
+      "bbox": {
+        "x": 0.5275,
+        "y": 0.776,
+        "width": 0.2788,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme vous l'avez peut-être remarqué, les thèmes choisis pour les récents fanarts ont constamment changé. C'est dû au fait que, le mois dernier, lofi a sorti une liste de thèmes pour le mois d'octobre, en encourageant fans et artistes à participer. Holoctober, similaire au inktober, est un challenge dans lequel des artistes dessinent un membre d’hololive de leur choix avec un thème spécifique en tête. Le hashtag est très populaire, et de nombreux fanarts paraissent chaque jour. Vous pouvez les découvrir sur Twitter avec #holoctober.",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.8212,
+        "width": 0.4469,
+        "height": 0.1402
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/dlkrhp697cw91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

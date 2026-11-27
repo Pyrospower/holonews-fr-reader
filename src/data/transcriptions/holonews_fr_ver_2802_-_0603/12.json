@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 12,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.046,
+        "width": 0.3525,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer le White Day, qui est célébré tous les 14 mars par les japonais, comme une suite à la Saint-Valentin. Les holostars ont mis en vente des packs de voix et un badge rectangulaire. Le pack de voix est vendu avec un support en acrylique et une serviette en forme de bouquet. La vente a débuté le 7 mars et se terminera le 12 septembre. Nous vous rappelons que les articles sont « en stock » et non fabriqués sur commande, alors faites vite car il n'y aura pas de revente une fois les articles épuisés !",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2648,
+        "width": 0.4075,
+        "height": 0.2027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lzuru, Temma et Roberu, formant le Groupe de Survie, ont fait leur dernier stream ensemble sur RAFT. Ils se sont rendus en ville afin de trouver des indices pour éclaircir l'histoire, mais ils ont réalisé qu'ils avaient tous oublié d'apporter des produits de première nécessité pour survivre, comme de l'eau. A cause de cela, ils sont tous morts en commençant par lzuru suivi de Temma. Heureusement, Roberu a réussi à vider son inventaire avant sa mort pour réapparaître à leur radeau et sauver Temma et lzuru. Ils ont terminé leur stream en jouant du piano qu'ils ont obtenu en ville. Ils ont annoncé que le jeu allait leur manquer et ont promis de revenir dès qu'une mise à jour serait disponible.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.691,
+        "width": 0.4294,
+        "height": 0.2491
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyabi a fait un stream de classement des membres d’holostars avec ses spectateurs, lors duquel il leur a donné un sujet et un sondage pour qu'ils puissent faire des choix. Il a demandé à ses spectateurs quel membre survivrait sur une fle déserte, serait surchargé lors d'un voyage à l'étranger, ferait au moins trois fois par jour, vendrait une arme super rare dont il n'existe aucun exemplaire dans le monde, et qui courrait le premier dans une maison hantée parmi les membres de Suntempo.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2578,
+        "width": 0.4213,
+        "height": 0.1762
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyabi a expliqué dans son stream discussion après son anniversaire l'histoire du lien entre son pack de voix et le concert. Il a remercié Ike-mane, l'un des managers d'holostars, qui lui a suggéré de vendre des cartes photo en acrylique en tant que produit dérivé, car il s'agit d'un article très populaire en ce moment. Il a également remercié les nombreux illustrateurs qui ont travaillé avec lui pour ce stream d'anniversaire. Il a ensuite terminé le stream en célébrant sa première apparition dans Stars Collection (la série animée holostars) et en recommandant de les regarder.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.4531,
+        "width": 0.4375,
+        "height": 0.1914
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.6269,
+        "y": 0.7882,
+        "width": 0.125,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shien a eu l'occasion de faire la lecture du troisieme et dernier volume de Kuro Shiro No Yuusha (Hero Bunko). Il s'agit d'un light novel dans le genre Isekai qui raconte l'histoire d'un étudiant du lycée Sanku Gakuen, nommé Yukitou Segami. Découvrez la narration enthousiaste du PV par Shien, qui décrit les nouvelles rencontres et les scènes de combat intenses des personnages.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8286,
+        "width": 0.42,
+        "height": 0.1319
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3c8hqpt6bdn81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

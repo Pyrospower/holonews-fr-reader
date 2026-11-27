@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
+  "page": 5,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Takane Lui",
+      "bbox": {
+        "x": 0.2822,
+        "y": 0.0536,
+        "width": 0.1133,
+        "height": 0.0123
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/e2zrxeq8kc481.gif",
+    "gifFrame": 92,
+    "confidence": 69
+  }
+}

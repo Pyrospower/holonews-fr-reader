@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 4,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pekora a fêté son troisième anniversaire depuis ses débuts le 17 juillet avec un concert 3D en direct !",
+      "bbox": {
+        "x": 0.3906,
+        "y": 0.3781,
+        "width": 0.4956,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir commencé avec ses interprétations de « Hatsukoi Cider » par BUONO, et sa chanson originale « Alibi Bunny », ses camarades d’holoFantasy, Marine, Flare et Noel sont d'abord venues. Ensuite sont venus le tour de Luna, Korone, Polka, Botan et AZKi de faire leur apparition. D'autres moments notables sont les interprétations de « Me Gumino Hito » de Rats & Stars et « Secret Base ~Kimi ga Kureta Mono- » de ZONE par Pekora et ses camarades d’holoFantasy.",
+      "bbox": {
+        "x": 0.3894,
+        "y": 0.4236,
+        "width": 0.5267,
+        "height": 0.1358
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora a ensuite fait l'annonce de nouveaux produits dérivés d'anniversaire :",
+      "bbox": {
+        "x": 0.39,
+        "y": 0.591,
+        "width": 0.4856,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un tapis B2 avec l'illustration faite par Kuro Ganeya",
+      "bbox": {
+        "x": 0.4094,
+        "y": 0.6362,
+        "width": 0.5111,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "» Des portes clés pixel art en caoutchouc de Pekora et Rabbit",
+      "bbox": {
+        "x": 0.4094,
+        "y": 0.6528,
+        "width": 0.4989,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une grande serviette",
+      "bbox": {
+        "x": 0.4094,
+        "y": 0.686,
+        "width": 0.2172,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une pochette",
+      "bbox": {
+        "x": 0.4094,
+        "y": 0.7022,
+        "width": 0.145,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le bonus pour un achat complet est une carte postale avec un autographe.",
+      "bbox": {
+        "x": 0.3956,
+        "y": 0.7311,
+        "width": 0.5144,
+        "height": 0.0309
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin, elle a révélé et interprété sa troisième chanson originale « RaRaRa Rabbit », produite par NayutalieN.",
+      "bbox": {
+        "x": 0.3956,
+        "y": 0.7762,
+        "width": 0.5183,
+        "height": 0.0313
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3xglyy55sqd91.gif",
+    "gifFrame": 89,
+    "confidence": 93
+  }
+}

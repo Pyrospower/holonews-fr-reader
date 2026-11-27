@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2208_-_2808",
+  "page": 3,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "hololive En",
+      "bbox": {
+        "x": 0.2406,
+        "y": 0.0799,
+        "width": 0.2217,
+        "height": 0.0455
+      }
+    },
+    {
+      "type": "heading",
+      "text": "-Council-",
+      "bbox": {
+        "x": 0.5733,
+        "y": 0.0799,
+        "width": 0.1861,
+        "height": 0.0467
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ler anniversaire",
+      "bbox": {
+        "x": 0.1722,
+        "y": 0.13,
+        "width": 0.6522,
+        "height": 0.0498
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le hololive English -Council- a célébré son premier anniversaire le 23 Août(JST)! Les filles se sont d'abord rassemblées dans leur salle de réunion de leur monde VRChat pour célébrer l'événement.",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.2535,
+        "width": 0.8433,
+        "height": 0.0436
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque Kronii a suggéré d'aller à la piscine, Baelz a imité un Vloggeur et a pris la sortie comme un viog quotidien. Une fois arrivées au jacuzzi, elles ont partagé les premières impressions qu'elles avaient vis-à-vis des unes et des autres avant d'aller à la table de billard. Mumei a décidé d'abandonner son match contre Kronii à cause des contrôles, et Bae en a profité pour annoncer les produits dérivés : des peluches des mascottes des 5 membres (dont Yatagarasu), toutes conçues par Sana.",
+      "bbox": {
+        "x": 0.0789,
+        "y": 0.3005,
+        "width": 0.3978,
+        "height": 0.1671
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont ensuite joué à cache-cache, avec Bae qui cherchait. La cachette de Kronii était bien trop évidente à cause de son chapeau-rotor tournant à toute vitesse. Avant de jouer à Pictionnary, Bae a testé la craie en écrivant « HAPPY 1 YEAR » Mais Fauna à fait remarquer que son « r » ressemblait plus à un « k » (ce qui fait yeak).",
+      "bbox": {
+        "x": 0.0789,
+        "y": 0.5895,
+        "width": 0.8439,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "C'est là que c'était supposé se finir…",
+      "bbox": {
+        "x": 0.0789,
+        "y": 0.8318,
+        "width": 0.3361,
+        "height": 0.0147
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais, pour terminer, le Council est sorti de la scène pour y mettre en place un écran de projection et nous montrer le clip de leur chanson originale chanté en groupe (dont Sana), « Rise », réalisé par Ereca, Suzuki, Menma et noire.",
+      "bbox": {
+        "x": 0.0789,
+        "y": 0.8569,
+        "width": 0.3978,
+        "height": 0.0856
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "+ councilThefirst",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.9657,
+        "width": 0.1472,
+        "height": 0.0127
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les festivités ne se sont pas arrêtées là !",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.6663,
+        "width": 0.3956,
+        "height": 0.0147
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Council est ensuite monté sur scéne pour chanter toutes leurs chansons originales, « Daydream », « Let Me Stay Here », « A new start », et « Play Dice! », en terminant avec une version orchestrale d'« Astrogirl » (faites par WHUNDR) à la mémoire de Sana, qui a arrêté sa carrière avant son anniversaire.",
+      "bbox": {
+        "x": 0.5239,
+        "y": 0.6802,
+        "width": 0.3983,
+        "height": 0.1088
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1cwrw0wzr1m91.gif",
+    "gifFrame": 90,
+    "confidence": 92
+  }
+}

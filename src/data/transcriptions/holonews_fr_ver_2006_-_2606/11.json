@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 11,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.26,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shien et Oga vont apparaître comme invité dans la prochaine Weiss Schwarz Blau ~Starting Party~ avec le membre d'Argonavis Hyuuga Daisuke. La soirée aura lieu le 14 juillet au Airship Theater pour célébrer le 15e anniversaire de Weiss Schwarz. Ils acceptent également les demandes de visiteurs jusqu'au 30 juin. Si vous souhaitez participer, il vous suffit de remplir le formulaire et d'attendre leur confirmation.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.2218,
+        "width": 0.385,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka & Shien",
+      "bbox": {
+        "x": 0.1831,
+        "y": 0.4045,
+        "width": 0.23,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka et Shien ont discuté de tout et de rien dans le TwitCast de Rikka. Ils ont parlé du café que Rikka a vu et qui a l'air bien, ainsi que du dernier repas yakiniku pour Shadowgear où ils ont montré les photos qu'ils ont prises. Rikka a même dit qu'il était gêné de prendre des photos de nourriture en dehors de chez lui, mais Shien a dit qu'il pouvait prendre des photos à sa place ou ne pas réfléchir et juste prendre une photo. Ils ont ensuite continué à parler de nourriture, comme le latte art qu'Aruran a partagé, le stream de yakisoba épicé de Roberu, et le désir d'aller dans un vrai bar et non dans celui de Roberu.",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.4505,
+        "width": 0.3894,
+        "height": 0.1849
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fuma a joué à Yakiniku Simulator en attendant d'atteindre son objectif de 60 000 abonnées. Après trois heures et vingt-six minutes, il a finalement atteint son objectif. En cours de route, il a cuisiné et brûlé beaucoup de viande, et a diverti ses spectateurs avec des conversations amusantes.",
+      "bbox": {
+        "x": 0.0738,
+        "y": 0.7465,
+        "width": 0.3794,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sur Twitter, Gamma a raconté qu'il s'était fait mal au cou au réveil et qu'il avait dû prendre un jour de congé. Mais cela ne l'a pas empêché de jouer avec les assistants dans son stream discussion. Il a parlé avec eux de choses et d'autres, comme la façon dont il s'est blessé au cou, comment acheter Gamma et comment jouer à VALORANT en jouant de l'harmonica. Le jour suivant, il est revenu de son repos et a finalement terminé le dessin de lofi. Après avoir posté le dessin terminé sur Twitter, lofi et Anya ont commenté la qualité du dessin de Gamma, ce à quoi Gamma a répondu qu'il voulait dessiner Anya ensuite.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.3125,
+        "width": 0.3925,
+        "height": 0.1879
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "nouvelle tournure à leur collaboration sur Apex. Il ne s'agit pas d'un jeu à gage, mais d'un stream normal où ils jouent à Apex en utilisant un harmonica pour communiquer entre eux. Étonnamment, ils se sont compris et ont pris le jeu au sérieux.",
+      "bbox": {
+        "x": 0.5169,
+        "y": 0.6871,
+        "width": 0.3713,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Par la suite, quelqu'un a commencé à jouer de la guitare en vocal, et cette personne s'est avérée être Rio. Même si Rio a dit qu'il serait difficile d'utiliser la guitare tout en jouant à Apex, il a réussi à le faire et c'est devenu une session de musique tout en jouant à Apex.",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.7813,
+        "width": 0.3875,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gamma a chanté le refrain de « Eikou no Kakehashi » de Yuzu d'abord avec la guitare, puis avec l'écho, ensuite avec l'harmonica, puis avec des coups de feu, et enfin avec Fuma. Ils ont fini par chanter le refrain tous ensemble.",
+      "bbox": {
+        "x": 0.5181,
+        "y": 0.8754,
+        "width": 0.3756,
+        "height": 0.0773
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/uezevg82haa91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

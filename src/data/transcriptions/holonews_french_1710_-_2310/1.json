@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_french_1710_-_2310",
+  "page": 1,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/gz3dr109edy91.png",
+    "gifFrame": null,
+    "confidence": 75
+  }
+}

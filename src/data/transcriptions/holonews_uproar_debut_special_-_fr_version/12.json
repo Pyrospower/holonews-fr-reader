@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 12,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Programme de la première semaine",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.0438,
+        "width": 0.9019,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "WEEKLY SCHEDULE 3/30-4/2 | -",
+      "bbox": {
+        "x": 0.0375,
+        "y": 0.1007,
+        "width": 0.2438,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "APEX",
+      "bbox": {
+        "x": 0.1056,
+        "y": 0.2218,
+        "width": 0.0513,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Programme de Gamma",
+      "bbox": {
+        "x": 0.1144,
+        "y": 0.9097,
+        "width": 0.2625,
+        "height": 0.0495
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ufxywg46wis81.png",
+    "gifFrame": null,
+    "confidence": 63
+  }
+}

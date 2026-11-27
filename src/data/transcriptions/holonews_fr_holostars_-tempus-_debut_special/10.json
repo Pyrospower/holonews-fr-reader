@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_holostars_-tempus-_debut_special",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le tchat a ensuite commencé a le taquiner sur le fait d'être un furry, mais Axel a répondu qu'il était « faging pur avec un faq dur ». Il a également avoué fièrement son amour pour YAGOO et a mentionné que lorsqu'il a rencontré YAGOO pour la première fois, il lui a dit qu'il l'aimait.",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.6406,
+        "width": 0.37,
+        "height": 0.217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour terminer ses débuts épicés, il a révélé qu'il allait sortir sa première reprise, « Yoidore Shirazu » de Kanaria.",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.862,
+        "width": 0.3744,
+        "height": 0.0807
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/51pm4l90eje91.png",
+    "gifFrame": null,
+    "confidence": 76
+  }
+}

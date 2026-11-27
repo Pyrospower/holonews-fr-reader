@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Des baskets, des bracelets, une sacoche, des badges et des lunettes de soleil s'ajoutent a la tenue de marin noire de Fuma. Il conserve ses gants et ses boucles d'oreilles, mais il a fait une permanente. Kotatsu (sa mascotte) a également reçu une nouvelle tenue ! Il a des bottes jaunes, une chemise de marin marron assortie, un béret et un ruban bleu. Kotatsu est plus mignon que jamais avec son drapeau.",
+      "bbox": {
+        "x": 0.0528,
+        "y": 0.7631,
+        "width": 0.4144,
+        "height": 0.1968
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La tenue de Rio se compose d'un costume de marin noir, d'un short, de bottes, d'un cardigan et d'un béret. Les points clés sont les jarretelles qui maintiennent ses chaussettes, l'inscription « UPROAR » sur son cardigan, les épingles en forme de bonbon ours et ses badges. Ses cheveux sont coiffés en queue de cheval basse avec une tresse sur le coté.",
+      "bbox": {
+        "x": 0.5622,
+        "y": 0.2921,
+        "width": 0.3861,
+        "height": 0.1894
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1aqchi66lwh91.gif",
+    "gifFrame": 87,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 20,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "EVÉNEMENT PALIERS À VENIR D’ABONNÉS",
+      "bbox": {
+        "x": 0.08,
+        "y": 0.0326,
+        "width": 0.8269,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "other",
+      "text": "(du 8 au 15 février)",
+      "bbox": {
+        "x": 0.1913,
+        "y": 0.1115,
+        "width": 0.1456,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 14 février : Anniversaire de Choco",
+      "bbox": {
+        "x": 0.0869,
+        "y": 0.1667,
+        "width": 0.3544,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "other",
+      "text": "et un concert A” 1.5M\n• 15 février : Anniversaire de Moona HOLOSTARS CH. 150K",
+      "bbox": {
+        "x": 0.0869,
+        "y": 0.1827,
+        "width": 0.7563,
+        "height": 0.0664
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci!",
+      "bbox": {
+        "x": 0.3913,
+        "y": 0.6081,
+        "width": 0.2263,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester a jour sur tout ce qui se rapporte a hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.6471,
+        "width": 0.8588,
+        "height": 0.1332
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.3137,
+        "y": 0.793,
+        "width": 0.3825,
+        "height": 0.056
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/97k03dfs4uh81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

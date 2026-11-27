@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 17,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "IRyS et sa grand-mère ayant quelques problèmes de santé, les membres du serveur Discord « IRyS' Stage », initié par RenfieldK, se sont rassemblés pour plier 1 000 grues en papier afin de lui souhaiter bonne chance à elle et sa famille. IRyS a vu les grues en papier et a exprimé sa gratitude pour ce geste.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2114,
+        "width": 0.4181,
+        "height": 0.128
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En guise de cadeau d’anniversaire, les Fandeads ont fait décorer un bus a Hong Kong avec une illustration de Rushia dessinée par Waka Ryou-sensei. Le bus, numéroté NT8619, circulera de Broadcast Drive jusqu’à Tsim Sha Tsui East sur la ligne 208 pendant quatre semaines, puis empruntera une autre ligne pour quatre autres semaines.",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.2118,
+        "width": 0.4144,
+        "height": 0.1402
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De plus, deux illustrations uniques ont été faites pour les mettre sur des spot de pubs. Vous pourrez trouver l'emplacement des vinot arrêts de bus dans les commentaires ci-dessous.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.3655,
+        "width": 0.425,
+        "height": 0.0764
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer les 500 000 abonnés d’lofi, les loforia ont décidé de la remercier pour avoir toujours alimenté leurs fantasmes « halu ». Ils ont collecté un grand nombre de répliques « halu », récitées avec des voix",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.5291,
+        "width": 0.4194,
+        "height": 0.0799
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "douces et réconfortantes, et les ont Le serveur Discord anglophone de fans de compilées dans une courte vidéo disponible Chloe, Chloe's Aquarium Keepers, a",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.605,
+        "width": 0.8913,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "sur la chaîne « Atelier loforia ». lofi l’a collecté des messages sur Yosetti pour regardée en pensant que c'était un meme, notre orque toute mimi en ce moment mais elle a admis plus tard qu'elle avait des difficile pour elle. Des personnes du monde sentiments mitigés. entier ont envoyé du soutien.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.6372,
+        "width": 0.8975,
+        "height": 0.0681
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le serveur discord des fans de Moona, Moona's Observatory Center, est en train UMR de finaliser le projet « Crescent Luminaries » pour l’anniversaire de Moona.",
+      "bbox": {
+        "x": 0.4131,
+        "y": 0.7352,
+        "width": 0.5319,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le projet comprend principalement des lettres, des fanarts, des poemes, des montages photo et autres. Une partie du projet comprend une collecte de fonds, toujours ouverte, pour financer des cadeaux plus spectaculaires pour Moona, comme des panneaux publicitaires, des écritures dans le ciel, des peintures murales, et plus encore.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.8155,
+        "width": 0.4106,
+        "height": 0.1437
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/kt122qf6x8f81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

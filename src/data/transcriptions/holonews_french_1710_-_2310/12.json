@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_french_1710_-_2310",
+  "page": 12,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "[Factorio]",
+      "bbox": {
+        "x": 0.3831,
+        "y": 0.082,
+        "width": 0.0344,
+        "height": 0.0052
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Même pendant la semaine de son concert, Temma ne pouvait s'empêcher de penser à Factorio. Le mercredi, un jour avant le concert, Temma a tout de même décidé de streamer Factorio, sans se soucier du fait qu'il avait une répétition le jour même. Temma a dit qu'il s'est amusé dessus qu'il en a même rêvé. Suite à cela, durant son stream discussion, après son concert, il a dit absolument vouloir se mettre à jouer, mais qu'il ne pouvait pas car il devait faire son stream. Même le jour de son stream pour visionner les archives des anciens concerts avec les autres membres d'Holostars, il a joué a Factorio avant la réunion, ce qui a fait dire à Astel qu'il pouvait jouer dans son coin pendant qu'ils faisaient le stream.",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.2595,
+        "width": 0.4469,
+        "height": 0.1814
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.4674,
+        "width": 0.2163,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En complète accordance avec son lore, le premier instigateur du cas Toilet Tempo, Roberu, a fait un stream imprévu qui impliquait la seule et unique... toilette. Durant ce stream, qu’il a prénommé «Mon estomac a encore plus la chiasse que d'habitude, mais si je vais aux toilettes, je perds: L'émission », Roberu a du faire de son mieux pour se retenir et éviter de se décharger le plus longtemps possible. Les spectateurs, confus et inquiets, étaient tous en train de demander ce qu’il cherchait à accomplir avec ce stream geri-ra (jeu de mot avec guerilla, stream imprévu, et geri, diarrhée en japonais). Ses spectateurs n'arrêtaient pas de lui dire de lâcher prise, avec même Yuki Ono, le doubleur qui était partenaire avec Roberu à Henraji, lui demandant par super chat. Finalement, il a réussi à tenir plus d'une heure en parlant de sujets douteux en rapport avec les toilettes et les excréments. Des félicitations s'imposent.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.5139,
+        "width": 0.4463,
+        "height": 0.2339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un jour avant le concert, durant la matinée, Oga a soudainement décidé de faire un stream karaoké. Oga a dit qu’il avait envie de chanter avant la répétition. Oga a chanté un total de neuf chansons, en environ une heure. Merci beaucoup, Oga !",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.8043,
+        "width": 0.4456,
+        "height": 0.0647
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Shien a tenté de faire le quizz officiel Holostars en stream. Le quizz fut lancé par COVER et consistait en diverses questions portant sur les membres d’hololive. Le quizz comportait une catégorie hololive et une catégorie HOLOSTARS. Après avoir répondu à 30 questions, Shien s’est retrouvé avec un score de 73%, et a réussi le quiz. Shien a prouvé qu'il est effectivement encore un membre d’Holostars.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.2591,
+        "width": 0.4456,
+        "height": 0.1011
+      }
+    },
+    {
+      "type": "heading",
+      "text": "UPROAR!",
+      "bbox": {
+        "x": 0.59,
+        "y": 0.4084,
+        "width": 0.1813,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A la fin du Holostars 2nd Act “GREAT VOYAGE to UNIVERSE!!\"”, les débuts d'UPROAR! ont été annoncés! Tous les détails les concernant seront annoncés plus tard. A cette annonce, UPROAR!!, qui était en plein stream, était très excité. Après cela, chacun des membres ont parlé de leur excitation dans leurs streams de discussion respectifs. Félicitons donc UPROARI!! pour cette annonce!",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.4514,
+        "width": 0.4463,
+        "height": 0.1033
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ri6w1hdaedy91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

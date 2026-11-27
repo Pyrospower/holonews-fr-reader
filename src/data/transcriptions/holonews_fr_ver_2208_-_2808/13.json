@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2208_-_2808",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "UMISEA, un groupe composé de Marine, Aqua,",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.2487,
+        "width": 0.4425,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina et Gura, a été relancée dans le dernier épisode de Holo no Graffiti, qui mettaient en vedette eux-mêmes et Chloé. Cela marque également la toute première apparition d'un membre holoEN dans hologra ! Après l'épisode, elles ont sorti une nouvelle musique, « It Comes Ryuuu And It Goes Kyuuu », produite par Camelia, et avec Chloé en tant que nouveau membre ! Le clip est disponible sur la chaîne officielle (depuis le 29 août).",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.263,
+        "width": 0.445,
+        "height": 0.1276
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En commémoration de la collaboration Phantasy Star Online 2 New Genesis x hololive, une courte animation 3D mettant en vedette Shien, Fubuki et Ina entrain de voyager dans l'univers de New Genesis a été publiée.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.3268,
+        "width": 0.4456,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "I'meon Observation Duty",
+      "bbox": {
+        "x": 0.7331,
+        "y": 0.7079,
+        "width": 0.1338,
+        "height": 0.0278
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/6e4867vzr1m91.png",
+    "gifFrame": null,
+    "confidence": 85
+  }
+}

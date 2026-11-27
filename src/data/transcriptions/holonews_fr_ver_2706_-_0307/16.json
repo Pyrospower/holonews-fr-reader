@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A new set of t-shirts from",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.2595,
+        "width": 0.2063,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une nouvelle série de t-shirts tirés de holo no grafitti est sortie le 1er juillet ! Cette série présente des designs avec la Gen 2 et les GAMERS ! Ces produits sont disponibles uniquement sur Merch by Amazon et peuvent être expédiés aux clients en France, en Allemagne, en Italie, au Japon, en Espagne, au Royaume- Uni, aux Etats-Unis et plus encore.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.2726,
+        "width": 0.2931,
+        "height": 0.1293
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "26 talents played HoloCure on Stream this week!",
+      "bbox": {
+        "x": 0.0663,
+        "y": 0.9332,
+        "width": 0.1713,
+        "height": 0.0369
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "oe = Greatest Moments T-Shirt &# Available from Amazon ; Search for “hololive production” More merch will soon be available! on",
+      "bbox": {
+        "x": 0.4206,
+        "y": 0.1332,
+        "width": 0.5181,
+        "height": 0.0525
+      }
+    },
+    {
+      "type": "heading",
+      "text": "UNDERTALE",
+      "bbox": {
+        "x": 0.6813,
+        "y": 0.4865,
+        "width": 0.2031,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "heading",
+      "text": "@ FOREWARNED",
+      "bbox": {
+        "x": 0.6781,
+        "y": 0.8659,
+        "width": 0.2219,
+        "height": 0.0182
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/7840zv635kb91.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

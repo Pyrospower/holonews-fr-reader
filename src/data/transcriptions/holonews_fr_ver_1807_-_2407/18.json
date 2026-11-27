@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projet des fans",
+      "bbox": {
+        "x": 0.355,
+        "y": 0.0256,
+        "width": 0.29,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Preface",
+      "bbox": {
+        "x": 0.4375,
+        "y": 0.1128,
+        "width": 0.0525,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour fêter les 600 000 abonnés de lofi, Atelier loforia, le Short Stories serveur Discord des fans de lofi, a publié un recueil d'histoires courtes écrites par différents membres. Le recueil, enrichi de jolies photos et de fanarts commandés pour l'occasion, est disponible en ligne sous forme de folioscope ou peut être téléchargé au format PDF. 19S ' - Let's play s LET'S PLAY TERMINÉS = WF ;",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.3047,
+        "width": 0.8744,
+        "height": 0.1697
+      }
+    },
+    {
+      "type": "heading",
+      "text": "VAMPIRE ‘K SURVIVORS 3",
+      "bbox": {
+        "x": 0.2181,
+        "y": 0.543,
+        "width": 0.225,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "TRE EMBLEM WARRIORS",
+      "bbox": {
+        "x": 0.2537,
+        "y": 0.7075,
+        "width": 0.1488,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, 16 talents ont streamé ce jeu.",
+      "bbox": {
+        "x": 0.5306,
+        "y": 0.9336,
+        "width": 0.2025,
+        "height": 0.036
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1ufxkslo0qf91.png",
+    "gifFrame": null,
+    "confidence": 85
+  }
+}

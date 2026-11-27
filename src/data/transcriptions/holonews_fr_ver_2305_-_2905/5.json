@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2305_-_2905",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pour son retour tant attendu, Aqua a lancé un stream de chant en commençant par l'une de ses chansons originales, « Aqutan no koto sukisugi song ». C'était très agréable d'entendre Desk-kun perdre sa santé une fois de plus. Elle a chanté 12 chansons pendant 2 heures, entrecoupées de quelques histoires sur ce qui s'est passé dans sa vie. Aqua a annoncé que les illustrations réservées aux membres de mai expireront bientôt, et s'est excusée à la fois pour sa longue absence et pour ne pas avoir lu les Super Chats de ce stream. Elle n'a pas précisé la date de son retour, mais a promis de prendre soin de sa santé.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3956,
+        "height": 0.1879
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre canard préféré a réfléchi à l'amélioration de ses compétences en anglais lors de son récent stream de discussion. Shuba regarde des films anglais sans sous-titres et suit des cours d'anglais depuis un certain temps. Grâce à cela, elle a pu tenir une conversation de base sur les anime avec Ina pendant le stream anniversaire de la prêtresse. Shuba a également remercié Ina d'avoir parlé lentement et clairement pendant leur conversation, et a promis de travailler dur pour améliorer ses compétences en anglais.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.2183,
+        "width": 0.39,
+        "height": 0.161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors d'un récent stream de cuisine en fin de soirée, Choco a expliqué pourquoi elle n'est pas allée à l'université bien qu'elle avait été acceptée. Elle a expliqué qu'elle ne savait pas ce qu'elle voulait faire à l'époque, et qu'elle risquait de ne pas trouver de travail après l'obtention de son diplôme. Elle a donc décidé de s'inscrire dans une école de formation culinaire, même si elle n'avait aucune expérience et détestait cuisiner à l'époque. Aujourd'hui, elle est considérée comme l'une des meilleures cuisinières d'hololive.",
+      "bbox": {
+        "x": 0.2725,
+        "y": 0.4379,
+        "width": 0.6688,
+        "height": 0.0933
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre très chère canard a récemment tenu un stream Mario Kart 8 où elle dévoilait un vieux tweet a chaque fois qu'elle descendait en dessous de la 8e place. Elle à fini par grimacer et s'excuser pour les tweets, surtout ceux qui étaient dirigés vers ses aînées de la Gen 1. Il a également été révélé qu'elle avait l'habitude de terminer ses tweets par « ssu ». Elle a également envoyé une photo mal éditée à Ayame et un dessin grossier à Matsuri, qu'elle avait l'habitude d'appeler « Maa-chan ». Shuba a expliqué que son manager lui avait recommandé de faire des folies pour devenir virale, et les spectateurs ont reconnu que ces tweets étaient plus fous que ceux d’Haachama.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.7122,
+        "width": 0.3906,
+        "height": 0.2118
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a appris a se détendre peu apres avoir craqué à cause du stress. Elle a remarqué qu'elle était tellement stressée qu'elle faisait des cauchemars récurrents, dont un où elle n'arrivait pas à se réveiller parce qu'elle était déprimée. Elle a également réalisé qu'elle s'était surmenée lorsqu'elle a découvert qu'elle ne s'était pas coupé les cheveux depuis trois mois, ce qu'elle fait habituellement tous les mois. Elle a donc suivi les conseils de Kiara : faire des pauses, limiter son travail aux jours de la semaine, ne pas répondre au travail les jours de repos et acheter des fleurs avec Luna",
+      "bbox": {
+        "x": 0.5406,
+        "y": 0.7422,
+        "width": 0.3888,
+        "height": 0.1745
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xxddaejpo1391.png",
+    "gifFrame": null,
+    "confidence": 95
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Magazine hebdomadaire d'actualités",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.1536,
+        "width": 0.2963,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "célèbre son anniversaire avec des jeux en 3D et des produits dérivés",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.2491,
+        "width": 0.1838,
+        "height": 0.1081
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.3754,
+        "width": 0.2013,
+        "height": 0.0404
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "fait un concert pour son",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.4301,
+        "width": 0.19,
+        "height": 0.0391
+      }
+    },
+    {
+      "type": "heading",
+      "text": "second anniversaire",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.4709,
+        "width": 0.1619,
+        "height": 0.0352
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "célèbre son 4e anniversaire en 3D",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.6037,
+        "width": 0.1944,
+        "height": 0.056
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mumei, Kronii, Nene, Okayu et { d'autres ont publié des reprises !",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.7391,
+        "width": 0.24,
+        "height": 0.1003
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "CHAD CAST ep.08",
+      "bbox": {
+        "x": 0.7575,
+        "y": 0.0122,
+        "width": 0.2181,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "heading",
+      "text": "s TARS",
+      "bbox": {
+        "x": 0.6825,
+        "y": 0.1441,
+        "width": 0.2913,
+        "height": 0.0842
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• GREAT VOYAGE to UNIVERSE! »",
+      "bbox": {
+        "x": 0.7844,
+        "y": 0.2439,
+        "width": 0.1925,
+        "height": 0.0547
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Noel",
+      "bbox": {
+        "x": 0.8,
+        "y": 0.3229,
+        "width": 0.1763,
+        "height": 0.0404
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "révèle sa d’écolière",
+      "bbox": {
+        "x": 0.8475,
+        "y": 0.375,
+        "width": 0.1262,
+        "height": 0.056
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Magni ;",
+      "bbox": {
+        "x": 0.7025,
+        "y": 0.457,
+        "width": 0.2713,
+        "height": 0.0538
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a dessiné",
+      "bbox": {
+        "x": 0.8488,
+        "y": 0.5122,
+        "width": 0.1256,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Magmite, la mascote de ses fans",
+      "bbox": {
+        "x": 0.8225,
+        "y": 0.533,
+        "width": 0.1525,
+        "height": 0.0556
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vous voulez nous aider ? Rejoignez notre Discord !",
+      "bbox": {
+        "x": 0.5831,
+        "y": 0.921,
+        "width": 0.28,
+        "height": 0.0321
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2ciom6supok91.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

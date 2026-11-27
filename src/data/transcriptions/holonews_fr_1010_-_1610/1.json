@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1010_-_1610",
+  "page": 1,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Actualités hebdomadaires",
+      "bbox": {
+        "x": 0.15,
+        "y": 0.135,
+        "width": 0.1438,
+        "height": 0.0295
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3bzrie087cw91.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOFORCE",
+      "bbox": {
+        "x": 0.0975,
+        "y": 0.0525,
+        "width": 0.3475,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Towa & Kanata",
+      "bbox": {
+        "x": 0.1781,
+        "y": 0.2279,
+        "width": 0.2994,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'émission radio d’hololive « Emission radio routière des idols d’hololive - écoutez nos chansons ! » fera son retour les 20 et 27 février. Cette fois-ci, les animatrices seront Towa et A-chan. Kanata, qui devait également animer l'émission, ne pourra pas être présente en raison de son état (un certain virus). Comme d'habitude, vous pouvez envoyer vos questions pour l'émission à l'adresse suivante : hip@jogr.net .",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2661,
+        "width": 0.4306,
+        "height": 0.1354
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata a malheureusement été déclarée positive au coronavirus. Néanmoins, elle se porte bien et sera bientôt remise sur pied. Elle s’est isolée chez elle et n'a eu de contact qu’avec son amie « C ». Elle publie des vidéos chaque jour, dans lesquelles elle décrit son état et rassure ses fans. L'évolution de sa voix a été particulièrement perceptible : sonnant comme une grand-mère au début de son isolement, avant de revenir progressivement à la normale.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.5777,
+        "width": 0.425,
+        "height": 0.1923
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Luna, Choco et Subaru se sont affrontées dans un concours de cuisine. Pendant qu'elles cuisinaient, Luna était si agacée qu'elle en a oublié d'ajouter son tic langagier « -nora » à la fin de ses phrases. Quand ses spectateurs lui ont fait remarquer, Luna a répondu que « Nora n’était pas là. »",
+      "bbox": {
+        "x": 0.2288,
+        "y": 0.8112,
+        "width": 0.2606,
+        "height": 0.1484
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.6281,
+        "y": 0.2279,
+        "width": 0.1831,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À partir du 7 mars et jusqu'au 6 avril, vous pourrez déguster le « Watamerino », un menu en collaboration avec Watame disponible à Merino, un restaurant buffet à volonté situé à Akihabara et Shinjuku. En commandant le menu spécial",
+      "bbox": {
+        "x": 0.5281,
+        "y": 0.2665,
+        "width": 0.4281,
+        "height": 0.0677
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« Watamerino » dans l'un de leurs restaurants, vous obtiendrez une pochette limitée contenant une parmi deux illustrations originales. On retrouve également six boissons et six cocktails dont deux sans alcool, tous en collaboration avec Watame. En commandant ces boissons, vous recevrez un dessous de verre en papier parmi cinq designs originaux différents.",
+      "bbox": {
+        "x": 0.5288,
+        "y": 0.3338,
+        "width": 0.42,
+        "height": 0.1081
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour couronner le tout, des produits dérivés seront mis en vente pour une durée limitée ! On retrouve une figurine en acrylique, quatre variantes de mini-figures en acryliques, des badges en métal à échanger, un gobelet, ainsi qu'un ensemble comprenant des baguettes et un bol à donburi. Les clients faisant l'acquisition de ces produits directement depuis l'un des restaurants recevront également une carte postale comportant le message « Kakumaki. »",
+      "bbox": {
+        "x": 0.5288,
+        "y": 0.4544,
+        "width": 0.42,
+        "height": 0.1458
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "es produits dérivés pourront également être commandés en ligne depuis le lien disponible dans les sources.",
+      "bbox": {
+        "x": 0.5294,
+        "y": 0.5894,
+        "width": 0.3875,
+        "height": 0.0378
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa a fait une nouvelle victime parmi les rangs d’holoX. Cette fois-ci, c'est Chloe qui s'est essayée à affronter Towa en un-contre-un sur 51 Worldwide Games. Malgré ses efforts, Chloe n’a pas pu tenir tête aux prouesses vidéoludiques de Towa. Ayant gagné 6 à 3, Towa a fait de Chloe son animal de compagnie en guise de rétribution. Il ne reste maintenant à Towa plus que deux membres d’holoX à défier.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8103,
+        "width": 0.4156,
+        "height": 0.1437
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0tignb9hplk81.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

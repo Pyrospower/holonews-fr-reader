@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Botan de retour de son séjour d'une semaine a l'hôpital HoloID ont fini leur navire",
+      "bbox": {
+        "x": 0.0413,
+        "y": 0.2227,
+        "width": 0.2413,
+        "height": 0.145
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "IEEE Assurez-vous de ne manquer aucune sortie en rejoignant r/HoloNews",
+      "bbox": {
+        "x": 0.0163,
+        "y": 0.9657,
+        "width": 0.9475,
+        "height": 0.0217
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cpqvl105e0m81.png",
+    "gifFrame": null,
+    "confidence": 78
+  }
+}

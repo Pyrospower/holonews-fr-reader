@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 20,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENT PALIERS À VENIR D’ABONNÉS",
+      "bbox": {
+        "x": 0.08,
+        "y": 0.0326,
+        "width": 0.8269,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 27 janvier : Tournoi Pokémon holoJP (NicoNico)",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.1285,
+        "width": 0.3313,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 30 janvier : Tournoi Pokémon",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.1806,
+        "width": 0.3313,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "holoEN x holoID",
+      "bbox": {
+        "x": 0.0956,
+        "y": 0.1984,
+        "width": 0.1713,
+        "height": 0.0126
+      }
+    },
+    {
+      "type": "other",
+      "text": "» 28 janvier : Second concert solo d'Aqua",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.2331,
+        "width": 0.3588,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 30 janvier : Anniversaire de Polka",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.2852,
+        "width": 0.3756,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci!",
+      "bbox": {
+        "x": 0.3913,
+        "y": 0.6033,
+        "width": 0.2263,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "KOYORI",
+      "bbox": {
+        "x": 0.7394,
+        "y": 0.2057,
+        "width": 0.0988,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un oup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.6515,
+        "width": 0.8588,
+        "height": 0.1332
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d'avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.325,
+        "y": 0.7986,
+        "width": 0.36,
+        "height": 0.0525
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/l83xopf6x8f81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

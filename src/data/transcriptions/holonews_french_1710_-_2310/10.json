@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_french_1710_-_2310",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Etant donné que l'anniversaire de Rikka est tombé le même jour que le concert des Holostars, Rikka a reporté sa fête d'anniversaire au 27 octobre. Il a cependant quand même fait un stream avec un compte à rebours pour sa vraie date d'anniversaire. Malgré qu'il soit assez assez maladroit, il a réussi à être émouvant, en parlant de ce qu'il a fait, et de ce qu’il souhaiterait faire, ce qui a fait pleurer plusieurs de ses fans. Outre les chansons qu'il a chanté, Rikka a aussi annoncé qu'il allait sortir sa nouvelle reprise, «Overdose» de Natori.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.1966,
+        "width": 0.4456,
+        "height": 0.1402
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant l'aftertalk de Rikka pour le concert 2nd ACT, il a dit ce qu'il pensait sur le fait d’avoir «Re:Hello world» en tant que rappel. Il a dit que la chanson allait faire pleurer tout le monde, et a dit que Shinove lui avait envoyé un message lui disant qu'il avait pleuré en l'écoutant. La chanson leur est spéciale puisque lorsque RlIkka l’écrivait, il a souvent consulté Shinove pour des conseils. Il a aussi exprimé qu'il ne souhaitait pas avoir de chorégraphie parce qu'il voulait que les membres interprètent leur propre «Hello World».",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.5911,
+        "width": 0.4456,
+        "height": 0.1293
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.12,
+        "y": 0.7691,
+        "width": 0.1363,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour s'améliorer dans la création de miniatures, Aruran a invité Ange Katrina de Nijisanji et le Vtubeur indépendant Utai Meika sur sa chaîne. Même si ses miniatures sont correctes, il continue d'essayer de les améliorer. Durant le stream, les invités ont reçu des miniatures originelles d’Aruran et ils ont dû essayer de les améliorer. Cela a donné des résultats plutôt intéressants. On peut espérer qu'Aruran va continuer de s'améliorer.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.8095,
+        "width": 0.4463,
+        "height": 0.1141
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant le concert, Miyabi a demandé aux fans des Holostars d’envoyer des photos de leur collection de produits dérivés et de leur préparation pour le concert. Miyabi a demandé aux fans d'envoyer leurs photos aux hashtag #4 & £. Miyabi a accepté des photos contenant des produits de tous les membres, pas seulement de lui. Vous pouvez les découvrir sur son stream, accompagnées de ses réactions.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.25,
+        "width": 0.4456,
+        "height": 0.1037
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lzuru a parlé de du concert 2nd ACT et a chanté des versions acoustiques. Il a parlé du fait que dans le premier concert, il voulait être mignon, et que donc cette fois-ci il voulait essayer d’être cool. Il a aussi fait mention du fait que pour son solo, Miyabi, Aruran et Rikka ont joué avec lui pour former un groupe. Miyabi était à la basse, Aruran les percussion, et Rikka la guitare. Il était extrêmement heureux parce que c'était un de ses rêves, mais il a dit ne pas vouloir déranger Miyabi et Aruran puisqu'ils étaient occupés. Son souhait est maintenant de chanter une chanson originale, et pas une reprise.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.5911,
+        "width": 0.4463,
+        "height": 0.1558
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/hi40o46aedy91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

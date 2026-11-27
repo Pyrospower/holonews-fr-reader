@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 2,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Une heure avant le 13 juillet, Fuma a démarré un stream pour faire un compte a rebours avant son anniversaire. Au début du stream, il est arrivé en souriant et en étant extraordinairement musclé. Ses camarades d'UPROAR!! étaient présents dans le tchat, très confus face a cette version musclée de Fuma.",
+      "bbox": {
+        "x": 0.0956,
+        "y": 0.1177,
+        "width": 0.7956,
+        "height": 0.0532
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En attendant, Fuma a discuté avec ses spectateurs tout en montrant son illustration d'anniversaire et ses cadeaux pour ses fans.",
+      "bbox": {
+        "x": 0.135,
+        "y": 0.1998,
+        "width": 0.2244,
+        "height": 0.0814
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme promis, en guise de cadeau pour ses fans, Fuma a offert une illustration spéciale pour son anniversaire. Cette illustration a été donnée gratuitement puisqu'il ne sort pas de produits dérivés pour son anniversaire cette année.",
+      "bbox": {
+        "x": 0.095,
+        "y": 0.4738,
+        "width": 0.2617,
+        "height": 0.0999
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La célébration de son anniversaire s'est poursuivie plus tard dans la nuit avec un stream spécial anniversaire. La stream a commencé avec une page de pub, qui comportait Fuma, Fuma, Fuma et Fuma. Beaucoup de Fumas. Il est ensuite apparu a l'écran, entièrement préparé avec des gateaux, des . dorayaki, des boissons, ainsi qu'un grand couteau pour couper le gateau.",
+      "bbox": {
+        "x": 0.6417,
+        "y": 0.3067,
+        "width": 0.2606,
+        "height": 0.1651
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuite, il a lu quelques Marshmallows qu'il avait préparés à l’avance. Puis, il a lu des messages de félicitations, qui venaient certainement du staff et qui ne venaient certainement pas de Rio, Uyu, et Gamma. Les vrais messages du staff sont venus après.",
+      "bbox": {
+        "x": 0.6417,
+        "y": 0.6323,
+        "width": 0.2672,
+        "height": 0.1373
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fuma a ensuite montré les cadeaux qu'il a reçus, comme les illustrations",
+      "bbox": {
+        "x": 0.2378,
+        "y": 0.8117,
+        "width": 0.6611,
+        "height": 0.0123
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "de Gamma et d'Ollie.",
+      "bbox": {
+        "x": 0.7172,
+        "y": 0.8252,
+        "width": 0.1867,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin, il a révélé son dernier cadeau, une reprise de « SHANTI » de wotaku. Après avoir mis tous ses cadeaux à l'écran, il a finalement terminé son stream.",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.8391,
+        "width": 0.7139,
+        "height": 0.0266
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Joyeux anniversaire, Fuma",
+      "bbox": {
+        "x": 0.6478,
+        "y": 0.8808,
+        "width": 0.2456,
+        "height": 0.0123
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8dnl82obsqd91.gif",
+    "gifFrame": 89,
+    "confidence": 90
+  }
+}

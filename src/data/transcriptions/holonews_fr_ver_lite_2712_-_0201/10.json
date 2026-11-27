@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2712_-_0201",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Our Stars, un fanzine basé sur les holostars paru récemment, contient une Série de fan art et d'histoires sur les membres passés et actuels. Le fanzine est téléchargeable dès maintenant avec des produits dérivés numériques des membres d’holostars pour un usage personnel.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.1827,
+        "width": 0.4244,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "heading",
+      "text": "LET’S PLAY",
+      "bbox": {
+        "x": 0.1913,
+        "y": 0.3676,
+        "width": 0.3419,
+        "height": 0.0256
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4cz7kicubhb81.png",
+    "gifFrame": null,
+    "confidence": 79
+  }
+}

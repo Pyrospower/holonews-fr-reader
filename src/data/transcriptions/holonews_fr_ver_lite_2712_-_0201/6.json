@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2712_-_0201",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holostars",
+      "bbox": {
+        "x": 0.1625,
+        "y": 0.204,
+        "width": 0.2244,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le site officiel des holostars a été remis à neuf ! Profitez de cette occasion pour en apprendre plus sur eux ! Il comprend les plannings, les actualités et des vidéos recommandées à leur sujet.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.247,
+        "width": 0.4069,
+        "height": 0.0799
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ap Roberu, Miyabi, & Oga",
+      "bbox": {
+        "x": 0.1494,
+        "y": 0.4401,
+        "width": 0.3019,
+        "height": 0.0751
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour commencer 2022, plusieurs Holostars ont dévoilé la version 2.0 de leurs tenues du Nouvel An. Cette mise à jour fait suite à la mise à jour 2.0 qu'ils ont reçu l'année dernière pour leurs tenues de base. Pour l'instant, Miyabi, Arurandeisu, Roberu et Oga sont ceux qui ont révélé leurs tenues du Nouvel An 2.0. Soyez à l'affût pour savoir quand d'autres holostars révéleront les leurs !",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.5599,
+        "width": 0.4225,
+        "height": 0.1393
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "@ [DTN] LEIA 19H23",
+      "bbox": {
+        "x": 0.515,
+        "y": 0.0868,
+        "width": 0.1725,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "other",
+      "text": "@astelleda",
+      "bbox": {
+        "x": 0.5775,
+        "y": 0.1246,
+        "width": 0.0569,
+        "height": 0.0069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a enfin organisé son événement spécial, rare et annuel : un stream ASMR. Après l'avoir annulé plus tôt cette semaine à cause d'un câble manquant, Astel a tweeté que celui de de remplacement qu'il avait commandé était arrivé plus tôt que prévu, et qu'il avait donc recréé la salle d'attente pour le stream ASMR. Son avertissement était toujours d'actualité : ses fans masculins ne devraient pas regarder ce stream. Quand l'heure du stream approcha, Astel n'a cessé de le repousser disant qu'il ne commencerait pas avant qu'il y ait minimum 5 000 personnes dans la salle d'attente. Le stream était public, mais la rediffusion est réservée aux membres. Rejoignez les membres d'Astel pour profiter de ces contenus rares et précieux !",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.247,
+        "width": 0.4275,
+        "height": 0.2504
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À la suite de son stream ASMR, Astel a été taquiné par ses amis à ce sujet. Son amie d'APEX, Leia (DTN), l'a taquiné sur Twitter, et Kamaneko, l'entraîneur de l'équipe APEX de RAG (lzuru, Aruran et Astel), a également dit lors de leurs match d’APEX pendant le stream d'endurance de 24 heures d'Aruran qu'il a regardé l'ASMR d'Astel. Ensemble, ils ont taquiné Astel.",
+      "bbox": {
+        "x": 0.5194,
+        "y": 0.5399,
+        "width": 0.4281,
+        "height": 0.1641
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le Nouvel An, le dieu Temma est venu lire votre avenir pour 2022. Dieu Temma a amené ses spectateurs dans un temple créé à l’occasion dans Minecraft. Il y avait 100 boîtes numérotées qui contenaient diverses quantités de chance. Les spectateurs ont sélectionné un nombre aléatoire entre 1 à 100, qui serait ensuite ouvert au hasard par le dieu Temma. La chance obtenue n'était pas seulement pour le spectateur dont il avait choisi le message, mais aussi pour tous ceux qui voulaient choisir ce numéro. Alors, quelle est votre chance pour cette année selon les lectures du dieu Temma ?",
+      "bbox": {
+        "x": 0.5194,
+        "y": 0.7357,
+        "width": 0.4231,
+        "height": 0.2144
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0m01hkcubhb81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

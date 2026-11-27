@@ -1,0 +1,318 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats",
+      "bbox": {
+        "x": 0.4494,
+        "y": 0.0187,
+        "width": 0.1019,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Koyori] Mixed Nuts: 250K [Mel/Kanata/Calliope] Luvoratorrrrry!: 1M [Luna] Zettai Chuusei Ÿ Nanonanora: 75K",
+      "bbox": {
+        "x": 0.1419,
+        "y": 0.0673,
+        "width": 0.3456,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Korone] Fushigi Na Kusuri: 250K [Gura/Shion] Renai Circulation: 2M [Akirose] Rose of the Lamp (Live): 50K 07/ PAY) [Sora] Sora No Toki: 50K [Axel] Yoidore Shirazu: 250K [Koyori/Kiara] Newton Dance: 750K [Towa/Okayu] Cat Loving: 750K [La+] Kilmer (Cover): 250K 07/31 [Suisei] Tricologe: 2M [Shion] Yoidore Shirazu: 1M",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.1315,
+        "width": 0.4413,
+        "height": 0.191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Roboco] Little Bit (Live): 100K [Marine] I'm Your Treasure Box: 750K [Ame/Nabi] Say So (Cover): 10K [Iroha/La+] Identity: 2M",
+      "bbox": {
+        "x": 0.1806,
+        "y": 0.3268,
+        "width": 0.3063,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.0638,
+        "y": 0.4119,
+        "width": 0.1019,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ORIGINALE",
+      "bbox": {
+        "x": 0.4306,
+        "y": 0.4119,
+        "width": 0.1356,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Fubuki] Ready to: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.0673,
+        "width": 0.195,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[La+] Kilmer (Cover): 100K [Ina/Sana] Futariboshi: 250K [Reine/Towa] Cynical Night Plan: 75K [Okayu] Shitsuraku Petri: 8M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.0838,
+        "width": 0.3038,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sora] Shoujo Rei: 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1497,
+        "width": 0.195,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[lofi] Dekat Di Hati: 75K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1814,
+        "width": 0.1881,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Calliope] Kamouflage: 100K 07/28 [Rikka] Re:Hello World (English Version): 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1797,
+        "width": 0.4369,
+        "height": 0.0469
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Rio] CHANGE (Cover): 25K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2309,
+        "width": 0.2275,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nene] Salamander: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2474,
+        "width": 0.21,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lui] Overd: 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2782,
+        "width": 0.1412,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Chloe] Hurt You: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2947,
+        "width": 0.1869,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Risu/Oga] Harapan PanPanPan: 50K [Miyabi/Aruran/Temma] Kaze Ni Naru: 25K [Reine/Towa] Cynical Night Plan: 100K [Calliope] Make ‘Em Afraid: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3112,
+        "width": 0.3463,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Fuma] Shanti: 75K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3772,
+        "width": 0.1556,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "NOUVEAU",
+      "bbox": {
+        "x": 0.8113,
+        "y": 0.4119,
+        "width": 0.1206,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nouvelles sorties",
+      "bbox": {
+        "x": 0.3188,
+        "y": 0.4536,
+        "width": 0.3619,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.3581,
+        "y": 0.5625,
+        "width": 0.0419,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "RE:HELLO WORLD (ENGLISH VERSION)",
+      "bbox": {
+        "x": 0.3563,
+        "y": 0.5881,
+        "width": 0.2375,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.6694,
+        "y": 0.572,
+        "width": 0.0569,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "I'M YOUR TREASURE BOX * YOU HAVE FOUND CAPTAIN",
+      "bbox": {
+        "x": 0.6688,
+        "y": 0.5872,
+        "width": 0.2213,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "MARINE IN A TREASURE CHEST",
+      "bbox": {
+        "x": 0.6688,
+        "y": 0.6029,
+        "width": 0.2488,
+        "height": 0.0069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rio",
+      "bbox": {
+        "x": 0.67,
+        "y": 0.6918,
+        "width": 0.025,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Amelia & Nabi SAY pie, A COLLAB",
+      "bbox": {
+        "x": 0.3175,
+        "y": 0.6918,
+        "width": 0.2019,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu THÉ VENOM",
+      "bbox": {
+        "x": 0.6681,
+        "y": 0.8121,
+        "width": 0.1475,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Midnight Grand Orchestra (Suisei & Taku Inoue)",
+      "bbox": {
+        "x": 0.2175,
+        "y": 0.9162,
+        "width": 0.22,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ORIO (Kanata & Towa)",
+      "bbox": {
+        "x": 0.6856,
+        "y": 0.9162,
+        "width": 0.1331,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "heading",
+      "text": "OVER TIME",
+      "bbox": {
+        "x": 0.6856,
+        "y": 0.9501,
+        "width": 0.245,
+        "height": 0.0178
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ta1ztxg4fig91.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

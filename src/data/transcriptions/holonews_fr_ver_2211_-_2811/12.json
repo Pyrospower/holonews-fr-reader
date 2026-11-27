@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 12,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLORO",
+      "bbox": {
+        "x": 0.1438,
+        "y": 0.0425,
+        "width": 0.24,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's Learn",
+      "bbox": {
+        "x": 0.2113,
+        "y": 0.1233,
+        "width": 0.1013,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kronii est devenue la première invitée d'HoloEN dans la « classe » de Reine cette semaine. Il s'agissait d’un cours d'indonésien, mais cette fois en anglais ! Kronii a appris des mots importants et des phrases pour dire bonjour, au revoir, ainsi que quelques notions de grammaire. Elle a aussi découvert que son fameux cri « GWAK » se prononce comme un pronom informel en indonésien qui pourrait être utilisé pour se désigner soi-même. Vers la fin du stream, Reine a expliqué le concept essentiel de « halu », désignant les personnes délirantes qui ont des waifu ou des husbando. Kronii a immédiatement confirmé qu'elle avait effectivement une waifu, et qu'il s'agissait de Kronii, ce que Reine a tout de suite qualifié de halu. Kronii a cependant refusé la demande de Kronii en mariage, affirmant qu’elle n’est pas encore prête pour ce niveau d'engagement et de responsabilité.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.2535,
+        "width": 0.4269,
+        "height": 0.2947
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsqu'elle a commencé son récent stream Minecraft, elle n’a vu qu’une seule personne connectée au serveur : Risu. Dès qu'elle s’est connectée, elle a trouvé de nouveaux bâtiments qu'elle a trouvé très mignons, et a décidé de les explorer. Pendant qu'elle explorait la zone souterraine, elle a été trouvée par Risu et a qualifié de PNJ l'écureuil résident du serveur HololD. Elle a aussi demandé à Risu combien d'heures elle avait gaspillé sur Minecraft, ce à quoi elle a répondu qu'elle avait arrêté de compter. Après ça, elle a passé un moment à regarder les nouveaux projets de Risu : une grande zone résidentielle et des décorations sur un bâtiment voisin.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.7335,
+        "width": 0.4275,
+        "height": 0.2114
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant son let's play Nuzlocke challenge Pokémon, Ollie a contacté Sana qui streamait Pokémon au même moment. Elle voulait lui demander pour un échange, mais fut prise de nervosité et de timidité. Malgré cela, elles ont lancé un appel et se sont rendues dans la salle Union pour faire l'échange et même se combattre (la mort définitive du Nuzlocke ne s'applique pas pendant les combats amicaux). L’ échange s'est bien passé, mais l’équipe de Sana était largement supérieure à celle d'Ollie qui s'est fait balayer par son seul Togekiss. Malgré cette défaite, Ollie a dit qu’elle avait trouvé Sana vraiment gentille.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2513,
+        "width": 0.4144,
+        "height": 0.1997
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "x COMMENTS x X Eigo Ch.: 100 minutes. im gonna X assume you didnt do everything M you planned Patra Purnawan Komang: HELLO TRTUTL: ABUL LL I BRLTE 3",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.4987,
+        "width": 0.1525,
+        "height": 0.0538
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au cours de son stream Minecraft, Ollie a mentionné que les premières personnes à qui elle avait parlé de son projet de devenir VTuber étaient ses frères et sœurs. Ils ont été choqués, mais l’ont néanmoins soutenue. La personne suivante fut sa mère qui, bien que légèrement confuse, a tout de même apporté son soutien en disant : « Tant que tu es heureuse, je suis heureuse ». Son père, à l'inverse, n’était pas des plus encourageants au début. Même si Ollie était revenue à la vie, il ne voulait pas la laisser streamer par peur que « des types bizarres la harcèlent », et le lui a interdit. Elle a failli annuler son audition à cause de ça ! Cependant, sa mère a aidé à le convaincre, même si ça a pris du temps. Elle a assuré au tchat que son père était très gentil. La dernière personne à avoir été au courant était son grand frère. Ses parents sont même déjà venus dire bonjour dans le tchat ! Au sujet de l’actualité dans la famille Ollie, sa présence est devenue si rare qu'ils ont mis sa tête à prix: quiconque prend un selfie avec Ollie gagne un cadeau !",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.6311,
+        "width": 0.4269,
+        "height": 0.3286
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/qya1fydmjr381.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

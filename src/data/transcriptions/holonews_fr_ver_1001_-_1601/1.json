@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "nouveau ‘ visage de",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.2227,
+        "width": 0.2106,
+        "height": 0.0525
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "re BOTAN A INTERVIEWE YAGOO",
+      "bbox": {
+        "x": 0.3669,
+        "y": 0.7587,
+        "width": 0.48,
+        "height": 0.1016
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "\"9 PERA : NOUS RECHERCHONS DES TRADUCTEURS JP, PL ET ID !",
+      "bbox": {
+        "x": 0.0738,
+        "y": 0.8724,
+        "width": 0.8525,
+        "height": 0.0881
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/a76xd4h6i8e81.png",
+    "gifFrame": null,
+    "confidence": 79
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 5,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Miko a organisé un stream totsumachi le 10 janvier dernier, dans lequel elle jouait son rôle (supposé) de prêtresse au sanctuaire Sakura. Malheureusement, seules Koyori, Suisei et Mio sont venues visiter son sanctuaire. À noter : Suisei et Mio ne sont venues que par pitié pour elle et l'ont taquinée parce qu'elle avait peu de visiteurs.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3212,
+        "width": 0.4138,
+        "height": 0.1402
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque Koyori et Suisei sont arrivées, Miko leur a donné leurs prédictions pour cette année et a tenté de leur vendre des porte-bonheur coûteux. Quand Mio est arrivée, elle a reçu sa prédiction, mais elle a aussi donné à Miko quelques conseils pour attirer plus de visiteurs au sanctuaire Sakura.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.4692,
+        "width": 0.4131,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roboco et Choco sont de retour avec leurs manigances, cette fois-ci sur ARK. Alors qu'elles volaient ensemble, Roboco a accidentellement lâché Choco dans un endroit dangereux. Heureusement, cette fois-ci, Choco n'est pas morte.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.7721,
+        "width": 0.4238,
+        "height": 0.0955
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei a mis en avant son intelligence la semaine dernière en jouant à Big Brain Academy et en obtenant un score de 3 256, ce qui est le meilleur score parmi tous les membres d’hololive qui ont joué au jeu jusqu'à présent.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.3212,
+        "width": 0.4231,
+        "height": 0.0955
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une publicité pour le prochain concert de Sora, « Role:Play », pouvait être aperçue sur des camions circulant dans Shinjuku,",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.5955,
+        "width": 0.4056,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Akihabara et Shibuya du 15 au 21 j entre 12h et 20h JST.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.6437,
+        "width": 0.3456,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sora a joué à la démo d'hololive ERROR cette semaine. Elle à lu certaines des notes du jeu en les doublant, et nous avons eu droit à un merveilleux rire de yandere de sa part.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.7114,
+        "width": 0.4038,
+        "height": 0.0859
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/x5494bh6i8e81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

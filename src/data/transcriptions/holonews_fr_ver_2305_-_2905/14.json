@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2305_-_2905",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Divers/Projets de fans",
+      "bbox": {
+        "x": 0.2794,
+        "y": 0.0165,
+        "width": 0.4394,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kotobukiya",
+      "bbox": {
+        "x": 0.2619,
+        "y": 0.1111,
+        "width": 0.1813,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kotobukiya a annoncé que les figurines de Subaru, Ayame et Shion sont en phase de pré-production. Toutes trois seront prépeintes, et le seul autre détail jusqu'à présent est que le chapeau de Shion est amovible.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.1445,
+        "width": 0.3919,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Tentacult",
+      "bbox": {
+        "x": 0.1656,
+        "y": 0.2726,
+        "width": 0.15,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les membres du serveur Discord de fans d’Ina, Tentacult Temple, ont créé un monde VRChat où les soumissions de fanart étaient exposées dans une galerie d'art virtuelle. Toutes les œuvres seront transformées en un artbook physique qui sera envoyé à COVER Corp.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.3121,
+        "width": 0.3938,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina, Gura, Watson et Mumei ont fait plusieurs parties sur Overwatch. Le stream d'Ina s'est arrêté à cause de son fournisseur d'accès Internet, donc elle a redirigé ses spectateurs vers Mumei en plein milieu. Plus tard, elles ont remarqué que Bae jouait à Minecraft et ont décidé de la rejoindre par surprise. Elles ont promis de rejoindre Bae si elles gagnaient une partie de plus, et elles l’ont fait. Mumei a ensuite redirigé ses spectateurs vers Bae : de nombreux Takodachis et Hoomans se sont retrouvés sur le chat de Bae, qui a alors atteint un pic de 1 700 spectateurs.",
+      "bbox": {
+        "x": 0.5275,
+        "y": 0.1497,
+        "width": 0.4075,
+        "height": 0.1406
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont parlé du nouveau relais que Moona a suggéré peur la création d’un portail, similaire à celui du portail EN qui relie les serveurs JP et EN entre eux. Bae construisait un tunnel vers le Bunkeronii afin de relier sa source de nourriture pour plus de commodité. De nouvelles constructions et projets ont attiré l'attention et de nouvelles idées ont été mises en œuvre. Dans l'ensemble, une journée très productive pour les filles.",
+      "bbox": {
+        "x": 0.5275,
+        "y": 0.2995,
+        "width": 0.4106,
+        "height": 0.1059
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4081,
+        "y": 0.4227,
+        "width": 0.185,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "NIGHT ALONE",
+      "bbox": {
+        "x": 0.3569,
+        "y": 0.6389,
+        "width": 0.0706,
+        "height": 0.0078
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Within Ske rry",
+      "bbox": {
+        "x": 0.67,
+        "y": 0.4805,
+        "width": 0.2281,
+        "height": 0.0339
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/9ddhsmjpo1391.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

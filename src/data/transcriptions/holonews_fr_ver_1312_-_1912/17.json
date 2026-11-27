@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 17,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le deuxième anniversaire de Towa Tokoyami sera fêté le 3 janvier ! Le serveur Discord de fans Kenzoku Portal met en place plusieurs projets afin de ravir ce mignon petit ange... Enfin, démon !",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.1693,
+        "width": 0.8894,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Afin de mettre en avant la popularité de Towa à l'international, le premier projet est un voyage autour du monde pour sa mascotte, Bibi ! Pour participer, il suffit d'envoyer une photo d’un élément distinctif du lieu où vous vivez accompagné d’un Bibi en produit dérivé, en origami ou juste imprimé sur une feuille. Un coucher de soleil mémorable, une attraction régionale, une cuisine locale, ou quoi que ce soit qui met en avant une particularité de l'endroit où vous vivez fera une belle photo.",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.2135,
+        "width": 0.8994,
+        "height": 0.0877
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les deuxième et troisième projets comportent un ensemble d'illustrations sur le thème de « Towa et ses amis » ainsi qu’une collection de messages et de fanart emplis d'amour. Tous ces projets seront rassemblés sur un site internet créé à l'occasion de son deuxième anniversaire ! Si vous désirez participer, jetez un coup d'œil aux formulaires que vous trouverez dans les sources, et n'hésitez pas à aller poser toutes vos questions sur le serveur Discord Kenzoku Portal.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.3168,
+        "width": 0.8894,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "heading",
+      "text": "LET'S PLAY",
+      "bbox": {
+        "x": 0.2263,
+        "y": 0.4293,
+        "width": 0.3394,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "biohazard",
+      "bbox": {
+        "x": 0.215,
+        "y": 0.7391,
+        "width": 0.0581,
+        "height": 0.0095
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0rlzk5rbop881.png",
+    "gifFrame": null,
+    "confidence": 75
+  }
+}

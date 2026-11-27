@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Revue de nourriture e Radio de nuit de Risu",
+      "bbox": {
+        "x": 0.3831,
+        "y": 0.0117,
+        "width": 0.5781,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "Smol Ame 3D amélioré °",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.0117,
+        "width": 0.3013,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Magazine hebdomadaire d'actualités ss. / - Anniversaire | | Ww Té&iventtres et nouvelle - de Miko tenue ur WWE2k22 de Sor? Pekora a atteint ; A, PAUSE les 600k Chanson",
+      "bbox": {
+        "x": 0.0144,
+        "y": 0.1263,
+        "width": 0.9719,
+        "height": 0.3954
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "original de Faun",
+      "bbox": {
+        "x": 0.0169,
+        "y": 0.5169,
+        "width": 0.1813,
+        "height": 0.0569
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Anniversä e d'Uyu à Anniversaire",
+      "bbox": {
+        "x": 0.0125,
+        "y": 0.5894,
+        "width": 0.3294,
+        "height": 0.102
+      }
+    },
+    {
+      "type": "other",
+      "text": "Vous voulez nous aider ? Rejoignez notre Discord !",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.9158,
+        "width": 0.3181,
+        "height": 0.0356
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/6d08rvbndn191.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

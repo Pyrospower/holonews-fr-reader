@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Amelia a enfin fait ce qu'elle a toujours voulu faire avec son modèle 3D : sauter sur un trampoline ! Étonnamment, beaucoup de choses se sont passées lors de ce stream bien qu'elle ait sauté sur un trampoline tout le long : elle a notamment discuté à propos de jeux vidéo et dansé sur le trampoline. Kiara est aussi passée sur le stream en plein milieu, puis Walfie a fait un autre croquis d'Ame.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.39,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara & Kobo",
+      "bbox": {
+        "x": 0.1906,
+        "y": 0.3919,
+        "width": 0.2044,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kiara a joué à Portal 2 avec Kobo, et c'est la première fois que cette dernière fait une collaboration hors de la branche ID d'hololive. Lors de ses débuts, Kobo a mentionné le fait que Kiara était sa préférée au sein d'hololive, et qu'elle voulait que Kiara soit sa « maman ». Kiara a montré ses talents de communication quand elle a joué le rôle de mère en prenant bien soin de Kobo et l'a aidée à s'ouvrir et à se sentir à l'aise malgré la barrière de la langue.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.4266,
+        "width": 0.3819,
+        "height": 0.1293
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il'y a eu plein de moments drôles et mignons lors du stream, comme quand Kiara a salué la mère de Kobo, quand Kobo a répondu en français après que Kiara ait dit qu'elle parle allemand, le moment où Kobo a mal entendu le mot « Europe », le « moe moe kyun » de la petite chamane, et le moment où elle a failli mourir dans le jeu après avoir entendu Tenchou dire « ara ara ». Kobo a aussi appris à Kiara que « CD » voulait dire « culotte » en indonésien.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.5699,
+        "width": 0.3894,
+        "height": 0.1267
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gura",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.8394,
+        "width": 0.0781,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gura a fait son premier stream entièrement en 3D et a joué à Gorn. La nature brutale et gore de ce jeu a fait ressortir le côté gremlin de Gura pendant qu'elle finissait le jeu. En contraste avec les ennemis cartoonesques et corpulents du jeu, les petits mouvements mignons de Gura se sont démarqués et ont bien fait rire ses spectateurs.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.8733,
+        "width": 0.3838,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre prêtresse bien aimée à créé un Espace Twitter dans lequel son auditoire pouvait l'entendre cuisiner des nouilles pour le déjeuner. C'était plutôt rare de sa part puisqu'elle a dit que Mama'nis l'empêchait de cuisiner, car la cuisine était son « territoire ». Les Takodachis ont demandé à Ina de mettre des cookies dans ses nouilles, mais elle a refusé. Un grincement suspect a également été entendu lorsqu'elle a coupé des « oignons nouveaux ». Elle a assuré qu'aucun Takodachi n'a été blessé pendant qu'elle préparait son repas, bien que ces derniers se soient portés volontaires pour être mangés.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2166,
+        "width": 0.3888,
+        "height": 0.1879
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gura a envoyé une vidéo sur Twitter dans laquelle la main de son modèle 3D se tend vers une crevette nerveuse, accompagnée d'une musique menaçante. Courez.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.5803,
+        "width": 0.355,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 2 mai, lors d'un stream discussion, Calli a présenté sa mère aux Dead Beats. Le 26 avril, elle a organisé un concours de fanart sur Twitter pour choisir l'avatar de sa maman (sous le hashtag #mamamori) et a choisi une soumission de RehanZ (@znaher_). Dans le stream, Maman Mori a parlé de souvenirs de leur vie de famille, de ses chanteurs et sports préférés, et de son amour des chats au point de vouloir devenir une VTuber passionnée de chats si elle en avait la possibilité. Elle a dit que sa citation préférée est « N'abandonne jamais ». Plus tard, Calli et sa maman ont chanté lors d’un stream karaoké non archivé.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.8051,
+        "width": 0.3869,
+        "height": 0.1849
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/g0v222nspg091.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

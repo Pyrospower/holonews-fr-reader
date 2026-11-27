@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Ayame a dévoilé sa nouvelle tenue de Noël en 3D (en quelque sorte) ! Elle a décidé de taquiner son public en cachant son visage avec un masque de bonhomme de neige et de ne l'enlever que si elle réussissait à obtenir les 12 produits dérivés (d'elle-même et de Mio) du jeu de machine à pince en ligne. Malheureusement, elle n'a pas réussi à atteindre son objectif et n'a remporté que six prix, passant donc tout le stream avec le masque.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3516,
+        "width": 0.4156,
+        "height": 0.1714
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.1544,
+        "y": 0.6506,
+        "width": 0.1656,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a organisé un stream avec son modèle 3D à domicile de Noël, remplie de joie et de caquètements. Elle a ouvert Twitter afin de trouver des tweets intéressants, comme un fan qui dormait entouré de tapis de souris en forme de poitrine. Elle s'est beaucoup amusée avec son modèle 3D, notamment avec ses bras mobiles. Elle a joué à pierre-papier-ciseaux, a boxé ses spectateurs et a même fait semblant d'être coincée dans une boîte, suppliant aux spectateurs de la laisser sortir.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.694,
+        "width": 0.4175,
+        "height": 0.214
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour Noël, Aqua, Subaru et Nene ont fait un stream ou elles étaient ensemble dans la vraie vie sur la chaîne d'Aqua durant lequel elles ont répondu à des questions posées sur Twitter. Les trois ont eu des réponses intéressantes, comme lorsque Aqua a dit qu'elle voulait échanger son corps avec Subaru afin de pouvoir harcelersexuellement les autres holomems \"légalement\", ou quand Aqua/Nene ont été choquées par le fait que Subaru ait 644 amis sur LINE.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.352,
+        "width": 0.4331,
+        "height": 0.1675
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion a révélé son nouveau modèle 3D à domicile de Noël, et en le regardant, elle a remarqué qu'elle avait de nouveaux « bourrelets » sur sa poitrine.",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.6949,
+        "width": 0.4181,
+        "height": 0.0681
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le même stream, Shion a montré sa jolie queue de renne, sa tête de bonhomme de neige et son chapeau, et elle a aussi raconté quelques histoires sur ce quelle a fait pendant la semaine de Noël.",
+      "bbox": {
+        "x": 0.5181,
+        "y": 0.7947,
+        "width": 0.4481,
+        "height": 0.1003
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/feykt35zeab81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

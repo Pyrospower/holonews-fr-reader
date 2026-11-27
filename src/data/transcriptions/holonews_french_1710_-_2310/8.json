@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_french_1710_-_2310",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Botan a annoncé qu'elle et Watame allaient « partir faire une petite aventure » ensemble. Sa pause (également celle de Watame) va durer du 22 Octobre jusqu’au 28 ou 29. Certains se demandent cependant si LaLion ne va pas plutôt revenir avec des nouvelles recettes pour cuisiner un mouton.",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.2548,
+        "width": 0.4463,
+        "height": 0.0777
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.1256,
+        "y": 0.5369,
+        "width": 0.1119,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le 6e volume du blog mensuel de Red Bull, Shishiron a nommé Elden Ring comme étant son jeu préféré de cette année. Un jeu d'action monde ouvert par FromSoftware, qui sont connus pour des difficultés élevées punissant les joueurs dès le début, elle a bien aimé le gameplay stimulant et l'histoire. Ses boss préférés sont Malenia, Blade of Miquella, l'un des plus grand défi du jeu et le Tree Sentinel, que la lionne a nommé en tant que Treeguard senpai. Ce dernier étant d’ailleurs le premier ennemi qu’elle a vaincu hors de la zone de tutoriel. Avec cette année qui va prendre fin dans deux mois, Botan est impatiente de pouvoir jouer beaucoup plus l’année prochaine !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.5799,
+        "width": 0.4469,
+        "height": 0.1684
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki a regardé le stream officiel du showcase de Biohazard avec ses spectateurs. Quelques heures avant, elle a dit sur Twitter qu'elle comptait jouer et faire un stream sur Resident Evil: Village en Novembre, dont la fin a été dévoilée pendant le stream de showcase. Suite à cette révélation, Fubuki s’est mise à faire pleins de bruits mignons.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.2513,
+        "width": 0.4463,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.352,
+        "width": 0.2081,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki a annoncé quelle compte faire un stream d'endurance pour les 2M d'abonnés lorsqu’elle aura seulement 500 abonnés restants.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.4032,
+        "width": 0.445,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dear Twitter.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.5712,
+        "width": 0.0931,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "I am applying for a \"Twitter verification badge\".",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.5859,
+        "width": 0.3531,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "As the contact I am about to send you is me, I would appreciate it if you could officially verify my identity.",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.6003,
+        "width": 0.395,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.5156,
+        "y": 0.6606,
+        "width": 0.1856,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka a tweeté une lettre ouverte a la fois en Japonais et en Anglais qui s'adresse à Twitter. Elle a poliment demandé a avoir le badge de certification sur son compte.",
+      "bbox": {
+        "x": 0.5169,
+        "y": 0.7109,
+        "width": 0.445,
+        "height": 0.0516
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/7olqdyz9edy91.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 3,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Gura a maintenant (probablement) 9 486 ans ! Le 20 juin, Gura a reçu des appels en stream (voir page EN). Le lendemain, elle a révélé vingt nouveaux émojis réservés aux membres de sa chaîne, qui ont été dessinés par Maeriette. Parmi ces émojis, il y a Gura qui tient un baton lumineux comme un pistolet, quatre Ebi trois de son visage.",
+      "bbox": {
+        "x": 0.2711,
+        "y": 0.3688,
+        "width": 0.3178,
+        "height": 0.1493
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En guise de surprise, elle nous a emmenés sur sa propre scène, arborant son modèle 3D officiel ! Elle a commencé sa performance avec « RECIPE » et nous a recommandé la musique de Tatsuro Yamashita.",
+      "bbox": {
+        "x": 0.2728,
+        "y": 0.5424,
+        "width": 0.3217,
+        "height": 0.1103
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a ensuite chanté et dansé avec les autres membres d'holoMyth, qui ont également utilisé leurs modèles 3D officiels. Kiara, cependant, n'a pu apparaître que sous sa forme Smol pour « Balalaika ». IRyS et les membres du Council ont également fait une brève apparition sous cette forme, et l'image présente en arrière-plan pendant qu'elle chantait « Catch You Catch Me » avec Calli a été dessinée par Ollie.",
+      "bbox": {
+        "x": 0.2711,
+        "y": 0.6809,
+        "width": 0.3178,
+        "height": 0.1659
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin, Gura a révélé ses produits dérivés d'anniversaire :",
+      "bbox": {
+        "x": 0.0361,
+        "y": 0.8727,
+        "width": 0.54,
+        "height": 0.0147
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un tapis en caoutchouc (illustration par Pan)",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.8916,
+        "width": 0.4422,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un bol réel par Sameanko)",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.9066,
+        "width": 0.3439,
+        "height": 0.0258
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une peluche Dino Gura (illustration par Sameanko)\n• Une fourchette et des baguettes en forme de trident,",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.9209,
+        "width": 0.5178,
+        "height": 0.0297
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "imaginé par Gura",
+      "bbox": {
+        "x": 0.0728,
+        "y": 0.9502,
+        "width": 0.1667,
+        "height": 0.0147
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un pack de voix de notification",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.9653,
+        "width": 0.31,
+        "height": 0.0147
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gura a également chanté « Pretender » avec Ina et s'est amusé avec Amelia pendant « Hajimete no Chuu ». Enfin, Halloween est arrivé plus tôt que prévu : tout le monde s'est mis à chanter « Myth or Treat » ! Le célèbre Kanauru, connu pour ses travaux en 3D, a produit le spectacle. N'hésitez pas à aller voir ses tweets récents à ce sujet !",
+      "bbox": {
+        "x": 0.6233,
+        "y": 0.6809,
+        "width": 0.3283,
+        "height": 0.1617
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le bonus pour l'achat de l'ensemble complet est une carte postale comprenant un autographe estampillé, avec une illustration de Pan. L'édition limitée, qui est désormais en rupture de stock, contenait une carte postale avec l'autographe manuscrit de Gura.",
+      "bbox": {
+        "x": 0.6233,
+        "y": 0.8731,
+        "width": 0.3344,
+        "height": 0.1181
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xkxis982haa91.gif",
+    "gifFrame": 87,
+    "confidence": 92
+  }
+}

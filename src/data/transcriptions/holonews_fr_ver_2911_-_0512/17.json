@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 17,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "« Game Shop Maruyama » est de retour avec sa saison 2 avec Subaru, Towa et Marine. Dans le premier épisode, Fubuki vient en tant qu’invitée car elle cherchait de l’aide pour choisir sa pose SSR. Pour l'aider, l’équipe du « Game Shop Maruyama » décide que ce serait mieux que Fubuki fasse son choix après une partie de Just Dance 2022. Après avoir un peu joué, Fubuki décida que sa pose serait un “dab”",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2318,
+        "width": 0.4281,
+        "height": 0.1558
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hololive x Lawson organise un tirage au sort le 7 décembre en collaboration avec Rushia, Haachama, Fubuki, Matsuri et Suisei. Les lots sont une tapisserie avec les 5 idoles, une planche à découper Rushia et un grille-pain Haachama. D'autres prix sont un bol de riz et des baguettes Fubuki, une tasse en métal Matsuri et un plateau Suisei. Vous pouvez vous procurer vos billets dans certains magasins Lawson et HMV. Disponible au Japon uniquement.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.533,
+        "width": 0.4206,
+        "height": 0.1615
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nouvelle information d'OMOCAT : la collaboration avec holoMyth sera disponible à partir du 3 décembre.",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.8325,
+        "width": 0.3613,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Chaque fille a son propre t-shirt, pull, casquette, porte-clés et figurine en acrylique (acrylic stand).",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.8967,
+        "width": 0.36,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une collaboration exceptionnelle a eu lieu entre Aqua et Botan, qui ont organisé un stream sponsorisé où elles ont visionné League of Legends : Arcane avec leurs spectateurs. Les deux étaient investis dans animé, au point que les moments de silences complets étaient réguliers durant le visionnage. Elles ont pu regarder 3 épisodes avant de s'arréter.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.2322,
+        "width": 0.425,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel, Ollie et LAM-sensei ont visité Disneyland dans Minecraft. C'était une incroyable collab en famille, ou ils ont eu l’occasion de rencontrer différentes icônes de Disney et d'explorer les lieux avec émerveillement. A la fin du stream, Ollie a pleuré car elle était touchée par cette expérience, et ils se sont tous mis d'accord qu'ils devraient le faire en vrai un jour.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.5326,
+        "width": 0.4231,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aki et Lamy feront de l'émission de radio : « hololive IDOL PROJECT presents hololive Idol Road Radio-Listen to our songs! ». C'est la deuxieme fois pour Lamy. L'émission se déroulera du 12 au 19 décembre. Vous pouvez envoyer vos messages à hip@jogr.net.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.8312,
+        "width": 0.4256,
+        "height": 0.112
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/dm5t477rjq581.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

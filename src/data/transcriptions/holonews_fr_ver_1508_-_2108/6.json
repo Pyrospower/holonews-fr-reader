@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Shirogane Noel : Version étudiante",
+      "bbox": {
+        "x": 0.0388,
+        "y": 0.875,
+        "width": 0.5431,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "hololive gen3",
+      "bbox": {
+        "x": 0.0388,
+        "y": 0.9058,
+        "width": 0.125,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mama & Papa 5 fllustestion par Watao Animé par FELUCCA",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.9553,
+        "width": 0.3,
+        "height": 0.0247
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/stxer8supok91.png",
+    "gifFrame": null,
+    "confidence": 85
+  }
+}

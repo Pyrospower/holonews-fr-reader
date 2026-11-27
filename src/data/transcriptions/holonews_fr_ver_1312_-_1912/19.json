@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 19,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "• 18.24 décembre : Semaine",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.1276,
+        "width": 0.2925,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 21 décembre : Stream 3D de Noel avec Suisei, Towa et Nene",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.1771,
+        "width": 0.3413,
+        "height": 0.0308
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 24 décembre : 2ème anniversaire des débuts de Roberu",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.2266,
+        "width": 0.3563,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 26 décembre : HOLOSTARS 1st ACT",
+      "bbox": {
+        "x": 0.0106,
+        "y": 0.2678,
+        "width": 0.4313,
+        "height": 0.0369
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 27 décembre : 2ème anniversaire des débuts de Kanata",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.3255,
+        "width": 0.3563,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 29 décembre : 2ème anniversaire des débuts de Watame",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.375,
+        "width": 0.3563,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 32 décembre : Anniversaire d'Omegaa",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.4245,
+        "width": 0.2956,
+        "height": 0.0321
+      }
+    },
+    {
+      "type": "heading",
+      "text": "@ KOYORI 400K",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.1042,
+        "width": 0.2169,
+        "height": 0.076
+      }
+    },
+    {
+      "type": "heading",
+      "text": ") MARINE 1.75M",
+      "bbox": {
+        "x": 0.6113,
+        "y": 0.3212,
+        "width": 0.135,
+        "height": 0.0499
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ë | Choco Nurse Office (Le serveur Discord de fans de Choco) offre des modèles pour construire | Ë : [ des petites figurines en papier à l'effigie de Choco. Ils ont l'intention de rassembler des photos",
+      "bbox": {
+        "x": 0.0106,
+        "y": 0.5343,
+        "width": 0.9788,
+        "height": 0.0512
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "des figurines, pour ensuite les compiler dans une courte vidéo pour montrer leur reconnaissance envers Choco. Vous retrouverez les liens et plus de détails en commentaire.",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.5846,
+        "width": 0.88,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci!",
+      "bbox": {
+        "x": 0.5188,
+        "y": 0.6615,
+        "width": 0.2256,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nous ferons une pause pour le Nouvel An. :",
+      "bbox": {
+        "x": 0.3031,
+        "y": 0.7174,
+        "width": 0.6738,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nous reviendrons avec des publications |. hebdomadaires à partir du 12 janvier",
+      "bbox": {
+        "x": 0.3238,
+        "y": 0.7387,
+        "width": 0.6656,
+        "height": 0.0525
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci d’avoir lu, et voici votre récompense.",
+      "bbox": {
+        "x": 0.4569,
+        "y": 0.8125,
+        "width": 0.3469,
+        "height": 0.0477
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/097yrwqbop881.png",
+    "gifFrame": null,
+    "confidence": 77
+  }
+}

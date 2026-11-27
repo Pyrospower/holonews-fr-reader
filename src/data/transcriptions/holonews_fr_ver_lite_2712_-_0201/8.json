@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2712_-_0201",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Calli a collaboré avec Merryweather Comics pour nous offrir Calli's Christmas Catastrophe, une mini-série en trois épisodes ! Calli y promet d'acheter des cadeaux pour les filles d'holoEN, à la grande désapprobation de Death-sensei, car Calli est une Faucheuse et ne devrait pas interagir avec les mortels. Cependant, il permet à Calli de passer du temps avec ses amis après avoir réalisé qu'ils comptent beaucoup pour elle.",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.2474,
+        "width": 0.4206,
+        "height": 0.1471
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ame a terminé l'année 2021 d'une façon surprenante, puisqu'elle a utilisé une miniature aguicheuse pour son stream Getting Over It.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.5838,
+        "width": 0.425,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n'a pas fallu longtemps pour qu’elle s'énerve, puisqu'elle s'est transformée en diablotin dès que Bennett Foddy, le narrateur du jeu, a parlé. Les mécaniques frustrantes du jeu, combinées à Bennett Foddy qui parlait lorsqu'elle tombait, on fait qu’Ame était constamment en colère pendant le stream, allant même jusqu'à quitter le jeu avec rage de nombreuses fois, avant de le relancer.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.6428,
+        "width": 0.4263,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le stream s'est terminé quand Ame a perdu toute sa progression dans une chute malencontreuse. Elle s'est jurée de rejouer le jeu et de le terminer avant la fin de l'année 2022.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.7904,
+        "width": 0.4131,
+        "height": 0.0703
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Malgré son faible self-contrôle, elle s'est bien débrouillée pour une débutante et a atteint un niveau plus élevé que la plupart des membres d'Hololive qui ont joué le jeu...",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.8789,
+        "width": 0.4219,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ololive",
+      "bbox": {
+        "x": 0.6888,
+        "y": 0.0213,
+        "width": 0.21,
+        "height": 0.0347
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ENGLISH",
+      "bbox": {
+        "x": 0.6863,
+        "y": 0.0629,
+        "width": 0.1744,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kronii a joué a Inscryption tout en doublant tous les dialogues. Elle a eu beaucoup de plaisir a affronter les différents défis que Leshy (le maître de jeu) lui proposait. En réfléchissant bien et en jouant lentement, elle a réussi à avancer jusqu'à la zone enneigée de l'acte 1.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2478,
+        "width": 0.4219,
+        "height": 0.112
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kronii a rapidement découvert que le jeu proposait des écureuils ayant pour but d'être sacrifiés afin de jouer de meilleures cartes. Ironiquement, elle s'est rapidement prise d'affection pour eux. Vers la fin du stream, Kronii a fait une pause de plusieurs minutes en disant qu'elle devait lire les Super Chats, mais en réalité, elle ne voulait absolument pas arrêter de jouer.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.3763,
+        "width": 0.4275,
+        "height": 0.1441
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/osr47mcubhb81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

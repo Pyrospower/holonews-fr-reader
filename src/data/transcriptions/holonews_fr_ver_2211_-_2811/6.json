@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Lors du « One Block Challenge » avec Pekora, Marine s’est connectée une deuxième fois pour avancer de son côté sur la base. Elle a étendu la zone réservée aux mobs, construit une zone de stockage, et étendu la zone derrière le grand arbre. Elle a aussi extrait des minerais du bloc spécial puis elle les a rangés, mais à son grand désarroi, cela a également fait apparaître un blaze. Le blaze l'a tuée après qu'elle l’a frappé à coups de pioche en fer, et il a projeté des flammes alors qu'elle se précipitait pour récupérer ses objets. Les flammes ont touché le sol autour d'elle, dont plusieurs blocs qui, par chance, n'ont pas pris feu. Cependant, au grand désespoir de Marine, l'arbre a aussi été touché et s'est mis à brûler rapidement. Elle a pu sauver la moitié de l'arbre et l’a décoré de fleurs en guise de souvenir. Après avoir fait apparaître un ghast, elle s'est déconnectée rapidement pour laisser Pekora s’en charger.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2648,
+        "width": 0.8888,
+        "height": 0.1471
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Flare a attrapé un gros requin sur Animal En jouant à Pokémon Diamant Étincelant, Crossing: New Horizons. Elle était très Rushia a essayé d'imiter les autres membres contente de sa prise, et telle une vraie fan de sa generation. Son Interpretation a ete si",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.5981,
+        "width": 0.8869,
+        "height": 0.0508
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "; ; ) 4 ; d'hololive, s'est empressée de dire « a ».",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.6493,
+        "width": 0.415,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "fidèle qu’elle a soudainement commencé a se sentir triste, voulant voir ses camarades.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.6441,
+        "width": 0.42,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La veille du concert de la 3e génération, Pekora a joué au « One Block Challenge » sur Minecraft et cela a été assez stressant pour elle. Son objectif était de construire un portail du Nether, mais elle a dû lutter contre des ennemis en cours de route, les plus redoutables étant la gravité, la faim et le feu. Marine est apparue et s’est vantée du délicieux gâteau que Rushia avait fait pour l'anniversaire de Noel. Cela a rendu jalouse Pekora, qui ne s'était pas rendue à l'anniversaire car elle voulait se détendre avant leur concert.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.8559,
+        "width": 0.8931,
+        "height": 0.0959
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/s8yy6zdmjr381.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Kiara a fait un stream défi où elle devait faire une heure entière de Mario Kart sans jurer. Si elle n'y parvenait pas, elle avait pour obligation de faire un stream Ring Fit ou un jeu d'horreur. Bien que Kiara ait techniquement perdu 30 secondes après le début de la première course, elle ne les a pas comptabilisées car elle n'a pas terminé le mot. Après un réel juron lors de la deuxième course, elle a changé les règles pour qu'elle puisse jurer trois fois avant de perdre le défi. Tenchou a gaspillé son deuxième juron dans le lobby du jeu et son troisième et dernier juron a eu lieu lors de la dernière course du stream. Le stream de punitions apparaîtra dans le mois, mais nous sommes fiers de Kiara pour avoir tenu presque une heure sans jurer !",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.2509,
+        "width": 0.4269,
+        "height": 0.2804
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Amelia",
+      "bbox": {
+        "x": 0.1525,
+        "y": 0.668,
+        "width": 0.1538,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ame a fait de la nourriture américaine et italienne dans Clash of Chefs sous le nom de Buff Ame. Avant de commencer, elle a dit qu'elle voulait faire de la nourriture japonaise et mexicaine un autre jour, avec un modèle « beaucoup plus mignon ». Buffson s'est empressé de faire des pizzas et des burgers, elle avait joué un peu hors-stream. Elle a également « balancé » les plats inutiles, et à un moment donné, elle a essayé « d'annuler » les galettes vertes périmées en les faisant frire dans l'huile orange. Ame a terminé le stream en annonçant une collaboration avec Kiara la semaine prochaine pour apprendre à danser en V, sans toutefois donner de date.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.707,
+        "width": 0.4263,
+        "height": 0.2483
+      }
+    },
+    {
+      "type": "heading",
+      "text": "& OMOCAT",
+      "bbox": {
+        "x": 0.665,
+        "y": 0.2483,
+        "width": 0.2075,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 1er mars, Kiara, Calliope et OMOCAT ont examiné les photos de divers fans portant des tenues réalisées avec les vêtements holoMyth d'OMOCAT. Cinq gagnants ont été désignés pour chaque membre d’holoMyth, ainsi que deux pour une catégorie Générale et une catégorie meme.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2804,
+        "width": 0.4269,
+        "height": 0.1081
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À la fin du stream, des réassortiments de vêtements holoMyth x OMOCAT ont également été annoncés pour le mois de mars et d'avril.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4032,
+        "width": 0.39,
+        "height": 0.0603
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 5 mars, Kiara a fait un stream Holotalk avec son 22ème invité, Shirogane Noel. Au cours de l'entretien, Noel a expliqué qu'elle avait rejoint hololive à cause d'un imposteur qui avait postulé en utilisant son nom. Ils ont discuté de l'amour de Noel pour les équipements audio professionnels, ainsi que de son plaisir et de ses difficultés à réaliser des streams ASMR. Noel a également parlé de sa chanson originale « Homenobi » et est montée sur la scène Holotalk pour la chanter en direct. Parmi les autres sujets abordés, citons ses RPG fantastiques préférés, son plat préféré, le gyüdon, et sa relation avec Shiranui Flare (ce qui fait lien au précédent Holotalk dans lequel Flare était invité)",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7075,
+        "width": 0.4263,
+        "height": 0.2487
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/odrpuqt6bdn81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

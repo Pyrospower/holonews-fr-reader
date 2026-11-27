@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_french_1710_-_2310",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.0275,
+        "y": 0.1905,
+        "width": 0.4444,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 25 octobre : Nouvelle tenue de Risu",
+      "bbox": {
+        "x": 0.0444,
+        "y": 0.2682,
+        "width": 0.4131,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 26 octobre : Nouvelle tenue de lofi\n• 26 octobre : Nouvelle tenue de Polka . .\n• 27 octobre : Stream anniversaire des débuts de Rikka",
+      "bbox": {
+        "x": 0.0444,
+        "y": 0.3003,
+        "width": 0.4288,
+        "height": 0.0933
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 27 octobre : Nouvelle tenue de Moona",
+      "bbox": {
+        "x": 0.0444,
+        "y": 0.4128,
+        "width": 0.3613,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 28 octobre : Fête d'adieu de Shinove",
+      "bbox": {
+        "x": 0.0444,
+        "y": 0.4609,
+        "width": 0.4206,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 28 octobre : hololive Virtual LIVE sur VARK (Flare et Polka)",
+      "bbox": {
+        "x": 0.0444,
+        "y": 0.4931,
+        "width": 0.4219,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 31 octobre : Départ de Shinove\n• 31 octobre : Anniversaire de Mel",
+      "bbox": {
+        "x": 0.0444,
+        "y": 0.5412,
+        "width": 0.3787,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "1er novembre : Anniversaire d'Axel",
+      "bbox": {
+        "x": 0.0669,
+        "y": 0.6055,
+        "width": 0.3888,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Crédits Si vous voulez voir votre oshi dans les",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.6536,
+        "width": 0.5069,
+        "height": 0.0686
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "actualités ou juste rester à jour sur tout ce qui concerne hololive,",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.7266,
+        "width": 0.54,
+        "height": 0.0395
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Magni 170k Vesper 180k",
+      "bbox": {
+        "x": 0.855,
+        "y": 0.2856,
+        "width": 0.0656,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Izuru 200k",
+      "bbox": {
+        "x": 0.8556,
+        "y": 0.4162,
+        "width": 0.0469,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "n'hésitez pas à rejoindre notre subreddit rt",
+      "bbox": {
+        "x": 0.0581,
+        "y": 0.7778,
+        "width": 0.6119,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ou notre serveur Discord pour participe création d'HoloNews ! 1",
+      "bbox": {
+        "x": 0.0575,
+        "y": 0.8047,
+        "width": 0.5881,
+        "height": 0.0564
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "et donner un coup de main à la",
+      "bbox": {
+        "x": 0.0575,
+        "y": 0.8242,
+        "width": 0.4188,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d'avoir lu et a la semaine prochaine!",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.8802,
+        "width": 0.2888,
+        "height": 0.0386
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/wk34kd0bedy91.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

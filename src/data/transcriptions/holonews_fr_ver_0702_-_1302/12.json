@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0702_-_1302",
+  "page": 12,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le cauchemar de Roberu est de retour ! ll a de nouveau fait un stream avec Kagura Mea, cette fois sur Super Bunny Man. Pour montrer ses sentiments, Roberu a mis son visage triste sur la miniature du stream. Le hashtag du stream était un jeu de mots composé des noms de Roberu et Mea, #ONILEWE®DE, qui se lit « RoberunaitoMea » et ressemble à « Cauchemar de Roberu ».",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2622,
+        "width": 0.4163,
+        "height": 0.1519
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant le stream, ils se sont beaucoup amusés. Roberu a poignardé à mort le lapin de Mea et celui-ci a raconté ce qui lui est arrivé dans les toilettes. Cependant, une fois qu'ils ont atteint les niveaux difficiles, ils ont cessé de partager des histoires bizarres et ont commencé à prendre le jeu au sérieux.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.4253,
+        "width": 0.4219,
+        "height": 0.1085
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir joué à Power Wash Simulator, Roberu a reçu des messages du compte Twitter officiel du jeu. Il a reçu un émoji en forme de cœur bleu en réponse à un tweet annonçant le stream. Les développeurs ont remercié Roberu et lui ont dit qu'ils étaient heureux qu'il ait aimé le jeu.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5486,
+        "width": 0.415,
+        "height": 0.1037
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En raison de la popularité des badges holostars de la Saint-Valentin, qui ont été épuisés 15 minutes après le début de la vente, il a été décidé de lancer un deuxième lot. La vente sera ouverte le 14 février à 20h00 JST. Les badges seront vendus en quantités limitées, alors n'hésitez pas à les acheter dès maintenant !",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.8073,
+        "width": 0.42,
+        "height": 0.115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dernièrement, Astel a cessé de jouer à APEX pour Valorant. Il l'a annoncé sur Twitter et a commencé à le montrer en stream. Tout a commencé alors qu'il attendait la fin d'une mise à jour d'APEX pour pouvoir streamer, mais elle a duré deux heures. Astel n'a pas pu lancer le stream, alors il s'est mis à discuter avec lzuru, qui jouait à APEX, et l'a convaincu d'aller sur Valorant. Lorsque son stream a commencé, il s'est plaint de s'être habitué à Valorant et de ne plus pouvoir jouer à APEX. Finalement, une heure seulement après le début du stream, il l'a terminé et en a lancé un nouveau, et a joué à Valorant.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.2938,
+        "width": 0.4275,
+        "height": 0.2339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyabi a tweeté que sa fievre avait disparu et qu'il se rétablissait. Il a dit qu'il sera de retour le 14 février, méme si sa gorge est encore en convalescence. Il est actuellement tres actif sur Twitter, ou il interagit avec ses fans sur des sujets allant de la nourriture qu'il veut manger aux films qu'il veut regarder. Une fois, il a tweeté qu'il voulait une pomme et ses réponses étaient remplis d'émoji de ce fruit. Apres cela, il a fait un autre tweet dans lequel il a dit qu'il ne pouvait pas manger autant de pommes et a demandé à tout le monde de lui en donner une seule.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7083,
+        "width": 0.4194,
+        "height": 0.2148
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/c09s25oe17j81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

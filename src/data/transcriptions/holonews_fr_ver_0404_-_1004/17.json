@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 17,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "DIVERS",
+      "bbox": {
+        "x": 0.4225,
+        "y": 0.0174,
+        "width": 0.1544,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fuma a rendu Ollie très heureuse après l'avoir appelé « Aneki » dans son précédent stream sur Apex. Ce moment a aussi titillé beaucoup d'artistes qui l’ont dessiné comme le plus jeune de la fratrie du combo Astellie. Ollie a retweeté certains de ces fanarts en disant que la famille s'agrandit. Astel a lui aussi retweeté un artwork, et vu que leur combinaison de couleur fait jaune, bleu et rouge, il a dit qu’ils ressemblaient a un feu de signalisation japonais.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.2209,
+        "width": 0.3931,
+        "height": 0.1523
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bienvenue dans la famille d'addicte à Apex,",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.3737,
+        "width": 0.3663,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le huitième chapitre de la série 2D hololive ERROR est sorti le 9 avril (JST).",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.5707,
+        "width": 0.3894,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le dernier épisode, un glissement de terrain a dévasté la ville entière de Aogami. Après s'en être remis, Shino (Sora) a prié les dieux pour sauver ses amis. Plusieurs années plus tard, en février 20XX, l'étudiant transféré du présent se réveille dans un train de la station Aogami. Elle reconnait Inukai Akane (Korone) du chapitre 1, essayant de réveiller son ami endormi Nekomiya Yuka (Okayu)",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.6155,
+        "width": 0.39,
+        "height": 0.1467
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La fin est difficile à décrire ici, mais le texte nous apprend qu'il y a eu une recrudescence de cas de personnes disparues à Aogami et que tous on était vu pour la dernière fois près de la station Aogami.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.7778,
+        "width": 0.3875,
+        "height": 0.0877
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le chapitre 9 sortira le 16 avril, le début de « l’arc du train ».",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8811,
+        "width": 0.3844,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Annoncé au 2022 Super GT, Pacific Racing a sorti des images de leur NAC Ferrari décoré entièrement avec hololive, avec Sora, Akirose, Fubuki, Subaru, Marine, et Lamy. Les produits dérivés de Pacific x hololive seront toujours disponibles jusqu’au 18 avril.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.2188,
+        "width": 0.3713,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "heading",
+      "text": "V-Carnival",
+      "bbox": {
+        "x": 0.6325,
+        "y": 0.4722,
+        "width": 0.1681,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le V-Carnival est de retour le 11 et 12 juin, les deux jours de concert seront en réalité augmentée, similaire au 3rd Fes, et beaucoup de membres d’hololive y participent. Okayu, Suisei, Watame, et Sora sont de retour. Et voici et petit résumé du programme pour le jour 1 nous avons AZKI, Subaru, Miko, Okayu, Aqua, et Nene. Et pour le jour 2 nous aurons Watame, Sora, Suisei, et Calli. Sora sera aussi un MC pour le deuxième jour.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.5091,
+        "width": 0.3856,
+        "height": 0.1567
+      }
+    },
+    {
+      "type": "heading",
+      "text": "KeyWe Collabs",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.7114,
+        "width": 0.2313,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous avons eu trois collab sur KeyWe cette semaine, dont deux nouveaux duos et une qui continue depuis la semaine dernière. Watame et Lui ont continué leur manigance durant plus de trois heures. Du côté d’holoEN, les deux membres anglophones d’holoTori y ont joué. Mumei et Kiara ont travaillé ensemble pour faire marcher leur cervelle de moineau, les moments marquants étant les discussions sur les baie et l'offre de Mumei sur les échanges de doigts. Mais la collab la plus inattendu était sans doute Towa et Ayame, la Oni travaillant avec le Diable à la poste pendant deux heures. Pour les talents JP, c'était aussi un stream d'apprentissage de l'anglais !",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.7522,
+        "width": 0.395,
+        "height": 0.2283
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/jccgzt59qau81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

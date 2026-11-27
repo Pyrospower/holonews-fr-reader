@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "get some help,",
+      "bbox": {
+        "x": 0.1013,
+        "y": 0.0525,
+        "width": 0.0756,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "$ Hakos Baelz § holoEN [STRANGE COVER OUT NOW]",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.0911,
+        "width": 0.3425,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "OK MA'AM. CONTEXT. WHERE IS THE CONTEXT.",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.1467,
+        "width": 0.3994,
+        "height": 0.0087
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bae a déclenché une réaction de dégoût de la part de Kaela en déclarant ne pas aimer la marose. Kaela, qui est connue pour adorer ça, a twitté que Bae devrait « chercher de l'aide » et a envoyé le meme « ma déception n'est pas mesurable » au rat. Cela a poussé Hakotaro à soutenir son point de vue, se demandant « qui aime les choses amères, à part à soixante ans ». Lorsque le tchat lui a posé la question, elle a répondu que « le café n’est pas amer ».",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.2331,
+        "width": 0.4456,
+        "height": 0.1168
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bae a fait un stream de discussion durant lequel elle a parlé de tout et n'importe quoi. Parmi les différentes histoires racontées, on retrouve : jouer la dominée tsun et la dominante avec IRyS, Bae pleurant en regardant Stars en stream, IRyS flirtant avec elle en dehors des streams, et l’un ‘de ses fans voulant j jouer « Play Dice » à son mariage. Sur un ton plus sérieux, Bae s'est remémorée un souvenir d'enfance dans lequel elle se sentait « nulle » au piano par rapport à AneRat, bien qu’elle en ait joué pendant neuf ans et ait été traumatisée par les examens de piano. Malgré son hésitation, Bae a mentionné l'idée de tenir un stream dans lequel elle jouerait du piano quand la famille rat ne serait pas là. Nous attendons ça avec impatience Bae.",
+      "bbox": {
+        "x": 0.0413,
+        "y": 0.6029,
+        "width": 0.4463,
+        "height": 0.1918
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fauna a tenu un court stream ASMR d'horreur dans lequel elle a joué le rôle d’une prêtresse avec une belle et douce voix ainsi qu’une démone avec une voix sensuelle et séductrice. Les Saplings ont été bénis par l'expérience d'être encerclés par la prêtresse Fauna et la démone Fauna préenregistrée. lls ont également pu profiter d’un massage des oreilles. Beaucoup de Saplings considèrent qu'il s’agit là d’un des meilleurs ASMR de Fauna.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.1953,
+        "width": 0.4463,
+        "height": 0.1137
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope has Descended",
+      "bbox": {
+        "x": 0.5856,
+        "y": 0.3459,
+        "width": 0.2456,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "This Fun: 16506. H m = Bes+ run: l6SO6.4 m",
+      "bbox": {
+        "x": 0.61,
+        "y": 0.3733,
+        "width": 0.2713,
+        "height": 0.0508
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ty Again",
+      "bbox": {
+        "x": 0.5831,
+        "y": 0.434,
+        "width": 0.0706,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bae a récemment établi un nouveau record dans Delivering Hope avec un score de 16 506,4m. Elle a achevé cette prouesse en utilisant ses armes secrètes : les cornes quelle a subtilisé à IRyS, et une IRyS qu'elle a attachée dans ses cheveux. Lorsqu'elle s'est demandée pourquoi elle devrait aimer IRyS encore plus qu’actuellement, elle a été arrêtée dans le jeu par un obstacle à son effigie. La championne actuelle, Kaela, a également félicité Bae pour cet exploit.",
+      "bbox": {
+        "x": 0.5169,
+        "y": 0.5634,
+        "width": 0.4456,
+        "height": 0.1168
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fauna",
+      "bbox": {
+        "x": 0.5906,
+        "y": 0.7075,
+        "width": 0.1144,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fauna a dévoilé qu'elle avait un mulet quand elle était jeune. La Fauna préadolescente et emo voulait avoir l'air d'une « reine de la scène », ce qui a mené à cette coupe de cheveux. Nous requérons des dessins de son mulet s'il vous plaît.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.75,
+        "width": 0.4469,
+        "height": 0.0647
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/488gfnv6o22a1.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

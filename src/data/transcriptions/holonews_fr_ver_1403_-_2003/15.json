@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 15,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Juste avant le festival, le 18 mars, Calli a fait trois grandes annonces. Tout d'abord, elle sortira son premier clip en 3D pour une nouvelle chanson originale, « UnAlive ». Deuxièmement, après le festival, elle organisera un live 3D pour son anniversaire.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.375,
+        "height": 0.0825
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La troisième annonce est le plus grand projet de sa carrière musicale : son premier album complet, également appelé UnAlive, sortira le 21 mars, accompagné d'une vidéo pour la chanson du même nom ! L'album comprend 11 titres, dont celui chanté avec Gura « TQ1 », et« Graveyard Shift » avec BOOGEY VOXX, ainsi que de nouvelles chansons originales ! Elliot Hsu, Camellia, seibin et Pretty Patterns ont participé à cet album et la couverture a été dessinée par Rei.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.3151,
+        "width": 0.3888,
+        "height": 0.1523
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli a révélé que l'album est composé de morceaux de plusieurs genres dans lesquels elle voulait intégrer du rap. « Scuffed Up Age » est probablement son titre préféré de tous les temps. Calli a également noté que le chat s'inquiétait d'éventuelles annonces négatives à la lumière des événements récents. Bien que ce ne soit pas du tout le cas, Calli a déclaré qu'il était normal d'avoir peur du changement. Certaines des paroles de l'album parlent de son avenir, et elle espère que les messages de UnAlive pourront apaiser les inquiétudes des fans.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.4809,
+        "width": 0.3813,
+        "height": 0.1801
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kronii a enfin eu l'occasion de montrer sa connaissance sur l'univers de Powerwash Simulator en live. Sans perdre de temps, elle a montré son jeu, terminé à 100%, et une tenue entièrement améliorée. Entre deux discussions sur des animé et desfilms, elle a parlé du l'histoire du jeu et de ses théoris, montrant au passage ses penchants de femme de chambre, qu'elle nous avait déjà montré sur Minecraft.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8477,
+        "width": 0.3787,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina a discuté avec Febri, un site consacré à la culture japonaise, dans le cadre d'une série d'interviews avec les filles d'holoMyth. Elle a raconté son admiration pour Kuroboshi, son illustrateur, avant même de rejoindre hololive, ses idées de jeux de mots et son expérience sur le fait de faire partie d'UMISEA avec Marine, Aqua et Gura. L'interview est disponible sur le site web de Febri en japonais et en anglais.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.2179,
+        "width": 0.3856,
+        "height": 0.1385
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 16 mars, Kiara a organisé un live dans lequel elle a passé en revue une sélection de snacks semblant provenir du Guatemala. En y regardant de plus près, il s'est avéré que la plupart des snacks n'étaient pas originaires du Guatemala, mais étaient courants dans toute l'Amérique latine. Le colis contenait des délices comme de la Sangria pétillante mais aussi ce qui s'est avéré être des snacks non locaux, comme des Cheez-its et des Oreos au goût de tarte au citron.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.5278,
+        "width": 0.3813,
+        "height": 0.1762
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloMyth",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.7752,
+        "width": 0.1581,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 17 mars, Kiara a invité tous les membres d'holoMyth à des cours de danse en VR, identiques aux cours précédents avec Ame et Gura. Les modèles ont été faits par Prichu. Pendant la majeure partie du live, Kiara a enseigné aux autres la danse de « Hare Hare Yukai » de Ai Hirano, Minori Chihara et Yuko Goto. Ensuite, ils se sont amusés à danser la « Macarena » de Los Del Rio.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.8125,
+        "width": 0.3913,
+        "height": 0.1437
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/jrpfmf61s5q81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

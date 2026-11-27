@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 14,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Anya s'est embarquée dans une nouvelle aventure, étant donné qu'elle en a fini avec Black Mesa. Après 6 streams, elle a rencontré le G-Man. Qui sait, elle pourra peut-être jouer à Half-Life 2 ou bien Alyx par la suite !",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2352,
+        "width": 0.4069,
+        "height": 0.0712
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Risu et Mika Melatika de Nijisanji ID ont continué It Takes Two, et le stream a été riche en moment de réflexion et drôle. Elles se sont tellement amusées qu'elles ont même proposé de faire des description hautes en couleur des différents personnages du jeu et ont aussi parlé de la moralité, parfois douteuse, des protagonistes.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.503,
+        "width": 0.385,
+        "height": 0.1102
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a joué à Apex, encore une fois. Cette fois-ci, elle a joué s’essayant de rester concentrée sur le jeu. Durant le stream, elle s'est concentrée sur sa visée, en évitant de rater des tires pendant qu’elle visait notamment, et s'est aussi concentrée sur ces ennemies autour d'elle, afin d'éviter d’être surprise par l’un d’entre eux.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.2248,
+        "width": 0.3831,
+        "height": 0.1107
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle était fière d'elle, et c'est félicitée quand elle réussissait à retourner des combats à son avantage, et a exprimé son mépris pour le fusil à charge et le fusil triple. Après ça, elle a lu des donations faites via Streamlabs, pendant qu'elle regardait ces coéquipiers restant se battre pour la première place.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.3498,
+        "width": 0.3881,
+        "height": 0.0968
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le jour du second anniversaire de hololive Indonésie (le 6 avril), le ban d’un mois de la gen 3 d’'holoIlD a été suspendu pour les laisser rejoindre le serveur minecraft pour cette occasion. Les nouvelles arrivantes ont été guidées individuellement pour faire visiter le serveur. (Et Kobo a construit à n’en plus finir).",
+      "bbox": {
+        "x": 0.5463,
+        "y": 0.6593,
+        "width": 0.3975,
+        "height": 0.1137
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Parmi les différents événements qui se sont passés durant le stream, à la fin de la visite, les aînées ont offert à leurs cadettes un immeuble et après les avoir enfermées dans le bâtiment, les aînés ont tout fait exploser avec de la TNT en criant « Bienvenue à hololive Indonésie ! ».",
+      "bbox": {
+        "x": 0.5469,
+        "y": 0.7878,
+        "width": 0.3919,
+        "height": 0.0968
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont fini leur collaboration avec une photo de groupe (après que Kobo ait réussi à faire promettre à ses aînées qu'elle aurait un cheval à la fin de l'empêchement des collaborations)",
+      "bbox": {
+        "x": 0.5463,
+        "y": 0.9028,
+        "width": 0.4,
+        "height": 0.0707
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/f28i0069qau81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

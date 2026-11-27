@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projets de fans",
+      "bbox": {
+        "x": 0.1144,
+        "y": 0.0347,
+        "width": 0.2944,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "other",
+      "text": "r/Holostars under new management",
+      "bbox": {
+        "x": 0.0381,
+        "y": 0.0747,
+        "width": 0.2269,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "other",
+      "text": "News/Information",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.0907,
+        "width": 0.0688,
+        "height": 0.0052
+      }
+    },
+    {
+      "type": "other",
+      "text": "We moderators have been contacted by the official account asking to transfer them ownership of the subreddit. I've been dealing with plenty of things in the real and personally haven't been the best owner. I believe the official Holostars team will make into the thriving community it should be. That being said Id like to thank everyone who's contributed to making this place the great community it is.",
+      "bbox": {
+        "x": 0.0375,
+        "y": 0.1063,
+        "width": 0.4525,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holostars Fan",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.1732,
+        "width": 0.2838,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sub Il va y avoir quelque changements dans la gestion de r/Holostars (un subreddit sur holostars créé par les fans), vu que les modérateurs ont été contactés par u/Holostarstv, le compte Reddit officiel",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.2096,
+        "width": 0.4156,
+        "height": 0.1181
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka Fans Polka's Hologram Circus, le serveur Discord des fans anglophones de Polka, a préparé un cadeau d'anniversaire pour",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.1984,
+        "width": 0.4175,
+        "height": 0.092
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka. Il s'agit d'un GIF avec différents thèmes de stream. Plusieurs thèmes défilent très vite et il faut prendre une",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.2904,
+        "width": 0.3769,
+        "height": 0.0456
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "d’holostars, pour récupérer ledit subreddit. capture d'écran pour voir sur lequel on Pour l'instant, aucune date n'a été tombe. Il y a un total de 64 possibilités. Elle mentionnée sur quand le transfert aura pourra l'utiliser quand elle ne saura pas lieu. quoi faire en stream. ’ LET'S PLAY\n• LET'S PLAY » TERMINÉS",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.3294,
+        "width": 0.8963,
+        "height": 0.1267
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mom Hid si My Game!",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.4891,
+        "width": 0.1169,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Link's Awakening",
+      "bbox": {
+        "x": 0.5031,
+        "y": 0.5981,
+        "width": 0.1288,
+        "height": 0.013
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/a1a13nhuufg81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

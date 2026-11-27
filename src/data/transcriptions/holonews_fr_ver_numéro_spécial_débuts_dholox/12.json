@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
+  "page": 12,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Après chacun de leurs débuts, les filles se sont réunies pour une collab. Elles ont passé en revue leurs performances respectives et ont présenté leur dynamique tout en répondant à des questions du tchat et en jouant avec leurs répliques.",
+      "bbox": {
+        "x": 0.0331,
+        "y": 0.1766,
+        "width": 0.4131,
+        "height": 0.2031
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À la fin de cette semaine chargée en premiers pas, holoX a publié sa première reprise de groupe de « Ochame Kinou », restant fidèle à la tradition.",
+      "bbox": {
+        "x": 0.0331,
+        "y": 0.4123,
+        "width": 0.4069,
+        "height": 0.1224
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant leur collab, les filles ont mentionné l’émoji ainsi que le hashtag de leur génération et ont encouragé tous les fans à les utiliser.",
+      "bbox": {
+        "x": 0.5156,
+        "y": 0.6463,
+        "width": 0.4019,
+        "height": 0.1198
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont ensuite présenté leur logo et ont fait un jeu de questions-réponses pour voir si elles allaient répondre de la même manière.",
+      "bbox": {
+        "x": 0.5156,
+        "y": 0.8047,
+        "width": 0.4269,
+        "height": 0.0977
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/hn76m8p8kc481.png",
+    "gifFrame": null,
+    "confidence": 95
+  }
+}

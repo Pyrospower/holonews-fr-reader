@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 20,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.0275,
+        "y": 0.2548,
+        "width": 0.4444,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "1er novembre : Anniversaire d'Axel",
+      "bbox": {
+        "x": 0.0663,
+        "y": 0.3364,
+        "width": 0.3894,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "1er novembre : NonStop NN",
+      "bbox": {
+        "x": 0.0663,
+        "y": 0.3685,
+        "width": 0.3119,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "3 novembre : Stream 3D pour l'anniversaire de début de Marine",
+      "bbox": {
+        "x": 0.0656,
+        "y": 0.4006,
+        "width": 0.3762,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "5 novembre : Début 3D de Rio",
+      "bbox": {
+        "x": 0.0656,
+        "y": 0.4488,
+        "width": 0.3281,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "6 novembre : Festival de Sports hololive 2022",
+      "bbox": {
+        "x": 0.0656,
+        "y": 0.4809,
+        "width": 0.3463,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "7 november : Anniversaire de Zeta",
+      "bbox": {
+        "x": 0.0656,
+        "y": 0.5291,
+        "width": 0.3806,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n'hésitez pas à rejoindre notre subreddit “a",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.7023,
+        "width": 0.6131,
+        "height": 0.1007
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ou notre serveur Discord pour partici et donner un coup de main à la création d'HoloNews !",
+      "bbox": {
+        "x": 0.0575,
+        "y": 0.7999,
+        "width": 0.5006,
+        "height": 0.0547
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d'avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.8681,
+        "width": 0.2888,
+        "height": 0.0386
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce numéro sera pour l'instant le dernier traduit en français, merci à tous pour votre soutien !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.9171,
+        "width": 0.3925,
+        "height": 0.0725
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cbumokb7o22a1.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

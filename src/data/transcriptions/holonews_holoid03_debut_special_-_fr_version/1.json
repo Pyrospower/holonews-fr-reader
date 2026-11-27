@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_holoid03_debut_special_-_fr_version",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLONEWS",
+      "bbox": {
+        "x": 0.0238,
+        "y": 0.0208,
+        "width": 0.9525,
+        "height": 0.0881
+      }
+    },
+    {
+      "type": "other",
+      "text": "Édition spéciale débuts.",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.1341,
+        "width": 0.1869,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "other",
+      "text": "Kovalskia.",
+      "bbox": {
+        "x": 0.3606,
+        "y": 0.3546,
+        "width": 0.0994,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "heading",
+      "text": "hololD 3rd Gen",
+      "bbox": {
+        "x": 0.0575,
+        "y": 0.4236,
+        "width": 0.5075,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "heading",
+      "text": "_HOLOH3ROES",
+      "bbox": {
+        "x": 0.0131,
+        "y": 0.4826,
+        "width": 0.9444,
+        "height": 0.0694
+      }
+    },
+    {
+      "type": "other",
+      "text": "Illustration par : @sakonlieur",
+      "bbox": {
+        "x": 0.7581,
+        "y": 0.9852,
+        "width": 0.2275,
+        "height": 0.0117
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1k667zayvis81.png",
+    "gifFrame": null,
+    "confidence": 70
+  }
+}

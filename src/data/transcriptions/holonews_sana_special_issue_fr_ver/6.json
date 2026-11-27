@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_sana_special_issue_fr_ver",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Question: Minecraft is always more fun with friends! Speaking of",
+      "bbox": {
+        "x": 0.0281,
+        "y": 0.0907,
+        "width": 0.2881,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": ", Kirby though, what is your favourite Kirby transformation throughout the series?",
+      "bbox": {
+        "x": 0.0138,
+        "y": 0.1185,
+        "width": 0.2619,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: All of them are so cute! really like the jester hat that Kirby gets when he swallows a Waddle Doo. I also like Karby especially now that they have a cake of it in the Kirby Café!",
+      "bbox": {
+        "x": 0.0275,
+        "y": 0.174,
+        "width": 0.285,
+        "height": 0.0825
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: Oh, Karby... Moving on, were there any ways in which you changed or grew as a person while in hololive?",
+      "bbox": {
+        "x": 0.0281,
+        "y": 0.2604,
+        "width": 0.2838,
+        "height": 0.0516
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: I think I haven't changed much personality-wise but I've gained more self-confidence in what I do and in being myself!",
+      "bbox": {
+        "x": 0.0281,
+        "y": 0.3299,
+        "width": 0.2869,
+        "height": 0.0547
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: That's great. What about skills or talents, were there any you would say have improved?",
+      "bbox": {
+        "x": 0.0288,
+        "y": 0.3976,
+        "width": 0.2769,
+        "height": 0.0547
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: |'ve become a master at OBS! I've tried and experimented a lot of things and I think I can pull off a lot of cool things on OBS now. I was also able to do so many projects that I never thought would be possible to do like dipping into VR, making cover songs, and putting together an original song. They were all great learning experiences and I'm so glad for the opportunity to have them while being in hololive.",
+      "bbox": {
+        "x": 0.0281,
+        "y": 0.467,
+        "width": 0.2888,
+        "height": 0.1797
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: Indeed, we're so happy for you too. What would you say, then, is your proudest achievement at hololive?",
+      "bbox": {
+        "x": 0.0313,
+        "y": 0.6597,
+        "width": 0.2931,
+        "height": 0.0516
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Just the fact that, all in all, I was able to go through the whole experience and come out of it better than before!",
+      "bbox": {
+        "x": 0.0313,
+        "y": 0.7292,
+        "width": 0.2919,
+        "height": 0.0516
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: Well stated. Allow us to indulge in a few what-ifs now. Out of the other hololive members you haven't done a collab with, who would you have wanted to collab with the most?",
+      "bbox": {
+        "x": 0.0294,
+        "y": 0.7973,
+        "width": 0.2919,
+        "height": 0.0794
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: There isn’t any one person in particular I would have really really wanted to collab with, just wanted to have a good time hanging out with anybody who'd like to collab with me!",
+      "bbox": {
+        "x": 0.0288,
+        "y": 0.8945,
+        "width": 0.2931,
+        "height": 0.0794
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: Another one, if you could go back in time to when you first debuted, what would you do differently and why?",
+      "bbox": {
+        "x": 0.3556,
+        "y": 0.0911,
+        "width": 0.2869,
+        "height": 0.0556
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: I don't think I would have done anything differently. I stayed true to myself the whole time, and wouldn’t:have wanted it any other way.",
+      "bbox": {
+        "x": 0.3556,
+        "y": 0.1615,
+        "width": 0.2944,
+        "height": 0.0686
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: One more, what streams or activities do you wish you had the chance to do, but never managed to get around to?",
+      "bbox": {
+        "x": 0.3556,
+        "y": 0.2391,
+        "width": 0.2831,
+        "height": 0.0547
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: I wanted to make a cameo in Kurzgesagt!",
+      "bbox": {
+        "x": 0.3563,
+        "y": 0.3086,
+        "width": 0.2425,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: That would be so awesome actually, I hope Kurzgesagt hears about that! We're coming toward the end of the interview, just a few more questions to go. How would you like us to remember you?",
+      "bbox": {
+        "x": 0.3556,
+        "y": 0.3411,
+        "width": 0.2706,
+        "height": 0.0964
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: It would be nice if I was generally remembered positively, but ultimately I want all of you to have your own memory to cherish about me!",
+      "bbox": {
+        "x": 0.3563,
+        "y": 0.4523,
+        "width": 0.2863,
+        "height": 0.0655
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: That's for sure! What is something about your fans or having a fanbase that surprised you after joining hololive?",
+      "bbox": {
+        "x": 0.3556,
+        "y": 0.5269,
+        "width": 0.2906,
+        "height": 0.0547
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: I'm surprised they exist! I'm surprised that there are people out there who could be so devoted to me.",
+      "bbox": {
+        "x": 0.3563,
+        "y": 0.5964,
+        "width": 0.2894,
+        "height": 0.0516
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: And what is your favourite memory of them?",
+      "bbox": {
+        "x": 0.3556,
+        "y": 0.6597,
+        "width": 0.2413,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Everyone's been so supportive and I couldn't really ask for anything more. Every single one of those times they've come into the stream to support me is a moment I cherish. I know they've done so many projects for me in the past but I can’t pick a favourite, all of them yd",
+      "bbox": {
+        "x": 0.3556,
+        "y": 0.7014,
+        "width": 0.31,
+        "height": 0.1801
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Penultimate Question: I'm",
+      "bbox": {
+        "x": 0.6838,
+        "y": 0.0898,
+        "width": 0.2525,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- sure the Sanallites would be",
+      "bbox": {
+        "x": 0.6744,
+        "y": 0.1115,
+        "width": 0.2669,
+        "height": 0.0109
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "‘overjoyed to hear that. Lastly, to wrap things up we'd like to touch lightly on something that's been on everyone’s'mind. Your graduation came as a big surprise, but we understand it must have been a hard choice that you had to really think over. We'd like to know a little more about how you feel about it, and has it changed your feelings about being in hololive?",
+      "bbox": {
+        "x": 0.6813,
+        "y": 0.1263,
+        "width": 0.295,
+        "height": 0.1762
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: It was a hard decision, but I put a lot of time into considering it and I ultimately made this choice so that I could be happy. I love and cherish my genmates as well as all the Sanallites who have made my time in hololive special, and that will never change.",
+      "bbox": {
+        "x": 0.6825,
+        "y": 0.3181,
+        "width": 0.2931,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Final Question: Well put. That's all of the questions we had lined up though. Thank you so much for taking time to answer our questions. We've come to the end of the interview, but before we go is there anything you'd like to say to your Sanallites?",
+      "bbox": {
+        "x": 0.6813,
+        "y": 0.4792,
+        "width": 0.2994,
+        "height": 0.1172
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: I say this all the time but I love them! Thank you for supporting me and thank you for giving me so many laughs and cheers. I hope you all will still be able to keep smiling and find happiness now and in the future to come.",
+      "bbox": {
+        "x": 0.6819,
+        "y": 0.612,
+        "width": 0.2975,
+        "height": 0.1141
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/fthpgp1un4f91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "[Towa] King: 3M",
+      "bbox": {
+        "x": 0.355,
+        "y": 0.0443,
+        "width": 0.1306,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sora] Hot Limit: 750K",
+      "bbox": {
+        "x": 0.3088,
+        "y": 0.0608,
+        "width": 0.1781,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Moona] High Tide: 500K",
+      "bbox": {
+        "x": 0.285,
+        "y": 0.0773,
+        "width": 0.2013,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Babudon] Mrs Pumpkin Kokkei Yume: 75K [Calliope/Milky Queen] Usseewa: 2M [Matsuri] Cinderella: 500K",
+      "bbox": {
+        "x": 0.135,
+        "y": 0.0938,
+        "width": 0.3519,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Flare] RGB: 100K",
+      "bbox": {
+        "x": 0.3381,
+        "y": 0.1432,
+        "width": 0.1488,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Polka] Animal (Cover): 100K [Okayu] Detabare Neko: 100K",
+      "bbox": {
+        "x": 0.2425,
+        "y": 0.1758,
+        "width": 0.2438,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Oga] Silent Night Requiem: 25K [Suisei] Melty Land Nightmare: 250K [Izuru/Astel] Juggernaut: 500K",
+      "bbox": {
+        "x": 0.1906,
+        "y": 0.2088,
+        "width": 0.2963,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Calli/Gura] Q: 6M",
+      "bbox": {
+        "x": 0.3413,
+        "y": 0.2747,
+        "width": 0.1444,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[IZuru/Astel/Meika] Kaiju No Hanauta: 100K [Polka/Miko/Aqua/Flare/Watame/Towa] Adabana Necromancy (Live): 250K 02/27 [Rushia] Omoikou: 500K [Reine] Love Me Love Me: 50K",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.2912,
+        "width": 0.4325,
+        "height": 0.0942
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[La+] Bitter Choco Decoration: 1M [Temma] 1.15man Kilo No Film: 100K [Rikka] Yoru Naderu Menou (Cover): 50K [Chloe] Jinsei Reset Button Pochi w: 250K [HoloEN 1/2/Hope] Ochame Kinou: 5M [IRyS] See The World: 75K",
+      "bbox": {
+        "x": 0.145,
+        "y": 0.3898,
+        "width": 0.3419,
+        "height": 0.0946
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Watame] Twinkle: 100K",
+      "bbox": {
+        "x": 0.2888,
+        "y": 0.4887,
+        "width": 0.1981,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Kakusei: 6M",
+      "bbox": {
+        "x": 0.3219,
+        "y": 0.5052,
+        "width": 0.1638,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "heading",
+      "text": "STATS ET NOUVELLES SORTIES",
+      "bbox": {
+        "x": 0.5188,
+        "y": 0.0603,
+        "width": 0.4319,
+        "height": 0.0443
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.1345,
+        "width": 0.0919,
+        "height": 0.0109
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ORIGINAL NOUVEAU",
+      "bbox": {
+        "x": 0.6844,
+        "y": 0.135,
+        "width": 0.2512,
+        "height": 0.0104
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Choco] Secret Class: 100K [Haachama] Red Heart: TM",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1927,
+        "width": 0.2238,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Baelz] Hontou No Oto: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2257,
+        "width": 0.2356,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Aqua] Dadadada Tenshi: 15M [Kiara/Ame] Dreamin Chuchu: 750K [Ayame/Fubuki/Mio] Onikemodance: 1M [Miyabi] Watashi Aidoru Sengen: 75K [Suisei/Sora] Hanamuke No Tori: 2M [Fubuki/Mirei/Tamaki/Dola/Kohaku] Supersc Affection: 500K",
+      "bbox": {
+        "x": 0.5131,
+        "y": 0.2422,
+        "width": 0.3256,
+        "height": 0.1111
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Chloe] Animal: 1M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3737,
+        "width": 0.1525,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Koyori] Kokoro Yohou: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3902,
+        "width": 0.2356,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Calliope] Reaper Ga Rapper?: 3M [Fubuki/Marine] Happiness World: 100K [Council] Hikaru Nara (Cover): 250K [AZKi] Hitokuchi Chodai: 75K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4067,
+        "width": 0.3231,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kanata] Fragile (Cover): 250K [Suisei/Natsushiro] Bluer Than Indigo: 25K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4887,
+        "width": 0.3438,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Reine LOVE ME LOVE ME",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.6059,
+        "width": 0.1094,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "BabaCorn HAPPINESS WORLD",
+      "bbox": {
+        "x": 0.3575,
+        "y": 0.6059,
+        "width": 0.1406,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.3581,
+        "y": 0.8277,
+        "width": 0.045,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lZure",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.8281,
+        "width": 0.0381,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "GAITOU GA SABITA MAMA",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.8429,
+        "width": 0.1769,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lui",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.9293,
+        "width": 0.0175,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.28,
+        "y": 0.9293,
+        "width": 0.0438,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "heading",
+      "text": "MIRA",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.9427,
+        "width": 0.0894,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "heading",
+      "text": "FRAGILE",
+      "bbox": {
+        "x": 0.28,
+        "y": 0.9423,
+        "width": 0.1481,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei & Natsushiro Takaaki BLUER THAN",
+      "bbox": {
+        "x": 0.3575,
+        "y": 0.717,
+        "width": 0.2244,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.9293,
+        "width": 0.0338,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Chloe",
+      "bbox": {
+        "x": 0.6637,
+        "y": 0.6055,
+        "width": 0.0494,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "heading",
+      "text": "JINSE-RESET BUTTON POCHII W",
+      "bbox": {
+        "x": 0.6637,
+        "y": 0.6159,
+        "width": 0.2956,
+        "height": 0.0317
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu DETABARE NEKO",
+      "bbox": {
+        "x": 0.6637,
+        "y": 0.7166,
+        "width": 0.1344,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka YORU NADERU MENOU",
+      "bbox": {
+        "x": 0.6631,
+        "y": 0.8273,
+        "width": 0.18,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "HoloCouncil",
+      "bbox": {
+        "x": 0.7413,
+        "y": 0.9293,
+        "width": 0.0806,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ANIMAL",
+      "bbox": {
+        "x": 0.5094,
+        "y": 0.9427,
+        "width": 0.1406,
+        "height": 0.0135
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/7rllf92ae0m81.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

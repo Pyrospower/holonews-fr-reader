@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 19,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.8494,
+        "y": 0.0647,
+        "width": 0.0919,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "heading",
+      "text": "STATS ET SORTIES",
+      "bbox": {
+        "x": 0.1456,
+        "y": 0.0712,
+        "width": 0.5588,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kanata] Tenshi No Agape: 500K [Roboco] Shachiku No Uta: 100K",
+      "bbox": {
+        "x": 0.1975,
+        "y": 0.1445,
+        "width": 0.2919,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Sennou Sakushu Toranomaki: 100K [AZKi] Gamen No Nakano Kimi Ga Suki: 50K 01/19 [AZKi] Nonbiri To: 75K [IRyS] Sparks of Joy: 250K [Mel] Kaputto Night Sky: 250K [Patra/Miko/Flare] Umapyoi Densetsu: 100K 01/21 [Risu] Flos: 250K [Astel/Miyabi] Booo!: 50K [Shion] Acacia Syndrome: 250K [Okayu] Cute Na Kanojo: 2M",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.1801,
+        "width": 0.4369,
+        "height": 0.2062
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Towa] FACT: 1M",
+      "bbox": {
+        "x": 0.3313,
+        "y": 0.4067,
+        "width": 0.1544,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Tabako: 100K",
+      "bbox": {
+        "x": 0.3038,
+        "y": 0.4245,
+        "width": 0.1831,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Calliope] Ibasho: 500K",
+      "bbox": {
+        "x": 0.2825,
+        "y": 0.4423,
+        "width": 0.2044,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Mel] Animal (Cover): 75K",
+      "bbox": {
+        "x": 0.26,
+        "y": 0.4601,
+        "width": 0.2263,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Okayu] Setsuna Plus: 500K [Choco/Mel] ChocoMelty: 75K [Risu/Oga] Daddy Daddy Do!: 500K [Kiara/Calliope] Wah Wah World: 3M [Aqua] Hokori Takaaki Idol: 500K [Polka] Cinema (Cover): 25K",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.4779,
+        "width": 0.3238,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sora] Kono Sekai De: 75K [Rushia] Omoikou: 100K",
+      "bbox": {
+        "x": 0.2494,
+        "y": 0.5846,
+        "width": 0.2375,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] rise (Cover): 25K",
+      "bbox": {
+        "x": 0.2781,
+        "y": 0.6202,
+        "width": 0.2081,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Phony: 6M",
+      "bbox": {
+        "x": 0.3219,
+        "y": 0.638,
+        "width": 0.1638,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kronii",
+      "bbox": {
+        "x": 0.2788,
+        "y": 0.7348,
+        "width": 0.0356,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "CINEMA",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.7474,
+        "width": 0.1419,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AZKi",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.8238,
+        "width": 0.03,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa",
+      "bbox": {
+        "x": 0.2775,
+        "y": 0.8238,
+        "width": 0.0338,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "RISE",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.8368,
+        "width": 0.075,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AKUMA",
+      "bbox": {
+        "x": 0.2775,
+        "y": 0.8372,
+        "width": 0.1331,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ORIGINAL NOUVEAU [IRyS] Ghost: 750K 01/18 [Flare] Vampire: 250K [Watame] My Song: 750K [Rushia] Goodbye Sengen: 3M [HoloEN 1/2/Hope] Ochame Kinou: 3M [Lamy/Botan] Lion: 750K [Risu] ALICE&u: 100K [Fubuki] Animal: 1M 01/20",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.0803,
+        "width": 0.4331,
+        "height": 0.2183
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Koyori] Nh-Uh-Uh: 1M [Kanata/Nene] Shijoshugi Adtruck: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.303,
+        "width": 0.3544,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Pekora] Cinderella: 2M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3546,
+        "width": 0.2056,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Mumei] A New Start: 750K [Calliope] End Of A Life: 7M [Suisei/Nene/MaiR/Ruri/Saki Akuma] Absolute 5: 750K",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.3724,
+        "width": 0.3244,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AyaFubuMi ONIKEMO-DANCE LJ] Nes \\ Rushia Mel OMOIKOU ANIMALE",
+      "bbox": {
+        "x": 0.5081,
+        "y": 0.7348,
+        "width": 0.3781,
+        "height": 0.1163
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/udnc3tf6x8f81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

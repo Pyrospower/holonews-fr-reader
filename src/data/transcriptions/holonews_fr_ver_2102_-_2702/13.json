@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holo ID",
+      "bbox": {
+        "x": 0.1625,
+        "y": 0.0768,
+        "width": 0.2094,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, sur Minecraft, les membres d'hololD ont terminé la construction d'un navire qui deviendra le portail officiel pour accéder aux autres serveurs Minecraft d'hololive. Le nom donné à ce navire est le « Pinisi Makmur Sejahtera » (PMS). Ce nom a l’air d’un nom d’une compagnie maritime mais I'acronyme a une signification pour d’autres choses qui les faisaient beaucoup rire. Le stream était en majeure partie sur les touches finales et la décoration de la structure. lofi s'est présentée plus tard et a essayé de montrer son maillot de bain mais les autres ne semblaient pas lui prêter attention. Moona a supposé qu'elle était en retard parce qu’elle cherchait le maillot de bain. Ollie a dit à lofi de porter plus de vêtements, cette dernière a répondu qu’Ollie devait, elle, mettre une culotte (Ollie ne portait pas de jambières à ce moment-là). Cela a continué avec pas mal de plaisanteries et de l’autocensure.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.2908,
+        "width": 0.4288,
+        "height": 0.306
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après que le navire soit construit, elles sont allées visiter Moona qui se vantait de ses capacités et a montré son manoir. lofi est parvenue à se perdre en plein pendant la visite.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.6003,
+        "width": 0.3975,
+        "height": 0.0703
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuite, elles se sont préparées à mettre le cap en démolissant la cale sèche tout en continuant avec leurs magouilles habituelles, en faisant des blagues sur la musique originale de Moona « High Tide » et en discutant de comment faire monter le niveau de l’eau.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.674,
+        "width": 0.4294,
+        "height": 0.0851
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont décidées que leur prochain objectif serait de vaincre l'Ender Dragon et ont annoncé plusieurs choses à venir tel que le stream de 24 heures de Moona en mi-Mars. Elles ont clôturé le stream en prenant une photo commémorative, durant laquelle Ollie a dit que « ça va être sur HoloNews ».",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.7726,
+        "width": 0.4169,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "other",
+      "text": "Pas d'inquiétude Ollie, car c'est déjà le cas !",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.8859,
+        "width": 0.2631,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moona passait un stream normal sur PUBG jusqu’à ce qu'elle soit interrompue par un cafard qui s’est discrètement approcher d'elle. Une bataille épique s’ensuivit pendant un peu plus de 15 minutes. Deux milles personnes regardaient Moona tenter de tuer son assaillant. La bataille s’est terminée avec Moona en train de remplir sa chambre de gaz, ce qui poussa le cafard à se replier jusqu’au prochain round.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.2908,
+        "width": 0.4238,
+        "height": 0.1549
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moona a publié une courte vidéo d’une session de travail sur les mines qu'elle a eu hors stream. La vidéo, éditée par le clippeur Rickchama, a montré Moona en train de récupérer 32 blocs rares de débris antiques.",
+      "bbox": {
+        "x": 0.5181,
+        "y": 0.467,
+        "width": 0.4194,
+        "height": 0.0959
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Risu a commencé une série de podcast, Risu Radio Night, dans laquelle elle a plusieurs thèmes différents dans la nuit qu’elle va aborder avec ses spectateurs. Le thème du premier épisode s’est focalisé sur les problèmes émotionnels et comment s’aider soi-même a les gérer et s'en occuper, bien différent de l'ambiance insouciante habituelle de ses streams.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7253,
+        "width": 0.4144,
+        "height": 0.1367
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3l14ee19e0m81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

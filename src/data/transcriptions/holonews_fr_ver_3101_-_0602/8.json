@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOFORCE",
+      "bbox": {
+        "x": 0.0981,
+        "y": 0.0655,
+        "width": 0.3481,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata a montré à tout le monde dans son stream qu'elle a une fois de plus battu son record de force de préhension, passant de 52 kg à 54,1 kg. Elle a battu le record de retard car elle dormait, se réveillant plus de cinq heures trop tard. Elle a été réveillée par le cri de l'amie C.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.2795,
+        "width": 0.4231,
+        "height": 0.112
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa a joué à Pummel Party avec ses coéquipiers de CandyPOP : Kurumi Noah de VSPO et CPT de CR. Alelu de DTN, Uruca de CR et Nishizono Chigusa de Nijisanji les ont également rejoints. Comme toujours lorsqu'on joue avec des streamers FPS et des pro gamers, pas une seule partie ne s'est déroulée sans chaos, meurtres ou trahisons. Les liens de CandyPOP ont été mis à l'épreuve ici : ils ont dû collaborer pour gagner dans certains mini-jeux mais également se trahir dans d'autres. Ils ont joué deux parties, que Kurumi Noah a remportées.",
+      "bbox": {
+        "x": 0.0581,
+        "y": 0.5729,
+        "width": 0.4263,
+        "height": 0.2244
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La dernière chanson originale de Towa, « FACT », a été choisie comme générique de fin pour l'émission Majo ni |waretai Yoru diffusée sur Fuji TV en février.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.8364,
+        "width": 0.425,
+        "height": 0.0851
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame a sous-entendu lors de son stream Watame Night Fever qu'elle était en train d'apprendre le rap anglais avec Calliope. Elle a dit qu'elle avait des difficultés à bouger sa bouche puisque c'était en anglais. Elle ne pouvait pas dire quelle chanson elle préparait ni comment elle serait révélée, mais elle a demandé à ses fans de rester à l'écoute. Attendons patiemment que notre mouton adoré maîtrise le rap et révèle sa chanson !",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2804,
+        "width": 0.4113,
+        "height": 0.1758
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Luna a continué de s'amuser sur RAFT cette semaine. Le radeau de Luna est maintenant assez avancé, avec beaucoup de technologie et de machines intégrées. Elle a également fait en sorte d’agrémenter son radeau, en y ajoutant des décorations variées comme des plantes, des coffres et des lampes, à la manière d'une caravane. Alors qu'elle lisait les Super Chats plus tard dans le stream, ses fans ont dit qu'ils espéraient que le radeau de Luna devienne aussi grand que le Titanic, mais Luna a rejeté cette idée avec insistance car ayant passé beaucoup de temps à rassembler des ressources en stream et hors stream, elle ne veut pas que ses efforts soient vains.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.6337,
+        "width": 0.4256,
+        "height": 0.2691
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Soutenons notre princesse dans sa quête de survie sur son majestueux radeau !",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.9071,
+        "width": 0.4106,
+        "height": 0.0313
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/nyyhspfs4uh81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 3,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pour son 4e anniversaire, Mel a appelé plusieurs personnes en stream au lieu d'attendre de recevoir des appels. Elle a d'abord appelé Choco, et elles ont convenu d'aller à un rendez-vous quelque part. Mel à ensuite appelé Haachama, Aki, Iroha et Nene, puis les blondes d’'hololive. Mel a aussi appelé Sora, Matsuri, Koyori, Ayamy,",
+      "bbox": {
+        "x": 0.0572,
+        "y": 0.4838,
+        "width": 0.2806,
+        "height": 0.2083
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "et la VTubeuse Saeki Yahiro. Pendant qu'elle appelait des gens, Mel a reçu un message privé et une vidéo surprise de sa manageuse. La vidéo était un message d'anniversaire de YAGOO. Il a même reproduit les salutations de Mel dans la vidéo, ce qui lui a beaucoup plu.",
+      "bbox": {
+        "x": 0.3589,
+        "y": 0.4838,
+        "width": 0.2706,
+        "height": 0.1767
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après le message surprise, Mel a fait quelques annonces.",
+      "bbox": {
+        "x": 0.3578,
+        "y": 0.6605,
+        "width": 0.2683,
+        "height": 0.0448
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Tout d'abord, elle a obtenu une nouvelle bannière et un nouveau logo pour sa",
+      "bbox": {
+        "x": 0.3583,
+        "y": 0.7091,
+        "width": 0.2733,
+        "height": 0.0475
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "chaîne. Pour sa deuxième annonce, Mel a expliqué pourquoi elle n'a fait qu'un stream d'appels pour son anniversaire. Selon elle, il y avait beaucoup de problèmes à ce moment-là et le studio était très occupé, donc le concert pour son 4e anniversaire a dû être reporté au 18 juillet. Enfin, Mel a également annoncé la sortie de sa nouvelle chanson originale, « Caramel Devil ». Ne manquez pas de l'écouter !",
+      "bbox": {
+        "x": 0.6589,
+        "y": 0.4838,
+        "width": 0.2806,
+        "height": 0.2566
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/hnb15qcndn191.gif",
+    "gifFrame": 65,
+    "confidence": 94
+  }
+}

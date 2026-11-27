@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 19,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STATS ET NOUVELLES SORTIES",
+      "bbox": {
+        "x": 0.0938,
+        "y": 0.0608,
+        "width": 0.6587,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Risu] Alice&u: 250K [Okayu] Gehenna: 1M [Polka] Hologram Circus: 3M [Watame] Otogi No Uta To Towanaru Mirai: 1M [Coco] Weather Hackers (Live): 2M [Kanata] Watashi E: 250K",
+      "bbox": {
+        "x": 0.1069,
+        "y": 0.1311,
+        "width": 0.3825,
+        "height": 0.0946
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Reine] Cinderella: 75K",
+      "bbox": {
+        "x": 0.3025,
+        "y": 0.23,
+        "width": 0.1869,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sora] Autophagy: 1M",
+      "bbox": {
+        "x": 0.3131,
+        "y": 0.2465,
+        "width": 0.175,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/16 [Suisei] Phony: 8M [Rikka/lzuru] Sakura No Ame: 250K",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.2778,
+        "width": 0.4331,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kiara/Ame] Dreamin Chuchu (Cover): 500K",
+      "bbox": {
+        "x": 0.1294,
+        "y": 0.3125,
+        "width": 0.3569,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kanata] Tokyusa-Seizon Wonder-La-Der!!: 2M [Koyori] Kokoro Yohou (Cover): 100K",
+      "bbox": {
+        "x": 0.105,
+        "y": 0.329,
+        "width": 0.3813,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Shion] Phony: 750K",
+      "bbox": {
+        "x": 0.3206,
+        "y": 0.362,
+        "width": 0.1663,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Choco] Secret Class: 75K [Watame] Twinkle (Cover): 75K [Koyori] S'il Vous President: 500K [Astel] Hokori Takaaki Aidoru: 50K [Kronii] Daydream: 500K [Calliope] ljimekko Bully: 4M [Kanata/Okayu] Call Boy: 1M",
+      "bbox": {
+        "x": 0.2094,
+        "y": 0.3945,
+        "width": 0.2775,
+        "height": 0.1276
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[IRyS] Here Comes Hope: 750K [Aqua] Hokori Takaaki Aidoru: 750K [IZzuru/Astel/Meika] Kajjuu No Hanauta (Cover): 50K [Anya] Marshall Maximizer (Cover): 50K [HoloFantasy] Interact Fantasia: 2M",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.5265,
+        "width": 0.4175,
+        "height": 0.0781
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[HoloX] Ochame Kinou: 2M",
+      "bbox": {
+        "x": 0.265,
+        "y": 0.6089,
+        "width": 0.2206,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Flare] RGB (Cover): 25K",
+      "bbox": {
+        "x": 0.2819,
+        "y": 0.6254,
+        "width": 0.2044,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Aqua] | Wanna: 250K",
+      "bbox": {
+        "x": 0.3081,
+        "y": 0.6419,
+        "width": 0.1781,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Anya MARSHALL MAXIMIZER",
+      "bbox": {
+        "x": 0.2781,
+        "y": 0.8286,
+        "width": 0.11,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Er BITTER CHOCO DECORATION",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.829,
+        "width": 0.1438,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Flare RGB",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.9193,
+        "width": 0.0712,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "1Zuru, Astel & Meika KAIJUU NO HANAUTA",
+      "bbox": {
+        "x": 0.2781,
+        "y": 0.9193,
+        "width": 0.1256,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE ORIGINAL NOUVEAU",
+      "bbox": {
+        "x": 0.8413,
+        "y": 0.0495,
+        "width": 0.1081,
+        "height": 0.043
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Myth] Country Roads: 4M [Choco/Mel] ChocoMelty: 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1311,
+        "width": 0.2519,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Neko Naraba Ikeru (Animated): 100K [Ollie/Ruuko] Yume ni Yell! Patissiere (Cover): 10K [Polka/Reine] Fly Me To The Star: 250K [Kanata] Ashura-chan: 750K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1641,
+        "width": 0.41,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Coco] Fansa: 2M [Moona] High Tide: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2465,
+        "width": 0.2019,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Matsuri/Gura] Sorairo Days: 5M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2795,
+        "width": 0.2606,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[La+] Bitter Choco Decoration (Cover): 500K [Moona/Suisei] Saikai: 2M [La+] God-ish: 9M 02/19 [Ayame] Yoi No Yo Yoi!: 2M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.296,
+        "width": 0.4325,
+        "height": 0.0777
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Akirose/Roboco] Daze: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.378,
+        "width": 0.24,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nene] Nenenene Daibakusou: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3945,
+        "width": 0.2981,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Korone/Okayu] Hyadain no Joujou Yuujou: 6M [Aqua] Youkoso! Sweet Carnival!: 750K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.411,
+        "width": 0.3806,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Temma] Shooting Star: 10K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.444,
+        "width": 0.2306,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Anya] Phony: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4605,
+        "width": 0.1613,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Agua",
+      "bbox": {
+        "x": 0.51,
+        "y": 0.7374,
+        "width": 0.0344,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.7388,
+        "y": 0.8286,
+        "width": 0.0556,
+        "height": 0.0078
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori KOKORO YOHOU",
+      "bbox": {
+        "x": 0.5075,
+        "y": 0.829,
+        "width": 0.0831,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "heading",
+      "text": "TWINKLE",
+      "bbox": {
+        "x": 0.7388,
+        "y": 0.842,
+        "width": 0.1625,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie & Ruuka",
+      "bbox": {
+        "x": 0.5081,
+        "y": 0.9193,
+        "width": 0.0862,
+        "height": 0.0078
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kiara &Amelia DREAMIN CHUCHU",
+      "bbox": {
+        "x": 0.74,
+        "y": 0.9193,
+        "width": 0.0919,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "YUME NI YELL! PATISSIERE",
+      "bbox": {
+        "x": 0.5081,
+        "y": 0.931,
+        "width": 0.14,
+        "height": 0.0174
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/k8z90j9hplk81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

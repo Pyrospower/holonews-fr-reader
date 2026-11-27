@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2712_-_0201",
+  "page": 12,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENTS PALIERS À VENIR D'ABONNÉS",
+      "bbox": {
+        "x": 0.0738,
+        "y": 0.0269,
+        "width": 0.8219,
+        "height": 0.0712
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 6 janvier : Anniversaire d'Amelia",
+      "bbox": {
+        "x": 0.0625,
+        "y": 0.1202,
+        "width": 0.3606,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 7 janvier : Tournoi hololive Mario Kart 8 2022",
+      "bbox": {
+        "x": 0.0625,
+        "y": 0.1549,
+        "width": 0.3631,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Thank you!",
+      "bbox": {
+        "x": 0.3169,
+        "y": 0.6363,
+        "width": 0.3706,
+        "height": 0.0516
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir consulté notre édition allégée spéciale vacances ! La majorité des membres de l’équipe de production sont en pause, alors veuillez nous excuser si cette édition n’est pas",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.6931,
+        "width": 0.8838,
+        "height": 0.0677
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "aussi approfondie que d'habitude, et passez de bonnes vacances et une bonne année !",
+      "bbox": {
+        "x": 0.1069,
+        "y": 0.7622,
+        "width": 0.7806,
+        "height": 0.0404
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu !!",
+      "bbox": {
+        "x": 0.3575,
+        "y": 0.8247,
+        "width": 0.25,
+        "height": 0.0182
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/bvrj7jcubhb81.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

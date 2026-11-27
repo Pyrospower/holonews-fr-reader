@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pour la Saint Valentin, Botan a streamé une dernière fois avant ses examens médicaux. Elle ya partagé son idée d'imprimer en 3D un moule SSRB pour faire des chocolats de cette forme. Elle n'a pas pu obtenir une imprimante 3D à temps pour cette année, et a donc décidé de reporter l'idée à l’année prochaine. Dans la suite de la conversation, elle a expliqué que plusieurs options étaient disponibles pour les repas à l'hôpital et que, régimes alimentaires spéciaux mis à part, il y avait la possibilité de commander quelque chose de spécial moyennant un supplément. Enfin, elle a mentionné avoir demandé de nouveaux designs de SSRBs basés sur la fête du hinamatsuri pour son retour.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2248,
+        "width": 0.4181,
+        "height": 0.2092
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant son séjour à l'hôpital, Botan s'est tenue occupée avec des jeux et des interactions occasionnelles sur Twitter. Elle a même réussi à fournir un support technique à Kanata en résolvant à distance ses problèmes de connexion. L'impératrice sera de retour sur YouTube le 23 février, attendez cette date avec impatience !",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.4397,
+        "width": 0.4175,
+        "height": 0.112
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.1488,
+        "y": 0.576,
+        "width": 0.245,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mio a streamé sur Mario Kart 8, avec pour gage de faire à chaque fois l'équivalent en abdominaux de son classement. Sur l'ensemble de ses partes, elle n’a jamais atteint plus haut",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.7587,
+        "width": 0.4175,
+        "height": 0.0673
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "SE la 4e place. Mio a utilisé son modèle 3D à omicile pour ce stream, afin que ses spectateurs puissent la voir effectuer les",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.8142,
+        "width": 0.3988,
+        "height": 0.0425
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ominaux. Les MioFa n'ont montré aucune pitié envers Mio, qui a dû réaliser un total de 117 abdominaux en une heure.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.8559,
+        "width": 0.4156,
+        "height": 0.0395
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mio a chanté son habituelle musique d'introduction accompagnée de son ukulele. Sans surprise, c'était aussi adorable que relaxant.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.9063,
+        "width": 0.3619,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "other",
+      "text": "@momosuzunene",
+      "bbox": {
+        "x": 0.5619,
+        "y": 0.112,
+        "width": 0.0888,
+        "height": 0.0052
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.6313,
+        "y": 0.1897,
+        "width": 0.1088,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le chien de la famille de Nene est malheureusement décédé, après avoir vécu 15 longues années. En raison de son planning chargé pour ce mois-ci et le suivant, ainsi que du deuil de son chien, Nene va opter majoritairement pendant un certain temps pour des streams impromptus plutôt que planifiés.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2253,
+        "width": 0.4213,
+        "height": 0.1155
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy s’est jointe à à Luna et Lui pour boire un verre ensemble. Le « groupe L » a fait connaissance en discutant de sujets comme leurs projets, leurs films e boissons préférées, les chansons qu'elles aimeraient interpréter et bien plus encore.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3746,
+        "width": 0.2644,
+        "height": 0.1602
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la Saint Valentin, Korone a joué à Donkey Konga pour ses spectateurs. Pour cette partie, elle devait utiliser une manette spéciale appelée « DK Bongos » et qui nécessite de jouer du tambour et de claquer des mains. L'hilarité a pris place lorsque la manette s'est mise à détecter non seulement les claquements de main de Korone, mais également sa voix. Les paroles ainsi que les rires de celle-ci ont été détectés par la manette, faisant claquer inopinément des mains Donkey Kong et amplifiant l’hilarité de Korone, créant ainsi une boucle infinie de rires incontrôlables.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7704,
+        "width": 0.4181,
+        "height": 0.1888
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/gvvkmc9hplk81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

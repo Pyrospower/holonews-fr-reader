@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Botan est de retour après son séjour d'une semaine à l'hôpital et a donné des détails sur son examen en stream. Pendant son examen, elle a manqué un repas à cause du temps que cela prenait. Elle a même dû aller dans une supérette pour acheter de quoi dîner. À un autre moment, son docteur est entré dans sa chambre pendant qu'elle jouait à Ace Attorney, au moment où Phoenix Wright a crié « Objection », ce qui l'a mise dans l'embarras.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.276,
+        "width": 0.4263,
+        "height": 0.168
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour compenser sa semaine d'absence, Shishiron a fait 5 streams cette semaine. Elle a fini le mode histoire de Raft, a ri en jouant au jeu d'horreur Within Skerry, et a construit des machines de guerre, des caddies et d'autres armes sur Besiege et a étudié le jeu hors stream. Pour terminer la semaine, elle a étendu sa chaîne de restaurant avec un nouveau Menya Botan phare dans le jeu The Ramen Sensei de Kairosoft.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.4596,
+        "width": 0.4081,
+        "height": 0.1675
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy et Sora ont fait leur apparition en tant qu'invitées spéciales du concert 3D de Suntory Nomu. Lamy et Sora ont tous deux réalisé deux performances en solo avant de rejoindre Nomu pour la finale. Lamy s'est ensuite exprimée sur le concert lors de son stream alcoolisé. Elle a partagé quelques anecdotes et son impression générale de l'événement.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.8034,
+        "width": 0.4156,
+        "height": 0.1363
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "D'un air suffisant, Nene a tenté d'atterrir loin lorsqu'elle a été désignée en tant que leader de saut sur APEX. Cependant, elle n'a pas réussi à atterrir, et elle est tombée hors des limites de la carte, ce qui a causé sa mort peu après. Se rendant compte de son erreur, elle a essayé de s'excuser auprès de son équipe et leur était très reconnaissante lorsqu'ils ont récupéré sa bannière pour la ressusciter.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.276,
+        "width": 0.4188,
+        "height": 0.1602
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans l'épisode de La légende de Polka de cette semaine, Polka s'est excusée car le montage du dernier épisode n’a pas été fait à temps malgré qu'elle ait fait une pause la semaine dernière, et qu’elle « discutait avec Izuru » dans les deux derniers épisodes. En direct d’une boîte, elle a expliqué qu’il y avait beaucoup de vérifications nécessaires pour l'épisode, et l’équipe a tout simplement manqué de temps. Elle a fait la promotion du concert de Bakatare avant d'essayer de faire un V de la victoire pour conclure. Cependant, le tracking de ses doigts ne fonctionnant pas comme prévu, Polka a eu du mal à faire un V de la victoire, à sa grande frustration.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.6706,
+        "width": 0.4344,
+        "height": 0.2565
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/jusqv148e0m81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

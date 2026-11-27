@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Watame va lancer une nouvelle série intitulée « Have a Nice Day » dans laquelle elle voyage au Japon et montre des photos de paysages réels qu'elle a prises. Toutes les vidéos seront correctement traduites, le premier épisode présentant ses vacances avec IRyS a Hokkaido ! Pour commencer, elles sont allées à Sapporo, où elles se sont régalées avec les ramens au miso de Sumire et ont visité la ferme du village d'Ecorin pour rendre visite aux Watamates (moutons) locaux. Elles se sont également rendues aux sources chaudes le premier soir et, malgré le flirt agressif de Watame dans la vidéo, IRyS a révélé que Watame était malheureusement trop timide pour laisser IRyS lui laver le dos. Elles ont senti qu’elles s'étaient rapprochées grâce à ce voyage, et connaissaient même le secret majeur du poids de l'autre maintenant, et ont promis de repartir en voyage ensemble.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.2244,
+        "width": 0.4463,
+        "height": 0.2209
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy est devenue le maire dictatorial dans Cities Skylines, jeu dans lequel elle devait construire sa ville à partir de rien. Elle a échoué la première fois à cause d'une route en forme d'hippodrome et promis de ne pas en construire d'autres, mais elle n'a pas tenu sa promesse. Lamy a également donné la priorité à la création d'un poste de police et d'une prison pour dissuader les Yukimins de faire « n'importe quoi de mal » et a construit un hippodrome avec une entrée souterraine enterrée pour que les résidents ne puissent pas y entrer. Sa tyrannie ne s'est pas arrêtée là ; plus tard, elle a fièrement montré sa ville expérimentale, où les eaux usées sont pompées et acheminées vers les Yukimins, et où une centrale électrique a été laissée à l'abandon, privant les habitants des produits de première nécessité.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.5043,
+        "width": 0.4456,
+        "height": 0.2075
+      }
+    },
+    {
+      "type": "heading",
+      "text": "@ Botan",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.7183,
+        "width": 0.1931,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De retour de son aventure d'une semaine avec Watame à Kyushu. Shishiron s'est directement lancée sur le mode multijoueur de Call of Duty. Il ne lui a fallu qu'une partie pour s'échauffer et enchaîner les victoires. Après ses parties, Shishiron a lancé un appel pour une nouvelle décoration SSRB pour le mois de novembre. Son prochain objectif est de jouer au DLC de Resident Evil Village.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.7786,
+        "width": 0.4444,
+        "height": 0.1033
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre précieuse épouse Nenechi a fait un stream discussion, durant lequel elle a communiqué avec ses fans étrangers à l'aide d'un traducteur. Elle disait ce qu'elle voulait dire au traducteur en japonais et répétait ce qu'elle entendait en anglais. Parmi les moments les plus adorables du stream, il y a le kamehameha de Nenechi, le moment où elle a demandé aux spectateurs d'outre-mer si leur corps était dodu, ainsi que celui où elle a demandé si elle pouvait « rebondir sur leur estomac ». De plus, Nenechi a promis de manger une tomate cerise si cela signifiait que le tchat l'aimerait pour toujours (elle s'est limitée aux avocats), et scandalisé le tchat avec des pizzas faites en pâte à gyoza. Comment notre femme peut-elle être aussi adorable ?",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.2127,
+        "width": 0.4463,
+        "height": 0.1923
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La véritable chef d'holoX, Lui, a décidé d'aider son organisation à gagner des fonds en créant un host club où elle jouait le rôle de cing hôtes beaux gosses différents pour servir d'autres membres d'hololive. Naturellement, Polka avait le rôle de gérante du club. Plusieurs membres d’hololive ont visité le club, y compris Aki, Laplus (qui a été expulsée et mise sur liste noire pour avoir demandé les lunettes de Megane Lui pour les ramener chez elle), et AZKi (qui voulait chasser Lui). Les autres invitées étaient Nodoka, qui était très nerveuse (et elle a promis de faire des heures supplémentaires pour soutenir Shota Lui, après avoir épuisé sa carte de crédit), Noel, qui était pompette (et qui a cédé à ses pulsions en voyant Shota Lui), une Marine de soixante-dix-huit ans (qui a découvert que Lui avait en fait vingt-neuf ans), et Fubuki (qui a fini avec un harem composé des cinq Lui). holoX sera financièrement stable pendant un certain temps après cela.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.6359,
+        "width": 0.4519,
+        "height": 0.2444
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4grhzyb6o22a1.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

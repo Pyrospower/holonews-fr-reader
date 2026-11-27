@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2208_-_2808",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "UPROAR!",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.1523,
+        "width": 0.2888,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le dernier épisode de Jump UPROAR! ils ont été emmenés dans un nouvel endroit pour un autre défi lié a I'été. lls ont été chargés de créer leur propre toboggan somen et ont eu quatre heures pour le réaliser. lls se sont rendus dans un supermarché proche et ont acheté les matériaux nécessaires pour créer leur toboggan et ils ont même acheté des choses pour le personnaliser. Après quatre heures, ils ont pu terminer le toboggan et déguster leur somen.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.191,
+        "width": 0.4456,
+        "height": 0.1458
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'été ne serait pas complet sans feux d'artifice, alors le personnel en a préparé pour eux. Ils ont également allumé leurs propres feux d'artifice et ont exprimé leurs souhaits et leurs objectifs.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.5299,
+        "width": 0.445,
+        "height": 0.0508
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "TEMPUS est de retour avec une tranquille collaboration avec le Raft. Chacun d'entre eux a exprimé à quel point ce jeu est bon et relaxant, au point qu'ils ont oublié qu'ils étaient en train de streamer. Magni a raconté qu'il avait jeté ses gants parce qu'ils étaient infestés de fourmis. En dehors de ses gants, même son clavier était infesté. Il a raconté qu'il avait oublié de nettoyer les crêpes qui avaient durci.",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.8103,
+        "width": 0.4463,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans ce stream, ils ont attrapé leur premier animal et l'ont appelé « Little YAGOO ». Lorsque le deuxième animal a rejoint leur radeau, ils ont commencé la série des YAGOO.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.9275,
+        "width": 0.445,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Axel a invité ses ainés à jouer à Apex et ils ont accepté avec plaisir. lls ont joué en classé tandis qu'Axel enseignait et expliquait beaucoup de memes qui avaient été enseignés à Astel pendant sa collaboration avec Altare et Vesper. Bien qu'ils aient gagné une partie au début, ils ont eu du mal à gagner les parties suivantes à cause du lag pour chacun d'entre eux.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.197,
+        "width": 0.445,
+        "height": 0.0959
+      }
+    },
+    {
+      "type": "heading",
+      "text": "£ Altare",
+      "bbox": {
+        "x": 0.5281,
+        "y": 0.2999,
+        "width": 0.1806,
+        "height": 0.0369
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Altare a commencé ses premières incursions de HOLOSTARS English dans Minecraft sur le nouveau serveur Minecraft HOLOSTARS English (qui est connecté au serveur principal japonais par un portail personnalisé). Il a ensuite construit sa première maison sur ce nouveau serveur. Ses autres exploits de jeu comprennent la capture d'un zombie à l'intérieur de sa maison, le démarrage d'une ferme de blé et d'une ferme d'arbres, et la défense contre des groupes de pillards en s'abritant derrière des arbres.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.3429,
+        "width": 0.4463,
+        "height": 0.1228
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après sept heures et deux tentatives infructueuses, Vesper a finalement conquis Faster Than Light en mode difficile. II a surmonté les difficultés du début du jeu, comme la perte d'un membre d'équipage. Il a tenté une autre course furtive, mais les Vesbes ont voté pour décider que Vesper devait aller prendre son premier repas de la journée.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.6567,
+        "width": 0.445,
+        "height": 0.0972
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/9mo0w9vzr1m91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

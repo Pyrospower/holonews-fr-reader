@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "HoloCure, un jeu fait par un fan inspiré de Vampire Survivors et de Magic Survival, est sorti le 24 juin. Le jeu a été développé par Kay Yu, un animateur qui a, entre autres, travaillé comme concepteur de sprites pour River City Girls et plusieurs animations pour hololive. Il présente les personnages d'holoMyth, d'holoCouncil et IRyS, et d'autres sont prévus. II est disponible gratuitement sur itch.io (uniquement sur Windows pour le moment). alors n'hésitez pas à v ieter un œil",
+      "bbox": {
+        "x": 0.0806,
+        "y": 0.3325,
+        "width": 0.8388,
+        "height": 0.0642
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Let' S play",
+      "bbox": {
+        "x": 0.4088,
+        "y": 0.424,
+        "width": 0.1844,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "TOWNSCAPER",
+      "bbox": {
+        "x": 0.2094,
+        "y": 0.7808,
+        "width": 0.2238,
+        "height": 0.0091
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/x3gxo4a2haa91.png",
+    "gifFrame": null,
+    "confidence": 87
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_holoid03_debut_special_-_fr_version",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Après chaque début, les nouveaux membres d'holoIDO3 se sont réunis pour parler de leurs débuts et montrer leurs liens.",
+      "bbox": {
+        "x": 0.0269,
+        "y": 0.352,
+        "width": 0.4306,
+        "height": 0.0942
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils ont passé en revue les débuts de chacun puis elle ont parlé de leurs premières impressions, d'anecdotes et, bien sûr, de Kobo.",
+      "bbox": {
+        "x": 0.0275,
+        "y": 0.4844,
+        "width": 0.4381,
+        "height": 0.0964
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont montré une dynamique de groupe intéressante, Kaela agissant comme une maman, Zeta étant un traductrice maladroite, et Kono une kusogaki.",
+      "bbox": {
+        "x": 0.0269,
+        "y": 0.6168,
+        "width": 0.4381,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors du dernier de ces streams post-début, le trio a décidé d'appeler sa génération « HoloG3roids ».",
+      "bbox": {
+        "x": 0.0275,
+        "y": 0.776,
+        "width": 0.4456,
+        "height": 0.0707
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Souhaitons la bienvenue aux HoloG3roids dans la grande famille qu'est hololive !",
+      "bbox": {
+        "x": 0.0275,
+        "y": 0.8819,
+        "width": 0.4275,
+        "height": 0.0707
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1u9tyvayvis81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

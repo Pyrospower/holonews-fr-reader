@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_sana_special_issue_fr_ver",
+  "page": 19,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "@moonal",
+      "bbox": {
+        "x": 0.12,
+        "y": 0.4214,
+        "width": 0.06,
+        "height": 0.0087
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Replying to @tsukumosana",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.5512,
+        "width": 0.1906,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Love U forever... Thank U for everything!!",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.5751,
+        "width": 0.2638,
+        "height": 0.0369
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pavolia Reine (L 1 #)@#A 7 1 71D @pavoliareine",
+      "bbox": {
+        "x": 0.0994,
+        "y": 0.6254,
+        "width": 0.215,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Replying to @tsukumosana",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.6606,
+        "width": 0.1425,
+        "height": 0.0078
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Until the end, make lots of happy memories! @",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.9492,
+        "width": 0.2713,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "@shishirobotan",
+      "bbox": {
+        "x": 0.5488,
+        "y": 0.4462,
+        "width": 0.0763,
+        "height": 0.0056
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Replying to @tsukumosana",
+      "bbox": {
+        "x": 0.5769,
+        "y": 0.5681,
+        "width": 0.1306,
+        "height": 0.0069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "I will always wish you happiness and good health9 NENEXxSANA = BIG BIG LOVE! TSUKUNE!",
+      "bbox": {
+        "x": 0.5731,
+        "y": 0.5842,
+        "width": 0.3856,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kaela Kovalskia (h I 7) À @HA 7 4 71D kaelakovalskia",
+      "bbox": {
+        "x": 0.6444,
+        "y": 0.6298,
+        "width": 0.3063,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Replying to @tsukumosana",
+      "bbox": {
+        "x": 0.5838,
+        "y": 0.674,
+        "width": 0.1813,
+        "height": 0.0091
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ml8tgf1un4f91.png",
+    "gifFrame": null,
+    "confidence": 65
+  }
+}

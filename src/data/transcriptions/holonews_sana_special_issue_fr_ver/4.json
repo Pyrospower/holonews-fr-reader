@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_sana_special_issue_fr_ver",
+  "page": 4,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Question: What made you interested in Japan and vtubers in the first place?",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.4132,
+        "width": 0.3513,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: I wasn't interested much at first but back then there were some people whom wanted to be friends with so I tried to find out more about their interests. Around the time VTubers started to get popular they were everywhere and I couldn’t really get away from them so I decided to give them a shot, and I got really hooked on Fubuki and Korone.",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.4562,
+        "width": 0.3931,
+        "height": 0.125
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: Talking about your seniors, which senpais do you respect the most and why?",
+      "bbox": {
+        "x": 0.08,
+        "y": 0.6102,
+        "width": 0.3925,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: I respect Watame-senpai a lot. Fubuki and Korone were the ones who got me into hololive, as I really like their personalities on stream and how much they care about their viewers and interact with them, but Watame-senpai will always have a special place in my heart. She was the first senpai I ever got to collab and interact with, and she has such a big heart. I aspired to give off the same kind of warmth as well. She's such a treasure.",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.6532,
+        "width": 0.4056,
+        "height": 0.1536
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: Yes, we felt that warmth too! So then, what made you think, \"I'm glad to have joined hololive?\"",
+      "bbox": {
+        "x": 0.0788,
+        "y": 0.8359,
+        "width": 0.39,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: My genmates who have grown to become like my family. Meeting them made me glad that I took this opportunity. (°°)",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.8932,
+        "width": 0.3825,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: That's so nice! What were your impressions of them around the time of your debut, compared to your impressions of them now?",
+      "bbox": {
+        "x": 0.5344,
+        "y": 0.4132,
+        "width": 0.3981,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: I think all of them were quite shy at first, so I tried to sort of make fun of myself in order to get them to open up to one another. had hoped that Fauna would be the kind of person to say sadistic things to me, but she really is just the cutest sweetheart.",
+      "bbox": {
+        "x": 0.5337,
+        "y": 0.4848,
+        "width": 0.3994,
+        "height": 0.0851
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: Was that why you tweeted at her to step on you?",
+      "bbox": {
+        "x": 0.5337,
+        "y": 0.5955,
+        "width": 0.3881,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Maybe (5°) Overall, my impression of them at the beginning was great but it has only strengthened so much since then. I find all of them so capable and strong and now I firmly believe that they are all people that I can trust to be friends for life.",
+      "bbox": {
+        "x": 0.5337,
+        "y": 0.6376,
+        "width": 0.4075,
+        "height": 0.0859
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: That's really sweet, and we're sure they think the same of you too. They tell us all the time that you are always very hardworking. How do you stay focused while doing tasks?",
+      "bbox": {
+        "x": 0.5337,
+        "y": 0.7504,
+        "width": 0.4044,
+        "height": 0.0707
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: If I need to stay awake I listen to EDM or metal. I need something really heavy and beaty so I don't fall asleep. I don’t usually listen to metal any more but it does the trick when I need to be focused. I also make sure to only do things one at a time. Make a list, check it twice!",
+      "bbox": {
+        "x": 0.5337,
+        "y": 0.8364,
+        "width": 0.3994,
+        "height": 0.0964
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3idu6o1un4f91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

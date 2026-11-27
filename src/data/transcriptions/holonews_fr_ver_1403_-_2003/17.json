@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 17,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projet de fans",
+      "bbox": {
+        "x": 0.3644,
+        "y": 0.0299,
+        "width": 0.2706,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Projets des Bukatachi",
+      "bbox": {
+        "x": 0.1713,
+        "y": 0.194,
+        "width": 0.335,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les fans de Shien ont fait un jeu ! Ce jeu propose l'histoire des subordonnés de Shien préparant une fête d'anniversaire surprise pour celui-ci. Ils ont tenu une réunion secrète pour débattre de leur plan. Vu qu'ils ont fait une approche similaire l’année dernière, ils vont prendre une approche différente pour pouvoir le surprendre. Mais au milieu de leur plan quelque chose arriva…",
+      "bbox": {
+        "x": 0.0763,
+        "y": 0.2292,
+        "width": 0.8563,
+        "height": 0.0699
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les subordonnés se sont divisés en deux équipes : l’équipe de diversion qui a pour but de tenir le boss éloigné de leur planque, pendant que l’équipe de préparation s'occupe de rassembler les objets et de décorer la salle de la fête.",
+      "bbox": {
+        "x": 0.0769,
+        "y": 0.3095,
+        "width": 0.8606,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le résultat est un RPG concentré sur l’histoire où le joueur pourra incarner le boss ou les subordonnés. Le joueur peut choisir librement de commencer le jeu soit dans l'équipe de diversion ou l’équipe de préparation. Il est pour le moment disponible uniquement sur Windows.",
+      "bbox": {
+        "x": 0.0763,
+        "y": 0.3615,
+        "width": 0.8644,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4081,
+        "y": 0.4227,
+        "width": 0.185,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.4266,
+        "width": 0.2094,
+        "height": 0.0152
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0zxhnd61s5q81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

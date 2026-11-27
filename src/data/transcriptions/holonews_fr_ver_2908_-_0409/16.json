@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "e Mumei Mumei a été ajoutée comme navigatrice dans Groove Coaster: Wai Wai Party! En plus de cela, sa musique originale « A New Start » a été ajoutée au jeu, accomplissant son objectif d’apparaître dans un jeu de rythme. Mumei a également joué au jeu durant un stream, au cours duquel elle a chanté en maîtrisant à la perfection ses musiques et celles d'autres membres d’hololive.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.1697,
+        "width": 0.445,
+        "height": 0.1519
+      }
+    },
+    {
+      "type": "heading",
+      "text": "4 Mumei",
+      "bbox": {
+        "x": 0.0938,
+        "y": 0.3464,
+        "width": 0.2625,
+        "height": 0.0326
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La reprise de « Dan Dan Chikaku Naru » de 40mP par Mumei est de retour après avoir été temporairement retirée, et contient désormais deux nouvelles scènes !",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.3906,
+        "width": 0.4456,
+        "height": 0.0525
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ml Bae ED",
+      "bbox": {
+        "x": 0.0613,
+        "y": 0.6285,
+        "width": 0.2369,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Alors que la fin de la période estivale approche, Bae a sorti six mini-épisodes de Baewatch sur le theme de l'été. Venez regarder les filles, toutes doublées par Bae, prenant part à différentes activités sur la plage. On retrouve par exemple Hatsuna construisant un château de sable, Shiika jouant au volleyball et Murasaki nous demandant de lui mettre de la crème solaire (ne vous faites pas d'idées). Tous les épisodes sont illustrés et animés par taitan (@taitan89tos).",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.6736,
+        "width": 0.4463,
+        "height": 0.1272
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans sa quête pour faire évoluer le serveur Minecraft EN, Fauna a décidé de construire une ferme à invasion, la plus grande de tous les temps selon elle, ayant pour but un gain infini d'émeraudes et l'effondrement économique de Minecraft. Après avoir trouvé un endroit adapté à la construction, elle a visité le village à proximité. Reproduisant les actions plus que questionnables de ses ainés, Fauna a forcé les villageois à se reproduire pour obtenir assez de « main-d'œuvre » pour sa ferme.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.2444,
+        "width": 0.4456,
+        "height": 0.1415
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Tremblez, habitants du serveur EN, car bientôt vous aurez une reine, non pas ténébreuse mais aussi belle et terrible que l'aurore !",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.4023,
+        "width": 0.445,
+        "height": 0.0408
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kiara a subi une infidélité à cause d'un personnage qu'elle avait appelé Laplus pendant son stream de Cult of the Lamb. Un bug du jeu a mené deux personnages, Laplus et Broocoli Jr, à dormir dans le même lit. Malheureusement, Broocoli était le mari de Kiwawa dans le jeu, et elle les a surpris « l’un sur l’autre ». Ainsi, Kiara a légitimement puni Broocoli et a « demandé le divorce en le tuant une fois de plus ». Au moins, ce n’est pas la « salle habituelle ».",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.4996,
+        "width": 0.445,
+        "height": 0.1458
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli a annoncé vouloir rendre visite à Kronii prochainement. Elle a prévu de traîner la Gardienne du Temps dans un spa et de lui préparer plein de boissons. Repose en paix, foie de Kronii.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.7105,
+        "width": 0.445,
+        "height": 0.069
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1l9el6ckaqn91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

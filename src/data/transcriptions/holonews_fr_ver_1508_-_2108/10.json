@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gamers",
+      "bbox": {
+        "x": 0.1913,
+        "y": 0.0395,
+        "width": 0.1519,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "N'oubliez pas de précommander Earth Defense Force 6 pour obtenir le DLC hololive incluant Mio, Fubuki et Ayame. Elles peuvent étre utilisées comme leurre, distrayant les ennemis en chantant et en dansant.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.3247,
+        "width": 0.375,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après un stream Dragon Quest 6, Korone a remercié ses spectateurs sur Twitter pour l'avoir accompagnée pendant cette aventure. Elle a même réalisé des chapeaux Bisbave pour elle-même et Listener-kun (la mascotte de Korone). On peut y trouver un côté mignon si on y pense très fort.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.605,
+        "width": 0.3819,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.1713,
+        "y": 0.8546,
+        "width": 0.1,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu s’est isolée depuis le 23 août apres avoir été en contact avec Mel, qui a été testée positive au COVID-19. Elle n'a donc pas pu se Joindre à l'anniversaire de Mio, mais a malgré tout passé un appel. Nous attendrons patiemment le retour d’Okayu !",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.8932,
+        "width": 0.3869,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa a invité Mumei sur sa chaîne pour qu’elles s'apprennent mutuellement des phrases japonaises et anglaises. Parmi les moments les plus mémorables, on retrouve Towa apprenant à Mumei comment se présenter en japonais ainsi que les mots Japonais pour « civilisation » et « conseil ». Elle ui a également appris comment donner la date en lui donnant comme exemple sa date de début et son anniversaire. De son côté, Mumei a appris à Towa comment prononcer les nombres ordinaux en anglais et en quoi ils sont différents, contrairement en japonais où ils ont tous un système commun.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.2387,
+        "width": 0.3931,
+        "height": 0.171
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.6675,
+        "y": 0.4323,
+        "width": 0.1319,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "t to see it anymore @",
+      "bbox": {
+        "x": 0.615,
+        "y": 0.5434,
+        "width": 0.185,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.572,
+        "width": 0.1044,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori a joué au jeu de Marine lors d’un stream. Celui-ci a été créé quand Marine était au lycée et a été dévoilé lors d’un stream de Fubuki et Subaru le mois dernier. Koyori a doublé la totalité des dialogues. Marine a tweeté qu'elle ne voulait plus voir son jeu !",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.6085,
+        "width": 0.38,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 5",
+      "bbox": {
+        "x": 0.6781,
+        "y": 0.7218,
+        "width": 0.1106,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.895,
+        "width": 0.0869,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka a partagé sur sa chaîne une courte vidéo demandant à ses spectateurs : « Qu'est-ce qui est plus beau, moi ou les feux d'artifices ? » Alors, que choisirez-vous ?",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.9336,
+        "width": 0.3881,
+        "height": 0.0508
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/nuys91supok91.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Tout comme sa certification Twitter, le Magicarpe doré ne cesse d'échapper à Fubuki!",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2561,
+        "width": 0.4219,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a fait 8 streams Pokémon cette semaine, uniquement consacré à sa pêche, en vain. Pour rendre les choses encore plus amusantes, elle était accompagnée durant plusieurs de ces streams par Flare, qui a eu un Etourmi chromatique en 13 rencontres (qu'elle ne pouvait malheureusement pas capturer).",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3003,
+        "width": 0.4213,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Tout le long de sa session de pêche, Fubuki a tenté de changer de couleur à deux reprises. La première fois, elle a transformé un Magicarpe en Magicarpe doré en prétendant que c'était un vrai chromatique, et la deuxième fois, elle est devenue dorée pour tenter d'attirer un Magicarpe chromatique.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.4184,
+        "width": 0.4244,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuri a annoncé qu’elle tiendra un concert gratuit, « Natsuiro Winter Festival », le 11 décembre à 21h JST. Elle a affirmé la présence de 10 autres membres qui participeront en tant qu’invités.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7114,
+        "width": 0.4188,
+        "height": 0.0799
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a attrapé une « Rap Fever » et a produit deux autres morceaux de rap cette semaine, « RAP God chama » et « | Will Rock You ». Dans les deux, on ressent une amélioration notable depuis sa défaite face à La+. Les deux raps étaient accompagnés de sous-titres anglais pour les fans anglophones.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2556,
+        "width": 0.4238,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a aussi annoncé une BATTLE DE RAP (en tant que concours) pour dimanche prochain. Elle accepte les soumissions faites avec le hashtag #RAPCHAMA sur Twitter jusqu’au 12 décembre. Il y a une restriction sur les instruments qui peuvent être utilisés.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.3737,
+        "width": 0.4288,
+        "height": 0.0881
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Chose à noter, Fra de BOOGEY VOXX, qui a collaboré récemment avec Calli, a envoyé son rap pour ce concours.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.477,
+        "width": 0.4225,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour suivre la tendance des membres d’hololive obtenant leur certification, Haachama a falsifié sa propre marque de certification Twitter.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.7109,
+        "width": 0.4081,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Mel s'est amusée avec Marine lors d’une collab ASMR. Marine a beaucoup ri lors de ce stream pour plusieurs raisons, allant de l’absurdité de leurs dires, au moment où Mel a déclaré avoir les épaules raides après avoir utilisé un appareil de massage sur elle-même. Globalement, le stream a été une expérience agréable pleine de bruits obscènes et de gloussements de la part de Marine.",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.822,
+        "width": 0.4263,
+        "height": 0.1441
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8h12qa7rjq581.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats",
+      "bbox": {
+        "x": 0.4444,
+        "y": 0.0352,
+        "width": 0.1019,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Inochi: 750K [Astel/Kazuya] Identity: 100K",
+      "bbox": {
+        "x": 0.235,
+        "y": 0.079,
+        "width": 0.2525,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Nanawari Enemy: 100K",
+      "bbox": {
+        "x": 0.2194,
+        "y": 0.1146,
+        "width": 0.2681,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Botan] Will: 1M",
+      "bbox": {
+        "x": 0.35,
+        "y": 0.1437,
+        "width": 0.1363,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lui/Okayu] Identity: 500K",
+      "bbox": {
+        "x": 0.2613,
+        "y": 0.1615,
+        "width": 0.2263,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Council] Hikaru Nara: 750K",
+      "bbox": {
+        "x": 0.2425,
+        "y": 0.1793,
+        "width": 0.245,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Miko] Wakusei Loop Live: 100K [Calliope/Inoue] Yona Yona Journey: 500K [Anya] Marshall Maximizer: 250K [Shion/Okayu] Mrs Pumpkin no",
+      "bbox": {
+        "x": 0.1119,
+        "y": 0.197,
+        "width": 0.3756,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kokkei na Yume: 4M",
+      "bbox": {
+        "x": 0.3038,
+        "y": 0.2682,
+        "width": 0.1825,
+        "height": 0.0104
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "03/18 [Lui] Eye: 2M [Risu/Fonzi] Gurenge: 100K",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2969,
+        "width": 0.4363,
+        "height": 0.0356
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[JP Gen 0-4] Ochame Kinou: 35M [lzuru] Gaitou Ga Sabita Mama: 50K [AZKi/Gems] /tsumo Kokoni Iru: 75K [Aqua] Goodbye Sengen: 7M [Subaru/Ui] Adrenaline: 3M",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.3368,
+        "width": 0.32,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Towa] Palette: 4M",
+      "bbox": {
+        "x": 0.3231,
+        "y": 0.4258,
+        "width": 0.1631,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Baelz] Play Dice: 1M [Calliope] Envy Baby: 4M [Sora] Kimagure Romantic: 1M [Polka] Pastel Tea Time: 250K [lofi] Q&A=E | Kyawaii: 75K",
+      "bbox": {
+        "x": 0.2163,
+        "y": 0.4588,
+        "width": 0.2713,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Phony: 10M (02:74 15 [Watame] Ai Mai Chocolate: 2M [Towa] Fact: 2M 03 / 17",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.072,
+        "width": 0.4369,
+        "height": 0.0677
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Moona] High Tide: 1M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1441,
+        "width": 0.1994,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Fubuki] S'il Vous President: 2M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1619,
+        "width": 0.2788,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Koyori] Onegai Darling (Cover): 100K [Okayu] Yona Yona Dance (Cover): 250K [Fubuki/Akirose/Nomu/Shiro/Suzu]",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1797,
+        "width": 0.365,
+        "height": 0.049
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Milk and Fruit Song: 250K",
+      "bbox": {
+        "x": 0.5131,
+        "y": 0.2331,
+        "width": 0.2288,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Anya] Schema: 75K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2509,
+        "width": 0.1813,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Calliope/Gura] Q: 9M [Kanata] Call Boy: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2839,
+        "width": 0.21,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kronii] Daydream: 750K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3194,
+        "width": 0.2163,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lamy/Nene] Hitorigoto (Cover): 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3372,
+        "width": 0.3319,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Baelz] Happy Halloween: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.355,
+        "width": 0.2794,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] I Shared a Kiss with",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3728,
+        "width": 0.2444,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hatsune Miku: 500K",
+      "bbox": {
+        "x": 0.5131,
+        "y": 0.3906,
+        "width": 0.1794,
+        "height": 0.0104
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE ORIGINAL NOUVEAU",
+      "bbox": {
+        "x": 0.6831,
+        "y": 0.4588,
+        "width": 0.1081,
+        "height": 0.043
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nouvelles sorties",
+      "bbox": {
+        "x": 0.3181,
+        "y": 0.5634,
+        "width": 0.3619,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori ONEGAI DARLING",
+      "bbox": {
+        "x": 0.5131,
+        "y": 0.7135,
+        "width": 0.1631,
+        "height": 0.0556
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy & Nene",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.8971,
+        "width": 0.1613,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HITORIGOTO",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.9232,
+        "width": 0.4156,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.8971,
+        "width": 0.0775,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "heading",
+      "text": "YONA YONA DANCE",
+      "bbox": {
+        "x": 0.5131,
+        "y": 0.9197,
+        "width": 0.2213,
+        "height": 0.033
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/47e7fa61s5q81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 12,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "La récente cover de « Tabi no Tochuu » d'Ina s’est faite remarquer par Spicy Tails, les développeurs indépendants supervisés par l’auteur de Spice and Wolf, Isuna Hasekura.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2474,
+        "width": 0.4056,
+        "height": 0.0742
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "lls ont complimenté le travail d’Ina sur ses illustrations et animations.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.3377,
+        "width": 0.3956,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le « Smol Concert » de Calli a été un sacré succes, avec les paroles d'enfer de papa accompagnées de la nouvelle guitare du Ametaverse et de la scène de concert faite par DJ Ame. ll y avait même une partie dédiéeaux freestyles, avec des allusions à la possibilité de futurs streams d'entraînement au freestyle. Pour finir, elles ont visité la salle des accessoires.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.2509,
+        "width": 0.4225,
+        "height": 0.1094
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Accueillant Mio, l'épisode 19 est maintenant le plus long épisode d’Holotalk en date. Après quelques problèmes techniques, nos deux compères nous ont conté l'histoire du recrutement de Mio à hololive, révélant que l’idée de Yagoo derrière hololive Gamers était inspirée directement par l’amour des jeux de Mio.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5421,
+        "width": 0.8925,
+        "height": 0.0538
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'une des choses à retenir de cette interview est leur conversation sur le talent dont Mio fait preuve en tant qu’hôte de plusieurs collabs et groupes holoJP, de même que les difficultés et les défis que représentait cette tâche. Le stream contenaitt aussi une pléthore de sujetset des segments intéressants : une session de divination par Mio, une conversation sur l'éducatione des chat, et les efforts de Mio à apprendre l'anglais pour mieux communiquer avec ses fans étrangers.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.6137,
+        "width": 0.8963,
+        "height": 0.0712
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le tchat faisait pression sur Fauna pour qu’elle se dépêche de grimper sur Getting Over It, résultant en une erreur qui la renvoya directement plus bas. Elle réussit à remonter, avant de commettre une nouvelle erreur, la conduisant à fermer le jeu prématurément. Elle a passé le reste de son stream à lire ses Super Chats.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.8281,
+        "width": 0.4269,
+        "height": 0.1172
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mumei a rendu visite à Calli pendant son stream Pokémon de chasse au Giratina chromatique , et a reçu plein de conseils de la part de Calli sur une large palette de sujets (s'améliorer en tant que chanteuse, améliorer son insonorisation, les animaux de compagnie, etc.)",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8377,
+        "width": 0.4206,
+        "height": 0.1029
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/spyjo0p5i4781.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

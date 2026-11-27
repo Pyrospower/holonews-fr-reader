@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 1,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Anniversaire de e Hololive Expo",
+      "bbox": {
+        "x": 0.1306,
+        "y": 0.0117,
+        "width": 0.4513,
+        "height": 0.0169
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/e9jtowfnbjr81.png",
+    "gifFrame": null,
+    "confidence": 70
+  }
+}

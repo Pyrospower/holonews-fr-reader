@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1010_-_1610",
+  "page": 12,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2169,
+        "y": 0.0195,
+        "width": 0.5663,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Chloe] Zombies: 100K",
+      "bbox": {
+        "x": 0.3063,
+        "y": 0.0799,
+        "width": 0.185,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Koyori] S'il Vous President: TM",
+      "bbox": {
+        "x": 0.2394,
+        "y": 0.0964,
+        "width": 0.2506,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Okayu] Dokuhai Swallow: 500K [Kiara/Amelia] Dreamin Chuchu: 2M [Fuma/Uyu/Gamma/Rio] Brother Beat: 50K [Luna] Zettai Chuusei Nanonanora: 250K [Suisei] Sousei No Aquarion: 2M [Risu/Moona/lofi] H/-15: 750K",
+      "bbox": {
+        "x": 0.1331,
+        "y": 0.1128,
+        "width": 0.3581,
+        "height": 0.0946
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Okayu] Lazyroop: 250K",
+      "bbox": {
+        "x": 0.2969,
+        "y": 0.2227,
+        "width": 0.1963,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Astel] Boku Wa Kyou Mo: 100K [Aqua] Goodbye Sengen: 8M [lzuru] Ato No Matsuri: 75K",
+      "bbox": {
+        "x": 0.2375,
+        "y": 0.2391,
+        "width": 0.2563,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Temma] Cinderella Girl: 100K [Okayu] Cinderella Remix (Cover): 250K",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.2999,
+        "width": 0.3225,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Mumei/Baelz] Queen (Cover): 100K [Sora/Suisei/AZKi/Calliope/IRyS] Ifuudoudou (Cover): 750K",
+      "bbox": {
+        "x": 0.1931,
+        "y": 0.3438,
+        "width": 0.2981,
+        "height": 0.046
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.0213,
+        "y": 0.4106,
+        "width": 0.0763,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ORIGINALE",
+      "bbox": {
+        "x": 0.1906,
+        "y": 0.4106,
+        "width": 0.1069,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "NOUVEAU",
+      "bbox": {
+        "x": 0.3925,
+        "y": 0.4106,
+        "width": 0.0963,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.0319,
+        "y": 0.4601,
+        "width": 0.0656,
+        "height": 0.0069
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.0413,
+        "y": 0.5642,
+        "width": 0.0781,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "heading",
+      "text": "CINDERELLA (GIGA FIRST NIGHT REMIX)",
+      "bbox": {
+        "x": 0.0406,
+        "y": 0.5894,
+        "width": 0.4188,
+        "height": 0.0352
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.0319,
+        "y": 0.6454,
+        "width": 0.0663,
+        "height": 0.0069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kanata] Roshin Yuukai: 1M",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.0812,
+        "width": 0.2238,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Holostars] Magic Word Orchestra: 50K [Okayu/Ryushen] Non-breath Oblige: 500K [Koyori/Sora/Suisei/Subaru/Polka/Chloe] Kaibutsu: 4M [Holostars 1-3] We Are The Holostars!!: 75K",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.0977,
+        "width": 0.4556,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Okayu] Cinderella Remix (Cover): 100K",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.1636,
+        "width": 0.3225,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[lofi] Kagome: 100K",
+      "bbox": {
+        "x": 0.51,
+        "y": 0.1905,
+        "width": 0.16,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Aqua/Kanata] God-ish: 2M",
+      "bbox": {
+        "x": 0.51,
+        "y": 0.2075,
+        "width": 0.2238,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Reine] Ano Aozora No Sei Da: 250K [Fubuki] Kusaregedou to Chocolate: 500K [Holostars 1-3] We Are The Holostars!!: 100K [Baelz] A Million Miles Away: 500K [Reine/Kotone] RAD DOGS: 100K",
+      "bbox": {
+        "x": 0.51,
+        "y": 0.2244,
+        "width": 0.3613,
+        "height": 0.0777
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Petrichor: 100K",
+      "bbox": {
+        "x": 0.51,
+        "y": 0.3064,
+        "width": 0.1788,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kanata/La+] Lower: 500K [Kanata] Chuuku No Niwa: 250K [La+] Bitter Choco Decoration: 3M [Zeta] Aishite Aishite Aishite: 250K [Sora/Suisei/AZKi/Calliope/IRyS] Ifuudoudou (Cover): 500K",
+      "bbox": {
+        "x": 0.5094,
+        "y": 0.3346,
+        "width": 0.2731,
+        "height": 0.0951
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IFUUDOUDOU",
+      "bbox": {
+        "x": 0.5181,
+        "y": 0.5911,
+        "width": 0.4269,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.7496,
+        "width": 0.0663,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "heading",
+      "text": "BEGINNING",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.7778,
+        "width": 0.4031,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "heading",
+      "text": "4 ROUND AND ROUND {3 AND CIRCLUNA",
+      "bbox": {
+        "x": 0.1819,
+        "y": 0.9106,
+        "width": 0.7675,
+        "height": 0.0716
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/45g7zek97cw91.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

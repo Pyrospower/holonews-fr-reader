@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_holostars_-tempus-_debut_special",
+  "page": 2,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "holoTEMPUS",
+      "bbox": {
+        "x": 0.0375,
+        "y": 0.0395,
+        "width": 0.3944,
+        "height": 0.0317
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 15 juillet, le compte Twitter officiel d'hololive EN a publié un tweet avec marqué « Coming soon... » (Prochainement...), et un lien vers un site web inconnu. Puis, le 18 juillet, les fans ont recu des nouvelles concernant #holoTEMPUS",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.0924,
+        "width": 0.3606,
+        "height": 0.1827
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "hololive production a annoncé que HOLOSTARS English -TEMPUS- serait leur prochain groupe de VTubeur anglophone et qu'il débutera le 23 et 24 juillet !",
+      "bbox": {
+        "x": 0.0331,
+        "y": 0.3108,
+        "width": 0.3525,
+        "height": 0.138
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "TEMPUS est une guilde d'aventuriers formée sur les terres d'Elysium, un monde numérique créé après d'innombrables années passées à rechercher la paix et la perfection.",
+      "bbox": {
+        "x": 0.5,
+        "y": 0.4835,
+        "width": 0.415,
+        "height": 0.1133
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le nom TEMPUS symbolise un tournant dans la vie des membres fondateurs, qui cherchent à résister au statu quo et à changer le monde en tant qu'aventuriers.",
+      "bbox": {
+        "x": 0.5013,
+        "y": 0.6293,
+        "width": 0.45,
+        "height": 0.089
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le prologue d'un manga a été publiés avant leurs débuts. Celui-ci présente chacun des nouveaux talents et raconte comment ils se sont réunis pour former TEMPUS.",
+      "bbox": {
+        "x": 0.5006,
+        "y": 0.7504,
+        "width": 0.4406,
+        "height": 0.1102
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Félicitations aux quatre membres de TEMPUS pour leurs débuts au sein d'HOLOSTARS English !",
+      "bbox": {
+        "x": 0.5006,
+        "y": 0.8963,
+        "width": 0.4013,
+        "height": 0.0651
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/dzfp4g90eje91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

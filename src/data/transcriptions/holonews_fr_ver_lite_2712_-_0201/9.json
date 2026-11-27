@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2712_-_0201",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "DIVERS",
+      "bbox": {
+        "x": 0.1556,
+        "y": 0.0859,
+        "width": 0.2181,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holo EN",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3008,
+        "width": 0.1763,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les filles d’holoMyth viendront bientôt s'ajouter au catalogue des figurines de la gamme POP UP PARADE produites par Good Smile Company, créateurs des renommées figurines Nendoroid.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.3438,
+        "width": 0.4044,
+        "height": 0.0794
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un nouveau groupe d’idols a vu le jour, baptisé « Irohanihohetto Ayafubumi » et constitué d’Ayame, Fubuki et Mio. Le groupe a immédiatement sorti son premier single « ONIKEMODANCE » le 1er janvier 2022. Il est disponible sur Spotify, Youtube Music, Apple Music et Amazon Music.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7773,
+        "width": 0.42,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holo EN",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.3008,
+        "width": 0.1756,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hololive Production a annoncé l’ouverture d'auditions permanentes pour Hololive English (la branche anglaise), ce qui signifie que vous pouvez maintenant soumettre votre candidature à tout instant !",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3446,
+        "width": 0.42,
+        "height": 0.076
+      }
+    },
+    {
+      "type": "heading",
+      "text": "AFM-Radio",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.7348,
+        "width": 0.2519,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La nouvelle émission radio d’hololive « Emission radio routière des idols d’hololive - écoutez nos chansons ! » sera diffusée sur la station Nippon Cultural Broadcasting Super! A&G+ chaque dimanche à 17:30 JST ! L'émission sera animée par les membres de « Irohanihohetto Ayafubumi » le 9 janvier 2022.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.7773,
+        "width": 0.4219,
+        "height": 0.1276
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2d9gywcubhb81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

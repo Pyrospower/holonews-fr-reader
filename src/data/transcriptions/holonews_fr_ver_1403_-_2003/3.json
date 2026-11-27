@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 3,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bien sûr, des produits dérivés pour l'anniversaire ont été annoncés. Il y a :",
+      "bbox": {
+        "x": 0.0728,
+        "y": 0.7836,
+        "width": 0.4111,
+        "height": 0.0343
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un pack d'enregistrement",
+      "bbox": {
+        "x": 0.0956,
+        "y": 0.8376,
+        "width": 0.2978,
+        "height": 0.0166
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une taie d'oreiller",
+      "bbox": {
+        "x": 0.0956,
+        "y": 0.8553,
+        "width": 0.2078,
+        "height": 0.0131
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un tapis de souris à poitrine\n• Une peluche Kronies",
+      "bbox": {
+        "x": 0.0956,
+        "y": 0.8727,
+        "width": 0.3206,
+        "height": 0.0347
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une carte avec un autographe est offerte pour l'achat de l'ensemble complet.",
+      "bbox": {
+        "x": 0.0722,
+        "y": 0.9263,
+        "width": 0.3678,
+        "height": 0.0521
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kronii a fêté son anniversaire le 14 mars ! Elle a commencé la célébration en publiant une vidéo dans laquelle elle prépare un gâteau pour son anniversaire.",
+      "bbox": {
+        "x": 0.6022,
+        "y": 0.5197,
+        "width": 0.3356,
+        "height": 0.1053
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après la publication de la vidéo, Kronii a organisé une fête d'anniversaire. Elle a discuté un peu avec ses spectateurs et a organisé une session d'appel. Le reste de la branche anglaise ainsi que lofi, Ollie, Moona, Reine et Polka sont venus la féliciter. Kronii a également regardé le panneau d'affichage du NASDAQ à New York que ses deux serveurs fans ont acheté pour son anniversaire. Elle a même rejoint le serveur Discord « HololiveEN Fan Server », provoquant la panique des membres du serveur.",
+      "bbox": {
+        "x": 0.6017,
+        "y": 0.6439,
+        "width": 0.3494,
+        "height": 0.3256
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cyqkof61s5q81.gif",
+    "gifFrame": 101,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Un fantôme qui est mort en révant de devenir une idole. Il a passé ses premiers jours en tant que fantôme à ne rien faire, jusqu'à ce que, grâce à l'invitation de Fuma, il décide encore une fois de devenir une idole. Il ne peut pas faire face aux fantômes et aux choses effrayantes autres que lui-même.",
+      "bbox": {
+        "x": 0.0317,
+        "y": 0.1713,
+        "width": 0.575,
+        "height": 0.1478
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/obomnn56wis81.gif",
+    "gifFrame": 76,
+    "confidence": 84
+  }
+}

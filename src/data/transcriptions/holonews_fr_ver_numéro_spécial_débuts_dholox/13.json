@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
+  "page": 13,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Présentation des papas et mamans",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.0544,
+        "width": 0.895,
+        "height": 0.0301
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "@ Momoko",
+      "bbox": {
+        "x": 0.0472,
+        "y": 0.2928,
+        "width": 0.2656,
+        "height": 0.0764
+      }
+    },
+    {
+      "type": "other",
+      "text": "@momoco haru",
+      "bbox": {
+        "x": 0.1472,
+        "y": 0.348,
+        "width": 0.1522,
+        "height": 0.0127
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suivez et soutenez tous ces merveilleux artistes",
+      "bbox": {
+        "x": 0.5644,
+        "y": 0.5324,
+        "width": 0.3406,
+        "height": 0.0714
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "et riggers !",
+      "bbox": {
+        "x": 0.6417,
+        "y": 0.6119,
+        "width": 0.1878,
+        "height": 0.0239
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/wptkaxp8kc481.gif",
+    "gifFrame": 44,
+    "confidence": 81
+  }
+}

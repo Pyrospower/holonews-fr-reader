@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 8,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Luna a révélé que son groupe sanguin était C, pour « Cute is Justice ». Tous les résidents de Candy Kingdom ont le groupe sanguin C, y compris les Luknights.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2635,
+        "width": 0.4225,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "other",
+      "text": "> hololive",
+      "bbox": {
+        "x": 0.41,
+        "y": 0.355,
+        "width": 0.0638,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata et Towa ont officiellement formé leur propre groupe d'idols, et hololive cherche un nom pour le groupe. Vous pouvez soumettre vos idées dans le Google Form dont le lien se trouve dans les sources. La date limite est fixée au 6 mars.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5061,
+        "width": 0.425,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant le stream de Flare et Watame sur Raft, alors que Flare était partie aux toilettes, Watame a réalisé qu’elle pouvait faire ce qu'elle voulait à Flare pendant son absence. Elle allait embrasser quand Flare est revenue juste à temps, coupant Watame dans son élan. Une fois de plus, Watame n’a tout juste rien fait de mal !",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.77,
+        "width": 0.4269,
+        "height": 0.1237
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En parlant ladite langue, Watame a annoncé qu'elle apprenait à rapper en anglais avec Calli. Attendez-vous à un rap en anglais de la part de Watame dans l'avenir proche !",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.9119,
+        "width": 0.425,
+        "height": 0.0621
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa-sama a une fois de plus prouvé ses aptitudes sur les FPS en participant à ROYAL FLUSH, une compétition sur Rainbow 6 Siege organisée par X-MOMENT et sponsorisée par DoCoMo. Towa s’est alliée à Uruca (Crazy Raccoons), Kaga Nazuna (VSPO), Tachibana Hinano et Kurumi Noah au sein de l’équipe C. Participant à ce tournoi en tant que débutante sur R6S, Towa a fait preuve d’une grande capacité d'adaptation et a très vite pris la main. Elle est parvenue à suivre la cadence de son équipe sans les ralentir, et l'équipe C a réussi à prendre la deuxième place. Félicitations à Towa !",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.263,
+        "width": 0.4256,
+        "height": 0.2335
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa est de retour sur APEX avec une nouvelle collaboration pleine de rigolade, en compagnie cette fois d’Arisaka et Kinako du groupe Crazy Racoons. Comme d'habitude lorsque ces trois-là jouent ensemble, le stream ne pouvait pas être une collaboration comme les autres. Cette fois-ci, ils ont soudainement joué à pierre-feuille-ciseaux en pleine partie pour décider du meneur. De plus, Kinako a causé l'hilarité de Towa en réalisant ses techniques d’esquive pour échapper aux tirs ennemis.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.5169,
+        "width": 0.4244,
+        "height": 0.1866
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En plus d’être une jeune femme mature, Luna est maintenant « pog » ! Elle a récemment appris le mot, et a déclaré en stream qu'elle « était pog » avant de qualifier ses spectateurs de « pigs » (cochons).",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.8889,
+        "width": 0.4256,
+        "height": 0.0768
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ttokyiq7e0m81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

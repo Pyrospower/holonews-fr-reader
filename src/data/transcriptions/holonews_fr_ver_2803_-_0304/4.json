@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 4,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.5622,
+        "y": 0.0309,
+        "width": 0.4128,
+        "height": 0.0567
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Akai Haato, également connu sous le nom d'Haachama, a enfin reçu une nouvelle tenue ! Rien de plus approprié que de la révéler le 1er avril, et elle a même activé les Super chats sur son stream alors qu'elle les avait désactivés depuis janvier !",
+      "bbox": {
+        "x": 0.565,
+        "y": 0.1119,
+        "width": 0.3994,
+        "height": 0.091
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela faisait longtemps qu'Haato n'était pas sortie du néant, et cette fois-ci, elle l'a fait dans une robe blanche pleine de froufrous, décorée de nœuds rouges et serrant dans ses bras sa propre peluche Haaton ! Après avoir dévoilé sa tenue, elle a passé des appels durant lesquels elle jouait le fantasme de toute personne qui l'appelait.",
+      "bbox": {
+        "x": 0.5639,
+        "y": 0.218,
+        "width": 0.4017,
+        "height": 0.137
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko, bouche bée devant la gentillesse de Haato, lui a demandé d'être tsundere et a décidé de l'épouser. Watame a assisté à la dernière partie et a décidé d'oublier ce qui venait de se passer car elle voulait aussi entendre Haato se confesser à elle. Chloe lui a demandé de faire un mélodieux « moe moe kyun- », et en retour, Haato lui a demandé de prendre un bain, provoquant la fuite immédiate de Chloe. Aki a souhaité entendre l'ancienne salutation de Haato une fois de plus et s'est faite couper la tête (dans le cadre de la même salutation), puis elles ont promis de jouer à Minecraft ensemble une autre fois. Ollie est arrivé en criant comme d'habitude et a immédiatement demandé Haato en mariage, mais Haato a refusé parce qu'elle était déjà fiancée à Miko et Watame et a demandé à Ollie de se contenter d'un simple baiser.",
+      "bbox": {
+        "x": 0.5644,
+        "y": 0.37,
+        "width": 0.3961,
+        "height": 0.3187
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après les appels, elle a finalement montré son côté chaotique et s'est tordue de douleur comme jamais auparavant, et a déclaré qu'elle ne jouerait plus jamais cette personnalité calme.",
+      "bbox": {
+        "x": 0.5644,
+        "y": 0.7037,
+        "width": 0.395,
+        "height": 0.076
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8yufcbu6qws81.gif",
+    "gifFrame": 105,
+    "confidence": 94
+  }
+}

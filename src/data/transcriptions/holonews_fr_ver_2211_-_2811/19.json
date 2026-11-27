@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 19,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENTS PALIERS A VENIR D'ABONNÉS",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.0305,
+        "width": 0.8411,
+        "height": 0.0725
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 1er décembre : Anniversaire d’Aqua",
+      "bbox": {
+        "x": 0.0672,
+        "y": 0.1354,
+        "width": 0.4017,
+        "height": 0.0166
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 4 décembre : Anniversaire du début d'Ollie",
+      "bbox": {
+        "x": 0.0672,
+        "y": 0.1701,
+        "width": 0.3989,
+        "height": 0.0301
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 5 décembre : Anniversaire du début d’Anya",
+      "bbox": {
+        "x": 0.0672,
+        "y": 0.2218,
+        "width": 0.3989,
+        "height": 0.0343
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 6 décembre : Anniversaire du début de Reine",
+      "bbox": {
+        "x": 0.0672,
+        "y": 0.2743,
+        "width": 0.3989,
+        "height": 0.0301
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 7 décembre : Anniversaire du début de Mio et d’Astel",
+      "bbox": {
+        "x": 0.0672,
+        "y": 0.326,
+        "width": 0.3989,
+        "height": 0.0309
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un numéro dédié au début de holoX, la 6e génération de la branche JP, va sortir dans les jours à venir.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.4865,
+        "width": 0.4156,
+        "height": 0.054
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci!",
+      "bbox": {
+        "x": 0.3722,
+        "y": 0.5802,
+        "width": 0.2583,
+        "height": 0.0351
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester a jour sur tout ce qui se rapporte a hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner",
+      "bbox": {
+        "x": 0.0756,
+        "y": 0.6323,
+        "width": 0.8472,
+        "height": 0.0976
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "un coup de main à la création de HoloNews !",
+      "bbox": {
+        "x": 0.1367,
+        "y": 0.7311,
+        "width": 0.725,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Holonews 221 Online © 503 Members … © CG Following",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.7836,
+        "width": 0.3933,
+        "height": 0.0976
+      }
+    },
+    {
+      "type": "other",
+      "text": "HoloNews | 10/11-10/17 issue out now",
+      "bbox": {
+        "x": 0.3122,
+        "y": 0.8931,
+        "width": 0.2483,
+        "height": 0.0089
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.1917,
+        "y": 0.934,
+        "width": 0.75,
+        "height": 0.0255
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/kd71wpdmjr381.gif",
+    "gifFrame": 8,
+    "confidence": 89
+  }
+}

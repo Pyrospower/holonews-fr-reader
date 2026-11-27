@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 1,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "La revue de sacs de Kiara e hololive summer °",
+      "bbox": {
+        "x": 0.0231,
+        "y": 0.01,
+        "width": 0.6181,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magazine hebdomadaire d'actualités} r \\",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.1497,
+        "width": 0.3131,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "célèbre son 4e anniversal",
+      "bbox": {
+        "x": 0.0225,
+        "y": 0.3707,
+        "width": 0.2194,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.0238,
+        "y": 0.4588,
+        "width": 0.1681,
+        "height": 0.0378
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "explique sa situation",
+      "bbox": {
+        "x": 0.0225,
+        "y": 0.5061,
+        "width": 0.1888,
+        "height": 0.0469
+      }
+    },
+    {
+      "type": "other",
+      "text": "Le retour de Kurokami",
+      "bbox": {
+        "x": 0.7219,
+        "y": 0.01,
+        "width": 0.2631,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le troisieme anniversaire des débuts de",
+      "bbox": {
+        "x": 0.7369,
+        "y": 0.1836,
+        "width": 0.25,
+        "height": 0.0777
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Flare",
+      "bbox": {
+        "x": 0.8219,
+        "y": 0.2713,
+        "width": 0.1644,
+        "height": 0.0378
+      }
+    },
+    {
+      "type": "heading",
+      "text": "'Pekora",
+      "bbox": {
+        "x": 0.7256,
+        "y": 0.3628,
+        "width": 0.2588,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a atteint les 2 millions d’abonnés",
+      "bbox": {
+        "x": 0.7756,
+        "y": 0.4102,
+        "width": 0.2063,
+        "height": 0.079
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene \\",
+      "bbox": {
+        "x": 0.7463,
+        "y": 0.5352,
+        "width": 0.24,
+        "height": 0.1107
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "st de retour",
+      "bbox": {
+        "x": 0.7925,
+        "y": 0.5825,
+        "width": 0.1956,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moona A \\en a fini avec I'école",
+      "bbox": {
+        "x": 0.7606,
+        "y": 0.6463,
+        "width": 0.2288,
+        "height": 0.1159
+      }
+    },
+    {
+      "type": "other",
+      "text": "NE Vous voulez nous aider ? Rejoignez notre Discord ! pe",
+      "bbox": {
+        "x": 0.3525,
+        "y": 0.8611,
+        "width": 0.49,
+        "height": 0.1302
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/7cwhos56lwh91.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.1663,
+        "y": 0.1797,
+        "width": 0.1106,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans la dernière vidéo de la série 3D de Marine, notre pirate favorite a rêvé qu'elle avait perdu ses couettes. Elle les a cherchées sur sa tête et s'est rendue compte qu'il lui manquait des cheveux. Ses spectateurs se sont demandés si elle avait perdu sa capacité à voler et trouvaient qu'elle ressemblait à un oignon sans ses couettes.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3894,
+        "height": 0.1011
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1644,
+        "y": 0.3702,
+        "width": 0.1081,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora va faire une pause car elle a des nodules aux cordes vocales. Elle l'a expliqué en faisant des dessins sur Paint. Suisel fait actuellement une pause pour les mêmes raisons médicales. Le médecin de Pekora lui a dit qu'il lui faudrait peut-être environ deux mois pour se rétablir et qu'elle devait se reposer. Cependant, comme Pekora s'inquiète pour ses fans, elle a promis de publier des Shorts pendant sa pause pour qu'elle ne nous manque pas trop.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.4093,
+        "width": 0.3888,
+        "height": 0.1476
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après être tombée d'une falaise, Flare a perdu la mémoire. Le tchat a eu droit à un cri de sa part lorsqu'elle est tombée. Après sa réapparition, elle s'est demandée qui elle était, où elle était, et s'est mise à trébucher de peur un peu partout sur le serveur. Pendant son voyage Flare a fait face à des Endermen, qui l'ont tuée. Elle est finalement arrivée au château du roi démon de Miko, où elle a rencontré sa subordonnée, qui a essayé de lui rappeler qu'elle était le PDG de Shiraken et que Miko attendait le retour de son PDG. Mikochi a fini par convaincre Flare de mettre fin au stream et de se reposer à cause de son « amnésie de Minecraft ».",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.2183,
+        "width": 0.3856,
+        "height": 0.1984
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Flare & Polka",
+      "bbox": {
+        "x": 0.6869,
+        "y": 0.4783,
+        "width": 0.2044,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les deux membres de Shiraken se sont rencontrées en personne pour un karaoké en duo et ont chanté des chansons comme « Brave Heart », « BLUE CLAPPER », « Vampire » et la chanson originale de Flare, « Smile & Go!! ». Le stream était rempli de plaisanteries et de moments comiques tels que la chute de Polka de sa chaise.",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.5178,
+        "width": 0.375,
+        "height": 0.1011
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamers",
+      "bbox": {
+        "x": 0.4256,
+        "y": 0.6385,
+        "width": 0.1513,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Towa & Subaru",
+      "bbox": {
+        "x": 0.1781,
+        "y": 0.8008,
+        "width": 0.2356,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa a rejeté les baisers d'excuses de Subaru lors de leur collaboration sur RAFT avec Mio et Okayu. Après que Subaru ait accidentellement interrompu Towa, elle a tenté de s'excuser auprès d'elle en lui faisant des « bisous ». Mais Towa a exprimé son dégoût face à cette réaction, au grand dam de Subaru. Mio a ri face à cette interaction.",
+      "bbox": {
+        "x": 0.0669,
+        "y": 0.8359,
+        "width": 0.3913,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le défi de mixage vocal d'une heure de Kanata est de retour avec l'interprétation d'Iroha de « Night Patrol Sky of Tomorrow ». Comme d'habitude, Kanata a passé une heure à corriger la hauteur et le rythme et a terminé par des effets de post-production. Le résultat final était stupéfiant, et elles ont partagé leurs réactions respectives à la fin du stream.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.8359,
+        "width": 0.3919,
+        "height": 0.1072
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ha4s0lbndn191.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

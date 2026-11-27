@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "La camionneuse professionnelle Ayunda Risu a joué à Euro Truck Simulator, promettant de livrer ses marchandises dans les meilleurs délais et avec le plus de délicatesse. Même en conduisant de manière imprudente, souvent en excès de vitesse, Risu a étonnamment respecté le Code de la route, bien qu'avec une interprétation approximative. Elle évitait les autres véhicules sur la route, roulait du bon côté et utilisait même parfois son clignotant. Ceux qui avaient la chance d'être heurtés par le camion de Risu étaient isekai-ed comme un service supplémentaire en plus de la livraison ! Risu prévoit d'acheter le DLC à l'avenir, il y a donc de fortes chances que le jeu continue.",
+      "bbox": {
+        "x": 0.0669,
+        "y": 0.2183,
+        "width": 0.3913,
+        "height": 0.1892
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "@ Kaela Kovalskia (4 T 5) 4, @+ 7 5 { 71D when moonasenpai told me to put all the inventory in the chest to prevent loss after the maintenance, i didnt know that \"ender chest\" is not considered as the normal chest. i lost everything in my ender chest.......",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.4883,
+        "width": 0.4069,
+        "height": 0.0877
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "; ; - @ & big brain move as always &",
+      "bbox": {
+        "x": 0.0625,
+        "y": 0.5773,
+        "width": 0.2556,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "@ Kaela Kovalskia (à 5) A @ 15 { 7ID i just login to minecraft after a week and.......",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.6037,
+        "width": 0.2363,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kaela a suivi les instructions de Moona et a mis tout son inventaire dans un coffre avant la maintenance de Minecraft. Sans le savoir à l'époque, les coffres de l'End ne se comportent pas de la même manière que les coffres ordinaires et Kaela a malheureusement perdu plus de dix boites de Shulker complet d'objets. Imperturbable et déterminée, la forgeronne a pris cela comme une raison de se motiver.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.7218,
+        "width": 0.3781,
+        "height": 0.1163
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Airani iofifteen ({ + 7 4 )@hololivelD",
+      "bbox": {
+        "x": 0.5269,
+        "y": 0.0964,
+        "width": 0.2381,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hello everyone, my health suddenly has dropped and am now recovering, so I apologize that my birthday stream may have to be postponed. I will send another invitation later.",
+      "bbox": {
+        "x": 0.5269,
+        "y": 0.1315,
+        "width": 0.3969,
+        "height": 0.0499
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "I am so sorry for everyone who has waiting for the birthday streams and collabs",
+      "bbox": {
+        "x": 0.5275,
+        "y": 0.201,
+        "width": 0.3644,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "heading",
+      "text": "lofi",
+      "bbox": {
+        "x": 0.6306,
+        "y": 0.2726,
+        "width": 0.0531,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La célébration de l'anniversaire de lofi a été retardée en raison de ses problèmes de santé. Elle était toujours active sur Twitter, postant de petits messages, et a publié une nouvelle cover sur YouTube de « Dekat di Hati ». Ne manquez pas de la regarder ! Bon rétablissement, lofi !",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.3125,
+        "width": 0.3719,
+        "height": 0.0924
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "semaines d'arrêt à cause du COVID-19. Son stream de deux heures a détaillé ce qu'elle a fait pendant son absence, et combien le café lui manque. Les Zecretaries l'ont embêté en noyant le stream de Super Chats.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.7378,
+        "width": 0.3725,
+        "height": 0.0668
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/njk2ov55sqd91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

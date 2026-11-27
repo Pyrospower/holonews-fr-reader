@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "En jouant à Yakuza Zero, Subaru est finalement tombée sur la tristement célèbre scène du karaoké « 24-Hour Cinderella ».",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2678,
+        "width": 0.4113,
+        "height": 0.043
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a été tellement déstabilisée par la transition inattendue en idole de Majima qu'elle a décrite comme une « attaque psychologique ». Cependant, elle a quand même apprécié la scène et a rejoué la chanson afin de revoir la scène.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3147,
+        "width": 0.4013,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a mis en ligne l'enregistrement de son dernier Space Twitter SubaLuna. Il dure plus de 30 minutes et pèse près de 4 Go. Le lien de téléchargement est disponible jusqu'au 18 décembre.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.424,
+        "width": 0.4156,
+        "height": 0.0794
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "» a été élu à la première place des « Pro wrestling Popular rie a catégorie technique.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5547,
+        "width": 0.3762,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion a reçu une cape, une couronne et même des variantes d'oreilles de chat pour ses deux anciennes tenues, tandis qu'elle a reçu une baguette magique et un gros nœud pour sa nouvelle tenue de soubrette. Elle a déclaré que ces mises à jour font partie de la célébration de son anniversaire. Elle a également annoncé qu'elle recevra une figurine et que celle-ci est déjà en",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.7752,
+        "width": 0.415,
+        "height": 0.1549
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "production.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.9297,
+        "width": 0.1038,
+        "height": 0.0178
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 13 décembre, Ayame a fait le maximum pour chanter et danser de son mieux afin de fêter son anniversaire avec son public.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.2661,
+        "width": 0.4044,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Assurez-vous de soutenir Ayame lors de ses performances !",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.3125,
+        "width": 0.41,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ayame a recommencé à stream le 6 décembre. C'est son premier stream depuis son live d'anniversaire, soit il y a plus de deux mois. Dans ce stream",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.4657,
+        "width": 0.3906,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": ": 5 ; maintenant. Elle a également annoncé que sa figurine était en cours de production.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.5621,
+        "width": 0.4244,
+        "height": 0.0317
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a obtenu un nouveau surnom, « Chocoboss » ! Elle a été appelée ainsi parce que Miko a été impressionnée par ses 368 niveaux obtenus en tuant des Endermen. Depuis qu'elle a obtenu ce surnom, Choco a dit qu'elle voulait des lunettes de soleil pour coller avec son nouveau titre. Elle a demandé à ses fans de faire des fanarts d'elle avec des solaires. Préparez-vous à un tsunami de lunettes de soleil !",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.7752,
+        "width": 0.425,
+        "height": 0.1675
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5kftsfp5i4781.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

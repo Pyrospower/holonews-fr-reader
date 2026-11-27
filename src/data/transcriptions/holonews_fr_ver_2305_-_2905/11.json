@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2305_-_2905",
+  "page": 11,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dans le dernier épisode de sa série « am zoo », Kiara s'est transformée en dauphin... en 3D.",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.2183,
+        "width": 0.3963,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina a parlé des vacances de Kiara avec Reine et a dit qu'elle aimerait partir aussi au lieu de passer son temps a dessiner. Elle a noté qu'elle regrettait de ne pas l'avoir fait et qu'elle aurait aimé se couper d'internet et se reposer dans un endroit isolé. La prêtresse a exprimé en plaisantant son désir de gifler l'Ina du passé pour avoir été trop occupée pour prendre des congés. Les Takodachi se sont immédiatement précipités pour défendre l'Ina du passé, affirmant qu'elle était leur préférée et qu'ils voulaient plutôt une gifle. Ina, cependant, a rejeté leur idée, disant qu'elle giflerait plutôt YuuYuu (son tako en peluche).",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.4323,
+        "width": 0.39,
+        "height": 0.1879
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bae a fait beaucoup de collaborations sur Apex ces derniers temps. Son équipe comprend généralement Mumei et un membre d'une autre branche d'hololive. Elles ont joué un nouveau rang créé pour les débutants qui n'ont jamais été classés auparavant avec Choco. Avec Towa, elles ont joué quelques parties non-classé. Bae a aidé Mumei et les membres japonais à communiquer en traduisant leurs paroles pendant le jeu, et parfois les japonaises ont essayé de parler anglais elles-mêmes. Apex a commencé une nouvelle saison, il sera donc intéressant de voir avec qui Bae jouera la prochaine fois.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.7982,
+        "width": 0.3881,
+        "height": 0.1879
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 18 mai, Calli a sorti un clip pour « MERA MERA », la deuxième chanson de son nouveau mini-album, SHINIGAMI NOTE. La musique a été composée par Giga, les paroles ont été écrite par Calli et JUTH, et le clip, réalisé par maxila, avec le modèle 3D de Calli. Avant la première, Calli a animé un compte à rebours au cours duquel elle a présenté aux spectateurs des séquences de la vidéo et parlé de la création de la chanson et de sa collaboration avec Giga. Sur une note plus sérieuse, Calli ne se sent pas bien ces derniers temps, elle ne streamera pas de jeu pendant un moment. Écoutons « MERA MERA » et attendons son retour !",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.2188,
+        "width": 0.3888,
+        "height": 0.1984
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bae, connu pour son addiction au café, a récemment parlé de son obsession pour un bonbons au café indonésiens, le Kopiko, qui est la raison de son addiction. Bae adore le Kopiko depuis des années et a même parfois fait un « café-ception » en mangeant un Kopiko avec un café. Un jour, cependant, elle s'est rendu compte que le Kopiko est composé de 50% de sucre, et elle en mange habituellement trois... à la fois. Elle a envisagé de jeter le reste des bonbons, mais a décidé de les conserver et de n'en manger qu'un par jour. Bonne chance, Bae.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.599,
+        "width": 0.3894,
+        "height": 0.1745
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/mwlahcjpo1391.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

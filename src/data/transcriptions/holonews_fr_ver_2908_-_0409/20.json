@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 20,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "6 septembre: Anniversaire de Kurokami",
+      "bbox": {
+        "x": 0.0775,
+        "y": 0.1046,
+        "width": 0.3275,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 7 septembre: 5e anniversaire des débuts de Sora et un concert en direct",
+      "bbox": {
+        "x": 0.0563,
+        "y": 0.1502,
+        "width": 0.3894,
+        "height": 0.0425
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 8 septembre: 3e anniversaire des débuts d'Aruran",
+      "bbox": {
+        "x": 0.0563,
+        "y": 0.2109,
+        "width": 0.3894,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 8 septembre: Anniversaire de Botan",
+      "bbox": {
+        "x": 0.0563,
+        "y": 0.2565,
+        "width": 0.3488,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 9 septembre: Anniversaire de Reine",
+      "bbox": {
+        "x": 0.0563,
+        "y": 0.3021,
+        "width": 0.3488,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 10 septembre: Annonce spéciale d'Area15",
+      "bbox": {
+        "x": 0.0563,
+        "y": 0.3472,
+        "width": 0.38,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 12-13 septembre: Les 2 ans d'holoMyth",
+      "bbox": {
+        "x": 0.0563,
+        "y": 0.3932,
+        "width": 0.3188,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "vd e Crédits Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive,",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.6654,
+        "width": 0.54,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ls . © n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participe et donner un coup de main à la",
+      "bbox": {
+        "x": 0.0575,
+        "y": 0.7778,
+        "width": 0.5838,
+        "height": 0.066
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "création d'HoloNews !",
+      "bbox": {
+        "x": 0.0575,
+        "y": 0.8433,
+        "width": 0.2944,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d'avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0575,
+        "y": 0.8737,
+        "width": 0.2863,
+        "height": 0.0386
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lcf2saokaqn91.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "M collab",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.0304,
+        "width": 0.4288,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vesper et Baelz ont organisé un challenge ou ils devaient montrer quelque chose des cultures boomer et zoomer et l’autre devait deviner ce que c'est. Du côté de Vesper, il y avait des choses comme des Heelys, un taille-crayon que Bae pensait être un hachoir à viande, des tamagochis, ou encore un connecteur RCA. Bae a montré un avolatte dessiné par Magni, « hit the whoa » qu’elle va forcer Vesper à faire lorsqu'il aura son modèle 3D et un glitterbutts dessiné par Zeta. Ils étaient à égalité mais Vesper a sans aucun doute perdu le plus de sa raison.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.0755,
+        "width": 0.4444,
+        "height": 0.1693
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Going on summer workation with watame senpai l’m so excited I can’t sleep aaaaaaa§§",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.3277,
+        "width": 0.4244,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.3963,
+        "y": 0.4201,
+        "width": 0.21,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "other",
+      "text": "NINTENDC",
+      "bbox": {
+        "x": 0.2894,
+        "y": 0.4878,
+        "width": 0.05,
+        "height": 0.0043
+      }
+    },
+    {
+      "type": "heading",
+      "text": "8. glitterbutts",
+      "bbox": {
+        "x": 0.7619,
+        "y": 0.1367,
+        "width": 0.1769,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "6. AVOLATTE PP",
+      "bbox": {
+        "x": 0.5488,
+        "y": 0.1432,
+        "width": 0.1575,
+        "height": 0.0655
+      }
+    },
+    {
+      "type": "other",
+      "text": "art: magni dezmond",
+      "bbox": {
+        "x": 0.5956,
+        "y": 0.2387,
+        "width": 0.0644,
+        "height": 0.0056
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "IRyS et Watame ont annoncé qu’elles allaient en vacances ensemble. Espérons qu'ils s'amusent bien !",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.3307,
+        "width": 0.445,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "% Let's play terminés",
+      "bbox": {
+        "x": 0.6606,
+        "y": 0.4245,
+        "width": 0.23,
+        "height": 0.0152
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/jp7n1whkaqn91.png",
+    "gifFrame": null,
+    "confidence": 80
+  }
+}

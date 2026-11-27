@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Nene a préfiguré l'arrivée du printemps avec un nouveau design basé sur sa deuxième tenue décontractée. On retrouve une paire de rubans et de chaussures à semelles compensées de couleur verte, des chaussettes à dentelles et motifs pétales de cerisiers, une longue robe rose et un haut raffiné à rayures roses et vertes révélant ses épaules et pouvant être retiré. Les deux rubans sur sa tête et celui autour de son cou ont également changé de couleur, devenant respectivement vert et rouge. Le design printanier est en partie interchangeable avec la version originale à jupe bleue.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.0772,
+        "width": 0.3006,
+        "height": 0.294
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.0817,
+        "y": 0.4884,
+        "width": 0.2811,
+        "height": 0.0424
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuri a ajouté une troisième corde à l'arc de son apparence Loli Matsuri avec cette fois-ci un design décontracté. Un Matsurisu a élu domicile au sommet de sa tête, et ses cheveux sont maintenant attachés en couettes par des épingles à cheveux à fleurs. Sa robe laissant ses épaules à nu rappelle son design original, avec un motif à rubans verts en forme de corset en son centre, une épaisse ceinture autour de sa taille et une jupe orange bordée de dentelles noires recouvrant ses jambes. Elle porte également des chaussettes montant jusqu'à ses mollets sur lesquelles un chat est clipsé, sous des chaussures noires comprenant un ruban sur la boucle. Un sac en tissu assorti vient compléter son apparence.",
+      "bbox": {
+        "x": 0.0756,
+        "y": 0.5502,
+        "width": 0.305,
+        "height": 0.338
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/r0t33dt6qws81.gif",
+    "gifFrame": 101,
+    "confidence": 95
+  }
+}

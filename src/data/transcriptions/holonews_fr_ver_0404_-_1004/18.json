@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projets de fans et divers",
+      "bbox": {
+        "x": 0.2638,
+        "y": 0.0317,
+        "width": 0.4706,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer l'anniversaire de la faucheuse, les Dead Beats ont mis en avant quatre cartes de fan artworks et de messages de célébration.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.1424,
+        "width": 0.3888,
+        "height": 0.0412
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des Onigiriyas du monde entier se sont rassemblés sur le serveur Discord « Okayu Fan Discord » et ont créé une oeuvre collaborative regroupant des fanarts et signatures pour célébrer le 3e anniversaire d'Okayu !",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.1445,
+        "width": 0.3906,
+        "height": 0.0707
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4088,
+        "y": 0.4227,
+        "width": 0.1844,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.4266,
+        "width": 0.2094,
+        "height": 0.0152
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/zaqhfz59qau81.png",
+    "gifFrame": null,
+    "confidence": 87
+  }
+}

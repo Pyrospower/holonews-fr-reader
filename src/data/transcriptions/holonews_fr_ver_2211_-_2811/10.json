@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "SUNTEMPO",
+      "bbox": {
+        "x": 0.1006,
+        "y": 0.0725,
+        "width": 0.3263,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a tenu un stream karaoké coupé en deux parties. La première partie était centrée sur des chansons énergiques et entraînantes, tandis que la seconde partie était composée de chansons émotionnelles. Durant la première partie, il a rappé sur « W.l.M. », un titre original d’Arurandeisu ; alors que dans la seconde partie, il a interprété un grand nombre de chansons de Vaundy et de Supercell.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2852,
+        "width": 0.4263,
+        "height": 0.1558
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant ce stream, il a mentionné avoir beaucoup pleuré pendant sa discussion avec l’équipe de management concernant ses futurs projets. Il a également ajouté qu'il allait prendre une pause pendant quelque temps après sa rencontre Apex avec lzuru et Odanobu (un VTuber indépendant).",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.457,
+        "width": 0.4244,
+        "height": 0.1089
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shien a fait de l'ASMR avec un micro conçu à cet effet, et a donné l’ancien à Miyabi. Pendant le stream, Shien se comportait pour une fois de façon appropriée, lorsqu'il s'est mis a donner des répliques de doublage et à jouer du kalimba. Il se mit ensuite à faire des bruits plus que douteux durant l'heure qui suivit.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.8255,
+        "width": 0.4163,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Temma comptait faire une collab avec Miyabi de 14h à 18h JST, mais Miyabi ne s'étant pas réveillé à temps, Temma a lancé son stream seul et a demandé aux gens de venir I'encourager. Durant l'attente, il a appelé Miyabi « senpai » et « Hanasaki-san », chose qu'il ne fait pas souvent. Miyabi s’est enfin montré après 30 minutes d'attente et Temma a finalement eu sa collab avec lui.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2856,
+        "width": 0.4131,
+        "height": 0.1563
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roberu est de retour dans les paris hippiques avec la Japan Cup G1 Horse Race qui s’est déroulée le 28 novembre. En dépit de ses efforts et malgré son titre de « winning son », Roberu n’a pas réussi à gagner une course de chevaux, le poussant à gémir de désespoir.",
+      "bbox": {
+        "x": 0.62,
+        "y": 0.4766,
+        "width": 0.3406,
+        "height": 0.0964
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Oga a visionné Venom en stream avec ses spectateurs, tout en faisant de l'ASMR. On avait vraiment l'impression qui se trouvait derrière nous, et il a même évoqué des films Spiderman.",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.8338,
+        "width": 0.4125,
+        "height": 0.0855
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ne64drdmjr381.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

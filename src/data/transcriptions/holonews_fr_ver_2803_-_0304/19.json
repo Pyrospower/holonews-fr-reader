@@ -1,0 +1,468 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 19,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0321,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Calliope/Gura] Q: 10M",
+      "bbox": {
+        "x": 0.3013,
+        "y": 0.0773,
+        "width": 0.185,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lamy/Nene] Hitorigoto: 250K [Aqua/Okayu] Sakura No Ame: 500K [Miyabi] Kaika Sengen: 25K",
+      "bbox": {
+        "x": 0.1888,
+        "y": 0.0938,
+        "width": 0.2988,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Risu] ALICE&u: 500K",
+      "bbox": {
+        "x": 0.3088,
+        "y": 0.1432,
+        "width": 0.1788,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lui] Mira: 500K [Moona] Gekkou: 250K",
+      "bbox": {
+        "x": 0.3006,
+        "y": 0.1749,
+        "width": 0.1869,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nene] Momonone: 500K",
+      "bbox": {
+        "x": 0.2838,
+        "y": 0.2079,
+        "width": 0.2037,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Zeta] Zankyosanka (Cover): 250K [Chloe] Jinsei Reset Button Pochi -w: 750K [HoloEN 1/2/Hope] Ochame Kinou: 6M [Chloe] Kagayakashi: 250K",
+      "bbox": {
+        "x": 0.1394,
+        "y": 0.2244,
+        "width": 0.3481,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kanata] Fragile: 750K",
+      "bbox": {
+        "x": 0.3063,
+        "y": 0.2904,
+        "width": 0.1813,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[IRyS] Identity: 500K",
+      "bbox": {
+        "x": 0.3219,
+        "y": 0.3069,
+        "width": 0.1656,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "04 / 01 [Suisei] Comet: 5M [Nene] Nenenene Daibakusou: 750K",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.3333,
+        "width": 0.4381,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Hatokkai Solar Cycle (Animated): 75K",
+      "bbox": {
+        "x": 0.1263,
+        "y": 0.3711,
+        "width": 0.3613,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Kurogane No Mamoribito: 100K",
+      "bbox": {
+        "x": 0.1763,
+        "y": 0.3876,
+        "width": 0.3113,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Over Light: 25K",
+      "bbox": {
+        "x": 0.3069,
+        "y": 0.4041,
+        "width": 0.1806,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Mumei] A New Start: 2M [NePoLaBo] Mr Music: 750K",
+      "bbox": {
+        "x": 0.2569,
+        "y": 0.4358,
+        "width": 0.2306,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Champagne Days: 1M",
+      "bbox": {
+        "x": 0.2406,
+        "y": 0.4688,
+        "width": 0.2456,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Ame] Ookami Blues (Cover): 75K [Uproar] Envy Baby x King (Cover): 50K [Choco/Subaru/Luna] Kami No Manimani: 500K [Korone/Noel/Marine/Lamy] Friend Shitai: 500K [Fubuki/Shien] Roki (Cover): 100K",
+      "bbox": {
+        "x": 0.1013,
+        "y": 0.4852,
+        "width": 0.3863,
+        "height": 0.0781
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Aqua] Aqua Iro Palette: 6M",
+      "bbox": {
+        "x": 0.2638,
+        "y": 0.5677,
+        "width": 0.2225,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Astel/Oga] Garando: 100K",
+      "bbox": {
+        "x": 0.2681,
+        "y": 0.5842,
+        "width": 0.2194,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "IRyS AKATSU KI TO HAN",
+      "bbox": {
+        "x": 0.2725,
+        "y": 0.6662,
+        "width": 0.1306,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rio",
+      "bbox": {
+        "x": 0.0406,
+        "y": 0.7587,
+        "width": 0.02,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "KIMI NO MYAKU DE ODORITAKATTA",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.7708,
+        "width": 0.1844,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calvin",
+      "bbox": {
+        "x": 0.51,
+        "y": 0.9431,
+        "width": 0.0394,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "MY REALITY",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.9549,
+        "width": 0.08,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Stellar Stellar: 8M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.0773,
+        "width": 0.2063,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kobo] Mantra Hujan: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.0938,
+        "width": 0.22,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Ollie] Medllie (Covers): 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1102,
+        "width": 0.2363,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Uso Uso Uso Uso: 75K [Aqua/Fubuki/Mio/Rushia/Marine/Kanata] Umapyoi Densetsu: 3M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1267,
+        "width": 0.3325,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Aruran] W.I.M.: 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1762,
+        "width": 0.1744,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] King: 9M [Aqua] / Wanna: 1M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2079,
+        "width": 0.16,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Kanata/Ui] Campanella: 250K [Astel] Hokori Takaki Aidoru: 100K [Okayu] Yona Yona Dance: 750K [Calliope] UnAlive: 1M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2409,
+        "width": 0.2769,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Template: 500K [Aqua] Hokori Takaki Aidoru: 1M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.322,
+        "width": 0.2613,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Okayu/Korone] U&/ (Cover): 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.355,
+        "width": 0.2813,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Calliope/Boogey Voxx] Graveyard Shift: 3M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3715,
+        "width": 0.355,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Rio] Kimi no Myaku de Odoritakatta (Cover): 10K [Moona/Reine] Kawaiiku Naritai: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.388,
+        "width": 0.4006,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Shion/Aqua] Nee Nee Nee: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.421,
+        "width": 0.2731,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Matsuri] Kokoronashi: 4M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4375,
+        "width": 0.21,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.4701,
+        "width": 0.1019,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ORIGINAL NOUVEAU",
+      "bbox": {
+        "x": 0.6738,
+        "y": 0.4692,
+        "width": 0.2781,
+        "height": 0.0126
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei & Calli WICKED Amelia ÉLUES",
+      "bbox": {
+        "x": 0.5069,
+        "y": 0.6645,
+        "width": 0.1469,
+        "height": 0.1315
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "TEMPLATE 7 |. AZKi Las LIGHT",
+      "bbox": {
+        "x": 0.735,
+        "y": 0.6793,
+        "width": 0.2213,
+        "height": 0.1285
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Zeta",
+      "bbox": {
+        "x": 0.7438,
+        "y": 0.8503,
+        "width": 0.0281,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ZANKYOU SANKA",
+      "bbox": {
+        "x": 0.7438,
+        "y": 0.862,
+        "width": 0.095,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ROKI",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.8633,
+        "width": 0.0806,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calvin",
+      "bbox": {
+        "x": 0.745,
+        "y": 0.9431,
+        "width": 0.0394,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "heading",
+      "text": "MONEY",
+      "bbox": {
+        "x": 0.7456,
+        "y": 0.9562,
+        "width": 0.1288,
+        "height": 0.0143
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/w3lnk4t6qws81.png",
+    "gifFrame": null,
+    "confidence": 85
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1010_-_1610",
+  "page": 9,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "La barrière de collaboration entre Anglaise d’hololive production et de NIJISANJI a été brisée! Altare Regis et Alban Knox de Noctyx ont fait une collab sur Terraria ce 15 Octobre. Alors qu'ils ont demandé à leur tchat de faire comme si c'était une collab entre amis, ils étaient clairement remplis de joie",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.2057,
+        "width": 0.4463,
+        "height": 0.0777
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "les branches",
+      "bbox": {
+        "x": 0.375,
+        "y": 0.2062,
+        "width": 0.1138,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "et d'enthousiasme sachant vraiment bien.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.2843,
+        "width": 0.2525,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des cadeaux ont été échangés dans le jeu, avec un tabouret en bois pour Alban qu'il a failli jeter à la poubelle par réflexe, des vêtements, ainsi que d'autres objets afin qu'ils puissent progresser! lls ont également échangé sur pas mal de sujets et des idées de collab potentielles. Cette collab était un grand sujet de discussion pour leurs managers, qui se sont battus pour qu'elle devienne réalité.” Altare était extatique quand il a vu les retours très positifs de la communauté lorsqu'ils ont annoncé la collab. Montrons tout notre soutien et notre amour à Altare !",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.3229,
+        "width": 0.4463,
+        "height": 0.1402
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.1194,
+        "y": 0.4774,
+        "width": 0.0988,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'ordinateur d'Astel est héroïquement mort dans l’accomplissement de ses tâches. Plus tard dans la semaine, Astel est parvenu à avoir un nouvel ordinateur et est récemment devenu accro à Overwatch 2.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.5152,
+        "width": 0.4456,
+        "height": 0.0621
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ouais, on travaille.",
+      "bbox": {
+        "x": 0.2713,
+        "y": 0.6445,
+        "width": 0.0681,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant que Altare était en pause, il se pourrait qu'Axel ait été contraint de garder sa sœur, Kobo. Tous deux ont joué à VALORANT sur la chaîne de Axel bien sur ! Pendant qu'ils jouaient, Kobo et Axel n’ont pas cessé de se mettre des tacles, avec Kobo qui répétait à Axel qu'il était son chien et s'appelait en réalité « Brian ». Quand Astel les a rejoint, Kobo a demandé a « Brian » (donc Axel) d’aboyer. Ce dernier s'exécuta, ce qui renforça l'idée qu'Axel serait le chien de Kobo. Magni a même dit sur son stream que si c'était ce que voulait Kobo, et bien Brian existait bien.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.1949,
+        "width": 0.4463,
+        "height": 0.1428
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.7519,
+        "y": 0.3563,
+        "width": 0.1356,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La prétendue princesse d'holoID Kobo, a fait une autre collab VALORANT, avec cette fois-ci Gamma (d'UPROARI!!), Astel et Izuru (d'HOLOSTARS). Peut-être était-ce dû au fait que c'était sa première rencontre avec lzuru, ou bien que ce dernier est son membre favori, mais Kobo a essayé de rester aussi mignonne que possible. En plus de cela, elle a choisi une soigneuse (Sage), ce qui est assez inhabituel, et a soigné la plupart du temps lzuru, pendant que Gamma et Astel la taquinait sur ce point la, avec le soutien du tchat. Chose qui a agacé Kobo, au point de lui faire perdre son côté mignon. Astel est allé encore plus loin, en prenant Sage en premier lors d’une nouvelle partie, et en promettant qu'il ne soignerait qu’Izuru.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.3941,
+        "width": 0.4463,
+        "height": 0.1819
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/y0sg1r997cw91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

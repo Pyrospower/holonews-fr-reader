@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_holostars_-tempus-_debut_special",
+  "page": 1,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLONEWS",
+      "bbox": {
+        "x": 0.0238,
+        "y": 0.0208,
+        "width": 0.9525,
+        "height": 0.1415
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Magazine hebdomadaire d'actualités",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.1359,
+        "width": 0.2756,
+        "height": 0.0126
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Illustrati",
+      "bbox": {
+        "x": 0.7581,
+        "y": 0.1359,
+        "width": 0.0638,
+        "height": 0.0091
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "on par : @Esojiros IT = Ÿ /",
+      "bbox": {
+        "x": 0.8194,
+        "y": 0.1359,
+        "width": 0.1694,
+        "height": 0.0621
+      }
+    },
+    {
+      "type": "heading",
+      "text": "SPECIALE DEBUTS",
+      "bbox": {
+        "x": 0.0231,
+        "y": 0.9249,
+        "width": 0.9581,
+        "height": 0.0386
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/s3o8xm90eje91.png",
+    "gifFrame": null,
+    "confidence": 68
+  }
+}

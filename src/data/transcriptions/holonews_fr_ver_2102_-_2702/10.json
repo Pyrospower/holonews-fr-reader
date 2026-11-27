@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 10,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Korone a essayé de finir Battletoads d’une seule traite. Malgré 15 heures passées sur le jeu, elle s'est retrouvée bloquée sur un niveau en particulier et a été dans l'incapacité de progresser plus loin. Elle a dû arrêter de jouer, car ses doigts commencaient à enfler. Elle retentera sa chance après avoir obtenu une nouvelle manette.",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.2582,
+        "width": 0.4175,
+        "height": 0.1228
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori a économisé ses joyaux sur Uma Musume pour le gacha du 1er anniversaire du jeu, qui voit l'apparition d’un nouveau cheval : Kitasean Black, surnommée « Kita-chan » par Koyori. Elle avait accumulé environ 23 000 joyaux et 19 tickets dans le but de l'obtenir, mais même après avoir utilisé toutes ses économies dans de nombreuses invocations, Kita-chan lui est passée entre les doigts. Koyori a dû se résigner à acheter des joyaux et a enfin obtenu le cheval tant convoité après 199 tirages, à un cheveu du tirage garantissant une SSR.",
+      "bbox": {
+        "x": 0.0581,
+        "y": 0.6267,
+        "width": 0.4194,
+        "height": 0.1975
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori a réveillé son personnage de princesse et s’est lancé le défi de jouer à Getting Over It jusqu’à ce qu’elle abandonne. Après un peu plus d’une heure, et être retombée quatre fois au tout début du jeu, Koyori a jeté l'éponge et perdu le défi.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.8424,
+        "width": 0.4188,
+        "height": 0.112
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le lendemain de son anniversaire, Okayu a dévoilé une nouvelle coupe de cheveux pour son modèle 2D, avec deux franges différentes. En plus de ce vent de fraîcheur, elle a obtenu pour accessoires un nouveau casque gaming. Okayu a souligné le fait que sa couleur était assortie à celle de ses lunettes.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2591,
+        "width": 0.4106,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori va mettre son activité en pause le temps de son déménagement prévu pour le 2 mars. Cela ne devrait prendre qu’un jour, mais éventuellement plus en fonction du temps nécessaire à l'installation de son matériel et au raccordement à internet. Elle aimerait atteindre les 540 000 abonnés (54, en japonais, peut se lire « Koyo ») avant sa pause. Elle a rappelé à ses fans que plus de 400 heures de vidéos étaient disponibles pour les occuper durant son absence.",
+      "bbox": {
+        "x": 0.5313,
+        "y": 0.6267,
+        "width": 0.4163,
+        "height": 0.1671
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AsaKoyo Radio est une émission radio présentée par Koyori et diffusée chaque mardi et vendredi, qui comporte une section dans laquelle elle lit des répliques parmi celles proposées sur Twitter. De par son désir d'apprendre l'anglais, Koyori accepte maintenant des propositions dans la langue de Shakespeare avec le #AsaKoyoLines.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.8103,
+        "width": 0.4213,
+        "height": 0.1441
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/slpsxie8e0m81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

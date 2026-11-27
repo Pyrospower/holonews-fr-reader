@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_3005_-_0506",
+  "page": 7,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Subaru a essayé les grillardises pour la toute première fois lors de son parcours international de dégustation de sucreries. Calli lui en avait recommandé en disant que c'était « le goût américain ». Après avoir essayé la saveur fraise, Shuba a ressenti l'envie d'aller chez le dentiste. Après l'avoir mangé (non grillé), Subaru a déclaré que c'était vraiment le goût de l'Amérique.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2192,
+        "width": 0.3894,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En plus des grillardises, Shuba a également essayé des desserts recommandés par d'autres holomems. Kiara a conseillé les Kinder Country et Sana a recommandé le pain de fée. Kaela a suggéré le Kue Ape (crêpe traditionnelle populaire indonésienne), parfois connu sous le nom de Kue Tete (gâteau-nichon), mais malheureusement, Shuba n'a pas pu le faire elle-même. Finalement, Subaru a décidé que sa collation préférée était les biscuits Goldfish que Calli avait également suggérés.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.3537,
+        "width": 0.3863,
+        "height": 0.161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En jouant à Minecraft, notre elfe des bois locale a mentionné qu'elle prévoyait de faire une farce à Sora en l'amenant dans des ruines et en la surprenant avec des pierres infestées de poissons d'argent. Flare veut aussi partir à l'aventure avec Sora, car elle part rarement seule en exploration. Flare est impatiente de voir la réaction horrifiée de Sora lorsqu'elle lui fera une farce et affirme qu'une Sora effrayée est une Sora mignonne. Flare pense qu'elle n'est pas une mauvaise fille pour avoir planifié cela, car selon elle, « Flare n'a rien fait de mal ».",
+      "bbox": {
+        "x": 0.0894,
+        "y": 0.8199,
+        "width": 0.3894,
+        "height": 0.1545
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a révélé son interprétation du petit ami idéal lors d'un stream discussion. Selon elle, elle lui est insupportable d'être avec quelqu'un tout le temps. Elle souhaite donc quelqu'un qui n'aurait pas peur d'être séparé la plupart du temps. Choco a précisé que même si elle aime rencontrer des gens, l'idée d'être constamment avec quelqu'un la terrifie. Cependant, elle pense qu'il serait agréable de pouvoir occasionnellement dormir, manger et prendre des bains avec quelqu'un. Certains spectateurs du chat ont commencé à se comporter comme s'ils étaient son mari, tandis que d'autres se sont portés volontaires pour être son voisin.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.138,
+        "width": 0.3906,
+        "height": 0.1984
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le deuxième blog d'Aqua a été publié sur le site officiel de Red Bull. Le court article raconte l'histoire des débuts d'Aqua avant qu'elle ne rejoigne hololive.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.5191,
+        "width": 0.3888,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Noel a fait une apparition spéciale sur la radio en ligne &5R (onsen) dans le 49e épisode de SasaMori où elle a rejoint les doubleurs Sasahara Yu et Moriya Kyoka. Les trois ont parlé et partagé des photos de hamsters et de peluches.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.8216,
+        "width": 0.3831,
+        "height": 0.0803
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ua3je7gvbt591.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

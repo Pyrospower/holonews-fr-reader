@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 13,
+  "lang": "fr",
+  "status": "unavailable",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Programme de la deuxième semaine",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.0434,
+        "width": 0.9069,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Splatoon2 XH#HF7 20:00 Splatoon2 X##¥~¥ 20:00 _",
+      "bbox": {
+        "x": 0.1056,
+        "y": 0.1293,
+        "width": 0.2537,
+        "height": 0.0378
+      }
+    },
+    {
+      "type": "other",
+      "text": "VALORANT",
+      "bbox": {
+        "x": 0.1913,
+        "y": 0.1797,
+        "width": 0.065,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Programme de Rio",
+      "bbox": {
+        "x": 0.0444,
+        "y": 0.9097,
+        "width": 0.3313,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fuma",
+      "bbox": {
+        "x": 0.6256,
+        "y": 0.276,
+        "width": 0.0975,
+        "height": 0.0165
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/j69sk846wis81.png",
+    "gifFrame": null,
+    "confidence": 62
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 12,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Risu & Merrydawg",
+      "bbox": {
+        "x": 0.1656,
+        "y": 0.1589,
+        "width": 0.2888,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Risu a joué a Fall Guys avec l'homme-chien Merrydawg (rédacteur en chef de Merryweather Media). Pendant qu'ils jouaient, ils ont beaucoup parlé de l'histoire d'hololive. Risu a également expliqué à Merry quelques détails particuliers sur la magie noire indonésienne, que Merry a essayé de mettre en œuvre pendant tout le stream afin de gagner plus de chance. À la fin de la collaboration, Risu a promis qu'elle suivrait un entraînement sur Fall Guys et que lors de leur prochaine collaboration, ce sera elle qui fera gagner l'équipe.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2183,
+        "width": 0.3869,
+        "height": 0.1554
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le lundi productif de cette semaine, lofi a dessiné Kaela portant la deuxième tenue de Reine, tout en « regardant respectueusement » les deux modèles afin d'apprécier leurs attributs. lofi a également expliqué quelques détails sur les volants et les lacets et a montré quelques pinceaux qui peuvent être utiles pour les dessiner.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.5725,
+        "width": 0.3569,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Alors qu'elle jouait à Nostalgic Train en stream, lofi a été frappée par le mal des transports. C'est ainsi qu’elle a pu découvrir le véritable pouvoir du backseat, en naviguant dans le jeu en utilisant les commentaires du tchat comme instructions et en ne regardant que l'écran pour comprendre l'histoire au fur et à mesure de sa progression.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8672,
+        "width": 0.3869,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Quand elle a essayé la nouvelle version de Minecraft, Moona s'est retrouvée enfermée dans le serveur JP à cause d'un malentendu (elle a collé la nouvelle adresse JP sur celle du serveur ID), elle a donc décidé d'aller faire du tourisme. Par chance, Pekora était en ligne et avait trouvé une « Cité ancienne », elle a donc proposé à Moona de lui faire visiter l'endroit. Elles se sont rejointes, ont commencé à explorer la zone, ont été trouvées par le Warden, se sont battues avec lui et ont été complètement massacrées. Elles se sont alors promis un arc de vengeance pour traquer le Warden (tout en se complimentant mutuellement, en parfaites comédiennes, sur le fait qu'elles ressemblent à des idoles).",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.2053,
+        "width": 0.3881,
+        "height": 0.2279
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Jalouse de l'obsession du tchat pour Bazo (la mascotte de Zeta), Zeta a permis à Bazo de prendre le contrôle de sa chaîne et de son stream. Il a été agrandi et doté d'yeux globuleux, ce qui lui permet de fixer le tchat pendant que Zeta se cache derrière lui. Si, dans un premier temps, cela a terrifié les Zecretaries, ils ont rapidement commencé à le vénérer en l'appelant « Bazo-sama ». Les Zecretaries refusent également d'appeler Zeta « Zeta-sama », et ont fait mine de l'avoir oubliée, ne connaissant que Bazo. Pauvre Zeta.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.6137,
+        "width": 0.39,
+        "height": 0.1528
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Zeta",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.8342,
+        "width": 0.0675,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors d'un stream Valorant, le membre de la troisième génération d’hololive ID, Zeta, a été complimentée par ses spectateurs pour son excellente maîtrise de la langue indonésienne. Kerja bagus Zeta ! (Bon travail Zeta !)",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.8724,
+        "width": 0.3844,
+        "height": 0.0668
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8e85d2a2haa91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 2,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Shirogane Noel",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.0217,
+        "width": 0.4294,
+        "height": 0.0391
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Noel à tenu un stream totsumachi pour célébrer son anniversaire ! C’est le 3e anniversaire qu’elle fête en tant que membre d’hololive.",
+      "bbox": {
+        "x": 0.02,
+        "y": 0.0868,
+        "width": 0.4788,
+        "height": 0.0412
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "D'autres membres d’hololive tels que Marine, Flare, Mel, Choco, Lamy, Suisei, Towa, Miko, Subaru, Sora et Pekora sont passées pour lui fêter un joyeux anniversaire. Noel leur a demandé ce qu'elles feraient si elles avaient la capacité de changer de corps pendant une journée, leur préférence entre le porc ou le bœuf dans un bol de riz et ce qu’elles feraient si elles pouvaient sortir avec Noel, puis elle a eu une séance de discussion.",
+      "bbox": {
+        "x": 0.0194,
+        "y": 0.1428,
+        "width": 0.5069,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Plus tard, Rushia, accompagnée de Marine et Flare, a fait irruption dans sa chambre par surprise. Ensemble, elles ont apporté un gâteau, des cadeaux, et lui ont chanté « Joyeux Anniversaire ».",
+      "bbox": {
+        "x": 0.0194,
+        "y": 0.2674,
+        "width": 0.5044,
+        "height": 0.0521
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour remercier ses chevaliers de leur loyauté et de leur soutien sans faille, Noel a dévoilé ses produits dérivés d'anniversaire :",
+      "bbox": {
+        "x": 0.02,
+        "y": 0.3316,
+        "width": 0.4669,
+        "height": 0.0382
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une affiche de Noel prenant son bain au format A2 illustré par sa maman, Watao-sensei « Une serviette de bain style Noren « Danchou »",
+      "bbox": {
+        "x": 0.0369,
+        "y": 0.3876,
+        "width": 0.4463,
+        "height": 0.0408
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une bouteille de shampooing avec une contenance de 650 mL",
+      "bbox": {
+        "x": 0.0369,
+        "y": 0.4293,
+        "width": 0.4781,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Le porte-savon allant de pair",
+      "bbox": {
+        "x": 0.0369,
+        "y": 0.457,
+        "width": 0.2581,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le bonus pour l’achat de l’ensemble est une carte postale comportant un message secret de Noel en relief ainsi qu'une signature manuscrite.",
+      "bbox": {
+        "x": 0.02,
+        "y": 0.4848,
+        "width": 0.4875,
+        "height": 0.0408
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Le concert de la Gen 3",
+      "bbox": {
+        "x": 0.085,
+        "y": 0.6046,
+        "width": 0.375,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 25 novembre s'est tenu le premier live de la 3e génération d’hololive, intitulé « HOLOLIVE FANTASY 1st LIVE FAN FUN ISLAND ». Il a pris place au Tokyo Dome City Hall et a été diffusé sur SPWN.",
+      "bbox": {
+        "x": 0.035,
+        "y": 0.7296,
+        "width": 0.4763,
+        "height": 0.0564
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les spectateurs ont assisté à un spectacle scénarisé où les idoles se sont produites sur différentes scènes, dont une plage, un bateau de pirate et une scène de type fantastique.",
+      "bbox": {
+        "x": 0.0344,
+        "y": 0.8008,
+        "width": 0.4713,
+        "height": 0.0569
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une partie du live peut être trouvée gratuitement sur la chaîne YouTube officielle d’hololive tandis que des billets sont encore disponibles sur le site de SPWN pour accéder à l'archive. L’archive complète sera disponible jusqu'au 25 décembre.",
+      "bbox": {
+        "x": 0.035,
+        "y": 0.8724,
+        "width": 0.48,
+        "height": 0.0712
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/sntzwjemjr381.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

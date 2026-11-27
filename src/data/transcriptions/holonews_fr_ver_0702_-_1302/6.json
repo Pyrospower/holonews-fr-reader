@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0702_-_1302",
+  "page": 6,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLO FANTASY",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.0477,
+        "width": 0.4119,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "heading",
+      "text": "NINTENDO DIRECT WATCHALONG",
+      "bbox": {
+        "x": 0.2638,
+        "y": 0.1024,
+        "width": 0.2037,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "kora, } Pekora, Korone et Ina ont suivi le Nintendo Flare, Noel, Chloe et Lui étaient réunies sur Direct 2022 avec leurs spectateurs ! Toutes la chaîne de Flare pour jouer à Mario Party. les trois étaient très excitées par ce qui allait Ils ont joué en solo mais aussi en équipe : être révélé lors du stream. Pekora était aux Noel et Flare contre Lui et Chloe. Comme anges lorsqu'elle a vu l'annonce de Mario d'habitude sur Mario Party, cette partie était Strikers et a dit qu'elle voulait créer Usada pleine de rebondissements, de rires, de cris, Japan. Pekora a également plaisanté sur le de victoires et de défaites, comme fait qu'elle devait rejoindre Smash Bros. en lorsqu'elles ont atteint des étoiles mais tant que nouveau personnage. n'avaient pas assez de pièces pour les Korone, quant à elle, s'est mise à rire de obtenir ou lorsqu'elles ont lutté pour gagner façon incontrôlable lorsqu'elle a vu Kirby les mini-jeux. Finalement, c'est Lui et Chloe Voiture et n'a pas pu arrêter ses réactions de qui ont gagné. Cependant, lorsqu'on fangirl à l'annonce du DLC de Splatoon 3. compare le nombre d'étoiles entre NoelFlare Ina a préparé un bingo avec l'aide du tchat et LuiChloe, NoelFlare finit par gagner. En pour marquer les jeux qui pourraient guise de punition, Lui et Chloe ont dû dire apparaître pendant la présentation. Ina a été quelque chose qu'ils aiment l'un chez l'autre, enthousiasmée par l'annonce du DLC de Lui a déclaré que Chloe était son amie Splatoon 3 et surprise par les portages de d'affaires. Portal et No Man's Sky.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2096,
+        "width": 0.8956,
+        "height": 0.3316
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOFORCE",
+      "bbox": {
+        "x": 0.0906,
+        "y": 0.5777,
+        "width": 0.3475,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Luna a invité Subaru, Choco et Botan pour jouer à APEX. La condition était que la collaboration ne dure qu'une heure, car Luna aurait le mal des transports si elle jouait trop longtemps. Le maître des FPS, Botan, a supervisé l'entraînement des trois recrues, leur donnant des conseils et des directives pendant les matchs. Puisque Subaru et Luna sont globalement des débutantes sur APEX, il y a eu de nombreux moments mémorables. Nous avons eu Subaru qui a pris un MRVN pour un ennemi, Luna dont le jeu n'arrêtait pas de ramer et qui était heureuse chaque fois qu’elle faisait des dégâts. Il y avait aussi Subaru qui n'arrêtait pas de paniquer et de crier à chaque fois qu'elle rencontrait un ennemi, comparant ce jeu à Resident Evil, avec ses tirs partout sur son écran. Botan a alors répondu qu'elle espérait que Subaru continuerait à crier et ne changerait pas, car cela rendait les choses encore plus intéressantes.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.7964,
+        "width": 0.8713,
+        "height": 0.171
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/aqfugaoe17j81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

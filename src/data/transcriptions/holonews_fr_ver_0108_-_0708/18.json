@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 18,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0174,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Iroha] God-ish: 500K",
+      "bbox": {
+        "x": 0.315,
+        "y": 0.0673,
+        "width": 0.1725,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Ame/Nabi] Say So: 100K",
+      "bbox": {
+        "x": 0.2806,
+        "y": 0.0838,
+        "width": 0.2069,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Marine] I'm Your Treasure Box: 1M [Luna] Zettai Chuusei 9 Nanonanora: 100K [Lamy/Nene/Botan/Polka ] Blessing: 5M [Watame] Chiki-Chiki Ban-Ban: 500K [Moona] Gekkou: 750K",
+      "bbox": {
+        "x": 0.1313,
+        "y": 0.1003,
+        "width": 0.3563,
+        "height": 0.0781
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Aqua] / Wanna: 2M",
+      "bbox": {
+        "x": 0.3281,
+        "y": 0.1975,
+        "width": 0.16,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nene/Lamy] Hitorigoto: 1M [Marine] I'm Your Treasure Box: 2M [Shion/Hoshikawa] Mahou Shoujo To Chocolate: 2M [IZzuru] The Sixth Sense: 100K [AZKi/Nene] Roki: 1M",
+      "bbox": {
+        "x": 0.065,
+        "y": 0.214,
+        "width": 0.4244,
+        "height": 0.0781
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Suisei] Lower: 5M",
+      "bbox": {
+        "x": 0.3381,
+        "y": 0.3116,
+        "width": 0.1481,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Astel] Odo (Live): 25K",
+      "bbox": {
+        "x": 0.305,
+        "y": 0.3281,
+        "width": 0.1825,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Watame] Hitsuji No Blanket: 75K [Flare/KOTOKO] Sakuranbo Kiss: 250K [Miyabi/lzuru/Astel/Temma] Monster: 250K",
+      "bbox": {
+        "x": 0.1419,
+        "y": 0.3446,
+        "width": 0.3456,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Chloe] Jinsei Reset Button Pochi w: 2M",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.3941,
+        "width": 0.3231,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Nekonarabaikeru: 250K",
+      "bbox": {
+        "x": 0.2406,
+        "y": 0.4106,
+        "width": 0.2469,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lui] Overd: 250K",
+      "bbox": {
+        "x": 0.3463,
+        "y": 0.4271,
+        "width": 0.1412,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/04. [Okayu] Animal: 3M [Calliope] Kamouflage: 250K [Watame] Hello/How Are You: 2M [Aqua/Suisei/Towa] Asu no Yozora Shoukaihan: 6M [Marine] Sakuranbo Kiss: 250K [AZKi] Afterglow: 100K",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.4536,
+        "width": 0.4394,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[IRyS] Identity: 1M [Miko] Baby Dance: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.0673,
+        "width": 0.2056,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Towa/Suisei] Haiiro To Ao: 5M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1003,
+        "width": 0.25,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Fubuki/Korone] Stepping Wind: 100K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1168,
+        "width": 0.3056,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Marine] I'm Your Treasure Box: 3M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1332,
+        "width": 0.2875,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Shien/Roberu] Mrs. Pumpkin no",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1497,
+        "width": 0.2638,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kokkei na Yume: 100K",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.1662,
+        "width": 0.1869,
+        "height": 0.0095
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Noel] Homenobi: 2M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.1827,
+        "width": 0.17,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AZKi] petrichor: 25K",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.2144,
+        "width": 0.1631,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu] adieu, Salauds: 100K Fauna] Let Me Stay Here: 750K Reine/Kotone] ECHO (Cover): 25K",
+      "bbox": {
+        "x": 0.5181,
+        "y": 0.2309,
+        "width": 0.2831,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lui] Overd: 500K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.2947,
+        "width": 0.1412,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Amelia/Nabi] Say So: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3112,
+        "width": 0.225,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lui] Kimi Sora Kiseki: 250K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3277,
+        "width": 0.2244,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[AZKi] Real Melancholy: 250K [Fubuki] Cat Loving (Cover): 50K [Flare] Hurray! Hurray! Elf-friend: 10K [Kanata] Ai Kotoba IV (Cover): 50K [Sora/Suntory Nomu/Fuji Aoi] Geki! Teikoku Kagekidan: 2M",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.3442,
+        "width": 0.3006,
+        "height": 0.0946
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sana] Astrogirl: 750K",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.4431,
+        "width": 0.1763,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE ORIGINALE NOUVEAU",
+      "bbox": {
+        "x": 0.5263,
+        "y": 0.5061,
+        "width": 0.4175,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HURRAY! HURRAY! ELFRIEND!",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.6797,
+        "width": 0.3344,
+        "height": 0.0321
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata Al KOTOBA IV",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.783,
+        "width": 0.1356,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki CAT LOVING",
+      "bbox": {
+        "x": 0.67,
+        "y": 0.783,
+        "width": 0.0931,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "heading",
+      "text": "AZKi",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.9158,
+        "width": 0.0569,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PETRICHOR",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.9392,
+        "width": 0.385,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu ADIEU, SALAUDS",
+      "bbox": {
+        "x": 0.5169,
+        "y": 0.9158,
+        "width": 0.1725,
+        "height": 0.0543
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xul38166lwh91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

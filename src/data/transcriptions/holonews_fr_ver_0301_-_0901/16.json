@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 16,
+  "lang": "fr",
+  "status": "auto",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le serveur Discord Hoshiyomi EN a un projet en cours pour célébrer les nombreuses étapes que Suisei a franchies tout au long de sa carrière de VTubeuse.",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.1068,
+        "width": 0.4063,
+        "height": 0.0612
+      }
+    },
+    {
+      "type": "other",
+      "text": "de réaliser une animation pour célébrerses § . A - ’",
+      "bbox": {
+        "x": 0.0563,
+        "y": 0.1849,
+        "width": 0.47,
+        "height": 0.0178
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "exploits, et font appel a tous les animateurs et illustrateurs intéressés pour aider à ce ( projet volontaire. Le projet a une date limite",
+      "bbox": {
+        "x": 0.0563,
+        "y": 0.2005,
+        "width": 0.4475,
+        "height": 0.0456
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "indéterminée pour s'adapter à l'emploi du Toute personne intéressée peut s'inscrire",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.2457,
+        "width": 0.8506,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "temps chargé de ses participants, mais si via le formulaire dans les sources.",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.2613,
+        "width": 0.7788,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "tout se passe bien, il pourrait être publié à N'hésitez pas à rejoindre le serveur temps pour le prochain palier d'abonnés de Discord des Hoshiyomi EN si vous avez Suisei. des questions !",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.2773,
+        "width": 0.8388,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "heading",
+      "text": "• LET'S PLAY +",
+      "bbox": {
+        "x": 0.1756,
+        "y": 0.3563,
+        "width": 0.4331,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "other",
+      "text": "THE LONG NIGHT COLLECTION",
+      "bbox": {
+        "x": 0.7594,
+        "y": 0.5191,
+        "width": 0.1838,
+        "height": 0.0074
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/691e766kevc81.png",
+    "gifFrame": null,
+    "confidence": 78
+  }
+}
