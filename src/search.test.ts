@@ -211,6 +211,7 @@ describe("matchingPages", () => {
   ): PageTranscription => ({
     status,
     blocks: [{ type: "paragraph", text }],
+    lang: "fr",
   });
 
   test("lists the readable pages that contain every term, in order", () => {

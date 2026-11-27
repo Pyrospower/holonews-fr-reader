@@ -9,6 +9,7 @@
     class: className,
     highlight,
     matches = [],
+    speaking,
   }: {
     src: string;
     alt: string;
@@ -17,6 +18,8 @@
     highlight?: TranscriptionBlock["bbox"];
     // Areas of the transcription blocks that contain a search match
     matches?: NonNullable<TranscriptionBlock["bbox"]>[];
+    // Area of the transcription block being read aloud
+    speaking?: TranscriptionBlock["bbox"];
   } = $props();
 
   // Keyed by URL so that changing page clears the error
@@ -56,6 +59,16 @@
         style:height="{match.height * 100}%"
       ></div>
     {/each}
+    {#if speaking}
+      <!-- Outside the outline of a search match on the same block -->
+      <div
+        class="pointer-events-none absolute rounded-sm bg-sky-400/15 outline-2 outline-offset-4 outline-sky-600 transition-[left,top,width,height] duration-200 motion-reduce:transition-none dark:outline-sky-400"
+        style:left="{speaking.x * 100}%"
+        style:top="{speaking.y * 100}%"
+        style:width="{speaking.width * 100}%"
+        style:height="{speaking.height * 100}%"
+      ></div>
+    {/if}
     {#if highlight}
       <div
         class="pointer-events-none absolute rounded-sm bg-red-500/10 outline-2 outline-red-500"

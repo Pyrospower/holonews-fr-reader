@@ -15,6 +15,7 @@ export const DEFAULT_TEXT_SIZE = 1;
 export const STORAGE_KEYS = {
   mode: "holonews-reader:mode",
   textSize: "holonews-reader:text-size",
+  speechRate: "holonews-reader:speech-rate",
 } as const;
 
 export const PAGE_PARAM = "page";

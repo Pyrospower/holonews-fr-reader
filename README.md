@@ -161,13 +161,24 @@ Un nom n'est trouvé que comme mot entier (`Mel` ne trouve pas « Melfissa »), 
 
 Pour ajouter un talent, ajoutez une entrée dans la bonne génération ; pour ajouter un surnom, complétez `aliases` (ou `casedAliases` si c'est aussi un mot courant). Lancez ensuite `pnpm test`, puis vérifiez dans le texte que le nouveau nom ne trouve pas de fausses mentions (par exemple avec la recherche du site, qui elle ignore la casse). Un talent sans aucune mention n'apparaît pas sur le site.
 
+## 🔊 Lecture à voix haute
+
+Dans les modes Mixte et Texte, la barre de la transcription propose de lire la page à voix haute (lecture, pause, arrêt et vitesse de 0,75× à 1,5×, mémorisée dans le navigateur). Tout passe par la synthèse vocale du navigateur ([Web Speech API](https://developer.mozilla.org/fr/docs/Web/API/SpeechSynthesis)) : pas de bibliothèque, pas de serveur. Les boutons n'apparaissent pas si le navigateur ne la propose pas.
+
+- Les blocs sont lus dans l'ordre, découpés en morceaux d'au plus 200 caractères aux fins de phrase (certains navigateurs coupent ou bloquent sur les textes longs). Les emoji et symboles décoratifs, puces et séparateurs ne sont pas lus.
+- La voix suit la langue de la page (`lang` de la transcription : `fr-FR` ou `en-US`), en préférant une voix installée sur l'appareil. S'il n'y en a aucune pour cette langue, la page est lue avec la voix par défaut et le lecteur le signale.
+- Le bloc lu est encadré dans le texte (et sur l'image en mode Mixte), et ramené à l'écran s'il en sort. Pendant la lecture, cliquer sur un bloc reprend la lecture à partir de lui (sauf si le clic termine une sélection de texte).
+- La lecture s'arrête en changeant de page, en passant en mode Original ou en quittant la page ; elle continue en passant de Mixte à Texte. La pause arrête la phrase en cours et la reprise la relit depuis son début, ce qui évite les blocages de Chrome après une longue pause.
+
+Le découpage, le nettoyage du texte et le choix de la voix sont dans [`src/speech.ts`](src/speech.ts), le lecteur dans [`src/speechPlayer.ts`](src/speechPlayer.ts), tous deux testés.
+
 ## 🎨 Interface
 
 - **Page d'accueil** : Liste tous les articles avec aperçu et filtrage
 - **Pages d'articles** : Affichage complet de chaque numéro avec images
 - **Recherche** : Recherche dans le texte de toutes les pages, avec surlignage dans le lecteur
 - **Talents** : Les talents mentionnés dans les numéros, avec les pages qui les citent
-- **Modes de lecture** : Original (image seule), Mixte (image et transcription côte à côte) et Texte (transcription seule), avec copie du texte et taille de texte réglable. Le mode et la taille sont mémorisés dans le navigateur, et la page courante est dans l'URL (`?page=N`)
+- **Modes de lecture** : Original (image seule), Mixte (image et transcription côte à côte) et Texte (transcription seule), avec copie du texte, taille de texte réglable et lecture à voix haute. Le mode et la taille sont mémorisés dans le navigateur, et la page courante est dans l'URL (`?page=N`)
 
 ## 🏷 Tags disponibles
 
