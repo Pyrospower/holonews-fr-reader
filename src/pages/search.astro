@@ -1,0 +1,11 @@
+---
+import SearchPage from "$lib/components/SearchPage.svelte";
+import Layout from "$lib/layouts/Layout.astro";
+---
+
+<Layout title="Recherche">
+  <div class="mx-auto max-w-3xl">
+    <h1 class="mb-4 text-3xl font-bold md:text-4xl">Recherche</h1>
+    <SearchPage client:load />
+  </div>
+</Layout>
