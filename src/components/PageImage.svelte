@@ -8,12 +8,15 @@
     alt,
     class: className,
     highlight,
+    matches = [],
   }: {
     src: string;
     alt: string;
     class?: string;
     // Development aid: area of a transcription block outlined on the image
     highlight?: TranscriptionBlock["bbox"];
+    // Areas of the transcription blocks that contain a search match
+    matches?: NonNullable<TranscriptionBlock["bbox"]>[];
   } = $props();
 
   // Keyed by URL so that changing page clears the error
@@ -44,6 +47,15 @@
       class="block w-full object-cover"
       onerror={() => (failedSrc = src)}
     />
+    {#each matches as match, index (index)}
+      <div
+        class="pointer-events-none absolute rounded-sm bg-yellow-300/20 outline-2 outline-offset-2 outline-yellow-500 dark:outline-yellow-400"
+        style:left="{match.x * 100}%"
+        style:top="{match.y * 100}%"
+        style:width="{match.width * 100}%"
+        style:height="{match.height * 100}%"
+      ></div>
+    {/each}
     {#if highlight}
       <div
         class="pointer-events-none absolute rounded-sm bg-red-500/10 outline-2 outline-red-500"
