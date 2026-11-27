@@ -1,6 +1,8 @@
 <script lang="ts">
+  import HighlightedText from "$lib/components/HighlightedText.svelte";
   import { Button } from "$lib/components/ui/button";
   import { TEXT_SIZES } from "$lib/reader";
+  import { highlightSegments, type MatchRange } from "$lib/search";
   import { transcriptionText, type PageTranscription } from "$lib/transcriptions";
   import { cn } from "$lib/utils";
   import AArrowDownIcon from "@lucide/svelte/icons/a-arrow-down";
@@ -8,7 +10,7 @@
   import CheckIcon from "@lucide/svelte/icons/check";
   import CopyIcon from "@lucide/svelte/icons/copy";
   import TriangleAlertIcon from "@lucide/svelte/icons/triangle-alert";
-  import { onDestroy } from "svelte";
+  import { onDestroy, tick } from "svelte";
 
   let {
     page,
@@ -19,6 +21,7 @@
     variant,
     onshoworiginal,
     onblockhover,
+    matches,
     class: className,
   }: {
     page: number;
@@ -32,6 +35,8 @@
     onshoworiginal?: () => void;
     // Development aid, see IssueViewer.svelte
     onblockhover?: (index: number | null) => void;
+    // Search matches to highlight, per block (same order as the blocks)
+    matches?: MatchRange[][] | undefined;
     class?: string;
   } = $props();
 
@@ -169,6 +174,22 @@
       void page;
       node.scrollTop = 0;
     }}
+    {@attach (node) => {
+      // Next to the image, bring the first search match into view
+      if (variant !== "mixed" || !matches?.some((ranges) => ranges.length)) {
+        return;
+      }
+      void page;
+      void tick().then(() => {
+        const mark = node.querySelector("mark");
+        if (!mark) return;
+        const top =
+          mark.getBoundingClientRect().top - node.getBoundingClientRect().top;
+        if (top > node.clientHeight * 0.75) {
+          node.scrollTop += top - node.clientHeight / 3;
+        }
+      });
+    }}
   >
     {#if readable && transcription}
       <div
@@ -189,6 +210,7 @@
             : {}}
           {@const hoverClass =
             hoverable && "-mx-1 rounded px-1 hover:bg-red-500/10"}
+          {@const ranges = matches?.[index] ?? []}
           {#if block.type === "heading"}
             <h3
               {...hover}
@@ -196,7 +218,9 @@
                 "pt-[0.4em] text-[1.3em] leading-snug font-bold whitespace-pre-line first:pt-0",
                 hoverClass,
               )}
-            >{block.text}</h3>
+            >{#if ranges.length}<HighlightedText
+                  segments={highlightSegments(block.text, ranges)}
+                />{:else}{block.text}{/if}</h3>
           {:else}
             <p
               {...hover}
@@ -206,7 +230,9 @@
                   "text-[0.875em] leading-normal text-muted-foreground",
                 hoverClass,
               )}
-            >{block.text}</p>
+            >{#if ranges.length}<HighlightedText
+                  segments={highlightSegments(block.text, ranges)}
+                />{:else}{block.text}{/if}</p>
           {/if}
         {/each}
       </div>

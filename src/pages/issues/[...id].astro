@@ -2,6 +2,7 @@
 import IssueViewer from "$lib/components/IssueViewer.svelte";
 import Layout from "$lib/layouts/Layout.astro";
 import { PAGE_PARAM, STORAGE_KEYS } from "$lib/reader";
+import { QUERY_PARAM } from "$lib/search";
 import type { PageTranscription } from "$lib/transcriptions";
 import { getCollection } from "astro:content";
 
@@ -44,14 +45,18 @@ const { entry, transcriptions } = Astro.props;
       </time>
     </div>
     <!--
-      The viewer is prerendered on page 1 in Original mode. When the URL or the
-      stored reading mode asks for something else, hide it until it has
-      hydrated with the right state instead of flashing the default one. The
-      animation shows it anyway if hydration never happens.
+      The viewer is prerendered on page 1 in Original mode, without a search.
+      When the URL or the stored reading mode asks for something else, hide it
+      until it has hydrated with the right state instead of flashing the
+      default one. The animation shows it anyway if hydration never happens.
     -->
     <script
       is:inline
-      define:vars={{ modeKey: STORAGE_KEYS.mode, pageParam: PAGE_PARAM }}
+      define:vars={{
+        modeKey: STORAGE_KEYS.mode,
+        pageParam: PAGE_PARAM,
+        queryParam: QUERY_PARAM,
+      }}
     >
       let mode = null;
       try {
@@ -59,8 +64,13 @@ const { entry, transcriptions } = Astro.props;
       } catch {
         // Storage unavailable: default mode
       }
-      const page = new URLSearchParams(location.search).get(pageParam);
-      if ((mode && mode !== "original") || (page && page !== "1")) {
+      const params = new URLSearchParams(location.search);
+      const page = params.get(pageParam);
+      if (
+        (mode && mode !== "original") ||
+        (page && page !== "1") ||
+        params.get(queryParam)
+      ) {
         document.documentElement.classList.add("reader-pending");
       }
     </script>

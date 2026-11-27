@@ -1,5 +1,6 @@
 <script lang="ts">
   import PageImage from "$lib/components/PageImage.svelte";
+  import IssueSearch from "$lib/components/IssueSearch.svelte";
   import ReadingModeSelector from "$lib/components/ReadingModeSelector.svelte";
   import TranscriptionPanel from "$lib/components/TranscriptionPanel.svelte";
   import { Button } from "$lib/components/ui/button";
@@ -18,11 +19,17 @@
     writePreference,
     type ReadingMode,
   } from "$lib/reader";
+  import {
+    findPageMatches,
+    matchingPages,
+    parseQuery,
+    QUERY_PARAM,
+  } from "$lib/search";
   import type { PageTranscription } from "$lib/transcriptions";
   import type { CollectionEntry } from "astro:content";
   import ChevronLeftIcon from "@lucide/svelte/icons/chevron-left";
   import ChevronRightIcon from "@lucide/svelte/icons/chevron-right";
-  import { onMount, tick } from "svelte";
+  import { onDestroy, onMount, tick } from "svelte";
 
   let {
     issue,
@@ -45,6 +52,8 @@
   // In Texte, page whose image was asked for because it has no transcription
   let imageShownFor = $state<number | null>(null);
   let hoveredBlock = $state<number | null>(null);
+  // Search in the issue, mirrored in ?q=
+  let query = $state("");
 
   const maxPage = $derived(issue.data.images.length);
   const currentImage = $derived(issue.data.images[currentPage - 1] ?? "");
@@ -53,15 +62,40 @@
   const issueHasTranscriptions = $derived(
     Object.keys(transcriptions).length > 0,
   );
+  const terms = $derived(parseQuery(query));
+  const foundPages = $derived(matchingPages(transcriptions, terms));
+  // Matches of the current page, per block, when it is a found page
+  const pageMatches = $derived(
+    transcription && foundPages.includes(currentPage)
+      ? findPageMatches(
+          transcription.blocks.map((block) => block.text),
+          terms,
+        )
+      : undefined,
+  );
+  const matchedAreas = $derived(
+    transcription?.blocks.flatMap((block, index) =>
+      block.bbox && pageMatches?.[index]?.length ? [block.bbox] : [],
+    ) ?? [],
+  );
   const highlight = $derived(
     DEV && hoveredBlock !== null
       ? transcription?.blocks[hoveredBlock]?.bbox
       : undefined,
   );
 
+  let queryUrlTimeout: ReturnType<typeof setTimeout> | undefined;
+
   function syncUrl() {
+    clearTimeout(queryUrlTimeout);
     const url = new URL(window.location.href);
     url.searchParams.set(PAGE_PARAM, String(currentPage));
+    const trimmed = query.trim();
+    if (trimmed) {
+      url.searchParams.set(QUERY_PARAM, trimmed);
+    } else {
+      url.searchParams.delete(QUERY_PARAM);
+    }
     // Replace rather than push: one history entry per issue, not per page
     window.history.replaceState(window.history.state, "", url);
   }
@@ -80,6 +114,20 @@
   function handleNextPage() {
     goToPage(currentPage + 1);
   }
+
+  function setQuery(value: string) {
+    query = value;
+    // While typing, update the URL once the input pauses (browsers throttle
+    // history updates). Clearing applies at once.
+    clearTimeout(queryUrlTimeout);
+    if (value.trim()) {
+      queryUrlTimeout = setTimeout(syncUrl, 300);
+    } else {
+      syncUrl();
+    }
+  }
+
+  onDestroy(() => clearTimeout(queryUrlTimeout));
 
   function setMode(value: ReadingMode) {
     mode = value;
@@ -110,10 +158,16 @@
   }
 
   onMount(() => {
-    const param = new URLSearchParams(window.location.search).get(PAGE_PARAM);
+    const params = new URLSearchParams(window.location.search);
+    const param = params.get(PAGE_PARAM);
+    query = params.get(QUERY_PARAM) ?? "";
     if (param !== null) {
       currentPage = parsePageParam(param, maxPage) ?? 1;
       // Normalizes an invalid value to the page actually shown
+      syncUrl();
+    } else if (foundPages[0] !== undefined) {
+      // A search without a page starts on the first page found
+      currentPage = foundPages[0];
       syncUrl();
     }
     mode = parseReadingMode(readPreference(STORAGE_KEYS.mode));
@@ -130,7 +184,12 @@
 {#snippet originalPage()}
   <Card.Root class="mx-auto py-0">
     <Card.Content class="p-0">
-      <PageImage src={currentImage} alt={currentAlt} class="w-full sm:w-1/2" />
+      <PageImage
+        src={currentImage}
+        alt={currentAlt}
+        class="w-full sm:w-1/2"
+        matches={matchedAreas}
+      />
     </Card.Content>
   </Card.Root>
 {/snippet}
@@ -139,6 +198,18 @@
   <div class="mb-4 flex justify-center">
     <ReadingModeSelector {mode} onchange={setMode} />
   </div>
+
+  {#if issueHasTranscriptions}
+    <IssueSearch
+      {query}
+      onquerychange={setQuery}
+      pages={foundPages}
+      active={terms.length > 0}
+      {currentPage}
+      ongotopage={goToPage}
+      class="mb-4"
+    />
+  {/if}
 
   {#if mode === "original"}
     {@render originalPage()}
@@ -150,6 +221,7 @@
           alt={currentAlt}
           class="w-full"
           {highlight}
+          matches={matchedAreas}
         />
         <!-- On desktop, the text column takes the height of the image and
              scrolls on its own -->
@@ -162,6 +234,7 @@
             ontextsizechange={setTextSize}
             variant="mixed"
             onblockhover={DEV ? (index) => (hoveredBlock = index) : undefined}
+            matches={pageMatches}
             class="md:absolute md:inset-0"
           />
         </div>
@@ -182,6 +255,7 @@
           {textSize}
           ontextsizechange={setTextSize}
           variant="text"
+          matches={pageMatches}
           onshoworiginal={() => (imageShownFor = currentPage)}
         />
       </Card.Content>
@@ -220,6 +294,13 @@
             aria-current={currentPage === index + 1 ? "page" : undefined}
             class={`relative w-16 h-16 shrink-0 overflow-hidden rounded cursor-pointer ${currentPage === index + 1 ? "ring-2 ring-primary" : ""}`}
           >
+            {#if foundPages.includes(index + 1)}
+              <span
+                class="absolute top-1 left-1 size-2.5 rounded-full bg-yellow-400 ring-2 ring-background"
+                aria-hidden="true"
+              ></span>
+              <span class="sr-only">Contient la recherche :</span>
+            {/if}
             <img
               src={image}
               alt={`Page ${index + 1}`}
