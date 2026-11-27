@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 20,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.4288,
+        "y": 0.0256,
+        "width": 0.1431,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.6625,
+        "y": 0.0738,
+        "width": 0.1456,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gura 4M\nSuisei 1,5M\nRikka 210K\nMoona 1,1M\nKobo 800K\nMatsuri 1,25M",
+      "bbox": {
+        "x": 0.5094,
+        "y": 0.115,
+        "width": 0.45,
+        "height": 0.1758
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.3082,
+        "width": 0.3925,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 22 juin : 3e anniversaire des débuts d'Izuru",
+      "bbox": {
+        "x": 0.5613,
+        "y": 0.3711,
+        "width": 0.2963,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 25 juin : Concert 3D de Noel",
+      "bbox": {
+        "x": 0.5613,
+        "y": 0.4193,
+        "width": 0.2969,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 26 juin : HOLOSTARS 3RISE SUPER FAN MEETING 〜 FLAGSHIP",
+      "bbox": {
+        "x": 0.5613,
+        "y": 0.4514,
+        "width": 0.3119,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.691,
+        "width": 0.5456,
+        "height": 0.1124
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.8251,
+        "width": 0.2537,
+        "height": 0.0373
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5jtaoj1007891.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

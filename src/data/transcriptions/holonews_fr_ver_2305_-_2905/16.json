@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2305_-_2905",
+  "page": 16,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.4269,
+        "y": 0.0256,
+        "width": 0.1481,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.6625,
+        "y": 0.076,
+        "width": 0.1456,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran 160k\nLamy 1M\nAstel 200k",
+      "bbox": {
+        "x": 0.6019,
+        "y": 0.1476,
+        "width": 0.0956,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "hololive Indonesia 300k\nIzuru 180k",
+      "bbox": {
+        "x": 0.835,
+        "y": 0.1471,
+        "width": 0.1181,
+        "height": 0.0655
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Evénements à venir",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.4618,
+        "width": 0.3925,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 25 Mai: Anniversaire de La+",
+      "bbox": {
+        "x": 0.5706,
+        "y": 0.5456,
+        "width": 0.2963,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 28 Mai: Nouvelle tenue 3D de Miko",
+      "bbox": {
+        "x": 0.5706,
+        "y": 0.5777,
+        "width": 0.3125,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "other",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.691,
+        "width": 0.5456,
+        "height": 0.1124
+      }
+    },
+    {
+      "type": "other",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.8251,
+        "width": 0.2537,
+        "height": 0.0373
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/o9myiojpo1391.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

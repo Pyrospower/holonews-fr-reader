@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2208_-_2808",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.185,
+        "y": 0.1432,
+        "width": 0.1206,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen4 COUNCIL",
+      "bbox": {
+        "x": 0.3156,
+        "y": 0.1454,
+        "width": 0.1744,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir appris quelques phrases simples en japonais et en anglais, Towa a collaboré une fois de plus avec Mumei pour lui apprendre du jargon de FPS en Japonais. Mumei s’est mise à apprendre les termes pour annoncer des points de vie faibles, appeler des renforts, indiquer la présence d’ennemis, et dire d’attaquer parmi d’autres. Elles ont aussi eu une discussion à propos de la manière dont le japonais se charge des homophones « beet » et « beat » et les différents sens de ces-derniers, une discussion sur le style de dessin de Mumei (incluant le fameux visage terrifiant), et ont abordé le problème de la toxicité dans les jeux en ligne notamment les FPS.",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.1671,
+        "width": 0.4463,
+        "height": 0.2196
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.2888,
+        "y": 0.4019,
+        "width": 0.1187,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen2,4,5",
+      "bbox": {
+        "x": 0.4169,
+        "y": 0.4019,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "ShubaChocoLunaTan est de retour avec du chaos, des cris et des rires ! Cette fois-ci sur le jeu en accès anticipé Occult. Alors qu’elles devaient chasser un monstre, elles se battaient la plupart du temps pour les cachettes, qui étaient limitées. Malheureusement, elles n’ont pas pu terminer le jeu. Cependant, elles ont réussi à perde à une vitesse exceptionnelle.",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.4418,
+        "width": 0.4463,
+        "height": 0.1163
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.18,
+        "y": 0.5764,
+        "width": 0.1212,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1,4",
+      "bbox": {
+        "x": 0.3106,
+        "y": 0.5764,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki et Watame ont participé au Summer Mini Live de Suntory Nomu. Elles ont toutes les deux chanté en solo, mais aussi en groupe. Ce n’est pas la première fois que des membres d’hololive sont apparus sur la chaîne. Lamy et Sora ont eux aussi participé à un mini live il y a six mois.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.6146,
+        "width": 0.445,
+        "height": 0.0868
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Dartslive",
+      "bbox": {
+        "x": 0.1219,
+        "y": 0.7201,
+        "width": 0.18,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen0,3",
+      "bbox": {
+        "x": 0.3113,
+        "y": 0.7201,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La collab entre hololive et Dartslive a amené une armoire à fléchette dans le studio ou Marine, Pekora et Sora ont joué en stream. Un jeu de flechette sera disponible le 15 septembre, avec une édition limitée disponible en précommande du 1er Septembre au 20 Septembre.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.7578,
+        "width": 0.445,
+        "height": 0.0868
+      }
+    },
+    {
+      "type": "heading",
+      "text": "StarAnimal",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.1658,
+        "width": 0.2194,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen0,2,5,6",
+      "bbox": {
+        "x": 0.8619,
+        "y": 0.1662,
+        "width": 0.0969,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "StarAnimal, un groupe qui comprend Sora, Suisei, Subaru, Polka, Chloe et Koyori, a été créer lors de la compétition de jeu de la Golden Week. Le groupe s'est retrouvé et a fait une collab sur Gartic Phone, où elles ont dessiné plusieurs dessins amusants, notamment une Suisei sexy qui a fini par devenir un dessin NSFW de Suisei. A la fin de la collab, elles ont annoncé que leur reprise de « Kaibutsu » par YAOSOBI est disponible maintenant !",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.2053,
+        "width": 0.445,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.7069,
+        "y": 0.3524,
+        "width": 0.1212,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen2,3",
+      "bbox": {
+        "x": 0.8375,
+        "y": 0.3524,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora, Aqua et Subaru sont apparus au Saitama Super Arena dans un premier acte spécial pour le Sparkle Animelo Summer 2022. Cela fait partie d’une collaboration entre Curry Meshi et Anisama.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.3906,
+        "width": 0.445,
+        "height": 0.0573
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.65,
+        "y": 0.4714,
+        "width": 0.1219,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen3 Area15",
+      "bbox": {
+        "x": 0.7856,
+        "y": 0.4714,
+        "width": 0.1625,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suite à une exploration productive d'un nouvel établissement construit par les filles d’holoEN sur le serveur Rust d’hololive, Moona a décidé de développer ses connaissances en technologie et de les concurrencer. En même temps, Pekora, qui a passé son temps à piller toutes sortes de PNJ dans le jeu, a amassé tellement de ferraille (la monnaie locale du jeu) qu’elle en n’avait plus aucune utilité pour. Elle a alors décidé d’établir un système de prime dans le jeu, en mettant une prime sur un joueur aléatoire, et regardait les autres essayer de s'entre-tuer. Lorsque Moona a rencontré Pekora, Pekora lui a donné un grande quantité de ferrailles inimaginables (pour se faire pardonner d’avoir tué Moona sans faire exprès plus tôt). Cela a poussé Moona à développer ses compétences et augmenter les prix du point de vente qu’elle avait créé, en disant que si elle vendait des armes de pointe, elle ne devait les vendre qu’aux joueurs riches du jeu pour en profiter au maximum.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.5074,
+        "width": 0.4456,
+        "height": 0.2821
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/kpem0lvzr1m91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

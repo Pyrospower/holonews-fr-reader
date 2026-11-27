@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Shien a une nouvelle tenue.",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.1758,
+        "width": 0.1994,
+        "height": 0.0378
+      }
+    },
+    {
+      "type": "other",
+      "text": "HoloMyth et AREA15 participeront au concert Link Your Wish en 3D.",
+      "bbox": {
+        "x": 0.0213,
+        "y": 0.2283,
+        "width": 0.2325,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "other",
+      "text": "Suisei est de retour",
+      "bbox": {
+        "x": 0.4615,
+        "y": 0.406,
+        "width": 0.4523,
+        "height": 0.1795
+      }
+    },
+    {
+      "type": "other",
+      "text": "Aqua est passée Master",
+      "bbox": {
+        "x": 0.4308,
+        "y": 0.4722,
+        "width": 0.5446,
+        "height": 0.2222
+      }
+    },
+    {
+      "type": "other",
+      "text": "Needy Streamer Overload",
+      "bbox": {
+        "x": 0.4092,
+        "y": 0.5598,
+        "width": 0.5785,
+        "height": 0.2415
+      }
+    },
+    {
+      "type": "other",
+      "text": "Trouvez les huit Shubas pour gagner… rien du tout.",
+      "bbox": {
+        "x": 0.6519,
+        "y": 0.9436,
+        "width": 0.3444,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "other",
+      "text": "Nous sommes à la recherche de plus de journalistes pour les talents JP.",
+      "bbox": {
+        "x": 0.2606,
+        "y": 0.9674,
+        "width": 0.72,
+        "height": 0.0156
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/61ezrffs4uh81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

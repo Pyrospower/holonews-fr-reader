@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.4769,
+        "y": 0.0152,
+        "width": 0.0469,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Risu",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.178,
+        "width": 0.0688,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après une longue pause, Risu est revenue avec un stream pour rassurer ses spectateurs : contrairement à la croyance populaire, elle est toujours en vie. Risu était en congé maladie, mais elle n'a pas attrapé de maladie grave (et certainement pas le virus C). Au contraire, elle a été frappée par une série de maladies bénignes en peu de temps qui l'ont empêchée de quitter son lit pendant plus de deux semaines.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3856,
+        "height": 0.1128
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cependant, elle va mieux et a beaucoup de jeux auxquels elle veut jouer. Ses spectateurs ont remarqué que la Risu malade était très seiso, ce à quoi Risu a répondu que son endurance était très faible en raison de la maladie et qu'elle était donc en mode économie d'énergie. Elle leur a dit de profiter de seiso Risu tant qu'ils le pouvaient.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.3446,
+        "width": 0.3906,
+        "height": 0.0872
+      }
+    },
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.47,
+        "y": 0.4614,
+        "width": 0.0575,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mumei",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.6241,
+        "width": 0.1094,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après une pause de deux semaines, Mumei est de retour en stream ! Elle a dit qu'elle avait voyagé, mais qu'elle avait apparemment eu une expérience négative. Bien qu'elle n'ait pas donné de détails, beaucoup de choses ne se sont pas passées comme prévu. Elle ne regrette pas pour autant son voyage. En guise de surprise, les membres ont reçu onze nouvelles émoticônes (dessinées par Maeriette), dont quatre émoticônes Ami, stylos-lumière et un marteau !",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.6641,
+        "width": 0.3856,
+        "height": 0.1476
+      }
+    },
+    {
+      "type": "heading",
+      "text": "CHAD Cast",
+      "bbox": {
+        "x": 0.7294,
+        "y": 0.6233,
+        "width": 0.175,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le sixième épisode de « CHAD Cast » est arrivé ! Dans cet épisode, les Chad (Calli, IRyS et Bae) ont enseigné à Bae les oiseaux et les abeilles, ont proposé de regarder Redline et ont parlé de pizza. Calli a expliqué qu’elle retirait le poulet de ses pizzas, car elle trouve la viande sur la pizza bizarre, tandis que IRyS adorait la pizza à l'ananas. Les filles ont également discuté de leurs expériences d'horreur et de leurs préférences en matière de sushi, Bae expliquant qu'elle préférait en fait les temakis.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.668,
+        "width": 0.3881,
+        "height": 0.1354
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les Chad ont également cherché à savoir pourquoi IRyS était si naturellement terrifiante, car YabaIRyS disait innocemment les choses les plus loufoques sans le vouloir ni même s'en rendre compte. Ils sont finalement arrivés à la conclusion qu'elle était naturellement YabaIRyS parce qu'elle était paradoxalement seiso. De grandes annonces ont également été faites avec Calli et IRyS qui ont annoncé de nouvelles chansons. L'épisode se termine par une fin secrète avec une version étrange de la chanson d'IRyS, « Caesura of Despair ».",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.819,
+        "width": 0.3881,
+        "height": 0.1506
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5b7awf1007891.png",
+    "gifFrame": null,
+    "confidence": 95
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2208_-_2808",
+  "page": 6,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.171,
+        "width": 0.0894,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen0",
+      "bbox": {
+        "x": 0.2637,
+        "y": 0.171,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La figurine POP UP PARADE de Sora est disponible en précommande sur la boutique en ligne GOODSMILE. Cette figurine colorée d'environ 18 cm coûte 5500 yens et sera expédiée aux alentours de janvier 2023.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.2083,
+        "width": 0.4481,
+        "height": 0.0716
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aki",
+      "bbox": {
+        "x": 0.1212,
+        "y": 0.2995,
+        "width": 0.0663,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.1969,
+        "y": 0.2995,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aki a malheureusement été testée positive au COVID-19. Elle va suspendre toutes ses activités pendant son traitement. Bon rétablissement, Aki !",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.3381,
+        "width": 0.445,
+        "height": 0.0425
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1219,
+        "y": 0.3993,
+        "width": 0.2075,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.3387,
+        "y": 0.3993,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de son stream du 23 août. Haachama a déclaré aux spectateurs qu'elle voulait avancer en tant qu'idole. Bien qu’elle ait considéré sa présentation de lingerie comme « très limite », elle a estimé qu'elle aurait un impact important sur ses spectateurs. Elle nous a fait part de ses inquiétudes quant à la façon dont sa vraie cuisine pourrait affecter les streams de « Haachama Cooking », et a demandé si les spectateurs ne venaient que pour la voir s'amuser. Elle souhaite que ses spectateurs soutiennent son rêve de devenir l'idole la plus forte du monde en déclarant : « Je veux des Haatons qui me soutiendront dans cette épreuve... Je pense que c'est ce qu'est un vrai fan. » Haachama, notre idole la plus forte, est en train de grandir. Comment ne pas être fier d'elle ?",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.4379,
+        "width": 0.4463,
+        "height": 0.2148
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1219,
+        "y": 0.6593,
+        "width": 0.2075,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.3387,
+        "y": 0.6593,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a commencé à manger des insectes au dîner pour son régime, montrant la variété de sacs d'insectes qu'elle avait rassemblés, comme un sac d'insectes mélangés, un sac de vers, et même un sac d'insectes enrobés de chocolat !",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.6992,
+        "width": 0.445,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cependant, elle s'est aperçue que sa tolérance aux insectes s'était affaiblie après ne pas en avoir mangé pendant si longtemps, et qu'il lui fallait beaucoup d'efforts rien que pour mâcher les quatre insectes qu'elle avait préparés.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.9162,
+        "width": 0.445,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.171,
+        "width": 0.1187,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen0",
+      "bbox": {
+        "x": 0.7625,
+        "y": 0.171,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le premier concert du Midnight Grand Orchestra étant terminé, Suisei a profité d'une pause dans ses enregistrements et entrainements cette semaine pour streamer pendant quatre jours consécutifs, une première depuis des mois. Elle a d'abord tenu une discussion d'une heure sur son premier stream, suivie d'un autre de cinq heures et demie sur Rust. Elle a ensuite tenté de construire une maison hantée alimentée par de la redstone dans un stream de trois heures avec l'aide du tchat et de Miko. Et enfin, elle a terminé cette série de streams en participant à une collaboration avec Sora, Subaru, Polka, Chloe et Koyori sur Gartic Phone.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.2101,
+        "width": 0.445,
+        "height": 0.1745
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.5887,
+        "y": 0.4071,
+        "width": 0.1375,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.4071,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir entendu dire qu'un hippodrome serait construit dans le serveur Minecraft Hololive, Fubuki a commencé à extraire des diamants pour se préparer à financer ses jeux.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.4423,
+        "width": 0.4456,
+        "height": 0.0573
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Off-Collab",
+      "bbox": {
+        "x": 0.6462,
+        "y": 0.5156,
+        "width": 0.1975,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.8531,
+        "y": 0.5156,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama et Miko ont organisé une collaboration hors ligne dans la maison de Miko, et c'était très mignon ! Ils ont lu des questions Marshmallows avec un micro ASMR tout en se taquinant mutuellement. Miko a préparé un repas pour Haachama à son arrivée et a même pris soin de tenir compte de son régime alimentaire actuel en lui préparant un steak de tofu pauvre en calories. Elles ont ensuite passé un test de compatibilité, dont les résultats ont révélé une compatibilité de 79% ! Lorsqu'on leur a demandé ce qu'elles aimaient l'une chez l'autre, Haachama a mentionné la personnalité attentionnée de Miko et sa cuisine, mais Miko s'est mise en avant en disant qu'elle aimait ses cheveux blonds. Continuant avec l'ASMR. Haachama a réalisé un véritable ASMR, qui a envoyé Miko au paradis. Ensuite, Haachama est allée prendre un bain, et Miko a demandé à la laisser se baigner avec elle avant de terminer le stream à la hâte.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.5516,
+        "width": 0.4456,
+        "height": 0.2522
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.5894,
+        "y": 0.8194,
+        "width": 0.2106,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.8094,
+        "y": 0.8194,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama va suivre un régime pour obtenir sa forme idéale de sablier. Pour atteindre son corps de rêve de 45 kg, elle devra en perdre 7. Mais bien sûr, Haachama a commencé son périple en dînant avec La+, qui n'a cessé de lui servir de bons plats pour la faire grossir. Heureusement, elle fera des streams quotidiens d'entraînement et de suivi pour enregistrer ses progrès.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.8572,
+        "width": 0.4456,
+        "height": 0.1163
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ug961yvzr1m91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

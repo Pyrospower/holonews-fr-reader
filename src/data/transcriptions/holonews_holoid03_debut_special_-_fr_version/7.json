@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_holoid03_debut_special_-_fr_version",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Kobo Kanaeru",
+      "bbox": {
+        "x": 0.0413,
+        "y": 0.0198,
+        "width": 0.4524,
+        "height": 0.1036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kobo Kanaeru est la dernière membre de la génération 3 d'holoID à avoir fait ses débuts après Zeta et Kaela, qui avaient fait leurs débuts plus tôt.",
+      "bbox": {
+        "x": 0.035,
+        "y": 0.1615,
+        "width": 0.4588,
+        "height": 0.0864
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kobo a commencé son aventure au sein d’holoID en étant victime de blagues sur son nom, qui ressemble au « kobokan aer » (un bol rempli d'eau utilisé dans les restaurants indonésiens pour se laver les mains avant de manger).",
+      "bbox": {
+        "x": 0.035,
+        "y": 0.2639,
+        "width": 0.4569,
+        "height": 0.1285
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a commencé par présenter un superbe site web qu’elle a fait elle-même. En plus de l'indonésien et de l'anglais, notre chamane de la pluie parle couramment quelques langages informatiques comme le HTML, le CSS et le JavaScript.",
+      "bbox": {
+        "x": 0.035,
+        "y": 0.4045,
+        "width": 0.4594,
+        "height": 0.1623
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour faire sa présentation et parler de son histoire, Kobo a utilisé sa chanson originale qu’elle a composé elle-même, avec un clip qu’elle a également réalisé elle-même. Elle est intitulée « Mantra Hujan » (litt. « Sort de la pluie »).",
+      "bbox": {
+        "x": 0.0344,
+        "y": 0.6063,
+        "width": 0.9288,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a ensuite présenté son immense collection d’instruments : elle possède un tambourin, une flûte à bec, une kalimba, une guitare, un clavier, une caisse claire et un violon cassé. Et bien que ses cheveux ressemblent à de l'eau, Kobo déteste l'eau et ne sait pas nager.",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.7036,
+        "width": 0.925,
+        "height": 0.0894
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir énuméré ses objectifs, qui comprennent, entre autres, l’achat d’un cheval, Kobo a terminé le stream en interprétant en direct sa chanson originale avec une guitare acoustique. En rappel, elle a chanté « Renai Circulation ».",
+      "bbox": {
+        "x": 0.0331,
+        "y": 0.8251,
+        "width": 0.9319,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "N’hésitez pas à aller découvrir la chaîne de cette adorable chamane des pluies !",
+      "bbox": {
+        "x": 0.035,
+        "y": 0.9223,
+        "width": 0.8825,
+        "height": 0.0165
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/kls1yrayvis81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

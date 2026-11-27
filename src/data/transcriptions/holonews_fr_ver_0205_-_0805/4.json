@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 0",
+      "bbox": {
+        "x": 0.4418,
+        "y": 0.0152,
+        "width": 0.1182,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.173,
+        "width": 0.0982,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bushimachi Suisei est de retour ! La version samouraï de Suisei relève de nouveaux défis dans Mario Kart, dans lequel elle ne pouvait pas utiliser de mots anglais. L’utilisation de l’un de ces termes mettra à terme au stream immédiatement. Elle a dû utiliser le mot « jeu » lors de l’explication des règles, et « timing » pendant sa première course, menant fin au stream, 13 minutes après avoir été lancé.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2131,
+        "width": 0.3875,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.4672,
+        "width": 0.0982,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei a fait un vote sur Twitter, demandant si elle devait jouer à Splatoon 2 ou à Ring Fit Aventure. En dépit de RFA qui a gagné avec 60% des suffrages, Suisei n’a pas pu mettre à jour le jeu. Elle a donc joué à Nintendo Switch Sports pour la première fois avec mon modèle 3D à domicile. Dans un premier temps contre d’IA, puis contre des vrais joueurs. Rempli de rage, Suisei a gagné la plupart de ces combats.",
+      "bbox": {
+        "x": 0.0669,
+        "y": 0.4696,
+        "width": 0.385,
+        "height": 0.1727
+      }
+    },
+    {
+      "type": "other",
+      "text": "Tokino Sora · Robocosan · AZKi · Sakura Miko · Hoshimachi Suisei",
+      "bbox": {
+        "x": 0.075,
+        "y": 0.755,
+        "width": 0.394,
+        "height": 0.011
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 0",
+      "bbox": {
+        "x": 0.1636,
+        "y": 0.7955,
+        "width": 0.0945,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la première fois, toute la génération 0 était en stream au même moment. Ce n’était pas une collaboration entre elles, ni même un stream sur la chaîne officielle, mais des streams indépendants. Miko a joué à Powerpro 2022 pour le Golden Game Week, Suisei était en partie classé sur Apex, Sora et AZKi étaient ensemble sur Minecraft et Roboco était en train de faire un stream cuisine chez Chloe.",
+      "bbox": {
+        "x": 0.0675,
+        "y": 0.8351,
+        "width": 0.3787,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.1717,
+        "width": 0.0745,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sora a récemment parlé de vieux anime qu’elle a vu quand elle était petite. Des noms comme Space Battleship Yamato ou Rantaro the Ninja Boy ont été mentionnés. Parmi les autres anime qu’elle a vu quand elle était adolescente, Sora a mentionné des anime comme Kuroko’s Basketball, Ouran High School Host Club et pleins d’autres anime d’idol qu’elle a vu qui l'ont influencé.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2096,
+        "width": 0.3769,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.4659,
+        "width": 0.0873,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko est retourné sur WWE2k22, créé une version samouraï de Suisei et une version obèse de Polka comme personnage personnalisé. Les moments forts du stream étaient quand Miko ne savait pas comment gravir les échelons pour mettre « de l’argent en banque » dans un match TLC , pour ensuite perdre une fois contre « Sui-chan » qui a écrasé Miko avec une chaise pliante à plusieurs reprises jusqu'à ce qu’elle soit inconsciente ; Miko qui était portée par Suisei pendant un combat en duo ; un combat dans une cage en acier avec Polka qui fuyait le combat, tandis que les autres combattants s’affrontaient dans la cage et qui s’est terminé de la pire façons qu’il soit; et Suisei qui a pris par derrière Polka et Mulkirose, remportant ainsi le match à mort, étant donné que Miko fut la première à être éliminé.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.5035,
+        "width": 0.3888,
+        "height": 0.2335
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.6364,
+        "y": 0.7803,
+        "width": 0.0818,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sora et Hirose Kohni, une chanteuse et compositrice japonaise, ont organisé un stream afin d'affiner leur compétence en chant. Étant plus expérimentée que Sora, Hirose a fait faire des exercices vocaux à Sora en lui demandant de chanter la note qu’elle jouait sur son piano.",
+      "bbox": {
+        "x": 0.5431,
+        "y": 0.8203,
+        "width": 0.3856,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De nombreux spectateurs ont noté que les exercices de chants de Hirose leur rappelaient les streams au piano de Sora. Sora a tellement apprécié ce stream qu'elle a même publié des extraits supplémentaires de conversations qu’elles ont eu ensemble sur sa chaîne.",
+      "bbox": {
+        "x": 0.5431,
+        "y": 0.911,
+        "width": 0.3844,
+        "height": 0.0777
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/yii65xmspg091.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

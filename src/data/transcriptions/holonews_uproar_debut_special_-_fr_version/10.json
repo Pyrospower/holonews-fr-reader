@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Après leurs débuts, UPROAR !!! s'est réuni au complet pour leur première collaboration, qui a commencé par un chaos total et une balance audio déréglée.",
+      "bbox": {
+        "x": 0.0313,
+        "y": 0.1272,
+        "width": 0.3881,
+        "height": 0.1059
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rempli d'excitation et d'agitation, ils ont parlé de ce qu'ils ressentaient à propos de leurs débuts, ainsi que de quelques détails intéressants sur leur interactions avant leurs débuts. Ils ont parlé de la façon dont ils jouaient ensemble et des streams qu'ils prévoyaient pour la semaine à venir.",
+      "bbox": {
+        "x": 0.0319,
+        "y": 0.263,
+        "width": 0.4088,
+        "height": 0.1701
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils n'ont pas oublié leurs précieux aînés, exprimant leur plus profond respect pour leurs camarades plus âgés.",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.4657,
+        "width": 0.4175,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour compléter leurs débuts, ils ont publié leur première reprise commune du mashup « Envy Baby x KING » de Kanaria.",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.5781,
+        "width": 0.4188,
+        "height": 0.0864
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Et ce n'est pas tout ! À l'occasion de leurs débuts, les holostars ont mis en ligne un manga de quinze pages créé par Gamma-sensei lui-même ! Le manga est en japonais et en anglais et raconte l'histoire de la fondation du groupe UPROAR !!! avec Yagoo et Shinove (le manager d'holostars).",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.6975,
+        "width": 0.4269,
+        "height": 0.1888
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il y a une version complète du manga sur le Twitter officiel des holostars !",
+      "bbox": {
+        "x": 0.0319,
+        "y": 0.9184,
+        "width": 0.415,
+        "height": 0.0378
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/rw15uf46wis81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

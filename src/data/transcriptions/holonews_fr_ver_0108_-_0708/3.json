@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Sakura Miko",
+      "bbox": {
+        "x": 0.02,
+        "y": 0.025,
+        "width": 0.9,
+        "height": 0.31
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko a célébré son 4e anniversaire le 1er août avec un concert en 3D intitulé Baby Dance Live! Le stream s'est ouvert sur un album photo retraçant les étapes et les événements importants de sa vie, tels que ses précédents anniversaires et les révélations de ses tenues.",
+      "bbox": {
+        "x": 0.0478,
+        "y": 0.4769,
+        "width": 0.4028,
+        "height": 0.1038
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko a interprété 13 chansons, avec des changements de tenues, de scènes et même des apparitions d'elle-même du passé grâce à un hologramme ! Haachama, Mio, Suisei, Polka, Noel et Flare étaient les invitées de son concert.",
+      "bbox": {
+        "x": 0.0478,
+        "y": 0.7407,
+        "width": 0.4194,
+        "height": 0.088
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir interprété « Hikaru Nara » avec le reste de Shiraken, Miko a lu une lettre de YAGOO lui-même ! Il a félicité Miko pour ses quatre années, racontant combien cela a été difficile pour elle au début, mais qu'elle a travaillé dur et a atteint son plein potentiel. YAGOO veut que Miko continue à faire de son mieux !",
+      "bbox": {
+        "x": 0.0472,
+        "y": 0.8426,
+        "width": 0.4172,
+        "height": 0.1196
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant de terminer le concert, Miko a annoncé que son premier album sortira dans le futur ! Elle a révélé et interprété l'une des chansons de cet album, « Baby Dance », produite par DECO*27. Ensuite, elle a remercié les 35P avant de mettre fin au stream.",
+      "bbox": {
+        "x": 0.5294,
+        "y": 0.4761,
+        "width": 0.4211,
+        "height": 0.1034
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ses produits dérivés d'anniversaire sont :",
+      "bbox": {
+        "x": 0.5294,
+        "y": 0.5945,
+        "width": 0.3906,
+        "height": 0.0131
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une tapisserie B2, illustrée par Ordan.\n• Un coussin illustré par Namori.\n• Un certificat d'assurance de sécurité 35P, avec une illustration de Namori.\n• Un sweat à capuche 35P élite à taille unique.",
+      "bbox": {
+        "x": 0.5433,
+        "y": 0.6208,
+        "width": 0.3806,
+        "height": 0.091
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous achetez l'ensemble complet, vous obtiendrez une carte postale illustrée par Ordan, estampillée avec un autographe et un message de Miko.",
+      "bbox": {
+        "x": 0.5294,
+        "y": 0.7249,
+        "width": 0.4011,
+        "height": 0.0598
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/klv7w376lwh91.gif",
+    "gifFrame": 89,
+    "confidence": 92
+  }
+}

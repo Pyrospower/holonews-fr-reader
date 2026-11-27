@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "hololive 3rd fes. Link Your Wish",
+      "bbox": {
+        "x": 0.348,
+        "y": 0.335,
+        "width": 0.309,
+        "height": 0.048
+      }
+    },
+    {
+      "type": "other",
+      "text": "2022.3.19[SAT] - 3.20[SUN] in MAKUHARI MESSE EVENT HALL",
+      "bbox": {
+        "x": 0.2028,
+        "y": 0.4182,
+        "width": 0.5867,
+        "height": 0.0104
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive 3rd Fes",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.454,
+        "width": 0.498,
+        "height": 0.064
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un stream avec Iofi, Botan, Kiara et A-chan, puis dans un tweet, hololive a annoncé qu’holoMyth et Area15 feraient leur apparition au hololive 3rd fes. Link Your Wish en mars, bien que la forme de leur apparition n’a pas été confirmée. De plus, absolument tous les membres d’holoPro, y compris holoRo, holoCouncil, IRyS, holoX et holostars, seront présents à hololive SUPER EXPO.",
+      "bbox": {
+        "x": 0.0528,
+        "y": 0.5324,
+        "width": 0.8767,
+        "height": 0.1173
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hololive a aussi dévoilé les produits dérivés qui seront disponibles à la SUPER EXPO 2022. Il y a des bâtonnets lumineux, des t-shirts, des sweats à capuche, une serviette et des sacs. De plus amples informations sur les lieux de vente des produits seront disponibles ultérieurement, mais gardez un œil sur la boutique officielle d’hololive et Geekjack.",
+      "bbox": {
+        "x": 0.0528,
+        "y": 0.6593,
+        "width": 0.8867,
+        "height": 0.1215
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/j4f6g8g6x8f81.gif",
+    "gifFrame": 87,
+    "confidence": 89
+  }
+}

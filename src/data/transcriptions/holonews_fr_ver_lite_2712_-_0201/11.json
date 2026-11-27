@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2712_-_0201",
+  "page": 11,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STATS ET SORTIES",
+      "bbox": {
+        "x": 0.1456,
+        "y": 0.0395,
+        "width": 0.5588,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nORIGINALE\nNOUVEAU",
+      "bbox": {
+        "x": 0.8381,
+        "y": 0.0317,
+        "width": 0.115,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/27\n[Suisei] Bluerose: 4M\n[IRyS] Sparks of Joy: 100K\n[Ollie] Kyouran Hey Kids: 2M\n[Matsuri/Shion] Sweet Magic: 750K\n[Okayu] Animal: 1M",
+      "bbox": {
+        "x": 0.0512,
+        "y": 0.1076,
+        "width": 0.4369,
+        "height": 0.115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/28\n[Mio] Animal: 100K\n[Lamy/Botan] Lion: 250K\n[Kanata] Tenshi No Agape: 250K\n[A Chan] DJ Tekina Remix Compilation: 500K\n[Mel] Vampire: 750K",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.1076,
+        "width": 0.4363,
+        "height": 0.115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/29\n[Towa] Eye: 1M\n[Fubuki] Animal: 500K\n[Kanata] Watashi E (Cover): 100K\n[Okayu/Kanata] Kodoku no Shuukyou: 500K\n[Shion] Acacia Syndrome: 100K\n[Sora] Natsumatsuri: 750K",
+      "bbox": {
+        "x": 0.0512,
+        "y": 0.2148,
+        "width": 0.4369,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/30\n[Shion] Phony: 500K\n[lofi] Buatmu Tertawa: 75K\n[Izuru] Aishite Aishite Aishite: 750K\n[Astel/Izuru/Rikka/Shien] Monster Dance: 250K\n[Gura] Target For Love: 750K\n[Ame] Deck The Halls: 250K\n[Astel/Oga] Airhead: 25K",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.2118,
+        "width": 0.4363,
+        "height": 0.1224
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/31\n[Lui] Rabuka? (Cover): 100K\n[Towa/Suisei] Haiiro To Ao: 1M\n[Polka/Lamy] Kaibutsu-san: 500K\n[Watame/Botan] Shishiwata Cooking: 100K\n[Umisea] Domination! All The World Is An Ocean: 1M",
+      "bbox": {
+        "x": 0.0512,
+        "y": 0.3359,
+        "width": 0.4369,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/01\n[Suisei] Kakero: 2M\n[Kiara] Sad Sparks: 100K\n[Koyori] Nh-Uh-Uh.: 500K\n[Suisei] Bye Bye Rainy: 500K\n[Matsuri] ChichinPuiPui: 500K\n[AZKi/Sora] Kimi Wa Boku Ni Nite Iru: 500K\n[Holostars 1-3] Journey To Find Stars (Full): 50K\n[HoloEN 1/2/Hope] The Twelve Days of Christmas: 750K",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.3533,
+        "width": 0.4363,
+        "height": 0.1576
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/02\n[Polka] Phony: 750K\n[HoloALICE] Alice in NY: 7M\n[Akirose/Roboco] Black Shout: 250K\n[HoloEN 1/2/Hope] Ochame Kinou (Cover): 750K\n[Kiara/Ina] I~ya I~ya I~ya: 750K\n[Ollie] Speed: 250K",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.4601,
+        "width": 0.435,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nKanata\nTENSHI NO AGAPE",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.592,
+        "width": 0.2294,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nShion\nACACIA SYNDROME",
+      "bbox": {
+        "x": 0.27,
+        "y": 0.592,
+        "width": 0.2294,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nWatame & Botan\nSHISHI WATA COOKING",
+      "bbox": {
+        "x": 0.5006,
+        "y": 0.592,
+        "width": 0.2294,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nKanata\nWATASHI E",
+      "bbox": {
+        "x": 0.7312,
+        "y": 0.592,
+        "width": 0.2294,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "other",
+      "text": "COVER\nAstel & Oga\nGARANDO",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.6827,
+        "width": 0.2294,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nHolostars\nJOURNEY TO FIND STARS (FULL)",
+      "bbox": {
+        "x": 0.27,
+        "y": 0.6827,
+        "width": 0.2294,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nHoloEN\nOCHAME KINOU",
+      "bbox": {
+        "x": 0.5006,
+        "y": 0.6827,
+        "width": 0.2294,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nLui\nRABUKA?",
+      "bbox": {
+        "x": 0.7312,
+        "y": 0.6827,
+        "width": 0.2294,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nAZKi\nOVER LIGHT",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.7734,
+        "width": 0.2294,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nIrohanihohetto AyaFubuMi\nONIKEMO-\nDANCE",
+      "bbox": {
+        "x": 0.27,
+        "y": 0.7734,
+        "width": 0.2294,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nCalli\nDAWN BLUE",
+      "bbox": {
+        "x": 0.5006,
+        "y": 0.7734,
+        "width": 0.2294,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nAZKi\nEXISTLOG",
+      "bbox": {
+        "x": 0.7312,
+        "y": 0.7734,
+        "width": 0.2294,
+        "height": 0.0898
+      }
+    },
+    {
+      "type": "other",
+      "text": "NOUVEL ALBUM\nTsunomaki Watame\nWATAME NO UTA VOL.2",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.872,
+        "width": 0.8612,
+        "height": 0.0872
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/wwym2pcubhb81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

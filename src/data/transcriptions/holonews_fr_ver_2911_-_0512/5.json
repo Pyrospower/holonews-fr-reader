@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 0",
+      "bbox": {
+        "x": 0.1836,
+        "y": 0.029,
+        "width": 0.1727,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1618,
+        "y": 0.2008,
+        "width": 0.1418,
+        "height": 0.0253
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant le « Youtube Music Weekend », Suisei a donné un condensé des chansons de son premier concert individuel, en accompagnant sa performance de « Bye Bye Rainy », « Blue Rose », « Je t’aime », « Jibunkatte Dazing », « comet ~midnight jazz arrange~» avec un pic d’audience de pas moins de 28 000 personnes pendant 3 minutes et 12 secondes.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2444,
+        "width": 0.4225,
+        "height": 0.1137
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 9 décembre, « Bluerose », « Tenkyuu », « Suisei wa Yoru wo Mataide », et « comet » avec « Cloudy Sheep » de Watame, seront ajoutées à DAM (un service de karaoké japonais).",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3811,
+        "width": 0.4263,
+        "height": 0.0799
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.6309,
+        "y": 0.2033,
+        "width": 0.1236,
+        "height": 0.0253
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko a fait un stream de cuisine cette semaine qui a eu le droit à un véritable rebondissement ! Elle cuisinait comme si elle était au camping, avec une gazinière et un plat transportable.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2444,
+        "width": 0.4244,
+        "height": 0.0582
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a cuisiné un simple pot-au-feu à partir de pâtes, de viande et de quelques légumes, assaisonné avec des herbes et des épices. Pendant ce temps, elle a montré ses adorables mitaines.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3177,
+        "width": 0.4131,
+        "height": 0.0703
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir fini son plat, elle a voulu essayer le thème « Étalage » pour son prochain stream.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.4063,
+        "width": 0.4081,
+        "height": 0.0408
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1618,
+        "y": 0.5972,
+        "width": 0.1418,
+        "height": 0.0253
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant la célébration du second anniversaire du transfert de Suisei chez hololive, elle a présenté plusieurs nouveaux assets dont une scène de karaoké, une salle de discussion et quatre de jeu. Elle a aussi obtenu une entrée en scène et des écrans de transition. Elle a parlé plus tard de tout le processus d’acquisition de ses nouveaux assets et de l’embauche du dessinateur qui a remplacé ses anciens designs qui dataient de ses débuts.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.6402,
+        "width": 0.425,
+        "height": 0.168
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roboco",
+      "bbox": {
+        "x": 0.6309,
+        "y": 0.5972,
+        "width": 0.1727,
+        "height": 0.0253
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roboco a tenu un stream Mario Kart afin de régler un but qu’elle avait rencontré. Tant qu’elle ne finissait pas à la première place, son avatar se multipliait tout au long du stream, et il s’arrêtait si elle enchaînait successivement la dernière place.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.6406,
+        "width": 0.4181,
+        "height": 0.0955
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le stream a duré 46 minutes et Roboco a été multipliée 9 fois jusqu’à ce qu'elle soit arrivée dernière deux fois d’affilée.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.753,
+        "width": 0.4106,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.6309,
+        "y": 0.8548,
+        "width": 0.1145,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sora a été invitée à participer au Virtual Music Award 2021, présenté par CREDIT SAISON. L’événement se déroulera le 29 décembre.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.9102,
+        "width": 0.4113,
+        "height": 0.0599
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cmn54b7rjq581.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

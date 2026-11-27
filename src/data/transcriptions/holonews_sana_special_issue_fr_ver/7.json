@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_sana_special_issue_fr_ver",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "SES DEBUTS PAGE 1",
+      "bbox": {
+        "x": 0.0529,
+        "y": 0.0962,
+        "width": 0.6986,
+        "height": 0.0437
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans la vidéo « Prelude », publiée le 31 juillet 2021, on apprend qu’« au commencement, Dieu a créé \"l'Espace\" ». Dès lors l'Espace a servi de fondation pour la Nature et tous les autres concepts. L'Espace peut être terrifiant pour nous, simple mortel, mais sans lui, nous ne serions pas là !",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.4375,
+        "width": 0.89,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les filles du Council ont fait leurs apparitions le 23 août, et la première à faire ses débuts était l'Espace, Tsukumo Sana ! Elle a commencé ses débuts avec un discours profond sur la conscience, la mortalité et la signification de l'univers. Furieuse que les humains accusent l'univers de tous leurs problèmes, Sana est descendue sur Terre pour leur montrer la beauté de l'Espace. Salut BEEG SANA !",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.5582,
+        "width": 0.8906,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Son anniversaire est le 10 juin, elle est donc Gémeaux. Elle a 138 000 000 000 (138 milliards) d'années (l'âge approximatif de l'univers), mais l'a mal prononcé et a dit « 13 milliards ». Sa taille normale est de 1 697 840 000 000 (un billion six cent quatre-vingt-dix-sept milliards huit cent quarante millions) de kilomètres, et même avec son limiteur de taille qui la ramène à une taille raisonnable de 169 cm, Sana est GRAAAANDE ! Elle a précisé que le limiteur fait également office de bobine anti-moustique (les moustiques étant une erreur de l'univers).",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.6866,
+        "width": 0.8756,
+        "height": 0.1133
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sana a ensuite présenté sa mascotte, Yatagarasu, le dieu du soleil de la mythologie japonaise. Sa véritable forme est un corbeau à trois pattes, mais pour éviter que nos cerveaux ne fondent, il prend la forme plus réaliste d'une petite créature orange ressemblant à un ver. Il vomit également des souhaits pour Sana quand il en a envie, comme un presse-papier pour son bureau, qui est une galaxie entière !",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.8481,
+        "width": 0.8913,
+        "height": 0.0803
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3pk3ar1un4f91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 11,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.093,
+        "y": 0.042,
+        "width": 0.353,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.213,
+        "width": 0.117,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir vu les autres membres d’holostars jouer à des jeux de drague pour femmes, Astel a décidé de s'orienter vers ceux destinés à un public masculin en jouant à Doki Doki Literature Club en stream. Avant de débuter son stream, Astel a partagé dans le tchat de la salle d’attente sa peine à changer le nom de son PC, car il y avait un risque que DDLC l’affiche. Fidèle à lui-même, il a essayé de le renommer « ch◯nch◯n ». Finalement, il a décidé de lancer son stream sous condition que si des informations personnelles étaient révélées, l’archive du stream devrait être retirée.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.254,
+        "width": 0.43,
+        "height": 0.204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a de nouveau essayé de piéger ses spectateurs. Dans la salle d’attente précédant son stream DDLC, Astel a demandé à tout son tchat d’imiter des scénarios de jeux de drague. Cependant, alors que son tchat s’exécutait, Astel les a réprimandés de jouer dans sa salle d’attente.",
+      "bbox": {
+        "x": 0.049,
+        "y": 0.504,
+        "width": 0.437,
+        "height": 0.14
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Temma & Others",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.217,
+        "width": 0.31,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après le stream anniversaire de Temma en 3D, Aruran, Miyabi et Temma ont décidé de faire une soirée pyjama improvisée dans la maison d'Arurandeisu. Après avoir acheté leur dîner à l'épicerie, ils ont joué à Pokémon et se sont relayés pour jouer et commenter le jeu. Ils ont enchaîné avec Smash Bros où Temma a écrasé Aruran et Miyabi avec des scores de 14, 5 et 2 respectivement. En récompense, Temma a dormi dans un lit tandis que les deux autres ont dormi par terre.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.254,
+        "width": 0.414,
+        "height": 0.206
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant le déjeuner, ils ont parlé de produits dérivés qu'ils ne peuvent pas vendre comme des sous-vêtements. Au début, ils voulaient en faire pour Noël, mais ils se sont résignés, car leurs fans ne s'en serviraient pas. C'est pourquoi les sous-vêtements ont été remplacés par des chaussettes qui sont actuellement en vente. Alors qu'ils discutaient de beaucoup de choses, Temma voulait s‘éclipser pour dormir.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.48,
+        "width": 0.429,
+        "height": 0.174
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Izuru & Rikka",
+      "bbox": {
+        "x": 0.189,
+        "y": 0.803,
+        "width": 0.267,
+        "height": 0.021
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer leur collaboration avec le jeu de machines à pince en ligne de Capcom, Net Catcher, Izuru et Rikka ont organisé un stream où ils ont essayé d'obtenir autant de prix que possible en une heure. Pendant qu'ils se démenaient sur le jeu, ils ont reçu l'aide de la « main de Dieu » à cinq reprises.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.8416,
+        "width": 0.4188,
+        "height": 0.1089
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Oga",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.8016,
+        "width": 0.0806,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aramagi Oga est maintenant certifié sur Twitter, ce qui fait de lui le premier membre d’holostars à obtenir le badge bleu.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.8416,
+        "width": 0.4681,
+        "height": 0.0477
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/mrnna2rbop881.png",
+    "gifFrame": null,
+    "confidence": 85
+  }
+}

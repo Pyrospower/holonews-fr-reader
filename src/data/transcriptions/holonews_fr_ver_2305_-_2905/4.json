@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2305_-_2905",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 0",
+      "bbox": {
+        "x": 0.4415,
+        "y": 0.015,
+        "width": 0.1185,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.1662,
+        "y": 0.1784,
+        "width": 0.0815,
+        "height": 0.0214
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko est revenue d'une semaine de pause avec une annonce importante. Le 28 mai, elle recevra une nouvelle tenue qui sera révélée lors d’un concert 3D. Le hashtag pour les prédictions de sa nouvelle tenue est #さくらみこ新衣装予想 ! Elle a également parlé en stream de ce qu’elle a fait pendant sa pause, et plus précisément des péripéties qu’elle a rencontrées en rendant visite aux membres de sa famille qui vivent loin d'elle.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2183,
+        "width": 0.3869,
+        "height": 0.1185
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.1784,
+        "width": 0.1,
+        "height": 0.0214
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei a séduit son public dans son dernier Short sur YouTube, dans lequel elle a plaqué ses spectateurs contre le mur et les a embrassés sans dire un mot. Les commentaires de la vidéo montraient un accord unanime sur le fait que Suisei était très mignonne, et de nombreux Hoshiyomis se sont interrogés sur l'impossibilité de ne pas tomber amoureux d’elle.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2183,
+        "width": 0.3838,
+        "height": 0.1176
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 1",
+      "bbox": {
+        "x": 0.4469,
+        "y": 0.3537,
+        "width": 0.0794,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mel",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.5737,
+        "width": 0.06,
+        "height": 0.0203
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des progrès ont été faits sur le stream Raft de Mel, qui a passé deux heures à améliorer son radeau et à parler d'elle. Elle a parlé de la préparation d'une collaboration en personne avec Koyori, et du fait qu’elles se sont amusées ensemble dans le bain. Elle a également parlé de sa voiture (une Subaru !) et de l'histoire d'un chauffeur de taxi qui l'a complimentée. Elle a été grossièrement interrompue à deux reprises par des requins alors qu'elle discutait, et a également découvert qu'un radeau pouvait avoir plusieurs étages. Ces deux heures de stream étaient très confortables.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.6115,
+        "width": 0.3881,
+        "height": 0.1849
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.6308,
+        "y": 0.5182,
+        "width": 0.1231,
+        "height": 0.0224
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuri a montré qu'elle pouvait copier les voix de deux personnages de Spy X Family lors de son stream du dimanche matin. Avant qu’elle reproduise les voix de Yor et Anya, les spectateurs ont entendu Matsuri faire une voix de grande sœur. De quoi bien se réveiller, n’est-ce pas ?",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.5547,
+        "width": 0.3863,
+        "height": 0.0738
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.6369,
+        "y": 0.6771,
+        "width": 0.1206,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuri a travaillé dur la semaine dernière pour préparer la CRCup. La semaine dernière, elle a fait cinq streams avec Shiina Yuika de Nijisanji et le joueur professionnel RAS, ce qui fait au total quinze heures et demie de stream. Dans deux des streams, au lieu de filmer son visage, elle a montré son corps.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.7118,
+        "width": 0.3863,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 6",
+      "bbox": {
+        "x": 0.4431,
+        "y": 0.829,
+        "width": 0.1125,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.1692,
+        "y": 0.9231,
+        "width": 0.1092,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de son stream sur Power Pro Baseball, Koyori a enfin remporté sa première victoire lors d’un tournoi de baseball. Les demi-finales étaient particulièrement spéciales puisqu'elle a dû faire une manche décisive de 12 services, elle perdait de 6 points. Face à cette situation, Koyori avait perdu tout espoir de gagner le match, mais ses joueurs ont miraculeusement réussi à remonter la pente et à remporter le match, à sa grande surprise.",
+      "bbox": {
+        "x": 0.1719,
+        "y": 0.8889,
+        "width": 0.7656,
+        "height": 0.0803
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/zvk90cjpo1391.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "2 ans d’HoloNews",
+      "bbox": {
+        "x": 0.0781,
+        "y": 0.1428,
+        "width": 0.215,
+        "height": 0.0178
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ayame",
+      "bbox": {
+        "x": 0.6563,
+        "y": 0.2062,
+        "width": 0.325,
+        "height": 0.0629
+      }
+    },
+    {
+      "type": "other",
+      "text": "a fêté son 4e anniversaire",
+      "bbox": {
+        "x": 0.7925,
+        "y": 0.273,
+        "width": 0.1875,
+        "height": 0.0447
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kaela",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.2795,
+        "width": 0.1844,
+        "height": 0.0495
+      }
+    },
+    {
+      "type": "other",
+      "text": "a fêté son anniversaire",
+      "bbox": {
+        "x": 0.0188,
+        "y": 0.3377,
+        "width": 0.1844,
+        "height": 0.0443
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.7844,
+        "y": 0.3602,
+        "width": 0.1969,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "other",
+      "text": "a révélé sa nouvelle tenue",
+      "bbox": {
+        "x": 0.7625,
+        "y": 0.4206,
+        "width": 0.2188,
+        "height": 0.0452
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.0187,
+        "y": 0.4123,
+        "width": 0.1906,
+        "height": 0.0499
+      }
+    },
+    {
+      "type": "other",
+      "text": "a fêté son 4e anniversaire",
+      "bbox": {
+        "x": 0.0188,
+        "y": 0.4753,
+        "width": 0.1894,
+        "height": 0.0447
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holo Summer",
+      "bbox": {
+        "x": 0.545,
+        "y": 0.5838,
+        "width": 0.4375,
+        "height": 0.0499
+      }
+    },
+    {
+      "type": "other",
+      "text": "le Festival organisé par Usaken",
+      "bbox": {
+        "x": 0.7969,
+        "y": 0.6476,
+        "width": 0.1844,
+        "height": 0.0673
+      }
+    },
+    {
+      "type": "other",
+      "text": "FR\nVol 2\n6 Sep 2022",
+      "bbox": {
+        "x": 0.7,
+        "y": 0.816,
+        "width": 0.2813,
+        "height": 0.1671
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cgmzilkiaqn91.png",
+    "gifFrame": null,
+    "confidence": 74
+  }
+}

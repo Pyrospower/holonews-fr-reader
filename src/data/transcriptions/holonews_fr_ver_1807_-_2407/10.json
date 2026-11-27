@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.2606,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.243,
+        "width": 0.08,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après s’être tellement énervé dans le stream précédent qu’il avait désinstallé le jeu, Astel s’est de nouveau mis à jouer à Apex. Il a repris ses habitudes une fois de plus avec, bien sûr, des longs streams d’Apex, dont un stream endurance jusqu’aux 300 kills avec ses spectateurs. Enfin, Astel a pu atteindre le rang Diamant dans le nouveau système de classement en étant seul.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.2821,
+        "width": 0.3888,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Félicitation à Astel qui s’amuse sur Apex de nouveau !",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.4036,
+        "width": 0.3613,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.566,
+        "width": 0.0781,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir fini un stream de karaoké non archivé, Astel a soudainement mis en place un autre stream juste après. Dans ce stream de 30 minutes, Astel a joué le rôle d’un étudiant universitaire atteint de surdité musicale qui a un rendez-vous avec YAGOO pour faire un karaoké. L’étudiant universitaire a chanté quelques chansons en prétendant être atteint de surdité musicale, malgré le fait qu’il laissait souvent s’échapper sa bonne voix de chant.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.6037,
+        "width": 0.3881,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il ne s’est cependant pas arrêté là, Après cela, il a fait un stream de douze minutes où il prétendait être un VTuber sirène qui se noyait tout en chantant. Plus tard, il a tweeté que le VTuber sirène serait en pause indéfinie. Reviens s’il te plaît, sirène Astel, tu nous manques !",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.7517,
+        "width": 0.3844,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "other",
+      "text": "zzZ",
+      "bbox": {
+        "x": 0.188,
+        "y": 0.851,
+        "width": 0.041,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "StarsEN",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.243,
+        "width": 0.129,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 23 et 24 Juillet, les membres de la guilde TEMPUS, Regis Altare, Magni Dezmond, Axel Syrios et Noir Vesper nous ont enfin fait par de leur présence ! Chaque élyséen ont fait un stream d’une durée d’environ une heure. Ils se sont présentés, ont passé quelques diapositives, et ont parlé de leurs personnalités et personnages. Certains avaient même des surprises pendant leurs débuts. Après leurs débuts, les quatres se sont rassemblés sur la chaîne de Dezmond pour leur toute première collab en groupe. Allez voir le numéro spécial d’HoloNews sur les débuts de TEMPUS pour plus de détails, et bienvenue dans la famille, TEMPUS !",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.2826,
+        "width": 0.3988,
+        "height": 0.1866
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.631,
+        "y": 0.663,
+        "width": 0.116,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran peut être de nouveau torse nu après avoir perdu la fonctionnalité pendant quelques jours. Pour fêter cela, il a décidé de réaliser un stream torse nu sur Minecraft.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.7027,
+        "width": 0.3856,
+        "height": 0.0503
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.6325,
+        "y": 0.816,
+        "width": 0.1119,
+        "height": 0.0156
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela va faire maintenant un an qu’Aruran a réussi à avoir un axolotl de couleur bleu sur Minecraft. Pour célébrer, il a décidé de faire un petit voyage dans le temps avec ses spectateurs. Il a remarqué qu’après qu’il ait obtenu son axolotl bleu, tous les membres d’HOLOSTARS ont eu leur propre modèles 3D, des chansons originales, une série d’animation, et des nouveaux cadets. En seulement un an, HOLOSTARS a beaucoup grandi. Le temps passe vite.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.8529,
+        "width": 0.3869,
+        "height": 0.1345
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/60vvyglo0qf91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

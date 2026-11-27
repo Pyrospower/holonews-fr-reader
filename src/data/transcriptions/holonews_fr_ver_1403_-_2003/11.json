@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 11,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 6",
+      "bbox": {
+        "x": 0.4375,
+        "y": 0.0161,
+        "width": 0.125,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+",
+      "bbox": {
+        "x": 0.1656,
+        "y": 0.1801,
+        "width": 0.0556,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Démarrant son stream Duolingo sur les chapeaux de roue, La+ l’a débuté en se présentant en anglais. Elle a commencé avec des mots simples liés à de la nourriture et a formé des phrases courtes pour donner un ordre, avant de saluer son public et de se présenter. Durant une heure, La+ a fait de son mieux pour comprendre la langue anglaise. Elle a même dit au revoir en anglais avant de mettre fin au stream.",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.2183,
+        "width": 0.3806,
+        "height": 0.1584
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloX",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.1801,
+        "width": 0.1031,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les membres d’holoX se sont rassemblées pour regarder l’Holofes et étaient admiratives des prestations de leurs aînées. Myth et AREA15 les ont laissées particulièrement ébahies, presque assez pour verser une larme ! Malheureusement, La+ était absente pour le visionnage du premier jour à cause d’une réaction allergique, nous dérobant l’occasion de la voir s’époumoner pour Towa.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.2183,
+        "width": 0.3919,
+        "height": 0.1467
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chloe",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.4575,
+        "width": 0.0944,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les aventures de Chloe sur Elden Ring : « Si je meurs, je fais trois abdos » ont continué leur cours cette semaine, avec Chloe s'attaquant au Château de Voilorage et à son boss, Godrick le Greffé. Après 26 morts et un total de 78 abdominaux, elle a enfin réussi à vaincre Godrick et à conquérir le Château de Voilorage.",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.434,
+        "width": 0.725,
+        "height": 0.073
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.4094,
+        "y": 0.5603,
+        "width": 0.1794,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Korone",
+      "bbox": {
+        "x": 0.1656,
+        "y": 0.7218,
+        "width": 0.1181,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Dragon de Dojima renaît une nouvelle fois dans le let's play de Korone sur Yakuza sur PS2. Elle a pris beaucoup de plaisir à explorer les ruelles sombres de Kamurocho, tentant sa chance aux machines à pince et faisant de la pâtée de ses adversaires dans des combats ardents. Son aventure ne fait que commencer, donc assurez-vous de ne pas manquer le prochain épisode dans lequel elle enquêtera sur le mystère des dix milliards de yens !",
+      "bbox": {
+        "x": 0.0681,
+        "y": 0.7626,
+        "width": 0.3869,
+        "height": 0.1762
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mio & Fubuki",
+      "bbox": {
+        "x": 0.6425,
+        "y": 0.7218,
+        "width": 0.2106,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mio a joué au jeu d'horreur Within Skerry. Fubuki était là pour l'épauler, équipée de son harmonica. L'objectif était d'apaiser Mio grâce à la musique durant les moments angoissants du jeu. Cependant, l'harmonica a eu l'effet inverse lorsque Fubuki s'est mise à en jouer pendant que Mio traversait une forêt sombre, la faisant sursauter. L'harmonica a fait son retour plus tard dans le stream, dans l'espoir de porter secours à la santé mentale de Mio. Fubuki a pris beaucoup de plaisir à profiter des moments d'effroi de Mio pour la câliner.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.7626,
+        "width": 0.395,
+        "height": 0.191
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/urbzei61s5q81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

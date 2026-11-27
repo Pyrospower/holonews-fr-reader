@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 1",
+      "bbox": {
+        "x": 0.1892,
+        "y": 0.0694,
+        "width": 0.1492,
+        "height": 0.0267
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Matsuri & Fubuki",
+      "bbox": {
+        "x": 0.1569,
+        "y": 0.2447,
+        "width": 0.3308,
+        "height": 0.0203
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuri et Fubuki ont joué à Phasmophobia avec Koyote et Shimahai de KemoV. En une heure de jeu, les filles ont été capables d'identifier tous les fantômes habitant les maisons. Ce stream n'était pas la première collaboration entre Hololive et KemoV, Matsuri avait déjà joué à APEX avec Kepe.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2847,
+        "width": 0.4175,
+        "height": 0.128
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki & Mel",
+      "bbox": {
+        "x": 0.1769,
+        "y": 0.5502,
+        "width": 0.2923,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mel et Fubuki ont participé à une session du jeu de rôle sur table Emoklore avec le doubleur Chiharu et Suo Sango de Nijisanji, avec Kiriyama Yanmi comme maître de jeu. Leurs personnages étaient le lycéen Kakihara Yuuto (Fubuki), le lycéen Masaki Ryo (Chinararu), le garçon de quatorze ans Fushobu Sho (Sango) et sa camarade de classe Shiratori Kanade (Mel).",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.5946,
+        "width": 0.4094,
+        "height": 0.1602
+      }
+    },
+    {
+      "type": "other",
+      "text": "Welcome back\nHAACHAMA!!!",
+      "bbox": {
+        "x": 0.6585,
+        "y": 0.1197,
+        "width": 0.1646,
+        "height": 0.0288
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.2169,
+        "width": 0.2415,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama avait disparu de YouTube et de Twitter pendant 15 jours. Elle ne postait qu'occasionnellement des photos de paysage, qu'elle supprimait au bout de quelques heures. Elle est enfin revenue et a expliqué pourquoi elle a été absente pendant tout ce temps. Haachama a déménagé et devait se préparer pour des tests, ce qui ne l'a pas aidée à les réussir.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2604,
+        "width": 0.4244,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki & Oga",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.5534,
+        "width": 0.2954,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lady Fubuki a invité sa servante personnelle, le démon Oga, à une partie de Jeu des Fleurs sur 51 Worldwide Games. La dernière fois qu'ils ont joué, Oga a battu Fubuki à plate couture, et cette fois, c'était pareil. Oga n'a montré aucune pitié pour son adversaire, mais cette fois, Fubuki avait un atout dans sa manche. Elle a fait appel à YAGOO pour augmenter sa chance et ça a fonctionné, puisqu’elle a gagné le tour où il était présent. Ils ont terminé le stream avec une partie de Yam’s, que Fubuki a remporté.",
+      "bbox": {
+        "x": 0.5263,
+        "y": 0.599,
+        "width": 0.4194,
+        "height": 0.1979
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Akirose doublera Lutina, l'elfe du futur anime Isekai Meikyuu de Harem wo (Slave Harem in Another World Maze). Elle a également fait la voix de l'avant-première. La publication de l’animé commencera plus tard cette année.",
+      "bbox": {
+        "x": 0.5194,
+        "y": 0.8329,
+        "width": 0.4231,
+        "height": 0.0955
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/el1lpcfs4uh81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

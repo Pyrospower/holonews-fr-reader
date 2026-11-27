@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.1606,
+        "width": 0.0819,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "other",
+      "text": "Nouvelle tenue après avoir atteint 100 000 abonnés.",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.1997,
+        "width": 0.165,
+        "height": 0.0408
+      }
+    },
+    {
+      "type": "heading",
+      "text": "L’album d’Aqua",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.2648,
+        "width": 0.1638,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "other",
+      "text": "Aqua-iro in wonderland",
+      "bbox": {
+        "x": 0.0419,
+        "y": 0.3047,
+        "width": 0.1069,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.0969,
+        "y": 0.3559,
+        "width": 0.0681,
+        "height": 0.0156
+      }
+    },
+    {
+      "type": "other",
+      "text": "De retour après une longue semaine sans stream.",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.395,
+        "width": 0.1963,
+        "height": 0.0417
+      }
+    },
+    {
+      "type": "other",
+      "text": "Omaru Polka",
+      "bbox": {
+        "x": 0.4387,
+        "y": 0.7153,
+        "width": 0.5356,
+        "height": 0.2023
+      }
+    },
+    {
+      "type": "other",
+      "text": "Trouvez les huit Shubas pour gagner… rien du tout",
+      "bbox": {
+        "x": 0.595,
+        "y": 0.9106,
+        "width": 0.3931,
+        "height": 0.0482
+      }
+    },
+    {
+      "type": "other",
+      "text": "Nous sommes à la recherche de plus de journalistes pour les talents JP.",
+      "bbox": {
+        "x": 0.3431,
+        "y": 0.9674,
+        "width": 0.6525,
+        "height": 0.0156
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/6z4vachuufg81.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

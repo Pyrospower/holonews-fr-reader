@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOMYTH",
+      "bbox": {
+        "x": 0.0593,
+        "y": 0.0502,
+        "width": 0.4148,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Amelia",
+      "bbox": {
+        "x": 0.1611,
+        "y": 0.2199,
+        "width": 0.1574,
+        "height": 0.0283
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ame étant partie en vacances pour Thanksgiving pendant quelques jours, Smol Ame a pris le contrôle de la chaîne en publiant des Shorts ou elle fait des choses comme montrer ses pas de danse incroyables ou répondre aux questions de ses fans.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2669,
+        "width": 0.4231,
+        "height": 0.1202
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.1611,
+        "y": 0.5208,
+        "width": 0.1296,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer les 1 an de « Hinotori », Kiara a fait faire des remixes par 3 producteurs de renommée. Un remix retrowave fait par Astrophysics, une version « drum and bass » par REDSHiFT, et Lone Alpha a travaillé dans un genre proche de la trap moderne. Kiara a publié tous les remixes sur sa chaîne, donc n'hésitez pas à aller les écouter !",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.5655,
+        "width": 0.4238,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gura",
+      "bbox": {
+        "x": 0.1611,
+        "y": 0.8436,
+        "width": 0.113,
+        "height": 0.0257
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La première expérience de Gura sur Super Smash Bros. sous la tutelle de Kronii, s'est avérée être aussi amusante que prévu quand ces deux-là se retrouvent ensemble.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.8893,
+        "width": 0.4256,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.2212,
+        "width": 0.1296,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 18e épisode de Holotalk a été diffusé cette semaine, et a permis de fêter l’anniversaire des 1 an de l’émission ! Cette fois, Kiara a décidé d’interviewer Nekomata Okayu, de hololive Gamers ! Elles ont parlé de beaucoup de sujets, comme ses débuts dans hololive, son histoire, les clips et memes qui l’ont rendue célèbre et ses plans pour le futur. Les moments forts du stream sont nombreux : un « ara ara » d’Okayu à la demande du tchat, les secrets de son incroyable calme (et pourquoi ça ne fonctionne pas sur Slither.io), les conseils de flirts donnés à Kiara pour qu’elle devienne plus populaire, le dialecte d’Aomori, la confiance croissante d’Okayu dans sa voix, et bien sûr la célébration des 1 an d’Holotalk ainsi que des 1,25M d’abonnés d’Okayu. Souhaitons une autre grande année pour Holotalk !",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2682,
+        "width": 0.4275,
+        "height": 0.3455
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.7562,
+        "width": 0.1074,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un long et émouvant stream d'endurance, Calli a finalement fini Earthbound. Il lui aura fallu près de 30 heures réparties sur 8 streams. Calli a vraiment aimé le jeu, chantant ses louanges en disant que c'était un chef d'œuvre, encore plus quand on sait qu'il est sorti « à l’époque ». Elle a vraiment été touchée par Earthbound et a presque pleuré durant la séquence de fin et les crédits.",
+      "bbox": {
+        "x": 0.5131,
+        "y": 0.8003,
+        "width": 0.4413,
+        "height": 0.1523
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3ppw2udmjr381.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

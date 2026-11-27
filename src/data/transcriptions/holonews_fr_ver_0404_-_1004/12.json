@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.431,
+        "y": 0.016,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.182,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir été aperçu jouant hors-stream pendant les streams d’Aruran, Astel s’est enfin mis à stream Minecraft. Il a montré son avancement sur sa surprise pour les membres d’Uproar afin de les accueillir sur le serveur Minecraft d’holostars. Pour s’assurer qu’aucun membre d’Uproar ne regarde son stream pour ruiner sa surprise, Astel les a mis en garde sur Discord de ne pas regarder son stream, a créé une miniature d’avertissement avec des lettres rouge sur un fond noir, et a surtout dit à Fuma de ne pas le regarder à son réveil. Il a également averti ses spectateurs. Ce qui s’est passé durant ce stream, reste dans ce stream !",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.2179,
+        "width": 0.3919,
+        "height": 0.2049
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rio",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.482,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après la collaboration d’UPROAR sur Valorant, qui s’est fini plutôt que prévu, Rio a décidé de faire un stream karaoké imprévu, et donc son premier karaoké. Il a chanté 4 musiques, avec « Dry Flower » en bonus puisqu’il ne savait pas s’il pouvait la chanter en stream. Il y a eu quelques problèmes techniques mais mis à part ça, il a merveilleusement bien chanté, tenant des notes très aiguës. Il a mentionné son tweet où il demande quelles chansons il pourrait chanter, recevant plus de 300 propositions, qui seront vérifiées avec le staff pour savoir s’il peut les chanter en stream ou non.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.5217,
+        "width": 0.385,
+        "height": 0.2001
+      }
+    },
+    {
+      "type": "heading",
+      "text": "UPROAR!!",
+      "bbox": {
+        "x": 0.31,
+        "y": 0.776,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au début de leur collab sur Apex, ils ont annoncé que la monétisation d’UPROAR était enfin autorisée et activée. Ils vont avoir un relais de stream de monétisation du 25 avril au 28 avril. En commençant par Fuma le 25, Uyu le 26, Gamma le 27 et enfin Rio le 28. L’emploi du temps de leur stream sera annoncé à une date ultérieure. Une autre annonce est la collaboration avec leurs aînés le 1er mai. Allez jeter un œil et suivez les membres d’UPROAR pour avoir plus d'informations concernant ces annonces.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.8095,
+        "width": 0.4231,
+        "height": 0.1684
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.748,
+        "y": 0.098,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le groupe de survie était censé jouer à Dying Light 2, mais dû au fait que le jeu de Temma ne fonctionnait pas,, ils sont allés sur Apex. Malgré que le jeu marchait parfaitement, les streams de Roberu et d’Izuru ont souffert de sévères lag et ils ont dû arrêter de streamer leur POVs, laissant seulement le stream de Temma.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.135,
+        "width": 0.3781,
+        "height": 0.1081
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme toujours, ils ont commencé avec leur appel énergétique lancé par le Capitaine Izuru. Pendant les premiers rounds, ils mouraient au début, les faisant crier, mais ils s’y sont ensuite mis sérieusement durant leurs dernières parties, avec Roberu qui comparait ces parties au scrims. Pendant leurs pauses, ils confessaient l’amour qu’ils avaient les uns envers autres, surtout Izuru et Roberu envers Temma.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.26,
+        "width": 0.3875,
+        "height": 0.1497
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fuma",
+      "bbox": {
+        "x": 0.64,
+        "y": 0.473,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fuma a décidé de se réveiller tôt et de stream à 6h00 JST. Il a fait un stream de discussion imprévu tôt dans la matinée et a choisi de répondre aux questions de ses spectateurs. Certaines questions demandaient ce qu’il avait eu pour le petit déjeuner, ses groupes de K-pop préférés, le prochain jeu auquel UPROAR!! vont jouer ensemble, si il avait des frères et sœurs, et bien plus. Quand on lui a demandé quel membre de Big Bang il était fan, il a répondu T.O.P, qui est également rappeur, et a tenté d’imiter sa voix grave. Il a d’ailleurs accueilli ses membres d’outre-mer en répondant à leurs questions en anglais.",
+      "bbox": {
+        "x": 0.5425,
+        "y": 0.5135,
+        "width": 0.39,
+        "height": 0.2205
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Uyu",
+      "bbox": {
+        "x": 0.6394,
+        "y": 0.7934,
+        "width": 0.0619,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans tous les streams d’Uyu, il y a toujours une discussion libre avant et après son stream. Il plonge dans des sujets comme la nourriture, les desserts, les animes, les mangas, etc… ce qui peut durer entre une heure et cinq heures. Maintenant, il sépare ses discussions libres de ses jeux en réalisant un stream différent.",
+      "bbox": {
+        "x": 0.5313,
+        "y": 0.8342,
+        "width": 0.3931,
+        "height": 0.1141
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/tg33do59qau81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

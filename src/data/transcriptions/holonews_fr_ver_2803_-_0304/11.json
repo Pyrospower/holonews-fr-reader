@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 11,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.4325,
+        "y": 0.0165,
+        "width": 0.1363,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.1814,
+        "width": 0.1044,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le stream de Koyori d'apprentissage de l'Anglais a fait son retour, cette fois-ci avec l'appui de Duolingo. Koyori a passé le test de niveau du cours d'anglais US, et a atteint le niveau 2 sur 7. Elle s'est également intéressée aux Histoires pour améliorer sa compréhension écrite et orale de l'anglais.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2179,
+        "width": 0.3913,
+        "height": 0.0968
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.1844,
+        "y": 0.3828,
+        "width": 0.105,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après y avoir longtemps porté de l'intérêt, Koyori a enfin streamé Papers, Please!. Elle a d'abord proclamé que ses capacités lui permettraient d'éviter toute erreur à son poste d'agente des services frontaliers, avant d'inévitablement commettre de nombreuses bévues. Pour sa première partie sans connaissance préalable du jeu, elle s'est prise d'intérêt pour l'idée de révolution à Artotzka d'EZIC.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.421,
+        "width": 0.3863,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.1814,
+        "width": 0.105,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori a restructuré « AsaKoyo », son stream matinal du Mardi et Vendredi. Elle a déplacé les parties discussion et lecture de Super Chats dans un autre stream, pour rendre AsaKoyo plus court et compacte. Mis à part ça, Koyori a également ajouté une nouvelle section sporadique où elle jette un œil aux nouveautés du subreddit d'hololive.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.2179,
+        "width": 0.3856,
+        "height": 0.1076
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.6331,
+        "y": 0.408,
+        "width": 0.1044,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori a organisé un stream sur Among Us auquel elle a convié huit autres membres : Miko, Mel, Nene, Ayame, Polka, Botan, Fubuki et Towa. La particularité était qu'à chaque manche, une consigne était donnée à tous les joueurs, membres d'équipage comme imposteurs. Par exemple, lors de l'une des manches, les membres d'équipage devaient se comporter de façon distinguée, tandis que les imposteurs devaient cacher leur véritable identité de roturiers.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.444,
+        "width": 0.3881,
+        "height": 0.1493
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.4106,
+        "y": 0.6185,
+        "width": 0.1788,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mio",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.7826,
+        "width": 0.0619,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mio a fait son grand retour sur Getting Over It avec pour objectif de battre son meilleur temps. Elle a battu son précédent record en finissant avec un temps de 18:41 lors de sa deuxième tentative, mais a ensuite continué de tenter de l'améliorer pendant près d'une heure et demi. Mio a ensuite décidé de finir le stream et de remercier les Super Chats plus tard, car elle était plutôt pressée. Quelle louve furtive !",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.8194,
+        "width": 0.39,
+        "height": 0.1584
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu & Korone",
+      "bbox": {
+        "x": 0.6331,
+        "y": 0.7799,
+        "width": 0.255,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu et Korone ont célébré leur 3e anniversaire au sein d'hololive ! Lors d'un court stream, elle se sont remémoré le passé, ont répondu à quelques questions et chanté quelques chansons. À la fin du stream, elles ont annoncé la sortie de leur cover d'« U&I » de Houkago Tea Time.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.8194,
+        "width": 0.3781,
+        "height": 0.1024
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/qohnw3t6qws81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

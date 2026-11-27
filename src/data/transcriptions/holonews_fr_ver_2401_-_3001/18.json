@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projets de fans",
+      "bbox": {
+        "x": 0.1144,
+        "y": 0.0347,
+        "width": 0.2944,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holostars Fan Sub",
+      "bbox": {
+        "x": 0.1581,
+        "y": 0.1719,
+        "width": 0.2875,
+        "height": 0.0655
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il va y avoir quelque changements dans la gestion de r/Holostars (un subreddit sur holostars créé par les fans), vu que les modérateurs ont été contactés par u/Holostarstv, le compte Reddit officiel d’holostars, pour récupérer ledit subreddit. Pour l’instant, aucune date n’a été mentionnée sur quand le transfert aura lieu.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2444,
+        "width": 0.4194,
+        "height": 0.148
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka Fans",
+      "bbox": {
+        "x": 0.6325,
+        "y": 0.1979,
+        "width": 0.225,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka's Hologram Circus, le serveur Discord des fans anglophones de Polka, a préparé un cadeau d'anniversaire pour Polka. Il s'agit d'un GIF avec différents thèmes de stream. Plusieurs thèmes défilent très vite et il faut prendre une capture d’écran pour voir sur lequel on tombe. Il y a un total de 64 possibilités. Elle pourra l'utiliser quand elle ne saura pas quoi faire en stream.",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.2444,
+        "width": 0.4275,
+        "height": 0.1497
+      }
+    },
+    {
+      "type": "heading",
+      "text": "★ LET’S PLAY ★",
+      "bbox": {
+        "x": 0.1944,
+        "y": 0.424,
+        "width": 0.4,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ LET’S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.765,
+        "y": 0.4232,
+        "width": 0.1706,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "other",
+      "text": "Mom Hid My Game! 2 | Jump King | Dying Light Platinum Edition\nBig Brain Academy: Brain vs. Brain | ★ The Legend of Zelda: Link’s Awakening | Subnautica Below Zero\nSonic Adventure 2 | Guilty Gear -Strive- | Mega Man 7\nFall Guys: Ultimate Knockout | Bully Scholarship Edition | Bus Simulator 21\nTom Clancy’s Rainbow Six Extraction | Little Nightmares II | Project SEKAI COLORFUL STAGE!\n★ NEEDY STREAMER OVERLOAD | Paladins: Champions of the Realm | Super Bunny Man\nARK Lost Island | ERROR | Raft",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.4818,
+        "width": 0.9219,
+        "height": 0.4839
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/a1a13nhuufg81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

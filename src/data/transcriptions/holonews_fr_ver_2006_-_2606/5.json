@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS 3RD ANNIVERSARY!",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.45,
+        "width": 0.88,
+        "height": 0.1
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "HOLOSTARS ont organisé son 3e anniversaire, 3RISE SUPER FAN MEETING ~FLAGSHIP~, le 26 juin à harevutai à Ikebukuro et l'ont diffusé sur SPWN. La partie gratuite de cet événement est disponible sur la chaîne officielle HOLOSTARS sur YouTube. Il comprend le premier segment « Remember ! FLAGSHIP Standing Game », qui a été joué par les membres de la 1ère génération, Miyabi, Izuru, Arurandeisu et Rikka. Chaque génération avait son propre jeu et son propre sketch.",
+      "bbox": {
+        "x": 0.4838,
+        "y": 0.1072,
+        "width": 0.4538,
+        "height": 0.1415
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les membres de Suntempo ont joué « Create It, Everyone ! FLAGSHIP Text Game » et ceux de MaFia ont joué à « Expose the Truth! FLAGSHIP Text Game ». Le dernier défi pour déterminer le gagnant des billets de croisière était une bataille des membres d'HOLOSTARS les yeux bandés !",
+      "bbox": {
+        "x": 0.4844,
+        "y": 0.2648,
+        "width": 0.4525,
+        "height": 0.0842
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vous pouvez découvrir qui a gagné en achetant vos billets pour la diffusion sur SPWN. Les archives seront disponibles jusqu'au 26 juillet, 22h59 JST.",
+      "bbox": {
+        "x": 0.4844,
+        "y": 0.365,
+        "width": 0.4525,
+        "height": 0.0412
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'événement s'est terminé par cinq annonces différentes ! Tout d'abord, HOLOSTARS sort sa troisième chanson, « Find It ».",
+      "bbox": {
+        "x": 0.0625,
+        "y": 0.5938,
+        "width": 0.4531,
+        "height": 0.0404
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le nouveau single sera inclus dans le premier album d'HOLOSTARS, Follow Us, qui sortira le 31 août ! L'album complet comprendra toutes les chansons individuelles des membres ainsi que cinq chansons de groupe supplémentaires. Pour célébrer l'album, HOLOSTARS organise également sa première séance de dédicace en ligne. Toutes les commandes de l'album dédicacé en édition limitée ont déjà été passées.",
+      "bbox": {
+        "x": 0.0631,
+        "y": 0.6515,
+        "width": 0.4519,
+        "height": 0.1267
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Troisième annonce ! Les membres d'Holostars apparaîtront sur Gashapon Online pour célébrer leur 3ème anniversaire. Des figurines en acrylique seront en vente, à partir du 27 juin, 11h00 JST. Le très attendu Blu-ray du HOLOSTARS 1st ACT JOURNEY to FIND STARS!!! sera également en vente à partir du 31 août.",
+      "bbox": {
+        "x": 0.0625,
+        "y": 0.7943,
+        "width": 0.4531,
+        "height": 0.0959
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une dernière annonce : HOLOSTARS organisera bientôt son deuxième concert ! HOLOSTARS 2nd ACT GREAT VOYAGE to UNIVERSE !!! aura lieu le 20 octobre 2022 à Zepp DiverCity (Tokyo) !",
+      "bbox": {
+        "x": 0.0625,
+        "y": 0.9089,
+        "width": 0.4531,
+        "height": 0.0556
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8hxr4782haa91.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

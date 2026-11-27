@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_holostars_-tempus-_debut_special",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Pré-Début",
+      "bbox": {
+        "x": 0.0363,
+        "y": 0.0373,
+        "width": 0.3175,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Avec presque une semaine entière pour s’installer et se faire connaitre sur Twitter, voici quelques moments mémorables qui ont précédé les débuts de TEMPUS !",
+      "bbox": {
+        "x": 0.405,
+        "y": 0.0391,
+        "width": 0.5588,
+        "height": 0.0425
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1l6aug90eje91.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

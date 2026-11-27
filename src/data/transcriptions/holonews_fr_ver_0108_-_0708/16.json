@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 16,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "hololive Summer 2022",
+      "bbox": {
+        "x": 0.2775,
+        "y": 0.0161,
+        "width": 0.4438,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "hololive Summer",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.179,
+        "width": 0.27,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "HOLOLIVE SUMMER revient en force! Une nouvelle série de manga vidéos sera diffusée le long du mois d’Août, et suivra les aventures des membres d’hololive dans leurs recherches de YAGOO, qui a disparu. Le premier épisode a introduit le trio mystérieux qui l’a attaqué et qui lui a volé des cristaux hololive. Haachama aussi a disparu, et dans l’espace! Le reste des membres sont partis à sa recherche, mais se sont retrouvés très vite face au trio et à leur plan machiavélique visant à créer un HOLOLIVE SUMMER impudique. Le futur est incertain, mais une chose est sûre, cet HOLOLIVE SUMMER promet d’être extrêmement intéressant!",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3869,
+        "height": 0.1984
+      }
+    },
+    {
+      "type": "heading",
+      "text": "hololive",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.574,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour mettre les fans dans un état d’esprit festif, hololive a publié des assets et des fonds sur le thème de l’été. Il contient trois assets, un stand de glace pilée, un décor de festival, et un ciel rempli de feux d’artifice, utilisables pour donner une atmosphère estivale à vos médias.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.6137,
+        "width": 0.3913,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "hololive",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.854,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des enregistrements sont en ce moment en solde pour une durée limitée, incluant les voix de 23 talents différents, avec par exemple celles de Sora, AZKi et Botan ! Vous pouvez les trouver soit au Holoshop, soit sur le site de Geek Jack.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.895,
+        "width": 0.3819,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PARCO",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.179,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "PARCO organise un événement de collection de timbres virtuels trouvables dans 7 emplacements différents au japon. En scannant le QR code présent sur les posters qu’ils ont fait afficher dans chacun des magasins concernés, il devient alors possible de prendre une photo avec les membres d’hololive. Ceux qui auront scanné tous les QR codes recevront une image originale avec chacune des 35 membres d’hololive en bonus. Vous pouvez rejoindre l’événement et tweeter avec les hasgtags #帰ってきたホロサマ et #ホロサマPARCOラリー pour vous chauffer pour l’HOLOLIVE SUMMER 2022!",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2179,
+        "width": 0.3894,
+        "height": 0.168
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Garupa Holocup",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.527,
+        "width": 0.27,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La GARUPA HOLOCUP de l’HOLOLIVE SUMMER aura lieu le 28 août. Elle rassemblera 12 vtubeuses hololive qui s’affronteront dans le jeu de société BanG Dream! Girls Band Party!. L’équipe vainqueure pourra faire une reprise de l’une des chansons du jeu, et cette reprise sera rajoutée et utilisée dans celui-ci.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.5278,
+        "width": 0.3875,
+        "height": 0.1428
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Comiket 100",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.829,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le COMIKET 100 de cette année revient avec une exposition spéciale pour le HOLOLIVE SUMMER 2022 ! Cette exposition inclura des produits dérivés de toutes sortes, avec des t-shirts, des serviettes de bain, et plus encore. Il y aura aussi un stand hololive spécial où les fans pourront se prendre en photo avec des silhouettes en carton grandeur nature de leurs membres favoris.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.8663,
+        "width": 0.3856,
+        "height": 0.1141
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1pijhy56lwh91.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

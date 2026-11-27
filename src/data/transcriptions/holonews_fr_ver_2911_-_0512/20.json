@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 20,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENTS À VENIR",
+      "bbox": {
+        "x": 0.0581,
+        "y": 0.0326,
+        "width": 0.405,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 8 décembre : Anniversaire de Shion, HoloRo Anniversaire 12 heures de stream en relais\n• 9-12 décembre : Nouvelles tenues d’holoMyth\n• 10 décembre : Anniversaire de YAGOO\n• 11 décembre : Concert gratuit de Matsuri « Natsuiro Winter Festival»\n• 12 décembre : Second anniversaire du début de Temma\n• 13 décembre : Anniversaire d’Ayame",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.1137,
+        "width": 0.4406,
+        "height": 0.2956
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PALIERS D’ABONNÉS",
+      "bbox": {
+        "x": 0.5888,
+        "y": 0.033,
+        "width": 0.3131,
+        "height": 0.0603
+      }
+    },
+    {
+      "type": "other",
+      "text": "SHIEN 175K\nKANATA 1.1 M\nLA+ 500 K\nLUI 300K\nKOYORI 350K\nCHLOE 500K\nIROHA 300K",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.1376,
+        "width": 0.2188,
+        "height": 0.3385
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Projets Fan",
+      "bbox": {
+        "x": 0.075,
+        "y": 0.5109,
+        "width": 0.2325,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "MASS, un serveur de projet orienté VTuber, a sorti son magazine numérique, The Holo Zone Zine. Ce magazine fête le 2e anniversaire d’hololive Production en célébrant les talents préférés des fans avec leurs messages de soutien et leurs œuvres !",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.5556,
+        "width": 0.8688,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci !",
+      "bbox": {
+        "x": 0.3881,
+        "y": 0.6497,
+        "width": 0.2263,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews ! Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.6936,
+        "width": 0.8856,
+        "height": 0.174
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ev1vbx6rjq581.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

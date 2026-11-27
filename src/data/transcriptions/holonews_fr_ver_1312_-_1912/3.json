@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Temma",
+      "bbox": {
+        "x": 0.0461,
+        "y": 0.0282,
+        "width": 0.2078,
+        "height": 0.0285
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Temma a fêté son 2ème anniversaire avec Aruran et Miyabi ! Ils ont commencé par discuter ensemble et s’amuser dans la maison de Miyabi, puis les trois ont essayé Emily Wants to Play en réalité virtuelle. Ils n’ont pas pu aller très loin dans le jeu en raison de quelques difficultés techniques, mais l'expérience n'en fut pas moins divertissante grâce à leurs plaisanteries, leurs poses hilarantes, et leurs réactions face aux jumpscares.",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.0891,
+        "width": 0.4417,
+        "height": 0.1902
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils ont ensuite été transférés dans le jardin de Miyabi, dans laquelle les trois ont chanté et dansé ensemble, laissant Miyabi sur les rotules. Après cela, Miyabi et Aruran sont partis pour laisser Temma faire l’annonce de ses produits dérivés commémoratifs :",
+      "bbox": {
+        "x": 0.0444,
+        "y": 0.2975,
+        "width": 0.4344,
+        "height": 0.1173
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une plaque en acrylique (acrylic panel)\n• Un badge à épingle de son emblème",
+      "bbox": {
+        "x": 0.0683,
+        "y": 0.4367,
+        "width": 0.4111,
+        "height": 0.0509
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Temma a ensuite remercié tout le monde pour les 2 dernières années, et a dit qu’il espérait que le stream 3D avait été amusant malgré les problèmes. À la fin, Temma a demandé ses spectateurs en mariage et a montré le clip de sa dernière reprise, « 1,150,000 kilo no film ».",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.5058,
+        "width": 0.4394,
+        "height": 0.1208
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cfgs5fr7op881.gif",
+    "gifFrame": 101,
+    "confidence": 91
+  }
+}

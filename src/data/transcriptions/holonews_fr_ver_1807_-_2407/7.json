@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 0",
+      "bbox": {
+        "x": 0.442,
+        "y": 0.016,
+        "width": 0.116,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.207,
+        "width": 0.095,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Frustrée par sa vitesse de frappe sur Holotyping, Suisei a décidé de se couper les ongles en stream, justifiant cela par le fait qu'il était « difficile de taper vite avec des ongles longs ». Naturellement, les Hoshiyomis ont commencé à lui demander ses Sui-nails. D'ailleurs, la combinaison de mots de notre comète est passée de moins d’une centaine de mots à 457 après que ses ongles aient été coupés.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.2452,
+        "width": 0.3869,
+        "height": 0.1163
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei & Pekora",
+      "bbox": {
+        "x": 0.177,
+        "y": 0.503,
+        "width": 0.244,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei a de nouveau montré son côté suicopathe après avoir tué Pekora sur Rust pour avoir oublié les paroles de « Do-Re-Mi ». La fusillade a eu lieu lorsque Pekora est arrivé à la partie « Shi », où Suisei a rapidement interrompu la chanson pour dire « Shi, Shineyo ! » (Shineyo signifie « mourir » en japonais). Plus tard, la comète a forcé Pekora en larmes, sous la menace d'une arme, à chanter à nouveau la chanson, avant de tirer à nouveau sur le lapin au moment de la partie « Shi ». On reconnait bien Suicopath.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.5425,
+        "width": 0.39,
+        "height": 0.1424
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roboco",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.848,
+        "width": 0.118,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roboco n'est pas seulement un robot de pointe, mais aussi un chat de pointe ! Elle a joué à Stray et comme on joue un chat dans le jeu, Roboco a décidé d'en faire autant en dehors du jeu. Elle a mis des oreilles de chat sur son modèle pour le stream et a ajouté des « nya » pendant qu'elle parlait. Remyarquable !",
+      "bbox": {
+        "x": 0.0675,
+        "y": 0.8889,
+        "width": 0.3925,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko & Matsuri",
+      "bbox": {
+        "x": 0.6481,
+        "y": 0.2387,
+        "width": 0.2363,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko l’élite et Matsuri la brute sont entrées en guerre sur Rust ! Tout a commencé lorsque Miko a volé les objets de Matsuri après l’avoir tuée en essayant de lui voler son parachute. Jurant de se venger, Matsuri a attaqué la maison de Miko, promettant de « revenir encore et encore et encore ». Finalement, Miko a négocié une alliance et lui a rendu tous ses objets (après avoir détruit une bonne partie de sa maison). Miko a également mis en place un signe d'amitié pour solidifier l'alliance. Malheureusement pour notre élite, elle a été trahie par Matsuri qui a enlevé le signe et lui a tiré dessus en déclarant que « les amis n'existent pas sur Rust ». Pauvre Mikochi.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2778,
+        "width": 0.3913,
+        "height": 0.2014
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko & Suisei",
+      "bbox": {
+        "x": 0.653,
+        "y": 0.702,
+        "width": 0.213,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les membres de Micomet (Miko et Suisei) ont célébré leur 2e anniversaire en faisant un stream sponsorisé sur hololive Error ensemble. D'ailleurs, elles n’ont pas pris conscience de l’anniversaire avant que Miko ne reçoive une avalanche de messages de félicitations. Le stream lui-même était rempli de moments classiques de Micomet, comme les deux associées débattant de la manière de répartir les superchats du stream, Micomet chantant « Ghost » de Suisei quelques instants avant d'être effrayées par un vrai fantôme, et le tchat faisant planter le site internet de Simmons parce que Suisei avait mentionné qu'elle avait obtenu des lits Simmons assortis pour elle et Miko. À la fin du stream, Suisei a promis qu'elle oublierait l'anniversaire l'année prochaine également. Des associées on ne peut plus normales.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.7422,
+        "width": 0.3887,
+        "height": 0.2335
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/sk6j3clo0qf91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

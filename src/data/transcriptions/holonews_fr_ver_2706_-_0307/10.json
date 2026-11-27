@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.2606,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.1669,
+        "y": 0.1788,
+        "width": 0.1244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gamma a pensé que ce serait une très bonne idée de faire un stream de dessin tout en ayant les bras et les jambes menottées. Le bruit des chaînes pouvait être entendu lorsqu’il bougeait. Il a également décidé de faire plaisir à ses fans en dessinant, ses Assistants ont pu l’entendre dire des répliques masochistes et sadiques avec quelques bruits de bureau. Il est parvenu à rester tout de même seiso en balançant des déclarations encourageantes et réconfortantes.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3863,
+        "height": 0.1445
+      }
+    },
+    {
+      "type": "heading",
+      "text": "UPROAR!!",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.5139,
+        "width": 0.1625,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "KAI-YOU media a interviewé chaque membre d'UPROAR!! sur leurs pensées avant et après leurs débuts. Ils ont été interrogés sur les choses inattendues qui leur sont arrivées, l'aînée qu'ils admirent le plus, et leurs impressions sur les autres membres d'UPROAR!!, qu'ils aient changé ou non avant et après leurs débuts. Consultez leurs interviews dans les sources pour savoir ce qu'ils pensent les uns des autres et de leurs l'aîné.",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.5534,
+        "width": 0.3838,
+        "height": 0.1445
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rio",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.8346,
+        "width": 0.0556,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rio a chanté 100 fois pendant son stream karaoké le 2 juillet. Il a chanté une liste de 20 chansons cinq fois chacune et a réussi à atteindre ses objectifs après presque 9 heures de streaming.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.875,
+        "width": 0.3844,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.6319,
+        "y": 0.1788,
+        "width": 0.0819,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 28 juin, Astel a décidé de streamer toute la journée. Cela ressemblait à un stream normal d'Astel, avec un seul long stream pendant toute une journée, mais le problème est qu'il a décidé de le diviser et de streamer sur trois plateformes différentes (YouTube, Twitter Space et TwitCast).",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.2183,
+        "width": 0.3844,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a fait un total de huit streams différents en une journée, avec quatre discussions sur TwitCast et Twitter Space. Il a joué à trois jeux sur Youtube. Et enfin, il a fait une critique du clip de « Find It » qui était divisée en trois parties. La première consistait à jouer le MV complet. La seconde était le MV complet, mais avec des commentaires et des anecdotes sur les coulisses du MV. Enfin, il a chanté leur nouvelle chanson, y compris la partie rap.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.3247,
+        "width": 0.3875,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu & Uyu",
+      "bbox": {
+        "x": 0.6594,
+        "y": 0.51,
+        "width": 0.2138,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les dernières vidéos promotionnels des light novels de Herobunko intitulés Reincarnation Girl's Resume et Torture Witch ont été narrés par Roberu et Uyu respectivement. Découvrez leur narration et leur performance pour leurs vidéos promotionnelles sur les sources.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.5534,
+        "width": 0.3863,
+        "height": 0.0803
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5ebsws635kb91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

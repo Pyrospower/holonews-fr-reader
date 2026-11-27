@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Présentation des papas et mamans",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.0544,
+        "width": 0.895,
+        "height": 0.0301
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mishima Kurone",
+      "bbox": {
+        "x": 0.1453,
+        "y": 0.1296,
+        "width": 0.2867,
+        "height": 0.0231
+      }
+    },
+    {
+      "type": "other",
+      "text": "@mishima_kurone",
+      "bbox": {
+        "x": 0.1467,
+        "y": 0.1574,
+        "width": 0.1773,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kakage",
+      "bbox": {
+        "x": 0.6173,
+        "y": 0.1296,
+        "width": 0.136,
+        "height": 0.0231
+      }
+    },
+    {
+      "type": "other",
+      "text": "@kakage0904",
+      "bbox": {
+        "x": 0.6187,
+        "y": 0.1574,
+        "width": 0.1453,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Momoko",
+      "bbox": {
+        "x": 0.0472,
+        "y": 0.2928,
+        "width": 0.2656,
+        "height": 0.0764
+      }
+    },
+    {
+      "type": "other",
+      "text": "@momoco_haru",
+      "bbox": {
+        "x": 0.1472,
+        "y": 0.348,
+        "width": 0.1522,
+        "height": 0.0127
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Parsley",
+      "bbox": {
+        "x": 0.6173,
+        "y": 0.3185,
+        "width": 0.1347,
+        "height": 0.0231
+      }
+    },
+    {
+      "type": "other",
+      "text": "@Parsley_F",
+      "bbox": {
+        "x": 0.6187,
+        "y": 0.3463,
+        "width": 0.1107,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Umibouzu",
+      "bbox": {
+        "x": 0.144,
+        "y": 0.5093,
+        "width": 0.1787,
+        "height": 0.0231
+      }
+    },
+    {
+      "type": "other",
+      "text": "@bouzumi_",
+      "bbox": {
+        "x": 0.1467,
+        "y": 0.5361,
+        "width": 0.1133,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suivez et soutenez tous ces merveilleux artistes et riggers !",
+      "bbox": {
+        "x": 0.5644,
+        "y": 0.5324,
+        "width": 0.3406,
+        "height": 0.1034
+      }
+    },
+    {
+      "type": "other",
+      "text": "@megajujube",
+      "bbox": {
+        "x": 0.0507,
+        "y": 0.763,
+        "width": 0.1507,
+        "height": 0.0185
+      }
+    },
+    {
+      "type": "other",
+      "text": "@rariemonn765",
+      "bbox": {
+        "x": 0.2213,
+        "y": 0.763,
+        "width": 0.1773,
+        "height": 0.0185
+      }
+    },
+    {
+      "type": "other",
+      "text": "@rariemonn765",
+      "bbox": {
+        "x": 0.4133,
+        "y": 0.763,
+        "width": 0.1773,
+        "height": 0.0185
+      }
+    },
+    {
+      "type": "other",
+      "text": "@tou_ilie",
+      "bbox": {
+        "x": 0.6347,
+        "y": 0.763,
+        "width": 0.1013,
+        "height": 0.0185
+      }
+    },
+    {
+      "type": "other",
+      "text": "@keffiy",
+      "bbox": {
+        "x": 0.8387,
+        "y": 0.763,
+        "width": 0.0867,
+        "height": 0.0185
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/wptkaxp8kc481.gif",
+    "gifFrame": 44,
+    "confidence": 81
+  }
+}

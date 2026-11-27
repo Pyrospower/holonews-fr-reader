@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1010_-_1610",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Actualités hebdomadaires",
+      "bbox": {
+        "x": 0.15,
+        "y": 0.135,
+        "width": 0.1438,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "other",
+      "text": "Ollie a fêté son anniversaire",
+      "bbox": {
+        "x": 0.7125,
+        "y": 0.2023,
+        "width": 0.275,
+        "height": 0.1324
+      }
+    },
+    {
+      "type": "other",
+      "text": "Luna a tenu un stream 3D pour son anniversaire",
+      "bbox": {
+        "x": 0.6238,
+        "y": 0.3624,
+        "width": 0.3625,
+        "height": 0.1194
+      }
+    },
+    {
+      "type": "other",
+      "text": "Kobo testée positive au Covid",
+      "bbox": {
+        "x": 0.7362,
+        "y": 0.5035,
+        "width": 0.25,
+        "height": 0.1237
+      }
+    },
+    {
+      "type": "other",
+      "text": "FR",
+      "bbox": {
+        "x": 0.8625,
+        "y": 0.8134,
+        "width": 0.1206,
+        "height": 0.0499
+      }
+    },
+    {
+      "type": "other",
+      "text": "Vol 5",
+      "bbox": {
+        "x": 0.475,
+        "y": 0.8681,
+        "width": 0.51,
+        "height": 0.1168
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3bzrie087cw91.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

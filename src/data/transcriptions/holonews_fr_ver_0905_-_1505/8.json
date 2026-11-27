@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 8,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 5",
+      "bbox": {
+        "x": 0.444,
+        "y": 0.017,
+        "width": 0.113,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.179,
+        "width": 0.08,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre chère femme a un nouveau passe-temps, battre des machos. Elle s'y est mise alors qu'elle streamait a game about saving macho men stuck in the ceiling of a school gym (oui, c'est le nom du jeu). Nenechi a estimé que lancer des balles sur des machos gonflés à bloc était exactement le passe-temps qu'elle recherchait. Elle a également souhaité que l'activité fasse l'objet d'une page sur Wikipédia. Elle faisait preuve d'une nature de plus en plus sadique à chaque machos battu. Le tchat a commencé à se demander si elle était vraiment une idole.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.2183,
+        "width": 0.3813,
+        "height": 0.1714
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.64,
+        "y": 0.179,
+        "width": 0.086,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après 59 tentatives, Lamy a finalement réussi à vaincre Malenia sur Elden Ring. Cela s'est produit juste après être mort dans la deuxième phase du boss.",
+      "bbox": {
+        "x": 0.5419,
+        "y": 0.2183,
+        "width": 0.3787,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy a modifié son équipement pour inclure les Cendres de larme imitatrice, un objet qui lui permet d'invoquer une copie d'elle-même qui combat à ses côtés. Elle a nommé son sosie Wami et ensemble, elles ont réussi à tuer un ennemi redoutable. Puisque Lamy a eu fin durant le stream, les spectateurs ont été bénis par un ASMR dégustation de McDonald's.",
+      "bbox": {
+        "x": 0.5419,
+        "y": 0.2856,
+        "width": 0.385,
+        "height": 0.1176
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 6",
+      "bbox": {
+        "x": 0.445,
+        "y": 0.4579,
+        "width": 0.1125,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.613,
+        "width": 0.107,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori a fait un karaoké d'endurance pour atteindre les 600 000 abonnés, chantant 55 chansons en 6 heures. Bien qu'elle ait dit vouloir chanter plus de J-pop, elle a chanté beaucoup de chansons d'animé. Ses spectateurs lui ont recommandé de chanter « Shiny Smily Story », mais cette musique est très précieuse pour elle et elle la chantera pour des moments spéciaux dans le futur. Elle a atteint les 600 000 abonnés en chantant de « Fansa », et a conclu le stream avec « Kimi no Shiranai » de supercell.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.6545,
+        "width": 0.385,
+        "height": 0.1515
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lui",
+      "bbox": {
+        "x": 0.1713,
+        "y": 0.8611,
+        "width": 0.0481,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lui a continué ses classes d'apprentissage du japonais avec Zeta cette semaine. Elles étaient adorables pendant le stream, notamment à la fin quand Lui a essayé de draguer Zeta en lui apprenant « Suki Suki Chu Chu », signifiant « Amour Amour Bisou Bisou ».",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.9002,
+        "width": 0.3963,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+ & Kanata",
+      "bbox": {
+        "x": 0.6206,
+        "y": 0.6133,
+        "width": 0.2188,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre ange-gorille préféré a décidé de faire une farce à sa cadette en prétendant être ivre et en révélant « accidentellement » qu'elle sortait avec Coco. Cela a conduit Laplus à paniquer et à essayer d'empêcher Kanata de donner plus d'informations sur sa relation dans la vie réelle. Pour sauver la situation, Laplus a même essayé de se faire passer pour la petite amie de Kanata, lui envoyant des baisers et feignant la gêne. Finalement, Kanata a admis que ce n'était qu'une farce et qu'elle n'avait jamais rencontré personne, ce qui a fait que Laplus a eu pitié d'elle. Le tchat, quant à lui, ne comprenait pas comment il pouvait s'agir d'une farce, après tout, Kanata et Coco sont déjà mariées.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.6115,
+        "width": 0.3906,
+        "height": 0.2487
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/acwo6ybndn191.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

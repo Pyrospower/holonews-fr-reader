@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOMYTH",
+      "bbox": {
+        "x": 0.0925,
+        "y": 0.0477,
+        "width": 0.3456,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.161,
+        "y": 0.221,
+        "width": 0.077,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina est revenue de sa pause avec un stream court et confortable. Elle a dit que sa toux n'est pas encore complètement guérie et qu’elle était dûe à une maladie chronique qui semblait être génétique. Ina a aussi parlé de ce qu'elle a fait récemment. Elle a partagé son expérience de jeu et d’animé, ainsi que quelques histoires de sa famille. Bien que son état ne soit pas optimal, Ina pouvait presque parler normalement. Elle a donc repris les streams et a suivi la tendance Légendes Pokémon : Arceus dans le stream suivant.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.2609,
+        "width": 0.4181,
+        "height": 0.2044
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara & Nene",
+      "bbox": {
+        "x": 0.6463,
+        "y": 0.2192,
+        "width": 0.2863,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir joué à la démo d’hololive ERROR, Kiara et Nene ont mentionné qu’elles sortiront une reprise fin mars ou début avril, mais elles n’ont pas dit de quelle chanson il s’agira. Kiara a dit que les enregistrements et les illustrations sont pratiquement terminés, mais que le montage du clip pourrait prendre du temps.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.2669,
+        "width": 0.4244,
+        "height": 0.1276
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOCOUNCIL",
+      "bbox": {
+        "x": 0.058,
+        "y": 0.496,
+        "width": 0.411,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Council / Ministry",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.667,
+        "width": 0.296,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la réunion du Council de ce mois-ci, les filles ont fait leurs débuts sous la forme de leurs alter egos masculins : San, Faun, Krono, Muman et Hayko, formant ainsi le - Ministry- (ministère) d’hololive English. Lors de la réunion du Ministry, les garçons, avec leurs voix sulfureuses, ont fait des blagues sur... des « horloges » et des « fusées ». Ils ont ensuite joué à plusieurs jeux Jackbox. Malheureusement, ils ont réalisé que le boulot d’idol n’était pas pour eux et Krono a annoncé qu'ils allaient tous « prendre leur retraite » sur le champ.",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.7057,
+        "width": 0.4231,
+        "height": 0.2079
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 30 janvier, Calli, IRyS et Baelz ont organisé l’épisode d’inauguration de leur podcast, le CHAD CAST. Elles ont discuté de divers sujets tels que la vie au Japon et les difficultés d’apprentissage de la langue, leurs anime, manga et films préférés, des expériences de vie telles que l'utilisation et l’évolution de l'argot, l'utilisation des appareils électroniques, la vie scolaire, leurs listes de choses à faire avant de mourir, et plus encore.",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.7335,
+        "width": 0.4213,
+        "height": 0.1758
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0mowfkhuufg81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

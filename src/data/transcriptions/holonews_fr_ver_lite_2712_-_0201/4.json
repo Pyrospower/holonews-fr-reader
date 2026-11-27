@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2712_-_0201",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLO FANTASY",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.0855,
+        "width": 0.4413,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.2548,
+        "width": 0.1656,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Marine a joué à Passepartout et a affronté Koyori en stream dans une compétition de vente d'art. Senchou a principalement peint des idoles d’hololive comme Aqua, Rushia, et Noel dans des maillots de bain. Elle s’est également peinte en maillot de bain avec une Koyori en chaleur. Un acheteur a directement acheté la peinture de Noel pour environ 600 pièces, ce qui lui a valu le titre de « pervers ».",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2986,
+        "width": 0.4288,
+        "height": 0.1567
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.6306,
+        "y": 0.2548,
+        "width": 0.1619,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Depuis Noël, Pekora a travaillé sans relâche sur sa partie génocide d’Undertale. Quatre de ses cinq streams Undertale ont été consacrés à battre Sans, et dans les dernières heures de 2021, Pekora l’a enfin battu et elle a pu terminer sa partie.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2986,
+        "width": 0.4256,
+        "height": 0.0929
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rushia & La+",
+      "bbox": {
+        "x": 0.1613,
+        "y": 0.6076,
+        "width": 0.2913,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rushia et La+ ont joué à Granny Simulator ensemble, en se faisant face et en échangeant leurs rôles à chaque partie. Le jeu s'est avéré extrêmement amusant pour elles, et elles ont joué trois parties au total. Rushia a remporté deux victoires et La+ une. Elles se sont lancées des armes dangereuses et un nombre équivalent d’insultes, et ont parlé de leurs mangas et animes favoris pour distraire l’adversaire.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.651,
+        "width": 0.4244,
+        "height": 0.1602
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/romqrncubhb81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0373,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "04/04\n[Ame] Ookami Blues: 100K\n[Rio] Kimi no Myaku de Odoritakatta: 25K\n[Kobo] Mantra Hujan: 500K",
+      "bbox": {
+        "x": 0.049,
+        "y": 0.077,
+        "width": 0.44,
+        "height": 0.05
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "04/05\n[AZKi] Overwrite: 50K\n[Aqua/Okayu] Tenbyou No Uta: 750K\n[Okayu/Korone] U&I: 250K",
+      "bbox": {
+        "x": 0.512,
+        "y": 0.077,
+        "width": 0.439,
+        "height": 0.05
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "04/06\n[Flare] RGB: 500K\n[Towa/Miko/AkiRose/Polka/Iroha] Sakura No Ame: 500K",
+      "bbox": {
+        "x": 0.049,
+        "y": 0.142,
+        "width": 0.44,
+        "height": 0.05
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "04/07\n[Fuma] ???: 10K\n[Suisei] Template: 1M\n[Uproar] Envy Baby X King: 75K\n[HoloEN] Twelve Days of Christmas: 1M\n[Fubuki/Shien] Roki: 250K\n[Polka] Phony: 1M",
+      "bbox": {
+        "x": 0.512,
+        "y": 0.142,
+        "width": 0.439,
+        "height": 0.099
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "04/08\n[Lui/Okayu] Identity: 1M\n[Shion/Aqua] Nee Nee Nee: 750K\n[Okayu] Nani Yatte Mo Umaku Ikanai (Cover): 250K\n[Watame] Everlasting Soul: 750K\n[Kanata/Towa] Usseewa: 2M",
+      "bbox": {
+        "x": 0.049,
+        "y": 0.207,
+        "width": 0.44,
+        "height": 0.083
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "04/09\n[Roberu] Rashisa: 100K\n[Okayu] Fuwa Fuwa Time: 2M\n[Polka/Kotone] Instant Heaven: 500K\n[A-Chan] Aqua Iro Palette (Tekina Remix): 100K\n[Suisei] I Shared a Kiss with Hatsune Miku: 750K\n[Reine] Love Me Love Me: 250K\n[Calliope/Suisei] CapSule: 1M",
+      "bbox": {
+        "x": 0.512,
+        "y": 0.256,
+        "width": 0.439,
+        "height": 0.115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "04/10\n[Sora] Sobakasu: 750K\n[Suisei/Calliope] Getcha: 15M\n[AZKi/Nene] Roki (Cover): 50K\n[Towa] Gira Gira (Cover): 100K\n[Okayu] Yona Yona Dance: 1M\n[Kanata] Chotto Azatoi (Cover): 75K\n[AZKi] Gamen No Naka No Kimi Ga Suki: 100K\n[Shion/Hoshikawa] Mahou Shoujo to Chocolate (Cover): 250K\n[Miko] Darling Dance: 750K\n[Calliope] end of a life: 9M",
+      "bbox": {
+        "x": 0.049,
+        "y": 0.304,
+        "width": 0.44,
+        "height": 0.184
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE ORIGINAL ORIGINAL",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.3932,
+        "width": 0.42,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "CHANSON ORIGINAL · Calli & Suisei · CAPSULE\nCHANSON ORIGINAL · Fuma · ???\nREPRISE · AZKi & Nene · ROKI\nREPRISE · Okayu · NANI YATTE MO UMAKU IKANAI\nREPRISE · Towa · GIRA GIRA\nREPRISE · Shion & Sara Hoshikawa · MAHOU SHOUJO TO CHOCOLATE\nREPRISE · Kanata · CHOTTO AZATOI",
+      "bbox": {
+        "x": 0.031,
+        "y": 0.503,
+        "width": 0.938,
+        "height": 0.473
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xr2di069qau81.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.2606,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.1806,
+        "width": 0.0825,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Plus tôt cette semaine, Izuru a tweeté qu’en une journée, il a réalisé ses enregistrements, est parti remplacer son téléphone (qu’il a cassé en le jetant dans la mer), et a pris rendez-vous dans un salon de beauté. Izuru est un bon garçon, n’est-ce pas ?",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2183,
+        "width": 0.3713,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi & Temma",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.439,
+        "width": 0.264,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’épisode de HanaKishi Radio de cette semaine était différent des autres car cette fois-ci, Ikemane, l’un des manager de HOLOSTARS est en vacances. Le problème étant qu’il était le seul avec l’accès au Google Sheets, ce qui finit par rendre Temma et Miyabi incapable de parler du sujet qu’ils avaient planifiés pour la semaine. Mais le show doit continuer, ils ont alors décidé de faire de la discussion libre. L’un des sujets était « Pourquoi Ikemane est en pause » et c’est parce que c’était son anniversaire. Temma a ensuite ajouté qu’il lui avait déjà envoyé un cadeau, ce qui n’est pas le cas de Miyabi. Ils ont aussi discuté de la possibilité d’une collab avec UPROAR!!, sujet sur lequel Temma a rapidement dit « Non ! » et ont essayé de se pousser l’un et l’autre à initier une collaboration.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.479,
+        "width": 0.397,
+        "height": 0.2563
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel & Fuma",
+      "bbox": {
+        "x": 0.6606,
+        "y": 0.1732,
+        "width": 0.2469,
+        "height": 0.033
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fuma a invité Astel pour essayer la nouvelle saison d’Apex ensemble. Leurs streams ont commencé juste après qu’ils aient fini de télécharger et d’installer la mise à jour. Dans ce stream, ils ont discuté du nouveau héros et du nouveau système de classement. Ils ont également regarder le passe de combat et les cosmétiques. Cependant, Astel a terminé son passe de combat en dépensant son argent pour tout débloquer, en ajoutant que le jeu est trop facile.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2183,
+        "width": 0.3831,
+        "height": 0.1345
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir envoyé une notification sur leur serveur afin de trouver une troisième personne pour compléter l’équipe, Rikka a décidé de se joindre à eux. Izuru a également rejoint l’appel. Après avoir essayé le nouveau héros et le nouveau système de classement, ils se sont mis d’accord que ce nouveau système est bien plus difficile. Astel et Izuru espèrent que ce système va réduire ou même réinitialiser leur points de tournois, pour que la composition d’équipe soit plus facile pour des futurs tournois.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.362,
+        "width": 0.3894,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.7269,
+        "y": 0.5543,
+        "width": 0.1175,
+        "height": 0.0321
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Groupe de Survivants composé d’Izuru, Temma, et Roberu ont commencé une partie sur un nouveau jeu de survie, Grounded. C’est un jeu où ils sont rétrécis et doivent combattre des insectes pour survivre dans la nature. De ce que l’on a pu voir, on dirait qu’ils essayaient de se débarrasser de toutes les peurs de Roberu. Heureusement, il y avait un mode pour arachnophobe qui permet de modifier l'apparence des araignées, allant de blob à réaliste.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.5985,
+        "width": 0.3962,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.529,
+        "y": 0.803,
+        "width": 0.115,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran a fini un autre projet sur Minecraft. Réputé pour ses projets long et gigantesque, celui-ci était l’un des plus simples. Malgré cela, c’est tout aussi important. Aruran a réalisé un pixel art de la tête de tous les membres d’HOLOSTARS et d’UPROAR. Papa voulait faire en sorte que le pixel art soit de face pour qu’il soit visible sur la carte. Le 13 Mai, Papa l’a enfin fini et l’a publié sur Twitter. Il est satisfait du résultat. Merci, Aru-Papa !",
+      "bbox": {
+        "x": 0.4319,
+        "y": 0.8464,
+        "width": 0.4956,
+        "height": 0.1072
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cj6uylbndn191.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

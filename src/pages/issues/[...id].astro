@@ -1,17 +1,29 @@
 ---
 import IssueViewer from "$lib/components/IssueViewer.svelte";
 import Layout from "$lib/layouts/Layout.astro";
+import { PAGE_PARAM, STORAGE_KEYS } from "$lib/reader";
+import type { PageTranscription } from "$lib/transcriptions";
 import { getCollection } from "astro:content";
 
 export async function getStaticPaths() {
   const issues = await getCollection("issues");
+  const transcriptionsByIssue = new Map<
+    string,
+    Record<number, PageTranscription>
+  >();
+  for (const { data } of await getCollection("transcriptions")) {
+    const pages = transcriptionsByIssue.get(data.issueId) ?? {};
+    // Only what the reader displays: the rest is serialized into the page
+    pages[data.page] = { status: data.status, blocks: data.blocks };
+    transcriptionsByIssue.set(data.issueId, pages);
+  }
   return issues.map((entry) => ({
     params: { id: entry.id },
-    props: { entry },
+    props: { entry, transcriptions: transcriptionsByIssue.get(entry.id) ?? {} },
   }));
 }
 
-const { entry } = Astro.props;
+const { entry, transcriptions } = Astro.props;
 ---
 
 <Layout title={entry.data.title}>
@@ -31,6 +43,40 @@ const { entry } = Astro.props;
         })}
       </time>
     </div>
-    <IssueViewer client:load issue={entry} />
+    <!--
+      The viewer is prerendered on page 1 in Original mode. When the URL or the
+      stored reading mode asks for something else, hide it until it has
+      hydrated with the right state instead of flashing the default one. The
+      animation shows it anyway if hydration never happens.
+    -->
+    <script
+      is:inline
+      define:vars={{ modeKey: STORAGE_KEYS.mode, pageParam: PAGE_PARAM }}
+    >
+      let mode = null;
+      try {
+        mode = localStorage.getItem(modeKey);
+      } catch {
+        // Storage unavailable: default mode
+      }
+      const page = new URLSearchParams(location.search).get(pageParam);
+      if ((mode && mode !== "original") || (page && page !== "1")) {
+        document.documentElement.classList.add("reader-pending");
+      }
+    </script>
+    <IssueViewer client:load issue={entry} transcriptions={transcriptions} />
   </article>
 </Layout>
+
+<style is:global>
+  html.reader-pending [data-reader] {
+    visibility: hidden;
+    animation: reader-reveal 0s 3s forwards;
+  }
+
+  @keyframes reader-reveal {
+    to {
+      visibility: visible;
+    }
+  }
+</style>

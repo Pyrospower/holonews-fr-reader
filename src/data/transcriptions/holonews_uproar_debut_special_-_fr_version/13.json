@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Programme de la deuxième semaine",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.0434,
+        "width": 0.9069,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Fuma",
+      "bbox": {
+        "x": 0.6225,
+        "y": 0.2431,
+        "width": 0.2675,
+        "height": 0.0512
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "WEEKLY SCHEDULE 4/4-4/10\n※予定は変更する事があります。\n4 Mo. — Splatoon2 X帯ガチマ — 20:00\n5 Tu. — Splatoon2 X帯ガチマ — 20:00\n6 We. — UPROAR!! VALORANT コラボ — 18:00\n7 Th. — APEX ランク — 20:00\n8 Fr. — APEX ランク — 20:00\n9 Sa. — UPROAR!! なんかする — 18:00\n10 Su. — 星のカービィ ディスカバリー — 20:00",
+      "bbox": {
+        "x": 0.0375,
+        "y": 0.099,
+        "width": 0.4238,
+        "height": 0.2075
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme d’Uyu",
+      "bbox": {
+        "x": 0.1563,
+        "y": 0.4653,
+        "width": 0.21,
+        "height": 0.0538
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "4/4～4/8 SCHEDULE\nThu 4 — 23:00 — PAYDAY2\nFri 5 — 23:00 — 夜勤事件\nSat 6 — 18:00 — UPROAR!! 4人VALO\nSun 7 — 23:00 — Apex\nSun 8 — 23:00 — FFXIV ※初見",
+      "bbox": {
+        "x": 0.655,
+        "y": 0.3299,
+        "width": 0.2825,
+        "height": 0.1658
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Gamma",
+      "bbox": {
+        "x": 0.6112,
+        "y": 0.6866,
+        "width": 0.2687,
+        "height": 0.0521
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "★今後のスケジュール：\n04/04(月)21：00～ — 漫画一本道\n04/04(火)21：00～ — 漫画一本道\n04/06(水)18：00～ — UPROAR!!でVALORANT\n04/07(木)20：00～ — やわらか頭塾\n04/08(金)21：30～ — 飲酒しながらお絵描き雑談\n04/09(土)18：00～ — UPROAR!!でなんかゲームするお\n04/10(日)10：30 — 朝活イラストメイキング",
+      "bbox": {
+        "x": 0.085,
+        "y": 0.566,
+        "width": 0.1938,
+        "height": 0.1658
+      }
+    },
+    {
+      "type": "other",
+      "text": "漫画家の 緋崎ガンマでーす うぇい",
+      "bbox": {
+        "x": 0.325,
+        "y": 0.5573,
+        "width": 0.2587,
+        "height": 0.0885
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Rio",
+      "bbox": {
+        "x": 0.0444,
+        "y": 0.9097,
+        "width": 0.3313,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "SCHEDULE 4/4～4/10 JST\n4 — OMORI 初見プレイ Part 2 — 22:00\n5 — ニーア レプリカントver.1.22474487139... Part 1 （Aエンドまでは既プレイ） — 20:00\n6 — UPROAR!!コラボ VALORANT — 18:00\n7 — ニーア レプリカントver.1.22474487139... Part 2 （Aエンドまでは既プレイ） — 21:00\n8 — OMORI 初見プレイ Part 3 （日にち的には9日の0時） — 24:00\n9 — UPROAR!!コラボ ゲーム — 18:00\n10 — ニーア レプリカントver.1.22474487139... Part 3 （Aエンドまでは既プレイ） — 21:00",
+      "bbox": {
+        "x": 0.41,
+        "y": 0.7648,
+        "width": 0.365,
+        "height": 0.2101
+      }
+    },
+    {
+      "type": "other",
+      "text": "ART BY:@_CONGEE",
+      "bbox": {
+        "x": 0.8187,
+        "y": 0.9679,
+        "width": 0.1437,
+        "height": 0.0087
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/j69sk846wis81.png",
+    "gifFrame": null,
+    "confidence": 62
+  }
+}

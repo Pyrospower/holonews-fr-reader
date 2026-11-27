@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STATS ET SORTIES",
+      "bbox": {
+        "x": 0.1456,
+        "y": 0.0712,
+        "width": 0.5588,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nORIGINAL\nNOUVEAU",
+      "bbox": {
+        "x": 0.842,
+        "y": 0.064,
+        "width": 0.105,
+        "height": 0.044
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/17\n[Kanata] Tenshi No Agape: 500K\n[Roboco] Shachiku No Uta: 100K\n[AZKi] Sennou Sakushu Toranomaki: 100K\n[AZKi] Gamen No Nakano Kimi Ga Suki: 50K",
+      "bbox": {
+        "x": 0.052,
+        "y": 0.141,
+        "width": 0.438,
+        "height": 0.069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/18\n[IRyS] Ghost: 750K\n[Flare] Vampire: 250K\n[Watame] My Song: 750K\n[Rushia] Goodbye Sengen: 3M\n[HoloEN 1/2/Hope] Ochame Kinou: 3M\n[Lamy/Botan] Lion: 750K\n[Risu] ALiCE&u: 100K",
+      "bbox": {
+        "x": 0.513,
+        "y": 0.142,
+        "width": 0.436,
+        "height": 0.122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/19\n[AZKi] Nonbiri To: 75K\n[IRyS] Sparks of Joy: 250K\n[Mel] Kaputto Night Sky: 250K\n[Patra/Miko/Flare] Umapyoi Densetsu: 100K",
+      "bbox": {
+        "x": 0.051,
+        "y": 0.229,
+        "width": 0.438,
+        "height": 0.069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/20\n[Fubuki] Animal: 1M\n[Koyori] Nh-Uh-Uh: 1M\n[Kanata/Nene] Shijoshugi Adtruck: 500K",
+      "bbox": {
+        "x": 0.513,
+        "y": 0.281,
+        "width": 0.436,
+        "height": 0.053
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/21\n[Risu] Flos: 250K\n[Astel/Miyabi] Booo!: 50K\n[Shion] Acacia Syndrome: 250K\n[Okayu] Cute Na Kanojo: 2M",
+      "bbox": {
+        "x": 0.051,
+        "y": 0.316,
+        "width": 0.437,
+        "height": 0.069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/22\n[Pekora] Cinderella: 2M\n[Mumei] A New Start: 750K\n[Calliope] End Of A Life: 7M\n[Suisei/Nene/MaiR/Ruri/Saki Akuma] Absolute 5: 750K",
+      "bbox": {
+        "x": 0.513,
+        "y": 0.35,
+        "width": 0.436,
+        "height": 0.088
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/23\n[Towa] FACT: 1M\n[AZKi] Tabako: 100K\n[Calliope] Ibasho: 500K\n[Mel] Animal (Cover): 75K\n[Okayu] Setsuna Plus: 500K\n[Choco/Mel] ChocoMelty: 75K\n[Risu/Oga] Daddy Daddy Do!: 500K\n[Kiara/Calliope] Wah Wah World: 3M\n[Aqua] Hokori Takaaki Idol: 500K\n[Polka] Cinema (Cover): 25K\n[Sora] Kono Sekai De: 75K\n[Rushia] Omoikou: 100K\n[AZKi] rise (Cover): 25K\n[Suisei] Phony: 6M",
+      "bbox": {
+        "x": 0.051,
+        "y": 0.403,
+        "width": 0.438,
+        "height": 0.248
+      }
+    },
+    {
+      "type": "other",
+      "text": "1 MILLION DE VUES",
+      "bbox": {
+        "x": 0.542,
+        "y": 0.629,
+        "width": 0.38,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "other",
+      "text": "Reprise · Polka · CINEMA\nCHANSON ORIGINALE · Kronii · DAYDREAM\nCHANSON ORIGINALE · Mumei · A NEW START\nCHANSON ORIGINALE · AyaFubuMi · ONIKEMO-DANCE\nReprise · AZKi · RISE\nCHANSON ORIGINALE · Towa · AKUMA\nCHANSON ORIGINALE · Rushia · OMOIKOU\nReprise · Mel · ANIMAL",
+      "bbox": {
+        "x": 0.039,
+        "y": 0.682,
+        "width": 0.923,
+        "height": 0.179
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/udnc3tf6x8f81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

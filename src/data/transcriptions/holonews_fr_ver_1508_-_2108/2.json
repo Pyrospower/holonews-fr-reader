@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Ookami Mio",
+      "bbox": {
+        "x": 0.0989,
+        "y": 0.2886,
+        "width": 0.7978,
+        "height": 0.088
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mio a célébré son anniversaire chez Fubuki avec cette dernière (qui l’a surprise en lui souhaitant un bon anniversaire, comme lui avait demandé Mio) et Korone. Okayu, qui n’a pas pu les rejoindre, étant cas contact au covid, les a appelé pour souhaiter un joyeux anniversaire à Mio, et espère jouer contre elle quand elle ira mieux.",
+      "bbox": {
+        "x": 0.0811,
+        "y": 0.4178,
+        "width": 0.385,
+        "height": 0.1551
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki a ensuite amené un gâteau, qui sera offert au gagnant d’une suite de jeux qu’elle a préparé pour le stream. Elles ont toutes enfilé leurs leur yukatas d’été ainsi qu’un casque VR sur la tête et afin de faire un duel culinaire.",
+      "bbox": {
+        "x": 0.0811,
+        "y": 0.7292,
+        "width": 0.385,
+        "height": 0.1127
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après cela, elles ont éclaté des pastèques à la plage en maillot de bain. Chacunes d’entre elles devait tourner autour d’elle même puis frapper une pastèque avec un bâton le plus rapidement possible.",
+      "bbox": {
+        "x": 0.0806,
+        "y": 0.8588,
+        "width": 0.3856,
+        "height": 0.0988
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Déterminé, Korone a brandit trois bâtons pour obtenir le meilleur temps, qui est de 7 secondes !",
+      "bbox": {
+        "x": 0.5333,
+        "y": 0.4205,
+        "width": 0.3856,
+        "height": 0.0482
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le dernier jeu, Garde la Pose, Mio était fatiguée et n’a pas réussi à tenir très longtemps. L’épreuve surprise, qui valait 100 000 points bonus, consistait à faire la position de la chaise le plus longtemps possible ! C’était la dernière chance de Mio pour rattraper son retard, mais elle a perdu l’équilibre et n’a pas gagné le gâteau.",
+      "bbox": {
+        "x": 0.5383,
+        "y": 0.6192,
+        "width": 0.3983,
+        "height": 0.1292
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuite, ses produits dérivés d’anniversaire fût annoncer :",
+      "bbox": {
+        "x": 0.5389,
+        "y": 0.7554,
+        "width": 0.3978,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une taie de traversin, illustré par Aya Izumi\n• Un paquet de trois pins\n• Un sac de plage avec une illustration de Mio.\n• Un porte-bonheur",
+      "bbox": {
+        "x": 0.5489,
+        "y": 0.794,
+        "width": 0.37,
+        "height": 0.098
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le pack complet inclut, en bonus, une illustration au format A4 d’Aya, un autographe et un message de la part de Mio.",
+      "bbox": {
+        "x": 0.5339,
+        "y": 0.9001,
+        "width": 0.3983,
+        "height": 0.0536
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/634sj0supok91.gif",
+    "gifFrame": 89,
+    "confidence": 92
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats",
+      "bbox": {
+        "x": 0.4494,
+        "y": 0.0187,
+        "width": 0.1019,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/25\n[Koyori] Mixed Nuts: 250K\n[Mel/Kanata/Calliope] Luvoratorrrrry!: 1M\n[Luna] Zettai Chuusei ♡ Nanonanora: 75K",
+      "bbox": {
+        "x": 0.046,
+        "y": 0.06,
+        "width": 0.463,
+        "height": 0.052
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/26\n[Fubuki] Ready to: 250K\n[La+] Kilmer (Cover): 100K\n[Ina/Sana] Futariboshi: 250K\n[Reine/Towa] Cynical Night Plan: 75K\n[Okayu] Shitsuraku Petri: 8M\n[Sora] Shoujo Rei: 100K",
+      "bbox": {
+        "x": 0.511,
+        "y": 0.06,
+        "width": 0.463,
+        "height": 0.102
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/27\n[Korone] Fushigi Na Kusuri: 250K\n[Gura/Shion] Renai Circulation: 2M\n[Akirose] Rose of the Lamp (Live): 50K",
+      "bbox": {
+        "x": 0.046,
+        "y": 0.125,
+        "width": 0.463,
+        "height": 0.052
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/28\n[Iofi] Dekat Di Hati: 75K\n[Calliope] Kamouflage: 100K\n[Rikka] Re:Hello World (English Version): 100K\n[Rio] CH4NGE (Cover): 25K\n[Nene] Salamander: 500K",
+      "bbox": {
+        "x": 0.511,
+        "y": 0.178,
+        "width": 0.463,
+        "height": 0.084
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/29\n[Sora] Sora No Toki: 50K\n[Axel] Yoidore Shirazu: 250K\n[Koyori/Kiara] Newton Dance: 750K\n[Towa/Okayu] Cat Loving: 750K\n[La+] Kilmer (Cover): 250K",
+      "bbox": {
+        "x": 0.046,
+        "y": 0.189,
+        "width": 0.463,
+        "height": 0.085
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/30\n[Lui] Overd: 100K\n[Chloe] Hurt You: 500K\n[Risu/Oga] Harapan PanPanPan: 50K\n[Miyabi/Aruran/Temma] Kaze Ni Naru: 25K\n[Reine/Towa] Cynical Night Plan: 100K\n[Calliope] Make ‘Em Afraid: 500K\n[Fuma] Shanti: 75K",
+      "bbox": {
+        "x": 0.511,
+        "y": 0.272,
+        "width": 0.463,
+        "height": 0.118
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/31\n[Suisei] Tricologe: 2M\n[Shion] Yoidore Shirazu: 1M\n[Roboco] Little Bit (Live): 100K\n[Marine] I’m Your Treasure Box: 750K\n[Ame/Nabi] Say So (Cover): 10K\n[Iroha/La+] Identity: 2M",
+      "bbox": {
+        "x": 0.046,
+        "y": 0.288,
+        "width": 0.463,
+        "height": 0.103
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.0638,
+        "y": 0.4119,
+        "width": 0.1019,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "other",
+      "text": "ORIGINALE",
+      "bbox": {
+        "x": 0.4306,
+        "y": 0.4119,
+        "width": 0.1356,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "other",
+      "text": "NOUVEAU",
+      "bbox": {
+        "x": 0.8113,
+        "y": 0.4119,
+        "width": 0.1206,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nouvelles sorties",
+      "bbox": {
+        "x": 0.3188,
+        "y": 0.4536,
+        "width": 0.3619,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nLui\nOVERD",
+      "bbox": {
+        "x": 0.032,
+        "y": 0.5005,
+        "width": 0.311,
+        "height": 0.12
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nRikka\nRE:HELLO WORLD\n(ENGLISH VERSION)",
+      "bbox": {
+        "x": 0.344,
+        "y": 0.5005,
+        "width": 0.311,
+        "height": 0.12
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nMarine\nI’M YOUR TREASURE BOX *\nYOU HAVE FOUND CAPTAIN\nMARINE IN A TREASURE CHEST",
+      "bbox": {
+        "x": 0.656,
+        "y": 0.5005,
+        "width": 0.311,
+        "height": 0.12
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nLa+\nKILMER",
+      "bbox": {
+        "x": 0.032,
+        "y": 0.6205,
+        "width": 0.311,
+        "height": 0.12
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nAmelia & Nabi\nSAY SO",
+      "bbox": {
+        "x": 0.344,
+        "y": 0.6205,
+        "width": 0.311,
+        "height": 0.12
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nRio\nCH4NGE",
+      "bbox": {
+        "x": 0.656,
+        "y": 0.6205,
+        "width": 0.311,
+        "height": 0.12
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nCalliope\nKAMOUFLAGE",
+      "bbox": {
+        "x": 0.032,
+        "y": 0.7405,
+        "width": 0.311,
+        "height": 0.12
+      }
+    },
+    {
+      "type": "other",
+      "text": "COLLAB\nDECO*27 feat. Ollie\nZOMBIES",
+      "bbox": {
+        "x": 0.344,
+        "y": 0.7405,
+        "width": 0.311,
+        "height": 0.12
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nOkayu\nSWALLOW\nTHE VENOM",
+      "bbox": {
+        "x": 0.656,
+        "y": 0.7405,
+        "width": 0.311,
+        "height": 0.12
+      }
+    },
+    {
+      "type": "other",
+      "text": "NOUVEL LP\nMidnight Grand Orchestra\n(Suisei & Taku Inoue)\nOVERTURE",
+      "bbox": {
+        "x": 0.032,
+        "y": 0.861,
+        "width": 0.467,
+        "height": 0.119
+      }
+    },
+    {
+      "type": "other",
+      "text": "NOUVEL EP\nORIO\n(Kanata & Towa)\nOVER TIME",
+      "bbox": {
+        "x": 0.5,
+        "y": 0.861,
+        "width": 0.468,
+        "height": 0.119
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ta1ztxg4fig91.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

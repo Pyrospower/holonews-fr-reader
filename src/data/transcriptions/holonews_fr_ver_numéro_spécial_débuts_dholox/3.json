@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "La+ Darknesss",
+      "bbox": {
+        "x": 0.3533,
+        "y": 0.0633,
+        "width": 0.1111,
+        "height": 0.0085
+      }
+    },
+    {
+      "type": "other",
+      "text": "Birthday 5/25\nHeight 139 cm",
+      "bbox": {
+        "x": 0.7944,
+        "y": 0.0108,
+        "width": 0.1678,
+        "height": 0.0679
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+ Darknesss",
+      "bbox": {
+        "x": 0.5622,
+        "y": 0.24,
+        "width": 0.4244,
+        "height": 0.0255
+      }
+    },
+    {
+      "type": "other",
+      "text": "Triste",
+      "bbox": {
+        "x": 0.8272,
+        "y": 0.3627,
+        "width": 0.0928,
+        "height": 0.0177
+      }
+    },
+    {
+      "type": "other",
+      "text": "Heureuse",
+      "bbox": {
+        "x": 0.6111,
+        "y": 0.4792,
+        "width": 0.16,
+        "height": 0.0201
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La+ incarne la définition du violet. Sa tenue est ornée de divers accessoires, dont ses entraves au cou, aux poignets et aux chevilles.",
+      "bbox": {
+        "x": 0.7206,
+        "y": 0.5899,
+        "width": 0.2661,
+        "height": 0.118
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle ne porte qu’une seule chaussette, soi-disant « pour le style ».",
+      "bbox": {
+        "x": 0.7367,
+        "y": 0.7296,
+        "width": 0.2494,
+        "height": 0.0513
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ozgnj2q8kc481.gif",
+    "gifFrame": 88,
+    "confidence": 82
+  }
+}

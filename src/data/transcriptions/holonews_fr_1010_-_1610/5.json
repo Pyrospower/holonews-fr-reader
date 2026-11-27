@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1010_-_1610",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.2387,
+        "width": 0.2125,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a désormais une matinale appelée Haato Na News. Contrairement aux nouvelles des autres membres, elle a également inclus des nouvelles sans rapport avec hololive qu'elle trouve mignonnes et intéressantes. Elle a fait un reportage sur un chat assis sur un Roomba, une bande dessinée avec un personnage qui renifle des chats, l'événement Halloween de Disneyland, la collaboration hololive x Lawson, et sa prochaine apparition dans HoloGra.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.2778,
+        "width": 0.4456,
+        "height": 0.1168
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’émission rappelait beaucoup les streams matinaux qu’elle faisait lorsqu'elle était en Australie.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.408,
+        "width": 0.445,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.0613,
+        "y": 0.4457,
+        "width": 0.2669,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama adore utiliser des patchs anti douleur : parfois, elle les porte même pour dormir. Sa mère s'est également plainte de l'odeur des patchs qui émanait de sa poubelle.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.4913,
+        "width": 0.4456,
+        "height": 0.0512
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1213,
+        "y": 0.5716,
+        "width": 0.2044,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama est apparue dans un enregistrement vidéo lors du concert du 1er anniversaire de Kson pour l'encourager et la féliciter. Haachama a également exprimé le désir de collaborer avec elle à l'avenir.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.6163,
+        "width": 0.445,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ayame",
+      "bbox": {
+        "x": 0.12,
+        "y": 0.7023,
+        "width": 0.1406,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ojou a récemment eu de la fièvre et suite à un test antigénique, l'hôpital a dit qu'elle était négative au COVID-19. Elle va passer un test PCR pour s'en assurer.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.7409,
+        "width": 0.4456,
+        "height": 0.049
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.12,
+        "y": 0.806,
+        "width": 0.105,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Allez donner plus d’amour à Aqua.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.8459,
+        "width": 0.2788,
+        "height": 0.0126
+      }
+    },
+    {
+      "type": "other",
+      "text": "Hey, I want you to like me more!",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.9453,
+        "width": 0.26,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.6375,
+        "y": 0.1931,
+        "width": 0.1375,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre amie Fubuki a été nommée comme « secouriste » pour la fondation DAE du Japon dans le cadre d'un projet de collaboration avec hololive. La fondation DAE du Japon publiera une vidéo mettant en vedette Fubuki sur la façon d'utiliser correctement un défibrillateur automatique. Elle apparaît également sur leurs brochures, les certificats d'achèvement de cours en ligne, la page d'accueil officielle, et divers SNS. En outre, COVER Corporation avait déjà fait don de dix millions de yens à la fondation AED dans le cadre de cette collaboration. Les utilisateurs de Twitter ont fait remarquer qu'il était ironique que Fubuki soit l'ambassadrice de ce projet après avoir donné des crises cardiaques aux spectateurs pendant des années, mignonne comme elle est.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.2322,
+        "width": 0.4456,
+        "height": 0.1949
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.5344,
+        "y": 0.444,
+        "width": 0.1844,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki a déclaré qu’elle était en fait une chienne pendant un let’s play sur Sherlock Holmes : The Devil's Daughter. Elle s’est mise à aboyer et à renifler, et son tchat s’est mis à la renifler. Ouaf !",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.487,
+        "width": 0.4444,
+        "height": 0.049
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.5269,
+        "y": 0.5586,
+        "width": 0.1913,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki a parlé un peu du prochain festival sportif sur Minecraft. Fubuki s'est demandée pourquoi son équipe a tant de bébés (Laplus, Luna, Miko) et a réalisé que le « aka » de Akagumi (équipe rouge) peut aussi signifier « bébé », ce qui en fait l'équipe des bébés. Fubuki a ajouté qu'elle s'attendait à des fanarts de toute l'équipe en bébés. Les artistes, c’est votre heure de gloire !",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.6037,
+        "width": 0.4456,
+        "height": 0.1133
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.5875,
+        "y": 0.7352,
+        "width": 0.1219,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela faisait un moment que Choco n’avait pas fait de stream karaoké. Après une journée d'enregistrement, Choco a eu envie de chanter et a lancé un stream karaoké à l’improviste. La rediffusion n'est pas disponible.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.7713,
+        "width": 0.4444,
+        "height": 0.0885
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/sgvwf7w87cw91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

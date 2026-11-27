@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Les collaborations de Sana",
+      "bbox": {
+        "x": 0.235,
+        "y": 0.0161,
+        "width": 0.5313,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aussies",
+      "bbox": {
+        "x": 0.3154,
+        "y": 0.2041,
+        "width": 0.1231,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Deux australiennes, une australien honoraire et une ancienne australienne se sont battues sur Mario Party pour savoir qui sera la véritable australienne. Ce stream était la cinquième collaboration de Sana avant sa graduation. Bae était Yoshi, Sana Harmonie, Kiara Daisy et Haachama était Birdo. Kiara a conservé l'avantage au début, en remportant la plupart des mini-jeux, mais elle a finalement été surclassée par Bae gagnant le dernier mini-jeu. Les deux vraies Australiennes ont défendu leur nationalité en prenant la première et la deuxième place. Haachama s'est faite déconnecter à la dernière minute et n'a pas pu revenir, mais Botchama est resté fort dans les mini-jeux. Elles ont appris beaucoup d'argot australien pendant le stream, et Kiara a déclaré qu'elle avait prévu ce stream depuis longtemps et qu'elle était heureuse qu'il ait enfin lieu.",
+      "bbox": {
+        "x": 0.0731,
+        "y": 0.2452,
+        "width": 0.3844,
+        "height": 0.2522
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana & Polka",
+      "bbox": {
+        "x": 0.64,
+        "y": 0.1731,
+        "width": 0.2092,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka jouait à HoloCure et a décidé d'inviter la première personne qu'elle gagnerait dans le jeu. La gagnante était Sana, cette collaboration était donc la septième avant sa graduation. Elles ont répondues à des Marshmallow des fans. La première moitié comportait une section de questions-réponses, comme « Quel surnom vous donneriez-vous ? » ou « Quels animaux australiens aimez-vous ? ». Après cela, elles ont commencé à boire et ont discuté. La combinaison de l'éloquence de Sana en japonais et de l'hyperactivité de Polka a rendu le stream un peu agité, mais il était agréablement dynamique grâce à l'alchimie qu'elles ont. Polka aimait vraiment Sana, même avant ses débuts et d'entendre sa voix. De plus, Sana pouvait dire « J'aime Polka ! » à n'importe quel moment du stream, et cela se terminait par un rire.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.2144,
+        "width": 0.3894,
+        "height": 0.2687
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana & Bae",
+      "bbox": {
+        "x": 0.1723,
+        "y": 0.6955,
+        "width": 0.1892,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de la sixième collaboration avant sa graduation, Sana et Bae ont classé des collations australiennes. Elles ont commencé le stream juste après leur retour du festival SMASH! et nous ont accueillis avec leur nouvelle salutation. Bae aimait beaucoup de collations, tandis que Sana était plus difficile. Leurs opinions sur les collations salées étaient pratiquement les mêmes, mais parmi les collations sucrées, elles n'étaient d'accord que sur les Tim Tams. Sana a mis le vegemite au rang S et a dit que ses fans étaient des chiens de pain qui seraient heureux si elle étalait du vegemite dessus. Il semblait que le stream aurait dû s'arrêter là, mais ils ont commencé une deuxième tier-list et ont immédiatement fait l'éloge du Boost Juice. Le duo a mis fin au stream en chantant la chanson de fin de Bae en disant qu'elles ne comprenaient pas ce qu'il se passait.",
+      "bbox": {
+        "x": 0.0731,
+        "y": 0.7361,
+        "width": 0.3881,
+        "height": 0.2335
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ovsazt55sqd91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 1",
+      "bbox": {
+        "x": 0.4463,
+        "y": 0.0148,
+        "width": 0.11,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama & Okayu",
+      "bbox": {
+        "x": 0.1813,
+        "y": 0.1762,
+        "width": 0.3038,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu et Haachama ont récemment fait un stream boisson, dans lequel elles ont parlé de diverses choses, notamment de leurs travaux récents, de leurs réflexions sur leurs styles de VTubing respectifs et de leurs espoirs pour l'avenir. Ils ont plaisanté et se sont beaucoup taquinés tout au long du stream. Les sujets du voyage dans le temps, de leur vie et de leur famille ont également été abordés. Okayu a mentionné qu'elle aimerait retourner à l'époque où elle était au collège et voir ce qui est arrivé à ses harceleurs, tandis que Haachama voulait faire un futur tour du monde. Les deux filles ont partagé leur respect pour le travail de l'autre et se sont amusées pendant cette collaboration.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2222,
+        "width": 0.3906,
+        "height": 0.2148
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama & Zeta",
+      "bbox": {
+        "x": 0.1963,
+        "y": 0.612,
+        "width": 0.2725,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama et Zeta ont joué à Overcooked 2 pour leur première collaboration. Cependant, Haachama a peut-être mal compris et a d’abord pensé qu'elles allaient cuisiner Zeta.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.6584,
+        "width": 0.37,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Zeta a abordé le sujet de la consommation de viande humaine, qu'Haachama s'est montré intéressé à essayer. Zeta a donc recommandé les pieds et Haachama lui a demandé si elle avait déjà essayé, ce à quoi elle n'a pas répondu et a changé de sujet.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.7257,
+        "width": 0.3875,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Finalement, ils ont commencé à parler de tarentules, mais pas dans le sens de les manger : au lieu de cela, Zeta a suggéré qu'elles devraient se marier l'un avec l'autre et avoir un bébé tarentule...",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.8199,
+        "width": 0.3831,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama & Choco",
+      "bbox": {
+        "x": 0.6475,
+        "y": 0.1762,
+        "width": 0.3025,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama et Choco ont organisé un concours de cuisine et ont rassemblé de nombreux plats délicieux proposés par leurs fans. Le concours s'est déroulé sans encombre avec de nombreuses propositions qui vous donneraient faim. Du moins, c'était le cas jusqu'à ce qu'ils révèlent l'« Okonomiyaki à la tarentule », qui a fait pousser à Choco un cri de terreur, et le « Frelon jaune frit », qui était le plat préféré d'Haachama.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2209,
+        "width": 0.3906,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Heureusement, c'est Choco qui a choisi les gagnants, et a donné les titres de MVP aux biscuits SSRB d'Amatou et au curry sur le thème de Coco de Kuro Clover. (Il y avait deux MVP parce qu'elle ne pouvait pas décider lequel était le meilleur).",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.362,
+        "width": 0.3894,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin, ils ont promis de faire une vraie émission de cuisine ensemble à l'avenir.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.4475,
+        "width": 0.3331,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 2",
+      "bbox": {
+        "x": 0.6775,
+        "y": 0.4948,
+        "width": 0.11,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.6554,
+        "width": 0.115,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a organisé le deuxième épisode de sa dégustation internationale de snacks la semaine dernière et a reçu encore plus de recommandations des autres holomems. Elle a goûté un bonbon Fruit Roll-Up, qui a été recommandé par Amelia parce qu'il peut changer la couleur de la langue de celui qui le mange. Shuba a remarqué qu'il avait un goût de citron qui lui rappelait le Hi-Chew. Elle a également essayé les Tim Tams qui ont été suggérés par Bae et a dit qu'elle les aimait depuis qu'un ami les avait recommandés dans le passé. Malheureusement, alors que Moona avait suggéré le Kue Putu et le Lumpia, Subaru n'a pas pu les trouver au Japon et a demandé aux téléspectateurs de lui indiquer où les trouver.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.6997,
+        "width": 0.3863,
+        "height": 0.2253
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/mfyk4z0007891.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

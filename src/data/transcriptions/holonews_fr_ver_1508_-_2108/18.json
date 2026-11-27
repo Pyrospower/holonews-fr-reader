@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0143,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/15\n[La+] Life: 1M\n[Fubuki] Kingworld: 500K\n[La+] Lipstick Message: 250K\n[Calliope] Dead Beats (Live): 100K\n[Holostars Tempus] Top of the World: 100K\n[Rikka/Izuru] Happy Halloween: 100K\n[AZKi/Hachi] Bakuhatsu: 75K\n[Polka] Cinderella: 750K",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.0547,
+        "width": 0.4425,
+        "height": 0.1337
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/16\n[Kanata] Hibana: 2M\n[Towa/Okayu] Cat Loving: 1M\n[HoloJP Gen 0-3] Shiny Smily Story: 7M\n[Izuru] Monologue in a Row (Live): 10K\n[Suisei] Next Color Planet: 15M",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.2014,
+        "width": 0.4425,
+        "height": 0.0842
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/17\n[IRyS] Inochi: 1M\n[Kobo] Mantra Hujan: 6M\n[Kiara] You Little Shit: 100K\n[Aqua] Aqua Iro Palette: 8M\n[Marine] I'm Your Treasure Box: 6M\n[Reine/Kiara] Animal (EN): 250K\n[Koyori] Mixed Nuts: 500K\n[Flare] Smile & Go!!: 500K",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.2986,
+        "width": 0.4425,
+        "height": 0.1337
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/18\n[Mel] Bunny: 500K)\n[Okayu] Setsuna Plus: 750K\n[Kanata] Telecaster B-Boy: 2M\n[Polka] SAIKYOUTICPOLKA: 250K\n[AZKi/Hachi] Bakuhatsu: 100K\n[Kronii] Mafia (Cover): 250K\n[La+] Klimer: 500K",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.4453,
+        "width": 0.4425,
+        "height": 0.1181
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/19\n[Towa] Fact: 3M\n[Suisei] Shoujo Rei: 7M\n[lofi] Dekat Di Hati: 100K\n[Korone] Sweet Magic: 3M\n[Aqua] Stay Blue (Full): 250K\n[Sora] Pit Shite Marmalade: 25K\n[AZKi/HACHI] Chanto Aru Yo (Cover): 50K\n[HoloJP 0-6] Tonde K! hololive summer: 250K\n[Risu/Oga] Harapan PanPanPan: 75K\n[HoloID 1/2/3] Bebas (Cover): 250K\n[Sora] Wonderland (Short): 75K\n[Botan] I I I Love You: 100K\n[Reine/Kotone] ECHO: 75K\n[Fubuki] Ready To: 500K\n[Suisei] Phony: 20M",
+      "bbox": {
+        "x": 0.5112,
+        "y": 0.0547,
+        "width": 0.44,
+        "height": 0.2491
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/20\n[Marine] Unison: 8M\n[Shion] Chandelier: 250K\n[Calliope] Let's End The World: 250K\n[Miko/Pekora] Pekomiko Daisensou: 9M\n[Calliope/Suisei] Wicked (Live): 100K\n[Sora] Happy Meowthday: 75K\n[Fuma] Shanti: 100K",
+      "bbox": {
+        "x": 0.5112,
+        "y": 0.3168,
+        "width": 0.44,
+        "height": 0.1155
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/21\n[Nene] Kaisei (Cover): 25K\n[Okayu] Hatsukoisou (Cover): 250K\n[Matsuri/Suisei/Flare/Nene] Niccori^^ Survey Team Theme (Live Cover): 50K\n[Mumei] The Forgotten Song (Cover): 100K\n[HoloID 1/2/3] Bebas (Cover): 500K\n[HoloJP] Hololive Ondo: 100K",
+      "bbox": {
+        "x": 0.5112,
+        "y": 0.447,
+        "width": 0.44,
+        "height": 0.1163
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nPolka\nSAIKYOU TIC\nPOLKA",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.5807,
+        "width": 0.3113,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nhololive IDOL PROJECT\nHOLOLIVE\nONDO",
+      "bbox": {
+        "x": 0.3463,
+        "y": 0.5807,
+        "width": 0.31,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nShion\nCHANDELIER",
+      "bbox": {
+        "x": 0.6575,
+        "y": 0.5807,
+        "width": 0.3113,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nCalliope\nLET'S END\nTHE WORLD",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.6858,
+        "width": 0.3113,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nhololive IDOL PROJECT\nTONDE K!\nHOLOLIVE SUMMER",
+      "bbox": {
+        "x": 0.3463,
+        "y": 0.6858,
+        "width": 0.31,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nBotan\nI I I\nLOVE YOU",
+      "bbox": {
+        "x": 0.6575,
+        "y": 0.6858,
+        "width": 0.3113,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nKronii\nMAFIA",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.7908,
+        "width": 0.2325,
+        "height": 0.0868
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nMumei\nTHE FORGOTTEN\nSONG",
+      "bbox": {
+        "x": 0.2675,
+        "y": 0.7908,
+        "width": 0.2338,
+        "height": 0.0868
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nNene\nKAISEI",
+      "bbox": {
+        "x": 0.5025,
+        "y": 0.7908,
+        "width": 0.2325,
+        "height": 0.0868
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nOkayu\nHATSU-\nKOISOU",
+      "bbox": {
+        "x": 0.7362,
+        "y": 0.7908,
+        "width": 0.2325,
+        "height": 0.0868
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nMiyabi & Temma\nSUIRENKA",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.8785,
+        "width": 0.3113,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nhololive Indonesia\nBEBAS",
+      "bbox": {
+        "x": 0.3463,
+        "y": 0.8785,
+        "width": 0.31,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nAZKi & HACHI\nCHANTO\nARU YO",
+      "bbox": {
+        "x": 0.6575,
+        "y": 0.8785,
+        "width": 0.3113,
+        "height": 0.1042
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4t5qgwrupok91.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

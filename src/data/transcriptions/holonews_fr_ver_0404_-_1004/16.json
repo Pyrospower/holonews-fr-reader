@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 16,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "EN 1",
+      "bbox": {
+        "x": 0.457,
+        "y": 0.014,
+        "width": 0.09,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.1784,
+        "width": 0.0844,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kikerikick ! Kiara a obtenu de nouvelles jambes dans son stream sur Yakuza 0 Finale grâce à JayTea. La jambe était basée sur le célèbre Kikerikick qu'elle a fait lors de son passage au Holofes.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.2166,
+        "width": 0.3894,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kiara a ensuite ajouté une autre jambe à son Kikerikick, ce qui lui a permis de prendre une pose... provocante, avec les jambes écartées. Avec ces jambes, elle a également montré une pose très accablante. Le haut du corps et la tête de Kiara étaient tournés vers le public, tandis que ses jambes et ses fesses étaient tournées dans la direction opposée.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.3051,
+        "width": 0.3787,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.178,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après la célébration de son anniversaire, Calli a organisé une after-party relativement calme. Elle a d'abord expliqué les paroles de CapSule, sa nouvelle chanson avec Suisei.",
+      "bbox": {
+        "x": 0.5344,
+        "y": 0.2161,
+        "width": 0.3881,
+        "height": 0.0551
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli a également parlé de son accord avec Universal Music Japan, et plus particulièrement EMI Records. Elle en avait envie depuis longtemps et elle aime beaucoup la façon dont les choses se présentent jusqu'à présent. Le plus grand avantage que Calli a tiré de cet accord est la possibilité de collaborer avec davantage de personnes, même si elle ne peut encore rien garantir. Calli dit qu'elle adopte désormais une approche plus directe de sa musique et un style plus cohérent. Elle décrit son nouvel EP, Shinigami Note, comme « légèrement pop-rap, mais pas trop non plus ». Calli a également expliqué que, bien qu'elle fasse partie du label, elle détient 100% des droits !",
+      "bbox": {
+        "x": 0.5344,
+        "y": 0.2856,
+        "width": 0.3906,
+        "height": 0.2218
+      }
+    },
+    {
+      "type": "heading",
+      "text": "EN 2",
+      "bbox": {
+        "x": 0.458,
+        "y": 0.537,
+        "width": 0.09,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.701,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sana est revenue sur Kirby et le Monde Oublié pour libérer d'autres amis, récupérer son compagnon et améliorer son arsenal. Elle s'est beaucoup amusée à parcourir les niveaux, à changer de pouvoir car le pouvoir de feu était « trop puissant », et a vaincu à nouveau le roi Dedede. Sana a passé un moment difficile lorsqu'elle a rencontré un ennemi visqueux qui l'a dégoûtée et qu'elle a dû aller chercher de l'eau. Après s'être occupée du slime, elle a affronté le dernier boss, l'a vaincu et a terminé le stream pendant que Kirby s'assoupissait.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.7405,
+        "width": 0.3919,
+        "height": 0.2057
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fauna & Reine",
+      "bbox": {
+        "x": 0.664,
+        "y": 0.699,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fauna et Reine ont à nouveau fait travailler leurs neurones lors de leur deuxième session sur Escapte Simulator. Elles ont traversé deux escape room, dont l'une se trouvait dans l'espace et l'autre dans un vieux manoir. Reine a essayé à plusieurs reprises de résoudre les énigmes par la force brute, tandis que Fauna a cherché autour d'elle des indices et des objets pour leur faciliter la tâche. Elles avaient encore deux séries de pièces à traverser, laissant ainsi un dernier stream pour que Reine nous prouve son intelligence.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.7405,
+        "width": 0.39,
+        "height": 0.191
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/te1hcs59qau81.png",
+    "gifFrame": null,
+    "confidence": 95
+  }
+}

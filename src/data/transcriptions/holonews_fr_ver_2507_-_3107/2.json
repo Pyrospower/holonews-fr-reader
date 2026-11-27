@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MINASE RIO BIRTHDAY CELEBRATION",
+      "bbox": {
+        "x": 0.2794,
+        "y": 0.0617,
+        "width": 0.4372,
+        "height": 0.0177
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant son stream anniversaire, Uyu a aussi célébré l'ouverture des souscriptions sur sa chaîne. Il a commencé en chantant « Mixed Nuts » de Official Hige Dandism dans un décor composé de néons et de ballons.",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.3021,
+        "width": 0.8111,
+        "height": 0.0475
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a ensuite annoncé officiellement l'ouverture des souscriptions à sa chaîne et a montré les avantages des membres :",
+      "bbox": {
+        "x": 0.095,
+        "y": 0.3746,
+        "width": 0.7656,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Les membres de niveau 1 auront des streams exclusifs et à des messages manuscrits lorsqu'il sort une reprise",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.4255,
+        "width": 0.3533,
+        "height": 0.0475
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Les membres de niveau 2 auront des karaokés en jouant de la guitare, des illustrations saisonnières, des vidéos de cuisine et de chat et les avantages du niveau 1",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.4252,
+        "width": 0.3533,
+        "height": 0.0887
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rio a ensuite remercié les artistes de sa première illustration exclusive aux membres (@ritzx0110) et de son illustration spécial anniversaire (Schelm, @angeXalia), qu'il a montrée sur le stream.",
+      "bbox": {
+        "x": 0.0961,
+        "y": 0.5251,
+        "width": 0.81,
+        "height": 0.0478
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rio a continué avec un karaoké, en interprétant « Inferno » de Mme Green Apple, « Kokoro Odoru » de nobodyknows+ et « W/X/Y » de Tani Yuuki. Pendant « Kokoro Odoru », il a commencé à chanter a cappella sans le savoir, mais a ensuite mis l'instrumental lorsqu'il a remarqué que le chat en parlait. Dans l'instrumental, on pouvait entendre les voix de ses amis Rikka, Arurandeisu, Ollie, Fuma, Uyu, Gamma, Minase de Neo-Porte, et le Vtuber indépendant et calligraphiste PIROPARU.",
+      "bbox": {
+        "x": 0.0956,
+        "y": 0.7581,
+        "width": 0.8228,
+        "height": 0.0972
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour finir, Rio a annoncé une reprise de « CH4NGE » de Giga, qui a été diffusée juste après le stream.",
+      "bbox": {
+        "x": 0.0956,
+        "y": 0.8804,
+        "width": 0.6006,
+        "height": 0.0313
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/grl0ilg4fig91.gif",
+    "gifFrame": 84,
+    "confidence": 92
+  }
+}

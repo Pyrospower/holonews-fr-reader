@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STATS ET SORTIES",
+      "bbox": {
+        "x": 0.1456,
+        "y": 0.0595,
+        "width": 0.5588,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nORIGINAL\nNOUVEAU",
+      "bbox": {
+        "x": 0.8431,
+        "y": 0.0513,
+        "width": 0.1031,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/03\n[Marine] Death By Glamour: 2M",
+      "bbox": {
+        "x": 0.0508,
+        "y": 0.1261,
+        "width": 0.44,
+        "height": 0.0203
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/04\n[Moona] Again: 250K\n[Lamy/Botan] Lion: 500K\n[AZKi] Where Fate Takes Us: 75K\n[Aqua] Indoor Kei Nara Trackmaker: 7M\n[Polka] Kaikaikitan: 500K",
+      "bbox": {
+        "x": 0.5108,
+        "y": 0.1261,
+        "width": 0.4369,
+        "height": 0.0887
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/05\n[Suisei] Phony: 5M\n[Risu/Fonzi] Gurenge: 75K\n[Fubuki] S'il Vous President: 1M\n[Temma] 1.15man Kilo No Film: 50K\n[Suisei/Izuru/Astel] Cinema: 750K\n[AZKi] Nekonarabaikeru: 100K\n[Gura] Target For Love: 1M\n[Botan] Animal: 500K",
+      "bbox": {
+        "x": 0.0508,
+        "y": 0.1624,
+        "width": 0.44,
+        "height": 0.1389
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/06\n[AZKi] Midnight Song: 75K\n[Calliope/Inoue] Yona Yona Journey: 250K",
+      "bbox": {
+        "x": 0.5108,
+        "y": 0.2308,
+        "width": 0.4369,
+        "height": 0.0363
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/07\n[La+] God-ish: 5M\n[Lui] Rabuka: 500K\n[Toko/Suisei] Easter Carnival: 500K\n[Watame/Botan] Shishiwata Cooking: 250K\n[Watame] My Song: 250K",
+      "bbox": {
+        "x": 0.0508,
+        "y": 0.3194,
+        "width": 0.44,
+        "height": 0.0876
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/08\n[Reine] Usseewa: 750K\n[Kiara/Ina] I~ya I~ya I~ya: 1M\n[Kiara] Hinotori (Lone Alpha Remix): 100K",
+      "bbox": {
+        "x": 0.5108,
+        "y": 0.2831,
+        "width": 0.4369,
+        "height": 0.0524
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/09\n[Towa] FACT: 500K\n[Astel/Oga] Airhead: 50K\n[HoloEN 1/2/Hope] Ochame Kinou: 2M\n[EN1] Journey Like A Thousand Years: 250K\n[Ollie/Astel] Okochama Sensou: 500K\n[Suisei/Taku Inoue] 3:12: 2M\n[Fubuki] Animal: 750K",
+      "bbox": {
+        "x": 0.0508,
+        "y": 0.4241,
+        "width": 0.44,
+        "height": 0.1229
+      }
+    },
+    {
+      "type": "other",
+      "text": "5 MILLIONS DE VUES !",
+      "bbox": {
+        "x": 0.5585,
+        "y": 0.5321,
+        "width": 0.3385,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nTowa\nFACT",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.5801,
+        "width": 0.3,
+        "height": 0.1154
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nHololive English -Myth-\nJOURNEY LIKE A THOUSAND YEARS",
+      "bbox": {
+        "x": 0.3462,
+        "y": 0.5801,
+        "width": 0.3062,
+        "height": 0.1154
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nWatame\nMY SONG",
+      "bbox": {
+        "x": 0.6523,
+        "y": 0.5801,
+        "width": 0.3062,
+        "height": 0.1154
+      }
+    },
+    {
+      "type": "heading",
+      "text": "CONCERTS À VENIR",
+      "bbox": {
+        "x": 0.2331,
+        "y": 0.7227,
+        "width": 0.5375,
+        "height": 0.0343
+      }
+    },
+    {
+      "type": "other",
+      "text": "Role:Play\nTOKINO SORA THEATRICAL COVER LIVE\n2022.1.22",
+      "bbox": {
+        "x": 0.2692,
+        "y": 0.8932,
+        "width": 0.2277,
+        "height": 0.0641
+      }
+    },
+    {
+      "type": "other",
+      "text": "MINATO AQUA ONEMAN LIVE 2022\nAQUA IRO IN WONDERLAND\n2022.1.28 FRI. 豊洲PIT",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.8333,
+        "width": 0.1308,
+        "height": 0.0214
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/mc0gyv5kevc81.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

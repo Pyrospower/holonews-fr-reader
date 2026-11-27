@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Murasaki Shion 4th Anniversary Live",
+      "bbox": {
+        "x": 0.2828,
+        "y": 0.3427,
+        "width": 0.4344,
+        "height": 0.0163
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion a célébré son 4e anniversaire le 17 Août ! Après une intro figurant quelques extraits du concert de son 3e anniversaire en 2021, ainsi qu’une animation en pixel art, le spectacle a commencé avec sa chanson originale « Mage of Violet ».",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.414,
+        "width": 0.4206,
+        "height": 0.1219
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a aussi joué avec une peluche Shiokko avant de s’en débarrasser pour chanter « Magic Girl and Chocolate » avec Aqua puis « Say it.» seule. Shion et La+ ont réussi à merveille leur interprétation de « God-ish », puis Shion a fait fondre nos cœurs en chantant « Renai circulation» en compagnie du Gura!",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.8144,
+        "width": 0.4206,
+        "height": 0.14
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après « Go! Go! Maniac! », Shion a révélé ses produits dérivés d’anniversaire:",
+      "bbox": {
+        "x": 0.5328,
+        "y": 0.4147,
+        "width": 0.4206,
+        "height": 0.0293
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un sac fourre-tout retournable, avec des illustrations faites par Hoshi sur ses côtés",
+      "bbox": {
+        "x": 0.5483,
+        "y": 0.4441,
+        "width": 0.4056,
+        "height": 0.0409
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 1 porte clé en acrylique choisi aléatoirement parmis 4 designs différents, illustrés par BLADE",
+      "bbox": {
+        "x": 0.5483,
+        "y": 0.488,
+        "width": 0.405,
+        "height": 0.0444
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un blouson Shiokko",
+      "bbox": {
+        "x": 0.5483,
+        "y": 0.5328,
+        "width": 0.2256,
+        "height": 0.0112
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le bonus pour ceux achetant toute la collection comprend une carte postale avec un dessin d’Hoshi et une copie estampillée d’un autographe et d’un message.",
+      "bbox": {
+        "x": 0.5333,
+        "y": 0.5621,
+        "width": 0.42,
+        "height": 0.0737
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le bonus pour la version limitée, qui est déjà hors-stock, est un autographe manuscrit ainsi qu’un message écrit à la main.",
+      "bbox": {
+        "x": 0.5333,
+        "y": 0.6505,
+        "width": 0.4206,
+        "height": 0.0556
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion a conclu le stream avec une performance de « Chandelier », sa seconde chanson originale, réalisée par Kanaria. Le clip, réalisé par Kanaria, avec une illustration de LAM, a été publié après le stream.",
+      "bbox": {
+        "x": 0.5339,
+        "y": 0.8638,
+        "width": 0.42,
+        "height": 0.0914
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8nol54supok91.gif",
+    "gifFrame": 89,
+    "confidence": 93
+  }
+}

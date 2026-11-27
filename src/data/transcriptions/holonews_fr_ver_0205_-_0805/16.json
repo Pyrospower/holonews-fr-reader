@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 16,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2394,
+        "y": 0.0182,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/02\n[AZKi] Ito: 75K\n[Sora] Love Trial: 750K\n[Aqua] Ubiquitous DB: 3M\n[Mel] Discommunication Alien: 750K\n[Subaru] Koi No Mahou: 4M\n[La+] LiFE: 250K",
+      "bbox": {
+        "x": 0.0491,
+        "y": 0.0783,
+        "width": 0.4382,
+        "height": 0.1061
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/03\n[Suisei] e-ma: 1M\n[Towa] Gira Gira: 750K\n[Astel/Rikka] Gunjo Sanka: 25K\n[Rio] Kimi no Myaku de Odoritakatta: 75K\n[Kiara/Gura] Ai Kotoba III: 3M",
+      "bbox": {
+        "x": 0.5109,
+        "y": 0.0783,
+        "width": 0.4418,
+        "height": 0.0896
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/04\n[Ina] Violet: 3M\n[Nene/Kiara] Orange: 250K\n[Reine/Suisei/Calliope] Beat Eater: 1M\n[Korone] Doggy God's Street: 2M\n[Miko] Darling Dance: 1M",
+      "bbox": {
+        "x": 0.0491,
+        "y": 0.1995,
+        "width": 0.4382,
+        "height": 0.0896
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/05\n[Lui] Prologue: 250K\n[Kronii] Daydream: 1M\n[Botan] Lioness' Pride: 1M\n[Mel/Kanata/Calliope] Luvoratorrrrry!: 250K\n[Lui] Fukurou-san: 750K\n[Izuru] Nostalgia: 10K",
+      "bbox": {
+        "x": 0.5109,
+        "y": 0.1806,
+        "width": 0.4418,
+        "height": 0.1086
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/06\n[Baelz] Play Dice: 2M\n[Kanata] Phony: 500K\n[Polka] Chimera (Reprise): 100K\n[Sora/AZKi/Matsuri/Etc] Peace: 100K\n[Astel/Nana] Yukoku, Yume To Mimagau (Reprise): 25K\n[Roboco] The Boy and Magic Robot: 75K\n[Towa/Miko/AkiRose/Polka/Iroha] Sakura No Ame: 750K\n[Area15] HI-15 (JP): 50K\n[Watame] Phony: 1M",
+      "bbox": {
+        "x": 0.0491,
+        "y": 0.303,
+        "width": 0.4382,
+        "height": 0.197
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/07\n[AZKi] Over Light: 100K\n[Nene] Watashi Aidoru Sengen: 1M\n[AZKi/Rikka] Kakumei Dualism (Reprise): 100K\n[Sora] Taiyoukei Disco (Live): 75K",
+      "bbox": {
+        "x": 0.5109,
+        "y": 0.303,
+        "width": 0.4418,
+        "height": 0.0707
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE ORIGINAL NOUVEAU",
+      "bbox": {
+        "x": 0.5181,
+        "y": 0.4388,
+        "width": 0.4331,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nouvelles Sorties",
+      "bbox": {
+        "x": 0.315,
+        "y": 0.5256,
+        "width": 0.3688,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nAZKi & Rikka\nKAKUMEI DUALISM",
+      "bbox": {
+        "x": 0.0327,
+        "y": 0.577,
+        "width": 0.2364,
+        "height": 0.1755
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nAstel & Kagura Nana\nYUKOKU, YUME TO MIMAGAU",
+      "bbox": {
+        "x": 0.5018,
+        "y": 0.577,
+        "width": 0.3691,
+        "height": 0.1755
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nPolka\nCHIMERA",
+      "bbox": {
+        "x": 0.0327,
+        "y": 0.7626,
+        "width": 0.3418,
+        "height": 0.1692
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nORIO (Kanata & Towa)\nOVER TIME",
+      "bbox": {
+        "x": 0.5018,
+        "y": 0.7639,
+        "width": 0.3927,
+        "height": 0.1679
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/jgm6u5nspg091.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

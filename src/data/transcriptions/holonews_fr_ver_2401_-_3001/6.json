@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 6,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.185,
+        "y": 0.0812,
+        "width": 0.162,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shion",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.2526,
+        "width": 0.13,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion est revenue de sa pause avec son premier stream officiel de l’année 2022. Dans ce stream, elle a révélé que son manager avait fait quelques ajustements afin qu'elle puisse participer au 2e tournoi Pokémon d’hololive malgré le fait qu'elle était en pause au moment où il avait été annoncé, et a donc entraîné ses Pokémon pour le tournoi. Elle a également fait du shopping avec Nene. Selon elle, ces deux choses ont été ses plus grandes réussites pendant sa pause.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2938,
+        "width": 0.4181,
+        "height": 0.1918
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion poursuit son addiction aux Pokémon avec Légendes Pokémon : Arceus, qu'elle a streamé pendant près de 16 heures les deux jours suivant sa sortie. Elle a choisi Héricendre comme starter.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.5421,
+        "width": 0.4225,
+        "height": 0.0768
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.2526,
+        "width": 0.136,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a fait une série d’interviews avec Lui, Laplus et Koyori en l'espace de quelques jours. Les streams suivent un schéma assez simple : au début, Choco et l'invité discutaient, puis examinaient l'illustration du corps de l'invité, et pour finir, l'invité jouait un dialogue donné par la roue de la fortune.",
+      "bbox": {
+        "x": 0.515,
+        "y": 0.2934,
+        "width": 0.4238,
+        "height": 0.1246
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.1625,
+        "y": 0.7652,
+        "width": 0.1656,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a reçu une demande en mariage de Kiara. Kiara a soudainement fait cette demande car elle a découvert que sa mère aimait Subaru. En réponse, Subaru a dit qu'elle enverrait un autographe à la mère de Kiara, mais qu'elle préférait rester amie avec elle. Kiara, rejetée une fois de plus.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.8064,
+        "width": 0.4238,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.6618,
+        "width": 0.167,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La figurine nendoroid de Subaru est désormais disponible en pré-commande. La figurine Subaru est livrée avec trois expressions faciales : un visage heureux, un visage énergique et un visage timide et rougissant. Les pièces optionnelles comprennent le fameux Shuba-Duck, une fourchette tenant la saucisse éclair de son jeu préféré Sausage Legend, et deux plaques de texte comprenant le tout premier tweet de Subaru et le tweet « Subaru est aussi une fille ». La livraison est prévue pour septembre de cette année, alors précommandez dès maintenant sur GoodSmile, AmiAmi, Tokyo Otaku Mode et Amazon JP !",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.7031,
+        "width": 0.4238,
+        "height": 0.23
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/zy0gofhuufg81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

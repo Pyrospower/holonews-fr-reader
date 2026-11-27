@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0226,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/13\n[Mel] Vampire: 1M\n[Kanata] Ghost Rule: 7M\n[Mel/Kanata/Calliope] Luvoratorrrrry: 750K",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.0673,
+        "width": 0.4406,
+        "height": 0.0564
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/14\n[Lui/Okayu] Identity: 2M\n[Astel/Izuru] Oni Kyokan: 250K\n[Watame] Kimi Dake No Melody: 750K\n[Rikka] Mizugiwa Endroll (Live): 25K\n[Okayu/Lamy] Betelguese: 750K\n[Akirose] Here (Live): 25K",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.0694,
+        "width": 0.4375,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/15\n[Rikka] Lilac: 75K\n[OKFAMS] Monster: 3M\n[Chloe] Fukurou-san: 500K\n[IRyS] See The World: 500K\n[IRyS] Till the end of me: 500K\n[Chloe] Chimera (Cover): 250K\n[Kiara] Viva Happy (Live cover): 25K\n[Kanata] Tondemo Wonders (Live): 750K\n[AZKi/Polka] SPACE! WAVE! AKIBA-POP!! (Cover): 25K\n[Kobo] Mantra Hujan: 3M\n[Marine] Shuukou: 3M",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.1345,
+        "width": 0.4406,
+        "height": 0.2105
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/16\n[IRyS] Palette: 750K\n[Lui] Yoru Naderu Menou: 250K\n[Sora] Sekai Wa Mada Hajimatte Sura Inai: 75K\n[Akirose/Korone] There's Supposed to Be a Cheat Code for Happiness (Live): 75K\n[AZKi] Intersection: 250K",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.1888,
+        "width": 0.4375,
+        "height": 0.1063
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/17\n[Aqua] Gyutto: 500K\n[Koyori] WAO!!: 100K\n[Polka] Chimera: 500K\n[Gura/Shion] Renai Circulation (Cover): 1M\n[Rikka] Vampire: 250K\n[Sana] Astrogirl: 250K\n[Suisei] Tricologe: 1M",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.3572,
+        "width": 0.4406,
+        "height": 0.1259
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/18\n[Fuma] Infection: 10K\n[AZKi] Aoi Yume: 100K\n[Shion] Yoidore Shirazu: 750K\n[Iroha/La+] Identity (Cover): 750K\n[Shion/Gura] Platinum Disco (Cover): 500K\n[Aruran/Astel] Houki Gumo: 100K\n[Polka] Empress (Cover): 75K\n[Suisei] Yuurei Tokyo: 3M\n[Suisei] Shoujo Rei: 6M",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.3082,
+        "width": 0.4375,
+        "height": 0.1576
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/19\n[Kanata] Drain (Cover): 75K\n[Kanata] Tenshi No Agape: 750K\n[Okayu] Rinkai Diver (Cover): 25K\n[Watame] Kimi Iro Hanamizuki: 250K\n[Aqua/Mea] Naisho No Hanashi (Cover): 10K",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.4939,
+        "width": 0.4406,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE ORIGINALE NOUVEAU",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.52,
+        "width": 0.4188,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "heading",
+      "text": "New Releases",
+      "bbox": {
+        "x": 0.3581,
+        "y": 0.6124,
+        "width": 0.2825,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE · Chloe · CHIMERA\nREPRISE · Iroha & La+ · IDENTITY\nREPRISE · Aqua & Kagura Mea · NAISHO NO HANASHI\nREPRISE · Polka · EMPRESS\nCHANSON ORIGINAL · Fuma · INFECTION\nREPRISE · Okayu · RINKAI DIVER\nREPRISE · Rikka · CHAMELEON\nCHANSON ORIGINAL · Koyori · WAO!!\nREPRISE · Kanata · DRAIN\nREPRISE · Gura & Shion · RENAI CIRCULATION\nREPRISE · Shion & Gura · PLATINUM DISCO\nREPRISE · AZKi & Polka · SPACE! WAVE! AKIBA-POP!!",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.6641,
+        "width": 0.95,
+        "height": 0.276
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/x7r5pk1007891.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

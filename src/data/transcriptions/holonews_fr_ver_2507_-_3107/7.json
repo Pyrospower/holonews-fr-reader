@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 2",
+      "bbox": {
+        "x": 0.445,
+        "y": 0.0174,
+        "width": 0.11,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.1694,
+        "y": 0.1905,
+        "width": 0.084,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La chanson « aqua iro palette » d’Aqua est présente dans la publicité actuelle des versions recommandés spécifique à YouTube Music pour la campagne #YouTubePremium Éte 2022.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2296,
+        "width": 0.3869,
+        "height": 0.0512
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Profitez de cette opportunité pour y jeter un œil !",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.2947,
+        "width": 0.3806,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.1918,
+        "width": 0.0831,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le compte officiel d'hololive sur Twitter a annoncé qu’Aqua a été testé positif au Covid-19 mais qu’elle n’a pas été en contact avec les autres membres. On espère que notre oignon va bientôt se sentir mieux.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2296,
+        "width": 0.3875,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamers",
+      "bbox": {
+        "x": 0.4244,
+        "y": 0.3424,
+        "width": 0.1519,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Korone",
+      "bbox": {
+        "x": 0.1694,
+        "y": 0.508,
+        "width": 0.12,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Korone a réalisé un stream discussion pour fêter les 1.85 millions d’abonnés sur YouTube. Le stream de deux heures avait des sujets allant de futur streams, la collab actuelle avec Yo-kai Watch, et bien plus de sujets divers. Elle a brièvement discuté de la graduation de Sana et qu’elle aurait aimé pouvoir faire une collaboration avec, mais a dit qu’elles étaient toujours amies. Elle a mis fin au stream en remerçiant ses spectateurs pour tous leurs encouragements. Félicitation, Korone !",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.5464,
+        "width": 0.3844,
+        "height": 0.1476
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.871,
+        "width": 0.103,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des annonces pour le live solo d’Okayu, Poisonya Syndrome, sont affichées dans onze stations autour de la ligne de JR Chuo entre Tokyo et Hachioji.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.911,
+        "width": 0.3863,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu & Mio",
+      "bbox": {
+        "x": 0.5656,
+        "y": 0.4926,
+        "width": 0.2763,
+        "height": 0.0408
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mio et Okayu ont joué au jeu de chatventure, Stray. Dans le jeu, elles sont tombées sur des robots en train de jouer au Mahjong, avec le jeu qui donne l’option au joueur de sauter sur la table pour perturber la partie ou non. Mio a décidé de les laisser jouer tranquillement tandis qu’Okayu a choisi d’agir comme un chat et n’a pas hésité à sauter sur la table pour interrompre la partie tout en rigolant.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.5464,
+        "width": 0.39,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.637,
+        "y": 0.829,
+        "width": 0.111,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre bonne amie est partie à la chasse au fantômes toute seule sur Phasmophobia. Elle a réussi quatre chasses au total et a fini les trois premières sans aucun souci. Pour la dernière, elle a été chassée par le fantôme grâce à un objet et est parvenue à survivre en tournant autour du fantôme pour ensuite se cacher. Trop forte !",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.8689,
+        "width": 0.3813,
+        "height": 0.1072
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/dqxpzng4fig91.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.185,
+        "y": 0.06,
+        "width": 0.163,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.232,
+        "width": 0.134,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un spectateur a suggéré à Choco de faire cuire son ragoût dans son cuiseur à riz, mais Choco a rejeté cette proposition en argumentant qu'elle ne voulait pas qu'il s’imprègne de l’odeur. Un autre spectateur lui a proposé d'en acheter un nouveau, mais elle a également rejeté cette idée car son cuiseur à riz lui avait été offert par l'un de ses spectateurs et elle ne voulait pas s'en débarrasser.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2726,
+        "width": 0.4206,
+        "height": 0.1567
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru & Ui Mama",
+      "bbox": {
+        "x": 0.1863,
+        "y": 0.678,
+        "width": 0.2806,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Remplissant son rôle de gentille fille, Subaru est apparue en tant qu’invitée pour soutenir Ui-mama lors des débuts en 3D ! Elle s'est extasiée devant le modèle de sa mère et a remarqué les similitudes entre elles. Ui a admis que c'est parce que Subaru est sa fille !",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7109,
+        "width": 0.4206,
+        "height": 0.1081
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.232,
+        "width": 0.114,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aqua est revenue sur Minecraft pour la première fois depuis le tournoi Mario Kart. Dans ce stream, elle a découvert que Nene était devenue PDG d'Akukin pendant son absence. C'était la deuxième fois qu'on lui subtilisait son poste de PDG. Cette fois, Aqua s'est rendue à l’agence pour l'emploi du serveur JP, HoloWork, afin de trouver un nouveau travail.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.273,
+        "width": 0.4269,
+        "height": 0.1402
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aqua est sur la couverture de l'édition spéciale de VTuber style vol 3. L'édition est accompagnée d'une figurine en acrylique et les commandes sont ouvertes jusqu'au 31 janvier.",
+      "bbox": {
+        "x": 0.5194,
+        "y": 0.444,
+        "width": 0.4275,
+        "height": 0.0816
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.656,
+        "width": 0.167,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a raconté un épisode de son enfance, quand elle adorait manger du pain melon au point de remplir sa boîte à bento de pain melon tous les jours, ce qui lui a valu le surnom de « Melon Pansuki » (litt. « celle qui aime les pains melon »). Elle a également raconté avoir échangé une poignée de main avec Hawkeye lors d'une Comic Con au Japon, en disant que ses mains avaient la texture d’un pain melon.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.6966,
+        "width": 0.4213,
+        "height": 0.1558
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/f4nqihh6i8e81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

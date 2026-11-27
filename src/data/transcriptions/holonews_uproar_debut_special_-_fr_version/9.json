@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Minase Rio",
+      "bbox": {
+        "x": 0.5437,
+        "y": 0.0035,
+        "width": 0.3937,
+        "height": 0.145
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dernier à faire ses débuts était Minase Rio ! S'étant déjà distingué des autres, il a commencé par une vidéo contant son histoire, suivie d'une performance live de « Betelgeuse ». Il avait même des visuels avec les paroles de la chanson à l'écran !",
+      "bbox": {
+        "x": 0.3813,
+        "y": 0.1463,
+        "width": 0.5931,
+        "height": 0.2179
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rio a continué avec ses débuts en se présentant, ce qu'il aime et n'aime pas, ses compétences et les personnes qui ont rendu ses débuts possibles !",
+      "bbox": {
+        "x": 0.5538,
+        "y": 0.3863,
+        "width": 0.4181,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rio a ensuite parlé de ses genres de musique préférée et de ses types de jeux préférés. Il a également parlé de ses compagnons de début et de toutes leurs qualités, de ses objectifs, de ses hashtags et de son programme pour la semaine.",
+      "bbox": {
+        "x": 0.0344,
+        "y": 0.6059,
+        "width": 0.7969,
+        "height": 0.2062
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant de conclure ses débuts, Rio a mentionné qu'il allait sortir une reprise de « I wanted to Dance in Your Pulse » et a interprété « Zankyou Sanka » d'Aimer.",
+      "bbox": {
+        "x": 0.0356,
+        "y": 0.8043,
+        "width": 0.7887,
+        "height": 0.1328
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/31fq3e46wis81.png",
+    "gifFrame": null,
+    "confidence": 79
+  }
+}

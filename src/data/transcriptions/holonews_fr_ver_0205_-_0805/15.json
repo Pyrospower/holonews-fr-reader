@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projets de fans",
+      "bbox": {
+        "x": 0.3538,
+        "y": 0.0182,
+        "width": 0.29,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Podcast holoSIMP",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.2336,
+        "width": 0.2873,
+        "height": 0.0253
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vous ne vous êtes jamais demandé pourquoi les Chumbuds avaient une obsession bizarre pour les pieds ? Ou si le Tentacult était réellement un culte ? Alors écoutez le premier épisode du podcast holoSIMP centré autour des talents d'holoEN sur la chaîne YouTube HEFS dont le lien est dans la liste des sources.",
+      "bbox": {
+        "x": 0.0636,
+        "y": 0.2727,
+        "width": 0.4,
+        "height": 0.1212
+      }
+    },
+    {
+      "type": "other",
+      "text": "\"The Hololive Simp Meeting\"\nDead Beats · KFP · Tentacult · Chumbuds · Teamates · HEFS",
+      "bbox": {
+        "x": 0.5527,
+        "y": 0.2348,
+        "width": 0.4073,
+        "height": 0.0972
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4036,
+        "y": 0.4217,
+        "width": 0.1927,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.7491,
+        "y": 0.4293,
+        "width": 0.2018,
+        "height": 0.0189
+      }
+    },
+    {
+      "type": "other",
+      "text": "PORTAL\nPLANTS VS. ZOMBIES\nTUNIC\nPotion Craft\nLEGO STAR WARS THE SKYWALKER SAGA\nEARTH DEFENSE FORCE 5\nunpacking",
+      "bbox": {
+        "x": 0.1909,
+        "y": 0.4672,
+        "width": 0.2636,
+        "height": 0.5126
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ SONIC ADVENTURE 2\nSPYRO REIGNITED TRILOGY\nGORN\nRESIDENT EVIL 2\nWWE 2K22\neBASEBALL 2022\nPORTAL 2",
+      "bbox": {
+        "x": 0.6055,
+        "y": 0.4672,
+        "width": 0.3109,
+        "height": 0.5126
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/v1b9q7nspg091.png",
+    "gifFrame": null,
+    "confidence": 80
+  }
+}

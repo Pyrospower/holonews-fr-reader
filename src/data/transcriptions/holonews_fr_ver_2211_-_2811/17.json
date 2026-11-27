@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MISC",
+      "bbox": {
+        "x": 0.1881,
+        "y": 0.0487,
+        "width": 0.1552,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer la première apparition d'holoEN à l'Anime NYC, Tokyo Otaku Mode a sorti une nouvelle série de produits dérivés officiels. Ceux-ci comportent un t-shirt, un calendrier, une tapisserie holoMyth, des pins, des tatouages temporaires et des supports pour téléphones.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2335,
+        "width": 0.4225,
+        "height": 0.0881
+      }
+    },
+    {
+      "type": "other",
+      "text": "hololive music studio\n- Twilight -",
+      "bbox": {
+        "x": 0.603,
+        "y": 0.1409,
+        "width": 0.2701,
+        "height": 0.0352
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine a été remplie de nouveautés musicales, dont les membres de la Gen 6 Lui et Koyori, Suisei, Babudon, AZKi, Risu, Sora, Flare, Towa, Fubuki, et Sora. La plupart de ces musiques ont aussi un remix « Twilight » sur la chaîne officielle de hololive ! Vous pouvez tous les retrouver à la page suivante.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.2192,
+        "width": 0.42,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Motoaki « Yagoo » Tanigo a fait une grandiose apparition dans le magazine Forbes Japan. L'article, nommé « 50 millions de fans autour du monde. Les raisons pour lesquelles les VTubers “hololive” se développent si vite. », raconte comment il a été sélectionné pour faire partie du top 20 des entrepreneurs du Japon 2022, ses difficultés et son parcours dans l’industrie du divertissement en tant que PDG de Cover, ainsi que ses projets pour l’avenir. Le classement lui-même sera disponible dans la publication du Forbes Japan en janvier.",
+      "bbox": {
+        "x": 0.5144,
+        "y": 0.3481,
+        "width": 0.4244,
+        "height": 0.171
+      }
+    },
+    {
+      "type": "heading",
+      "text": "LET'S PLAY",
+      "bbox": {
+        "x": 0.2263,
+        "y": 0.559,
+        "width": 0.3394,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "other",
+      "text": "LET'S PLAY\nTERMINÉS",
+      "bbox": {
+        "x": 0.8394,
+        "y": 0.5586,
+        "width": 0.0944,
+        "height": 0.0308
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ VILLAGE RESIDENT EVIL | Evil God Korone | ★ EARTHBOUND\nパワプロクンポケットR | MARVEL GUARDIANS OF THE GALAXY | ori AND THE BLIND FOREST DEFINITIVE EDITION\n★ biohazard zero HD REMASTER | DIABLO II RESURRECTED | Voice of Cards ドラゴンの島\nMini Motorways | RUINED KING A LEAGUE OF LEGENDS STORY | Bus Simulator 18\nPokémon BRILLIANT DIAMOND SHINING PEARL",
+      "bbox": {
+        "x": 0.0388,
+        "y": 0.6135,
+        "width": 0.9194,
+        "height": 0.3461
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/u31d7cemjr381.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

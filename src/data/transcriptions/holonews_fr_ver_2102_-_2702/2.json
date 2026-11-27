@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Nekomata Okayu",
+      "bbox": {
+        "x": 0.6711,
+        "y": 0.0231,
+        "width": 0.3039,
+        "height": 0.0255
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La semaine dernière, Okayu a fêté son anniversaire avec un concert en 3D ! Le stream s’est ouvert sur « p.h. » de SEVENTHLINKS, une chanson qu’elle avait toujours voulu interpréter en live. Après avoir chanté, elle a pris une courte pause en s’allongeant avec ses spectateurs, la position de la caméra donnant l’illusion d’être allongé à ses côtés. Suite à cela, Okayu a interprété de nombreuses chansons avec ses invitées, Towa, Marine, Kanata, ainsi que ses camarades de GAMERS, avant de finir avec un duo sur « No Title » de Reol en compagnie de Korone. Nombre de moments adorables ont évidemment eu lieu durant ce stream entre Okayu et ses invitées, et tout particulièrement Korone.",
+      "bbox": {
+        "x": 0.6689,
+        "y": 0.0633,
+        "width": 0.3117,
+        "height": 0.468
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après son duo avec Korone, Okayu a levé le voile sur sa nouvelle chanson originale : « Detabare Neko ». Ses produits dérivés d’anniversaire ont suivi peu de temps après, et comprennent :",
+      "bbox": {
+        "x": 0.6689,
+        "y": 0.5448,
+        "width": 0.3056,
+        "height": 0.1381
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- Une tapisserie au format B2 illustrée par Chiroru Kamioka\n- Un bol à riz\n- Un haramaki\n- Un pack de voix",
+      "bbox": {
+        "x": 0.6694,
+        "y": 0.6983,
+        "width": 0.2778,
+        "height": 0.14
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En bonus, l’achat de l’ensemble complet de produits dérivés donne droit à une carte postale signée ainsi qu’à des enregistrements audio ASMR bonus.",
+      "bbox": {
+        "x": 0.6689,
+        "y": 0.8515,
+        "width": 0.2983,
+        "height": 0.1173
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/zp8yf9c5e0m81.gif",
+    "gifFrame": 90,
+    "confidence": 90
+  }
+}

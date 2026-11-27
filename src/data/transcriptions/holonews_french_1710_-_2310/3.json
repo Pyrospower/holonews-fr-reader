@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_french_1710_-_2310",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS 2ND ACT CONCERT",
+      "bbox": {
+        "x": 0.0692,
+        "y": 0.0406,
+        "width": 0.8631,
+        "height": 0.11
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "HOLOSTARS ont organisé leur 2e concert en live, HOLOSTARS 2nd ACT [GREAT VOYAGE TO UNIVERSE] le 20 Octobre au Zepp DiverCity (Tokyo). Le live était une célébration de l’histoire d’HOLOSTARS, leurs liens et leurs parcours jusqu’à maintenant.",
+      "bbox": {
+        "x": 0.0769,
+        "y": 0.3646,
+        "width": 0.3856,
+        "height": 0.1128
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les spectateurs du concert et les viewers en ligne ont pu assisté à deux heures de concert, rempli de performances solo et en groupe. Les chansons originales « We are the HOLOSTARS!! », « Night Light Side », « Last Sparkle », « Compass » et «Find It » ont été dévoilées pour la première fois. Astel a également exclusivement chanté sa 2e chanson originale, « A.scort », pour le concert.",
+      "bbox": {
+        "x": 0.0763,
+        "y": 0.7036,
+        "width": 0.3863,
+        "height": 0.1788
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À la fin du concert, il a été annoncé que Bushiroad Music allait sortir un blu-ray de l’événement le 22 Février 2023.",
+      "bbox": {
+        "x": 0.0763,
+        "y": 0.8906,
+        "width": 0.3863,
+        "height": 0.0625
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le blu-ray est actuellement disponible à précommander dans plusieurs magasins offrant des bonus de précommande différents. HOLOSTARS et UPROAR!! ont aussi annoncé qu’ils allaient faire une collab avec la marque de vêtement KANGOL REWARD, les détails seront annoncés plus tard. Le concert sera également distribué par MIRUHACO de JOYSOUND pour une durée limitée à partir du 19 Novembre. Plus de détails seront dévoilés le 14 Novembre.",
+      "bbox": {
+        "x": 0.5313,
+        "y": 0.3646,
+        "width": 0.3875,
+        "height": 0.2083
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "7 mois après leurs débuts, il a été annoncé qu’UPROAR!! allait recevoir des modèles 3D ainsi qu’une démonstration de ces derniers. Il y a aussi eu l’annonce d’une nouvelle forme pour Arurandeisu sur sa propre chaîne le 22 Octobre et dans un article plus loin dans ce numéro. Enfin, HOLOSTARS ont annoncé qu’un nouveau projet est en cours de route !",
+      "bbox": {
+        "x": 0.5331,
+        "y": 0.7261,
+        "width": 0.3863,
+        "height": 0.1623
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les tickets seront disponibles sur SPWN jusqu’au 13 Novembre à 22h59 (JST).",
+      "bbox": {
+        "x": 0.5337,
+        "y": 0.9106,
+        "width": 0.3856,
+        "height": 0.0464
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/k0jee8j9edy91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_3005_-_0506",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0226,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/30\n[Suisei] King: 10M\n[Lui] Fukurou-san: 1M\n[Chloe] Fukurou-san: 100K\n[Izuru] Gaitou Ga Sabita Mama: 100K\n[Aqua/Subaru/Nene (Negi U)] Panight (Old): 100K\n[Chloe] Nisemono Ningen 40-gou: 500K\n[Chloe] Kagayakashi: 500K\n[AZKi] Kotonoha: 100K\n[Suisei] Ghost: 15M\n[Ina] Nainai: 1M",
+      "bbox": {
+        "x": 0.047,
+        "y": 0.069,
+        "width": 0.443,
+        "height": 0.174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/31\n[La+] Aien Jihen: 250K\n[Matsuri] Kuraberarekko: 750K\n[Rikka] Mizugiwa Endroll: 100K\n[Lamy/Okayu] Betelguese: 500K\n[Aqua/Suisei/Towa] Asu no Yozora Shoukaihan: 4M",
+      "bbox": {
+        "x": 0.512,
+        "y": 0.069,
+        "width": 0.444,
+        "height": 0.105
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/01\n[Aqua] Vampire: 4M\n[Sora] Alien Alien: 10M",
+      "bbox": {
+        "x": 0.048,
+        "y": 0.256,
+        "width": 0.442,
+        "height": 0.039
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/02\n[La+] Life: 750K\n[Anya] Schema: 250K\n[Calliope] Mera Mera: 2M\n[Chloe] Fukurou-san: 250K\n[Nene/Lamy] Hitorigoto: 750K\n[HoloJP1] Plasmagic Seasons (Live): 25K\n[Risu/Reine] Kakumei Dualism (Side B): 250K\n[IRyS] Internet Overdose (Cover): 250K\n[Aqua] Aqua Iro Palette: 7M\n[Suisei] Yuurei Tokyo: 2M\n[Kiara] Fever Night: 250K\n[Towa] Gira Gira: 1M",
+      "bbox": {
+        "x": 0.512,
+        "y": 0.188,
+        "width": 0.444,
+        "height": 0.211
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/03\n[Polka] Po: 2M\n[Botan] Souzou: 500K\n[AZKi/Else] Turing Love: 25K\n[Sora] Sekai Wa Mada Hajimatte Sura Inai: 50K\n[Watame/AZKi] Mawaru Sora Usagi: 250K\n[Lui] Yoru Naderu Menou (Cover): 100K\n[HoloJP5] Ochame Kinou: 2M\n[Suisei/Miko] Animal: 5M",
+      "bbox": {
+        "x": 0.047,
+        "y": 0.31,
+        "width": 0.443,
+        "height": 0.137
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/04\n[Marine] Colors: 1M\n[Moona/Suisei] Saikai: 3M\n[Sora] Otome Kaibou: 250K\n[Roboco] Little Bit (Live): 25K\n[Aqua/Subaru/Nene (Negi U)] Panight: 50K\n[Akirose/AZKi/Mio] Your Silver Garden (Live): 25K\n[Koyori/Kiara] Newton Dance (Cover): 100K\n[Kanata] Telecaster B-Boy: 1M\n[Akirose/Okayu] Phony: 10K\n[Akirose] Here (Live): 10K\n[Izuru] Getsuyobi: 50K",
+      "bbox": {
+        "x": 0.512,
+        "y": 0.412,
+        "width": 0.444,
+        "height": 0.191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/05\n[Okayu] Prince of Poison: 250K\n[Akirose/Korone] There's Supposed to Be a Cheat Code for Happiness (Live): 25K\n[Akirose/AZKi/Mio] Your Silver Garden (Live): 50K\n[Akirose/Mel/Watame/Polka] Moon Pride: 10K\n[Aqua/Subaru/Nene (Negi U)] Panight: 75K\n[Akirose] Shikisai No Blues (Live): 10K\n[Mumei] Dilemma: 500K",
+      "bbox": {
+        "x": 0.047,
+        "y": 0.463,
+        "width": 0.443,
+        "height": 0.14
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE ORIGINALE NOUVEAU",
+      "bbox": {
+        "x": 0.104,
+        "y": 0.62,
+        "width": 0.79,
+        "height": 0.016
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "CHANSON ORIGINAL · Fubuki · KINGWORLD\nREPRISE · Rikka · YOIDORE SHIRAZU\nCHANSON ORIGINAL · Akirose · ROSE OF THE LAMP\nREPRISE · Lui · YORU NADERU MENOU\nREPRISE · Koyori & Kiara · NEWTON DANCE\nREPRISE · IRyS · INTERNET OVERDOSE",
+      "bbox": {
+        "x": 0.032,
+        "y": 0.659,
+        "width": 0.937,
+        "height": 0.246
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/yx6dvdgvbt591.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

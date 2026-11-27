@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MISC",
+      "bbox": {
+        "x": 0.1883,
+        "y": 0.0532,
+        "width": 0.1567,
+        "height": 0.0301
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloAlt",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.2234,
+        "width": 0.1733,
+        "height": 0.0301
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Producer U a publié un article de blog à propos des projets pour hololive Alternative et Holoearth pour 2022. Il s’agit de faire le test d’un lobby de discussion pour Holoearth sur Windows pendant mi-Mars et d’animer des événements en direct sur ce lobby avant la fin de l’année. Ils ont d’ailleurs fait la mention de l’ajout d’un lecteur de manga pour Yamato Phantasia sur le site Holonometria et la sortie d’une deuxième vidéo promotionnelle vers fin Mars ou vers début Avril.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2656,
+        "width": 0.4263,
+        "height": 0.1697
+      }
+    },
+    {
+      "type": "heading",
+      "text": "MCN",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.2245,
+        "width": 0.115,
+        "height": 0.0289
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hololive ont créé un réseau multichaîne (MCN) sur YouTube et vont transférer toutes les chaînes de leur talents affiliés dessus le 7 février à 10h00 JST. À cause du fonctionnement de YouTube, les souscriptions aux chaînes et le contenu réservé aux membres seront temporairement indisponibles pendant le transfert.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2691,
+        "width": 0.4213,
+        "height": 0.1515
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel & Towa",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.628,
+        "width": 0.2863,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shibuya Hal, les organisateurs de l’événement tant attendu Vtuber Saikyou APEX Legends S4, ont envoyé des invitations à de nombreux VTubers pour être chef d’équipe. Ces chefs d’équipes pourront assembler leur propre équipe. Ils seront aussi attribués des points pour chaque participant selon leur rang et aptitude sur APEX. Pour holoPro, Astel et Towa ont posté sur Twitter les images de leur invitation, ce qui veut dire qu’ils peuvent recruter des membres et assembler leur équipe. Le tournoi principal est prévu pour le 17 Avril avec les scrims prévus entre le 11 et le 15 Avril.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.674,
+        "width": 0.4194,
+        "height": 0.24
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Flare, Kanata & Koyori",
+      "bbox": {
+        "x": 0.6256,
+        "y": 0.5868,
+        "width": 0.3238,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Flare, Kanata et Koyori ont exploré un donjon sous-marin dans ARK à la recherche de deux artefacts. Le trio ont fait ce qu’elles ont pu en cherchant des interrupteurs cachés, en évitant des pièges et en vainquant des monstres ignobles à l’intérieur pour trouver les artefacts. Après trois heures, elles ont réussi à trouver les deux artefacts et se sont mises à rentrer. Sur le chemin du retour, Flare a brusquement décidé de voler un œuf de wyverne, Koyori a voulu jeter un œil sur une caisse violette tandis que Kanatan est partie chasser un Alpha T-Rex de niveau 145 qui est apparu proche de sa maison. Peu après, elles se sont réunies chez Kanata pour prendre des photos de leurs butins.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.625,
+        "width": 0.4244,
+        "height": 0.2852
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ewrx7efs4uh81.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

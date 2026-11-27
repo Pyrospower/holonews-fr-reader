@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2208_-_2808",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "#kroniiversary",
+      "bbox": {
+        "x": 0.0783,
+        "y": 0.0698,
+        "width": 0.6,
+        "height": 0.0648
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kronii a fêté le premier anniversaire de ses débuts le 23 août (PST) en regardant son premier stream avec ses spectateurs. Pendant le temps de chargement, elle a parlé de l’angoisse liée au début et a mentionné que les membres de Council n’ont eu que peu de temps pour répéter.",
+      "bbox": {
+        "x": 0.0789,
+        "y": 0.1671,
+        "width": 0.3972,
+        "height": 0.0972
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle s’est souvenue que les gens l’ont décrite comme calme, bien qu’elle n’ait répété qu’une fois. Au lieu d’être embarrassée en regardant le stream, elle a remarqué à quel point elle était géniale mais a aussi juré qu’elle n’était pas narcissique.",
+      "bbox": {
+        "x": 0.0789,
+        "y": 0.2782,
+        "width": 0.3978,
+        "height": 0.0972
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Concernant son but d’être « heureuse et de s’amuser », Kronii dit toujours travailler dessus mais affirme être « plus heureuse et une meilleure personne » qu’avant, comparé à sa personnalité initialement plus pessimiste.",
+      "bbox": {
+        "x": 0.0789,
+        "y": 0.3889,
+        "width": 0.3978,
+        "height": 0.0837
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sur un ton moins sérieux, elle s’est souvenue avoir affiché « Je reviens » (ce qu’elle fait rarement maintenant) en plein milieu du stream parce qu’elle ne savait plus quoi dire. Elle a alors demandé au management si elle pouvait s’arrêter là, ce à quoi on lui a répondu que la durée du stream devait être proche d’une heure. Dans le présent, quelqu’un a suggéré à Kronii de changer « Je reviens » par « À l’aide ».",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.3133,
+        "width": 0.3978,
+        "height": 0.1505
+      }
+    },
+    {
+      "type": "heading",
+      "text": "#itsMEIanniversary",
+      "bbox": {
+        "x": 0.0733,
+        "y": 0.5509,
+        "width": 0.81,
+        "height": 0.0687
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 24 août (PST), au lieu de regarder son stream de début, Mumei en a fait une parodie incluant la même musique et la même présentation. Elle a commencé en faisant semblant d’être anxieuse et de bégayer, a prétendu avoir oublié comment diriger un stream, a sorti son carnet et a nié avoir recours à OBS. Elle nous a demandé de l’appeler « Nanashi » et a affirmé n’avoir pas d’âge « comme tous les membres d’EN ».",
+      "bbox": {
+        "x": 0.0783,
+        "y": 0.6694,
+        "width": 0.3989,
+        "height": 0.1504
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Tout au long du sketch, « Nanashi » n’a cessé d’exagérer les difficultés rencontrées pendant ses débuts. Les Hoomans ont aussi prétendu que son émoji (une plume) n’était pas visible. Pour le bouquet final, Nanashi a chanté sa chanson originale « A New Start », dont le clip sortira « il y a huit mois », ainsi que « SILHOUETTE ».",
+      "bbox": {
+        "x": 0.0783,
+        "y": 0.8279,
+        "width": 0.4028,
+        "height": 0.1123
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suite à cela, Mumei a dit avoir regardé son premier stream de son côté mais en doublant la vitesse, celle-ci se souvenant à quel point elle se sentait mal durant ses débuts. Cependant, elle est désormais beaucoup plus à l’aise et ne regrette rien. Mumei a également dévoilé son nouveau logo, qu’elle n’avait pas lors de son début puisqu’elle avait oublié de le demander.",
+      "bbox": {
+        "x": 0.5233,
+        "y": 0.8187,
+        "width": 0.4011,
+        "height": 0.1265
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4tpf09vzr1m91.gif",
+    "gifFrame": 81,
+    "confidence": 92
+  }
+}

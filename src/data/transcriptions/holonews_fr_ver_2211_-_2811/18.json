@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STATS ET SORTIES",
+      "bbox": {
+        "x": 0.1456,
+        "y": 0.0399,
+        "width": 0.5588,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "COVER\nORIGINAL\nNOUVEAU",
+      "bbox": {
+        "x": 0.8413,
+        "y": 0.0326,
+        "width": 0.1081,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "11/22\n[NePoLaBo] Blessing: 2M\n[Calliope] Ijimekko Bully: 3M\n[Kanata/Nene] Shijoshugi Adtruck: 250K\n[Polka] Tondemo Wonders: 100K",
+      "bbox": {
+        "x": 0.0493,
+        "y": 0.1088,
+        "width": 0.4388,
+        "height": 0.0705
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "11/23\n[Rikka] Charles: 100K\n[Haachama] Degenelate: 100K",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.1088,
+        "width": 0.4358,
+        "height": 0.0342
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "11/24\n[Suisei] Cry Baby: 3M\n[AZKi] Hikari no Machi: 100K\n[Matsuri] Suki Yuki Maji Magic: 250K\n[AZKi] Sennou Sakushu Tora no Maki (Cover): 25K",
+      "bbox": {
+        "x": 0.0493,
+        "y": 0.1979,
+        "width": 0.4388,
+        "height": 0.085
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "11/25\n[Aruran] W.I.M.: 25K\n[Luna] Sweets Parade: 75K\n[Sora] Hot Limit (Cover): 100K\n[Temma/Astel] Kutabaroze: 100K\n[Noel] Homenobi: 750K\n[Polka] Phony: 500K",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.1637,
+        "width": 0.4358,
+        "height": 0.1036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "11/26\n[Shion] Yoru ni Kakeru: 5M\n[HoloJP Gen3] Interact Fantasia: 750K",
+      "bbox": {
+        "x": 0.0493,
+        "y": 0.3016,
+        "width": 0.4388,
+        "height": 0.0332
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "11/27\n[Suisei] Stellar Stellar: 3M\n[Okayu] Setsuna Plus: 250K\n[AzuIzu/Hanakishi] Monster: 100K\n[Fubuki] Sil Vous President (Cover): 500K\n[Izuru] They Who Wait For The Rainbow: 100K\n[Calliope/BOOGEY VOXX] Crown: 500K\n[Miyabi] Do Re Mi Fa So Rondo: 50K\n[Haachama] Infinity (Live): 75K",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.2922,
+        "width": 0.4358,
+        "height": 0.1389
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "11/28\n[Towa] Eye (Cover): 250K\n[Anya] Phony (Cover): 75K\n[Koyori] Ruma (Cover): 50K\n[Shion] God-ish (Cover): 75K\n[Risu/Fonzi] Gurenge (Cover): 10K\n[Kiara] Hinotori Astrophysics Remix: 100K\n[Babudon] Mrs Pumpkin no Kokkei na Yume (Cover): 25K\n[Suisei] Phony (Cover): 750K\n[Flare] Vampire (Cover): 50K\n[Lui] Eye (Cover): 500K\n[Marine] Unison: 5M",
+      "bbox": {
+        "x": 0.0493,
+        "y": 0.3544,
+        "width": 0.4388,
+        "height": 0.2093
+      }
+    },
+    {
+      "type": "other",
+      "text": "5 MILLIONS DE VUES!",
+      "bbox": {
+        "x": 0.5134,
+        "y": 0.5451,
+        "width": 0.4358,
+        "height": 0.0238
+      }
+    },
+    {
+      "type": "other",
+      "text": "COVER | Suisei | PHONY\nCOVER | AZKi | SENNOU · SAKUSHU · TORA NO MAKI\nCOVER | Shien & Roberu | MRS. PUMPKIN NO KOKKEI NA YUME\nCOVER | Anya | PHONY\nCOVER | Risu & Fonzi M | GURENGE\nCOVER | Lui | EYE\nCOVER | Koyori | RUMA\nCOVER | Shion | GOD-ISH\nCOVER | Sora | HOT LIMIT\nCOVER | Flare | VAMPIRE\nCOVER | Towa | EYE\nCOVER | Fubuki | S'IL VOUS PRESIDENT",
+      "bbox": {
+        "x": 0.0388,
+        "y": 0.5959,
+        "width": 0.9224,
+        "height": 0.2808
+      }
+    },
+    {
+      "type": "other",
+      "text": "NOUVEL ALBUM\nTokino Sora\nRE:PLAY",
+      "bbox": {
+        "x": 0.0388,
+        "y": 0.8829,
+        "width": 0.4045,
+        "height": 0.0808
+      }
+    },
+    {
+      "type": "other",
+      "text": "NOUVEL ALBUM\nhololive music studio\nTWILIGHT",
+      "bbox": {
+        "x": 0.503,
+        "y": 0.8829,
+        "width": 0.4015,
+        "height": 0.0808
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1wb8w5emjr381.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

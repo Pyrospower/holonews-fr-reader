@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 6,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 0",
+      "bbox": {
+        "x": 0.1863,
+        "y": 0.0464,
+        "width": 0.1619,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.2183,
+        "width": 0.1381,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei a rédigé un commentaire de recommandation pour le manga Hana wa Saku, Shura no Gotoku, qui accompagne la couverture du manga sur une bande. Le manga porte sur le passage à l’âge adulte des membres d’un club de diffusion et est écrit par Takeda Ayano-sensei, l’auteur de Hibike! Euphonium, et est illustré par Musshu-sensei. Suisei était fan de tous les personnages mais elle était particulièrement intriguée par Usurai Mizuki.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.2587,
+        "width": 0.4238,
+        "height": 0.1597
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei va prendre une pause à compter du 22 janvier jusqu’en début février mais elle va sûrement faire des apparitions sur d'autres chaînes. Elle va publier deux nouveaux clips, alors veuillez garder l’œil ouvert !",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.4462,
+        "width": 0.4281,
+        "height": 0.1037
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.678,
+        "width": 0.117,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Miko a joué à Asetto Corsa contre l'intelligence artificielle. Elle a eu beaucoup d’accidents comme d’habitude, mais il semblerait que sa conduite s’améliore ! Miko a joué cinq courses en utilisant son modèle 3D à domicile puis s’est mise à lire des Super Chats. Lors de sa lecture des Super Chats, Miko a partagé ses plans pour l’avenir proche. Par exemple, elle voudrait faire un stream ASMR chez Noel bientôt, mais le stream sera sûrement réservé aux membres.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.7174,
+        "width": 0.4244,
+        "height": 0.1888
+      }
+    },
+    {
+      "type": "other",
+      "text": "Role:Play\nTOKINO SORA THEATRICAL COVER LIVE\n2022.1.22",
+      "bbox": {
+        "x": 0.537,
+        "y": 0.128,
+        "width": 0.19,
+        "height": 0.053
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.219,
+        "width": 0.105,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des affiches de publicités ont été vues à l’extérieur des portillons de la station JR Ikebukuro et la station Tokyo Metro Marunouchi Line Ikebukuro. Ces affiches comportaient le message personnel et la signature de Sora. Un jour après son concert, Role:Play, les affiches ont été retirées.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2587,
+        "width": 0.4038,
+        "height": 0.1246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De plus, on peut voir une grande publicité pour le concert Role:Play de Sora et celui d’Aqua, Aqua Iro in Wonder Land sur la mezzanine de la station JR Akihabara.",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.3976,
+        "width": 0.4094,
+        "height": 0.0603
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sora a réalisé son concert Role:Play le 22 janvier. Elle a donné deux représentations, une l’après-midi et l’autre le soir, chacune avec sa propre liste de musique.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.6359,
+        "width": 0.4106,
+        "height": 0.0864
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A la fin des deux lives, il a été annoncé que « KumoHurray! » et « Hanadoki no Kara » seraient disponibles sur les plateformes de streaming de musique. D’ailleurs, un Blu-ray du live sera en vente le 20 Avril.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.7352,
+        "width": 0.4169,
+        "height": 0.1003
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les archives des deux lives sont toujours en vente sur SPWN et seront disponibles jusqu’au 22 février.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.8524,
+        "width": 0.4025,
+        "height": 0.0512
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/wyxpejf6x8f81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

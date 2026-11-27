@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Aragami Oga",
+      "bbox": {
+        "x": 0.0613,
+        "y": 0.0269,
+        "width": 0.3775,
+        "height": 0.0391
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Oga a reçu une nouvelle tenue pour célébrer d’avoir atteint 100 000 abonnés !",
+      "bbox": {
+        "x": 0.0275,
+        "y": 0.0998,
+        "width": 0.4363,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Beaucoup de ses spectateurs pensaient que sa tenue allait le dévoiler plus, mais ont reçu à la place un Oga presque entièrement recouvert.",
+      "bbox": {
+        "x": 0.0275,
+        "y": 0.1519,
+        "width": 0.4256,
+        "height": 0.0647
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a nommé cette tenue sa tenue « gaming », et elle comprend une corne RVB et des couleurs RVB variantes pour toute la tenue. La fonctionnalité RVB est une première dans tout holopro.",
+      "bbox": {
+        "x": 0.0269,
+        "y": 0.2383,
+        "width": 0.4325,
+        "height": 0.0859
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a également sortie des produits dérivés qui vont avec sa tenue :",
+      "bbox": {
+        "x": 0.0275,
+        "y": 0.3424,
+        "width": 0.4338,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une figurine en acrylique de la nouvelle tenue\n• Un badge à épingle",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.395,
+        "width": 0.3419,
+        "height": 0.0681
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Murasaki Shion",
+      "bbox": {
+        "x": 0.5013,
+        "y": 0.5582,
+        "width": 0.4406,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion a aussi reçu une nouvelle tenue le 4 Décembre. Il semblerait qu’elle et Aqua ont échangé leurs rôles, car Shion a maintenant une tenue de domestique !",
+      "bbox": {
+        "x": 0.5194,
+        "y": 0.615,
+        "width": 0.4581,
+        "height": 0.0721
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Avec des chaussettes dépareillées, un jupon duveteux, une veste trop grand, Shion est plus mignonne que jamais. Sa frange est également plus longue et colorée différemment dans cette tenue, faisant qu’elle a moins l’air d’une kusogaki car ses sourcils moqueurs sont maintenant hors de vue.",
+      "bbox": {
+        "x": 0.5188,
+        "y": 0.7062,
+        "width": 0.46,
+        "height": 0.1415
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion a aussi annoncé qu’elle aurait un live 3D pour célébrer son anniversaire le 8 décembre. Rushia, Okayu, Pekora, et Marine ont confirmé qu'elles seraient des invitées de l'événement.",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.8698,
+        "width": 0.4531,
+        "height": 0.0872
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/729cdb7rjq581.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

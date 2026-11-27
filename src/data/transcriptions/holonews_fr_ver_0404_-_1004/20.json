@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 20,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.426,
+        "y": 0.025,
+        "width": 0.15,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.1963,
+        "y": 0.1489,
+        "width": 0.1463,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AZKi 600k · Subaru 1,3M\nKaela 200k · Rio 40k\nKobo 300k · Zeta 300k\nChloe 800k · Uyu 40k\nGamma 40k · Fuma 45k\nKorone 1,8M · Shion 1 M",
+      "bbox": {
+        "x": 0.134,
+        "y": 0.218,
+        "width": 0.338,
+        "height": 0.285
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori & Bae",
+      "bbox": {
+        "x": 0.681,
+        "y": 0.186,
+        "width": 0.21,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le stream en anglais de Koyori revient, et avec un invité, Bae ! L'une des tâches de Bae pendant le stream était de deviner ce que Koyori voulait faire passer avec son anglais approximatif. La plupart du temps, elle comprenait l'anglais de Koyori et l'aidait à corriger ses phrases en anglais. Vers la fin du cours, elles communiquaient en anglais et Koyori essayait d'améliorer sa compréhension orale.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.2222,
+        "width": 0.3838,
+        "height": 0.1467
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Evénement à venir",
+      "bbox": {
+        "x": 0.5475,
+        "y": 0.3893,
+        "width": 0.3731,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 13 avril : Troisième anniversaire des dévuts de Korone\n• 15 avril : Anniversaire de Rikka\n• 15 avril : Deuxième anniversaire d'Area15\n• 17 avril : Tournoi Apex V-saikyo (2022)\n• 18 avril : Anniversaire de Temma",
+      "bbox": {
+        "x": 0.5675,
+        "y": 0.4384,
+        "width": 0.3463,
+        "height": 0.1888
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.6949,
+        "width": 0.5094,
+        "height": 0.1124
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.8242,
+        "width": 0.2537,
+        "height": 0.0373
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/e9o8r269qau81.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

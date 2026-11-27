@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.4288,
+        "y": 0.0256,
+        "width": 0.1431,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.2526,
+        "width": 0.3919,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 23 août : 1er anniversaire des débuts d'holoCouncil\n• 27 août : Matsuri et Fubuki au VARK\n• 27 août : 3e anniversaire de Noel, concert en 3D « Summer memories » (souvenirs d'été)\n• 30 août : Anniversaire de Kaela",
+      "bbox": {
+        "x": 0.12,
+        "y": 0.3129,
+        "width": 0.3525,
+        "height": 0.173
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.6613,
+        "y": 0.1519,
+        "width": 0.1469,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "other",
+      "text": "Axel 125k\nhololive Indonesia ch. 350k\nVesper 140k",
+      "bbox": {
+        "x": 0.6325,
+        "y": 0.2079,
+        "width": 0.1163,
+        "height": 0.1567
+      }
+    },
+    {
+      "type": "other",
+      "text": "Marine 2,1 M\nAkirose 700k\nholoSTARS EN ch. 60k",
+      "bbox": {
+        "x": 0.8425,
+        "y": 0.2079,
+        "width": 0.1038,
+        "height": 0.165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.691,
+        "width": 0.4944,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.8242,
+        "width": 0.2512,
+        "height": 0.0369
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1zq51wsupok91.png",
+    "gifFrame": null,
+    "confidence": 87
+  }
+}

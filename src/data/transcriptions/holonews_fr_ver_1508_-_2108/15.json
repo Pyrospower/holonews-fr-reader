@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "hololive EN",
+      "bbox": {
+        "x": 0.3875,
+        "y": 0.0161,
+        "width": 0.23,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHAT TIME!!",
+      "bbox": {
+        "x": 0.0644,
+        "y": 0.0734,
+        "width": 0.2213,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "other",
+      "text": "WHAT’S THE TAKO UP TO?",
+      "bbox": {
+        "x": 0.2112,
+        "y": 0.092,
+        "width": 0.0762,
+        "height": 0.0052
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.1545,
+        "width": 0.0537,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "WAH ! Ina est de retour avec un stream discussion. Elle a raconté plusieurs histoires aux Takodachis, comme son emménagement dans son nouveau bureau, et a montré des photos de petits plats qu’elle a préparé (Mama’nis ne peut pas prendre le contrôle de sa nouvelle cuisine), avant de mentionner son envie d’aller en Indonésie pour rencontrer les filles d’ID et goûter la nourriture indonésienne. Ina a aussi avoué son amour pour la glace menthe chocolat, a décidé que son but dans RUST serait de devenir l’ultime pêcheuse, et a dit que Jenma (sa manageur) méritait une augmentation. Elle a également raconté une histoire amusante durant laquelle elle marchait dans un IKEA en tenant un œuf qu’elle avait l’intention de manger plus tard. Elle l’a oublié à la caisse en achetant de la glace pour ses parents et a donc dû y retourner avant de partir.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.1923,
+        "width": 0.3919,
+        "height": 0.2474
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sur un ton plus sérieux, Ina a mentionné son burnout causé par le dessin, son désir de faire une reprise pour son deuxième anniversaire, a envisagé de faire plus de streams et de créer un Espace Twitter archivé. Elle a terminé le stream en affirmant : « les jeux de mots sont comme les durians : ça pue mais on finit par les apprécier », avant d’avouer qu’elle n’a jamais mangé de durians. Ne change jamais Ina.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.4514,
+        "width": 0.3919,
+        "height": 0.1137
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mumei",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.7092,
+        "width": 0.1125,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 19 août, Mumei a sorti une reprise de « The Forgotten Song », une musique Vocaloid de 2010 réalisée par whoosrockq. Le clip a été réalisé par Rairi et est illustré par Orie, avec un mixage de yoshi-kennn. Dans le stream suivant, Mumei a mentionné tous les contributeurs, dont l’auteur de la chanson, whoo, qui travaille aussi avec des chanteurs humains (et chante parfois) et réalise des morceaux instrumentaux. « The Forgotten Song » est issu de son premier album, qui est un pilier de la playlist de Mumei.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.7496,
+        "width": 0.39,
+        "height": 0.1515
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mumei a aussi annoncé qu’elle serait une navigatrice dans Groove Coaster et que « A New Start » sera jouable dans le jeu, accomplissant son but d’apparaître dans un jeu de rythme.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.9132,
+        "width": 0.3669,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "other",
+      "text": "Kiara\nCongrats to finding\nthis post it!!",
+      "bbox": {
+        "x": 0.6362,
+        "y": 0.0668,
+        "width": 0.2238,
+        "height": 0.1267
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.6362,
+        "y": 0.2075,
+        "width": 0.0875,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au cours de son voyage en Corée, Kiara a signé un post-it caché dans le café tenu pour la collaboration entre holoMyth et ANIPLUS. Il est actuellement encadré et exposé.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.2452,
+        "width": 0.3806,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Baelz",
+      "bbox": {
+        "x": 0.6381,
+        "y": 0.3646,
+        "width": 0.0825,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bae a révélé qu’elle avait abandonné son cours d’économie juste avant le premier examen. Elle s’est en effet rendue compte qu’elle avait écrit plus de 8 pages de notes pour la seule introduction et ne se sentait alors pas capable de continuer. Les Brats l’ont ensuite taquinée au sujet de ses compétences en prise de notes.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.4032,
+        "width": 0.385,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fauna",
+      "bbox": {
+        "x": 0.6388,
+        "y": 0.5525,
+        "width": 0.0963,
+        "height": 0.0156
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fauna a dévoilé que le méchant Disney qu’elle trouvait le plus séduisant était Scar du Roi Lion, le considérant « plutôt cool ». Elle l’a choisi parmi d’autres personnages, ceux-là humains, comme Jafar, Maléfique et Gaston. Elle a accusé Disney d’avoir « créé une génération entière de furries ». Mère Nature ne fait pas de discrimination.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.5898,
+        "width": 0.3888,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kronii",
+      "bbox": {
+        "x": 0.6375,
+        "y": 0.8516,
+        "width": 0.1,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 16 août, Kronii a sorti sa reprise de « MAFIA » de wotaku, dont elle a réalisé le mixage vocal et incluant le monologue de fin issu de la reprise de Shien, écrit par lui-même et ses Shien-gumi. Le clip a été réalisé par EbiEbiBeam et illustré par QUASARCAKE.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.8915,
+        "width": 0.38,
+        "height": 0.0803
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cq9bttsupok91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

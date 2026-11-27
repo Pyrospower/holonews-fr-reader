@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.1138,
+        "y": 0.0304,
+        "width": 0.3077,
+        "height": 0.0267
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.1481,
+        "y": 0.207,
+        "width": 0.1338,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le plus long stream qu’elle ait fait, Botan a terminé Jump King en 8 heures et 21 minutes, établissant un record pour être l’une des plus rapides à le finir ! Comme à son habitude, il y a eu beaucoup de mésaventures mignonnes ainsi que des séquences de jeux impressionnantes, comme quand elle a sauté dans le vide dans la dernière partie du jeu, et ruiné ses progrès à plusieurs reprises. Peut-être que l’adrénaline a poussé Shishiron, puisqu’elle est restée debout plus tard que d’habitude et a failli ne pas se réveiller pour sa collab avec NePoLaBo sur Phasmophobia le lendemain matin !",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2465,
+        "width": 0.4256,
+        "height": 0.2365
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.6238,
+        "y": 0.2062,
+        "width": 0.1277,
+        "height": 0.0262
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy est partie à la chasse au Barpau chromatique ! Pendant la pêche, alors que son détecteur avait trouvé autre chose, elle a pêché un Magicarpe chromatique à la place.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.247,
+        "width": 0.4056,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "Le cadeau-surprise de Noël de Nene était elle-même enroulée dans un grand ruban rouge !",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3919,
+        "width": 0.4238,
+        "height": 0.0512
+      }
+    },
+    {
+      "type": "other",
+      "text": "« I AM PRESENT!! - Nene »\n(« JE SUIS LA »)",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4618,
+        "width": 0.3069,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.52,
+        "width": 0.1081,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A la fin de son concert 3D de Noël avec Suisei et Towa, Nene a annoncé les produits proposés pour célébrer ses 800 000 abonnés.\n• Un porte-clés en acrylique Nene\n• Un ensemble de charme acrylique Nekkonected\n• Une gourde isotherme NeneSeal (Otarie Nene)\nLe bonus d’achat complet est une carte postale avec un autographe dédicacé et un message. Toutes les œuvres ont été dessinées par Nene elle-même !",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.5512,
+        "width": 0.4188,
+        "height": 0.1966
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.5181,
+        "y": 0.7821,
+        "width": 0.1263,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka était la seule à s'être réveillée tôt pour la collab NePoLaBo. Toutes les autres se sont réveillées à peu près une heure avant le stream et par conséquent elles semblaient toutes fatiguées. Comme une blague de mauvais goût, Polka a suggéré de jeter un œil à l’écart de leur porte. Lamy et Nene on criait, comme prévu, mais Botan est restée stoïque.",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.8151,
+        "width": 0.4144,
+        "height": 0.1645
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5sp8xw4zeab81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

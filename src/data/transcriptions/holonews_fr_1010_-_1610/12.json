@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1010_-_1610",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2169,
+        "y": 0.0195,
+        "width": 0.5663,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/10\n[Chloe] Zombies: 100K\n[Koyori] S'il Vous President: 1M\n[Okayu] Dokuhai Swallow: 500K\n[Kiara/Amelia] Dreamin Chuchu: 2M\n[Fuma/Uyu/Gamma/Rio] Brother Beat: 50K\n[Luna] Zettai Chuusei Nanonanora: 250K\n[Suisei] Sousei No Aquarion: 2M\n[Risu/Moona/Iofi] HI-15: 750K",
+      "bbox": {
+        "x": 0.0206,
+        "y": 0.076,
+        "width": 0.4731,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/11\n[Kanata] Roshin Yuukai: 1M\n[Holostars] Magic Word Orchestra: 50K\n[Okayu/Ryushen] Non-breath Oblige: 500K\n[Koyori/Sora/Suisei/Subaru/Polka/Chloe] Kaibutsu: 4M\n[Holostars 1-3] We Are The Holostars!!: 75K\n[Okayu] Cinderella Remix (Cover): 100K",
+      "bbox": {
+        "x": 0.5081,
+        "y": 0.0747,
+        "width": 0.47,
+        "height": 0.1007
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/12\n[Okayu] Lazyroop: 250K\n[Astel] Boku Wa Kyou Mo: 100K\n[Aqua] Goodbye Sengen: 8M\n[Izuru] Ato No Matsuri: 75K",
+      "bbox": {
+        "x": 0.0206,
+        "y": 0.2179,
+        "width": 0.4744,
+        "height": 0.0677
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/13\n[Iofi] Kagome: 100K\n[Aqua/Kanata] God-ish: 2M\n[Reine] Ano Aozora No Sei Da: 250K\n[Fubuki] Kusaregedou to Chocolate: 500K\n[Holostars 1-3] We Are The Holostars!!: 100K\n[Baelz] A Million Miles Away: 500K\n[Reine/Kotone] RAD DOGS: 100K\n[AZKi] Petrichor: 100K",
+      "bbox": {
+        "x": 0.5081,
+        "y": 0.1866,
+        "width": 0.4706,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/14\n[Temma] Cinderella Girl: 100K\n[Okayu] Cinderella Remix (Cover): 250K",
+      "bbox": {
+        "x": 0.0206,
+        "y": 0.2956,
+        "width": 0.4744,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/15\n[Kanata/La+] Lower: 500K\n[Kanata] Chuuku No Niwa: 250K\n[La+] Bitter Choco Decoration: 3M\n[Zeta] Aishite Aishite Aishite: 250K\n[Sora/Suisei/AZKi/Calliope/IRyS] Ifuudoudou (Cover): 500K",
+      "bbox": {
+        "x": 0.5081,
+        "y": 0.329,
+        "width": 0.4706,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/16\n[Mumei/Baelz] Queen (Cover): 100K\n[Sora/Suisei/AZKi/Calliope/IRyS] Ifuudoudou (Cover): 750K",
+      "bbox": {
+        "x": 0.0206,
+        "y": 0.3394,
+        "width": 0.4744,
+        "height": 0.0499
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nORIGINALE\nNOUVEAU",
+      "bbox": {
+        "x": 0.02,
+        "y": 0.4084,
+        "width": 0.4706,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nOkayu\nCINDERELLA (GIGA FIRST NIGHT REMIX)",
+      "bbox": {
+        "x": 0.0225,
+        "y": 0.4583,
+        "width": 0.445,
+        "height": 0.1671
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nSora, AZKi, Suisei, Calliope & IRyS\nIFUUDOUDOU",
+      "bbox": {
+        "x": 0.5,
+        "y": 0.4583,
+        "width": 0.4531,
+        "height": 0.1602
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nMumei & Baelz\nQUEEN",
+      "bbox": {
+        "x": 0.0225,
+        "y": 0.6437,
+        "width": 0.2744,
+        "height": 0.1688
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nShien\nBEGINNING",
+      "bbox": {
+        "x": 0.5,
+        "y": 0.6437,
+        "width": 0.4294,
+        "height": 0.1654
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nLuna\nROUND AND ROUND AND CIRCLUNA",
+      "bbox": {
+        "x": 0.0225,
+        "y": 0.8294,
+        "width": 0.9325,
+        "height": 0.1424
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/45g7zek97cw91.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 8,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 3",
+      "bbox": {
+        "x": 0.444,
+        "y": 0.0174,
+        "width": 0.112,
+        "height": 0.0231
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.0968,
+        "width": 0.1081,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora a tenu le premier « Tournoi du plus puissant canon à TNT » opposant les créations des spectateurs. Elle a tout d’abord expliqué les règles avant de présenter tous les canons concurrents. Parmi les moments les plus mémorables, on retrouve Pekora mourant (tout naturellement) à cause d’un canon, les spectateurs attribuant plus de points aux créations qu’à Pekora elle-même, et le possible retour de Joseph.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.1354,
+        "width": 0.3988,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen4",
+      "bbox": {
+        "x": 0.4488,
+        "y": 0.2799,
+        "width": 0.1031,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Towa",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.3611,
+        "width": 0.0831,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au cours d’un stream discussion, Towa a exprimé qu’elle ne voulait pas que les illustrations d’elle-même réalisées par des fans et exposant trop de peau se retrouvent dans #TOWART. Cela inclut les illustrations la représentant dans un bain ou ayant une expression séduisante. Elle dit ne pas aimer voir des images osées d’elle-même alors respectons ses limites, étant donné qu’elle préfère que ses spectateurs gardent ce type de créations pour eux-mêmes.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.398,
+        "width": 0.3931,
+        "height": 0.1215
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 5",
+      "bbox": {
+        "x": 0.444,
+        "y": 0.548,
+        "width": 0.112,
+        "height": 0.0231
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.169,
+        "y": 0.85,
+        "width": 0.081,
+        "height": 0.018
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Malgré des symptômes forts et douloureux, Nene a pris le temps d’envoyer un tweet confirmant qu’elle était toujours vivante. La bonne nouvelle est que sa fièvre baisse. Bon rétablissement Nene.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.8872,
+        "width": 0.3588,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.81,
+        "width": 0.087,
+        "height": 0.018
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka a atteint un million d’abonnés sur YouTube, un exploit dont elle ne se croyait pas capable, durant un karaoké d’endurance. Elle est la 32e holomem à obtenir le Trophée du Créateur en or. Elle a atteint ce palier alors qu’elle interprétait l’hymne d’hololive, « Shiny Smily Story ». Après des remerciements sincères, elle a mis fin au stream après avoir chanté sa chanson originale signature, « Po » !",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.8472,
+        "width": 0.3894,
+        "height": 0.1207
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/hci7log4fig91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

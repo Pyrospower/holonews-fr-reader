@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_holostars_-tempus-_debut_special",
+  "page": 14,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Présentation des papas et mamans",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.0525,
+        "width": 0.8517,
+        "height": 0.034
+      }
+    },
+    {
+      "type": "heading",
+      "text": "倉花千夏",
+      "bbox": {
+        "x": 0.1455,
+        "y": 0.1274,
+        "width": 0.1606,
+        "height": 0.0263
+      }
+    },
+    {
+      "type": "other",
+      "text": "@kurahanastaff",
+      "bbox": {
+        "x": 0.15,
+        "y": 0.1574,
+        "width": 0.1461,
+        "height": 0.0166
+      }
+    },
+    {
+      "type": "heading",
+      "text": "古海鐘一",
+      "bbox": {
+        "x": 0.6182,
+        "y": 0.1274,
+        "width": 0.1561,
+        "height": 0.0263
+      }
+    },
+    {
+      "type": "other",
+      "text": "@hasendow",
+      "bbox": {
+        "x": 0.6217,
+        "y": 0.1593,
+        "width": 0.1144,
+        "height": 0.0123
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ギンカ Ginka",
+      "bbox": {
+        "x": 0.2848,
+        "y": 0.4105,
+        "width": 0.0955,
+        "height": 0.0263
+      }
+    },
+    {
+      "type": "other",
+      "text": "@hagure_ginsu",
+      "bbox": {
+        "x": 0.1455,
+        "y": 0.4421,
+        "width": 0.1636,
+        "height": 0.0158
+      }
+    },
+    {
+      "type": "heading",
+      "text": "小宮",
+      "bbox": {
+        "x": 0.6152,
+        "y": 0.4137,
+        "width": 0.0803,
+        "height": 0.0263
+      }
+    },
+    {
+      "type": "other",
+      "text": "@shidokenai",
+      "bbox": {
+        "x": 0.6217,
+        "y": 0.4444,
+        "width": 0.1183,
+        "height": 0.012
+      }
+    },
+    {
+      "type": "other",
+      "text": "@tou_ilie",
+      "bbox": {
+        "x": 0.0833,
+        "y": 0.7768,
+        "width": 0.1106,
+        "height": 0.0179
+      }
+    },
+    {
+      "type": "other",
+      "text": "@megajujube",
+      "bbox": {
+        "x": 0.2924,
+        "y": 0.7768,
+        "width": 0.1697,
+        "height": 0.0179
+      }
+    },
+    {
+      "type": "other",
+      "text": "@keffiy",
+      "bbox": {
+        "x": 0.5758,
+        "y": 0.7768,
+        "width": 0.1,
+        "height": 0.0179
+      }
+    },
+    {
+      "type": "other",
+      "text": "@FELUCCACHAN",
+      "bbox": {
+        "x": 0.7621,
+        "y": 0.7768,
+        "width": 0.1818,
+        "height": 0.0179
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ipc9kf90eje91.gif",
+    "gifFrame": 30,
+    "confidence": 65
+  }
+}

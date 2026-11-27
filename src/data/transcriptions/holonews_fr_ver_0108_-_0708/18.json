@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0174,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/01\n[Iroha] God-ish: 500K\n[Ame/Nabi] Say So: 100K\n[Marine] I'm Your Treasure Box: 1M\n[Luna] Zettai Chuusei ♡ Nanonanora: 100K\n[Lamy/Nene/Botan/Polka ] Blessing: 5M\n[Watame] Chiki-Chiki Ban-Ban: 500K\n[Moona] Gekkou: 750K",
+      "bbox": {
+        "x": 0.045,
+        "y": 0.061,
+        "width": 0.444,
+        "height": 0.118
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/02\n[Aqua] I Wanna: 2M\n[Nene/Lamy] Hitorigoto: 1M\n[Marine] I'm Your Treasure Box: 2M\n[Shion/Hoshikawa] Mahou Shoujo To Chocolate: 2M\n[Izuru] The Sixth Sense: 100K\n[AZKi/Nene] Roki: 1M",
+      "bbox": {
+        "x": 0.045,
+        "y": 0.19,
+        "width": 0.444,
+        "height": 0.104
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/03\n[Suisei] Lower: 5M\n[Astel] Odo (Live): 25K\n[Watame] Hitsuji No Blanket: 75K\n[Flare/KOTOKO] Sakuranbo Kiss: 250K\n[Miyabi/Izuru/Astel/Temma] Monster: 250K\n[Chloe] Jinsei Reset Button Pochi w: 2M\n[AZKi] Nekonarabaikeru: 250K\n[Lui] Overd: 250K",
+      "bbox": {
+        "x": 0.045,
+        "y": 0.304,
+        "width": 0.444,
+        "height": 0.135
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/04\n[Okayu] Animal: 3M\n[Calliope] Kamouflage: 250K\n[Watame] Hello/How Are You: 2M\n[Aqua/Suisei/Towa] Asu no Yozora Shoukaihan: 6M\n[Marine] Sakuranbo Kiss: 250K\n[AZKi] Afterglow: 100K",
+      "bbox": {
+        "x": 0.045,
+        "y": 0.452,
+        "width": 0.444,
+        "height": 0.105
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/05\n[IRyS] Identity: 1M\n[Miko] Baby Dance: 250K\n[Towa/Suisei] Haiiro To Ao: 5M\n[Fubuki/Korone] Stepping Wind: 100K\n[Marine] I'm Your Treasure Box: 3M\n[Shien/Roberu] Mrs. Pumpkin no Kokkei na Yume: 100K\n[Noel] Homenobi: 2M",
+      "bbox": {
+        "x": 0.51,
+        "y": 0.061,
+        "width": 0.445,
+        "height": 0.133
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/06\n[AZKi] petrichor: 25K\n[Okayu] adieu, Salauds: 100K\n[Fauna] Let Me Stay Here: 750K\n[Reine/Kotone] ECHO (Cover): 25K",
+      "bbox": {
+        "x": 0.51,
+        "y": 0.211,
+        "width": 0.445,
+        "height": 0.065
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/07\n[Lui] Overd: 500K\n[Amelia/Nabi] Say So: 250K\n[Lui] Kimi Sora Kiseki: 250K\n[AZKi] Real Melancholy: 250K\n[Fubuki] Cat Loving (Cover): 50K\n[Flare] Hurray! Hurray! Elf-friend: 10K\n[Kanata] Ai Kotoba IV (Cover): 50K\n[Sora/Suntory Nomu/Fuji Aoi] Geki! Teikoku Kagekidan: 2M\n[Sana] Astrogirl: 750K",
+      "bbox": {
+        "x": 0.51,
+        "y": 0.289,
+        "width": 0.445,
+        "height": 0.17
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE ORIGINALE NOUVEAU",
+      "bbox": {
+        "x": 0.5263,
+        "y": 0.5061,
+        "width": 0.4175,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL — Miko — BABY DANCE\nCHANSON ORIGINAL — Flare — HURRAY! HURRAY! ELFRIEND!\nREPRISE — Kanata — AI KOTOBA IV\nREPRISE — Reine & Tenjin Kotone — ECHO\nREPRISE — Fubuki — CAT LOVING\nCHANSON ORIGINAL — AZKi — PETRICHOR\nCHANSON ORIGINAL — Okayu — ADIEU, SALAUDS",
+      "bbox": {
+        "x": 0.031,
+        "y": 0.57,
+        "width": 0.938,
+        "height": 0.411
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xul38166lwh91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

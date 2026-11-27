@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1010_-_1610",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HIMEMORI LUNA",
+      "bbox": {
+        "x": 0.1075,
+        "y": 0.0807,
+        "width": 0.3438,
+        "height": 0.0764
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre talentueuse princesse bonbon Luna a célébré son zéroième anniversaire le 10 octobre pour la troisième fois.",
+      "bbox": {
+        "x": 0.1013,
+        "y": 0.1745,
+        "width": 0.3731,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a commencé son concert 3D, Loyalty to Luna, avec « World is Mine » de Ryo, puis a tourné son attention vers les différents éléments qui composaient sa scène. Parmi ces éléments se trouvaient un manège avec une pieuvre rose, le symbole de l'illustrateur de Luna, et la bannière des Luknights. Après ça, Luna s'est dirigée versune salle de classe pour chanter « Fuwa Fuwa Time » avec Okayu. Elle a ensuite chanté « Los!Los!Los! », « This is the happiness », « Peace of mind Committee» et « Momoiro Kataomoi » en solo.",
+      "bbox": {
+        "x": 0.1013,
+        "y": 0.2352,
+        "width": 0.3744,
+        "height": 0.2075
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Luna, avec Haachama et Kanata, a délivré une performance surprenamment mignonne d'une chanson avec un ton plutôt sombre , «Usseewa», puis a quitté son ancien décor pour aller cette fois dans une cathédrale avec Polka, pour chanter «Over Soul». Les dernières chansons ont été «Paprika» et «Geki! Teikoku Kagekidan» seule, et enfin « Happy Synthesizer » avec Subaru.",
+      "bbox": {
+        "x": 0.1013,
+        "y": 0.6272,
+        "width": 0.3731,
+        "height": 0.1497
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Luna a ensuite révélé ses produits dérivés pour son anniversaire:\n• Une tapisserie B2 illustrée par Kanzaki Hiro\n• Un anneau (qui vient avec une chaîne)\n• Un verre à thème\n• Une bague de support pour téléphone avec un pendentif",
+      "bbox": {
+        "x": 0.5269,
+        "y": 0.0339,
+        "width": 0.3719,
+        "height": 0.1479
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le bonus attribué à ceux qui achètent l'édition au complet est une carte postale avec un autographe signé à la main ainsi qu'un message de Luna, dupliqué et imprimé à chaud.",
+      "bbox": {
+        "x": 0.5263,
+        "y": 0.1997,
+        "width": 0.3731,
+        "height": 0.0738
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour terminer, Luna nous a offert sa performance de sa seconde chanson originale, « Round and Round and Circluna » (Guruguru @ Mawaru @ Mawa-Luna en japonais), réalisée par Rissyuu.",
+      "bbox": {
+        "x": 0.5263,
+        "y": 0.2908,
+        "width": 0.3731,
+        "height": 0.0886
+      }
+    },
+    {
+      "type": "other",
+      "text": "BIRTHDAY FES",
+      "bbox": {
+        "x": 0.5775,
+        "y": 0.9366,
+        "width": 0.3312,
+        "height": 0.0547
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/wjw5oud87cw91.gif",
+    "gifFrame": 94,
+    "confidence": 89
+  }
+}

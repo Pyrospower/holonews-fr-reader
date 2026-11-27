@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.1131,
+        "y": 0.0807,
+        "width": 0.3044,
+        "height": 0.0443
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.154,
+        "y": 0.27,
+        "width": 0.136,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Botan a crié deux fois en stream cette semaine, ce qui n’arrive que très rarement. La première fois était sur Vampire Survivors. Après 11 heures de jeu hors-stream, elle avait enfin pu améliorer ses armes jusqu’à leur forme finale. Alors qu’elle admirait son statut surpuissant, la Faucheuse l’a prise totalement au dépourvu.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3129,
+        "width": 0.4219,
+        "height": 0.1246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Deux jours plus tard, alors que son personnage (Bossan) affrontait le Rejeton Greffé sur Elden Ring, la longue portée de celui-ci a pris Botan par surprise, la menant à sa perte. Elle est cependant revenue dans la partie en terrassant la Sentinelle de l’arbre sans aucune amélioration ou bonus un peu plus tard dans le même stream. Après avoir vaincu son ennemi, elle a déclaré qu’elle « en avait fini avec le tutoriel ».",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.454,
+        "width": 0.4238,
+        "height": 0.1519
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.158,
+        "y": 0.805,
+        "width": 0.125,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy va mettre en vente des kohakutou à déguster avec son saké ! Le goût est décrit comme élégamment sucré. Les kohakutou seront disponibles en pré-commande pendant une semaine, jusqu’au 10 mars.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.852,
+        "width": 0.3188,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.614,
+        "y": 0.099,
+        "width": 0.247,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mio",
+      "bbox": {
+        "x": 0.628,
+        "y": 0.272,
+        "width": 0.085,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La semaine dernière, Mio s’est fixé comme objectif d’obtenir un chaudron en or sur Getting Over It avant d’atteindre le million d’abonnés. Elle ne l’a pas encore obtenu, mais elle a été traumatisée par le toboggan serpent du jeu. Mio songe maintenant à acquérir des produits dérivés du jeu si jamais ils sont mis en vente, et veut même donner un nom à ses chutes.",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.306,
+        "width": 0.4219,
+        "height": 0.1224
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant le stream matinal de Mio, celle-ci a exprimé son admiration quant au fait que les archives des streams de Koyori aient déjà atteint un total de plus de 400 heures après seulement trois mois de stream. Par ailleurs, Mio a rassuré les fans de GAMERS en expliquant que les membres s’entendaient toujours à merveille et qu’une collaboration sur Phasmophobia était prévue pour le lundi suivant.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.4444,
+        "width": 0.4281,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Korone",
+      "bbox": {
+        "x": 0.6244,
+        "y": 0.7179,
+        "width": 0.1663,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Alors que Korone est connue pour voler les doigts de ses spectateurs, ironiquement, elle a annoncé le 4 mars dernier qu’elle s’était cassé un de ses propres doigts. Le jour précédent, elle avait tweeté qu’elle s’était rendue à l’hôpital car un de ses doigts était engourdi et que bouger son po ignet lui faisait mal. Plusieurs membres d’hololive, dont Okayu, ont exprimé leur inquiétude sur Twitter, et de nombreux Koronesuki ont envoyé des messages de soutien et des fanarts. Malgré sa blessure et avec l’autorisation du médecin, Korone a tout de même continué sa partie de Banjo-Kazooie le lendemain.",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.7556,
+        "width": 0.4244,
+        "height": 0.23
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/no8whnt6bdn81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 14,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Merci d’avoir lu l’édition spéciale sur les débuts d’UPROAR !",
+      "bbox": {
+        "x": 0.1819,
+        "y": 0.1376,
+        "width": 0.6206,
+        "height": 0.0503
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "N'oubliez pas de regarder nos réseaux sociaux et de lire nos éditions précédentes !",
+      "bbox": {
+        "x": 0.2094,
+        "y": 0.224,
+        "width": 0.5656,
+        "height": 0.0842
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez apporter votre contribution à HoloNews, ou simplement vous tenir informé sur tout ce qui concerne hololive, n'hésitez pas non plus à rejoindre notre subreddit ou notre serveur Discord !",
+      "bbox": {
+        "x": 0.1025,
+        "y": 0.3286,
+        "width": 0.7863,
+        "height": 0.1645
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d'avoir lu, et rendez-vous au prochain numéro !",
+      "bbox": {
+        "x": 0.1763,
+        "y": 0.5951,
+        "width": 0.6475,
+        "height": 0.0499
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/myhj3046wis81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

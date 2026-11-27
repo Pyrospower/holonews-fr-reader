@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holo ID",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.058,
+        "width": 0.209,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Risu",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.232,
+        "width": 0.104,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après la sortie des marchandises d'anniversaire de Risu sur la boutique officielle hololive la semaine dernière, Risu a posté un tweet contenant quatre photos de marchandises présentées par YAGOO.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2713,
+        "width": 0.4188,
+        "height": 0.0799
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Risu a passé deux heures entières à décortiquer chaque ligne de sa nouvelle chanson, ALiCE&u, expliquant à ses spectateurs toutes les nuances, les références, les sens cachés et les jeux de mots présents dans la chanson.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.3837,
+        "width": 0.4219,
+        "height": 0.1033
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.626,
+        "width": 0.1,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie veut devenir le président de l'USN (United Simp Nations, soit « Nations Unis des Simp» en français)",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.668,
+        "width": 0.4075,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Risu a juré fidélité à Ollie, rejoignant ainsi la Kureiji Kensetsu.",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.7422,
+        "width": 0.3813,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La chaîne officielle holoID met en ligne des petites vidéos des membres d’holoID depuis un certain temps, mais elle a récemment commencé à le faire à la manière d'un clipper, avec des sous-titres en japonais, anglais et indonésien.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.8147,
+        "width": 0.425,
+        "height": 0.0955
+      }
+    },
+    {
+      "type": "other",
+      "text": "Event Showcase",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.148,
+        "width": 0.256,
+        "height": 0.056
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Reine",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.232,
+        "width": 0.126,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un épisode spécial de Reine Reviews, Reine va écouter des reprises d’une de ses dernières chansons, « Ano Aozora no Sei da », postées sur twitter avec le hashtag #AANSD_Showcase. Les reprises vocales, les reprises dansées et les remixes/arrangements de la chanson sont autorisés, peuvent être dans n'importe quelle langue et doivent durer au moins une minute. La date limite est le 21 février, 23h59 WIB (GMT+7).",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2713,
+        "width": 0.4213,
+        "height": 0.1714
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.576,
+        "width": 0.08,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après les deux épisodes précédents du #ioSalon (au cours desquels Iofi a donné des coiffures alternatives aux autres membres d’holoID), elle a demandé à ses spectateurs de lui dessiner des coiffures alternatives. Les œuvres soumises étaient très variées et même sans les memes, les doublons et les modifications d'autres personnages, il y avait toujours plus d'une centaine de coiffures différentes qu’Iofi a présentée en streaming.",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.6163,
+        "width": 0.4138,
+        "height": 0.1714
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le trio d'HoloID accro à Minecraft (Moona, Risu, Ollie) a été surpris par Iofi entrain de jouer à Minecraft. Elles ont été surpris dans le serveur ID en train de couper des arbres pour évacuer le stress.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.8116,
+        "width": 0.4281,
+        "height": 0.1003
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ul3ntmf6x8f81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

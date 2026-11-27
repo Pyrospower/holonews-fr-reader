@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2706,
+        "y": 0.0156,
+        "width": 0.4588,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/29\n[Pekora] Cinderella: 3M\n[Suisei] Yuurei Tokyo: 5M\n[Matsuri/Suisei/Flare/Nene] Niccori^ Survey Team Theme: 100K\n[Calliope] Let's End The World: 500K\n[Baelz] A Million Miles Away: 250K\n[Pekora] Pekorandombrain: 3M\n[Fubuki] CREATION: 100K",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.0634,
+        "width": 0.4719,
+        "height": 0.1328
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/30\n[Lamy] Fleur: 250K\n[Polka/Kotone] Odo: 75K\n[AZKi] Asagao no Uta: 50K\n[Umisea] It Comes Ryuuu and It Goes Kyuuu!!!: 250K\n[Koyori/Sora/Suisei/Subaru/Polka/Chloe] Kaibutsu: 1M\n[Holostars] Just Follow Stars: 750K\n[HoloID 1/2/3] Bebas: 1M\n[Ollie] Jollie Jollie: 500K",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.2066,
+        "width": 0.4719,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/31\n[Noel] ours: 75K\n[Amelia/Nabi] Say So: 500K\n[Kaela] Phoenix (Cover): 100K\n[Mel/Choco] ChocoMelty: 250K\n[Aqua] Internet Overdose (Cover): 250K\n[AZKi] I Can't Control Myself: 750K\n[Okayu] Dokuhai Swallow: 100K\n[Matsuri] Loser Girl: 500K",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.3498,
+        "width": 0.4719,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "09/01\n[Polka] Cinema: 250K\n[Ollie] Saling Merindu: 250K\n[Hololive] Hololive Ondo: 500K\n[IRyS] One Step At A Time: 75K\n[Sora] Sora No Toki (Full): 25K\n[Shion] Mage of Violet: 4M",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.4926,
+        "width": 0.4719,
+        "height": 0.0994
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "09/02\n[Polka] Vampire: 3M\n[Polka/Kotone] Odo: 100K\n[Okayu] Otome Kaibou: 6M\n[Calliope] Make Em Afraid: 1M\n[Sora/AZKi] Harmonia (Cover): 50K\n[Marine] I'm Your Treasure Box: 8M\n[Ina/Nabi] summertime (Cover): 100K\n[HoloJP] Shiny Smily Story (2022 ver.): 500K\n[Gamma/Fuma/Uyu] Ikenai Taiyou (Cover): 25K\n[Aruran/Ririmu/Lain] Mixed Nuts (Cover): 75K\n[AZKi/Kagami Mira/Asano Ruri/Tumugine Rei/Yuzuha/Lamuril] Shiori: 25K\n[Calliope/Suisei] Capsule: 5M\n[Towa/Nene] Rimokon: 250K\n[La+] Aien Jihen: 750K",
+      "bbox": {
+        "x": 0.5081,
+        "y": 0.0634,
+        "width": 0.4706,
+        "height": 0.2483
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "09/03\n[Matsuri/Rikka] Kaede: 1M\n[Suisei/Taku Inoue] Highway: 250K\n[Holostars] Magic Word Orchestra: 25K\n[Okayu] Detabare Neko: 750K",
+      "bbox": {
+        "x": 0.5081,
+        "y": 0.3216,
+        "width": 0.4706,
+        "height": 0.066
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "09/04\n[AZKi] petrichor: 75K\n[Lui] Queen (Cover): 250K\n[Okayu] Hatsukoisou: 500K\n[Polka] Epilogue In The Attic: 100K\n[Mumei] Dan Dan Chikaku Naru (Cover): 250K\n[Sora/Suisei/Flare/Marine/Kanata] ALICE in NY: 8M\n[Rikka] Dakara Ongaku Yameta: 250K\n[Calliope/Suisei] Wicked (Live): 250K\n[Roboco] Little Bit (Full): 10K\n[Miko] Baby Dance: 500K",
+      "bbox": {
+        "x": 0.5081,
+        "y": 0.3989,
+        "width": 0.4706,
+        "height": 0.1654
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE   ORIGINALE   NOUVEAU",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.5773,
+        "width": 0.475,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nLui\nQUEEN",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.6176,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nGamma, Fuma & Uyu\nIKENAI TAIYOU",
+      "bbox": {
+        "x": 0.2612,
+        "y": 0.6176,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nAruran, Ririmu & Lain\nMIXED NUTS",
+      "bbox": {
+        "x": 0.5006,
+        "y": 0.6176,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nKaela\nPHOENIX",
+      "bbox": {
+        "x": 0.74,
+        "y": 0.6176,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nRoboco\nLITTLE BIT",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.7105,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nIzuru, Astel, Miyabi & Temma\nMAGIC WORD ORCHESTRA",
+      "bbox": {
+        "x": 0.2612,
+        "y": 0.7105,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nUMISEA\nIT COMES RYUUU AND IT GOES KYUUU",
+      "bbox": {
+        "x": 0.5006,
+        "y": 0.7105,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nIRyS\nONE STEP AT A TIME",
+      "bbox": {
+        "x": 0.74,
+        "y": 0.7105,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nSora\nSORA NO TOKI",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.8034,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nhololive IDOL PROJECT\nSHINY SMILY STORY (2022 VER.)",
+      "bbox": {
+        "x": 0.2612,
+        "y": 0.8034,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nOkayu\nDOKUHAI SWALLOW",
+      "bbox": {
+        "x": 0.5006,
+        "y": 0.8034,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nIRyS\nGRAVITY",
+      "bbox": {
+        "x": 0.74,
+        "y": 0.8034,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nMumei\nDAN DAN CHIKAKU NARU",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.8963,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nIna & Nabi\nSUMMER TIME",
+      "bbox": {
+        "x": 0.2612,
+        "y": 0.8963,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nSora & AZKi\nHARMONIA",
+      "bbox": {
+        "x": 0.5006,
+        "y": 0.8963,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nAqua\nINTERNET OVERDOSE",
+      "bbox": {
+        "x": 0.74,
+        "y": 0.8963,
+        "width": 0.2381,
+        "height": 0.0916
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/h9aba3lkaqn91.png",
+    "gifFrame": null,
+    "confidence": 85
+  }
+}

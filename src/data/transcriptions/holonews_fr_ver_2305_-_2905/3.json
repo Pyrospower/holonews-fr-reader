@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2305_-_2905",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Sakamata Chloe",
+      "bbox": {
+        "x": 0.063,
+        "y": 0.018,
+        "width": 0.864,
+        "height": 0.431
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Chloe a passé des appels en stream pour son anniversaire. Ses aînées l’ont couverte d’éloges et de cadeaux, dont le chapeau de Marine et les roses de Matsuri, à sa grande joie. Mais il y a eu un rebondissement inattendu; ses camarades d’holoX l’ont félicitée d’un ton impassible, en cherchant leurs mots intentionnellement comme si elles lisaient un script, avant de disparaître.",
+      "bbox": {
+        "x": 0.0683,
+        "y": 0.5031,
+        "width": 0.3322,
+        "height": 0.2076
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À cette occasion, Chloe a révélé son nouveau décor sous la mer. Il est lumineux, coloré, et surtout, propre. Elle était remplie de coussins, de peluches et d'autres souvenirs. Elle a aussi révélé une nouvelle mascotte nommée Inu : c’est une orque coincée dans une bouée.",
+      "bbox": {
+        "x": 0.4261,
+        "y": 0.5035,
+        "width": 0.2561,
+        "height": 0.1879
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Alors qu'elle mettait fin à son stream, elle a reçu un message privé mystérieux, avec en pièce jointe une vidéo étrange. Chloe, hypnotisée par cette vidéo, a retiré sa capuche, révélant ses longs cheveux lisses, puis sa veste. Enfin, elle a fait un karaoké et révélé le set de produits dérivés pour son anniversaire :",
+      "bbox": {
+        "x": 0.0672,
+        "y": 0.7292,
+        "width": 0.3317,
+        "height": 0.1593
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un diorama en acrylique avec une illustration de Parsley",
+      "bbox": {
+        "x": 0.4161,
+        "y": 0.7296,
+        "width": 0.2617,
+        "height": 0.0428
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un bracelet avec trois parties rotatives",
+      "bbox": {
+        "x": 0.4161,
+        "y": 0.7724,
+        "width": 0.235,
+        "height": 0.0289
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une breloque en forme de collier ras-de-cou pour décorer son sac",
+      "bbox": {
+        "x": 0.4161,
+        "y": 0.8005,
+        "width": 0.2494,
+        "height": 0.0401
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un ensemble d’enregistrements situationnel : « Cette plage est à nous ! »",
+      "bbox": {
+        "x": 0.4161,
+        "y": 0.8438,
+        "width": 0.26,
+        "height": 0.0544
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les bonus pour l'achat de l'ensemble complet sont une carte postale avec un autographe estampillé, un message manuscrit de Chloe et un pack de voix « Dans un train au crépuscule »",
+      "bbox": {
+        "x": 0.0683,
+        "y": 0.9228,
+        "width": 0.6178,
+        "height": 0.0467
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/zanfu8kpo1391.gif",
+    "gifFrame": 67,
+    "confidence": 92
+  }
+}

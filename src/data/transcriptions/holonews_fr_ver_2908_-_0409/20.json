@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 20,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.0306,
+        "y": 0.0243,
+        "width": 0.4406,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 6 septembre: Anniversaire de Kurokami\n• 7 septembre: 5e anniversaire des débuts de Sora et un concert en direct\n• 8 septembre: 3e anniversaire des débuts d’Aruran\n• 8 septembre: Anniversaire de Botan\n• 9 septembre: Anniversaire de Reine\n• 10 septembre: Annonce spéciale d’Area15\n• 12-13 septembre: Les 2 ans d’holoMyth",
+      "bbox": {
+        "x": 0.0563,
+        "y": 0.1046,
+        "width": 0.3894,
+        "height": 0.3199
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.6737,
+        "y": 0.0278,
+        "width": 0.1531,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "Chloe 900k\nAltare 150k\nLui 600k\nChoco 900k\nMiyabi 130k",
+      "bbox": {
+        "x": 0.6406,
+        "y": 0.2088,
+        "width": 0.0706,
+        "height": 0.3012
+      }
+    },
+    {
+      "type": "other",
+      "text": "Koyori 700k\nKobo 1,4M\nAstel 210k\nFuma 80k\nVesper 150k",
+      "bbox": {
+        "x": 0.845,
+        "y": 0.2088,
+        "width": 0.0781,
+        "height": 0.3012
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.6649,
+        "width": 0.2225,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.6654,
+        "width": 0.5844,
+        "height": 0.1931
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0575,
+        "y": 0.8737,
+        "width": 0.2863,
+        "height": 0.0386
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lcf2saokaqn91.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

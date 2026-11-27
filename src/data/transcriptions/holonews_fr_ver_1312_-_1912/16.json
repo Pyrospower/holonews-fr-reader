@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 16,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "DIVERS",
+      "bbox": {
+        "x": 0.155,
+        "y": 0.114,
+        "width": 0.219,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "other",
+      "text": "SPOTLIGHT vol.2\n2022.1.26 RELEASE",
+      "bbox": {
+        "x": 0.278,
+        "y": 0.177,
+        "width": 0.213,
+        "height": 0.048
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru, Rushia et Noel sont présentes sur l’album de compilation de reprises musicales de VTubeurs, SPOTLIGHT vol. 2. L’album de deux disques sera disponible à la vente à partir du 26 janvier.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2843,
+        "width": 0.4156,
+        "height": 0.0734
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Korone a invité Botan à dîner, poussant cette dernière à reprogrammer son stream Pokémon. Towa, qui faisait également partie du dîner, s'est faite taquiner par Korone et Botan qui ont accidentellement oublié de la mentionner dans leurs tweets. Botan s'est même rendue chez Korone par la suite, où elles ont bien discuté.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.4957,
+        "width": 0.4256,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame et Botan ont fait un voyage à la préfecture d’Akiba, région réputée pour ses sources chaudes. Durant le trajet en train, notre mouton a pris les montagnes enneigées pour le mont Fuji, qui se situait en réalité dans la direction opposée. Entre un ragoût et l’exotique fugu (poisson-globe), les deux amies se sont régalées ensemble. Elles ont ramené des souvenirs avec elles, et Shishiron a offert à Lamy une bouteille de Takashimizu médaillée d’or.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.6845,
+        "width": 0.4281,
+        "height": 0.1988
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les illustrations de Miku Hatsune réalisées par Ina seront utilisées pour la promotion d’un nouveau sac à dos. Dans la doublure de la pochette avant, on peut trouver une silhouette également dessinée par Ina.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2843,
+        "width": 0.4269,
+        "height": 0.0734
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Tous les produits dérivés de HOLOSTARS 1st ACT sont à nouveau disponibles ! Ils comprennent un bracelet élastique, un sac en tissu, une couverture, des figurines acryliques et des badges. Cependant, certains articles ne sont vendus qu'en quantité limitée. Les ventes s'étendront du 18 décembre 2021 au 7 janvier 2022. De plus, les articles qui étaient vendus en ensemble peuvent maintenant être achetés individuellement.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.5022,
+        "width": 0.4275,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• T-shirt Concert holostars - 4 000 ¥\n• Lampe de poche - 4 000 ¥\n• Serviette Concert holostars - 2 500 ¥",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.65,
+        "width": 0.357,
+        "height": 0.043
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bae a organisé un stream leçons de dessin intitulé « Drawing 101 » (« le dessin pour les nuls ») avec Ina, où elle a appris à dessiner des chibi pour la modique somme de 549,99 dollars. Quelle affaire !",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8372,
+        "width": 0.4219,
+        "height": 0.0712
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/youn1arbop881.png",
+    "gifFrame": null,
+    "confidence": 80
+  }
+}

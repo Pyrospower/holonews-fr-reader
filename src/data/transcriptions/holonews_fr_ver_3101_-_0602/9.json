@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.1127,
+        "y": 0.0404,
+        "width": 0.3091,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan & Lamy",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.2134,
+        "width": 0.3145,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy et Shishiron ont toutes deux publié une vidéo de leur prestation en direct durant le concert VARK : « Los!Los!Los! » d’Aoi Yuuki pour Botan, « Connect » de ClariS pour Lamy.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2079,
+        "width": 0.42,
+        "height": 0.1259
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.1618,
+        "y": 0.4735,
+        "width": 0.1291,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bien que consciente que l’ennemi se situait juste en face d’elle, Lamy a quand même été prise par surprise durant son dernier stream sur Breath of the Wild. Elle est parvenue jusqu’aux montagnes enneigées, où elle cherchera des baleines durant son prochain stream.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5156,
+        "width": 0.4131,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.1618,
+        "y": 0.7298,
+        "width": 0.1127,
+        "height": 0.0253
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene a joué au bourreau des cœurs cette semaine lors de deux collaborations sur APEX. La première était avec Korone, en faisant également leur première collab ensemble officielle. Les deux amies se sont beaucoup amusées, ont fait de drôles de voix et sont même parvenues à remporter une partie. La seconde collaboration était avec La+ et Rushia. Dérobant le cœur de ses amies, Nene les a vues s’affronter pour obtenir ses faveurs, chacune lui offrant des objets pour tenter de gagner son affection. Après son stream karaoké, Nene a indiqué qu’elle avait proposé à Aqua de faire une collaboration avec elle sur APEX.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.7713,
+        "width": 0.4219,
+        "height": 0.1922
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.2121,
+        "width": 0.1382,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Jour 4 sur RAFT : Shishiron est parvenue à améliorer significativement ses conditions de vie, transformant ce qui n’était autrefois qu’une simple planche de bois en une véritable forteresse flottante. Grâce à son équipement de plongée flambant neuf, les excursions sous-marines de longue durée sont devenues une balade de santé. Les requins, anciennement prédateurs, ont été relégués au rang de proies. La fabrication d’un arc et des flèches lui a ouvert la possibilité de chasser des créatures terrestres et aériennes. La construction d’antennes et d’un radar a permis d’étendre encore davantage le 2e étage de son radeau. Avec pour projet l’exploration de deux bâtiments abandonnés, Botan continuera l’histoire un autre jour.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2509,
+        "width": 0.4256,
+        "height": 0.2656
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.7298,
+        "width": 0.1309,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un stream dédié, Polka est revenue en détail sur son concert d’anniversaire. Elle a expliqué ses objectifs, parlé du fait qu’aucun membre n’était au courant pour sa partie en solo, et avoué que l’événement avait dépassé ses attentes. En plus de cela, elle a dévoilé un extrait de sa nouvelle chanson originale, montré ses cadeaux d’anniversaire (un casque audio de DJ) et publié une vidéo de la prestation sur « Adabana Necromancy » réalisée par le groupe durant le concert.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7726,
+        "width": 0.4213,
+        "height": 0.1923
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/x3i8kifs4uh81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

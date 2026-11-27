@@ -108,7 +108,7 @@ for (const issue of issues) {
       `Écriture du fichier ${contentFileName}... (${issues.indexOf(issue) + 1}/${issues.length})`,
     );
     await Bun.write(
-      `./src/content/issues/${contentFileName}`,
+      `./src/data/issues/${contentFileName}`,
       `---
 title: "${issue?.title}"
 date: "${issue?.createdAt}"

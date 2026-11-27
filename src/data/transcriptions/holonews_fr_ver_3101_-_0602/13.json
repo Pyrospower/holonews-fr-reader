@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holo ID",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.0651,
+        "width": 0.2088,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.2399,
+        "width": 0.16,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moona a stream Age of Empires II et a précisé que c’était son premier jeu de stratégie. En live, elle a joué en un contre un face à l’ordinateur en difficulté facile pour sa première partie et en mode skirmish.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2826,
+        "width": 0.4063,
+        "height": 0.092
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Confiante après avoir fini sa première partie, elle a voulu partir en multijoueur contre ces spectateurs. Cependant, elle a décidé de le faire pour un prochain stream, afin d’avoir l’autorisation de son manager pour pouvoir jouer avec son tchat.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3898,
+        "width": 0.4213,
+        "height": 0.0959
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De ce fait, elle a joué en 2 contre 2 avec l'ordinateur en difficulté difficile. À la grande surprise de Moona, elle a trouvé que le jeu avait une carte de l'Indonésie. Elle a donc immédiatement choisi de jouer sur cette carte.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.4974,
+        "width": 0.425,
+        "height": 0.0924
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au début de sa partie, Moona a utilisé son expérience sur ces précédentes parties pour collecter des ressources afin de construire rapidement sa base. Après ça, elle a réussi à sortir victorieuse de sa partie contre IA difficile.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.605,
+        "width": 0.4256,
+        "height": 0.0924
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moona a présenté sa nouvelle carte son : GoXLR. Elle a montré des effets comme la réverbération ou bien encore l’autotune, qu’elle peut faire grâce à sa nouvelle carte son. Elle a dit que cela lui a coûté 8 millions de roupies, soit environ 487 € . La qualité audio du stream est nettement meilleure et ses fans sont impatients d’entendre le prochain stream karaoké.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.7266,
+        "width": 0.4269,
+        "height": 0.1732
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.2374,
+        "width": 0.1025,
+        "height": 0.0352
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a supprimé ses fichiers de sauvegarde en plein milieu d’une chute qui allait la ramener au début du jeu. Pour se justifier, Ollie déclare qu’elle a « fini le jeu » et qu’elle ne voulait plus jamais jouer à Jump King. Elle a ensuite fait un stream lecture de Super Chats mais son modèle était énervé. Ironiquement, le stream s'appelait « À partir de maintenant, on avance ! »",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2799,
+        "width": 0.425,
+        "height": 0.1359
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloID",
+      "bbox": {
+        "x": 0.6313,
+        "y": 0.5516,
+        "width": 0.155,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les membres d’hololive ID ont commencé l’un des plus gros projets sur leur serveur Minecraft, un gigantesque navire sur l’eau près du point d’apparition du monde, pour décorer les portails menant aux serveurs JP et EN. Quant au stream, celui-ci a été chaotique, notamment quand Moona avait le dos tourné, les autres membres en profitaient pour faire autre chose. Ollie a été malmenée, Reine a écrit des fanfictions inappropriées et plus encore. Deux heures plus tard, elles ont pu finir la maquette du navire. Elles ont donc décidé de faire un tour du serveur, en admirant les constructions faites par Moona, Ollie et Risu hors-stream. Le plus intéressant dans cette partie est quand elles étaient dans leur gigantesque métro : les filles ont tenté de faire le doublage des personnages de la fiction de Reine, un bébé piglin a essayé de se faire par ces dernières et les a suivies jusqu'à leurs bases.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.5985,
+        "width": 0.4263,
+        "height": 0.2951
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/p6avthfs4uh81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLO ID",
+      "bbox": {
+        "x": 0.15,
+        "y": 0.04,
+        "width": 0.233,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "other",
+      "text": "holoID Week 2021",
+      "bbox": {
+        "x": 0.093,
+        "y": 0.118,
+        "width": 0.347,
+        "height": 0.061
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hololive ID a lancé un événement pour célébrer la fin de 2021. Intitulé holoID Week 2021 et ayant pour hashtag #holoIDWeek2021, il s’est ouvert sur un stream de Moona et d’Anya sur la chaîne principale d’holoID.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.203,
+        "width": 0.424,
+        "height": 0.07
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À partir de l’ouverture de l’événement, chacun des membres d’holoID va organiser un stream chaque jour du 18 décembre jusqu’au 24 décembre.",
+      "bbox": {
+        "x": 0.5169,
+        "y": 0.0972,
+        "width": 0.4081,
+        "height": 0.0538
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "18 : HoloID ch. - Ouverture\n19 : Anya - Radio matinale\n20 : Iofi - Stream de dessin\n21 : Moona - Karaoké : Édition Hololive\n22 : Reine - Reine - Edition spéciale de Reine's Classroom\n23 : Risu - Édition Spéciale de VS Risu\n24 : Ollie - Stream de cuisine",
+      "bbox": {
+        "x": 0.517,
+        "y": 0.169,
+        "width": 0.416,
+        "height": 0.113
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOMYTH",
+      "bbox": {
+        "x": 0.091,
+        "y": 0.313,
+        "width": 0.344,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara & Kronii",
+      "bbox": {
+        "x": 0.187,
+        "y": 0.487,
+        "width": 0.286,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kiara a eu son premier stream en tête-à-tête avec Kronii en jouant à Diablo II: Resurrected. Elle a mis le paquet pour taquiner Kronii en alternant entre drague et railleries. Kiara a tenté de parler Coréen et d’apprendre de Kronii. Elle lui a aussi enseigné un peu d’Allemand et l’a invitée à faire la bête à deux dos. Elles ont beaucoup parlé pendant qu’elles jouaient et sont tombées d’accord sur le fait que le jeu est bien plus amusant lors d’une collab. Finalement, Kiara a conclu que Diablo est un jeu étonnamment agréable à jouer en collab, et elles comptent donc rejouer ensemble à l’avenir.",
+      "bbox": {
+        "x": 0.048,
+        "y": 0.525,
+        "width": 0.425,
+        "height": 0.205
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.485,
+        "width": 0.073,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina a fait un stream ASMR pendant qu’elle rangeait sa chambre. Elle a amassé des tasses, des couverts, et des assiettes car sa famille commençait à en manquer dans la cuisine. Elle a jeté une tonne de canettes vides, et a entassé des cartons et des livres avant de pouvoir enfin apercevoir le sol. Elle a également fait la découverte de trésors cachés sur son bureau tels qu’une bouteille d’eau, un iPad et une flûte à bec. Elle a clôturé le stream avec un passage d’aspirateur pour purifier nos tympans.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.525,
+        "width": 0.424,
+        "height": 0.205
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gura",
+      "bbox": {
+        "x": 0.051,
+        "y": 0.772,
+        "width": 0.109,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Arona était si adorable que Gura a failli s’évanouir lorsqu’elle l’a vue pour la première fois lors de son stream sponsorisé sur Blue Archive. Tout en rougissant et tapotant Arona, Gura s’est appropriée son adorable « arere », le mettant de côté pour un usage futur. Notre requin s’est ensuite mise à tomber amoureuse de la plupart des autres personnages de Blue Archive. Un \"trop mignoooonne\" venant du fond du cœur à été accordé à Sora, la marchande.",
+      "bbox": {
+        "x": 0.048,
+        "y": 0.811,
+        "width": 0.407,
+        "height": 0.155
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/bdhhvxqbop881.png",
+    "gifFrame": null,
+    "confidence": 82
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 16,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Divers",
+      "bbox": {
+        "x": 0.4369,
+        "y": 0.0169,
+        "width": 0.1263,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "heading",
+      "text": "VSaikyou S4",
+      "bbox": {
+        "x": 0.1669,
+        "y": 0.1793,
+        "width": 0.1969,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shibuya Hal, organisateur du tournoi Vtuber Saikyou S4 Apex, a annoncé la fin du recrutement des 20 équipes participantes. Les participants sont Astel, Roberu, Towa, Matsuri, Suisei et Aqua.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2209,
+        "width": 0.3769,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel, Roberu et Matsuri joueront dans des équipes différentes avec des vtubers non-hololive. En revanche, Tova, Suisei et Aqua se sont retrouvés dans la même équipe. Aqua a reçu un total de 10 points ! Cette annonce a été une énorme surprise, car il s'agit du premier tournoi Apex pour Akwa et Suisei.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.3095,
+        "width": 0.3838,
+        "height": 0.1141
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La grille des participants sera formée du 11 au 15 avril, et une fête pré-tournoi aura lieu le 16 avril. L'événement principal débutera le 17 avril. N'oubliez pas de partager votre soutien et bonne chance !",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.4423,
+        "width": 0.3806,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Live2D 3.0",
+      "bbox": {
+        "x": 0.1669,
+        "y": 0.6819,
+        "width": 0.1594,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les modèles Live2D d'hololive sont mis à jour à la version 3.0 ! Cette annonce a été faite à la fin de la diffusion du deuxième jour de la SUPER EXPO. On nous a montré des modèles de filles de la première génération avec de nouvelles fonctionnalités : mouvements des mains sur les manettes de jeu ou sur la souris et le clavier. Mais attendez, ce n'est pas tout ! La mise à jour de la version 3.0 comprend un ensemble d'émotions plus vivantes, comme le visage en colère de Mel, les pleurs touchants de Fubuki et les yeux adorablement brillants d'Aki. Pas encore de date pour la mise à jour, mais c'est pour bientôt !",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.717,
+        "width": 0.39,
+        "height": 0.2322
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.1827,
+        "width": 0.1319,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une nouvelle chanson du projet IDOL d'hololive, intitulée « Prism Melody », sera incluse dans le jeu iOS et Android Tatsujin Plus : Shinkyoku Tori Houdai ! La sortie du jeu est prévue pour le 31 mars.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2183,
+        "width": 0.3856,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Yagoo",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.4362,
+        "width": 0.095,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après le troisième HoloFest, Yagoo a exprimé sur Twitter sa fierté de la croissance d'Hololive et sa gratitude envers les fans pour leur soutien continu.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.4722,
+        "width": 0.3706,
+        "height": 0.0582
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Statue de Gura",
+      "bbox": {
+        "x": 0.6319,
+        "y": 0.5968,
+        "width": 0.2319,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "COVER a annoncé sur Twitter que la statue grandeur nature de Gura, exposée lors du troisième festival, sera mise aux enchères et que les recettes seront reversées à une œuvre de charité. Une version à l'échelle 1:7 sera disponible pour ceux qui souhaitent acheter un exemplaire plus petit. Plus de détails seront révélés à l'avenir.",
+      "bbox": {
+        "x": 0.5413,
+        "y": 0.6328,
+        "width": 0.38,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holoearth",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.7982,
+        "width": 0.1581,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À partir du 14 mars, vous pouvez vous préinscrire pour obtenir un compte sur Holoearth, le projet de métacommunauté Hololive. Les comptes Twitter, Google ou Apple ID peuvent être utilisés pour s'inscrire et accéder au lobby, où vous pouvez communiquer avec d'autres personnes par des messages et des autocollants. Le client du jeu n'est pour l'instant disponible qu'en japonais, tandis qu'une version anglaise est en cours de développement. Les tests ouverts se dérouleront jusqu'au 25 mars.",
+      "bbox": {
+        "x": 0.53,
+        "y": 0.8346,
+        "width": 0.4038,
+        "height": 0.1484
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/l8ljjk61s5q81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

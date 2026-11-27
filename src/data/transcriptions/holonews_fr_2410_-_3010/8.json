@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 8,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1394,
+        "y": 0.2105,
+        "width": 0.1119,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei a posté sur YouTube un court-métrage dans lequel on la voit aller dire « Un bonbon ou un sort » vers le public en portant un chapeau de sorcière. On peut entendre sa chanson originale « Starry Jet » jouée en fond sonore tandis qu'elle lève silencieusement un couteau comme un indice de son « sort ». Une vraie Suicopathe.",
+      "bbox": {
+        "x": 0.0388,
+        "y": 0.2491,
+        "width": 0.4463,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.117,
+        "y": 0.353,
+        "width": 0.1,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après un stream, le tchat de Miko s'est demandé si elle était même capable de prendre une voix innocente et immaculée. Mais lorsque Miko a fait de son mieux pour faire une voix correcte, le tchat a maladroitement demandé s’il s’agissait vraiment d’elle. Plus tard, quelqu'un a remarqué que sa « voix innocente » ressemblait beaucoup à celle de ses débuts.",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.4006,
+        "width": 0.4463,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1188,
+        "y": 0.5247,
+        "width": 0.2037,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dès le début de son stream, Haachama a déclaré une guerre culinaire à Koyori en la taquinant sur la façon dont celle-ci a fait fondre la spatule à riz pendant la cuisson. Haachama a ajouté que Koyori devrait apprendre à cuisiner correctement avec elle. En revoyant sa précédente vidéo de préparation de ramens froids, à sa troisième tentative, elle a encore une fois taquiné Koyori sur la façon dont elle peut cuire des œufs correctement ??!!",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.576,
+        "width": 0.4456,
+        "height": 0.1141
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.612,
+        "y": 0.155,
+        "width": 0.09,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La génération 0 d'hololive composée de Sora, AZKi, Roboco et Miko a organisé une collab 3D pour Halloween où elles ont chanté et joué ensemble ! Malheureusement, Suisei n'a pas pu venir car elle est toujours en pause. Ensemble, elles ont chanté « Vampire », « Crazy Party Night » et « Mrs. Pumpkin's Funny Dream » dans un mini concert 3D avec un caméo d'Ankimo avant de passer à la partie jeux. Elles ont ensuite joué au Taiko et à un quiz Chroma key où Miko a identifié Suisei rien qu'avec ses jambes. De véritables partenaires commerciaux.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.1949,
+        "width": 0.4463,
+        "height": 0.1428
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.5563,
+        "y": 0.4809,
+        "width": 0.1631,
+        "height": 0.0326
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre amie renarde préférée Fubuki a atteint deux millions d'abonnés ! Comme on pouvait s'y attendre de sa part, malgré son projet initial d'organiser un stream karaoké d'endurance, elle a rapidement atteint son objectif de deux millions d'abonnés après la première chanson « Hozukibiyori ». En conséquence, les Sukon-bu l'ont trollée en se désabonnant dans le but de l'inciter à chanter davantage. Fubuki a fait semblant de pleurer et a menacé en plaisantant de mettre fin au stream puisqu'elle n'avait pas réussi à atteindre son objectif, ce qui a poussé les Sukon-bu à se réabonner immédiatement. En guise de remerciement, Shirakami a également chanté « KONKON Beats », « Fansa », « S'il Vous President », « Darling Dance », « Sugar Song » et « Bitter Step » avec un caméo surprise de notre reine Kurokami-sama pour la dernière chanson. Félicitations Fubuki !",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.5213,
+        "width": 0.4456,
+        "height": 0.2183
+      }
+    },
+    {
+      "type": "heading",
+      "text": "AkiRose",
+      "bbox": {
+        "x": 0.5875,
+        "y": 0.7552,
+        "width": 0.1581,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Même après avoir atteint la zone sans dette dans Splatoon 3 la saison dernière, Akirose a décidé qu'elle n'en avait pas assez et se bat à nouveau avec acharnement au rang S+. L'échec n'est pas une option.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.7995,
+        "width": 0.445,
+        "height": 0.0647
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/6yz6cz56o22a1.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

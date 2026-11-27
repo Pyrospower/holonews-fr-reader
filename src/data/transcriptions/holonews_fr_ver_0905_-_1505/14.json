@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 14,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Divers",
+      "bbox": {
+        "x": 0.4363,
+        "y": 0.0191,
+        "width": 0.1256,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.156,
+        "y": 0.187,
+        "width": 0.075,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 12 mai, A-chan a interviewé Calli avant son prochain concert solo, New Underworld Order, et la sortie de son premier EP avec un label, SHINIGAMI NOTE. Les questions portaient sur sa carrière et ses sources d'inspiration musicale. Calli a mentionné qu'elle a commencé à rapper grâce à TOPHAMHAT-KYO du duo FAKE TYPE, qui a produit la chanson de Korone, « Doggy god's street ». Elle nous a dit ce que nous pouvions attendre du mini-album et nous a également donné un aperçu du clip de l'une des chansons, « Mera Mera ». Le producteur de la chanson n'a pas encore été révélé. Plus tard, elles ont parlé du concert en solo. New Underworld Order sera un concert plus « expérimental », revenant aux racines de Calli.",
+      "bbox": {
+        "x": 0.0613,
+        "y": 0.2257,
+        "width": 0.42,
+        "height": 0.1797
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le concert aura lieu au Toyosu PIT le 21 juillet JST, avec une diffusion en pay-per-view sur SPWN. Les billets de salle (7 000 ¥) sont mis en jeu uniquement, les inscriptions pour le premier tour étant ouvertes jusqu'à 23h59 le 19 mai. Les billets pour la diffusion sur SPWN coûtent 5 000 ¥ et leur nombre n'est pas limité. Les archives seront disponibles jusqu'au 21 août à 23h59. Des produits dérivés du concert ont également été dévoilés : un T-shirt (4 500 ¥), un bâton lumineux en acrylique (3 000 ¥) et une serviette en PVC (3 000 ¥). Le kit complet (10 500 ¥) comprend tous ces éléments ainsi que trois autocollants. Les ventes à l'étranger commenceront le 15 juin ! Le site web promotionnel est également disponible en anglais et en japonais. L'illustration principale du site a été créée par l'illustratrice de Calli, Yukisame (@y_k_sme).",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.0803,
+        "width": 0.4088,
+        "height": 0.2305
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4081,
+        "y": 0.4227,
+        "width": 0.185,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.735,
+        "y": 0.426,
+        "width": 0.212,
+        "height": 0.018
+      }
+    },
+    {
+      "type": "other",
+      "text": "unpacking | SONIC ADVENTURE 2\nSUPER MARIO GALAXY 2 | PIKMIN 3 DELUXE\nSTREET FIGHTER II | 7 DAYS TO END WITH YOU\nPOWER WASH SIMULATOR | PROPNIGHT\nLEGO STAR WARS THE SKYWALKER SAGA | LOST EGG 2 — Be together\nVALKYRIE CONNECT | HOLOSTARS vs UPROAR!! — OVERWATCH 2\nPHOGS! | GROUNDED",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.467,
+        "width": 0.726,
+        "height": 0.508
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4wc5t6cndn191.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.0891,
+        "y": 0.0442,
+        "width": 0.3582,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holostars",
+      "bbox": {
+        "x": 0.1655,
+        "y": 0.2159,
+        "width": 0.2291,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les membres d’holostars ont annoncé la sortie de produits dérivés officiels pour célébrer leur collaboration avec Converse. Ils ont dévoilé 9 modèles de t-shirts différents avec une étoile représentant chaque membre d’holostars. Chaque t-shirt est vendu au prix de 5 280 ¥ et ne sera disponible que par précommande pour une durée limitée. La précommande a commencé le 4 février à 10h00 JST et se terminera le 13 février à 23h59 JST. La livraison est prévue pour la fin du mois de mai. Veuillez noter que les commandes dans la boutique en ligne officielle sont limitées à 5 articles par personne.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.1745,
+        "width": 0.4275,
+        "height": 0.3264
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Izuru, Temma, Roberu",
+      "bbox": {
+        "x": 0.1575,
+        "y": 0.6254,
+        "width": 0.33,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Izuru, Roberu et Temma (ou « le groupe de survie ») sont de retour sur RAFT. Cette fois, ils voulaient améliorer leur radeau. Izuru a mentionné qu'il voulait avoir des murs pour avoir sa propre chambre privée. Pour réaliser le souhait d'Izuru, Temma a appris à construire des murs, des lumières, des supports et des échelles en appuyant sur le bouton droit de la souris tout en tenant le marteau. Cela a rendu Izuru si heureux qu'il a réagi comme un enfant. Cette découverte a entraîné une amélioration exponentielle de son radeau et de son expérience de survie. D'une certaine manière, leurs rôles avaient été inconsciemment établis plus en aval : Tenma le bâtisseur, Izuru le chasseur et Roberu la femme au foyer.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.6602,
+        "width": 0.4263,
+        "height": 0.2882
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.6455,
+        "y": 0.2197,
+        "width": 0.16,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Malheureusement, COVER a confirmé que Miyabi, d'holostars, a été testé positif au COVID. L'état de Miyabi est stable et il recevra un traitement médical à domicile. Miyabi a également déclaré sur Twitter qu'il avait été prudent et avait pris des mesures suffisantes. Comme il avait de la fièvre la veille, il est allé faire un test et le résultat était positif. Miyabi a promis de revenir quand il ira mieux. N'oubliez pas de prier et d'envoyer des vœux à notre fleur bien-aimée.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.2604,
+        "width": 0.4263,
+        "height": 0.1888
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holostars",
+      "bbox": {
+        "x": 0.6436,
+        "y": 0.6376,
+        "width": 0.2273,
+        "height": 0.0253
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rendez cette année plus douce avec les nouveaux produits dérivés holostars de la Saint Valentin disponible dans la boutique holoPro et sur GeekJack. Vous pouvez acheter le set « Melty Chocolate », qui comprend une figurine en acrylique de l'un des neuf membres d'holostars, un étui en vinyle et un enregistrement vocal. Vous pouvez également acheter un badge en forme de cœur avec un membre aléatoire d'holostars. La marchandise pourra être commandée à partir du 7 février.",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.6098,
+        "width": 0.4088,
+        "height": 0.2786
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ei221dfs4uh81.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

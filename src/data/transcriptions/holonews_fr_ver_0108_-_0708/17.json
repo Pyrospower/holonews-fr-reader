@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MISC",
+      "bbox": {
+        "x": 0.445,
+        "y": 0.026,
+        "width": 0.12,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kim Hee-Chul",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.215,
+        "width": 0.24,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kim Hee-Chul, un membre du groupe d'idoles coréens Super Junior, a porté un t-shirt de Botan en direct à la télévision. Hee-Chul est un SSRB depuis l’année dernière, il a même nommé un de ses personnages sur World of Warcraft d’après LaLion",
+      "bbox": {
+        "x": 0.4388,
+        "y": 0.135,
+        "width": 0.4888,
+        "height": 0.1984
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4081,
+        "y": 0.424,
+        "width": 0.185,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.4275,
+        "width": 0.2094,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "other",
+      "text": "Euro Truck Simulator 2\nLIVE A LIVE\nTUNIC\nTrails in the Sky\nPersona 4 Golden\nFortnite\nPUNI PUNI",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.467,
+        "width": 0.261,
+        "height": 0.51
+      }
+    },
+    {
+      "type": "other",
+      "text": "Alice Fiction\nMega Man X\nThe Legend of Zelda: Majora’s Mask\nSonic Origins\nProject Zomboid\nLeft 4 Dead 2\nStray",
+      "bbox": {
+        "x": 0.655,
+        "y": 0.468,
+        "width": 0.264,
+        "height": 0.511
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/po7s6z56lwh91.png",
+    "gifFrame": null,
+    "confidence": 81
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projet des fans",
+      "bbox": {
+        "x": 0.355,
+        "y": 0.0256,
+        "width": 0.29,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "other",
+      "text": "Preface\nThis book is written to congratulate Airani Iofifteen from Hololive Indonesia for reaching 600k .\nWe write this in Atelier Ioforia, an unofficial discord server for Iofi's fans.\nThese stories are written in a chain stories style where one person continues what another person writes.\nThank you for taking your time to check this out!",
+      "bbox": {
+        "x": 0.36,
+        "y": 0.112,
+        "width": 0.207,
+        "height": 0.084
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ioforia",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.267,
+        "width": 0.109,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour fêter les 600 000 abonnés de Iofi, Atelier loforia, le serveur Discord des fans de Iofi, a publié un recueil d'histoires courtes écrites par différents membres. Le recueil, enrichi de jolies photos et de fanarts commandés pour l'occasion, est disponible en ligne sous forme de folioscope ou peut être téléchargé au format PDF.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.305,
+        "width": 0.467,
+        "height": 0.094
+      }
+    },
+    {
+      "type": "other",
+      "text": "ATELIER IOFORIA\nPresent\nA fantasy chain short stories\nmade by Ioforia\nShort Stories\n600k subs",
+      "bbox": {
+        "x": 0.624,
+        "y": 0.083,
+        "width": 0.317,
+        "height": 0.312
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.405,
+        "y": 0.423,
+        "width": 0.19,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.733,
+        "y": 0.429,
+        "width": 0.215,
+        "height": 0.019
+      }
+    },
+    {
+      "type": "other",
+      "text": "HoloCure\nSave the Fans!\nVAMPIRE SURVIVORS\nNEON WHITE\nFIRE EMBLEM WARRIORS THREE HOPES\nパネルでポン ACTION PUZZLE GAME\nWE WERE HERE TOO\nRUST",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.466,
+        "width": 0.263,
+        "height": 0.497
+      }
+    },
+    {
+      "type": "other",
+      "text": "Hatoful Boyfriend\nSUPER MARIO BROS. 3\nDelivering HOPE\nOne yeet at a time\nMONSTER HUNTER RISE\nSUBNAUTICA\nARK FJORDUR",
+      "bbox": {
+        "x": 0.654,
+        "y": 0.466,
+        "width": 0.262,
+        "height": 0.44
+      }
+    },
+    {
+      "type": "other",
+      "text": "Cette semaine, 16 talents ont streamé ce jeu.",
+      "bbox": {
+        "x": 0.5306,
+        "y": 0.9336,
+        "width": 0.2025,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "other",
+      "text": "STRAY",
+      "bbox": {
+        "x": 0.758,
+        "y": 0.936,
+        "width": 0.086,
+        "height": 0.034
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1ufxkslo0qf91.png",
+    "gifFrame": null,
+    "confidence": 85
+  }
+}

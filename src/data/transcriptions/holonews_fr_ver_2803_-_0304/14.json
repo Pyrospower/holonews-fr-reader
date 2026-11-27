@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 14,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.4769,
+        "y": 0.0165,
+        "width": 0.0469,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Reine",
+      "bbox": {
+        "x": 0.1663,
+        "y": 0.1849,
+        "width": 0.0906,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir essayé différentes approches pendant environ trois heures et demie, Reine a atteint l'illustre « bonne fin » de Bad End Theater. Insatisfaite, elle a décidé de passer par toutes les mauvaises fin du jeu afin de les découvrir. Elle a sangloté devant la vraie fin qu'elle a atteint grâce à son dévouement.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.2201,
+        "width": 0.3894,
+        "height": 0.1141
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kaela",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.4978,
+        "width": 0.0887,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kaela est passée dans le chat de Kronii, quand cette dernière lisait les Super Chats pendant son stream Hollow Knight. Kronii ne l'a remarqué que lorsque ses fans ont dit bonjour à Kaela et elle a commencé à la chercher. Elle a répondu : « Je ne t'ai jamais quitté, Kronii-senpai uwu. » Kronii a alors gloussé, ce qui a provoqué une crise cardiaque chez Kaela dans le tchat. Plus tard, elle a tweeté : « oh. LE RIRE DE KRONII-SENPAI !!!! Je ne peux pas.... ok merci et à jamais. »",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.5321,
+        "width": 0.3931,
+        "height": 0.1762
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Zeta",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.1849,
+        "width": 0.0688,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour son premier stream sur un jeu d'horreur, Zeta a joué à Outlast 2 avec une particularité : elle mettrait fin au stream si elle criait. Bien que son tchat ait compté de nombreux cris tout au long du stream, elle a affirmé qu'il ne s'agissait pas de cris de peur mais de quelque chose qui rendait le stream plus intéressant à regarder. Le stream s'est terminé en un peu moins de deux heures, et Zeta a promis de continuer Outlast 2 à une date ultérieure.",
+      "bbox": {
+        "x": 0.5275,
+        "y": 0.2192,
+        "width": 0.4088,
+        "height": 0.1354
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Reine",
+      "bbox": {
+        "x": 0.6256,
+        "y": 0.4149,
+        "width": 0.0919,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Reine est de retour avec ses histoires sur le YABE stream. Comme elle en a l'habitude à l'heure du déjeuner, elle a parlé de nourriture et du concours culinaire où le riz frit a gagné, de son amour des sauces, des différents types de poisson, de la livraison de sushis et du fait qu'elle ne peut pas manger de mayonnaise épicée. Reine a parlé de son odorat et de sa réaction aux désodorisants, aux savons et aux lotions parfumés. Elle a raconté comment elle s'est retrouvée à l'hôpital après avoir mangé trop d'huîtres, histoire qu'elle avait déjà racontée lors de la collaboration avec holoro, ainsi que sa visite à l'hôpital pour un contrôle vendredi. Plusieurs annonces ont été faites sur le flux, notamment le nouvel emoji sponsorisé et la nouvelle couverture du trio qui sortira en avril.",
+      "bbox": {
+        "x": 0.5275,
+        "y": 0.4501,
+        "width": 0.3994,
+        "height": 0.2569
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Anya",
+      "bbox": {
+        "x": 0.15,
+        "y": 0.7665,
+        "width": 0.0825,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après plus de deux mois d'absence, Anya est revenue sur ARK pour se préparer avant une collaboration avec Mumei et Iroha. Sa première pensée en se connectant a été de féliciter sa propre maison d'être encore debout, car elle s'attendait à se réveiller au milieu de tas de décombres.",
+      "bbox": {
+        "x": 0.2563,
+        "y": 0.7478,
+        "width": 0.6831,
+        "height": 0.0551
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloH3roes",
+      "bbox": {
+        "x": 0.2744,
+        "y": 0.8746,
+        "width": 0.1869,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les Holoh3roes (la 3e génération d’holoID) ont réussi à être monétisées moins d'une semaine après leurs débuts respectifs.",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.924,
+        "width": 0.3894,
+        "height": 0.0438
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/wipg43t6qws81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2305_-_2905",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.4713,
+        "y": 0.0169,
+        "width": 0.0587,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.1788,
+        "width": 0.0781,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sana joué à un vieux, mais bon jeu, Kirby 64 : The Crystal Shards. Elle n'y avait jamais joué auparavant, mais a découvert que c'était le jeu préféré de Fauna. Au début, Sana a eu du mal à comprendre comment utiliser les capacités copiées, car elle ne cessait de les lancer accidentellement dans l'espace. Le mutant Scarfy a provoqué chez Sana un dégoût marqué. Elle a terminé le stream sur le deuxième niveau d'Aqua Star en disant que tout avait l'air très effrayant !",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.2196,
+        "width": 0.3875,
+        "height": 0.1476
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.1788,
+        "width": 0.0775,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre chère nephilim nous a dit qu'elle utilise une balance alimentaire pour peser les pâtes que MamanRyS prépare et choisir la plus grande assiette. Cela a conduit à des plaisanteries fréquentes avec MamanRyS, car IRyS s'assurait toujours que l'assiette qu'elle prenait était au moins 5 grammes plus lourde. Cependant, IRyS a admis que malgré tous ses efforts pour toujours avoir une plus grande assiette, il y a des moments où elle ne peut pas finir ses pâtes. C'est vraiment gloutonneRyS.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.2188,
+        "width": 0.3881,
+        "height": 0.161
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Misc",
+      "bbox": {
+        "x": 0.455,
+        "y": 0.4909,
+        "width": 0.0913,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "other",
+      "text": "OFFICIAL GOODS",
+      "bbox": {
+        "x": 0.3006,
+        "y": 0.5447,
+        "width": 0.1544,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "V-Carnival Goods",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.6493,
+        "width": 0.275,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les produits dérivés du V-Carnival sont maintenant en vente. L'ensemble comprend une tapisserie B2, un tableau en acrylique, des figurines acryliques des interprètes, des T-shirts V-Carnival de différentes couleurs et des petites cartes postales des interprètes avec des messages uniques. Les participantes d'hololive étaient Sora, AZKi, Suisei, Miko, Subaru, Aqua, Okayu, Watame, Nene et Calli.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.6892,
+        "width": 0.39,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shigure Ui",
+      "bbox": {
+        "x": 0.6369,
+        "y": 0.648,
+        "width": 0.17,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shigure Ui (l'illustratrice de Subaru) veut que Miko la crée comme personnage dans WWE 2K22. Dernièrement, Miko s'est amusée à créer des modèles de membres d'hololive et à les faire combattre sur le ring de la WWE. Ui a également noté que la principale raison pour laquelle elle veut être dans le groupe de combattant de Miko est qu'elle peut indirectement battre Suisei après qu'elle l'ait détruite à Tetris.",
+      "bbox": {
+        "x": 0.5419,
+        "y": 0.6892,
+        "width": 0.385,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "heading",
+      "text": "VARK",
+      "bbox": {
+        "x": 0.1694,
+        "y": 0.9041,
+        "width": 0.0919,
+        "height": 0.0156
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La série de concerts virtuels d'hololive à VARK, Cinderella Switch, est de retour ! Botan et Watame se sont associés pour un nouveau concert en VR. Toutes deux se sont déjà produites lors de cet événement. Tout le monde peut suggérer une chanson à interpréter ou un sujet de discussion. La date limite de soumission des performances est le 27 mai et celle des discussions le 11 juillet. Le concert est prévu pour le 30 juillet.",
+      "bbox": {
+        "x": 0.3038,
+        "y": 0.8754,
+        "width": 0.6288,
+        "height": 0.0803
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0zeegdjpo1391.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

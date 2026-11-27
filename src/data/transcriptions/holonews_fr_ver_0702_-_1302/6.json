@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0702_-_1302",
+  "page": 6,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLO FANTASY",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.0477,
+        "width": 0.4119,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora, Korone, Ina",
+      "bbox": {
+        "x": 0.156,
+        "y": 0.209,
+        "width": 0.327,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora, Korone et Ina ont suivi le Nintendo Direct 2022 avec leurs spectateurs ! Toutes les trois étaient très excitées par ce qui allait être révélé lors du stream. Pekora était aux anges lorsqu'elle a vu l'annonce de Mario Strikers et a dit qu'elle voulait créer Usada Japan. Pekora a également plaisanté sur le fait qu'elle devait rejoindre Smash Bros. en tant que nouveau personnage.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.246,
+        "width": 0.429,
+        "height": 0.137
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Korone, quant à elle, s'est mise à rire de façon incontrôlable lorsqu'elle a vu Kirby Voiture et n'a pas pu arrêter ses réactions de fangirl à l'annonce du DLC de Splatoon 3.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.386,
+        "width": 0.429,
+        "height": 0.06
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina a préparé un bingo avec l'aide du tchat pour marquer les jeux qui pourraient apparaître pendant la présentation. Ina a été enthousiasmée par l'annonce du DLC de Splatoon 3 et surprise par les portages de Portal et No Man's Sky.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.449,
+        "width": 0.429,
+        "height": 0.091
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.828,
+        "y": 0.206,
+        "width": 0.115,
+        "height": 0.021
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Flare, Noel, Chloe et Lui étaient réunies sur la chaîne de Flare pour jouer à Mario Party. Ils ont joué en solo mais aussi en équipe : Noel et Flare contre Lui et Chloe. Comme d'habitude sur Mario Party, cette partie était pleine de rebondissements, de rires, de cris, de victoires et de défaites, comme lorsqu'elles ont atteint des étoiles mais n'avaient pas assez de pièces pour les obtenir ou lorsqu'elles ont lutté pour gagner les mini-jeux. Finalement, c'est Lui et Chloe qui ont gagné. Cependant, lorsqu'on compare le nombre d'étoiles entre NoelFlare et LuiChloe, NoelFlare finit par gagner. En guise de punition, Lui et Chloe ont dû dire quelque chose qu'ils aiment l'un chez l'autre, Lui a déclaré que Chloe était son amie d'affaires.",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.246,
+        "width": 0.427,
+        "height": 0.278
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOFORCE",
+      "bbox": {
+        "x": 0.0906,
+        "y": 0.5777,
+        "width": 0.3475,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Luna",
+      "bbox": {
+        "x": 0.349,
+        "y": 0.761,
+        "width": 0.098,
+        "height": 0.021
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Luna a invité Subaru, Choco et Botan pour jouer à APEX. La condition était que la collaboration ne dure qu'une heure, car Luna aurait le mal des transports si elle jouait trop longtemps. Le maître des FPS, Botan, a supervisé l'entraînement des trois recrues, leur donnant des conseils et des directives pendant les matchs. Puisque Subaru et Luna sont globalement des débutantes sur APEX, il y a eu de nombreux moments mémorables. Nous avons eu Subaru qui a pris un MRVN pour un ennemi, Luna dont le jeu n'arrêtait pas de ramer et qui était heureuse chaque fois qu’elle faisait des dégâts. Il y avait aussi Subaru qui n'arrêtait pas de paniquer et de crier à chaque fois qu'elle rencontrait un ennemi, comparant ce jeu à Resident Evil, avec ses tirs partout sur son écran. Botan a alors répondu qu'elle espérait que Subaru continuerait à crier et ne changerait pas, car cela rendait les choses encore plus intéressantes.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.7964,
+        "width": 0.8713,
+        "height": 0.171
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/aqfugaoe17j81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

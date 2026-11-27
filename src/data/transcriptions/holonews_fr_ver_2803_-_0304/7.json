@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "April 1st round up",
+      "bbox": {
+        "x": 0.3175,
+        "y": 0.0161,
+        "width": 0.3631,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1669,
+        "y": 0.1788,
+        "width": 0.1081,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 1er avril, Pekora a diffusé une vidéo d'actualité dans laquelle, après une brève introduction, elle annonçait que Yagoo avait cédé la présidence d'hololive à une certaine P.kora. Après l'annonce, elle a réalisé plusieurs interviews où Watame, Shion, Polka, Marine, La+, Haato, Haachama, Okauu et Calli ont exprimé leur point de vue sur le sujet. Marine a déclaré qu'elle détestait Hololive avec P.kora comme PDG et elle a immédiatement démissionné.",
+      "bbox": {
+        "x": 0.0675,
+        "y": 0.2188,
+        "width": 0.3963,
+        "height": 0.1584
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La folie du lapin s'est arrêtée une minute plus tard lorsqu'elle a été arrêtée et emprisonnée à nouveau. Néanmoins, Pekora a défié Yagoo en duel lorsqu'elle atteindra les 2 millions d'abonnés. À l'heure actuelle, il reste moins de 100 000 abonnés.",
+      "bbox": {
+        "x": 0.0675,
+        "y": 0.3958,
+        "width": 0.3975,
+        "height": 0.0864
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roboco",
+      "bbox": {
+        "x": 0.1663,
+        "y": 0.5577,
+        "width": 0.115,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roboco a fait un stream unique pour le 1er avril ! Elle est devenue un Pinocchio dernier cri. A chaque fois qu'elle mentait, elle rétrécissait. Elle est devenue tellement petite que ses spectateurs ont proposé de la mettre dans une jarre, ce qu'elle a évidemment refusé. Elle est aussi devenue tellement petite qu'elle a maintenant -1 ans.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.5968,
+        "width": 0.3925,
+        "height": 0.1172
+      }
+    },
+    {
+      "type": "heading",
+      "text": "UPROAR!!",
+      "bbox": {
+        "x": 0.3119,
+        "y": 0.7756,
+        "width": 0.1613,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "UPROAR!! a célébré le 1er avril en changeant leur profil pour leur mascotte, leur partenaire ou quelque chose qui les représente. Fuma est devenu Kotatsu, un Tanuki ou un raton-laveur japonais; Uyu s'est transformé en Jyako, un pigeon jacobin; Gamma est devenu un pinceau, car il est un artiste de manga; et Rio s'est transformé en une des lumières qui flottent à côté de sa tête. Ils ont communiqué et se sont taquinés sur Twitter comme s'ils communiquaient avec une mascotte.",
+      "bbox": {
+        "x": 0.0669,
+        "y": 0.8121,
+        "width": 0.3938,
+        "height": 0.1632
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.64,
+        "y": 0.0959,
+        "width": 0.0769,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 1er avril, Mikodanye a enfermé Mikochi dans une pièce sombre et pris le contrôle de son compte Twitter. Elle a posté des photos de sa victime, documentant ses actions. Les fans de Mikochi, les 35P, ont chaleureusement accueilli Mikodanye et cette dernière était reconnaissante de cet amour. À un moment, elle a fait un sondage pour savoir si elle devait laisser sortir Miko ou non et les fans ont dit non. Miko a imploré la clémence et trois heures plus tard, un nouveau vote a été organisé avec le même résultat. Plus tard, Mikodanye a fait un stream où elle a expliqué ce qui se passait et a montré que Miko était en sécurité. Elle a traité Miko de cette façon parce qu'elle est elle-même enfermée dans une pièce sombre tout le temps si elle n'est pas à l'antenne. Finalement, Mikodanye a libéré Miko et lui a rendu son compte Twitter. Elle a dit qu'elle avait passé un bon moment et qu'elle nous reverra, nye.",
+      "bbox": {
+        "x": 0.5406,
+        "y": 0.1359,
+        "width": 0.3894,
+        "height": 0.2826
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.6388,
+        "y": 0.4783,
+        "width": 0.1663,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette année, pour le 1er avril, Haachama s'est faite passer pour le seul, l'unique, Yagoo ! « Yagoo » a dit que Haachama avait piraté son compte précédent. Avec son imitation, Haachama a fait passer Yagoo pour quelqu'un de bizarre en le faisant tweeter qu'il regardait Haato dormir nue et qu'il draguait la nouvelle membre de l'équipe, Harusaki Nodoka.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.5139,
+        "width": 0.3894,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.7114,
+        "width": 0.2031,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer le 1er avril, le Twitter officiel d'holostars a annoncé un jeu de simulation de rencontre appelé Tokimeki Holostars Gakuen, où vous pouvez choisir avec qui passer votre jeunesse. Au même moment, tous les membres d'holostars ont changé leurs avatars Twitter en avatars d'étudiants et ont commencé à se présenter comme s'ils étaient des étudiants. Étant étudiants, les holostars se sont bien amusées. Rikka, qui est devenu Ristuko, a reçu de nombreuses demandes en mariage de la part de fans féminins, Oga a donné des conseils pour avoir une mauvaise fin, et Izuru a simplement dormi pendant toutes les activités du 1er avril.",
+      "bbox": {
+        "x": 0.5331,
+        "y": 0.7448,
+        "width": 0.3881,
+        "height": 0.2322
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/b3tt71t6qws81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

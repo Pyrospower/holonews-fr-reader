@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holo ID",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.039,
+        "width": 0.21,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Area 15",
+      "bbox": {
+        "x": 0.278,
+        "y": 0.205,
+        "width": 0.163,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Iofi, Risu et Moona ont commencé à jouer à Sea of Thieves. Essayant au départ d'être organisées, elles ont rapidement sombré dans le chaos après avoir coulé leur propre navire. Elles ont alors commencé à parcourir les mers (percutant îles et récifs) tout en réfléchissant à un moyen de faire entrer holoro dans le jeu et d'y faire des collabs avec tout holoID. Vers la fin du stream, elles ont également découvert que plusieurs parties du jeu (comme le navire) sont grandement personnalisables, ce qui a renforcé leur dépendance au jeu.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2483,
+        "width": 0.4206,
+        "height": 0.224
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Reine & Fauna",
+      "bbox": {
+        "x": 0.171,
+        "y": 0.663,
+        "width": 0.312,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans la dernière édition de « Les cours de Reine », Reine était accompagnée de Fauna. Le but initial de cette édition était d'apprendre les termes de complétion de phrases. Fauna a commencé par demander comment dire « Let's go ! » en indonésien et s'est présentée formellement. Au cours de la leçon, Fauna a posé des questions sur les termes indonésiens relatifs aux animaux, puis elle est passée à son autre objectif, à savoir apprendre des expressions relatives aux « yandere » pour les utiliser avec les Saplings. Reine a répondu aux demandes de Fauna et lui a enseigné quelques lignes en utilisant des sketches inspirés de fanfictions qu’elle avait lues ou écrites, et a finalement conclu le cours avec un sketch sur la pêche.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7075,
+        "width": 0.4244,
+        "height": 0.2574
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holo ID",
+      "bbox": {
+        "x": 0.752,
+        "y": 0.205,
+        "width": 0.169,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La dépendance à Vampire Survivors s'est étendue à holoID cette semaine, plusieurs membres y jouant sans cesse - exclusivement hors ligne. Puis, dimanche 6 vers minuit, Risu a diffusé une courte vidéo dans laquelle elle terminait la première étape du jeu. Définitivement pas accro.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2539,
+        "width": 0.4263,
+        "height": 0.1085
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.626,
+        "y": 0.502,
+        "width": 0.154,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La semaine dernière, un cafard avait attaqué Moona pendant son stream PUBG. Cette semaine, lors d'un stream discussion, Moona a hurlé à pleins poumons en pensant que le redoutable cafard était revenu pour finir leur duel. Heureusement, ce n'était qu'une cravate de couleur foncée qui traînait par terre.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.5386,
+        "width": 0.4263,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.626,
+        "y": 0.795,
+        "width": 0.082,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant le « Lundi productif » de cette semaine (mais diffusé un mardi), Iofi a dessiné un dessin très « prude » de Lamy en maillot de bain d'école.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8338,
+        "width": 0.3994,
+        "height": 0.0582
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Iofi recherche des artistes qui sont ouverts aux commandes. N'oubliez pas de déposer votre portfolio sous son tweet de recrutement !",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.911,
+        "width": 0.4144,
+        "height": 0.0586
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/onkx9st6bdn81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

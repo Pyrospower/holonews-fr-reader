@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.4288,
+        "y": 0.0256,
+        "width": 0.1431,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.6625,
+        "y": 0.1519,
+        "width": 0.1456,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "other",
+      "text": "Laplus 800k",
+      "bbox": {
+        "x": 0.6031,
+        "y": 0.2218,
+        "width": 0.1081,
+        "height": 0.0126
+      }
+    },
+    {
+      "type": "other",
+      "text": "hololiveEN ch 500k",
+      "bbox": {
+        "x": 0.8263,
+        "y": 0.2231,
+        "width": 0.1206,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "Ollie 1,1 M",
+      "bbox": {
+        "x": 0.6031,
+        "y": 0.2847,
+        "width": 0.0938,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "other",
+      "text": "Kobo 900k",
+      "bbox": {
+        "x": 0.8306,
+        "y": 0.2847,
+        "width": 0.095,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "other",
+      "text": "Zeta 450k",
+      "bbox": {
+        "x": 0.6031,
+        "y": 0.3477,
+        "width": 0.0881,
+        "height": 0.0126
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.4306,
+        "width": 0.3925,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 6 juillet : Anniversaire de Kiara et concert en 3D\n• 11 juillet : Anniversaire des débuts d'IRyS",
+      "bbox": {
+        "x": 0.5725,
+        "y": 0.4878,
+        "width": 0.3425,
+        "height": 0.0795
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.691,
+        "width": 0.5456,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.8242,
+        "width": 0.2512,
+        "height": 0.0369
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8v8hoy635kb91.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

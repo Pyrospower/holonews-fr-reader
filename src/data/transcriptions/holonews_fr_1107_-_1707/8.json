@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 8,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.26,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.1763,
+        "width": 0.0908,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka a également reçu une mise à jour 2.0 de sa tenue d'été. Il a donné aux téléspectateurs beaucoup de fan service en zoomant de près sur son visage et en exposant sa poitrine. Pour fêter l'événement, il a joué de la guitare et chanté quelques chansons d'été comme « Ao to Natsu », « Natsu Matsuri », « Fire Flower », et « Uchiage Hanabi ».",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3844,
+        "height": 0.1033
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.4583,
+        "width": 0.0923,
+        "height": 0.0214
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka a également célébré son 1000ème jour depuis ses débuts avec un stream karaoké. Il a mentionné que 1000 jours représentaient presque 3 ans et que cela ne lui semblait pas si long. Il a remercié tout le monde pour leur soutien et a chanté des chansons comme « Eine Kleine », « Babylon », et « Summertime Record ».",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.4931,
+        "width": 0.3781,
+        "height": 0.1098
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Temma",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.7393,
+        "width": 0.12,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Temma a fait un stream discussion et a parlé de choses très intéressantes. Pendant le stream, il a envoyé un message à Uyu pour lui mettre la pression, lui disant qu'il comptait sur lui pour le prochain tournoi de Mario Kart et qu'il devait s'entraîner. Il a également fait un sketch dans lequel il se prenait pour un père de famille et trouvait diverses excuses pour expliquer pourquoi il devait streamer avec son fils.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.7786,
+        "width": 0.3956,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "YuruSTARS",
+      "bbox": {
+        "x": 0.6469,
+        "y": 0.1866,
+        "width": 0.2788,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour leur 2ème anniversaire, les YuruSTARS (Miyabi, Aruran et Temma) ont fait un Sugoroku en 3D !",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.2261,
+        "width": 0.3781,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le style typique des YuruSTARS, les trois ont beaucoup joué et se sont moqués les uns des autres en essayant de passer à travers le tableau. Ils ont relevé différents types de défis, comme compléter des puzzle, essayer de tous trouver la même réponse tout en répondant à une question, et faire un quiz de gestes. Jetez un coup d'œil à l'archive complète pour voir toutes les manigances amusantes.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2734,
+        "width": 0.375,
+        "height": 0.1163
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À la fin du stream, ils ont annoncé qu'ils allaient publier une reprise de « Kaze ni Naru » sur la chaîne de Miyabi pour célébrer leur deuxième anniversaire.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.3989,
+        "width": 0.3769,
+        "height": 0.0503
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.6308,
+        "y": 0.8985,
+        "width": 0.1523,
+        "height": 0.0224
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gamma a également terminé son dessin d'Ollie ! Il lui a fallu deux streams pour le dessiner et le colorier, et LAM-mama lui a rendu visite.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.9384,
+        "width": 0.4044,
+        "height": 0.0386
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/9uzxv265sqd91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

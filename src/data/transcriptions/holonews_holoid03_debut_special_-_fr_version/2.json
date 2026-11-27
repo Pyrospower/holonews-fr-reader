@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_holoid03_debut_special_-_fr_version",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Vestia Zeta",
+      "bbox": {
+        "x": 0.2988,
+        "y": 0.018,
+        "width": 0.3765,
+        "height": 0.1152
+      }
+    },
+    {
+      "type": "other",
+      "text": "Initialisation de la mission............ 100%",
+      "bbox": {
+        "x": 0.4224,
+        "y": 0.1609,
+        "width": 0.5329,
+        "height": 0.0163
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’agent V.7 se prépare à conquérir le monde des VTubers !",
+      "bbox": {
+        "x": 0.4224,
+        "y": 0.1855,
+        "width": 0.5176,
+        "height": 0.0408
+      }
+    },
+    {
+      "type": "other",
+      "text": "Triste",
+      "bbox": {
+        "x": 0.7918,
+        "y": 0.3243,
+        "width": 0.1271,
+        "height": 0.0294
+      }
+    },
+    {
+      "type": "other",
+      "text": "Heureuse",
+      "bbox": {
+        "x": 0.5165,
+        "y": 0.598,
+        "width": 0.2153,
+        "height": 0.031
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/m9dhlfbyvis81.gif",
+    "gifFrame": 52,
+    "confidence": 60
+  }
+}

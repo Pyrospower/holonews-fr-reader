@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.4723,
+        "y": 0.015,
+        "width": 0.0538,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "PLEASE\nUNSUBSCRIBE!!",
+      "bbox": {
+        "x": 0.0656,
+        "y": 0.0786,
+        "width": 0.4044,
+        "height": 0.0924
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.1662,
+        "y": 0.1827,
+        "width": 0.0877,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a organisé un stream karaoké dans le but de NE PAS atteindre le million d’abonnés, avec des récompenses pour chaque millier d’abonnés perdus. Elle a fait ce stream dans le but d’avoir plus de temps pour préparer son projet de célébration, et pour ne pas faire de l’ombre aux débuts de la génération 3 d’holoID, qui commençait le lendemain. En dépit de ces demandes incessantes envers les Zomrades pour se désabonner, elle atteint le palier des 1 millions, faisant d’elle la deuxième membre d’holoID et deuxième VTubeuse indonésienne à atteindre cet objectif. Tout le long du stream, elle n’a pas cessé de pleurer et de répéter qu’elle « n’a rien fait de spécial » pour mériter cela, et a dû décaler sa collaboration avec Iofi. Cependant, après avoir fini son stream, elle a exprimé sa gratitude sur Twitter, après s'être remise de ses émotions. Félicitations, Ollie !",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.2201,
+        "width": 0.3894,
+        "height": 0.3225
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.1795,
+        "width": 0.0646,
+        "height": 0.0288
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de sa session de tchat après le 3rd fes, Iofi s'est émue du fait que, contrairement à son modèle 2D, son nez est visible sur son modèle 3D ! Elle a montré une capture d'écran du concert comme preuve, bien que certaines personnes dans le tchat étaient encore sceptiques à ce sujet.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.2179,
+        "width": 0.3831,
+        "height": 0.0968
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.4487,
+        "width": 0.0646,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Iofi a redessiné les coiffures de Shion et de Kronii, transformant Shion en une princesse élégante et effrontée, et Kronii en une héroïne à queue de poney tout droit sortie d'un light novel.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.487,
+        "width": 0.3925,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.1415,
+        "y": 0.609,
+        "width": 0.1092,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 26 mars, le compte Twitter d'hololive Indonesia a annoncé que Moona avait été testée positive au COVID-19. Elle n'a pas été en contact avec des membres du personnel ou d'autres talents récemment. L'état de Moona est stable et elle s'abstiendra de streamer jusqu'à son rétablissement complet.",
+      "bbox": {
+        "x": 0.1438,
+        "y": 0.5929,
+        "width": 0.7874,
+        "height": 0.0581
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.1662,
+        "y": 0.7938,
+        "width": 0.1108,
+        "height": 0.031
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant un stream discussion, Moona a dit qu'elle a atteint tous les objectifs qu'elle avait depuis ses débuts (atteindre les 100 000 abonnés, obtenir son propre modèle 3D, avoir sa propre étoile, participer à un concert hololive, faire des collaborations avec d'autres membres d'hololive). Ses fans lui ont demandé si elle avait bien réussi à obtenir sa propre étoile, ce à quoi Moona a répondu : « Bien sûr, mon étoile, c'est vous ». Plusieurs ambulances ont été dépêchées à ce moment-là.",
+      "bbox": {
+        "x": 0.0675,
+        "y": 0.8342,
+        "width": 0.3938,
+        "height": 0.148
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Risu",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.7938,
+        "width": 0.0769,
+        "height": 0.031
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À son retour du holoFes, Risu a fait plaisir à ses fans avec un karaoké qu'ils attendaient depuis longtemps. Après avoir terminé, sous-pression par les demandes d’encore, elle a détruit son propre micro en chantant ALiCE&u et a improvisé a capella quelques paroles d'« High Tide » de Moona après avoir promis de faire d'autres karaokés bientôt.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.8342,
+        "width": 0.3881,
+        "height": 0.1289
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/jbcusifnbjr81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Kureiji Ollie",
+      "bbox": {
+        "x": 0.3089,
+        "y": 0.1165,
+        "width": 0.5778,
+        "height": 0.0563
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a surpris ses fans en dévoilant un tout nouveau modèle Live2D 2.0 ! Ce nouveau modèle a été fait par kefiiy, mais avec des ajustements ainsi que quelques ajouts.",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.4969,
+        "width": 0.5161,
+        "height": 0.0675
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le suivi de sa bouche a été amélioré, permettant à Ollie d'avoir un sourire plus ravissant.",
+      "bbox": {
+        "x": 0.0794,
+        "y": 0.5791,
+        "width": 0.5328,
+        "height": 0.0316
+      }
+    },
+    {
+      "type": "other",
+      "text": "magnifique sourire",
+      "bbox": {
+        "x": 0.73,
+        "y": 0.6273,
+        "width": 0.2144,
+        "height": 0.0733
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les cheveux d’Ollie et Udin paraissent plus ronds, et son nez est bien plus visible. Elle peut faire plus d’expressions faciales et peut même enlever le ruban sur sa tête ainsi que ses manches.",
+      "bbox": {
+        "x": 0.4556,
+        "y": 0.6806,
+        "width": 0.4778,
+        "height": 0.1003
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a maintenant une animation de marche, lui permettant de faire des pas d'idol. Le reste du stream était de la discussion libre, avec une invitée surprise qui lui a rendu visite : Kobo.",
+      "bbox": {
+        "x": 0.4556,
+        "y": 0.7654,
+        "width": 0.4778,
+        "height": 0.108
+      }
+    },
+    {
+      "type": "other",
+      "text": "pas d'idole",
+      "bbox": {
+        "x": 0.5167,
+        "y": 0.9367,
+        "width": 0.1478,
+        "height": 0.0347
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/d18nbs2007891.gif",
+    "gifFrame": 77,
+    "confidence": 94
+  }
+}

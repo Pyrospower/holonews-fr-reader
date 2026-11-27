@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STATS ET SORTIES",
+      "bbox": {
+        "x": 0.1456,
+        "y": 0.0352,
+        "width": 0.5588,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nORIGINAL\nNOUVEAU",
+      "bbox": {
+        "x": 0.8413,
+        "y": 0.0278,
+        "width": 0.1081,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "11/29\n[Suisei] Phony: 1M\n[Aqua] Vampire: 3M\n[Holostars] Just Follow Stars: 500K\n[Kiara] Hinotori Redshift Remix: 75K\n[Rushia/Ayame] Renai Circulation: 500K\n[Polka] Tondemo Wonders: 250K\n[Risu] Gurenge: 25K",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.102,
+        "width": 0.4375,
+        "height": 0.1237
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "11/30\n[Anya] Phony: 100K\n[Calliope] end of a life: 5M\n[Calliope] Envy Baby EN: 3M\n[A-Chan] Bossa Nova & Jazz Mix: 1M\n[AZKi] Sennou Sakushu Tora no Maki: 50K\n[Temma/Miyabi] Kawaiiku Naritai: 100K\n[Suisei] Tenkyuu, Suisei Wa Yoru Wo Mataide: 10M",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.1007,
+        "width": 0.4375,
+        "height": 0.1411
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/01\n[Lui] Eye: 750K\n[Matsuri] Fansa: 1M\n[Korone] Fire Emblem Theme (Cover): 100K\n[Miko] Sakurairo High Tension: 250K",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2474,
+        "width": 0.4375,
+        "height": 0.0694
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/02\n[Aqua] Kira Kira: 100K\n[AZKi] Nonbiri To: 25K\n[Okayu] Shitsuraku Petri: 6M\n[Korone] Fire Emblem Theme (Cover): 250K\n[Calliope/Milky Queen] Usseewa (Cover): 500K\n[Flare] Vampire: 100K\n[Mel/Shion/Ayame/Choco/Rushia] Crazy Night: 500K",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.2639,
+        "width": 0.4375,
+        "height": 0.1432
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/03\n[Aqua] Aqua Iro Palette: 4M\n[IRyS] Shiny Smily Story: 250K\n[Calliope] Off With Their Heads: 9M\n[Watame] Everlasting Soul: 500K\n[Subaru/Ui] adrenaline!!!: 2M",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3385,
+        "width": 0.4375,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/04\n[La+] God-ish (Cover): 1M\n[HoloMyth] Myth or Treat: 3M\n[Ina] Tabi no Tochuu (Cover): 250K\n[Sora/Aoi] Turing Love (Cover): 100K\n[Calliope/Milky Queen] Usseewa (Cover): 750K\n[Roboco/Miko/Mel/Akirose/Matsuri/Aqua/Mio/Flare/Towa] Asuiro Clear Sky Short: 750K\n[Kanata/Towa] Madoromi: 750K\n[Sora] Hot Limit Short: 250K",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.428,
+        "width": 0.4375,
+        "height": 0.1584
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/05\n[Towa] Eye: 500K\n[Suisei] Phony: 2M\n[Aqua] Kira Kira: 250K\n[IRyS] Here Comes Hope: 500K\n[Moona/Suisei] Saikai (Cover): 250K\n[Fubuki] Sil Vous President (Reupload): 100K\n[Kiara] Hinotori Lone Alpha Remix: 75K\n[HoloFantasy] Interact Fantasia: 1M\n[Moona/Pekora] Turing Love: 2M\n[Kanata] Uma to Shika: 6M\n[Polka] Envy Baby: 6M\n[Shion] God-ish: 750K\n[Koyori] Ruma: 1M",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.4449,
+        "width": 0.4375,
+        "height": 0.2279
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE | Moona & Suisei | SAIKAI\nREPRISE | Calli & Milky Queen | USSEEWA\nREPRISE | Sora & Fuji Aoi | TURING LOVE\nREPRISE | Miyabi & Astel | BOOO!",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.7031,
+        "width": 0.9219,
+        "height": 0.0868
+      }
+    },
+    {
+      "type": "other",
+      "text": "ORIGINAL | Holostars | PENTAS\nORIGINAL | Aqua | KIRA KIRA\nORIGINAL | Aqua | UNI-BIRTH\nORIGINAL | AZKi | NONBIRI TO",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.7934,
+        "width": 0.9219,
+        "height": 0.0825
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE | Korone | FIRE EMBLEM THEME\nREPRISE | La+ | GOD-ISH\nREPRISE | holoX | OCHAME KINOU\nREPRISE | Ina | TABI NO TOCHUU",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.8832,
+        "width": 0.9219,
+        "height": 0.0825
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xmq1va7rjq581.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

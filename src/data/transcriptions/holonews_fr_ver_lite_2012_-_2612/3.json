@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.0294,
+        "y": 0.0309,
+        "width": 0.2072,
+        "height": 0.0297
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roberu a fêté son 2è anniversaire la veille de Noël. Il a invité les garçons à sa fête de Noël, mais Shien, Aruran, Oga et Miyabi n’ont pas pu venir et ont envoyé des lettres à la place, donnant les raisons de leur absence. Leurs raisons étaient toutes hilarantes, et Roberu pensait que personne ne viendrait jusqu’à ce qu’Astel et Temma, les autres membres de sa génération, s’introduisent dans son bar. Les membres de Suntempo se sont remémorés les quelques fois où ils se sont réunis en tant que groupe cette année et ont parlé de leurs premières impressions les uns des autres, tout en ayant des moments mignons.",
+      "bbox": {
+        "x": 0.0272,
+        "y": 0.088,
+        "width": 0.4444,
+        "height": 0.2782
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roberu a décidé qu’il voulait vaincre sa peur du vide, alors il a pris son envol en réalité virtuelle. Roberu était si stupéfait à la fin qu’il est tombé lentement sur le dos, puis Astel et Temma l’ont aidé à se remettre de ses émotions.",
+      "bbox": {
+        "x": 0.0283,
+        "y": 0.3835,
+        "width": 0.435,
+        "height": 0.0999
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roberu a ensuite chanté « Kaze no Sakana » en live, sa chanson originale au ton humoristique qui en est désormais vraiment une. Après cela, il a traversé la scène de tous les garçons pour enfin apparaître dans l’arène d’holostars pour donner une version de « Just Follow Stars » par Suntempo. Les garçons couraient et s’amusaient tout en chantant, et ont terminé avec une pyramide humaine.",
+      "bbox": {
+        "x": 0.4828,
+        "y": 0.5883,
+        "width": 0.4606,
+        "height": 0.1474
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après le départ des garçons, Roberu a présenté ses produits dérivés :\n- Un pack de voix\n- Une plaque en acrylique\n- Un verre à whisky\n- Un porte-clés barman\n- Une version téléchargeable de « Kaze no Sakana »",
+      "bbox": {
+        "x": 0.4822,
+        "y": 0.7523,
+        "width": 0.4294,
+        "height": 0.1281
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dernier cadeau que Roberu nous a offert était la performance de sa nouvelle chanson originale, « POP-TALK ». À la fin, il a remercié tout le monde pour cette 2e année, très amusante et passionnante, et il a dit qu’il travaillerait encore plus dur l’année suivante.",
+      "bbox": {
+        "x": 0.4817,
+        "y": 0.9008,
+        "width": 0.465,
+        "height": 0.0984
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/25o1wc5zeab81.gif",
+    "gifFrame": 157,
+    "confidence": 91
+  }
+}

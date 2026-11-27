@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_sana_special_issue_fr_ver",
+  "page": 20,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Merci d'avoir lu ce numéro spécial d'HoloNews,",
+      "bbox": {
+        "x": 0.1494,
+        "y": 0.138,
+        "width": 0.8069,
+        "height": 0.0877
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un GRAND merci à Sana pour tous ses efforts,",
+      "bbox": {
+        "x": 0.2581,
+        "y": 0.2565,
+        "width": 0.4856,
+        "height": 0.0543
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "nous avons apprécié le temps que tu as passé avec nous et nous nous souviendrons toujours de cette année passée ensemble.",
+      "bbox": {
+        "x": 0.1431,
+        "y": 0.3372,
+        "width": 0.7138,
+        "height": 0.0829
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.1569,
+        "y": 0.4449,
+        "width": 0.6869,
+        "height": 0.1519
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À la semaine prochaine !",
+      "bbox": {
+        "x": 0.3169,
+        "y": 0.6172,
+        "width": 0.3631,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Soyez prêt pour le numéro de la semaine prochaine, où nous parlerons de la graduation de Sana.",
+      "bbox": {
+        "x": 0.13,
+        "y": 0.8125,
+        "width": 0.7156,
+        "height": 0.0503
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/uutf0n2un4f91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

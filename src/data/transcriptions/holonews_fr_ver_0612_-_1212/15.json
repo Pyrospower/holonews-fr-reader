@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holo ID",
+      "bbox": {
+        "x": 0.1394,
+        "y": 0.0799,
+        "width": 0.2475,
+        "height": 0.033
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Risu",
+      "bbox": {
+        "x": 0.2875,
+        "y": 0.1437,
+        "width": 0.1006,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "other",
+      "text": "illust by :\n@ULTRARIS",
+      "bbox": {
+        "x": 0.172,
+        "y": 0.167,
+        "width": 0.08,
+        "height": 0.016
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Risu a été réincarnée dans le serveur Minecraft d’holoID, et ne communique avec le monde extérieur que via des vidéos cryptiques de « Padoru »",
+      "bbox": {
+        "x": 0.2875,
+        "y": 0.1832,
+        "width": 0.19,
+        "height": 0.141
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.248,
+        "width": 0.156,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moona a fait une stream « Unpacking » (déballage) surprise . Mais elle n'a rien déballé, elle a joué au jeu du même nom.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.28,
+        "width": 0.409,
+        "height": 0.045
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOMYTH",
+      "bbox": {
+        "x": 0.0588,
+        "y": 0.3351,
+        "width": 0.4144,
+        "height": 0.053
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.529,
+        "width": 0.105,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans son stream de cuisine sur le thème d’Earthbound, Calli a annoncé qu’elle ne pourrait pas passer les vacances avec sa famille cette année, car elle a dû annuler son voyage à cause du COVID.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.5703,
+        "width": 0.4094,
+        "height": 0.1285
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant qu’elle présentait sa nouvelle tenue, Calli a annoncé un nouvel album remix : une version lo-fi hip hop de « Your Mori », prévu pour janvier 2022. L’album sera composé de 8 pistes, dont les instrumentaux de dj-Jo, ainsi que de nouveaux enregistrements, et une illustration faite par Calli. Elle a chanté toutes les chansons en live, dans sa nouvelle tenue.",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.5269,
+        "width": 0.4475,
+        "height": 0.1879
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ame",
+      "bbox": {
+        "x": 0.14,
+        "y": 0.671,
+        "width": 0.137,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après de nombreuses morts, des heures de frustration et du sel, Ame a finalement atteint le boss final de DKC: Tropical Freeze. Après plusieurs essais ratés, Ame a invoqué Smol Ame. Smol Ame a dit que Ame était rentrée pleurer chez elle, s'est vantée d'être une vraie joueuse et d’avoir déjà battu le boss du premier coup.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7214,
+        "width": 0.5988,
+        "height": 0.0924
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir perdu et frappé son clavier, elle a arrêté le stream, est revenue après un moment, puis a recommencé, encore et encore. Après être revenue pour la énième fois, le stream a affiché les crédits de fin : Ame expliqua qu’elle avait battu le boss après une dizaine d’essais hors stream. Quelques heures plus tard, dans son stream discussion, elle a montré une photo de son clavier cassé.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.8277,
+        "width": 0.6088,
+        "height": 0.1025
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/j7pps8p5i4781.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

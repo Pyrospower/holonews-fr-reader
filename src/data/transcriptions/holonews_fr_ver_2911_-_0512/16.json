@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 16,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOCOUNCIL",
+      "bbox": {
+        "x": 0.0656,
+        "y": 0.0516,
+        "width": 0.4094,
+        "height": 0.0673
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Baelz",
+      "bbox": {
+        "x": 0.1594,
+        "y": 0.2231,
+        "width": 0.1313,
+        "height": 0.0543
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant sa pause, Baelz nous a laissé regarder le premier épisode de « Baewatch », un nouveau projet sur lequelle elle travaillait depuis ses débuts. Baewatch est une série de tranche de vie réaliste présenté dans le style d’un visual novel, mettant en vedette Baelz, divisé en six personnage principaux (Hatsuna, Fumi, Miyu, Shiika, Itsuko, et Murasaki), utilisant des voix en japonais et des sous-titres anglais. Le premier épisode met en scène les filles qui discutent de leurs vacances d’été scolaire. YAGOO a aussi eu droit a un petit caméo en tant que professeur principal.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.2652,
+        "width": 0.4263,
+        "height": 0.2183
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kronii",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.2235,
+        "width": 0.1475,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kronii et Ollie ont joué à 51 Worldwide Games. Elles ont d’abord joué aux échecs, mais elles étaient toutes deux du même niveau et ont chacune remporté une victoire. Ensuite, elles ont tenté le Mahjong, mais aucune des deux ne savaient y jouer. Le combat final se joua au Yahtzee (Yacht dice). Mené à 179-146, Kronii avait besoin d’un Yam's (les 5 dés présentent des faces identiques) pour gagner la partie. C’est à ce moment qu’elle pria tous les dieux de la chance, et se mit même à prier elle-même. Avec le dernier lancé de la partie, Kronii compléta le Yam’s, et se prouva qu’elle était la seule véritable Déesse de la chance.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2656,
+        "width": 0.4263,
+        "height": 0.2027
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mumei",
+      "bbox": {
+        "x": 0.1594,
+        "y": 0.6163,
+        "width": 0.1625,
+        "height": 0.0543
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mumei a répondu à 30 questions lors de sa FAQ. Elle a expliqué son obsession pour les baies et nous a décrit sa vision d’holoCouncil en tant que famille.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.658,
+        "width": 0.4106,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Quand on lui a demandé de parler en japonais pendant 30 secondes, Mumei a essayé de tricher en comptant jusqu’à 30. Mais elle a bégayé quand des Hoomans imprudents ont mal interprété « jyuu » (10) par « chu » (bisou), mais c'était sans compter l’assistance de ses spectateurs Japonais.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7318,
+        "width": 0.4263,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana",
+      "bbox": {
+        "x": 0.6312,
+        "y": 0.6163,
+        "width": 0.1187,
+        "height": 0.0543
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant une collab Splatoon 2, les avatars d’Ina et de Kronii ont arrêté de fonctionner, elles ont donc décidé de devenir des calamars. Sana et IRyS les rejoignirent peu après, et elles passèrent plusieurs matches dans leur forme calamar.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.6584,
+        "width": 0.3963,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sana a appelé les joueurs de Rang C des « déchet », IRyS a trahi la « trêve des calamars », Kroni a baragouiné, et Ina nous a révélé que « woomy » veut dire [REDACTED] en anglais (ce mot détient plusieurs sens)",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.7613,
+        "width": 0.4169,
+        "height": 0.0734
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fauna s'est rasé le crâne pour coller au mieux son rôle d’agent 47 dans son récent stream HITMAN 2. Elle a encore une fois montré sa douce nature de tueuse – frappant, tuant et plaisantant tout au long de son jeu.",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.8685,
+        "width": 0.4225,
+        "height": 0.0734
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2107xv6rjq581.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

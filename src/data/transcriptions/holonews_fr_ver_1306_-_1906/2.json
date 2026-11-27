@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Shiranui Flare",
+      "bbox": {
+        "x": 0.0667,
+        "y": 0.172,
+        "width": 0.8611,
+        "height": 0.0733
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Flare a fêté son anniversaire le 19 juin. Bien qu'il ait été légèrement décalé par rapport à son anniversaire réel, le 2 avril, sa performance ardente a commencé avec « JOINT » et a suffi à embraser la flamme de la passion chez ses spectateurs.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.294,
+        "width": 0.4094,
+        "height": 0.0965
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir présenté les Elfriends jouant de divers instruments, elle a tenu un duo avec Nene avec « Kami-sama wa Ereki shusendo » qui a enflammé l'atmosphère.",
+      "bbox": {
+        "x": 0.5194,
+        "y": 0.3924,
+        "width": 0.3983,
+        "height": 0.0637
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame s'est jointe à elle pour un duo sur « Rettou Joutou », vient au tour de Kanata sur « Oni KYOKAN » avec sa performance flamboyante où elle criait les notes les plus aiguës. Une performance solo de « Over the Rainbow » a été suivie d'un duo sur « PUPPY LOVE !! » avec Pekora. Au tour de Ayame de chanter « Kakawari » avec Flare. Lamy était le suivant, changeant la scène en bord de route pour chanter ensemble « Itsumo Kono Basho de ».",
+      "bbox": {
+        "x": 0.0656,
+        "y": 0.4402,
+        "width": 0.4106,
+        "height": 0.1755
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dernier duo a été ave Suisei, l'étoile filante incandescente, elles ont interprété « How-To Sekai Seifuku ».",
+      "bbox": {
+        "x": 0.5183,
+        "y": 0.6138,
+        "width": 0.3917,
+        "height": 0.0436
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Toutes les invitées ont pu prendre un selfie avec Flare à la fin de chaque scène. Comme dernière étincelle, sa nouvelle chanson originale « Zenryoku-Jumping ! » a été annoncée en direct sur scène. C'est sa première chanson originale en solo depuis « Smile & Go ! » d'avril 2021.",
+      "bbox": {
+        "x": 0.5183,
+        "y": 0.6632,
+        "width": 0.4106,
+        "height": 0.1127
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les produits commémoratifs sont les suivants :",
+      "bbox": {
+        "x": 0.0661,
+        "y": 0.7894,
+        "width": 0.3506,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une lampe de bureau LED en acrylique\n• Une peluche Elfriend\n• Une pochette multi-usage\n• Un bracelet",
+      "bbox": {
+        "x": 0.1033,
+        "y": 0.8387,
+        "width": 0.3761,
+        "height": 0.0602
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un bonus pour le set complet : Carte postale avec un autographe tamponné et un message de Shiranui Flare. (Dessin par lack)",
+      "bbox": {
+        "x": 0.0661,
+        "y": 0.9209,
+        "width": 0.4306,
+        "height": 0.0463
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/q8n0df2007891.gif",
+    "gifFrame": 89,
+    "confidence": 93
+  }
+}

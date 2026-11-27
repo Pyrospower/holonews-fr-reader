@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Korone est de retour",
+      "bbox": {
+        "x": 0.0188,
+        "y": 0.0117,
+        "width": 0.2631,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "Silver Noel Ranch Dream",
+      "bbox": {
+        "x": 0.3519,
+        "y": 0.0117,
+        "width": 0.2956,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS 3Rise",
+      "bbox": {
+        "x": 0.8175,
+        "y": 0.0117,
+        "width": 0.1575,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magazine hebdomadaire d'actualités",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.1528,
+        "width": 0.2775,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chloe",
+      "bbox": {
+        "x": 0.0175,
+        "y": 0.178,
+        "width": 0.19,
+        "height": 0.039
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "nous a montré son modèle 3D",
+      "bbox": {
+        "x": 0.0175,
+        "y": 0.2214,
+        "width": 0.23,
+        "height": 0.0486
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.0175,
+        "y": 0.2995,
+        "width": 0.215,
+        "height": 0.041
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "nous a aussi montré son modèle 3D",
+      "bbox": {
+        "x": 0.0175,
+        "y": 0.3446,
+        "width": 0.3225,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.0175,
+        "y": 0.4227,
+        "width": 0.145,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a reçu un modèle 2.0",
+      "bbox": {
+        "x": 0.0175,
+        "y": 0.4644,
+        "width": 0.1775,
+        "height": 0.047
+      }
+    },
+    {
+      "type": "heading",
+      "text": "#StarsFor Lilly",
+      "bbox": {
+        "x": 0.0175,
+        "y": 0.5417,
+        "width": 0.2712,
+        "height": 0.0764
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Flare",
+      "bbox": {
+        "x": 0.825,
+        "y": 0.178,
+        "width": 0.1575,
+        "height": 0.039
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a célébré son anniversaire le 19 juin",
+      "bbox": {
+        "x": 0.7525,
+        "y": 0.2222,
+        "width": 0.2288,
+        "height": 0.0755
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Cover",
+      "bbox": {
+        "x": 0.7969,
+        "y": 0.3251,
+        "width": 0.185,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nouvelle directive pour les clips",
+      "bbox": {
+        "x": 0.7775,
+        "y": 0.3681,
+        "width": 0.2044,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "other",
+      "text": "Vous voulez nous aider ? Rejoignez notre Discord !",
+      "bbox": {
+        "x": 0.5813,
+        "y": 0.9297,
+        "width": 0.2794,
+        "height": 0.0482
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4gafg71007891.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

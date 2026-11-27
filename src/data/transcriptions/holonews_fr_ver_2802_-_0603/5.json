@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 0",
+      "bbox": {
+        "x": 0.184,
+        "y": 0.036,
+        "width": 0.169,
+        "height": 0.03
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.153,
+        "y": 0.208,
+        "width": 0.119,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de son stream Within Skerry, Miko a essayé d'envoyer un message aux membres de Shiraken pour leur demander de l'aide, mais aucune d'entre elles ne l'a vraiment aidée. Polka a posé la question à Suisei et lui a demandé d'aider Miko, mais Suisei a répondu qu'elle était en train de dîner. Polka a alors demandé si elles n'étaient pas associées, mais Suisei a répondu « Le dîner est important nyee~ ». Finalement, Miko a terminé le jeu seule.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2522,
+        "width": 0.4219,
+        "height": 0.1615
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.155,
+        "y": 0.544,
+        "width": 0.143,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors d'un récent stream de Vampire Survivors, Suisei est morte à peine 9 secondes avant la fin des 30 minutes. Elle a exprimé sa frustration sur Twitter tout en laissant s’échapper un peu de sel.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.5859,
+        "width": 0.4194,
+        "height": 0.0725
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.155,
+        "y": 0.79,
+        "width": 0.111,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au cours d'une session de chat, Sora s'est amusée à prendre une « voix de loli » après que quelqu'un lui a demandé si elle pouvait le faire. Sora n'était pas sûre de ce qu'était une « voix de loli » et s'est contentée de prendre une voix plus aiguë. Ses spectateurs ont été étonnés et lui ont demandé si elle avait utilisé un modificateur de voix pour y arriver.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.8359,
+        "width": 0.4181,
+        "height": 0.1328
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roboco",
+      "bbox": {
+        "x": 0.622,
+        "y": 0.209,
+        "width": 0.17,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le quatrième anniversaire de Roboco a eu lieu la semaine dernière ! Son concert d'anniversaire a débuté avec Roboco chantant « Lulu », assise sur un croissant de lune.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2474,
+        "width": 0.4238,
+        "height": 0.0742
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une fois qu'elle a eu fini de faire les salutations habituelles, elle a fait plusieurs performances avec des invités. Elle a chanté dans un trio avec Aki et Luna, Suisei et Okayu, et en duo avec Pekora. Elle a également chanté en solo dans sa robe de mariée et dans sa tenue de Nouvel An. Il est important de mentionner que la tenue du Nouvel An a été mise à jour. Roboco a terminé son 4e anniversaire en chantant « Proud Idol ».",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.3372,
+        "width": 0.4263,
+        "height": 0.1675
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les produits dérivés pour le 4e anniversaire de Roboco sont :",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.5217,
+        "width": 0.4156,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- Une affiche au format B2\n- Un set de couverts\n- Une assiette\n- Un porte-clés en acrylique avec 4 styles différents",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.569,
+        "width": 0.3919,
+        "height": 0.1206
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Détail amusant, les couverts et l'assiette sont ceux présents dans la tapisserie. L'achat de l'ensemble complet donne droit à une carte postale avec une signature imprimée, tandis que celle de l'ensemble limité comporte également un message manuscrit.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7049,
+        "width": 0.4194,
+        "height": 0.1055
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant son concert d'anniversaire, Roboco a essayé de comparer sa poitrine avec celle de Pekora. Roboco a expliqué plus tard dans le stream qu'elle avait fait cela parce que Pekora et elle avaient parlé de poitrines avant le début de leur enregistrement, ce qui explique pourquoi elle avait des poitrines à l'esprit. (Note annexe : Roboco a gagné)",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.8403,
+        "width": 0.4256,
+        "height": 0.1241
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/9gug2nt6bdn81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

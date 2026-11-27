@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 6,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 3",
+      "bbox": {
+        "x": 0.21,
+        "y": 0.0382,
+        "width": 0.1113,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1713,
+        "y": 0.299,
+        "width": 0.1069,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora, l’une d’entre nous.",
+      "bbox": {
+        "x": 0.0731,
+        "y": 0.3377,
+        "width": 0.22,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 6",
+      "bbox": {
+        "x": 0.6677,
+        "y": 0.0342,
+        "width": 0.12,
+        "height": 0.0267
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.6369,
+        "y": 0.2254,
+        "width": 0.1092,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Malgré qu’elle raconte avoir un permis de conduire doré, la conduite de camion de Koyori laisse penser autrement. Dans Euro Truck Simulator 2, elle a percuté d’autres véhicules, des garde-barrières, et bien sûr, elle a renversé le camion sur le côté.",
+      "bbox": {
+        "x": 0.5406,
+        "y": 0.2678,
+        "width": 0.3894,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 5",
+      "bbox": {
+        "x": 0.445,
+        "y": 0.3776,
+        "width": 0.1113,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.5417,
+        "width": 0.0923,
+        "height": 0.0267
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka a promu le film Aikatsu Planet!, et a interviewé l’actrice vedette Date Kaaya. Aikatsu est une série présente sur plusieurs média basé sur les idoles avec des jeux et un anime et est l’une des série préférée de Polka. Les rôles se sont ensuite inversés dans la deuxième partie et Polka s'est faite interviewer.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.5833,
+        "width": 0.3913,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.8964,
+        "width": 0.0831,
+        "height": 0.0203
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nenechi a publié un tweet remerciant tous ses « époux » pour avoir atteint les 950 000 abonnés sur YouTube ! Fais de ton mieux, Nene !",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.9384,
+        "width": 0.4075,
+        "height": 0.0386
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.6356,
+        "y": 0.5456,
+        "width": 0.085,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bien qu’elle ne streame pas activement, Lamy est tout de même présente sur Twitter, en bénissant les Yukimins avec une vidéo courte leur souhaitant bonne nuit.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.5833,
+        "width": 0.385,
+        "height": 0.0508
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.7981,
+        "width": 0.1,
+        "height": 0.0214
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En reprenant là où nous nous sommes arrêtés après le stream Raft du mois dernier, Shishiron a battu le requin géant et a découvert les coordonnées d’une zone inexplorée. Là-bas, elle a trouvé une base couverte de neige, des ours polaires et des motoneiges. Conduire a toujours été l’un des points faibles de Shishiron, démontrer par le fait qu’elle est parvenue à heurter un ours polaire et à basculer de son véhicule à plusieurs reprises, ce qui l’a fait beaucoup rire.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.8377,
+        "width": 0.3925,
+        "height": 0.1432
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3cqxn165sqd91.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

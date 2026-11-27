@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Minato Aqua",
+      "bbox": {
+        "x": 0.0822,
+        "y": 0.0316,
+        "width": 0.3633,
+        "height": 0.0382
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aqua a fêté son anniversaire le 1er décembre. Pour celui-ci, elle a décidé de refaire ses débuts en tant que 6e membre d’holoX. Elle avait pour personnage un rappeur finissant ses phrases par « yo ».",
+      "bbox": {
+        "x": 0.0156,
+        "y": 0.0965,
+        "width": 0.4967,
+        "height": 0.0621
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Equipée d’un nouveau sweat à capuche, d’une casquette et de lunettes de soleil, Aqua a lâché des couplets de dingue tout en dévoilant ses produits dérivés d’anniversaire :",
+      "bbox": {
+        "x": 0.0161,
+        "y": 0.1744,
+        "width": 0.4894,
+        "height": 0.059
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une plaque en acrylique (acrylic panel)\n• Un sweat à capuche original\n• Une casquette NEKO\n• Un masque et une trousse NEKO",
+      "bbox": {
+        "x": 0.0356,
+        "y": 0.2373,
+        "width": 0.3883,
+        "height": 0.1087
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’ensemble limité a été épuisé en seulement quelques minutes, mais l’ensemble standard est toujours disponible et est également accompagné d’une carte postale signée.",
+      "bbox": {
+        "x": 0.0156,
+        "y": 0.3619,
+        "width": 0.4733,
+        "height": 0.0621
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le reste du stream, elle a tenu un stream totsumachi où Matsuri, Noel, Lamy, Choco, Suisei, Watame, Nene, Sora et Subaru se sont présentées. Aqua a reçu plusieurs accessoires de la part des filles, dignes de son personnage de rappeur.",
+      "bbox": {
+        "x": 0.0156,
+        "y": 0.4398,
+        "width": 0.4933,
+        "height": 0.0775
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a terminé son stream d’anniversaire par la diffusion du clip de sa quatrième chanson originale « Kira Kira » et une interprétation de « Aqua Iro Palette ».",
+      "bbox": {
+        "x": 0.0161,
+        "y": 0.534,
+        "width": 0.5033,
+        "height": 0.059
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloExpo",
+      "bbox": {
+        "x": 0.1311,
+        "y": 0.6547,
+        "width": 0.265,
+        "height": 0.0363
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sortez vos portefeuilles ! À vos agendas ! Les tant attendus hololive SUPER EXPO 2022 et hololive 3rd fest Link Your Wish ont été annoncés ! Ils prendront place au Makuhari Messe International Exhibition Hall 1-3 les 19 et 20 mars 2022. Tout l’événement est sponsorisé par Weiss Schwarz.",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.7095,
+        "width": 0.4833,
+        "height": 0.1231
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les places coûtent 8 000¥ pour l’EXPO et le 3rd fest, 2 000¥ juste pour la visite de l’EXPO ou 6 500¥ pour le 3rd fest seulement.",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.8511,
+        "width": 0.4783,
+        "height": 0.051
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’alternative de la retransmission sur SPWN est à 5 500¥ pour un jour ou 10 000¥ pour les deux.",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.9028,
+        "width": 0.4822,
+        "height": 0.0474
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8wdgeh7rjq581.gif",
+    "gifFrame": 105,
+    "confidence": 89
+  }
+}

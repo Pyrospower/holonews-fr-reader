@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 6,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 0",
+      "bbox": {
+        "x": 0.1831,
+        "y": 0.0791,
+        "width": 0.1677,
+        "height": 0.0288
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roboco",
+      "bbox": {
+        "x": 0.1615,
+        "y": 0.2521,
+        "width": 0.1692,
+        "height": 0.0267
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roboco a organisé un stream endurance karaoké jusqu'à atteindre 800 000 abonnés. Elle en avait besoin de 36 000 et a rempli son objectif après 6 heures de chant.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2934,
+        "width": 0.4163,
+        "height": 0.082
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Malgré les longues heures, sa gorge ne l’a pas fait souffrir. Son prochain but sera d'atteindre le million !",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3893,
+        "width": 0.4119,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "other",
+      "text": "STILL STILL",
+      "bbox": {
+        "x": 0.7615,
+        "y": 0.2863,
+        "width": 0.1323,
+        "height": 0.0118
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.6122,
+        "width": 0.1108,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le premier stream de Sora de l'année était assez simple. Elle a montré quelques nouveaux accessoires en 3D créés pour elle. Il s’agit d'un masque rose avec le logo d’hololive, d’un kagami mochi (littéralement « gâteau miroir ») et d'une patte de tigre qu'elle peut porter sur sa tête.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.6523,
+        "width": 0.4244,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a également revêtu un kimono en 2D que quelqu'un a conçu pour elle. Dans le stream, elle n'a parlé que de banalités, mais elle a dit que l'un de ses objectifs cette année sera d'acheter des écouteurs pour ses prestations en direct.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7773,
+        "width": 0.4088,
+        "height": 0.0955
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.6122,
+        "width": 0.1215,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir reçu des étrennes de la part d'un oncle et d'une nièce qui étaient fans d'elle, un autre 35P lui a demandé de leur extorquer l'argent du Nouvel An. Elle s’est exécutée et a alors extorqué des étrennes à tout son tchat, en utilisant de nombreuses copies d’une illustration d’étrennes pour montrer le succès de son racket.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.6536,
+        "width": 0.4269,
+        "height": 0.1211
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko a essayé le jeu hololive ERROR sur le site Web où il a été publié. Dans le stream, elle a utilisé son modèle 3D avec l'uniforme scolaire qu'elle porte dans les vidéos hololive ERROR.",
+      "bbox": {
+        "x": 0.5269,
+        "y": 0.8242,
+        "width": 0.4063,
+        "height": 0.0829
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/abe6bx5kevc81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

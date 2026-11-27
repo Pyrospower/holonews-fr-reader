@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Anniversaire de Fauna",
+      "bbox": {
+        "x": 0.13,
+        "y": 0.011,
+        "width": 0.19,
+        "height": 0.032
+      }
+    },
+    {
+      "type": "other",
+      "text": "Hololive Expo",
+      "bbox": {
+        "x": 0.417,
+        "y": 0.011,
+        "width": 0.165,
+        "height": 0.016
+      }
+    },
+    {
+      "type": "other",
+      "text": "Anniversaire de Kronii",
+      "bbox": {
+        "x": 0.704,
+        "y": 0.011,
+        "width": 0.153,
+        "height": 0.032
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magazine hebdomadaire d'actualités",
+      "bbox": {
+        "x": 0.024,
+        "y": 0.153,
+        "width": 0.299,
+        "height": 0.012
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Le stream de 24H de Moona",
+      "bbox": {
+        "x": 0.035,
+        "y": 0.183,
+        "width": 0.267,
+        "height": 0.105
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Concours de tenues pour Yagoo",
+      "bbox": {
+        "x": 0.035,
+        "y": 0.309,
+        "width": 0.313,
+        "height": 0.11
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chad CAST",
+      "bbox": {
+        "x": 0.024,
+        "y": 0.426,
+        "width": 0.211,
+        "height": 0.095
+      }
+    },
+    {
+      "type": "other",
+      "text": "EPISODE 3",
+      "bbox": {
+        "x": 0.087,
+        "y": 0.535,
+        "width": 0.083,
+        "height": 0.009
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu de retour en stream",
+      "bbox": {
+        "x": 0.035,
+        "y": 0.559,
+        "width": 0.261,
+        "height": 0.106
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nous recherchons plus de journaliste",
+      "bbox": {
+        "x": 0.03,
+        "y": 0.682,
+        "width": 0.323,
+        "height": 0.139
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ceres Fauna",
+      "bbox": {
+        "x": 0.018,
+        "y": 0.862,
+        "width": 0.371,
+        "height": 0.094
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/e9jtowfnbjr81.png",
+    "gifFrame": null,
+    "confidence": 70
+  }
+}

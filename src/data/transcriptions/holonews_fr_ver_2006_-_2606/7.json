@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Korone, la plus grande fan de Sonic d'hololive, est devenue une ambassadrice officielle de Sonic ! Pour commémorer cela, Korone a reçu une tenue spéciale sur le thème de Sonic, avec des cheveux bleus, les baskets de Sonic, un collier Power Ring, une peluche Knuckles et des boucles d'oreilles Chaos Emerald.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.3356,
+        "width": 0.3472,
+        "height": 0.1786
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a également été annoncé que Korone fera ses débuts sur grand écran en tant que doubleuse dans le prochain film « Sonic the Movie/Sonic vs. Knuckles » au Japon. Félicitations, Korone !",
+      "bbox": {
+        "x": 0.0478,
+        "y": 0.5363,
+        "width": 0.3483,
+        "height": 0.1227
+      }
+    },
+    {
+      "type": "other",
+      "text": "Avec une capuche",
+      "bbox": {
+        "x": 0.3428,
+        "y": 0.7392,
+        "width": 0.1761,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "et… ça",
+      "bbox": {
+        "x": 0.149,
+        "y": 0.85,
+        "width": 0.073,
+        "height": 0.016
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/o0w4l592haa91.gif",
+    "gifFrame": 89,
+    "confidence": 94
+  }
+}

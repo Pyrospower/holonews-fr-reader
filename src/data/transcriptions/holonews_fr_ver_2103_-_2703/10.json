@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 6",
+      "bbox": {
+        "x": 0.4373,
+        "y": 0.0167,
+        "width": 0.1267,
+        "height": 0.0241
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iroha & Towa",
+      "bbox": {
+        "x": 0.2133,
+        "y": 0.1815,
+        "width": 0.2107,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir vaincu Chloe, Koyori et La+, l'adversaire suivante en liste pour Towa était Iroha, bien décidée à venger ses camarades tombées au combat et rendre à La+ le tant convoité suffixe « -sama ». Leur rencontre a pris place sur le tristement célèbre 51 Worldwide Games. Malgré son entraînement en vue de la collaboration, Iroha a été annihilée sur le score de 5 à 1 par Towa, ne parvenant à lui voler un point que sur Boxe miniature. Le sort et l'honneur de la 6e génération reposent maintenant sur les épaules de Lui, alors que Towa compte bien finir proprement le travail entrepris.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.2179,
+        "width": 0.3919,
+        "height": 0.1884
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chloe",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.1806,
+        "width": 0.0933,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Juste avant la sortie de sa dernière chanson originale, « Kashi », Chloe nous a fait l'honneur d'un stream karaoké. Revêtue de son masque et déployant sa voix profonde, elle a interprété 10 chansons en l'espace de 90 minutes. Avec la sortie de sa nouvelle chanson, son projet de sortie mensuelle d'une chanson originale continue son cours et entre dans son 2e mois.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2183,
+        "width": 0.3931,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+",
+      "bbox": {
+        "x": 0.1653,
+        "y": 0.4435,
+        "width": 0.0573,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La+ a bu jusqu'à ébriété lors d'un stream discussion dimanche dernier. Sous l'influence de l'alcool, elle a soudainement appelé Mishima Kurone (la conceptrice de son personnage), l'interrompant en plein travail.",
+      "bbox": {
+        "x": 0.3075,
+        "y": 0.4262,
+        "width": 0.61,
+        "height": 0.0582
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.4094,
+        "y": 0.5069,
+        "width": 0.1794,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mio",
+      "bbox": {
+        "x": 0.1707,
+        "y": 0.6667,
+        "width": 0.0613,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le challenge entrepris par Mio de finir Getting Over It 50 fois avant d'atteindre le million d'abonnés a continué son cours. Au cours de deux streams, elle a réduit le nombre de parties restantes de 30 à 17. Durant son tout dernier stream, elle a réussi à obtenir un record personnel de 17 minutes et 48 secondes.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.7049,
+        "width": 0.3863,
+        "height": 0.1142
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.628,
+        "y": 0.6676,
+        "width": 0.1053,
+        "height": 0.0222
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n'a fallu qu'un peu plus de 12 heures à Okayu pour finir Kirby et le Monde Oublié dans le cadre d'un challenge speedrun réparti sur deux streams. Mis à part la pause d'une heure qu'elle a prise pour les débuts de Kobo, Okayu a fait bon usage du pouvoir de Kirby pour mogu-manger ses ennemis et affirmer sa place au sein des Gamers d'hololive.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.7049,
+        "width": 0.3775,
+        "height": 0.1289
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu & Korone",
+      "bbox": {
+        "x": 0.1867,
+        "y": 0.8815,
+        "width": 0.1493,
+        "height": 0.0602
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant 3 heures, Korone et Okayu se sont retrouvées pour jouer à… APEX ! Bien que plutôt inhabituel pour ce duo, le jeu a donné l'opportunité d'entendre la première paniquer, crier et plaisanter avec Okayu, et d'assister à une imitation de Korone par cette dernière. Les deux amies ont même chanté ensemble pendant quelques moments.",
+      "bbox": {
+        "x": 0.356,
+        "y": 0.8769,
+        "width": 0.6013,
+        "height": 0.0731
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/9zavgtfnbjr81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

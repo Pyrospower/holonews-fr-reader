@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.26,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.2866,
+        "width": 0.0909,
+        "height": 0.0202
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka a participé au GGC x BOSS CUP Vol. 4 avec Mirage Bomber et Bancho. Le tournoi s'est déroulé en trois manches et l'équipe de Rikka a obtenu une victoire lors de la seconde manche. Ils ont gagné le tournoi avec un total de 44 points. Félicitations à eux !",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.3255,
+        "width": 0.3838,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Temma",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.5644,
+        "width": 0.1182,
+        "height": 0.0202
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Temma a eu envie de jouer à Mario Kart, mais avec une légère différence, il n'arrêtait pas de jouer tant qu'il n'aurait pas obtenu la première place dix fois. Ce défi était totalement faisable pour lui, puisque c'est l'un des meilleurs joueurs d'HOLSTARS. Temma a prouvé son talent tout en luttant contre les stream snipers en obtenant dix victoires en environ deux heures et demie.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.602,
+        "width": 0.3875,
+        "height": 0.1176
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.8169,
+        "width": 0.1255,
+        "height": 0.0202
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 18 août, COVER a annoncé que Gamma avait été testé positif au COVID-19. Ils ont ajouté qu'il n'a pas eu de contact avec d'autres talents. Ses activités seront temporairement suspendues jusqu'à son rétablissement. Bon rétablissement, Gamma !",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.8542,
+        "width": 0.3875,
+        "height": 0.079
+      }
+    },
+    {
+      "type": "other",
+      "text": "On Sale\nAugust 18",
+      "bbox": {
+        "x": 0.8855,
+        "y": 0.0732,
+        "width": 0.06,
+        "height": 0.0404
+      }
+    },
+    {
+      "type": "other",
+      "text": "“Dancing with the flowers.”\n2023 Calendar",
+      "bbox": {
+        "x": 0.5818,
+        "y": 0.1768,
+        "width": 0.3091,
+        "height": 0.0455
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.6345,
+        "y": 0.2462,
+        "width": 0.08,
+        "height": 0.0202
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a annoncé qu'il allait sortir plus de produits dérivés de lui-même ! Par exemple, « Dancing with the flowers », un calendrier pour 2023 qui comprend des illustrations qui étaient auparavant réservées aux membres de sa chaîne. Chaque illustration est basée sur une fleur différente et est illustrée par un artiste différent. Le calendrier coûte 2 500 yens et est en vente du 18 août au 19 septembre.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.2843,
+        "width": 0.39,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.6345,
+        "y": 0.4722,
+        "width": 0.0855,
+        "height": 0.0202
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Izuru s'est demandé sur Twitter si une bouteille en plastique vide exploserait s'il la passait au micro-ondes avec son bouchon.",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.5091,
+        "width": 0.3556,
+        "height": 0.0399
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.6345,
+        "y": 0.7639,
+        "width": 0.0855,
+        "height": 0.0202
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le stream Apex d'Izuru s'est transformé en collaboration lorsque Rikka et Astel l'ont rejoint. Au début, les fans ont été surpris lorsque Rikka a rejoint Izuru au début de son stream. Peu de temps après, Astel a rejoint leur appel Discord pour jouer avec eux. Ils ont très bien joué et ont gagné beaucoup de RP, et Izuru a réussi à atteindre le rang Platine. Izuru a réussi à passer de Or II à Platine IV en deux heures.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.8012,
+        "width": 0.3831,
+        "height": 0.1311
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cp33mksupok91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

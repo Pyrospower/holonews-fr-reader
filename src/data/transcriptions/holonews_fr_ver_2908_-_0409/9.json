@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.0819,
+        "y": 0.2161,
+        "width": 0.2806,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen5",
+      "bbox": {
+        "x": 0.2929,
+        "y": 0.2202,
+        "width": 0.07,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la deuxième semaine consécutive, Shishiron avait une nouvelle tenue à révéler. L'annonce a été une surprise pour la lionne elle-même. Elle a présenté près de soixante créations de fans, allant de motifs complexes à des motifs extravagants. Sa nouvelle tenue est décontractée, avec une veste à capuche, et son thème est « aller à la supérette au milieu de la nuit puis rentrer chez soi pour jouer ». Elle a deux nouvelles coiffures, une version détachée de ses cheveux sauvages et une autre avec à deux queues de cheval. Ses yeux peuvent également passer en mode sans émotion pour mettre la pression sur le SSRB.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.2569,
+        "width": 0.445,
+        "height": 0.1901
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.6357,
+        "y": 0.2183,
+        "width": 0.1057,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen5",
+      "bbox": {
+        "x": 0.75,
+        "y": 0.2212,
+        "width": 0.07,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nenechi, passionnée de coléoptères, a discuté avec enthousiasme de sa collection croissante de coléoptères avec Subaru pendant le stream discussion de cette dernière Afin de montrer la croissance de ses scarabées rhinocéros, Nenechi a créé un deuxième compte Twitter qui leur est consacré sous le nom d'utilisateur @_nenechidayo. En outre, Nenechi s'est lancée dans l'élevage de scarabées, puisqu'elle a fait s'accoupler ses scarabées éléphants et a actuellement une cinquantaine d'œufs de scarabées éléphants.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.2582,
+        "width": 0.445,
+        "height": 0.1558
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.59,
+        "y": 0.4315,
+        "width": 0.1114,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen5",
+      "bbox": {
+        "x": 0.7143,
+        "y": 0.4335,
+        "width": 0.07,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans l'épisode de cette semaine de La Légende de Polka, nous avons eu droit à un événement particulièrement délicieux ! Les PIEDS de Polka ! Non, bien que nous n'ayons pas eu l'occasion d'apercevoir une telle merveille, Polka a eu droit à un massage des pieds par un réflexologue. Entre deux crises de douleur dues au massage, Polka a également dû deviner quelle partie du corps était affectée par le point de pression massé. Par la suite, Polka a admis qu'elle se sentait plus légère après cette expérience. Les spectateurs voudront-ils devenir réflexologue pour pouvoir masser les pieds de leur oshi ? Seul le temps nous le dira.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.4692,
+        "width": 0.445,
+        "height": 0.1845
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.13,
+        "y": 0.6815,
+        "width": 0.1286,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen6",
+      "bbox": {
+        "x": 0.2686,
+        "y": 0.6825,
+        "width": 0.07,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Juste après le concert d'été d’hololive, Koyori a fait un stream d'endurance karaoké jusqu'à ce qu'elle atteigne 700K abonnés. Certains commentaires lui ont demandé si elle n'en faisait pas trop puisqu'elle avait fait un concert il y a quelques heures, mais en raison de la « fièvre du festival », de son amour pour le chant et de son désir de célébrer cette étape avec ses fans, elle a décidé de faire ce stream d'endurance. Elle a chanté pendant environ deux heures, interprétant plus de seize chansons, dont sa chanson originale « WAO!! ».",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.7192,
+        "width": 0.445,
+        "height": 0.1606
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/v2ax75rjaqn91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

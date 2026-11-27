@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.1426,
+        "y": 0.0347,
+        "width": 0.2463,
+        "height": 0.0283
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.1611,
+        "y": 0.2083,
+        "width": 0.1444,
+        "height": 0.0309
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À l'aide de son anglais séduisant, Okayu a donné des frissons aux Onigiriya d'outre-mer. Son « ara ara » a été super efficace ! Les Onigiriya japonais, quant à eux, ont pu commencer leur journée du bon pied.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2552,
+        "width": 0.4213,
+        "height": 0.0799
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mio",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.2083,
+        "width": 0.0907,
+        "height": 0.0257
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La grande déesse Mio a lancé des étoiles et même des planètes directement dans le soleil dans Universe Sandbox. Elle a également envoyé s'écraser sur Terre la planète naine Cérès ainsi que la lune martienne Deimos. Elle a conclu le stream en libérant un trou noir dans le système solaire.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2509,
+        "width": 0.4125,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Même durant sa pause, Korone s'est tenue occupée, jonglant entre enregistrements et réunions. Elle a laissé entendre qu'une chanson initialement prévue pour son anniversaire devrait bientôt être publiée.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.3763,
+        "width": 0.4256,
+        "height": 0.0794
+      }
+    },
+    {
+      "type": "heading",
+      "text": "STARS 1",
+      "bbox": {
+        "x": 0.145,
+        "y": 0.4922,
+        "width": 0.2488,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.1619,
+        "y": 0.6658,
+        "width": 0.1263,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Izuru a mentionné durant une de ses sessions Twitcast dans le bain qu'il était occupé à travailler sur sa thèse et s'est lamenté sur les devoirs qu'il avait à faire. Il a également discuté de ses idées pour des figurines en acrylique (acrylic stands) et a évoqué avoir été porté comme une princesse par Temma durant une de leurs leçons de danse communes.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7053,
+        "width": 0.4238,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.6315,
+        "y": 0.661,
+        "width": 0.1685,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dernier invité d'Aruran pour son émission Izakaya ARN était Oliver Evans, de Nijisanji. Le courant est bien passé entre les deux compères, qui ont discuté de sujets variés comme les problèmes liés à leur grande taille, leurs types d'alcools favoris ou encore leurs configurations de streaming. À l'approche de la fin du stream, les deux acolytes ont même commencé à envisager de futures collaborations.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7053,
+        "width": 0.4181,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant la AruRitsu Radio de Novembre, les deux amis ont discuté de ce à quoi ressemblerait une hypothétique école Holostars, du déroulement d'un concert Holostars imaginaire ainsi que d'autres sujets envoyés à l'avance par leurs spectateurs.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8798,
+        "width": 0.4144,
+        "height": 0.0877
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/i85zowdmjr381.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

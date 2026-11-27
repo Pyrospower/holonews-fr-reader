@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Astel Leda",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.0154,
+        "width": 0.3556,
+        "height": 0.0338
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après deux ans, Astel a célébré son deuxième anniversaire avec la révélation de son modèle 3D !",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.063,
+        "width": 0.4622,
+        "height": 0.0446
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a ouvert le spectacle avec une performance en solo sur « Just Follow Stars » et a dévoilé la scène où holostars fera ses futurs événements et concerts. Nous avons ensuite voyagé à travers les différentes scènes personnelles des membres d’holostars, sur chacune desquelles il a rencontré les autres membres et leur a demandé ce que signifiait holostars pour eux.",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.1246,
+        "width": 0.4556,
+        "height": 0.1415
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De retour sur la scène holostars, Astel a chanté une chanson accompagné d’invités spéciaux et des membres de sa chaîne dans le rôle des chœurs. Il a enchaîné sur sa propre scène avec ses chansons originales « Future Galaxy » et « Whistle Melody ».",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.2885,
+        "width": 0.4678,
+        "height": 0.0931
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sur sa scène personnelle, Astel a annoncé ses produits dérivés d’anniversaire : une tapisserie au format B2, une couette, une sacoche, un sweat-shirt, un porte-cartes et un badge d’icône de membre.",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.4023,
+        "width": 0.4544,
+        "height": 0.0777
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Deux ensembles sont disponibles, l’ensemble « Yume Koro Mo » qui inclut seulement une sacoche, un sweat-shirt, un badge d’icône de membre et une carte postale signée à la main et l’ensemble complet « One Two Shine » qui inclut tous les produits disponibles ainsi que la même carte postale accompagnée d’une autre signée à la main avec un message spécial.",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.5023,
+        "width": 0.4656,
+        "height": 0.1262
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a aussi annoncé qu’il vendrait un album de 12 morceaux qui contiendra toutes les musiques de fond utilisées dans son stream 3D. Pour sa prestation finale, il a chanté « Hokori Takaki Idol » où d'autres invités spéciaux ont participé aux chœurs. Il espère que ses débuts en 3D ont pu réaliser ses rêves ainsi que ceux de ses spectateurs.",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.6508,
+        "width": 0.4367,
+        "height": 0.1246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant le stream rétrospectif du lendemain, il a mentionné qu’il avait considérablement dépassé le budget assigné à ses débuts en 3D, et qu’ils ne devaient pas être comparés à ceux des autres, car c'était une exception. Il a aussi expliqué son choix d’invités et à quel point Shinove a travaillé dur pour lui. Astel a dit qu’il travaillait déjà sur son troisième anniversaire et que 2022 sera un nouveau voyage pour se trouver des amis.",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.7954,
+        "width": 0.4633,
+        "height": 0.1569
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/hzn54bq5i4781.gif",
+    "gifFrame": 116,
+    "confidence": 95
+  }
+}

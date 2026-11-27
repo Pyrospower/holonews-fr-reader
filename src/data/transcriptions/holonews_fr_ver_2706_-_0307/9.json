@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.2606,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.1669,
+        "y": 0.1788,
+        "width": 0.11,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyabi a publié son premier vlog de son voyage à Arakawa. Il nous a montré le paysage et nous a emmenés dans un café très mignon. Il a également montré ses repas et s'est assuré de prendre beaucoup de photos pour les montrer. Il prévoit de publier d'autres vlogs à l'avenir !",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3769,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.4466,
+        "width": 0.1094,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyabi s'est rendu pour la première fois dans son nouvel appartement le 3 juillet. Il a expliqué qu'il ne ressentait pas trop de différence, car il avait déjà l'impression de vivre seul depuis que son petit frère avait déménagé. Cependant, il a dit que cuisiner et faire le ménage lui-même était un gros changement. Miyabi nous a montré ce qu'il avait préparé pour le dîner, a mentionné que sa chambre était assez large pour jouer à Ring Fit correctement et s'est souvenu de toute la vaisselle qu'il avait achetée dans un magasin à 100 yens. Il a également mentionné qu'il voulait faire pousser plus de plantes dans sa nouvelle maison. Il a terminé le stream en annonçant que Temma et lui allaient faire une collab, en jouant au DLC de Cuphead.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.4861,
+        "width": 0.3875,
+        "height": 0.201
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.8342,
+        "width": 0.2062,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Temma a annoncé le 30 juin que le tournoi Mario Kart des HOLOSTARS sera de retour le 23 juillet ! Aruran ne participera malheureusement pas, mais il s'agira de la première collaboration à grande échelle entre les membres des HOLOSTARS et d'UPROAR!!.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8741,
+        "width": 0.3856,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.6331,
+        "y": 0.1788,
+        "width": 0.0862,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Izuru a streamé depuis son nouvel appartement et a mentionné que son Wi-Fi est beaucoup plus rapide que lorsqu'il vivait à la campagne. Il a également souligné que son logement est suffisamment grand pour accueillir 12 personnes et que le loyer est super bon marché ! Il a demandé au chat des recommandations sur une nouvelle chaise pour le streaming, ainsi que s'il était facile d'obtenir un permis moto car il veut l'utiliser pour aller pêcher. Il a terminé le stream après avoir mentionné tout ce qu'il lui restait à faire pour son nouvel appartement.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.2183,
+        "width": 0.3869,
+        "height": 0.1589
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.6356,
+        "y": 0.5143,
+        "width": 0.0831,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Récemment, Izuru a été occupé à déménager et à aménager sa nouvelle maison. Alors qu'il coupait et collait les dalles de moquette, il a raconté qu'il s'était coupé l'index et avait perdu un tiers de son ongle. Souhaitons un rétablissement rapide au doigt d'Izuru.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.5516,
+        "width": 0.3844,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Oga",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.7804,
+        "width": 0.0638,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Oga a joué à HoloCure en stream pour la première fois avec un nouveau compte, ce qui fait de lui le premier membre de HOLOSTARS à y jouer en stream. Il a précisé qu'il avait joué à ce jeu pendant de nombreuses heures hors stream sur son PC personnel.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.8194,
+        "width": 0.3863,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a expliqué qu'il avait vu qu'il était prévu d'ajouter plus de contenu dans les prochaines versions et que si jamais HOLOSTARS était ajouté, il ferait de son mieux pour jouer à ce jeu.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.9119,
+        "width": 0.3819,
+        "height": 0.0668
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4w71ks635kb91.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

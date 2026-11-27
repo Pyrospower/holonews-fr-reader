@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "holoX",
+      "bbox": {
+        "x": 0.4256,
+        "y": 0.2477,
+        "width": 0.1489,
+        "height": 0.0432
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suite aux débuts de La+, les membres d’holoX se sont rassemblées sur la chaîne principale d'hololive pour leur première collab en 3D ! Elles ont commencé par révéler leur cachette secrète, et elles ont montré une illustration complète de la pièce. Elles ont regardé les moments forts de leurs débuts en 3D, y compris le combat à l'épée d'Iroha, la promenade de Koyori dans le bar, et la promenade en moto de Lui.",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.5251,
+        "width": 0.3933,
+        "height": 0.1377
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont ensuite joué à plusieurs jeux, dont un où elles devaient deviner l'objet qu'elles tenaient dans leurs mains, les yeux bandés. Dans le deuxième jeu, elles devaient se glisser dans différentes silhouettes découpées.",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.7828,
+        "width": 0.3933,
+        "height": 0.0887
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La première était un simple ovale, mais pour les autres formes, dont un faucon, un coyote et un katana, il était physiquement impossible de passer au travers.",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.8889,
+        "width": 0.3933,
+        "height": 0.059
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Tout le monde a été éjecté dans les airs après avoir échoué à rentrer dans les lettres de « holoX » (en lettres extrêmement fines), bien que La+ ait miraculeusement survécu. Les membres d'holoX ont ensuite été transférées sur la scène des idols pour chanter « ROKI » et « Law-Evading Rock » avant de révéler quelques produits dérivés commémoratifs, dont :",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.5251,
+        "width": 0.37,
+        "height": 0.1362
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Des supports en acrylique 3D\n• Un diorama en acrylique\n• Un conteneur sur le thème d’holoX",
+      "bbox": {
+        "x": 0.5528,
+        "y": 0.7836,
+        "width": 0.3228,
+        "height": 0.0378
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les supports en acrylique 3D d'holoX sont disponibles avec les supports pour les autres membres de la branche japonaise d'hololive. Pour le grand final, les membres d'holoX ont interprété « Summertime Record » de Jin, et nous avons vu des notes écrites exprimant leur gratitude.",
+      "bbox": {
+        "x": 0.5344,
+        "y": 0.8391,
+        "width": 0.3711,
+        "height": 0.11
+      }
+    },
+    {
+      "type": "other",
+      "text": "SECRET SOCIETY",
+      "bbox": {
+        "x": 0.4222,
+        "y": 0.9576,
+        "width": 0.1811,
+        "height": 0.01
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/idjmrq835kb91.gif",
+    "gifFrame": 75,
+    "confidence": 93
+  }
+}

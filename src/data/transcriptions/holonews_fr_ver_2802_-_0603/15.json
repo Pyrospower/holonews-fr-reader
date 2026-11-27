@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "DIVERS",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.068,
+        "width": 0.217,
+        "height": 0.03
+      }
+    },
+    {
+      "type": "heading",
+      "text": "A-chan",
+      "bbox": {
+        "x": 0.152,
+        "y": 0.235,
+        "width": 0.165,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 28 février (JST), A-chan a fêté son cinquième anniversaire en tant que membre du personnel d’hololive. Elle a publié une vidéo sur le subreddit dans laquelle elle parlait en anglais et remerciait les fans d’outre-mer de soutenir hololive avec leurs messages amusants sur Reddit.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2782,
+        "width": 0.4275,
+        "height": 0.0955
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Plus tard, elle a mentionné dans son stream d’actualité mensuel sur la chaîne hololive, holoFM, qu’elle a été interrogée pour le numéro de mars de VTuber Style. Cependant, la plus grande annonce était qu’un nouveau membre du personnel, Harusaki Nodoka, va rejoindre COVER le 1er avril.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3837,
+        "width": 0.4269,
+        "height": 0.1081
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "(Veuillez noter que le 1er avril est tout simplement le début de l’année fiscale/financière au Japon et n’a rien avoir avec le Poisson d’avril.)",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.5052,
+        "width": 0.4163,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive",
+      "bbox": {
+        "x": 0.154,
+        "y": 0.743,
+        "width": 0.187,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour faire de la publicité pour l’hololive SUPER EXPO 2022, hololive production était sur les couvertures d’Asahi Newspaper le 1er mars. Cette couverture contenait plusieurs différents talents de chaque préfectures du Japon (47 préfectures). Et ce n’est pas tout, chaque couverture aura plusieurs motifs locaux en fonction de la préfecture où elles sont publiées.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7847,
+        "width": 0.4169,
+        "height": 0.1597
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive",
+      "bbox": {
+        "x": 0.625,
+        "y": 0.237,
+        "width": 0.186,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 1er mars, une collaboration entre hololive et le jeu mobile Tokyo 7th Sisters a été annoncée. On va pouvoir retrouver Sora, AZKi et Suisei comme personnages qui pourront être gagnés dans le tirage du gacha. Le jeu aura également une interprétation de certaines de leurs chansons telles que « GHOST », « The Last Frontier » et « Miren Records » par Hoshikage Ai et Tsukiyo Yui, deux personnages originaux du jeu. Cette collaboration est d’une durée limitée, prévu d’être disponible à partir du 8 mars à 18h00 jusqu’au 22 mars à 14h59.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2791,
+        "width": 0.4225,
+        "height": 0.2127
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloERROR",
+      "bbox": {
+        "x": 0.626,
+        "y": 0.682,
+        "width": 0.261,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 3e épisode de la série 2D d’holoERROR a été mis en ligne le 5 mars (JST). Suzune (Nene) s’est excusée auprès du protagoniste pour l’avoir frappé dans l’épisode précédent, croyant que la rumeur circulant à propos de l’étudiant transféré soit vraie, tandis que Touka (Lamy) n’y croit pas du tout. Presque immédiatement après que le protagoniste l’ait pardonné, un tremblement de terre a fait s’effondrer la pièce sur elle-même, et le protagoniste est laissé seul dans un couloir intact. C’est ensuite qu’il a rencontré Misora Shino (Sora), cette dernière le reconnaissant.",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.72,
+        "width": 0.427,
+        "height": 0.225
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/dtit2tt6bdn81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

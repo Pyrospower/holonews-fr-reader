@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.1144,
+        "y": 0.0677,
+        "width": 0.3044,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.2404,
+        "width": 0.1354,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "LaLion a publié une compilation d’extraits rassemblant les meilleurs moments de ses streams en 2021 partagés par les SSRB sur Twitter. On peut retrouver des extraits de la collab Gang Beast du NePoLaBo, son concert d’anniversaire, son stream de célébration du million d’abonnés et bien plus encore, comme par exemple la surprenante frayeur durant RE: Village !",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.2808,
+        "width": 0.4213,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Président Botan a tout mis en œuvre pour libérer son pays dans Metal Wolf Chaos XD ! Elle a anéanti ses ennemis et parfois même ses alliés à bord d’un mecha ultramoderne équipé d’un arsenal d’armes allant du fusil d’assaut au bazooka.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.4549,
+        "width": 0.4156,
+        "height": 0.1176
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.7201,
+        "width": 0.1292,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka a fait ses prédictions sur l’année 2022 d’hololive. Certaines étaient plutôt prévisibles, comme de nouvelles chansons originales ou des packs de voix d’Halloween, quand d’autres étaient plus audacieuses comme la multiplication et les débuts en stream de YAGOO, ainsi qu’une nouvelle génération d’hololive dès Mars.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.7635,
+        "width": 0.4244,
+        "height": 0.1549
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy & Botan",
+      "bbox": {
+        "x": 0.6575,
+        "y": 0.2444,
+        "width": 0.2656,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le premier rencard d’horreur de l’année entre Shishiron et Lamy, elles ont joué ensemble à hololive ERROR. Pour renforcer l’immersion, elles vêtu leurs modèles 3D à domicile d’uniformes d’écolières. Tout comme leurs personnages, Botan portait l’ancienne tenue tandis que Lamy revêtait la version moderne. Sans surprise, cette dernière a été terrifiée par le moindre bruit et a passé tout son temps cachée derrière Shishiron.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2799,
+        "width": 0.4194,
+        "height": 0.1471
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Botan a recommandé le roman à succès « Tokkyo Yaburi no Joō Benrishi Ōtori Mirai », ce qui peut se traduire par « L’agente de brevets Ōtori Mirai, reine des violations de brevets ». Vous pouvez retrouver le commentaire de Botan sur le marque page ruban du roman en l’achetant sur TATSUYA.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4531,
+        "width": 0.4194,
+        "height": 0.1285
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.7201,
+        "width": 0.1108,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En raison de l’absence d’Aqua à la visite d’holoX sur Minecraft, Nene a endossé le rôle de PDG remplaçant d’Akukin. La société s’est vue temporairement renommer en « Nenekin ». Avant l’arrivée d’holoX, Nene a construit la tristement célèbre maison en obsidienne à TNT avec l’aide de ses deux cadres, Mio et Marine. Elles ont ensuite présenté les merveilles de « Nenekin » avant de mener holoX au piège méticuleusement préparé.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.7587,
+        "width": 0.4269,
+        "height": 0.1758
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4asej26kevc81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

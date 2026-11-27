@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stars",
+      "bbox": {
+        "x": 0.4513,
+        "y": 0.0174,
+        "width": 0.0988,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.1663,
+        "y": 0.1784,
+        "width": 0.0806,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel s'est réveillé au milieu de la nuit et a décidé de faire un stream à 02:45 JST. Ce n'est pas un événement rare, mais pour celui-ci, Astel avait prévu de streamer pendant 12 heures pour tuer le temps jusqu'à sa réunion de l'après-midi. Il a commencé par Valorant, mais a également joué à Vampire Survivors, Golf It et Apex.",
+      "bbox": {
+        "x": 0.0613,
+        "y": 0.2235,
+        "width": 0.3981,
+        "height": 0.1016
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Son stream eu de nombreux moment mémorable , comme des moments de rage sur Golf It ou des parties classés d’Apex avec ses spectateurs. Il a également raconté quelques histoires, comme celle de ses vêtements sur-mesure qui lui ont coûté une fortune.",
+      "bbox": {
+        "x": 0.0619,
+        "y": 0.3368,
+        "width": 0.4094,
+        "height": 0.0764
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Consultez ces archives pour voir tous les autres moments mémorables qu'il a faits pendant ces 12 heures !",
+      "bbox": {
+        "x": 0.0619,
+        "y": 0.4249,
+        "width": 0.3563,
+        "height": 0.0386
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holostars",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.6037,
+        "width": 0.1537,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de l'ouverture de la SUPER EXPO 2022, les fans ont été accueillis par le teaser d'un nouveau groupe holostars appelé UPROAR ! Le groupe est composé de quatre membres : Yatogami Fuma, un démon aimant les humains et un peu maniaque de la propreté ; Utsugi Uyu, un voleur fantôme faciné par la beauté ; Hizaki Gamma, un mangaka (artiste de manga) devenu idole ; et Minase Rio, un fantôme qui a peur des fantômes et d'autres choses effrayantes, à l'exception de lui-même. Leurs illustrateurs sont respectivement sakusya2, yonemuro, takita et KEKI. Consultez le Twitter des holostars pour voir leurs dessins, et restez à l'écoute pour de nouvelles annonces !",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.6437,
+        "width": 0.3919,
+        "height": 0.247
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.6331,
+        "y": 0.1784,
+        "width": 0.0806,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après son stream de 12 heures, Astel a déclaré sur Twitter qu'il serait très occupé et qu'il ferait donc une pause jusqu'à samedi. Le lendemain, Astel a rejoint CR Kawase, Yufuna et Totomi, streamers d'Apex, et Hanabusa Lisa de VSPO dans leurs matchs de Valorant. Puisque Astel n'était pas sur sa chaîne, il n'était techniquement pas en stream, non ?",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.2183,
+        "width": 0.375,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.6331,
+        "y": 0.5065,
+        "width": 0.0806,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir annoncé les équipes participantes au tournoi VTuber Saikyou, Astel a adopté des restrictions qui ont fait baisser ses points à 9. Il a changé son nom sur Twitter en « Mad Maggie / Ex-Astel ». Il n'est plus Astel Leda de la 2e génération d'Holostars. Salutations, Mad Maggie le raton laveur !",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.546,
+        "width": 0.3838,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Oga",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.7912,
+        "width": 0.0644,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Oga est devenu ému et a pleuré en direct en regardant la performance de Iofi et Risu dans Link Your Wish. Il a été touché et fier que leurs modèles 3D aient enfin été présentés. Il considère AREA15 comme leurs camarades de génération car leurs dates de début sont proches l'une de l'autre.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.8312,
+        "width": 0.3988,
+        "height": 0.1024
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ozi8q661s5q81.png",
+    "gifFrame": null,
+    "confidence": 87
+  }
+}

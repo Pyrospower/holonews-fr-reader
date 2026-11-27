@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0702_-_1302",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOX",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.04,
+        "width": 0.207,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+",
+      "bbox": {
+        "x": 0.158,
+        "y": 0.213,
+        "width": 0.083,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dame Laplus poursuit sa conquête du monde en s’attaquant cette fois à Twitch. Juste après avoir annoncé l’inauguration de son compte Twitch, La+ y a streamé accompagnée de l’autre fille violette, Shion. Tout semble s’être déroulé selon son plan, puisque son stream a rassemblé plus de 10 000 spectateurs. N’oubliez pas de prouver votre fidélité à notre maîtresse des ténèbres en la suivant et en s’abonnant à sa chaîne Twitch !",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2591,
+        "width": 0.4181,
+        "height": 0.1675
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+",
+      "bbox": {
+        "x": 0.158,
+        "y": 0.573,
+        "width": 0.083,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la Saint Valentin, Sora a offert des chocolats à tous les membres d’hololive ! La+ a cependant cru recevoir des chocolats honmei (chocolats de déclaration d’amour) et s’en est vantée sur Twitter, avant d’être ramenée à la réalité par les autres membres, lui révélant qu’ils avaient aussi reçu les mêmes chocolats.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.6141,
+        "width": 0.4156,
+        "height": 0.1181
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iroha",
+      "bbox": {
+        "x": 0.631,
+        "y": 0.212,
+        "width": 0.126,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mercredi soir, Iroha a fait un stream alcoolisé dont la VOD serait seulement accessible par les membres de sa chaîne. Il faisait suite à un long stream restreint d’accès à ses membres avant lequel elle avait bu et dont elle avait examiné la VOD pour s’assurer qu’elle n’avait rien dit d’étrange. Elle a parlé de son travail en tant que samouraï, et de ses préparatifs en vue du stream : beaucoup d’eau, des casse-croûtes aux fruits de mer et des boissons faiblement alcoolisées. La conversation s’est ensuite portée sur sa tolérance à l’alcool, les réunions régulières de sa famille où ses cousins boivent toute la nuit, et son ressenti quant au fait de boire avec son tchat. Ce dernier l’a aussi taquinée constamment en la désignant comme mignonne et puérile, dont elle s’est défendue en disant qu’un enfant ne boirait pas d’alcool.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.2552,
+        "width": 0.4269,
+        "height": 0.3086
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant qu’elle buvait du saké, on l’a questionnée sur son savon, son shampooing et son parfum préférés. Elle a expliqué qu’elle ne mettait pas de parfum et n’avait toujours pas trouvé de shampooing favori. À la fin du stream, elle s’est mise au défi de faire moins de dix erreurs en lisant les Super Chats. Après plus de 600, elle a perdu le défi et devra planifier un stream sur un jeu d’horreur en guise de punition.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.5755,
+        "width": 0.4269,
+        "height": 0.1558
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lui & Botan",
+      "bbox": {
+        "x": 0.1944,
+        "y": 0.7878,
+        "width": 0.2556,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans leur première collaboration officielle, Botan et Lui ont fait équipe sur Call of Duty Mobile. Bien que LaLion avait précédemment fait la promotion du jeu, aucune des deux amies n’était familière avec le jeu mobile à la première personne. En effet, leur précision était incomparable à celle observable dans leurs autres streams.",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.8394,
+        "width": 0.4125,
+        "height": 0.1211
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme c’est la tradition avec les jeux mobiles, les deux amies se sont essayées au gacha pour obtenir des cosmétiques. La chance a béni Shishiron avec deux SSR d'affilée. Celle-ci a tout obtenu en seulement 10 essais, alors que Lui a dû acheter des articles après ses invocations ratées.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.8555,
+        "width": 0.4225,
+        "height": 0.1085
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ywb64loe17j81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

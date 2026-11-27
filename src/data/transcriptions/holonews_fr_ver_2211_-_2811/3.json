@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 0",
+      "bbox": {
+        "x": 0.1864,
+        "y": 0.0393,
+        "width": 0.1652,
+        "height": 0.0264
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.2095,
+        "width": 0.1413,
+        "height": 0.0242
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei sera l’interprète du générique du jeu VR DYSCHRONIA: Chronos Alternate. La chanson s’intitule « 7days ».",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.2556,
+        "width": 0.4219,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.45,
+        "width": 0.0978,
+        "height": 0.0215
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine fut marquante pour Sora avec la sortie de son nouvel album Re:Play. Pour célébrer cela, elle a organisé un stream durant lequel elle a parlé de son travail sur les musiques, et en a même chanté quelques-unes. Sora a mentionné qu’elle a acheté trois copies de son album, mais grâce à sa manager, elle en a maintenant quatre. Elle a également tenu un stream karaoké un peu plus tard dans la semaine où elle a notamment partagé son impression sur l’annonce de la 6e génération d’hololive. Elle a trouvé Chloe très intéressante à cause de son air mystérieux.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.4952,
+        "width": 0.4213,
+        "height": 0.2526
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.6332,
+        "y": 0.2095,
+        "width": 0.1179,
+        "height": 0.0242
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko a atteint les 1,3 millions d’abonnés durant son stream karaoké d’endurance, passant les 1 000 derniers pour atteindre son objectif sur les chansons originales des membres de Shiraken, en commençant par « Smile & Go » (Flare), « Hologram Circus » (Polka), « Stellar Stellar » (Suisei) et enfin sa propre chanson, « Sakurakaze » (Miko).",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2522,
+        "width": 0.4256,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roboco & Amelia",
+      "bbox": {
+        "x": 0.6462,
+        "y": 0.5151,
+        "width": 0.3043,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la toute première fois, nous avons été témoin d’une collab 3D entre les branches JP et EN. Smol Ame et Roboco se sont rencontrées sur VRChat et ont exploré la carte qui était déjà apparue dans l’anniversaire d’holoEN et la collab Halloween. Elles ont ensuite joué avec des chiens, fait un peu de jeu de plateforme et se sont battues dans l’arène. L’incroyable caractère créatif d’Ame s’est une fois de plus révélé inarrêtable, et même la barrière linguistique n’a pas pu empêcher ses adorables échanges en VR avec Roboco.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.5543,
+        "width": 0.4269,
+        "height": 0.2023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko a organisé un cours de cuisine au cours duquel elle a préparé un plat spécial camping ! Il était composé de pâte, de sauce tomate, d'oignons, de bacon et de deux types de fromages, le tout mélangé dans une poêle semblable à celles utilisées pour faire des taiyaki (le tout saupoudré de sel et de poivre selon le goût). Après cela, elle a parlé à ses spectateurs de son envie d’aller camper avec d'autres membres d'hololive et leur a demandé ce qu'ils feraient s'ils pouvaient échanger de corps avec Noel.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.7886,
+        "width": 0.4206,
+        "height": 0.1762
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8pp441emjr381.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

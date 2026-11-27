@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Kazama Iroha",
+      "bbox": {
+        "x": 0.1,
+        "y": 0.0738,
+        "width": 0.344,
+        "height": 0.118
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Iroha a commencé son stream d’anniversaire d’appels avec une petite introduction, et même un salut en anglais qu’elle a dit avoir répété. La première a avoir appelé était Matsuri, qui a remercié Iroha pour ses cookies faits maison. Mel a poussé Iroha à lui parler plus en disant qu’il n’y aurait aucun problème. Fubuki a appelé en tant que Riddle Mask, présentant à Iroha une devinette et une couronne. Kanata a raconté qu’elle regardait les streams d’Iroha avec grand intérêt et avoue avoir aussi regardé ses archives.",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.2886,
+        "width": 0.5325,
+        "height": 0.1628
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haato l’a invitée à un rencard sur Minecraft un de ces quatre. Miko lui a offert un dessin de kalbi (côtes de bœuf grillé), Iroha a répondu en l’invitant à manger du yakiniku ensemble plus tard. AZKi voulait qu’Iroha chante l’une de ses chansons un jour. Suisei a appelé en mode Bushimachi et a parlé avec Iroha en ancienne langue pour être à l’égal des manies de parler d’Iroha. La dernière personne à appeler était la maman d’Iroha, qui lui a offert un nouvel accessoire de microphone qui ressemble à son katana.",
+      "bbox": {
+        "x": 0.0319,
+        "y": 0.4844,
+        "width": 0.53,
+        "height": 0.1597
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Iroha a ensuite annoncé qu’il y aurait un bêtisier de son début 3D réservés à ses membres. Enfin, elle a révélé ses produits dérivés d’anniversaire:",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.6962,
+        "width": 0.5288,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un tapis\n• Une figurine en acrylique\n• Le charme de Kazama, conçu par Iroha\n• Un coussin Zabuton\n• 2 voix d’anniversaire",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.7626,
+        "width": 0.3975,
+        "height": 0.0768
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un bonus pour l’achat complet est une carte postale avec son autographe, un message écrit par Iroha, et un enregistrement situationnel. Pour finir, Iroha a remercié ses spectateurs pour leur support et a révélé un nouvelle fin de stream.",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.8615,
+        "width": 0.53,
+        "height": 0.0768
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/vsc0491007891.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

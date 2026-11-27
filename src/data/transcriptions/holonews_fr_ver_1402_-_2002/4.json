@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Temma & Miyabi",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.4413,
+        "width": 0.8015,
+        "height": 0.094
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyabi et Temma ont annoncé qu'ils allaient bientôt recevoir des tenues assorties, et les ont montrés le lendemain. Le premier était Miyabi ! Il a reçu un costume du style du Chaperon Rouge qui a été créé par son illustratrice, Hou, qui n'a pas créé de tenue pour lui depuis ses débuts. Ce nouveau style est complété par un loup appelé Lupinus, des lunettes et un pistolet.",
+      "bbox": {
+        "x": 0.0461,
+        "y": 0.5563,
+        "width": 0.8933,
+        "height": 0.0891
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après lui, Temma a dévoilé sa nouvelle tenue inspirée du Chapelier fou d'Alice au pays des merveilles. Au même moment, Hiyamaru a également reçu un costume et un chapeau assorti. Temma a également révélé le clip très attendu de sa chanson originale, « Shooting Star ». Après avoir passé en revue les tenues, les Hanashiki ont parlé après leurs streams, et ils ont raconté plus de détails sur leurs looks assortis.",
+      "bbox": {
+        "x": 0.045,
+        "y": 0.6636,
+        "width": 0.8933,
+        "height": 0.1022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le duo a révélé qu'il lançait une émission de radio commune, Hanashiki Radio, qui aura lieu sur leurs chaînes. Le premier épisode sera diffusé le 28 février à 07h00 JST sur la chaîne de Miyabi.",
+      "bbox": {
+        "x": 0.0461,
+        "y": 0.7878,
+        "width": 0.8994,
+        "height": 0.0525
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils ont également introduit des produits commémoratifs :\n- Des supports en acrylique qui peuvent être combinés\n- Un miroir de poche rabattable",
+      "bbox": {
+        "x": 0.0467,
+        "y": 0.8596,
+        "width": 0.6094,
+        "height": 0.0525
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous achetez le set complet, vous recevrez deux lettres, une lettre simple de Temma et une lettre écrite à la main par Miyabi.",
+      "bbox": {
+        "x": 0.0461,
+        "y": 0.9306,
+        "width": 0.8611,
+        "height": 0.0347
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5c90dx9hplk81.gif",
+    "gifFrame": 90,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.0926,
+        "y": 0.047,
+        "width": 0.3574,
+        "height": 0.0327
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.2094,
+        "width": 0.1632,
+        "height": 0.0327
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 14 février, Miyabi est revenu après s'être remis du COVID-19. Il est aussi énergique qu'avant, bien que sa gorge n'ait pas encore récupéré à 100%. Il a dit qu'il se sentait bien et qu'il pouvait jouer à des jeux pendant 10 heures d'affilée et que la fièvre avait déjà disparu. Miyabi a également expliqué comment lui et sa famille avaient contracté le COVID-19, et a précisé que si les autres allaient déjà mieux, son père présentait toujours des symptômes. Il s'est également inquiété du fait que ses fans aient pu l'oublier pendant son absence, et a parlé de la façon dont le reste des holoStars avait été gentil avec lui, et a mentionné qu'il voulait faire un autre stream dès que possible. À la fin, Miyabi a assuré à tout le monde qu'il pourrait à nouveau diffuser.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2565,
+        "width": 0.4269,
+        "height": 0.2808
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Oga",
+      "bbox": {
+        "x": 0.1603,
+        "y": 0.6691,
+        "width": 0.0897,
+        "height": 0.0306
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En guise de cadeau de Saint-Valentin pour ses fans, les Omae-sans, Oga a mis en place un stream dessin pour redessiner son emoji Omae-san et le rendre un peu plus mignon. Oga a prêté une attention toute particulière au nouveau dessin, notamment à la taille et à la forme de ses yeux. Il a également joué avec le design, ajoutant un nez et une bouche pour lui donner un air intimidant, mais ces ajouts n'ont pas été retenus dans la version finale. Après s'être amusé, il a coloré le nouvel emoji et y a ajouté des reflets. Lorsqu'il a terminé, il a remplacé l'emoji par un nouveau sans quitter le streamer.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7127,
+        "width": 0.4256,
+        "height": 0.24
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.6324,
+        "y": 0.2574,
+        "width": 0.1191,
+        "height": 0.0306
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a enfin révélé le TENGA promis. Après une discussion avec leur compte Twitter, Astel a reçu une édition spéciale de TENGA pour le Nouvel An avec des tigres représentés, symbolisant le signe du zodiaque de cette année. Il prévoit de l'utiliser comme décoration pour l'entrée de sa maison.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3016,
+        "width": 0.4219,
+        "height": 0.1181
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a rendu visite à Yunohara Izumi d'Animare pour l'affronter sur Yu-Gi-Oh ! Master Duel. Il avait préparé un total de six jeux de cartes pour cette collab. Astel a admis à Izumi qu'il avait dépensé environ 80 000 ¥ pour le jeu. Il a ajouté qu'en préparant cette collaboration, il avait dépensé 120 000 ¥ supplémentaires. Au total, il a dépensé 200 000 ¥ sur Yu-Gi-Oh. Astel détient la carte la plus puissante de tous les jeux de cartes, une carte de crédit.",
+      "bbox": {
+        "x": 0.5275,
+        "y": 0.4405,
+        "width": 0.4263,
+        "height": 0.1589
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.6294,
+        "y": 0.763,
+        "width": 0.1691,
+        "height": 0.0306
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "DJ ARN est de retour ! Cette fois avec son modèle 3D à la maison, Aruran a mis le chat en folie, en mixant diverses chansons, dont certaines chansons originales d'holoStars. Grâce à modèle 3D, Aruran a acquis un autre pouvoir : il peut désormais pointer directement les messages et les Super Chats qui apparaissent à l'écran. Ses téléspectateurs étaient très heureux de pouvoir être pointés du doigt.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8082,
+        "width": 0.4238,
+        "height": 0.1441
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/26e2rg9hplk81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

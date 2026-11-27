@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Sakamata Chloe",
+      "bbox": {
+        "x": 0.0467,
+        "y": 0.0491,
+        "width": 0.1733,
+        "height": 0.0157
+      }
+    },
+    {
+      "type": "other",
+      "text": "Birthday 5/18\nHeight 148cm",
+      "bbox": {
+        "x": 0.4987,
+        "y": 0.0241,
+        "width": 0.1933,
+        "height": 0.0639
+      }
+    },
+    {
+      "type": "heading",
+      "text": "SAKAMATA CHLOE",
+      "bbox": {
+        "x": 0.1653,
+        "y": 0.3546,
+        "width": 0.28,
+        "height": 0.0222
+      }
+    },
+    {
+      "type": "other",
+      "text": "Clin d’œil",
+      "bbox": {
+        "x": 0.2973,
+        "y": 0.4833,
+        "width": 0.16,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "other",
+      "text": "Pleurnichant",
+      "bbox": {
+        "x": 0.08,
+        "y": 0.613,
+        "width": 0.2173,
+        "height": 0.0222
+      }
+    },
+    {
+      "type": "other",
+      "text": "HOLOLIVE 6th GENERATION\n“THE CLEANER” SETTING DESIGN",
+      "bbox": {
+        "x": 0.1747,
+        "y": 0.7426,
+        "width": 0.2533,
+        "height": 0.0102
+      }
+    },
+    {
+      "type": "other",
+      "text": "FRONT",
+      "bbox": {
+        "x": 0.3187,
+        "y": 0.7833,
+        "width": 0.0333,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "other",
+      "text": "BACK",
+      "bbox": {
+        "x": 0.3773,
+        "y": 0.7833,
+        "width": 0.028,
+        "height": 0.0083
+      }
+    },
+    {
+      "type": "other",
+      "text": "CAUTION",
+      "bbox": {
+        "x": 0.4867,
+        "y": 0.787,
+        "width": 0.06,
+        "height": 0.0074
+      }
+    },
+    {
+      "type": "other",
+      "text": "06 GEN",
+      "bbox": {
+        "x": 0.3547,
+        "y": 0.8231,
+        "width": 0.0213,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "other",
+      "text": "©2016 COVER Corp.",
+      "bbox": {
+        "x": 0.504,
+        "y": 0.9731,
+        "width": 0.068,
+        "height": 0.0074
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0mqtdjq8kc481.gif",
+    "gifFrame": 91,
+    "confidence": 62
+  }
+}

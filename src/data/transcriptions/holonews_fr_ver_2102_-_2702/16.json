@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 16,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MISC",
+      "bbox": {
+        "x": 0.1923,
+        "y": 0.0788,
+        "width": 0.1538,
+        "height": 0.0307
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive",
+      "bbox": {
+        "x": 0.1594,
+        "y": 0.2904,
+        "width": 0.185,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le but de promouvoir l'événement à venir hololive SUPER EXPO 2022, le 19 et 20 mars, des affiches ont été postées dans les gares des 47 préfectures du Japon pour cette semaine.",
+      "bbox": {
+        "x": 0.0581,
+        "y": 0.3333,
+        "width": 0.415,
+        "height": 0.0742
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les vedettes sont Watame, Gura, Ollie, Towa, et Nene dans les préfectures d'Hokkaido et Tohoku ; Roboco, IRyS, Moi, Kanata, Sora (avec holoX), Miko, et Aqua sont à Kanto ; Lamy, Okayu, Shien et Oga, Akirose, Calli, Suisei, Risu, Botan, et Matsuri à Shubu ; Moona, Mel, Ayame, Luna, Ina, Polka, et Kiara sont à Kinki ; Pekora, Amelia, Subaru, Fubuki, Anya, Iofi, AZKI, et Shion, ensemble avec Rikka, Izuru, Arurandeisu, et Miyabi sont à Chugoku et Shikoku ; et Korone, Reine, Flare, Noel, Haachama, et Marine aux côtés d’holoCouncil et Astel, Roberu, et Temma sont à Kyushu et Okinawa.",
+      "bbox": {
+        "x": 0.0581,
+        "y": 0.4275,
+        "width": 0.4094,
+        "height": 0.2331
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette campagne se déroulera tout le long du mois de mars et comprendra aussi un mystère à résoudre centré autour des posters.",
+      "bbox": {
+        "x": 0.0588,
+        "y": 0.6771,
+        "width": 0.3931,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.2912,
+        "width": 0.185,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le deuxième épisode 2D d’hololive ERROR disponible depuis le 26 février. Pendant que le protagoniste se promène dans le parc avec Inari (Fubuki) et Touka (Lamy), Inari nous apprend que beaucoup d'élèves dans la classe voisine étaient absents. Touka a obstinément accusé une grippe d’été, mais le protagoniste croit qu’il y avait autre chose. Le jour suivant, en classe, Suzune (Nene) demande aux protagonistes et à Hanabi (Matsuri) de les accompagner au festival, alors qu’Inari raconte une rumeur qui dit que « l’élève transféré doit être bien traiter, ou de mauvaise chose arriverons ».",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.3281,
+        "width": 0.4188,
+        "height": 0.217
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.7942,
+        "y": 0.6382,
+        "width": 0.1442,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Luna, Towa, Iroha, et Laplus se sont rassemblées pour jouer à Splatoon. Au beau milieu des tentatives de flirt obstinées de Laplus avec Towa et Iroha et les bruyantes réactions de Towa a ceci, Princesse Luna nous démontré une grande force de concentration en dominant les parties.",
+      "bbox": {
+        "x": 0.5263,
+        "y": 0.6766,
+        "width": 0.4138,
+        "height": 0.1003
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/r4ro0vn9e0m81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

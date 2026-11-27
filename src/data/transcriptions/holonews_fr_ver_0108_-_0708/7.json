@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 1",
+      "bbox": {
+        "x": 0.4463,
+        "y": 0.0174,
+        "width": 0.1094,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.6188,
+        "y": 0.0968,
+        "width": 0.11,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kurokami est de retour ! Cette fois-ci, Kuro-sama a joué à Fall Guys avec un gage, si jamais elle s’énervait, elle devait mettre fin au stream. Au fil du stream, Shirakami a souvent dû censurer les jurons de Kurokami, puis a du excuser auprès d’elle pour avoir déconnecté la manette par accident, s'est faite battre par Kurokami, et s'est faite accusé d’avoir fait rétrécir la poitrine de Kurokami. Kuro-sama a également offert à ses auditeurs un « baiser sadique », a raconté à ses spectateurs qu'il était normal de tricher et a dit que ses spectateurs étaient des « cherry boys ». Merci Kuro-sama.",
+      "bbox": {
+        "x": 0.5188,
+        "y": 0.1354,
+        "width": 0.4231,
+        "height": 0.1714
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 2",
+      "bbox": {
+        "x": 0.45,
+        "y": 0.365,
+        "width": 0.12,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.616,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La quatrième colonne d’Aqua sur le site Red Bull a été publiée. Dans celle-ci, Aqua parle de son parcours depuis ses débuts, comment tout son environnement a changé, sa manière de penser, et sa manière de jouer. Son cercle d’amis et sa famille ont grandi. Elle veut continuer à changer et à s’améliorer pour sa cinquième année en tant que membre d’hololive.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.6549,
+        "width": 0.405,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ayame",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.89,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La nouvelle entraîneuse vocale d’Ayame a lu son nom comme Hyakki Ayame, mais cette dernière était trop timide pour la corriger… Cela va faire maintenant un an et demi depuis.",
+      "bbox": {
+        "x": 0.0731,
+        "y": 0.9271,
+        "width": 0.3863,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.637,
+        "y": 0.54,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suite à la recommandation de Botan la semaine dernière, Subaru a commencé à jouer à Persona 4. Elle semble apprécier le jeu axé sur les dialogues, puisqu’elle s’immergent complètement dans le monde de Persona. Elle a streamé plusieurs jours de suite, pour un total de onze heures !",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.5794,
+        "width": 0.3888,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru & Okayu",
+      "bbox": {
+        "x": 0.6475,
+        "y": 0.8316,
+        "width": 0.2519,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru et Okayu ont fini Metroid en une fois. Les deux n’avaient jamais joué au jeu avant. Elles ont dû coopérer pendant environ 6 heures avant de réussir à terminer le jeu. A la fin, Subaru était choquée d’apprendre que Samus était une femme.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.8733,
+        "width": 0.3781,
+        "height": 0.0773
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/x9kqii56lwh91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

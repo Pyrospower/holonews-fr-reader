@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Aki Rosenthal",
+      "bbox": {
+        "x": 0.035,
+        "y": 0.0324,
+        "width": 0.3211,
+        "height": 0.0266
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le concert d'Akirose du 18 février était une comédie musicale (préenregistrée) basée sur « Alice in Musicland », une chanson d'OSTER Project. La comédie musicale mettait en scène Aki dans le rôle d'Alice, Pekora dans celui du lapin, et Towa dans celui du chanteur heureux. Il y avait également Subaru dans le rôle du Chapelier fou, Roboco et Luna dans celui des sœurs jumelles, Kanata dans celui du « Chat du Cheshire », et Suisei dans celui de la maîtresse. Après avoir rencontré le Chat, Roboco et Luna ont rendu visite à Aki pour jouer à Kuromaki Quiz : Aki devait trouver l'intrus dans une grande image, mais en ne voyant qu'une petite partie de l'image.",
+      "bbox": {
+        "x": 0.0261,
+        "y": 0.0748,
+        "width": 0.45,
+        "height": 0.216
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après cela, elle a révélé son ses produits dérivés d'anniversaire :",
+      "bbox": {
+        "x": 0.0267,
+        "y": 0.3025,
+        "width": 0.395,
+        "height": 0.0258
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- Un certificat, un badge, et une boite de rangement Rose Knight\n- Une peluche Rose Knight\n- Un masque de nuit Rose Knight\n- Une peluche Jobz\n- Trois packs de voix ASMR situationnelles",
+      "bbox": {
+        "x": 0.0272,
+        "y": 0.341,
+        "width": 0.4111,
+        "height": 0.086
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les bonus pour l’achat de l’ensemble complet sont une carte postale dédicacée et un fichier audio ASMR.",
+      "bbox": {
+        "x": 0.0272,
+        "y": 0.4367,
+        "width": 0.4411,
+        "height": 0.0405
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les derniers morceaux étaient « JOY » interprété par Roboko et Luna, tandis qu'Aki a interprété « Heroine Audition », « The Snow White Princess Is » et « U ». Les festivités se sont terminées par un numéro de groupe auquel a participé Suisei",
+      "bbox": {
+        "x": 0.0267,
+        "y": 0.4896,
+        "width": 0.4417,
+        "height": 0.0864
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Yuzuki Choco",
+      "bbox": {
+        "x": 0.5461,
+        "y": 0.0332,
+        "width": 0.325,
+        "height": 0.0262
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a célébré son anniversaire en faisant son premier concert en 3D. Elle a chanté 9 chansons au total, avec Roboco, Subaru, Luna, Botan, Noel, Marine et Mel ! Choco a montré qu'elle s'était améliorée en chant et en danse, et nous a donné une incroyable performance.",
+      "bbox": {
+        "x": 0.5472,
+        "y": 0.0799,
+        "width": 0.4244,
+        "height": 0.1011
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a annoncé la mise en vente de produits dérivés commémoratifs pour son anniversaire :",
+      "bbox": {
+        "x": 0.5478,
+        "y": 0.1798,
+        "width": 0.4067,
+        "height": 0.0405
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- Un traversin\n- Un bol de riz diabolique\n- Deux packs de voix ASMR d’anniversaire",
+      "bbox": {
+        "x": 0.5478,
+        "y": 0.2334,
+        "width": 0.4206,
+        "height": 0.0432
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En achetant l’ensemble complet, vous obtiendrez un pack de voix et une carte postale dédicacée en bonus. Choco a également annoncé la sortie de sa deuxième chanson originale, « Secret Class », qu’elle a interprétée pour la première fois lors de son concert.",
+      "bbox": {
+        "x": 0.5472,
+        "y": 0.287,
+        "width": 0.3867,
+        "height": 0.1003
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/q3grcw9hplk81.gif",
+    "gifFrame": 74,
+    "confidence": 93
+  }
+}

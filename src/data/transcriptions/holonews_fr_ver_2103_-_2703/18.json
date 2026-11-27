@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2388,
+        "y": 0.0369,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "03/21\n[Fubuki] Say Fanfare: 10M\n[Fubuki] Bitter Choco Decoration: 4M\n[AZKi] Gamen No Naka No Kimi Ga Suki: 75K",
+      "bbox": {
+        "x": 0.0477,
+        "y": 0.0759,
+        "width": 0.4431,
+        "height": 0.0556
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "03/22\n[Riznote] Romeo: 250K",
+      "bbox": {
+        "x": 0.5108,
+        "y": 0.0759,
+        "width": 0.44,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "03/23\n[Calliope] Please RIP: 30M\n[Iofi] Q&A=E | Kyawaii: 100K\n[Moona] Gekkou (Cover): 100K\n[Choco/Akirose/Mel/Ayame/Etc.] Nippon Zenkoku Sakenomi Ondo: 50K\n[Ollie/Ruuko] Yume ni Yell! Patissiere: 100K\n[Nene/Kotone] My Dearest: 750K\n[Okayu] Yona Yona Dance: 500K\n[Izuru] Telecaster BBoy: 250K\n[Anya] Schema: 100K",
+      "bbox": {
+        "x": 0.0462,
+        "y": 0.1453,
+        "width": 0.4446,
+        "height": 0.1784
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "03/24\n[Botan] Souzou: 250K\n[Miko] Darling Dance: 500K\n[Izuru/Astel/Meika] Kaiju No Hanauta: 250K\n[Suisei/Natsushiro] Bluer Than Indigo: 250K\n[Kiara/Ina] I~ya I~ya I~ya: 3M\n[Iofi] Buatmu Tertawa : 100K",
+      "bbox": {
+        "x": 0.5108,
+        "y": 0.1068,
+        "width": 0.4415,
+        "height": 0.11
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "03/25\n[Lui/Okayu] Identity: 750K\n[Gura] Reflect (Animated): 1M\n[Aqua/Shion] Menhera Janai Mon: 750K\n[Aqua/Okayu] Tenbyou No Uta (Cover): 250K\n[Towa/Miko/AkiRose/Polka/Iroha] Sakura No Ame (Cover): 250K\n[Calliope] Unalive: 750K",
+      "bbox": {
+        "x": 0.0462,
+        "y": 0.3397,
+        "width": 0.4446,
+        "height": 0.1239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "03/26\n[Baelz] Hontou No Oto: 750K\n[Lui] Fukurou-san (Cover): 100K\n[AZKi] Hatokkai Sorasaikuru (Animated): 50K",
+      "bbox": {
+        "x": 0.5108,
+        "y": 0.2308,
+        "width": 0.4415,
+        "height": 0.0556
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "03/27\n[Risu] King: 5M\n[Chloe] Kagayakashi: 100K\n[Rikka] Yoru Naderu Menou: 100K\n[Shion/Aqua] Nee Nee Nee (Cover): 50K\n[Miko] Wakusei Loop (Live): 250K\n[AZKi] Nonbiri To: 100K",
+      "bbox": {
+        "x": 0.0492,
+        "y": 0.4861,
+        "width": 0.44,
+        "height": 0.1036
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE   ORIGINAL   NOUVEAU",
+      "bbox": {
+        "x": 0.5108,
+        "y": 0.3034,
+        "width": 0.4415,
+        "height": 0.0192
+      }
+    },
+    {
+      "type": "other",
+      "text": "5 Million de vues !",
+      "bbox": {
+        "x": 0.5169,
+        "y": 0.5378,
+        "width": 0.4313,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nTowa, Miko, Aki, Polka & Iroha\nSAKURA NO AME",
+      "bbox": {
+        "x": 0.0323,
+        "y": 0.6165,
+        "width": 0.3092,
+        "height": 0.1122
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nMoona\nGEKKOU",
+      "bbox": {
+        "x": 0.3446,
+        "y": 0.6165,
+        "width": 0.3092,
+        "height": 0.1122
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nShion & Aqua\nNEE NEE NEE.",
+      "bbox": {
+        "x": 0.6569,
+        "y": 0.6165,
+        "width": 0.3092,
+        "height": 0.1122
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nChloe\nKAGAYAKASHI",
+      "bbox": {
+        "x": 0.0323,
+        "y": 0.7361,
+        "width": 0.3092,
+        "height": 0.1122
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nGura\nREFLECT",
+      "bbox": {
+        "x": 0.3446,
+        "y": 0.7361,
+        "width": 0.3092,
+        "height": 0.1122
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nCalliope\nUNALIVE",
+      "bbox": {
+        "x": 0.6569,
+        "y": 0.7361,
+        "width": 0.3092,
+        "height": 0.1122
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nAqua & Okayu\nTENBYOU NO UTA",
+      "bbox": {
+        "x": 0.0323,
+        "y": 0.8558,
+        "width": 0.3092,
+        "height": 0.1122
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nAZKi\nHAKKOTAI SORASAIKURU",
+      "bbox": {
+        "x": 0.3446,
+        "y": 0.8558,
+        "width": 0.3092,
+        "height": 0.1122
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nLui\nFUKUROU-SAN",
+      "bbox": {
+        "x": 0.6569,
+        "y": 0.8558,
+        "width": 0.3092,
+        "height": 0.1122
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1ftqgzfnbjr81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

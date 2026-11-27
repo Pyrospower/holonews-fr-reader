@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats",
+      "bbox": {
+        "x": 0.4494,
+        "y": 0.0191,
+        "width": 0.1019,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/11\n[AZKi] Seventina: 75K\n[HoloID1/2] id:entity voices: 2M\n[Astel/Rikka] Gunjousanka: 75K",
+      "bbox": {
+        "x": 0.0462,
+        "y": 0.0641,
+        "width": 0.4446,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/12\n[Holostars 1/2/3] Find It: 100K\n[Towa/AZKi] Diamond Crevasse: 750K\n[Moona/Risu/Calliope/Reine] The Baddest: 2M\n[Kiara] Viva Happy (Live): 50K",
+      "bbox": {
+        "x": 0.5108,
+        "y": 0.0641,
+        "width": 0.4462,
+        "height": 0.0705
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/13\n[Chole] Chimera: 1M\n[Watame] Yumemiru Hitsuji: 250K\n[Astel/Itsuki] Happy Wedding Mae Song: 25K\n[Fubuki/Korone] Stepping Wind: 75K\n[AZKi] without U: 250K",
+      "bbox": {
+        "x": 0.0462,
+        "y": 0.1303,
+        "width": 0.4446,
+        "height": 0.0887
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/14\n[Watame] Odo: 250K\n[Kiara] Fever Night: 500K\n[Astel/Kazuya] Identity: 250K\n[AZKi/Fubuki/Marine] Maware! Setsugetsuka: 2M\n[Towa/Okayu] Cat Loving: 500K\n[Chloe] Fukurou-san: 750K\n[Fuma] ??? Rap: 50K",
+      "bbox": {
+        "x": 0.5108,
+        "y": 0.1528,
+        "width": 0.4462,
+        "height": 0.1165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/15\n[Astel] Odo (Live Cover): 10K\n[Flare] Carnival Happy: 75K\n[Marine/Fubuki] Happiness World: 750K",
+      "bbox": {
+        "x": 0.0462,
+        "y": 0.2318,
+        "width": 0.4446,
+        "height": 0.0545
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/16\n[Flare] Kaibutsu: 2M\n[Iofi] Dekat Di Hati (Cover): 25K\n[Izuru/Astel/Meika] Kaiju No Hanauta: 500K\n[Nene] Hammer Song to Itami no Tou (Cover): 50K\n[Ina/Sana] Futariboshi (Cover): 100K\n[Fuma] Shanti (Cover): 25K\n[Uyu] Fragile: 50K",
+      "bbox": {
+        "x": 0.5108,
+        "y": 0.2853,
+        "width": 0.4462,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/17\n[AZKi] Afterglow: 75K\n[Sora] Bocca Della Verita: 250K\n[Kanata] Odo (Bon-Odo Remix) (Cover): 100K\n[Miyabi/Aruran/Temma] Kaze Ni Naru (Cover): 10K\n[Suisei/Taku Inoue] Highway: 75K\n[Fubuki] Ready to (Cover): 100K\n[Mumei] Dilemma: 1M",
+      "bbox": {
+        "x": 0.0462,
+        "y": 0.2991,
+        "width": 0.4446,
+        "height": 0.1239
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.4453,
+        "width": 0.1019,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "other",
+      "text": "ORIGINALE",
+      "bbox": {
+        "x": 0.4294,
+        "y": 0.4453,
+        "width": 0.1356,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "other",
+      "text": "NOUVEAU",
+      "bbox": {
+        "x": 0.8331,
+        "y": 0.4453,
+        "width": 0.1206,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nouvelles sorties",
+      "bbox": {
+        "x": 0.3238,
+        "y": 0.4891,
+        "width": 0.3619,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nIofi\nDEKAT DI HATI",
+      "bbox": {
+        "x": 0.0323,
+        "y": 0.5406,
+        "width": 0.3123,
+        "height": 0.1218
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nMiyabi, Aruran & Temma\nKAZE NI NARU",
+      "bbox": {
+        "x": 0.3446,
+        "y": 0.5406,
+        "width": 0.3123,
+        "height": 0.1218
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nNene\nHAMMER SONG TO ITAMI NO TOU",
+      "bbox": {
+        "x": 0.6569,
+        "y": 0.5406,
+        "width": 0.3123,
+        "height": 0.1218
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nSuisei & Taku Inoue\nHIGHWAY",
+      "bbox": {
+        "x": 0.0323,
+        "y": 0.6624,
+        "width": 0.4692,
+        "height": 0.1806
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nIna & Sana\nFUTARIBOSHI",
+      "bbox": {
+        "x": 0.5015,
+        "y": 0.6624,
+        "width": 0.4677,
+        "height": 0.1806
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nKanata\nODO (BON-ODO REMIX)",
+      "bbox": {
+        "x": 0.0323,
+        "y": 0.8429,
+        "width": 0.3123,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nFuma\nSHANTI",
+      "bbox": {
+        "x": 0.3446,
+        "y": 0.8429,
+        "width": 0.3123,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nFubuki\nREADY TO",
+      "bbox": {
+        "x": 0.6569,
+        "y": 0.8429,
+        "width": 0.3123,
+        "height": 0.1207
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/57633v55sqd91.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

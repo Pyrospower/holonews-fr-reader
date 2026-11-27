@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Nakiri Ayame",
+      "bbox": {
+        "x": 0.027,
+        "y": 0.03,
+        "width": 0.391,
+        "height": 0.035
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 13 décembre, Ayame a fêté son anniversaire avec un concert 3D. Le stream d’une heure comprend une liste impressionnante de 10 chansons, dont sa toute nouvelle chanson originale : « Yume Hanabi ». OkaKoro, FubuMio, Suisei, Towa, NoeMarine et Kanata ont toutes participé à ses côtés. Marine s’est déguisée en Mère Noël après avoir chanté, ce qui a effrayé Ojou au point de quitter la scène en larmes. Les produits dérivés commémoratifs sont les suivants :",
+      "bbox": {
+        "x": 0.027,
+        "y": 0.087,
+        "width": 0.447,
+        "height": 0.207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une couverture, illustrée par Wasabi-sensei\n• Un tapis de souris en forme de poitrine, illustré par Icomochi-sensei\n• Un enregistrement scénarisé : un rencard d’anniversaire à l’aquarium",
+      "bbox": {
+        "x": 0.048,
+        "y": 0.313,
+        "width": 0.418,
+        "height": 0.102
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il y avait un bonus limité pour la commande d’un ensemble complet, composé d’une carte postale avec la signature manuscrite d’Ayame, dont tout le stock fut écoulé en moins de 30 secondes. Le bonus standard est une version estampillée.",
+      "bbox": {
+        "x": 0.026,
+        "y": 0.434,
+        "width": 0.444,
+        "height": 0.119
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Melty Kiss",
+      "bbox": {
+        "x": 0.069,
+        "y": 0.606,
+        "width": 0.307,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bienvenue à la fête de Noël du 3ème anniversaire de MeltyKiss ! Vêtues de leurs tenues festives, Choco et Mel ont chanté et dansé pour dérober le cœur des spectateurs. Les occasions de prendre de jolis clichés n'ont pas manqué, avec plusieurs séances photo menées par Kiara, Okayu et Lamy. Elles ont également sorti plusieurs produits dérivés commémoratifs :",
+      "bbox": {
+        "x": 0.445,
+        "y": 0.631,
+        "width": 0.527,
+        "height": 0.127
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un diorama de figurines en acrylique du duo dans leurs tenues de Noël, illustrées par TAYA-sensei\n• Un t-shirt Melkiss à taille unique, disponible en blanc et en noir\n• Un verre Melkiss",
+      "bbox": {
+        "x": 0.465,
+        "y": 0.775,
+        "width": 0.497,
+        "height": 0.096
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les récompenses spéciales à l’achat d’un ensemble complet sont une carte postale avec les autographes estampillés de Mel et Choco, et un pack de voix ASMR en duo. Elles ont clôturé le stream avec une première représentation de leur nouvelle chanson en duo, « Choco Melty ».",
+      "bbox": {
+        "x": 0.445,
+        "y": 0.888,
+        "width": 0.532,
+        "height": 0.094
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2gkvmbr7op881.gif",
+    "gifFrame": 101,
+    "confidence": 95
+  }
+}

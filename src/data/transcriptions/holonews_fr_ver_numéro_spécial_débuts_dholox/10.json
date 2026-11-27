@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "IROHA KAZAMA",
+      "bbox": {
+        "x": 0.152,
+        "y": 0.0796,
+        "width": 0.1333,
+        "height": 0.0111
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir été largement leurrés par une reprise au début du stream, les spectateurs ont été témoin des excuses publiques données par Kazama Iroha dès son apparition.",
+      "bbox": {
+        "x": 0.0369,
+        "y": 0.1124,
+        "width": 0.3563,
+        "height": 0.1328
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suite à quelques tests, elle est apparue dans sa présentation avec un modificateur de voix, et s’est excusée d’avoir endommagé davantage son PC la veille en essayant de le réparer par la force.",
+      "bbox": {
+        "x": 0.0375,
+        "y": 0.2765,
+        "width": 0.3719,
+        "height": 0.1362
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a emprunté le PC du staff, et est parvenue à faire ses débuts sans encombre.",
+      "bbox": {
+        "x": 0.0375,
+        "y": 0.464,
+        "width": 0.3538,
+        "height": 0.059
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuite, Iroha s’est présentée et n’a pas eu de problèmes majeurs. À tous égards, son premier stream était très correct.",
+      "bbox": {
+        "x": 0.5463,
+        "y": 0.6476,
+        "width": 0.4075,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À la fin, elle a remercié les spectateurs d’être venus, et leur a demandé de ne pas manquer leur première collab en groupe sur la chaîne de Laplus !",
+      "bbox": {
+        "x": 0.3338,
+        "y": 0.7726,
+        "width": 0.6144,
+        "height": 0.072
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ce1tl1p8kc481.png",
+    "gifFrame": null,
+    "confidence": 78
+  }
+}

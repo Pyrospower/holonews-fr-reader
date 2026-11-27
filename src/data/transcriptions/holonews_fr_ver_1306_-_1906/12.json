@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1306_-_1906",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.26,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "WachaSTARS",
+      "bbox": {
+        "x": 0.14,
+        "y": 0.1775,
+        "width": 0.2556,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le dernier WachaSTARS, il a été révélé que Roberu est... tout à fait normal! Miyabi et Roberu ont tous deux révélés les résultats de leur examen physique médical avec l’invité, le Dr. Ootake Shin’ichirou. Le docteur a dévoilé que Roberu est parfaitement normal malgré avoir streamé trop longtemps et commandé beaucoup de fast food. D’autre part, les graisses de Miyabi sont plutôt élevées et son bon cholestérol doit s’améliorer. Il lui est conseillé de manger moins de nourriture grasse et de faire plus d'exercice. Il commence alors par marcher pendant 10 minutes ou par prendre un détour lorsqu’il sort de l’épicerie. Les deux ont promis de ne pas négliger leur bilan de santé et vont essayer de mener des vies bien plus saines.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2214,
+        "width": 0.3856,
+        "height": 0.2075
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.1719,
+        "y": 0.5677,
+        "width": 0.1094,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après l’épisode de WachaSTARS, Miyabi a tweeté qu’il promet de corriger ses habitudes alimentaires, en commençant par manger équilibré. Ces dernières semaines, il publie des photos de sa nourriture, avec cette semaine où il a mangé du poulet avec du brocoli. Mais il n’a toujours pas commencé à faire de l’exercice.",
+      "bbox": {
+        "x": 0.0738,
+        "y": 0.6107,
+        "width": 0.3731,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.1737,
+        "y": 0.862,
+        "width": 0.0887,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka a réalisé un stream karaoke où il jouait de la guitare en attendant d’atteindre le palier des 210k abonnés. Il a joué des chansons comme « Kataomoi », « Gurenge » et « Summertime Record ». Félicitations à Rikka pour avoir atteint les 210k abonnés!",
+      "bbox": {
+        "x": 0.0756,
+        "y": 0.9054,
+        "width": 0.3813,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.6388,
+        "y": 0.178,
+        "width": 0.205,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Alors que l’événement HOLOSTARS 3Rise du 26 Juin approche, les publicités pour celui-ci apparaissent. Cover ont affiché des panneaux dans la station d’Ikebukuro et un camion LED publicitaire se balade dans les alentours d’Ikebukuro, Shinjuku et Shibuya. Si vous êtes proches, assurez-vous d’aller y jeter un œil !",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.2218,
+        "width": 0.3875,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 1",
+      "bbox": {
+        "x": 0.8031,
+        "y": 0.4592,
+        "width": 0.0875,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyabi, Izuru, Aruran et Rikka ont eu leur collab Gen 1 tant attendu sur la chaîne de Rikka. Les quatres ont mis presque deux heures à lire des Marshmallow de leurs spectateurs en buvant et se sont remémoré des histoires qu’ils ont passées ensemble. Ils ont parlé à propos du chat de groupe LINE d’HOLOSTARS, la maison de chacun, les premières impressions qu’ils ont eu de chacun, et leurs plus grands souvenirs ensemble. Ils ont mis fin au stream en se promettant de collaborer plus souvent et peut-être voyager ensemble puisqu’ils aimeraient se faire plus de souvenirs.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.503,
+        "width": 0.3825,
+        "height": 0.1823
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.6394,
+        "y": 0.7418,
+        "width": 0.1125,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les invités d’Izakaya ARN, le stream boisson d’Aruran, étaient Naruse Naru de Nijisanji, Kazami Kuku d’Animare ainsi que le streamer indépendant Hira. Les quatres sont également connus sous le nom de Matomaranaiyonin Group et ont fait beaucoup de streams ensemble cette année. Pendant qu’ils buvaient, ils se sont mis à se remémorer l’année passée ensemble. Ils se sont souvenu que leur 1er anniversaire ensemble est la semaine prochaine et ont rapidement planifié une collab pour célébrer.",
+      "bbox": {
+        "x": 0.5419,
+        "y": 0.7821,
+        "width": 0.3856,
+        "height": 0.161
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/jc8e6e1007891.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "hololive SUPER EXPO 2022",
+      "bbox": {
+        "x": 0.2022,
+        "y": 0.0455,
+        "width": 0.7478,
+        "height": 0.1844
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les 19 et 20 mars, l'hololive SUPER EXPO 2022 et l'hololive 3rd fes. Link Your Wish se sont tenues respectivement au Makuhari Messe International Exhibition Hall 13 et au Makuhari Messe Event Hall !",
+      "bbox": {
+        "x": 0.2172,
+        "y": 0.456,
+        "width": 0.3439,
+        "height": 0.0876
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'expo a été diffusée gratuitement sur la chaîne YouTube officielle d'hololive et les nouvelles des deux jours ont été diffusées par les comptes Twitter officiels d'hololive. Les fans ont pu partager leurs impressions sur le spectacle et les performances en direct avec le hashtag #つながるホロライブ.",
+      "bbox": {
+        "x": 0.2189,
+        "y": 0.561,
+        "width": 0.3767,
+        "height": 0.1227
+      }
+    },
+    {
+      "type": "other",
+      "text": "@Shumatch",
+      "bbox": {
+        "x": 0.8467,
+        "y": 0.6096,
+        "width": 0.1067,
+        "height": 0.0131
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le premier jour a commencé à 10:00 JST, avec la cérémonie d'ouverture. Les mascottes Ankimo, Subarudo, Mikodanyee, Udin et Smol Ame ont accompagné Yagoo sur la scène pour le début officiel de l'événement. En outre, des émissions préenregistrées ou en direct ont été diffusées tout au long de la journée, animées par divers membres à d'hololive et d'holostars. Ceux qui sont venus à l'événement ont également pu visiter le lieu, acheter des produits dérivés, des déjeuners à thème, et découvrir les stands à thèmes des membres d'hololive, des branches anglaise et indonésienne, d'holostars, d'hololive Alternative et d'hololive ERROR !",
+      "bbox": {
+        "x": 0.2172,
+        "y": 0.696,
+        "width": 0.3778,
+        "height": 0.2743
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le deuxième jour a également ouvert à 10:00 JST. Il comprenait encore plus de programmes pour que plus de fans puissent découvrir tous les membres d'hololive. Les deux journées se sont terminées à 16:00 JST, pour préparer l'événement principal : le concert.",
+      "bbox": {
+        "x": 0.6728,
+        "y": 0.7222,
+        "width": 0.2206,
+        "height": 0.1968
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/sylozk61s5q81.gif",
+    "gifFrame": 104,
+    "confidence": 93
+  }
+}
