@@ -81,6 +81,16 @@ describe("tokenize", () => {
       "3d",
     ]);
   });
+
+  test("keeps a trailing plus sign", () => {
+    expect(tokenize("La+ et Laplus, la+1")).toEqual([
+      "la+",
+      "et",
+      "laplus",
+      "la",
+      "1",
+    ]);
+  });
 });
 
 describe("parseQuery", () => {
@@ -97,6 +107,14 @@ describe("parseQuery", () => {
     expect(parseQuery("qu'elle")).toEqual(["elle"]);
     expect(parseQuery("a b 3")).toEqual(["3"]);
     expect(parseQuery("aujourd'hui")).toEqual(["aujourd", "hui"]);
+  });
+
+  test("does not mistake La+ for the article la", () => {
+    expect(parseQuery("La+")).toEqual(["la+"]);
+    const text = "La+ a vu la mer avec Lamy.";
+    expect(matchedText(text, findMatches(text, parseQuery("La+")))).toEqual([
+      "La+",
+    ]);
   });
 
   test("returns nothing for an empty or punctuation-only query", () => {

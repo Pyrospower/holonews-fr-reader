@@ -41,7 +41,9 @@ export interface TextSegment {
 const LIGATURES: Record<string, string> = { œ: "oe", æ: "ae", ß: "ss" };
 const LIGATURE_PATTERN = /[œæß]/g;
 const MARKS = /\p{M}/gu;
-const WORD = /[\p{L}\p{N}]+/gu;
+// A trailing "+" belongs to the word, so that "La+" (a talent) is not the
+// article "la"
+const WORD = /[\p{L}\p{N}]+(?:\+(?![\p{L}\p{N}]))?/gu;
 
 // Case- and accent-insensitive form of a text: lowercase, without diacritics,
 // ligatures and compatibility characters expanded ("Œuvre" → "oeuvre").

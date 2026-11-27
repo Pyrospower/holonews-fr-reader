@@ -1,0 +1,596 @@
+{
+  "ignore": [
+    "Bitter Choco Decoration",
+    "Coco Ichibanya",
+    "Del Rio",
+    "Édition Noel",
+    "Kimi Sora Kiseki",
+    "Kira Kira",
+    "Mawaru Sora Usagi",
+    "Natsu Matsuri",
+    "Ato No Matsuri",
+    "Reine des Erreurs",
+    "Sakura No Ame",
+    "Sora Aota",
+    "Yumemiru Sora He",
+    "(une Subaru !)"
+  ],
+  "branches": [
+    {
+      "name": "hololive",
+      "units": [
+        {
+          "name": "Génération 0",
+          "talents": [
+            {
+              "slug": "tokino-sora",
+              "name": "Tokino Sora",
+              "aliases": [],
+              "casedAliases": ["Sora"]
+            },
+            {
+              "slug": "roboco",
+              "name": "Roboco",
+              "aliases": ["Robocosan", "Roboco san"],
+              "casedAliases": []
+            },
+            {
+              "slug": "azki",
+              "name": "AZKi",
+              "aliases": [],
+              "casedAliases": []
+            },
+            {
+              "slug": "sakura-miko",
+              "name": "Sakura Miko",
+              "aliases": ["Miko", "Mikochi"],
+              "casedAliases": []
+            },
+            {
+              "slug": "hoshimachi-suisei",
+              "name": "Hoshimachi Suisei",
+              "aliases": ["Suisei", "Suichan"],
+              "casedAliases": []
+            }
+          ]
+        },
+        {
+          "name": "Génération 1",
+          "talents": [
+            {
+              "slug": "yozora-mel",
+              "name": "Yozora Mel",
+              "aliases": [],
+              "casedAliases": ["Mel"]
+            },
+            {
+              "slug": "shirakami-fubuki",
+              "name": "Shirakami Fubuki",
+              "aliases": ["Fubuki"],
+              "casedAliases": []
+            },
+            {
+              "slug": "natsuiro-matsuri",
+              "name": "Natsuiro Matsuri",
+              "aliases": [],
+              "casedAliases": ["Matsuri"]
+            },
+            {
+              "slug": "aki-rosenthal",
+              "name": "Aki Rosenthal",
+              "aliases": ["Akirose", "Aki Rose", "MukiRose"],
+              "casedAliases": ["Aki"]
+            },
+            {
+              "slug": "akai-haato",
+              "name": "Akai Haato",
+              "aliases": ["Haato", "Haachama"],
+              "casedAliases": []
+            }
+          ]
+        },
+        {
+          "name": "Génération 2",
+          "talents": [
+            {
+              "slug": "minato-aqua",
+              "name": "Minato Aqua",
+              "aliases": [],
+              "casedAliases": ["Aqua"]
+            },
+            {
+              "slug": "murasaki-shion",
+              "name": "Murasaki Shion",
+              "aliases": ["Shion"],
+              "casedAliases": []
+            },
+            {
+              "slug": "nakiri-ayame",
+              "name": "Nakiri Ayame",
+              "aliases": [],
+              "casedAliases": ["Ayame", "Ojou"]
+            },
+            {
+              "slug": "yuzuki-choco",
+              "name": "Yuzuki Choco",
+              "aliases": [],
+              "casedAliases": ["Choco"]
+            },
+            {
+              "slug": "oozora-subaru",
+              "name": "Oozora Subaru",
+              "aliases": ["Shuba"],
+              "casedAliases": ["Subaru"]
+            }
+          ]
+        },
+        {
+          "name": "hololive GAMERS",
+          "talents": [
+            {
+              "slug": "ookami-mio",
+              "name": "Ookami Mio",
+              "aliases": [],
+              "casedAliases": ["Mio"]
+            },
+            {
+              "slug": "nekomata-okayu",
+              "name": "Nekomata Okayu",
+              "aliases": ["Okayu"],
+              "casedAliases": []
+            },
+            {
+              "slug": "inugami-korone",
+              "name": "Inugami Korone",
+              "aliases": ["Korone"],
+              "casedAliases": []
+            }
+          ]
+        },
+        {
+          "name": "Génération 3",
+          "talents": [
+            {
+              "slug": "usada-pekora",
+              "name": "Usada Pekora",
+              "aliases": ["Pekora"],
+              "casedAliases": []
+            },
+            {
+              "slug": "uruha-rushia",
+              "name": "Uruha Rushia",
+              "aliases": ["Rushia"],
+              "casedAliases": []
+            },
+            {
+              "slug": "shiranui-flare",
+              "name": "Shiranui Flare",
+              "aliases": [],
+              "casedAliases": ["Flare"]
+            },
+            {
+              "slug": "shirogane-noel",
+              "name": "Shirogane Noel",
+              "aliases": ["Danchou"],
+              "casedAliases": ["Noel"]
+            },
+            {
+              "slug": "houshou-marine",
+              "name": "Houshou Marine",
+              "aliases": ["Senchou"],
+              "casedAliases": ["Marine"]
+            }
+          ]
+        },
+        {
+          "name": "Génération 4",
+          "talents": [
+            {
+              "slug": "amane-kanata",
+              "name": "Amane Kanata",
+              "aliases": ["Kanata", "Kanatan"],
+              "casedAliases": []
+            },
+            {
+              "slug": "kiryu-coco",
+              "name": "Kiryu Coco",
+              "aliases": [],
+              "casedAliases": ["Coco"]
+            },
+            {
+              "slug": "tsunomaki-watame",
+              "name": "Tsunomaki Watame",
+              "aliases": ["Watame"],
+              "casedAliases": []
+            },
+            {
+              "slug": "tokoyami-towa",
+              "name": "Tokoyami Towa",
+              "aliases": ["Towa"],
+              "casedAliases": []
+            },
+            {
+              "slug": "himemori-luna",
+              "name": "Himemori Luna",
+              "aliases": [],
+              "casedAliases": ["Luna"]
+            }
+          ]
+        },
+        {
+          "name": "Génération 5",
+          "talents": [
+            {
+              "slug": "yukihana-lamy",
+              "name": "Yukihana Lamy",
+              "aliases": ["Lamy"],
+              "casedAliases": []
+            },
+            {
+              "slug": "momosuzu-nene",
+              "name": "Momosuzu Nene",
+              "aliases": ["Nenechi"],
+              "casedAliases": ["Nene"]
+            },
+            {
+              "slug": "shishiro-botan",
+              "name": "Shishiro Botan",
+              "aliases": ["Botan", "Shishiron"],
+              "casedAliases": []
+            },
+            {
+              "slug": "mano-aloe",
+              "name": "Mano Aloe",
+              "aliases": [],
+              "casedAliases": ["Aloe"]
+            },
+            {
+              "slug": "omaru-polka",
+              "name": "Omaru Polka",
+              "aliases": [],
+              "casedAliases": ["Polka"]
+            }
+          ]
+        },
+        {
+          "name": "holoX",
+          "talents": [
+            {
+              "slug": "la-darknesss",
+              "name": "La+ Darknesss",
+              "aliases": ["La+", "Laplus", "La+ Darkness"],
+              "casedAliases": []
+            },
+            {
+              "slug": "takane-lui",
+              "name": "Takane Lui",
+              "aliases": [],
+              "casedAliases": ["Lui"]
+            },
+            {
+              "slug": "hakui-koyori",
+              "name": "Hakui Koyori",
+              "aliases": ["Koyori"],
+              "casedAliases": []
+            },
+            {
+              "slug": "sakamata-chloe",
+              "name": "Sakamata Chloe",
+              "aliases": [],
+              "casedAliases": ["Chloe", "Chloé"]
+            },
+            {
+              "slug": "kazama-iroha",
+              "name": "Kazama Iroha",
+              "aliases": ["Iroha"],
+              "casedAliases": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hololive Indonesia",
+      "units": [
+        {
+          "name": "Génération 1",
+          "talents": [
+            {
+              "slug": "ayunda-risu",
+              "name": "Ayunda Risu",
+              "aliases": ["Risu"],
+              "casedAliases": []
+            },
+            {
+              "slug": "moona-hoshinova",
+              "name": "Moona Hoshinova",
+              "aliases": ["Moona"],
+              "casedAliases": []
+            },
+            {
+              "slug": "airani-iofifteen",
+              "name": "Airani Iofifteen",
+              "aliases": ["Iofi", "Iofifteen"],
+              "casedAliases": []
+            }
+          ]
+        },
+        {
+          "name": "Génération 2",
+          "talents": [
+            {
+              "slug": "kureiji-ollie",
+              "name": "Kureiji Ollie",
+              "aliases": ["Ollie"],
+              "casedAliases": []
+            },
+            {
+              "slug": "anya-melfissa",
+              "name": "Anya Melfissa",
+              "aliases": ["Anya"],
+              "casedAliases": []
+            },
+            {
+              "slug": "pavolia-reine",
+              "name": "Pavolia Reine",
+              "aliases": [],
+              "casedAliases": ["Reine"]
+            }
+          ]
+        },
+        {
+          "name": "Génération 3",
+          "talents": [
+            {
+              "slug": "vestia-zeta",
+              "name": "Vestia Zeta",
+              "aliases": [],
+              "casedAliases": ["Zeta"]
+            },
+            {
+              "slug": "kaela-kovalskia",
+              "name": "Kaela Kovalskia",
+              "aliases": ["Kaela"],
+              "casedAliases": []
+            },
+            {
+              "slug": "kobo-kanaeru",
+              "name": "Kobo Kanaeru",
+              "aliases": ["Kobo"],
+              "casedAliases": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hololive English",
+      "units": [
+        {
+          "name": "Myth",
+          "talents": [
+            {
+              "slug": "mori-calliope",
+              "name": "Mori Calliope",
+              "aliases": ["Calliope", "Calli"],
+              "casedAliases": ["Mori"]
+            },
+            {
+              "slug": "takanashi-kiara",
+              "name": "Takanashi Kiara",
+              "aliases": ["Kiara", "Tenchou"],
+              "casedAliases": []
+            },
+            {
+              "slug": "ninomae-inanis",
+              "name": "Ninomae Ina'nis",
+              "aliases": ["Ina'nis", "Inanis"],
+              "casedAliases": ["Ina"]
+            },
+            {
+              "slug": "gawr-gura",
+              "name": "Gawr Gura",
+              "aliases": ["Gura"],
+              "casedAliases": []
+            },
+            {
+              "slug": "watson-amelia",
+              "name": "Watson Amelia",
+              "aliases": ["Amelia Watson", "Amelia"],
+              "casedAliases": ["Ame"]
+            }
+          ]
+        },
+        {
+          "name": "Project: HOPE",
+          "talents": [
+            {
+              "slug": "irys",
+              "name": "IRyS",
+              "aliases": [],
+              "casedAliases": []
+            }
+          ]
+        },
+        {
+          "name": "Council",
+          "talents": [
+            {
+              "slug": "tsukumo-sana",
+              "name": "Tsukumo Sana",
+              "aliases": [],
+              "casedAliases": ["Sana"]
+            },
+            {
+              "slug": "ceres-fauna",
+              "name": "Ceres Fauna",
+              "aliases": [],
+              "casedAliases": ["Fauna"]
+            },
+            {
+              "slug": "ouro-kronii",
+              "name": "Ouro Kronii",
+              "aliases": ["Kronii"],
+              "casedAliases": []
+            },
+            {
+              "slug": "nanashi-mumei",
+              "name": "Nanashi Mumei",
+              "aliases": ["Mumei"],
+              "casedAliases": []
+            },
+            {
+              "slug": "hakos-baelz",
+              "name": "Hakos Baelz",
+              "aliases": ["Baelz", "Hakos"],
+              "casedAliases": ["Bae"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HOLOSTARS",
+      "units": [
+        {
+          "name": "Génération 1",
+          "talents": [
+            {
+              "slug": "hanasaki-miyabi",
+              "name": "Hanasaki Miyabi",
+              "aliases": ["Miyabi"],
+              "casedAliases": []
+            },
+            {
+              "slug": "kagami-kira",
+              "name": "Kagami Kira",
+              "aliases": [],
+              "casedAliases": ["Kira"]
+            },
+            {
+              "slug": "kanade-izuru",
+              "name": "Kanade Izuru",
+              "aliases": ["Izuru"],
+              "casedAliases": []
+            },
+            {
+              "slug": "arurandeisu",
+              "name": "Arurandeisu",
+              "aliases": ["Aruran"],
+              "casedAliases": []
+            },
+            {
+              "slug": "rikka",
+              "name": "Rikka",
+              "aliases": [],
+              "casedAliases": []
+            }
+          ]
+        },
+        {
+          "name": "Génération 2",
+          "talents": [
+            {
+              "slug": "astel-leda",
+              "name": "Astel Leda",
+              "aliases": ["Astel"],
+              "casedAliases": []
+            },
+            {
+              "slug": "kishido-temma",
+              "name": "Kishido Temma",
+              "aliases": ["Temma"],
+              "casedAliases": []
+            },
+            {
+              "slug": "yukoku-roberu",
+              "name": "Yukoku Roberu",
+              "aliases": ["Roberu", "Robel"],
+              "casedAliases": []
+            }
+          ]
+        },
+        {
+          "name": "Génération 3",
+          "talents": [
+            {
+              "slug": "kageyama-shien",
+              "name": "Kageyama Shien",
+              "aliases": ["Shien"],
+              "casedAliases": []
+            },
+            {
+              "slug": "aragami-oga",
+              "name": "Aragami Oga",
+              "aliases": [],
+              "casedAliases": ["Oga"]
+            }
+          ]
+        },
+        {
+          "name": "UPROAR!!",
+          "talents": [
+            {
+              "slug": "yatogami-fuma",
+              "name": "Yatogami Fuma",
+              "aliases": ["Fuma"],
+              "casedAliases": []
+            },
+            {
+              "slug": "utsugi-uyu",
+              "name": "Utsugi Uyu",
+              "aliases": ["Uyu"],
+              "casedAliases": []
+            },
+            {
+              "slug": "hizaki-gamma",
+              "name": "Hizaki Gamma",
+              "aliases": [],
+              "casedAliases": ["Gamma"]
+            },
+            {
+              "slug": "minase-rio",
+              "name": "Minase Rio",
+              "aliases": [],
+              "casedAliases": ["Rio"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HOLOSTARS English",
+      "units": [
+        {
+          "name": "-TEMPUS-",
+          "talents": [
+            {
+              "slug": "regis-altare",
+              "name": "Regis Altare",
+              "aliases": ["Altare"],
+              "casedAliases": ["Regis"]
+            },
+            {
+              "slug": "magni-dezmond",
+              "name": "Magni Dezmond",
+              "aliases": ["Dezmond"],
+              "casedAliases": ["Magni"]
+            },
+            {
+              "slug": "axel-syrios",
+              "name": "Axel Syrios",
+              "aliases": ["Syrios"],
+              "casedAliases": ["Axel"]
+            },
+            {
+              "slug": "noir-vesper",
+              "name": "Noir Vesper",
+              "aliases": [],
+              "casedAliases": ["Vesper"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

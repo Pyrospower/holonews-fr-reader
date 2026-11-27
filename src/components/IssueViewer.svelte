@@ -25,6 +25,7 @@
     parseQuery,
     QUERY_PARAM,
   } from "$lib/search";
+  import type { TalentLink } from "$lib/talentMentions";
   import type { PageTranscription } from "$lib/transcriptions";
   import type { CollectionEntry } from "astro:content";
   import ChevronLeftIcon from "@lucide/svelte/icons/chevron-left";
@@ -34,10 +35,14 @@
   let {
     issue,
     transcriptions,
+    talents = {},
   }: {
     issue: CollectionEntry<"issues">;
     // Keyed by 1-based page number. Pages without a transcription are missing.
     transcriptions: Record<number, PageTranscription>;
+    // Talents mentioned on each page, keyed by 1-based page number. Pages
+    // without any are missing.
+    talents?: Record<number, TalentLink[]>;
   } = $props();
 
   // Development aid: in Mixte, hovering a text block outlines its bbox on the
@@ -59,6 +64,7 @@
   const currentImage = $derived(issue.data.images[currentPage - 1] ?? "");
   const currentAlt = $derived(`Page ${currentPage} de ${issue.data.title}`);
   const transcription = $derived(transcriptions[currentPage]);
+  const pageTalents = $derived(talents[currentPage] ?? []);
   const issueHasTranscriptions = $derived(
     Object.keys(transcriptions).length > 0,
   );
@@ -283,6 +289,29 @@
       <span class="sr-only">Page suivante</span>
     </Button>
   </div>
+
+  {#if pageTalents.length > 0}
+    <section
+      aria-labelledby="page-talents"
+      class="mb-6 flex flex-wrap items-center justify-center gap-x-3 gap-y-2 px-4"
+    >
+      <h2 id="page-talents" class="text-sm text-muted-foreground">
+        Talents sur cette page :
+      </h2>
+      <ul class="flex flex-wrap justify-center gap-2">
+        {#each pageTalents as talent (talent.slug)}
+          <li>
+            <a
+              href={`/talents/${talent.slug}`}
+              class="inline-flex h-7 items-center rounded-full border border-border bg-background px-3 text-sm font-medium transition-colors outline-none hover:bg-muted focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 dark:border-input dark:bg-input/30 dark:hover:bg-input/50"
+            >
+              {talent.name}
+            </a>
+          </li>
+        {/each}
+      </ul>
+    </section>
+  {/if}
 
   <Card.Root>
     <Card.Content class="p-4">
