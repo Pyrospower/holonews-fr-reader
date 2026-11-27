@@ -3,21 +3,21 @@
   "issueId": "holonews_fr_ver_1807_-_2407",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "i ive tsuiro Matsuri pirthday Liv PÉOTARTF",
+      "type": "heading",
+      "text": "Natsuiro Matsuri Birthday Live\nRe:START",
       "bbox": {
-        "x": 0.3406,
-        "y": 0.0397,
-        "width": 0.435,
-        "height": 0.064
+        "x": 0.215,
+        "y": 0.036,
+        "width": 0.57,
+        "height": 0.124
       }
     },
     {
       "type": "paragraph",
-      "text": "Matsuri a fêté son anniversaire le 22 juillet avec un stream où elle recevait des appels de personnes en live, ainsi qu'un concert en 3D, Re:START !",
+      "text": "Matsuri a fêté son anniversaire le 22 juillet avec un stream où elle recevait des appels de personnes en live, ainsi qu’un concert en 3D, Re:START !",
       "bbox": {
         "x": 0.0794,
         "y": 0.1979,
@@ -27,22 +27,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Sans plus tarder, elle a commencé son show en 3D avec « Darling Dance » et « Aishite Aishite ». Après ça, elle a montré une mascotte de Risu (un écureuil), l'a posé sur sa tête et a continué le concert avec « Niccori™Survey Team » avec Suisei, Nene et Flare, suivi de « À | U E Onigiri » avec",
+      "text": "Sans plus tarder, elle a commencé son show en 3D avec « Darling Dance » et « Aishite Aishite ». Après ça, elle a montré une mascotte de Risu (un écureuil), l’a posé sur sa tête et a continué le concert avec « Niccori^^Survey Team » avec Suisei, Nene et Flare, suivi de « A I U E Onigiri » avec Noel.",
       "bbox": {
         "x": 0.0783,
         "y": 0.2365,
         "width": 0.3967,
-        "height": 0.1073
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Noel.",
-      "bbox": {
-        "x": 0.0794,
-        "y": 0.3461,
-        "width": 0.0439,
-        "height": 0.0104
+        "height": 0.12
       }
     },
     {
@@ -67,32 +57,12 @@
     },
     {
       "type": "paragraph",
-      "text": "• Un tapis de souris de 500mm de largeur, avec une illustration faite par Minamura Haruki.",
+      "text": "• Un tapis de souris de 500mm de largeur, avec une illustration faite par Minamura Haruki.\n• Une serviette de toilette avec le logo de Re:START, dessiné par Hiiragiryou\n• Un porte clé",
       "bbox": {
         "x": 0.5422,
         "y": 0.6103,
         "width": 0.3756,
-        "height": 0.0421
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Une serviette de toilette avec le logo de Re:START, dessiné par Hiiragiryou",
-      "bbox": {
-        "x": 0.5422,
-        "y": 0.657,
-        "width": 0.3644,
-        "height": 0.0293
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un porte clé",
-      "bbox": {
-        "x": 0.5422,
-        "y": 0.6883,
-        "width": 0.1239,
-        "height": 0.0135
+        "height": 0.0915
       }
     },
     {
@@ -107,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "L'édition limitée, qui a été vendue, contenait lui la même illustration avec un autographe fait à la main par Matsuri.",
+      "text": "L’édition limitée, qui a été vendue, contenait lui la même illustration avec un autographe fait à la main par Matsuri.",
       "bbox": {
         "x": 0.5244,
         "y": 0.7662,

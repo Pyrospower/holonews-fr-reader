@@ -3,11 +3,31 @@
   "issueId": "holonews_french_1710_-_2310",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "MOMOSUZU NENE",
+      "bbox": {
+        "x": 0.1046,
+        "y": 0.0363,
+        "width": 0.7738,
+        "height": 0.1432
+      }
+    },
+    {
+      "type": "heading",
+      "text": "anniversaire de début",
+      "bbox": {
+        "x": 0.2708,
+        "y": 0.1827,
+        "width": 0.4692,
+        "height": 0.031
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Notre femme adorée Nene a fété les deux ans de ses débuts le 22 octobre ! Elle a commencé en chantant « Hello,world! » de BUMP OF CHICKEN et « SEKAI » de Project Sekai: Colorful Stage!, suivi par « Newly Edgy Idols » (également de Project Sekai) aux cotés de Miko, AZKi et Subaru. Suite a cela, sur sa scéne personnelle, Nene a chanté « Daydream Café » de Petite Rabbit's avec Matsuri et Haachama (toutes affublées d'oreilles de lapin), puis « Zankyou Sanka » de Aimer avec Towa et Suisei face à une cascade.",
+      "text": "Notre femme adorée Nene a fêté les deux ans de ses débuts le 22 octobre ! Elle a commencé en chantant « Hello,world! » de BUMP OF CHICKEN et « SEKAI » de Project Sekai: Colorful Stage!, suivi par « Newly Edgy Idols » (également de Project Sekai) aux côtés de Miko, AZKi et Subaru. Suite à cela, sur sa scène personnelle, Nene a chanté « Daydream Café » de Petite Rabbit’s avec Matsuri et Haachama (toutes affublées d’oreilles de lapin), puis « Zankyou Sanka » de Aimer avec Towa et Suisei face à une cascade.",
       "bbox": {
         "x": 0.0813,
         "y": 0.3924,
@@ -17,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "De retour sur la scène principale, Nene a interprété « Chiisana Tenohira » de Riya et Jun Maeda, et a montré son nouveau micro avant de chanter « Vanilla Salt » de Toradora!, ainsi qu'une nouvelle musique originale intitulée « Ring-A-Linger » et produite par Hige Driver ! Le clip est sorti après le concert.",
+      "text": "De retour sur la scène principale, Nene a interprété « Chiisana Tenohira » de Riya et Jun Maeda, et a montré son nouveau micro avant de chanter « Vanilla Salt » de Toradora!, ainsi qu’une nouvelle musique originale intitulée « Ring-A-Linger » et produite par Hige Driver ! Le clip est sorti après le concert.",
       "bbox": {
         "x": 0.0813,
         "y": 0.7795,
@@ -37,57 +57,17 @@
     },
     {
       "type": "paragraph",
-      "text": "Son premier disque, « nenene no ne », contenant toutes ses musiques originales, dont « Ring-A-Linger » et une nouvelle chanson intitulée: « Michishirube » (pochette illustrée par Rosuuri)",
+      "text": "• Son premier disque, « nenene no ne », contenant toutes ses musiques originales, dont « Ring-A-Linger » et une nouvelle chanson intitulée « Michishirube » (pochette illustrée par Rosuuri)\n• Une tapisserie B2 illustrée par Torino\n• Une paire de chaussons Nekko\n• Une capuche Nekko\n• Un ensemble de voix",
       "bbox": {
         "x": 0.5488,
         "y": 0.4423,
-        "width": 0.37,
-        "height": 0.0959
+        "width": 0.3706,
+        "height": 0.1754
       }
     },
     {
       "type": "paragraph",
-      "text": "• Une tapisserie B2 illustrée par Torino",
-      "bbox": {
-        "x": 0.5494,
-        "y": 0.5408,
-        "width": 0.37,
-        "height": 0.0273
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Une paire de chaussons Nekko",
-      "bbox": {
-        "x": 0.5494,
-        "y": 0.5738,
-        "width": 0.3225,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Une capuche Nekko",
-      "bbox": {
-        "x": 0.5494,
-        "y": 0.5903,
-        "width": 0.215,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Un ensemble de voix",
-      "bbox": {
-        "x": 0.5494,
-        "y": 0.6068,
-        "width": 0.2231,
-        "height": 0.0109
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Le bonus d'achat pour l'ensemble des produits est une carte estampillée dans un style « Polaroid » ainsi qu'une voix de situation. Pour célébrer la sortie de « nenene no ne », hololive organise une loterie pour une rencontre de fans a Tokyo pour toute personne ayant acheté le disque. Seuls les résidents japonais peuvent participer. Enfin, Nene a terminé le concert avec une troisieme chanson de Project Sekai : « More! Jump! More! »",
+      "text": "Le bonus d’achat pour l’ensemble des produits est une carte estampillée dans un style « Polaroid » ainsi qu'une voix de situation. Pour célébrer la sortie de « nenene no ne », hololive organise une loterie pour une rencontre de fans à Tokyo pour toute personne ayant acheté le disque. Seuls les résidents japonais peuvent participer. Enfin, Nene a terminé le concert avec une troisième chanson de Project Sekai : « More! Jump! More! ».",
       "bbox": {
         "x": 0.5337,
         "y": 0.7504,

@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2507_-_3107",
   "page": 19,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -76,8 +76,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.661,
+        "y": 0.151,
+        "width": 0.148,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "other",
+      "text": "Kobo 1,2M\nSora 1 M\nIroha 600k\nRio 70k\nPolka 1 M\nDezmond 120k\nAltare 120k\nAxel 110k\nVesper 110k",
+      "bbox": {
+        "x": 0.631,
+        "y": 0.207,
+        "width": 0.275,
+        "height": 0.307
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
         "x": 0.0463,
         "y": 0.691,
@@ -93,16 +113,6 @@
         "y": 0.8242,
         "width": 0.2512,
         "height": 0.0369
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "= Dezmond Altare 120k J 120k Vesper 110k",
-      "bbox": {
-        "x": 0.6344,
-        "y": 0.3364,
-        "width": 0.27,
-        "height": 0.1762
       }
     }
   ],

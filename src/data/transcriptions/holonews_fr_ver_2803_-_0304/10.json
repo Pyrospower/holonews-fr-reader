@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_2803_-_0304",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.0154,
+        "width": 0.2011,
+        "height": 0.0448
+      }
+    },
     {
       "type": "paragraph",
       "text": "Nene a préfiguré l'arrivée du printemps avec un nouveau design basé sur sa deuxième tenue décontractée. On retrouve une paire de rubans et de chaussures à semelles compensées de couleur verte, des chaussettes à dentelles et motifs pétales de cerisiers, une longue robe rose et un haut raffiné à rayures roses et vertes révélant ses épaules et pouvant être retiré. Les deux rubans sur sa tête et celui autour de son cou ont également changé de couleur, devenant respectivement vert et rouge. Le design printanier est en partie interchangeable avec la version originale à jupe bleue.",

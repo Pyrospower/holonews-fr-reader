@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_1010_-_1610",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,262 +17,132 @@
     },
     {
       "type": "paragraph",
-      "text": "[Chloe] Zombies: 100K",
+      "text": "10/10\n[Chloe] Zombies: 100K\n[Koyori] S'il Vous President: 1M\n[Okayu] Dokuhai Swallow: 500K\n[Kiara/Amelia] Dreamin Chuchu: 2M\n[Fuma/Uyu/Gamma/Rio] Brother Beat: 50K\n[Luna] Zettai Chuusei Nanonanora: 250K\n[Suisei] Sousei No Aquarion: 2M\n[Risu/Moona/Iofi] HI-15: 750K",
       "bbox": {
-        "x": 0.3063,
-        "y": 0.0799,
-        "width": 0.185,
-        "height": 0.0122
+        "x": 0.0206,
+        "y": 0.076,
+        "width": 0.4731,
+        "height": 0.1319
       }
     },
     {
       "type": "paragraph",
-      "text": "[Koyori] S'il Vous President: TM",
+      "text": "10/11\n[Kanata] Roshin Yuukai: 1M\n[Holostars] Magic Word Orchestra: 50K\n[Okayu/Ryushen] Non-breath Oblige: 500K\n[Koyori/Sora/Suisei/Subaru/Polka/Chloe] Kaibutsu: 4M\n[Holostars 1-3] We Are The Holostars!!: 75K\n[Okayu] Cinderella Remix (Cover): 100K",
       "bbox": {
-        "x": 0.2394,
-        "y": 0.0964,
-        "width": 0.2506,
-        "height": 0.013
+        "x": 0.5081,
+        "y": 0.0747,
+        "width": 0.47,
+        "height": 0.1007
       }
     },
     {
       "type": "paragraph",
-      "text": "[Okayu] Dokuhai Swallow: 500K [Kiara/Amelia] Dreamin Chuchu: 2M [Fuma/Uyu/Gamma/Rio] Brother Beat: 50K [Luna] Zettai Chuusei Nanonanora: 250K [Suisei] Sousei No Aquarion: 2M [Risu/Moona/lofi] H/-15: 750K",
+      "text": "10/12\n[Okayu] Lazyroop: 250K\n[Astel] Boku Wa Kyou Mo: 100K\n[Aqua] Goodbye Sengen: 8M\n[Izuru] Ato No Matsuri: 75K",
       "bbox": {
-        "x": 0.1331,
-        "y": 0.1128,
-        "width": 0.3581,
-        "height": 0.0946
+        "x": 0.0206,
+        "y": 0.2179,
+        "width": 0.4744,
+        "height": 0.0677
       }
     },
     {
       "type": "paragraph",
-      "text": "[Okayu] Lazyroop: 250K",
+      "text": "10/13\n[Iofi] Kagome: 100K\n[Aqua/Kanata] God-ish: 2M\n[Reine] Ano Aozora No Sei Da: 250K\n[Fubuki] Kusaregedou to Chocolate: 500K\n[Holostars 1-3] We Are The Holostars!!: 100K\n[Baelz] A Million Miles Away: 500K\n[Reine/Kotone] RAD DOGS: 100K\n[AZKi] Petrichor: 100K",
       "bbox": {
-        "x": 0.2969,
-        "y": 0.2227,
-        "width": 0.1963,
-        "height": 0.013
+        "x": 0.5081,
+        "y": 0.1866,
+        "width": 0.4706,
+        "height": 0.1319
       }
     },
     {
       "type": "paragraph",
-      "text": "[Astel] Boku Wa Kyou Mo: 100K [Aqua] Goodbye Sengen: 8M [lzuru] Ato No Matsuri: 75K",
+      "text": "10/14\n[Temma] Cinderella Girl: 100K\n[Okayu] Cinderella Remix (Cover): 250K",
       "bbox": {
-        "x": 0.2375,
-        "y": 0.2391,
-        "width": 0.2563,
-        "height": 0.0451
+        "x": 0.0206,
+        "y": 0.2956,
+        "width": 0.4744,
+        "height": 0.0339
       }
     },
     {
       "type": "paragraph",
-      "text": "[Temma] Cinderella Girl: 100K [Okayu] Cinderella Remix (Cover): 250K",
+      "text": "10/15\n[Kanata/La+] Lower: 500K\n[Kanata] Chuuku No Niwa: 250K\n[La+] Bitter Choco Decoration: 3M\n[Zeta] Aishite Aishite Aishite: 250K\n[Sora/Suisei/AZKi/Calliope/IRyS] Ifuudoudou (Cover): 500K",
       "bbox": {
-        "x": 0.1688,
-        "y": 0.2999,
-        "width": 0.3225,
-        "height": 0.0295
+        "x": 0.5081,
+        "y": 0.329,
+        "width": 0.4706,
+        "height": 0.0998
       }
     },
     {
       "type": "paragraph",
-      "text": "[Mumei/Baelz] Queen (Cover): 100K [Sora/Suisei/AZKi/Calliope/IRyS] Ifuudoudou (Cover): 750K",
+      "text": "10/16\n[Mumei/Baelz] Queen (Cover): 100K\n[Sora/Suisei/AZKi/Calliope/IRyS] Ifuudoudou (Cover): 750K",
       "bbox": {
-        "x": 0.1931,
-        "y": 0.3438,
-        "width": 0.2981,
-        "height": 0.046
+        "x": 0.0206,
+        "y": 0.3394,
+        "width": 0.4744,
+        "height": 0.0499
       }
     },
     {
-      "type": "paragraph",
-      "text": "REPRISE",
+      "type": "other",
+      "text": "REPRISE\nORIGINALE\nNOUVEAU",
       "bbox": {
-        "x": 0.0213,
-        "y": 0.4106,
-        "width": 0.0763,
-        "height": 0.01
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "ORIGINALE",
-      "bbox": {
-        "x": 0.1906,
-        "y": 0.4106,
-        "width": 0.1069,
-        "height": 0.01
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "NOUVEAU",
-      "bbox": {
-        "x": 0.3925,
-        "y": 0.4106,
-        "width": 0.0963,
-        "height": 0.01
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "REPRISE",
-      "bbox": {
-        "x": 0.0319,
-        "y": 0.4601,
-        "width": 0.0656,
-        "height": 0.0069
-      }
-    },
-    {
-      "type": "heading",
-      "text": "Okayu",
-      "bbox": {
-        "x": 0.0413,
-        "y": 0.5642,
-        "width": 0.0781,
-        "height": 0.0182
-      }
-    },
-    {
-      "type": "heading",
-      "text": "CINDERELLA (GIGA FIRST NIGHT REMIX)",
-      "bbox": {
-        "x": 0.0406,
-        "y": 0.5894,
-        "width": 0.4188,
-        "height": 0.0352
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "REPRISE",
-      "bbox": {
-        "x": 0.0319,
-        "y": 0.6454,
-        "width": 0.0663,
-        "height": 0.0069
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Kanata] Roshin Yuukai: 1M",
-      "bbox": {
-        "x": 0.5106,
-        "y": 0.0812,
-        "width": 0.2238,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Holostars] Magic Word Orchestra: 50K [Okayu/Ryushen] Non-breath Oblige: 500K [Koyori/Sora/Suisei/Subaru/Polka/Chloe] Kaibutsu: 4M [Holostars 1-3] We Are The Holostars!!: 75K",
-      "bbox": {
-        "x": 0.5106,
-        "y": 0.0977,
-        "width": 0.4556,
-        "height": 0.0616
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Okayu] Cinderella Remix (Cover): 100K",
-      "bbox": {
-        "x": 0.5106,
-        "y": 0.1636,
-        "width": 0.3225,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[lofi] Kagome: 100K",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.1905,
-        "width": 0.16,
+        "x": 0.02,
+        "y": 0.4084,
+        "width": 0.4706,
         "height": 0.0135
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Aqua/Kanata] God-ish: 2M",
+      "type": "other",
+      "text": "REPRISE\nOkayu\nCINDERELLA (GIGA FIRST NIGHT REMIX)",
       "bbox": {
-        "x": 0.51,
-        "y": 0.2075,
-        "width": 0.2238,
-        "height": 0.013
+        "x": 0.0225,
+        "y": 0.4583,
+        "width": 0.445,
+        "height": 0.1671
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Reine] Ano Aozora No Sei Da: 250K [Fubuki] Kusaregedou to Chocolate: 500K [Holostars 1-3] We Are The Holostars!!: 100K [Baelz] A Million Miles Away: 500K [Reine/Kotone] RAD DOGS: 100K",
+      "type": "other",
+      "text": "REPRISE\nSora, AZKi, Suisei, Calliope & IRyS\nIFUUDOUDOU",
       "bbox": {
-        "x": 0.51,
-        "y": 0.2244,
-        "width": 0.3613,
-        "height": 0.0777
+        "x": 0.5,
+        "y": 0.4583,
+        "width": 0.4531,
+        "height": 0.1602
       }
     },
     {
-      "type": "paragraph",
-      "text": "[AZKi] Petrichor: 100K",
+      "type": "other",
+      "text": "REPRISE\nMumei & Baelz\nQUEEN",
       "bbox": {
-        "x": 0.51,
-        "y": 0.3064,
-        "width": 0.1788,
-        "height": 0.0122
+        "x": 0.0225,
+        "y": 0.6437,
+        "width": 0.2744,
+        "height": 0.1688
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Kanata/La+] Lower: 500K [Kanata] Chuuku No Niwa: 250K [La+] Bitter Choco Decoration: 3M [Zeta] Aishite Aishite Aishite: 250K [Sora/Suisei/AZKi/Calliope/IRyS] Ifuudoudou (Cover): 500K",
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nShien\nBEGINNING",
       "bbox": {
-        "x": 0.5094,
-        "y": 0.3346,
-        "width": 0.2731,
-        "height": 0.0951
+        "x": 0.5,
+        "y": 0.6437,
+        "width": 0.4294,
+        "height": 0.1654
       }
     },
     {
-      "type": "heading",
-      "text": "IFUUDOUDOU",
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nLuna\nROUND AND ROUND AND CIRCLUNA",
       "bbox": {
-        "x": 0.5181,
-        "y": 0.5911,
-        "width": 0.4269,
-        "height": 0.026
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Shien",
-      "bbox": {
-        "x": 0.5175,
-        "y": 0.7496,
-        "width": 0.0663,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "heading",
-      "text": "BEGINNING",
-      "bbox": {
-        "x": 0.5175,
-        "y": 0.7778,
-        "width": 0.4031,
-        "height": 0.0291
-      }
-    },
-    {
-      "type": "heading",
-      "text": "4 ROUND AND ROUND {3 AND CIRCLUNA",
-      "bbox": {
-        "x": 0.1819,
-        "y": 0.9106,
-        "width": 0.7675,
-        "height": 0.0716
+        "x": 0.0225,
+        "y": 0.8294,
+        "width": 0.9325,
+        "height": 0.1424
       }
     }
   ],

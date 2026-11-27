@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_2208_-_2808",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.1979,
+        "width": 0.2087,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.3831,
+        "y": 0.1979,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Haachama c'est enfin mise au sport! Son plan d'entraînement quotidien consiste à faire du vélo, des squats avec des halteres, des tractions verticales, du rotary torso, du chest press/leg press,puis de la marche.",
+      "text": "Haachama c’est enfin mise au sport ! Son plan d'entraînement quotidien consiste à faire du vélo, des squats avec des haltères, des tractions verticales, du rotary torso, du chest press/leg press,puis de la marche.",
       "bbox": {
         "x": 0.0431,
         "y": 0.237,
@@ -26,6 +46,26 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Shion",
+      "bbox": {
+        "x": 0.1212,
+        "y": 0.3572,
+        "width": 0.1187,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen4",
+      "bbox": {
+        "x": 0.2494,
+        "y": 0.3572,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
       "type": "paragraph",
       "text": "La figurine de Shion est disponible en précommande sur Kotobukiya. La figurine en couleur à l'échelle 1/7 mesure environ 24 cm et il y a un bonus de commande pour le plastron « Nihihi ». La livraison est prévue pour février 2023.",
       "bbox": {
@@ -37,12 +77,22 @@
     },
     {
       "type": "heading",
-      "text": "Botan >",
+      "text": "Botan",
       "bbox": {
-        "x": 0.1213,
-        "y": 0.6471,
-        "width": 0.1981,
-        "height": 0.0256
+        "x": 0.1212,
+        "y": 0.6463,
+        "width": 0.1187,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen5",
+      "bbox": {
+        "x": 0.2494,
+        "y": 0.6463,
+        "width": 0.0712,
+        "height": 0.0213
       }
     },
     {
@@ -57,22 +107,52 @@
     },
     {
       "type": "heading",
-      "text": "NePoLaBo «5",
+      "text": "NePoLaBo",
       "bbox": {
-        "x": 0.0613,
-        "y": 0.8711,
-        "width": 0.3513,
-        "height": 0.036
+        "x": 0.1212,
+        "y": 0.878,
+        "width": 0.2031,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen5",
+      "bbox": {
+        "x": 0.3337,
+        "y": 0.878,
+        "width": 0.0712,
+        "height": 0.0213
       }
     },
     {
       "type": "paragraph",
-      "text": "Les moments d'Hologra de NePoLaBo seront disponibles pour être imprimés sur des t-shirts sur Amazon. Ceux-ci sont imprimés sur commande. Veuillez … consulter = holoshop ~~ pour plus d'informations et la disponibilité dans votre pays.",
+      "text": "Les moments d'Hologra de NePoLaBo seront disponibles pour être imprimés sur des t-shirts sur Amazon. Ceux-ci sont imprimés sur commande. Veuillez consulter holoshop pour plus d'informations et la disponibilité dans votre pays.",
       "bbox": {
         "x": 0.0431,
         "y": 0.9162,
         "width": 0.4456,
         "height": 0.0634
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.1658,
+        "width": 0.2087,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.8519,
+        "y": 0.1658,
+        "width": 0.0712,
+        "height": 0.0213
       }
     },
     {
@@ -87,12 +167,22 @@
     },
     {
       "type": "heading",
-      "text": "! Collab",
+      "text": "Collab",
       "bbox": {
-        "x": 0.6838,
-        "y": 0.3186,
-        "width": 0.2425,
-        "height": 0.0313
+        "x": 0.7037,
+        "y": 0.3238,
+        "width": 0.1275,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1&4",
+      "bbox": {
+        "x": 0.8406,
+        "y": 0.3238,
+        "width": 0.0712,
+        "height": 0.0213
       }
     },
     {
@@ -107,17 +197,27 @@
     },
     {
       "type": "heading",
-      "text": "amy & Lui €:",
+      "text": "Lamy & Lui",
       "bbox": {
-        "x": 0.6719,
+        "x": 0.6475,
         "y": 0.5117,
-        "width": 0.285,
-        "height": 0.0273
+        "width": 0.2188,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen5&6",
+      "bbox": {
+        "x": 0.8756,
+        "y": 0.5117,
+        "width": 0.0712,
+        "height": 0.0213
       }
     },
     {
       "type": "paragraph",
-      "text": "Lamy et Lui se sont retrouvés autour de quelques bouteilles de vin, d'amuse-gueules, de bavardages et d'un peu d'amitié. Les deux femmes ont partagé leurs réflexions sur leurs activités respectives, leur admiration pour leurs ainés et leur enthousiasme pour les fans anglais et étrangers. Lamy, peut-être égèrement éméché, a demandé à Lui-nee de l'embrasser, ce qu'elle a fait avec plaisir en lui donnant un petit coup sur la joue. Lamy a ensuite avoué qu'elle avait déjà Shishiro Botan.",
+      "text": "Lamy et Lui se sont retrouvés autour de quelques bouteilles de vin, d'amuse-gueules, de bavardages et d'un peu d'amitié. Les deux femmes ont partagé leurs réflexions sur leurs activités respectives, leur admiration pour leurs ainés et leur enthousiasme pour les fans anglais et étrangers. Lamy, peut-être légèrement éméché, a demandé à Lui-nee de l'embrasser, ce qu'elle a fait avec plaisir en lui donnant un petit coup sur la joue. Lamy a ensuite avoué qu'elle avait déjà Shishiro Botan.",
       "bbox": {
         "x": 0.5119,
         "y": 0.5503,
@@ -126,8 +226,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.5875,
+        "y": 0.6788,
+        "width": 0.1075,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen5",
+      "bbox": {
+        "x": 0.7044,
+        "y": 0.6788,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Polka est apparu dans l'émission Project V de NTV au Japon le 25 août. Aux côtés de YuNi, Haneru Inaba, Kashiko Mari, Himekuma Ribon. L'émission de variétés aborde de nombreux sujets, dont le premier concert solo de Call ew Underworld Order. La prochaine émission aura lieu le 10 septembre. Attendez-la avec impatience.",
+      "text": "Polka est apparu dans l'émission Project V de NTV au Japon le 25 août. Aux côtés de YuNi, Haneru Inaba, Kashiko Mari, Himekuma Ribon. L'émission de variétés aborde de nombreux sujets, dont le premier concert solo de Calli, New Underworld Order. La prochaine émission aura lieu le 10 septembre. Attendez-la avec impatience.",
       "bbox": {
         "x": 0.5138,
         "y": 0.7131,
@@ -136,8 +256,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "La+",
+      "bbox": {
+        "x": 0.5881,
+        "y": 0.8177,
+        "width": 0.0669,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "holoX",
+      "bbox": {
+        "x": 0.6644,
+        "y": 0.8177,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Laplus a révélé qu'elle avait déja sérieusement cherché a savoir si elle pouvait épouser son propre petit frère. Selon elle, les gens prennent souvent son frère pour son petit ami car il est très gentil avec elle, et elle ignore les SMS de sa mère mais répond immédiatement s'il s'agit de son frère. YMD a donc été extrêmement déçue d'apprendre que les lois japonaises interdisent une telle union entre frères et sœurs. Quelle douce relation entre ces deux-là !",
+      "text": "Laplus a révélé qu'elle avait déjà sérieusement cherché à savoir si elle pouvait épouser son propre petit frère. Selon elle, les gens prennent souvent son frère pour son petit ami car il est très gentil avec elle, et elle ignore les SMS de sa mère mais répond immédiatement s'il s'agit de son frère. YMD a donc été extrêmement déçue d'apprendre que les lois japonaises interdisent une telle union entre frères et sœurs. Quelle douce relation entre ces deux-là !",
       "bbox": {
         "x": 0.5106,
         "y": 0.8529,

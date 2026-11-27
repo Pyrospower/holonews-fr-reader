@@ -3,51 +3,61 @@
   "issueId": "holonews_fr_ver_0301_-_0901",
   "page": 18,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "ÉVÉNEMENTS PALIERS À VENIR D’ABONNÉS",
+      "text": "ÉVÉNEMENTS À VENIR",
       "bbox": {
         "x": 0.0538,
-        "y": 0.0326,
-        "width": 0.8531,
-        "height": 0.0729
+        "y": 0.031,
+        "width": 0.4046,
+        "height": 0.0769
       }
     },
     {
       "type": "other",
-      "text": "• 12 janvier : Anniversaire de Pekora\n• 13 janvier : Anniversaire de Shinove\n• 15 janvier : Anniversaire d'Oga",
+      "text": "• 12 janvier : Anniversaire de Pekora\n• 13 janvier : Anniversaire de Shinove\n• 15 janvier : Anniversaire d’Oga\n• 15 janvier : Anniversaire de Risu & sortie de sa chanson originale\n• 16 janvier : Relai pour la révélation des tenues du Nouvel An du Council",
       "bbox": {
         "x": 0.0731,
         "y": 0.1293,
         "width": 0.4006,
-        "height": 0.0855
+        "height": 0.2036
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PALIERS D’ABONNÉS",
+      "bbox": {
+        "x": 0.5708,
+        "y": 0.0385,
+        "width": 0.3385,
+        "height": 0.0684
       }
     },
     {
       "type": "other",
-      "text": "• 15 janvier : Anniversaire de Risu & sortie de sa chanson originale",
+      "text": "IROHA 450K\nCHLOE 700K\nNOEL 1,4 M\nCHOCO 800K\nKIARA 1,3 M\nSUISEI 1,3 M\nROBOCO 800K\nMATSURI 1,2 M",
       "bbox": {
-        "x": 0.0731,
-        "y": 0.2335,
-        "width": 0.385,
-        "height": 0.0334
+        "x": 0.6277,
+        "y": 0.1592,
+        "width": 0.2231,
+        "height": 0.3868
       }
     },
     {
-      "type": "other",
-      "text": "• 16 janvier : Relai pour la révélation des tenues du Nouvel An du Council",
+      "type": "heading",
+      "text": "Merci !",
       "bbox": {
-        "x": 0.0731,
-        "y": 0.2852,
-        "width": 0.3844,
-        "height": 0.0477
+        "x": 0.3892,
+        "y": 0.5983,
+        "width": 0.2308,
+        "height": 0.0342
       }
     },
     {
       "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
         "x": 0.0706,
         "y": 0.6471,

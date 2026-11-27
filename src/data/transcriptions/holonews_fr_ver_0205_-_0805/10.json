@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0205_-_0805",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.1768,
+        "width": 0.0982,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Rikka va participer à l'évènement « Love Festival 24 Hours Relay » qui sera diffusé sur Twitcast à partir du 7 mai 20:00 JST jusqu’au 8 mai 20:00 JST. Il est dit que Rikka chantera deux chansons à l'événement à partir de 21:00 JST alors restez connectés !",
+      "text": "Rikka va participer à l’évènement « Love Festival 24 Hours Relay » qui sera diffusé sur Twitcast à partir du 7 mai 20:00 JST jusqu’au 8 mai 20:00 JST. Il est dit que Rikka chantera deux chansons à l'événement à partir de 21:00 JST alors restez connectés !",
       "bbox": {
         "x": 0.0712,
         "y": 0.2183,
@@ -26,7 +36,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Izuru",
       "bbox": {
         "x": 0.1706,
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après avoir obtenu son diplôme universitaire, lzuru vit sa meilleure vie en ce moment puisqu'il utilise son temps libre pour autre chose. Il s'est réveillé le matin pour marcher en forêt, lire des livres, et dormir sur un banc au parc.",
+      "text": "Après avoir obtenu son diplôme universitaire, Izuru vit sa meilleure vie en ce moment puisqu’il utilise son temps libre pour autre chose. Il s’est réveillé le matin pour marcher en forêt, lire des livres, et dormir sur un banc au parc.",
       "bbox": {
         "x": 0.0712,
         "y": 0.4779,
@@ -46,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.6061,
+        "width": 0.0909,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "La semaine dernière, Astel a fait en sorte que les Astellas regardent les streams de ses amis et cadets en apparaissant sur chacun de leurs streams. Astel a seulement quatre archives de streams alors qu'il apparaît dans sept autres vidéos.",
+      "text": "La semaine dernière, Astel a fait en sorte que les Astellas regardent les streams de ses amis et cadets en apparaissant sur chacun de leurs streams. Astel a seulement quatre archives de streams alors qu’il apparaît dans sept autres vidéos.",
       "bbox": {
         "x": 0.0712,
         "y": 0.6419,
@@ -76,8 +96,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.178,
+        "width": 0.1127,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le stream Apex de Miyabi s’est soudainement transformé en appel de groupe où beaucoup de membres d'HOLOSTARS lui ont rendu visite et l'ont aidé tout au long de la nuit. Lorsqu'il ne se débrouillait pas bien en solo, il jouait comme s'il était avec Aruran et Temma. Ensuite, Temma est apparu dans son tchat pour le soutenir. Il ne prévoyait pas de le rejoindre dans un premier temps, mais quand il a vu à quel point Miyabi était désespéré, il a décidé de le rejoindre pour une partie. Pendant la partie d’Hanashiki, Izuru a rejoint l'appel et a remplacé Temma quand il est parti.",
+      "text": "Le stream Apex de Miyabi s’est soudainement transformé en appel de groupe où beaucoup de membres d’HOLOSTARS lui ont rendu visite et l'ont aidé tout au long de la nuit. Lorsqu'il ne se débrouillait pas bien en solo, il jouait comme s’il était avec Aruran et Temma. Ensuite, Temma est apparu dans son tchat pour le soutenir. Il ne prévoyait pas de le rejoindre dans un premier temps, mais quand il a vu à quel point Miyabi était désespéré, il a décidé de le rejoindre pour une partie. Pendant la partie d’Hanashiki, Izuru a rejoint l’appel et a remplacé Temma quand il est parti.",
       "bbox": {
         "x": 0.5375,
         "y": 0.2183,
@@ -87,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Plus tard, Aruran et Rikka ont aussi rejoint le vocal. Tout le monde a été surpris parce que les membres de la Gen 1 sont rarement tous réunis pendant un même stream. Pendant ce temps, Izuru et Rikka ont aidé Miyabi en classé tandis qu’Aruran était dans le vocal. Quand tout le monde est parti, Astel (qui taquinait Uyu sur Minecraft) est allé sur Apex pour jouer avec Miyabi puisqu'il était aussi au rang Platine. Et une fois le travail de Izuru et Aruran fini, ils sont revenus et sont restés jusqu'à la fin du stream.",
+      "text": "Plus tard, Aruran et Rikka ont aussi rejoint le vocal. Tout le monde a été surpris parce que les membres de la Gen 1 sont rarement tous réunis pendant un même stream. Pendant ce temps, Izuru et Rikka ont aidé Miyabi en classé tandis qu’Aruran était dans le vocal. Quand tout le monde est parti, Astel (qui taquinait Uyu sur Minecraft) est allé sur Apex pour jouer avec Miyabi puisqu'il était aussi au rang Platine. Et une fois le travail de Izuru et Aruran fini, ils sont revenus et sont restés jusqu’à la fin du stream.",
       "bbox": {
         "x": 0.5375,
         "y": 0.4067,
@@ -96,8 +126,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.6919,
+        "width": 0.0927,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Shien a démontré ses talents divins de gamer sur le stream 24 heures de Ponpoko & Peanuts-kun. Les VTubers indépendants Ponpoko et Peanuts-kun avaient organisé un stream 24 heures en plusieurs parties avec plusieurs invités. L'une des parties était POSUKE Mario Warrior, un jeu sur Super Mario Maker 2 avec des niveaux que les invités devaient compléter. Personne d’autre avant Shien n’avait réussi. Il a tenu les attentes de Ponpoko et Peanuts-kun qu'il pensait être assez doué. Shien ne les a pas déçus, il a réussi à terminer le niveau et a collecté toutes les pièces, et même démettre ses avis ici et là tant qu'il y était. Comme récompense, Shien a reçu 1 an d'abonnement à Netflix de la part de Ponpoko et Peanuts-kun. Félicitation Shien !",
+      "text": "Shien a démontré ses talents divins de gamer sur le stream 24 heures de Ponpoko & Peanuts-kun. Les VTubers indépendants Ponpoko et Peanuts-kun avaient organisé un stream 24 heures en plusieurs parties avec plusieurs invités. L’une des parties était POSUKE Mario Warrior, un jeu sur Super Mario Maker 2 avec des niveaux que les invités devaient compléter. Personne d’autre avant Shien n’avait réussi. Il a tenu les attentes de Ponpoko et Peanuts-kun qu’il pensait être assez doué. Shien ne les a pas déçus, il a réussi à terminer le niveau et a collecté toutes les pièces, et même démettre ses avis ici et là tant qu’il y était. Comme récompense, Shien a reçu 1 an d’abonnement à Netflix de la part de Ponpoko et Peanuts-kun. Félicitation Shien !",
       "bbox": {
         "x": 0.5381,
         "y": 0.7335,

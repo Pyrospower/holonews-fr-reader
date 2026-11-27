@@ -3,16 +3,36 @@
   "issueId": "holonews_fr_ver_2006_-_2606",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Bazo prend les devants °",
+      "type": "other",
+      "text": "Bazo prend les devants",
       "bbox": {
         "x": 0.0188,
         "y": 0.0117,
         "width": 0.3038,
         "height": 0.0169
+      }
+    },
+    {
+      "type": "other",
+      "text": "HoloCure",
+      "bbox": {
+        "x": 0.4488,
+        "y": 0.0117,
+        "width": 0.1106,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "Le nouveau PC de Botan",
+      "bbox": {
+        "x": 0.65,
+        "y": 0.01,
+        "width": 0.3319,
+        "height": 0.013
       }
     },
     {
@@ -26,88 +46,68 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "HoloCure",
+      "type": "heading",
+      "text": "Lui a montré son nouveau modèle 3D",
       "bbox": {
-        "x": 0.4488,
-        "y": 0.0117,
-        "width": 0.1106,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Le nouveau PC de Botan",
-      "bbox": {
-        "x": 0.65,
-        "y": 0.01,
-        "width": 0.3319,
-        "height": 0.013
+        "x": 0.02,
+        "y": 0.177,
+        "width": 0.22,
+        "height": 0.12
       }
     },
     {
       "type": "heading",
-      "text": "Lui hn Gura a montré son A li a eu 9 486",
+      "text": "Gura a eu 9 486 ans le 21 juin",
       "bbox": {
-        "x": 0.0231,
-        "y": 0.1775,
-        "width": 0.9531,
-        "height": 0.0703
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "nouveau modèle",
-      "bbox": {
-        "x": 0.0244,
-        "y": 0.2535,
-        "width": 0.1338,
-        "height": 0.0399
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "a fêté _ son 3e anniversaire",
-      "bbox": {
-        "x": 0.7825,
-        "y": 0.3694,
-        "width": 0.1913,
-        "height": 0.0707
+        "x": 0.8,
+        "y": 0.177,
+        "width": 0.18,
+        "height": 0.12
       }
     },
     {
       "type": "heading",
-      "text": "_ Noel",
+      "text": "Izuru a fêté son 3e anniversaire",
       "bbox": {
-        "x": 0.8356,
-        "y": 0.4709,
-        "width": 0.135,
-        "height": 0.0352
+        "x": 0.78,
+        "y": 0.32,
+        "width": 0.2,
+        "height": 0.12
       }
     },
     {
-      "type": "paragraph",
-      "text": "Noel a",
+      "type": "heading",
+      "text": "Noel",
       "bbox": {
-        "x": 0.8744,
-        "y": 0.5174,
-        "width": 0.1013,
-        "height": 0.0191
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "devoilé une nouvelle tenue 3D et ne chanson",
-      "bbox": {
-        "x": 0.7656,
-        "y": 0.5425,
-        "width": 0.21,
-        "height": 0.1033
+        "x": 0.82,
+        "y": 0.47,
+        "width": 0.16,
+        "height": 0.04
       }
     },
     {
       "type": "other",
-      "text": "Vous voulez nous aider ? Rejoignez notre Discord !",
+      "text": "Noel a dévoilé une nouvelle tenue 3D et une chanson",
+      "bbox": {
+        "x": 0.77,
+        "y": 0.516,
+        "width": 0.21,
+        "height": 0.125
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Annonces pour l’anniversaire des STARS",
+      "bbox": {
+        "x": 0.69,
+        "y": 0.669,
+        "width": 0.29,
+        "height": 0.1
+      }
+    },
+    {
+      "type": "other",
+      "text": "Vous voulez nous aider ?\nRejoignez notre Discord !",
       "bbox": {
         "x": 0.5769,
         "y": 0.9453,

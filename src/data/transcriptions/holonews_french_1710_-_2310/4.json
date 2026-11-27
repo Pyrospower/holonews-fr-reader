@@ -3,11 +3,21 @@
   "issueId": "holonews_french_1710_-_2310",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "MAGNI DEZMOND",
+      "bbox": {
+        "x": 0.0554,
+        "y": 0.1068,
+        "width": 0.3754,
+        "height": 0.1645
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le grand Maglord Magni Dezmond était a son 100% pour son anniversaire le 21 octobre. Avant de commencer les appels, il a annoncé sa première reprise, « Escape from the City » de Sonic Adventure 2: Battle, qui a fait sa première après le stream. L'instrumentation et le mix a été fait par Tachibana Music et la MV a été faite par Kanauru, et contenait un modèle 3D fait par Ahbangkun et un fond fait par plusieurs artistes talentueux.",
+      "text": "Le grand Maglord Magni Dezmond était à son 100% pour son anniversaire le 21 octobre. Avant de commencer les appels, il a annoncé sa première reprise, « Escape from the City » de Sonic Adventure 2: Battle, qui a fait sa première après le stream. L’instrumentation et le mix a été fait par Tachibana Music et la MV a été faite par Kanauru, et contenait un modèle 3D fait par Ahbangkun et un fond fait par plusieurs artistes talentueux.",
       "bbox": {
         "x": 0.055,
         "y": 0.3134,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Magni a reçu 17 appels de la part de membres d'hololive, avec parmis eux ses collègues de TEMPUS, ses aînés japonais de HOLOSTARS (avec en plus un message vidéo de la part de Miyabi), et plusieurs filles d'ID et d'EN. Comme selon la tradition, il a reçu de nombreux cadeaux, mais Magni ne s'attendait pas à un cadeau particulièrement spécial de la part d'Altare - une copie notée 9.2 de la toute première édition de la bande dessinée Sonic the Hedgehog, qu'il a évidemment apprécié étant donné qu'il est un fan depuis tout petit de Sonic. Les autres cadeaux ont consisté en une potion-gâteau d'anniversaire de la part d'Ame, et encore une autre surprise spéciale de la part de l'Elysium Delivery Service (un compte de fan de TEMPUS) - un message caméo de Jaleel White, le doubleur d'origine de Sonic dans la série animée Les Aventures de Sonic !",
+      "text": "Magni a reçu 17 appels de la part de membres d’hololive, avec parmis eux ses collègues de TEMPUS, ses aînés japonais de HOLOSTARS (avec en plus un message vidéo de la part de Miyabi), et plusieurs filles d’ID et d’EN. Comme selon la tradition, il a reçu de nombreux cadeaux, mais Magni ne s’attendait pas à un cadeau particulièrement spécial de la part d’Altare – une copie notée 9.2 de la toute première édition de la bande dessinée Sonic the Hedgehog, qu’il a évidemment apprécié étant donné qu’il est un fan depuis tout petit de Sonic. Les autres cadeaux ont consisté en une potion-gâteau d’anniversaire de la part d’Ame, et encore une autre surprise spéciale de la part de l’Elysium Delivery Service (un compte de fan de TEMPUS) – un message caméo de Jaleel White, le doubleur d’origine de Sonic dans la série animée Les Aventures de Sonic !",
       "bbox": {
         "x": 0.0531,
         "y": 0.5486,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après avoir dit au revoir à Fuma, Magni a dévoilé ses produits dérivés d'anniversaire :",
+      "text": "Après avoir dit au revoir à Fuma, Magni a dévoilé ses produits dérivés d’anniversaire :",
       "bbox": {
         "x": 0.5038,
         "y": 0.6667,
@@ -37,47 +47,17 @@
     },
     {
       "type": "paragraph",
-      "text": "• Un tapis de souris",
+      "text": "• Un tapis de souris\n• Un support de téléphone\n• Un porte-clé doré en acrylique, avec un design réalisé par Magni\n• Un ensemble de voix",
       "bbox": {
         "x": 0.5194,
         "y": 0.7166,
-        "width": 0.1956,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un support de téléphone",
-      "bbox": {
-        "x": 0.5194,
-        "y": 0.7326,
-        "width": 0.2656,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un porte-clé doré en acrylique, avec un design réalisé par Magni",
-      "bbox": {
-        "x": 0.5194,
-        "y": 0.7491,
         "width": 0.425,
-        "height": 0.0308
+        "height": 0.0764
       }
     },
     {
       "type": "paragraph",
-      "text": "Un ensemble de voix",
-      "bbox": {
-        "x": 0.5194,
-        "y": 0.7826,
-        "width": 0.2244,
-        "height": 0.0104
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Le bonus d'achat pour l’ensemble des produits est une carte postale estampillée. Le tapis de souris, le support de téléphone et la carte postale sont illustrés par Sawada Ryuuko.",
+      "text": "Le bonus d’achat pour l’ensemble des produits est une carte postale estampillée. Le tapis de souris, le support de téléphone et la carte postale sont illustrés par Sawada Ryuuko.",
       "bbox": {
         "x": 0.5044,
         "y": 0.8155,

@@ -3,16 +3,36 @@
   "issueId": "holonews_fr_ver_0612_-_1212",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Mama Mio",
+      "bbox": {
+        "x": 0.028,
+        "y": 0.012,
+        "width": 0.345,
+        "height": 0.033
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Mio a organisé un stream totsumachi pour fêter ses 3 ans chez hololive. Elle a tenté de faire répéter à chaque membre d’hololive qu'elle appelait un mot désigné par une roulette. Subaru a été la première à appeler, suivie de Towa, Marine, sa fille Ayame, Miko, et Korone, qui est arrivée pendant sa pause! Avec le défi remporté, Mio a dévoilé sa nouvelle tenue a temps pour les fétes de fin d'année. Une jupe noir tranchée d’une fine bande rouge, un pull-over laineux, ainsi qu'un châle rouge pour lui tenir chaud. Sa coiffure est composée de couettes ornées d'accessoires en formes d'étoiles capables de s'illuminer tel un sapin de Noël. A l'occasion de cette célébration, Mio a annoncé une multitude de produits dérivés : un tapis de bureau illustré par le papa de Mio, Izumi-sensei, dépeignant Mio profitant d'une source chaude, un dessous de verre représentant Mio accompagnée de ses deux chats, Taiga et Tawa, par nononanameme-sensei, un jeu de cartes de tarot basées sur Mio, un gobelet en acier inoxydable, ainsi que deux voice packs d'anniversaire, l'un d'eux étant de l'ASMR ! L'ensemble acheté dans sa totalité inclut un bonus sous la forme d'une carte postale par |zumi-sensei sur laquelle figure I'autographe de Mio !",
+      "text": "Mio a organisé un stream totsumachi pour fêter ses 3 ans chez hololive. Elle a tenté de faire répéter à chaque membre d’hololive qu’elle appelait un mot désigné par une roulette. Subaru a été la première à appeler, suivie de Towa, Marine, sa fille Ayame, Miko, et Korone, qui est arrivée pendant sa pause! Avec le défi remporté, Mio a dévoilé sa nouvelle tenue à temps pour les fêtes de fin d’année. Une jupe noir tranchée d’une fine bande rouge, un pull-over laineux, ainsi qu’un châle rouge pour lui tenir chaud. Sa coiffure est composée de couettes ornées d’accessoires en formes d’étoiles capables de s’illuminer tel un sapin de Noël. À l’occasion de cette célébration, Mio a annoncé une multitude de produits dérivés : un tapis de bureau illustré par le papa de Mio, Izumi-sensei, dépeignant Mio profitant d’une source chaude, un dessous de verre représentant Mio accompagnée de ses deux chats, Taiga et Tawa, par nononanameme-sensei, un jeu de cartes de tarot basées sur Mio, un gobelet en acier inoxydable, ainsi que deux voice packs d’anniversaire, l’un d’eux étant de l’ASMR ! L’ensemble acheté dans sa totalité inclut un bonus sous la forme d’une carte postale par Izumi-sensei sur laquelle figure I’autographe de Mio !",
       "bbox": {
         "x": 0.0289,
         "y": 0.0664,
         "width": 0.4439,
         "height": 0.4645
+      }
+    },
+    {
+      "type": "other",
+      "text": "Desk-mat",
+      "bbox": {
+        "x": 0.643,
+        "y": 0.502,
+        "width": 0.137,
+        "height": 0.019
       }
     },
     {
@@ -37,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Shion a annoncé ses produits dérivés d'anniversaire :",
+      "text": "Shion a annoncé ses produits dérivés d’anniversaire :",
       "bbox": {
         "x": 0.0278,
         "y": 0.7361,
@@ -47,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "« Un tapis de souris en forme de poitrine » Des broches à épingle » Une peluche Shiokko",
+      "text": "• Un tapis de souris en forme de poitrine\n• Des broches à épingle\n• Une peluche Shiokko",
       "bbox": {
         "x": 0.0483,
         "y": 0.7847,
@@ -57,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Prendre l'ensemble entier vous donnera droit à une carte postale signée. Shion a également annoncé qu'elle allait obtenir ses propres stickers sur LINE !",
+      "text": "Prendre l’ensemble entier vous donnera droit à une carte postale signée. Shion a également annoncé qu’elle allait obtenir ses propres stickers sur LINE !",
       "bbox": {
         "x": 0.0278,
         "y": 0.8488,
@@ -67,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle a aussi reçu des accessoires supplémentaires pour son modèle 2D qu'elle a montré pendant un stream le jour suivant.",
+      "text": "Elle a aussi reçu des accessoires supplémentaires pour son modèle 2D qu’elle a montré pendant un stream le jour suivant.",
       "bbox": {
         "x": 0.0278,
         "y": 0.929,

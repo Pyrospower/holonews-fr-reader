@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1001_-_1601",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Towa",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.25,
+        "width": 0.12,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Towa a passé la semaine sur APEX ! Elle a d’abord participé à une collaboration avec Ollie et le joueur professionnel rpr, qui a récemment fait de nombreuses apparitions sur la chaîne de cette dernière. Towa a ensuite streamé son point de vue de la 8e édition de l'APEX Crazy Raccoon Cup, où elle s'est battue aux côtés de Mondo (Crazy Raccoon) et d’Hinano Tachibana (Iris Black Games) au sein de l'équipe « Team BLACKBERRY ». Les trois se sont classés a la dernière place durant les deux premières manches, mais ont réussi à devenir champions lors de la 5e manche, finissant le tournoi à la 10e place. En plus de cela, Towa a également fait des streams d’échauffement sur APEX, menant le total & 8 streams sur le jeu cette semaine.",
+      "text": "Towa a passé la semaine sur APEX ! Elle a d’abord participé à une collaboration avec Ollie et le joueur professionnel rpr, qui a récemment fait de nombreuses apparitions sur la chaîne de cette dernière. Towa a ensuite streamé son point de vue de la 8e édition de l’APEX Crazy Raccoon Cup, où elle s’est battue aux côtés de Mondo (Crazy Raccoon) et d’Hinano Tachibana (Iris Black Games) au sein de l’équipe « Team BLACKBERRY ». Les trois se sont classés à la dernière place durant les deux premières manches, mais ont réussi à devenir champions lors de la 5e manche, finissant le tournoi à la 10e place. En plus de cela, Towa a également fait des streams d’échauffement sur APEX, menant le total à 8 streams sur le jeu cette semaine.",
       "bbox": {
         "x": 0.0506,
         "y": 0.2891,
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Durant l’un de ses streams de lecture de Super Chats, Watame a mentionné les débuts en 3D d’Ui-mama et s'est demandé si elle allait y faire son fameux « Ui-beam ». Ses espoirs se sont concrétisés le lendemain, quand Ui a réalisé le mouvement tout en chantant « Fansa ». Watame a chanté la chanson en cœur et a également prononcé le « Ui-beam », mais a affirmé que celui-ci était « légitime ».",
+      "text": "Durant l’un de ses streams de lecture de Super Chats, Watame a mentionné les débuts en 3D d’Ui-mama et s’est demandé si elle allait y faire son fameux « Ui-beam ». Ses espoirs se sont concrétisés le lendemain, quand Ui a réalisé le mouvement tout en chantant « Fansa ». Watame a chanté la chanson en cœur et a également prononcé le « Ui-beam », mais a affirmé que celui-ci était « légitime ».",
       "bbox": {
         "x": 0.0494,
         "y": 0.7691,
@@ -46,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.25,
+        "width": 0.164,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Kanata a organisé une collaboration épique en personne avec Marine, Flare, Ayame et Noel. Les filles se sont rassemblées pour une soirée pyjama en stream qui a durée 12 heures et durant laquelle elles ont cuisiné, joué et se sont relaxées ensemble. La première partie du stream n’a été conservée que sous la forme de l'enregistrement d’un Space Twitter. L'archive sur Youtube a débuté avec les modèles 2D de chacune des filles, qui ont disparu au fur et à mesure de la soirée pour laisser place à des images fixes. Sans surprise, la collaboration a eu son lot de fous rires et de moments adorables, donc n'hésitez pas à y jeter un œil si vous comprenez le japonais !",
+      "text": "Kanata a organisé une collaboration épique en personne avec Marine, Flare, Ayame et Noel. Les filles se sont rassemblées pour une soirée pyjama en stream qui a durée 12 heures et durant laquelle elles ont cuisiné, joué et se sont relaxées ensemble. La première partie du stream n’a été conservée que sous la forme de l’enregistrement d’un Space Twitter. L’archive sur Youtube a débuté avec les modèles 2D de chacune des filles, qui ont disparu au fur et à mesure de la soirée pour laisser place à des images fixes. Sans surprise, la collaboration a eu son lot de fous rires et de moments adorables, donc n’hésitez pas à y jeter un œil si vous comprenez le japonais !",
       "bbox": {
         "x": 0.5219,
         "y": 0.2891,
@@ -56,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.73,
+        "width": 0.164,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Lors d’un court stream, Kanata a annoncé qu'elle allait prendre une longue pause pour des raisons personnelles. Elle a expliqué qu'elle n’était pas dans sa meilleure forme ces derniers temps, mais a rassuré ses fans en précisant qu'il n'y avait pas a s'inquiéter. Kanata a simplement besoin d’un peu de repos et de retrouver son assurance. Donnons notre soutien à Kanata et attendons avec impatience son retour!",
+      "text": "Lors d’un court stream, Kanata a annoncé qu’elle allait prendre une longue pause pour des raisons personnelles. Elle a expliqué qu’elle n’était pas dans sa meilleure forme ces derniers temps, mais a rassuré ses fans en précisant qu’il n’y avait pas à s’inquiéter. Kanata a simplement besoin d’un peu de repos et de retrouver son assurance. Donnons notre soutien à Kanata et attendons avec impatience son retour !",
       "bbox": {
         "x": 0.5231,
         "y": 0.7687,

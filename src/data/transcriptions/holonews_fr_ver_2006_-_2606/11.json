@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2006_-_2606",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0174,
         "width": 0.26,
         "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shien & Oga",
+      "bbox": {
+        "x": 0.18,
+        "y": 0.178,
+        "width": 0.2,
+        "height": 0.026
       }
     },
     {
@@ -46,6 +56,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Fuma",
+      "bbox": {
+        "x": 0.172,
+        "y": 0.701,
+        "width": 0.09,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Fuma a joué à Yakiniku Simulator en attendant d'atteindre son objectif de 60 000 abonnées. Après trois heures et vingt-six minutes, il a finalement atteint son objectif. En cours de route, il a cuisiné et brûlé beaucoup de viande, et a diverti ses spectateurs avec des conversations amusantes.",
       "bbox": {
@@ -56,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.27,
+        "width": 0.13,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Sur Twitter, Gamma a raconté qu'il s'était fait mal au cou au réveil et qu'il avait dû prendre un jour de congé. Mais cela ne l'a pas empêché de jouer avec les assistants dans son stream discussion. Il a parlé avec eux de choses et d'autres, comme la façon dont il s'est blessé au cou, comment acheter Gamma et comment jouer à VALORANT en jouant de l'harmonica. Le jour suivant, il est revenu de son repos et a finalement terminé le dessin de lofi. Après avoir posté le dessin terminé sur Twitter, lofi et Anya ont commenté la qualité du dessin de Gamma, ce à quoi Gamma a répondu qu'il voulait dessiner Anya ensuite.",
+      "text": "Sur Twitter, Gamma a raconté qu'il s'était fait mal au cou au réveil et qu'il avait dû prendre un jour de congé. Mais cela ne l'a pas empêché de jouer avec les assistants dans son stream discussion. Il a parlé avec eux de choses et d'autres, comme la façon dont il s'est blessé au cou, comment acheter Gamma et comment jouer à VALORANT en jouant de l'harmonica. Le jour suivant, il est revenu de son repos et a finalement terminé le dessin de Iofi. Après avoir posté le dessin terminé sur Twitter, Iofi et Anya ont commenté la qualité du dessin de Gamma, ce à quoi Gamma a répondu qu'il voulait dessiner Anya ensuite.",
       "bbox": {
         "x": 0.5363,
         "y": 0.3125,
@@ -66,18 +96,28 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "nouvelle tournure à leur collaboration sur Apex. Il ne s'agit pas d'un jeu à gage, mais d'un stream normal où ils jouent à Apex en utilisant un harmonica pour communiquer entre eux. Étonnamment, ils se sont compris et ont pris le jeu au sérieux.",
+      "type": "heading",
+      "text": "Collab",
       "bbox": {
-        "x": 0.5169,
-        "y": 0.6871,
-        "width": 0.3713,
-        "height": 0.0803
+        "x": 0.743,
+        "y": 0.633,
+        "width": 0.11,
+        "height": 0.026
       }
     },
     {
       "type": "paragraph",
-      "text": "Par la suite, quelqu'un a commencé à jouer de la guitare en vocal, et cette personne s'est avérée être Rio. Même si Rio a dit qu'il serait difficile d'utiliser la guitare tout en jouant à Apex, il a réussi à le faire et c'est devenu une session de musique tout en jouant à Apex.",
+      "text": "Fuma et Gamma ont décidé de donner une nouvelle tournure à leur collaboration sur Apex. Il ne s'agit pas d'un jeu à gage, mais d'un stream normal où ils jouent à Apex en utilisant un harmonica pour communiquer entre eux. Étonnamment, ils se sont compris et ont pris le jeu au sérieux.",
+      "bbox": {
+        "x": 0.517,
+        "y": 0.674,
+        "width": 0.405,
+        "height": 0.093
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Par la suite, quelqu’un a commencé à jouer de la guitare en vocal, et cette personne s'est avérée être Rio. Même si Rio a dit qu'il serait difficile d'utiliser la guitare tout en jouant à Apex, il a réussi à le faire et c'est devenu une session de musique tout en jouant à Apex.",
       "bbox": {
         "x": 0.5175,
         "y": 0.7813,

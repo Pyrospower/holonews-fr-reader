@@ -3,41 +3,31 @@
   "issueId": "holonews_fr_ver_2911_-_0512",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "YOUTUBE - WEEKEND",
+      "text": "GEN 0",
       "bbox": {
-        "x": 0.3206,
-        "y": 0.099,
-        "width": 0.1581,
-        "height": 0.0582
+        "x": 0.1836,
+        "y": 0.029,
+        "width": 0.1727,
+        "height": 0.0303
       }
     },
     {
       "type": "heading",
-      "text": "MUSIC",
+      "text": "Suisei",
       "bbox": {
-        "x": 0.3406,
-        "y": 0.1198,
-        "width": 0.09,
-        "height": 0.0165
+        "x": 0.1618,
+        "y": 0.2008,
+        "width": 0.1418,
+        "height": 0.0253
       }
     },
     {
       "type": "paragraph",
-      "text": "12/3 FRI",
-      "bbox": {
-        "x": 0.3594,
-        "y": 0.1684,
-        "width": 0.1,
-        "height": 0.0178
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Pendant le « Youtube Music Weekend », Suisei a donné un condensé des chansons de son premier concert individuel, en accompagnant sa performance de « Bye Bye Rainy », « Blue Rose », « Je t'aime », « Jibunkatte Dazing », « comet ~midnight jazz arrange~» avec un pic d'audience de pas moins de 28 000 personnes pendant 3 minutes et 12 secondes.",
+      "text": "Pendant le « Youtube Music Weekend », Suisei a donné un condensé des chansons de son premier concert individuel, en accompagnant sa performance de « Bye Bye Rainy », « Blue Rose », « Je t’aime », « Jibunkatte Dazing », « comet ~midnight jazz arrange~» avec un pic d’audience de pas moins de 28 000 personnes pendant 3 minutes et 12 secondes.",
       "bbox": {
         "x": 0.0513,
         "y": 0.2444,
@@ -56,13 +46,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Durant la célébration du second anniversaire du transfert de Suisei chez hololive, elle a présenté plusieurs nouveaux assets dont une scène de karaoké, une salle de discussion et quatre de jeu. Elle a aussi obtenu une entrée en scène et des écrans de transition. Elle a parlé plus tard de tout le processus d'acquisition de ses nouveaux assets et de l'embauche du dessinateur qui a remplacé ses anciens designs qui dataient de ses débuts.",
+      "type": "heading",
+      "text": "Miko",
       "bbox": {
-        "x": 0.0513,
-        "y": 0.6402,
-        "width": 0.425,
-        "height": 0.168
+        "x": 0.6309,
+        "y": 0.2033,
+        "width": 0.1236,
+        "height": 0.0253
       }
     },
     {
@@ -87,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après avoir fini son plat, elle a voulu essayer le thème « Etalage » pour son prochain stream.",
+      "text": "Après avoir fini son plat, elle a voulu essayer le thème « Étalage » pour son prochain stream.",
       "bbox": {
         "x": 0.5219,
         "y": 0.4063,
@@ -96,8 +86,38 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1618,
+        "y": 0.5972,
+        "width": 0.1418,
+        "height": 0.0253
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Roboco a tenu un stream Mario Kart afin de régler un but qu’elle avait rencontré. Tant qu’elle ne finissait pas à la première place, son avatar se multipliait tout au long du stream, et il s'arrêtait si elle enchaînait successivement la dernière place.",
+      "text": "Durant la célébration du second anniversaire du transfert de Suisei chez hololive, elle a présenté plusieurs nouveaux assets dont une scène de karaoké, une salle de discussion et quatre de jeu. Elle a aussi obtenu une entrée en scène et des écrans de transition. Elle a parlé plus tard de tout le processus d’acquisition de ses nouveaux assets et de l’embauche du dessinateur qui a remplacé ses anciens designs qui dataient de ses débuts.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.6402,
+        "width": 0.425,
+        "height": 0.168
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roboco",
+      "bbox": {
+        "x": 0.6309,
+        "y": 0.5972,
+        "width": 0.1727,
+        "height": 0.0253
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roboco a tenu un stream Mario Kart afin de régler un but qu’elle avait rencontré. Tant qu’elle ne finissait pas à la première place, son avatar se multipliait tout au long du stream, et il s’arrêtait si elle enchaînait successivement la dernière place.",
       "bbox": {
         "x": 0.5225,
         "y": 0.6406,
@@ -107,7 +127,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le stream a duré 46 minutes et Roboco a été multipliée 9 fois jusqu’à ce qu'elle soit arrivée dernière deux fois d'affilée.",
+      "text": "Le stream a duré 46 minutes et Roboco a été multipliée 9 fois jusqu’à ce qu'elle soit arrivée dernière deux fois d’affilée.",
       "bbox": {
         "x": 0.5225,
         "y": 0.753,
@@ -116,8 +136,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.6309,
+        "y": 0.8548,
+        "width": 0.1145,
+        "height": 0.0265
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Sora a été invitée à participer au Virtual Music Award 2021, présenté par CREDIT SAISON. L'événement se déroulera le 29 décembre.",
+      "text": "Sora a été invitée à participer au Virtual Music Award 2021, présenté par CREDIT SAISON. L’événement se déroulera le 29 décembre.",
       "bbox": {
         "x": 0.5225,
         "y": 0.9102,

@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_2208_-_2808",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "UPROAR!",
+      "text": "UPROAR!!",
       "bbox": {
         "x": 0.1675,
         "y": 0.1523,
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "other",
+      "text": "UPROAR!!",
+      "bbox": {
+        "x": 0.3588,
+        "y": 0.1519,
+        "width": 0.0975,
+        "height": 0.0208
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour le dernier épisode de Jump UPROAR! ils ont été emmenés dans un nouvel endroit pour un autre défi lié a I'été. lls ont été chargés de créer leur propre toboggan somen et ont eu quatre heures pour le réaliser. lls se sont rendus dans un supermarché proche et ont acheté les matériaux nécessaires pour créer leur toboggan et ils ont même acheté des choses pour le personnaliser. Après quatre heures, ils ont pu terminer le toboggan et déguster leur somen.",
+      "text": "Pour le dernier épisode de Jump UPROAR!!!, ils ont été emmenés dans un nouvel endroit pour un autre défi lié à l'été. Ils ont été chargés de créer leur propre toboggan somen et ont eu quatre heures pour le réaliser. Ils se sont rendus dans un supermarché proche et ont acheté les matériaux nécessaires pour créer leur toboggan et ils ont même acheté des choses pour le personnaliser. Après quatre heures, ils ont pu terminer le toboggan et déguster leur somen.",
       "bbox": {
         "x": 0.0431,
         "y": 0.191,
@@ -33,6 +43,26 @@
         "y": 0.5299,
         "width": 0.445,
         "height": 0.0508
+      }
+    },
+    {
+      "type": "heading",
+      "text": "TEMPUS",
+      "bbox": {
+        "x": 0.1187,
+        "y": 0.7778,
+        "width": 0.1581,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "TEMPUS",
+      "bbox": {
+        "x": 0.2863,
+        "y": 0.7778,
+        "width": 0.0712,
+        "height": 0.0213
       }
     },
     {
@@ -56,8 +86,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "APEX",
+      "bbox": {
+        "x": 0.6944,
+        "y": 0.1571,
+        "width": 0.1006,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "other",
+      "text": "TEMPUS STARS",
+      "bbox": {
+        "x": 0.8,
+        "y": 0.1571,
+        "width": 0.1581,
+        "height": 0.0213
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Axel a invité ses ainés à jouer à Apex et ils ont accepté avec plaisir. lls ont joué en classé tandis qu'Axel enseignait et expliquait beaucoup de memes qui avaient été enseignés à Astel pendant sa collaboration avec Altare et Vesper. Bien qu'ils aient gagné une partie au début, ils ont eu du mal à gagner les parties suivantes à cause du lag pour chacun d'entre eux.",
+      "text": "Axel a invité ses ainés à jouer à Apex et ils ont accepté avec plaisir. Ils ont joué en classé tandis qu'Axel enseignait et expliquait beaucoup de memes qui avaient été enseignés à Astel pendant sa collaboration avec Altare et Vesper. Bien qu'ils aient gagné une partie au début, ils ont eu du mal à gagner les parties suivantes à cause du lag pour chacun d'entre eux.",
       "bbox": {
         "x": 0.5113,
         "y": 0.197,
@@ -67,12 +117,22 @@
     },
     {
       "type": "heading",
-      "text": "£ Altare",
+      "text": "Altare",
       "bbox": {
-        "x": 0.5281,
-        "y": 0.2999,
-        "width": 0.1806,
-        "height": 0.0369
+        "x": 0.5863,
+        "y": 0.3077,
+        "width": 0.1237,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "TEMPUS",
+      "bbox": {
+        "x": 0.7194,
+        "y": 0.3077,
+        "width": 0.0712,
+        "height": 0.0213
       }
     },
     {
@@ -86,8 +146,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Vesper",
+      "bbox": {
+        "x": 0.5863,
+        "y": 0.622,
+        "width": 0.1425,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "TEMPUS",
+      "bbox": {
+        "x": 0.7381,
+        "y": 0.622,
+        "width": 0.0712,
+        "height": 0.0213
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après sept heures et deux tentatives infructueuses, Vesper a finalement conquis Faster Than Light en mode difficile. II a surmonté les difficultés du début du jeu, comme la perte d'un membre d'équipage. Il a tenté une autre course furtive, mais les Vesbes ont voté pour décider que Vesper devait aller prendre son premier repas de la journée.",
+      "text": "Après sept heures et deux tentatives infructueuses, Vesper a finalement conquis Faster Than Light en mode difficile. Il a surmonté les difficultés du début du jeu, comme la perte d'un membre d'équipage. Il a tenté une autre course furtive, mais les Vesbes ont voté pour décider que Vesper devait aller prendre son premier repas de la journée.",
       "bbox": {
         "x": 0.5113,
         "y": 0.6567,

@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_2102_-_2702",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Kanade lzuru",
+      "type": "heading",
+      "text": "Kanade Izuru",
       "bbox": {
         "x": 0.6739,
         "y": 0.0513,
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Notre Izuru bien aimé a reçu une nouvelle tenue ! Avant de la dévoiler, il a publié une reprise de « Gaitou Ga Sabita Mama » de Shiromoon. C'est sa première reprise en solo depuis 8 mois.",
+      "text": "Notre Izuru bien aimé a reçu une nouvelle tenue ! Avant de la dévoiler, il a publié une reprise de « Gaitou Ga Sabita Mama » de Shiromoon. C’est sa première reprise en solo depuis 8 mois.",
       "bbox": {
         "x": 0.6667,
         "y": 0.0988,
@@ -37,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Sa nouvelle tenue est simple, il porte un short et a un nouveau parka, toujours avec une capuche a oreilles de chat. Le plus gros changement se situe au niveau de sa coupe de cheveux ! Il a l’air plus jeune et plus mignon avec ses cheveux raccourcis, sans oublier ses lunettes. Il peut utiliser sa coupe habituelle et ses lunettes d'été avec cette nouvelle tenue. Il peut aussi enlever son parka pour révéler un t-shirt large.",
+      "text": "Sa nouvelle tenue est simple, il porte un short et a un nouveau parka, toujours avec une capuche à oreilles de chat. Le plus gros changement se situe au niveau de sa coupe de cheveux ! Il a l’air plus jeune et plus mignon avec ses cheveux raccourcis, sans oublier ses lunettes. Il peut utiliser sa coupe habituelle et ses lunettes d’été avec cette nouvelle tenue. Il peut aussi enlever son parka pour révéler un t-shirt large.",
       "bbox": {
         "x": 0.6667,
         "y": 0.4579,
@@ -47,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "lzuru se trouve très mignon avec cette tenue, et qu'il pourrait la porter dans la vie de tous les jours. Il a remercié son illustratrice, TCB, pour l'avoir encore une fois rendu mignon. Une figurine en acrylique est disponible pour commémorer l'évènement.",
+      "text": "Izuru se trouve très mignon avec cette tenue, et qu’il pourrait la porter dans la vie de tous les jours. Il a remercié son illustratrice, TCB, pour l’avoir encore une fois rendu mignon. Une figurine en acrylique est disponible pour commémorer l’évènement.",
       "bbox": {
         "x": 0.6661,
         "y": 0.7566,

@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_2211_-_2811",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.1426,
+        "y": 0.0347,
+        "width": 0.2463,
+        "height": 0.0283
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.1611,
+        "y": 0.2083,
+        "width": 0.1444,
+        "height": 0.0309
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "A l'aide de son anglais séduisant, Okayu a donné des frissons aux Onigiriya d'outre-mer. Son « ara ara » a été super efficace ! Les Onigiriya japonais, quant à eux, ont pu commencer leur journée du bon pied.",
+      "text": "À l'aide de son anglais séduisant, Okayu a donné des frissons aux Onigiriya d'outre-mer. Son « ara ara » a été super efficace ! Les Onigiriya japonais, quant à eux, ont pu commencer leur journée du bon pied.",
       "bbox": {
         "x": 0.0506,
         "y": 0.2552,
@@ -17,42 +37,12 @@
     },
     {
       "type": "heading",
-      "text": "STARS 1",
+      "text": "Mio",
       "bbox": {
-        "x": 0.145,
-        "y": 0.4922,
-        "width": 0.2488,
-        "height": 0.0278
-      }
-    },
-    {
-      "type": "other",
-      "text": "Translate Tweet",
-      "bbox": {
-        "x": 0.0444,
-        "y": 0.6185,
-        "width": 0.0706,
-        "height": 0.0048
-      }
-    },
-    {
-      "type": "heading",
-      "text": "Izuru",
-      "bbox": {
-        "x": 0.1619,
-        "y": 0.6658,
-        "width": 0.1263,
-        "height": 0.0195
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "lzuru a mentionné durant une de ses sessions Twitcast dans le bain qu'il était occupé à travailler sur sa thèse et s'est lamenté sur les devoirs qu'il avait à faire. Il a également discuté de ses idées pour des figurines en acrylique (acrylic stands) et a évoqué avoir été porté comme une princesse par Temma durant une de leurs leçons de danse communes.",
-      "bbox": {
-        "x": 0.0506,
-        "y": 0.7053,
-        "width": 0.4238,
-        "height": 0.1441
+        "x": 0.6333,
+        "y": 0.2083,
+        "width": 0.0907,
+        "height": 0.0257
       }
     },
     {
@@ -73,6 +63,46 @@
         "y": 0.3763,
         "width": 0.4256,
         "height": 0.0794
+      }
+    },
+    {
+      "type": "heading",
+      "text": "STARS 1",
+      "bbox": {
+        "x": 0.145,
+        "y": 0.4922,
+        "width": 0.2488,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.1619,
+        "y": 0.6658,
+        "width": 0.1263,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Izuru a mentionné durant une de ses sessions Twitcast dans le bain qu'il était occupé à travailler sur sa thèse et s'est lamenté sur les devoirs qu'il avait à faire. Il a également discuté de ses idées pour des figurines en acrylique (acrylic stands) et a évoqué avoir été porté comme une princesse par Temma durant une de leurs leçons de danse communes.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7053,
+        "width": 0.4238,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.6315,
+        "y": 0.661,
+        "width": 0.1685,
+        "height": 0.027
       }
     },
     {

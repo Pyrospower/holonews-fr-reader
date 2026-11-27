@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_3005_-_0506",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.471,
+        "y": 0.014,
+        "width": 0.059,
+        "height": 0.029
+      }
+    },
     {
       "type": "heading",
       "text": "Gura",
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après la sortie de The Stanley Parable: Ultra Deluxe, Gura a joué pour la première fois à la série. Comme la plupart des personnes, elle a totalement ignoré le narrateur durant tout le stream, allant à l'exacte opposé de ce qu'indiquait ce dernier, exaspérant le narrateur du jeu. La curiosité du requin l’a amené à ouvrir toutes les portes du jeu et à interagir avec tout ce qui était possible, tout en se moquant du narrateur. Son aventure s'est malheureusement interrompue par un problème avec YouTube, mais elle ne s'est pas avouée vaincue et a continué, le lendemain, à tourmenter le narrateur.",
+      "text": "Après la sortie de The Stanley Parable: Ultra Deluxe, Gura a joué pour la première fois à la série. Comme la plupart des personnes, elle a totalement ignoré le narrateur durant tout le stream, allant à l’exacte opposé de ce qu’indiquait ce dernier, exaspérant le narrateur du jeu. La curiosité du requin l’a amené à ouvrir toutes les portes du jeu et à interagir avec tout ce qui était possible, tout en se moquant du narrateur. Son aventure s’est malheureusement interrompue par un problème avec YouTube, mais elle ne s’est pas avouée vaincue et a continué, le lendemain, à tourmenter le narrateur.",
       "bbox": {
         "x": 0.0712,
         "y": 0.2183,
@@ -26,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.554,
+        "width": 0.094,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Les KFP ont reçus des guides de chant par notre phénix favorite, Takanashi... Eggiara ? En utilisant sa forme maudite et des bâtons lumineux, Kiara a guidé ses fan sur quoi et quand chanté quand elle interprète ses musiques originals, dont « Fever Night ». Regardez les guides au cas ou Kiara fait un concert !",
+      "text": "Les KFP ont reçus des guides de chant par notre phénix favorite, Takanashi… Eggiara ? En utilisant sa forme maudite et des bâtons lumineux, Kiara a guidé ses fan sur quoi et quand chanté quand elle interprète ses musiques originals, dont « Fever Night ». Regardez les guides au cas ou Kiara fait un concert !",
       "bbox": {
         "x": 0.0719,
         "y": 0.5938,
@@ -36,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.767,
+        "width": 0.094,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "La « Stanley Fever » est peut-être la nouvelle mode, vu que Kiara a commencé à jouer à The Stanley Parable : Ultra Deluxe après Gura. Kiara a commencé en cliquant sur tout ce qui était possible dans le bureau, a été effrayé par les portes et a réussi à manqué deux fois la passerelle dans l'entrepôt. Kiara a aussi admit être tomber sous le charme du narrateur, au point de confondre I'entré de la zone de mémoire avec l'église, où elle s'imagine se marier avec le narrateur, et de qu'une statuette BAFTA (Académie britannique des art cinématographique) était le visage du narrateur avec une oeil en moins.",
+      "text": "La « Stanley Fever » est peut-être la nouvelle mode, vu que Kiara a commencé à jouer à The Stanley Parable : Ultra Deluxe après Gura. Kiara a commencé en cliquant sur tout ce qui était possible dans le bureau, a été effrayé par les portes et a réussi à manqué deux fois la passerelle dans l'entrepôt. Kiara a aussi admit être tomber sous le charme du narrateur, au point de confondre l'entré de la zone de mémoire avec l'église, où elle s'imagine se marier avec le narrateur, et de qu'une statuette BAFTA (Académie britannique des art cinématographique) était le visage du narrateur avec une oeil en moins.",
       "bbox": {
         "x": 0.0744,
         "y": 0.8056,
@@ -46,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Baelz, IRyS, & Calli",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.179,
+        "width": 0.296,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Bae, IRyS et Calli ont commencé le 5e épisode de CHAD Cast avec comme challenge de manger des pâtes à la carbonara très épicé. Bae, qui a l'habitude de manger épicé, a remporté le challenge haut la main, pendant que Calli réussit à finir deuxième, devant IRyS. Calli savait qu’elle allait gagner en voyant IRyS manger à la vitesse d’un escargot. Elles ont promis de manger des pâtes encore plus épicées dans le 10ème épisode.",
+      "text": "Bae, IRyS et Calli ont commencé le 5e épisode de CHAD Cast avec comme challenge de manger des pâtes à la carbonara très épicé. Bae, qui a l’habitude de manger épicé, a remporté le challenge haut la main, pendant que Calli réussit à finir deuxième, devant IRyS. Calli savait qu’elle allait gagner en voyant IRyS manger à la vitesse d’un escargot. Elles ont promis de manger des pâtes encore plus épicées dans le 10ème épisode.",
       "bbox": {
         "x": 0.5381,
         "y": 0.2183,
@@ -57,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Tout le long de l'épisode, les filles ont parlé des techniques de Calli pour faire des économies, d'IRyS qui blaguait sur le fait de voyager avec la maman de Bae sans Bae, d’anime et du rêve de Calli de TerminatoRyS. Elles ont aussi parlé de leurs parents : le père d'IRyS est un fan inconditionnel du ship BaeRyS et la mère de Calli pense que Calli sort avec une des holomems.",
+      "text": "Tout le long de l’épisode, les filles ont parlé des techniques de Calli pour faire des économies, d’IRyS qui blaguait sur le fait de voyager avec la maman de Bae sans Bae, d’anime et du rêve de Calli de TerminatoRyS. Elles ont aussi parlé de leurs parents : le père d’IRyS est un fan inconditionnel du ship BaeRyS et la mère de Calli pense que Calli sort avec une des holomems.",
       "bbox": {
         "x": 0.5381,
         "y": 0.3728,

@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2803_-_0304",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "EN 2",
+      "bbox": {
+        "x": 0.4569,
+        "y": 0.0143,
+        "width": 0.0887,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.1849,
+        "width": 0.0725,
+        "height": 0.0213
+      }
+    },
     {
       "type": "paragraph",
       "text": "IRyS a célébré ses 800 000 abonnés avec un karaoké d'endurance. Elle a intitulé son stream « Chanter jusqu'à 801 000 abonnés » après avoir atteint 800 000 abonnés avec sa première chanson. Elle a fini par atteindre 800k abonnés à nouveau en raison d'un bug de YouTube qui lui a retiré 500 abonnés. IRyS a exprimé sa gratitude pour notre soutien et pour l'avoir aidée à accomplir cette étape importante. Elle a également déclaré qu'elle ferait tout ce qui est en son pouvoir pour atteindre de plus hauts sommets, indépendamment de tout ce qui pourrait la faire tomber.",
@@ -16,6 +36,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.1663,
+        "y": 0.5586,
+        "width": 0.0737,
+        "height": 0.0213
+      }
+    },
+    {
       "type": "paragraph",
       "text": "IRyS a sorti sa nouvelle chanson originale, « Akatsukito Hana » ! Cette chanson est parfaite pour le printemps et est pleine d'éléments japonais et on y voit même IRyS en kimono ! Allez l'écouter si vous ne l'avez pas encore fait !",
       "bbox": {
@@ -23,6 +53,16 @@
         "y": 0.5929,
         "width": 0.3806,
         "height": 0.0829
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.8207,
+        "width": 0.0725,
+        "height": 0.0213
       }
     },
     {
@@ -47,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Fauna a joué au jeu The Closing Shift ! Pendant qu'elle faisait des cocktails, elle a émis de nombreuses hypothèses sur la façon dont le jeu allait se dérouler. Elle a eu du mal à trouver son chemin lors des phases d'obscurité et a été terriblement effrayée par une dame qui promenait son enfant à grande vitesse. I! y a encore de nombreux moment qui n'ont pas été mentionnés ici, alors n'oubliez pas de regarder le stream !",
+      "text": "Fauna a joué au jeu The Closing Shift ! Pendant qu'elle faisait des cocktails, elle a émis de nombreuses hypothèses sur la façon dont le jeu allait se dérouler. Elle a eu du mal à trouver son chemin lors des phases d'obscurité et a été terriblement effrayée par une dame qui promenait son enfant à grande vitesse. Il y a encore de nombreux moment qui n'ont pas été mentionnés ici, alors n'oubliez pas de regarder le stream !",
       "bbox": {
         "x": 0.5363,
         "y": 0.2201,
@@ -76,17 +116,7 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "ALSO | CAN'T BELIEVE YOU GUYS FOUND THE SONG #KROMIKU my soul has finally been put to rest, thank you so much",
-      "bbox": {
-        "x": 0.5288,
-        "y": 0.6293,
-        "width": 0.4069,
-        "height": 0.0391
-      }
-    },
-    {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Kronii",
       "bbox": {
         "x": 0.6319,

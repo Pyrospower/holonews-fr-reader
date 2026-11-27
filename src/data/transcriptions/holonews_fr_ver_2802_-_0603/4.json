@@ -3,28 +3,8 @@
   "issueId": "holonews_fr_ver_2802_-_0603",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
-    {
-      "type": "heading",
-      "text": "Hanasaki Miyabi",
-      "bbox": {
-        "x": 0.02,
-        "y": 0.5313,
-        "width": 0.2763,
-        "height": 0.0243
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Notre Miyabi, éternellement figé à ses 18 ans, a fêté son anniversaire avec un concert en 3D le 3 mars dernier. Dans celui-ci, son expérience a semblé être scindée en deux : d'une part, sa prestation en tant qu'idol, et de l’autre, son interaction avec le public. Miyabi a chanté et dansé avec Shien et Temma, et le reste des membres qui n'avaient pas pu se libérer pour son anniversaire lui ont envoyé des messages de félicitations / quelque peu personnalisés. (if",
-      "bbox": {
-        "x": 0.0206,
-        "y": 0.5694,
-        "width": 0.3156,
-        "height": 0.2391
-      }
-    },
     {
       "type": "heading",
       "text": "Momosuzu Nene",
@@ -37,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le 2 mars dernier, Nene a fêté son anniversaire avec un concert en 3D ! Polka, Botan, Lamy, Mel, Towa, Subaru, Aqua et Suisei ont toutes fait leur apparition en tant qu'invitées et dans des prestations inoubliables avec Nene. Après plus d'un an d'attente, les fans ont enfin pu assister à la première interprétation de « Blue Clapper » du NePoLaBo réuni sur scène. Une autre prestation mémorable est celle de Nene sur « Chichi wo Moge », entourée du reste la génération 5 s'amusant avec elle sur scène.",
+      "text": "Le 2 mars dernier, Nene a fêté son anniversaire avec un concert en 3D ! Polka, Botan, Lamy, Mel, Towa, Subaru, Aqua et Suisei ont toutes fait leur apparition en tant qu’invitées et dans des prestations inoubliables avec Nene. Après plus d’un an d’attente, les fans ont enfin pu assister à la première interprétation de « Blue Clapper » du NePoLaBo réuni sur scène. Une autre prestation mémorable est celle de Nene sur « Chichi wo Moge », entourée du reste la génération 5 s’amusant avec elle sur scène.",
       "bbox": {
         "x": 0.5606,
         "y": 0.0564,
@@ -57,37 +37,17 @@
     },
     {
       "type": "paragraph",
-      "text": "• Une tapis en caoutchouc\n• Un sac en tissu Nekko",
+      "text": "• Une tapis en caoutchouc\n• Un sac en tissu Nekko\n• Un boxer Nekko\n• Un pack de voix ASMR",
       "bbox": {
         "x": 0.5794,
         "y": 0.2999,
         "width": 0.2556,
-        "height": 0.0265
+        "height": 0.0604
       }
     },
     {
       "type": "paragraph",
-      "text": "• Un boxer Nekko",
-      "bbox": {
-        "x": 0.5794,
-        "y": 0.3303,
-        "width": 0.1731,
-        "height": 0.0113
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un pack de voix ASMR",
-      "bbox": {
-        "x": 0.5794,
-        "y": 0.3455,
-        "width": 0.24,
-        "height": 0.0148
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "L'achat de l’ensemble complet donne droit à une carte postale ainsi qu’à un pack de voix ASMR spécial.",
+      "text": "L’achat de l’ensemble complet donne droit à une carte postale ainsi qu’à un pack de voix ASMR spécial.",
       "bbox": {
         "x": 0.56,
         "y": 0.3759,
@@ -97,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Malheureusement, l'archive du stream n’est pour l'instant accessible que par les spectateurs japonais.",
+      "text": "Malheureusement, l’archive du stream n’est pour l’instant accessible que par les spectateurs japonais.",
       "bbox": {
         "x": 0.5606,
         "y": 0.4366,
@@ -106,8 +66,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Hanasaki Miyabi",
+      "bbox": {
+        "x": 0.02,
+        "y": 0.5313,
+        "width": 0.2763,
+        "height": 0.0243
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "En fin de compte, il a été révélé qu'une version onirique de Miyabi voulait rappeler à l'actuel qu'il n’était pas seul, mais qu'il était entouré de ses amis et de ses fans. Miyabi a expliqué que durant 3 ans, il avait pensé qu'il devait travailler dur par lui-même, avant de se rendre compte qu'il n’était pas seul. Il a remercié tout le monde pour l'avoir soutenu et espère qu'il pourra continuer à s'épanouir. Pour clôturer le concert, Miyabi a levé le voile sur le clip musical de sa chanson originale, « Kaika Sengen ».",
+      "text": "Notre Miyabi, éternellement figé à ses 18 ans, a fêté son anniversaire avec un concert en 3D le 3 mars dernier. Dans celui-ci, son expérience a semblé être scindée en deux : d’une part, sa prestation en tant qu’idol, et de l’autre, son interaction avec le public. Miyabi a chanté et dansé avec Shien et Temma, et le reste des membres qui n’avaient pas pu se libérer pour son anniversaire lui ont envoyé des messages de félicitations quelque peu personnalisés.",
+      "bbox": {
+        "x": 0.0206,
+        "y": 0.5694,
+        "width": 0.3156,
+        "height": 0.2391
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En fin de compte, il a été révélé qu’une version onirique de Miyabi voulait rappeler à l’actuel qu’il n’était pas seul, mais qu’il était entouré de ses amis et de ses fans. Miyabi a expliqué que durant 3 ans, il avait pensé qu’il devait travailler dur par lui-même, avant de se rendre compte qu’il n’était pas seul. Il a remercié tout le monde pour l’avoir soutenu et espère qu’il pourra continuer à s’épanouir. Pour clôturer le concert, Miyabi a levé le voile sur le clip musical de sa chanson originale, « Kaika Sengen ».",
       "bbox": {
         "x": 0.5631,
         "y": 0.5291,
@@ -127,27 +107,17 @@
     },
     {
       "type": "paragraph",
-      "text": "• Une plaque en acrylique",
+      "text": "• Une plaque en acrylique\n• Un mug en acier inoxydable\n• Une carte photo en acrylique\n• Un pack de voix",
       "bbox": {
         "x": 0.5825,
         "y": 0.7795,
-        "width": 0.25,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un mug en acier inoxydable\n• Une carte photo en acrylique\n• Un pack de voix",
-      "bbox": {
-        "x": 0.5825,
-        "y": 0.7951,
         "width": 0.2931,
-        "height": 0.0456
+        "height": 0.0612
       }
     },
     {
       "type": "paragraph",
-      "text": "L'achat de l’ensemble complet donne droit à une carte postale dédicacée ainsi que deux packs de voix additionnels. L’illustration de la plaque en acrylique ainsi que de la carte postale ont été réalisées par sa maman, hou. Miyabi voulait que hou lui illustre des produits dérivés depuis des années, et son rêve est enfin devenu réalité cette année.",
+      "text": "L’achat de l’ensemble complet donne droit à une carte postale dédicacée ainsi que deux packs de voix additionnels. L’illustration de la plaque en acrylique ainsi que de la carte postale ont été réalisées par sa maman, hou. Miyabi voulait que hou lui illustre des produits dérivés depuis des années, et son rêve est enfin devenu réalité cette année.",
       "bbox": {
         "x": 0.5644,
         "y": 0.8572,

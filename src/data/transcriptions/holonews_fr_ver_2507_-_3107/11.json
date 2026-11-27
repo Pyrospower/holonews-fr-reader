@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2507_-_3107",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.18,
+        "width": 0.078,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Cela fait quelque temps qu'Astel a commencé à utiliser des miniatures appropriées pour ses karaokés, mais il a finalement utilisé une illustration de sa tenue d’été pour 'une entres-elles. Ce stream karaoké s'est soudainement transformé en présentation de sa tenue d'été 2.0. L'archive du stream est disponible pour les membres de sa chaîne, donc souscrivez y dès maintenant pour voir la présentation complète !",
+      "text": "Cela fait quelque temps qu’Astel a commencé à utiliser des miniatures appropriées pour ses karaokés, mais il a finalement utilisé une illustration de sa tenue d’été pour 'une entres-elles. Ce stream karaoké s’est soudainement transformé en présentation de sa tenue d’été 2.0. L’archive du stream est disponible pour les membres de sa chaîne, donc souscrivez y dès maintenant pour voir la présentation complète !",
       "bbox": {
         "x": 0.0688,
         "y": 0.2183,
@@ -36,8 +46,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.478,
+        "width": 0.085,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "lzuru a tweeté qu'il a été coincé dans son propre appartement parce que le service de distribution d’eau avait bloqué sa porte d'entrée. Il a ensuite réalisé qu’il avait reçu une note lui indiquant qu'il devait partir devant sa porte d'entrée. Il a donc conclu que c'était de sa faute et il s'est senti bête.",
+      "text": "Izuru a tweeté qu’il a été coincé dans son propre appartement parce que le service de distribution d’eau avait bloqué sa porte d’entrée. Il a ensuite réalisé qu’il avait reçu une note lui indiquant qu’il devait partir devant sa porte d’entrée. Il a donc conclu que c’était de sa faute et il s’est senti bête.",
       "bbox": {
         "x": 0.0719,
         "y": 0.5169,
@@ -57,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les produits dérivés d'HOLOSTARS SUMMER 2022 sont disponibles ! Les produits disponibles sont un support en acrylique, un ensemble de pochettes transparentes ainsi que des cartes transparentes, des pins et une gourde transparente avec tous les membres d’Holostars ! En plus de ça, trois enregistrements sont disponibles, avec les talents regroupés pour avoir un ensemble divers d'activités liées à l'été. Les produits sont en vente du 25 juillet 2022 au 30 Janvier 2023 et seront disponible jusqu'à écoulement du stock.",
+      "text": "Les produits dérivés d’HOLOSTARS SUMMER 2022 sont disponibles ! Les produits disponibles sont un support en acrylique, un ensemble de pochettes transparentes ainsi que des cartes transparentes, des pins et une gourde transparente avec tous les membres d’Holostars ! En plus de ça, trois enregistrements sont disponibles, avec les talents regroupés pour avoir un ensemble divers d'activités liées à l’été. Les produits sont en vente du 25 juillet 2022 au 30 Janvier 2023 et seront disponible jusqu’à écoulement du stock.",
       "bbox": {
         "x": 0.0712,
         "y": 0.8394,
@@ -66,8 +86,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.18,
+        "width": 0.078,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Astel est de retour cette semaine avec une collab sur Apex. Après avoir atteint le rang Diamant en solo la semaine dernière, Astel a rejoint dtto et Restia, deux streameurs et joueurs pro d’Apex de la team SCARZ, pour défier des Diamants. A cause de certains changements sur le système de rang d’Apex, leurs parties étaient remplis d'anciens joueurs Master et Predator.",
+      "text": "Astel est de retour cette semaine avec une collab sur Apex. Après avoir atteint le rang Diamant en solo la semaine dernière, Astel a rejoint dtto et Restia, deux streameurs et joueurs pro d’Apex de la team SCARZ, pour défier des Diamants. A cause de certains changements sur le système de rang d’Apex, leurs parties étaient remplis d’anciens joueurs Master et Predator.",
       "bbox": {
         "x": 0.5375,
         "y": 0.2179,
@@ -77,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les trois ont débarqué dans leur première partie avec le sourire. Restia et dito se sont moqués de la taille d'Astel et le groupe a eu des sujets des discussions controversés qui ont pu les rendre « enjouées sous le feu de l’action », le tout en anglais.",
+      "text": "Les trois ont débarqué dans leur première partie avec le sourire. Restia et dtto se sont moqués de la taille d’Astel et le groupe a eu des sujets des discussions controversés qui ont pu les rendre « enjouées sous le feu de l’action », le tout en anglais.",
       "bbox": {
         "x": 0.5387,
         "y": 0.3438,
@@ -96,8 +126,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Temma",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.596,
+        "width": 0.118,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Temma semble être addict à Monster Hunter Rise. Cela peut se voir à la liste des streams qu'il a fait. Sur cinq streams récents, tous étaient sur Monster Hunter Rise.",
+      "text": "Temma semble être addict à Monster Hunter Rise. Cela peut se voir à la liste des streams qu’il a fait. Sur cinq streams récents, tous étaient sur Monster Hunter Rise.",
       "bbox": {
         "x": 0.5387,
         "y": 0.6337,
@@ -107,7 +147,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Il a fait quelques variations pour ses streams en faisant du multi-joueurs avec ses spectateurs, et une collaboration avec Miyabi. D'après l'aperçu que l’on a eu, il semble que son addiction soit toujours d'actualité. Bravo Temma.",
+      "text": "Il a fait quelques variations pour ses streams en faisant du multi-joueurs avec ses spectateurs, et une collaboration avec Miyabi. D’après l’aperçu que l’on a eu, il semble que son addiction soit toujours d’actualité. Bravo Temma.",
       "bbox": {
         "x": 0.5387,
         "y": 0.701,
@@ -116,8 +156,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.847,
+        "width": 0.112,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après avoir eu son la mise à jour de son Live2D, Aruran a essayé de nombreux accessoires faits par ses fans en stream. Cela allait des perruques, à des lunettes, des boucles d'oreilles, des vêtements, ou bien encore des pizzas, voire même des cache-tétons, etc.",
+      "text": "Après avoir eu son la mise à jour de son Live2D, Aruran a essayé de nombreux accessoires faits par ses fans en stream. Cela allait des perruques, à des lunettes, des boucles d’oreilles, des vêtements, ou bien encore des pizzas, voire même des cache-tétons, etc.",
       "bbox": {
         "x": 0.5381,
         "y": 0.8854,

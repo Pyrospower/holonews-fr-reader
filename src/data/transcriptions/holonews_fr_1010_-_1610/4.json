@@ -3,46 +3,36 @@
   "issueId": "holonews_fr_1010_-_1610",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "05 Sing My Pleasure 06 Shangri-La",
+      "type": "heading",
+      "text": "AZRyS",
       "bbox": {
-        "x": 0.2144,
-        "y": 0.0742,
-        "width": 0.0806,
-        "height": 0.0139
+        "x": 0.1844,
+        "y": 0.1567,
+        "width": 0.125,
+        "height": 0.0278
       }
     },
     {
       "type": "paragraph",
-      "text": "07 One Last Kiss",
-      "bbox": {
-        "x": 0.2144,
-        "y": 0.0907,
-        "width": 0.0656,
-        "height": 0.0048
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "08 HERE COMES HOPE 09 LOB",
-      "bbox": {
-        "x": 0.2144,
-        "y": 0.099,
-        "width": 0.0888,
-        "height": 0.0126
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Les deux vsingers de hololive, AZKi et IRyS, se sont finalement retrouvées pour une collaboration de chant. Elles se sont harmonisées et ont chanté à tour de rôle diverses chansons J-pop. Il n'y a pas eu de rappel, mais pour l'occasion, chacune a chanté une chanson originale de l'autre dont « HERE COMES HOPE » et « Inochi ».",
+      "text": "Les deux VSingers de hololive, AZKi et IRyS, se sont finalement retrouvées pour une collaboration de chant. Elles se sont harmonisées et ont chanté à tour de rôle diverses chansons J-pop. Il n'y a pas eu de rappel, mais pour l'occasion, chacune a chanté une chanson originale de l'autre dont « HERE COMES HOPE » et « Inochi ».",
       "bbox": {
         "x": 0.0431,
         "y": 0.1823,
         "width": 0.4463,
         "height": 0.1007
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roboco",
+      "bbox": {
+        "x": 0.1212,
+        "y": 0.3016,
+        "width": 0.1456,
+        "height": 0.023
       }
     },
     {
@@ -56,13 +46,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "P.S. In November, I'm moving, so I'm taking a little longer",
+      "type": "other",
+      "text": "P.S.\nIn November, I'm moving, so I'm taking a little longer time off.",
       "bbox": {
         "x": 0.0469,
         "y": 0.477,
         "width": 0.4288,
         "height": 0.0269
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1219,
+        "y": 0.546,
+        "width": 0.1175,
+        "height": 0.0226
       }
     },
     {
@@ -76,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1194,
+        "y": 0.8255,
+        "width": 0.1187,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Comme Suisei fait une pause, et qu’elle ne doit pas trop parler, en raison de son opération de la gorge, Miko a pris sa place dans son émission de radio régulière, « Hoshimachi Suisei / Tadokoro Azusa Parallel Scramble », qui a été diffusée le 16 octobre a 17h00 JST. Si vous voulez savoir comment Suisei se porte, ne manquez pas de I'écouter.",
+      "text": "Comme Suisei fait une pause, et qu’elle ne doit pas trop parler, en raison de son opération de la gorge, Miko a pris sa place dans son émission de radio régulière, « Hoshimachi Suisei / Tadokoro Azusa Parallel Scramble », qui a été diffusée le 16 octobre à 17h00 JST. Si vous voulez savoir comment Suisei se porte, ne manquez pas de l’écouter.",
       "bbox": {
         "x": 0.0431,
         "y": 0.865,
@@ -86,8 +96,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "What a limited time ‘+",
+      "type": "other",
+      "text": "What a limited time ✨",
       "bbox": {
         "x": 0.5163,
         "y": 0.0655,
@@ -96,8 +106,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Released a special version of \"Kotobakaze\" broadcasted on NHK \"Buiar! ~VTuber no Ongaku Radio~\" & ‘4",
+      "type": "other",
+      "text": "Until 2023/1/10/18:59",
+      "bbox": {
+        "x": 0.6694,
+        "y": 0.1619,
+        "width": 0.19,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "other",
+      "text": "Released a special version of \"Kotobakaze\" broadcasted on NHK \"Buiar! ~VTuber no Ongaku Radio~\" 🐻✨",
       "bbox": {
         "x": 0.5169,
         "y": 0.0994,
@@ -106,8 +126,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.6388,
+        "y": 0.1862,
+        "width": 0.0894,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Sora a partagé dans un tweet la sortie publique de la chanson « Kotobakaze » qui a été diffusée dans l'émission « Bui-Aru ! ~ VTubers Music Radio program » de NHK. Elle sera disponible jusqu'au 10 Janvier 2023, 18h59 JST, assurez-vous de l'écouter !",
+      "text": "Sora a partagé dans un tweet la sortie publique de la chanson « Kotobakaze » qui a été diffusée dans l'émission « Bui-Aru ! ~ VTuber's Music Radio program » de NHK. Elle sera disponible jusqu'au 10 janvier 2023, 18h59 JST, assurez-vous de l’écouter !",
       "bbox": {
         "x": 0.5106,
         "y": 0.2248,
@@ -136,8 +166,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Akirose",
+      "bbox": {
+        "x": 0.5875,
+        "y": 0.6337,
+        "width": 0.1531,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Endurance, engagement, et puissance brute. Derrière ces mots ne se cache qu’une seule personne : Akirose. Après avoir été terrassée avec plus de 2000 points négatifs en S-rank dans Splatoon, Aki a réussi a remonter dans les positifs et a recommencé à progresser. Pour montrer son triomphe, elle a également retweeté une discussion de célébration que quelqu'un d'autre avait ouverte dans le subreddit r/splatoon. Et ce n'est pas fini, car Akirose va continuer à progresser.",
+      "text": "Endurance, engagement, et puissance brute. Derrière ces mots ne se cache qu’une seule personne : Akirose. Après avoir été terrassée avec plus de 2000 points négatifs en S-rank dans Splatoon, Aki a réussi à remonter dans les positifs et a recommencé à progresser. Pour montrer son triomphe, elle a également retweeté une discussion de célébration que quelqu'un d'autre avait ouverte dans le subreddit r/splatoon. Et ce n'est pas fini, car Akirose va continuer à progresser.",
       "bbox": {
         "x": 0.5094,
         "y": 0.6749,

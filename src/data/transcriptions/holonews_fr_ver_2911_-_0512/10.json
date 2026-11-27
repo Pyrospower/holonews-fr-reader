@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2911_-_0512",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.1133,
+        "y": 0.0611,
+        "width": 0.3067,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.2343,
+        "width": 0.132,
+        "height": 0.0259
+      }
+    },
     {
       "type": "paragraph",
       "text": "Lamy a fait un voyage d'une journée avec Choco, Luna, et Ui-mama (l'illustratrice de Subaru). C'était la première fois que Lamy rencontrait Luna et Ui en personne. Les quatre sont allées dans un yakiniku (restaurant de viande japonais) et à Team Lab, une exposition d'arts immersifs. Alors qu'elles étaient dans la galerie des Glaces, Lamy a dit qu'elle pouvait voir les culottes de Choco et de Ui. Cette dernière a réagi normalement et s'est cachée, mais Choco n'a pas été gênée.",
@@ -13,6 +33,46 @@
         "y": 0.2739,
         "width": 0.4169,
         "height": 0.1571
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.2343,
+        "width": 0.1307,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La chance incroyable de Polka l'a accompagnée tout au long de cette semaine? Elle a réussi à attraper deux Pokémon chromatique en une seule partie, un Pachirisu rose et un Racaillou doré.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2765,
+        "width": 0.4081,
+        "height": 0.0738
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Plus tard, elle a montré les deux à Pekora, et lui a même échangé le Racaillou, avec la condition qu'elle n'utilise jamais l'attaque Destruction.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.3698,
+        "width": 0.4275,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.1613,
+        "y": 0.563,
+        "width": 0.112,
+        "height": 0.0213
       }
     },
     {
@@ -46,23 +106,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "La chance incroyable de Polka l'a accompagnée tout au long de cette semaine? Elle a réussi à attraper deux Pokémon chromatique en une seule partie, un Pachirisu rose et un Racaillou doré.",
+      "type": "heading",
+      "text": "Botan",
       "bbox": {
-        "x": 0.5231,
-        "y": 0.2765,
-        "width": 0.4081,
-        "height": 0.0738
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Plus tard, elle a montré les deux à Pekora, et lui a même échangé le Racaillou, avec la condition qu'elle n'utilise jamais l'attaque Destruction.",
-      "bbox": {
-        "x": 0.5231,
-        "y": 0.3698,
-        "width": 0.4275,
-        "height": 0.0586
+        "x": 0.6333,
+        "y": 0.5639,
+        "width": 0.136,
+        "height": 0.0222
       }
     },
     {

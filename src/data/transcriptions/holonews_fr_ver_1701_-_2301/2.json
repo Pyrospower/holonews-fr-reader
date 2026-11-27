@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_1701_-_2301",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "L’anniversaire de Rushia",
+      "bbox": {
+        "x": 0.031,
+        "y": 0.365,
+        "width": 0.758,
+        "height": 0.174
+      }
+    },
     {
       "type": "paragraph",
       "text": "Le 22 janvier, Rushia a fêté son anniversaire avec le reste de la Gen 3 !",
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La célébration a pris la forme d’un concert en 3D illuminé e les prestations de Rushia et ses camarades de génération. Elle a chanté des duos avec les autres membres d'holoFantasy, et le groupe réuni au complet sur scène a interprété sa chanson originale « Interact Fantasia ». Chacune des membres a passé du temps avec Rushia et les filles ont eu l'occasion de mettre en valeur leur proximité.",
+      "text": "La célébration a pris la forme d’un concert en 3D illuminé par les prestations de Rushia et ses camarades de génération. Elle a chanté des duos avec les autres membres d’holoFantasy, et le groupe réuni au complet sur scène a interprété sa chanson originale « Interact Fantasia ». Chacune des membres a passé du temps avec Rushia et les filles ont eu l’occasion de mettre en valeur leur proximité.",
       "bbox": {
         "x": 0.0328,
         "y": 0.5779,
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "• Une figurine en acrylique de Rushia en mariée Des mugs assortis\n• Une bague de fiançailles",
+      "text": "• Une figurine en acrylique de Rushia en mariée\n• Des mugs assortis\n• Une bague de fiançailles",
       "bbox": {
         "x": 0.0539,
         "y": 0.8063,
@@ -47,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "L'ensemble complet disponible en quantité limitée qui inclut une carte postale comportant la signature manuscrite de Rushia a été entièrement vendu en l'espace d'une minute ! L'ensemble normal comportant une signature estampillée est cependant toujours disponible. En cadeau pour ses fans, Rushia a également révélé une variante de son modèle 2D avec des couettes.",
+      "text": "L’ensemble complet disponible en quantité limitée qui inclut une carte postale comportant la signature manuscrite de Rushia a été entièrement vendu en l’espace d’une minute ! L’ensemble normal comportant une signature estampillée est cependant toujours disponible. En cadeau pour ses fans, Rushia a également révélé une variante de son modèle 2D avec des couettes.",
       "bbox": {
         "x": 0.0328,
         "y": 0.8596,

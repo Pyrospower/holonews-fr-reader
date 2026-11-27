@@ -2,32 +2,32 @@
   "schemaVersion": 1,
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 6,
-  "lang": "fr",
-  "status": "auto",
+  "lang": "en",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Question: Minecraft is always more fun with friends! Speaking of",
+      "type": "heading",
+      "text": "SANA INTERVIEW PAGE 5",
       "bbox": {
-        "x": 0.0281,
-        "y": 0.0907,
-        "width": 0.2881,
-        "height": 0.0269
+        "x": 0.08,
+        "y": 0.0317,
+        "width": 0.7986,
+        "height": 0.0387
       }
     },
     {
       "type": "paragraph",
-      "text": ", Kirby though, what is your favourite Kirby transformation throughout the series?",
+      "text": "Question: Minecraft is always more fun with friends! Speaking of Kirby though, what is your favourite Kirby transformation throughout the series?",
       "bbox": {
         "x": 0.0138,
-        "y": 0.1185,
-        "width": 0.2619,
-        "height": 0.0434
+        "y": 0.0907,
+        "width": 0.3024,
+        "height": 0.0712
       }
     },
     {
       "type": "paragraph",
-      "text": "Answer: All of them are so cute! really like the jester hat that Kirby gets when he swallows a Waddle Doo. I also like Karby especially now that they have a cake of it in the Kirby Café!",
+      "text": "Answer: All of them are so cute! I really like the jester hat that Kirby gets when he swallows a Waddle Doo. I also like Karby especially now that they have a cake of it in the Kirby Café!",
       "bbox": {
         "x": 0.0275,
         "y": 0.174,
@@ -37,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: Oh, Karby... Moving on, were there any ways in which you changed or grew as a person while in hololive?",
+      "text": "Question: Oh, Karby… Moving on, were there any ways in which you changed or grew as a person while in hololive?",
       "bbox": {
         "x": 0.0281,
         "y": 0.2604,
@@ -47,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: I think I haven't changed much personality-wise but I've gained more self-confidence in what I do and in being myself!",
+      "text": "Answer: I think I haven’t changed much personality-wise but I’ve gained more self-confidence in what I do and in being myself!",
       "bbox": {
         "x": 0.0281,
         "y": 0.3299,
@@ -67,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: |'ve become a master at OBS! I've tried and experimented a lot of things and I think I can pull off a lot of cool things on OBS now. I was also able to do so many projects that I never thought would be possible to do like dipping into VR, making cover songs, and putting together an original song. They were all great learning experiences and I'm so glad for the opportunity to have them while being in hololive.",
+      "text": "Answer: I’ve become a master at OBS! I’ve tried and experimented a lot of things and I think I can pull off a lot of cool things on OBS now. I was also able to do so many projects that I never thought would be possible to do like dipping into VR, making cover songs, and putting together an original song. They were all great learning experiences and I’m so glad for the opportunity to have them while being in hololive.",
       "bbox": {
         "x": 0.0281,
         "y": 0.467,
@@ -77,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: Indeed, we're so happy for you too. What would you say, then, is your proudest achievement at hololive?",
+      "text": "Question: Indeed, we’re so happy for you too. What would you say, then, is your proudest achievement at hololive?",
       "bbox": {
         "x": 0.0313,
         "y": 0.6597,
@@ -107,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: There isn’t any one person in particular I would have really really wanted to collab with, just wanted to have a good time hanging out with anybody who'd like to collab with me!",
+      "text": "Answer: There isn’t any one person in particular I would have really really wanted to collab with, just wanted to have a good time hanging out with anybody who’d like to collab with me!",
       "bbox": {
         "x": 0.0288,
         "y": 0.8945,
@@ -127,7 +127,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: I don't think I would have done anything differently. I stayed true to myself the whole time, and wouldn’t:have wanted it any other way.",
+      "text": "Answer: I don’t think I would have done anything differently. I stayed true to myself the whole time, and I wouldn’t have wanted it any other way.",
       "bbox": {
         "x": 0.3556,
         "y": 0.1615,
@@ -157,7 +157,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: That would be so awesome actually, I hope Kurzgesagt hears about that! We're coming toward the end of the interview, just a few more questions to go. How would you like us to remember you?",
+      "text": "Question: That would be so awesome actually, I hope Kurzgesagt hears about that! We’re coming toward the end of the interview, just a few more questions to go. How would you like us to remember you?",
       "bbox": {
         "x": 0.3556,
         "y": 0.3411,
@@ -177,7 +177,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: That's for sure! What is something about your fans or having a fanbase that surprised you after joining hololive?",
+      "text": "Question: That’s for sure! What is something about your fans or having a fanbase that surprised you after joining hololive?",
       "bbox": {
         "x": 0.3556,
         "y": 0.5269,
@@ -187,7 +187,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: I'm surprised they exist! I'm surprised that there are people out there who could be so devoted to me.",
+      "text": "Answer: I’m surprised they exist! I’m surprised that there are people out there who could be so devoted to me.",
       "bbox": {
         "x": 0.3563,
         "y": 0.5964,
@@ -207,7 +207,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: Everyone's been so supportive and I couldn't really ask for anything more. Every single one of those times they've come into the stream to support me is a moment I cherish. I know they've done so many projects for me in the past but I can’t pick a favourite, all of them yd",
+      "text": "Answer: Everyone’s been so supportive and I couldn’t really ask for anything more. Every single one of those times they’ve come into the stream to support me is a moment I cherish. I know they’ve done so many projects for me in the past but I can’t pick a favourite, all of them are.",
       "bbox": {
         "x": 0.3556,
         "y": 0.7014,
@@ -217,32 +217,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Penultimate Question: I'm",
-      "bbox": {
-        "x": 0.6838,
-        "y": 0.0898,
-        "width": 0.2525,
-        "height": 0.023
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- sure the Sanallites would be",
+      "text": "Penultimate Question: I’m sure the Sanallites would be overjoyed to hear that. Lastly, to wrap things up we'd like to touch lightly on something that's been on everyone’s mind. Your graduation came as a big surprise, but we understand it must have been a hard choice that you had to really think over. We'd like to know a little more about how you feel about it, and has it changed your feelings about being in hololive?",
       "bbox": {
         "x": 0.6744,
-        "y": 0.1115,
-        "width": 0.2669,
-        "height": 0.0109
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "‘overjoyed to hear that. Lastly, to wrap things up we'd like to touch lightly on something that's been on everyone’s'mind. Your graduation came as a big surprise, but we understand it must have been a hard choice that you had to really think over. We'd like to know a little more about how you feel about it, and has it changed your feelings about being in hololive?",
-      "bbox": {
-        "x": 0.6813,
-        "y": 0.1263,
-        "width": 0.295,
-        "height": 0.1762
+        "y": 0.0898,
+        "width": 0.3019,
+        "height": 0.2127
       }
     },
     {
@@ -257,7 +237,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Final Question: Well put. That's all of the questions we had lined up though. Thank you so much for taking time to answer our questions. We've come to the end of the interview, but before we go is there anything you'd like to say to your Sanallites?",
+      "text": "Final Question: Well put. That’s all of the questions we had lined up though. Thank you so much for taking time to answer our questions. We’ve come to the end of the interview, but before we go is there anything you’d like to say to your Sanallites?",
       "bbox": {
         "x": 0.6813,
         "y": 0.4792,
@@ -273,6 +253,16 @@
         "y": 0.612,
         "width": 0.2975,
         "height": 0.1141
+      }
+    },
+    {
+      "type": "other",
+      "text": "Tsukumo Sana",
+      "bbox": {
+        "x": 0.5386,
+        "y": 0.7937,
+        "width": 0.4057,
+        "height": 0.1944
       }
     }
   ],

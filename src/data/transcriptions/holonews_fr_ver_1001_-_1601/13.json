@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1001_-_1601",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.213,
+        "width": 0.127,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Izuru a enfin fini son mémoire de fin de licence ! Le 3 janvier, lzuru a tweeté ça joyeusement et il espère que son professeur n’aimera pas trop son travail pour qu'il ne soit pas envoyé à l'étranger faire des conférences. Il voulait juste que tout soit fait rapidement. Pour célébrer la fin de son mémoire, Izuru a fait un stream de chanson, ou il a chanté tout en jouant du piano pour l'accompagner. Allez voir son stream pour savoir ce qu'il a chanté.",
+      "text": "Izuru a enfin fini son mémoire de fin de licence ! Le 3 janvier, Izuru a tweeté ça joyeusement et il espère que son professeur n’aimera pas trop son travail pour qu’il ne soit pas envoyé à l’étranger faire des conférences. Il voulait juste que tout soit fait rapidement. Pour célébrer la fin de son mémoire, Izuru a fait un stream de chanson, ou il a chanté tout en jouant du piano pour l’accompagner. Allez voir son stream pour savoir ce qu’il a chanté.",
       "bbox": {
         "x": 0.05,
         "y": 0.2513,
@@ -26,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.618,
+        "width": 0.127,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Izuru a joué à Apex avec son ami Leia. Laissant le jeu choisir un inconnu comme troisième membre de leur d'équipe, des drôles de moments de confusion sont survenus sur ce que l’inconnue faisait pendant la partie, ou quand ils ont essayé de communiquer avec un tricheur anglais, le frappant contre un mur pour l'intimider. Cela a mené lzuru et Leia à s'appeler la « Police d’Apex ». Toutefois, ils se sont beaucoup amusés, Izuru abattant ses adversaires à longue distance, cumulant des points de dégâts et gagnant même un match.",
+      "text": "Izuru a joué à Apex avec son ami Leia. Laissant le jeu choisir un inconnu comme troisième membre de leur d’équipe, des drôles de moments de confusion sont survenus sur ce que l’inconnue faisait pendant la partie, ou quand ils ont essayé de communiquer avec un tricheur anglais, le frappant contre un mur pour l’intimider. Cela a mené Izuru et Leia à s'appeler la « Police d’Apex ». Toutefois, ils se sont beaucoup amusés, Izuru abattant ses adversaires à longue distance, cumulant des points de dégâts et gagnant même un match.",
       "bbox": {
         "x": 0.0513,
         "y": 0.6571,
@@ -36,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.213,
+        "width": 0.116,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Astel a déconcerté les Astellas avec une salle d'attente de stream, possédant une miniature rouge avec « HEY » écrit dessus. Il a dit que le contenu du stream changerait selon son humeur. Astel a commencé le stream avec son installation habituelle pour un karaoké, mais il a décidé de ne pas en faire un. Il a joué à Golf It avec ses fans et a mis un nombre de participants illimité, permettant à tout le monde de rejoindre, mais créant le chaos. Pendant qu'il jouait, il a chanté quelque fois pour rendre le stream plus excitant. Il a fini en préparant un autre stream sur Moonlighter, qu'il a lancé immédiatement après.",
+      "text": "Astel a déconcerté les Astellas avec une salle d’attente de stream, possédant une miniature rouge avec « HEY » écrit dessus. Il a dit que le contenu du stream changerait selon son humeur. Astel a commencé le stream avec son installation habituelle pour un karaoké, mais il a décidé de ne pas en faire un. Il a joué à Golf It avec ses fans et a mis un nombre de participants illimité, permettant à tout le monde de rejoindre, mais créant le chaos. Pendant qu’il jouait, il a chanté quelque fois pour rendre le stream plus excitant. Il a fini en préparant un autre stream sur Moonlighter, qu’il a lancé immédiatement après.",
       "bbox": {
         "x": 0.5225,
         "y": 0.2539,

@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_3101_-_0602",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,6 +16,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.1618,
+        "y": 0.2374,
+        "width": 0.1655,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Kanata a montré à tout le monde dans son stream qu'elle a une fois de plus battu son record de force de préhension, passant de 52 kg à 54,1 kg. Elle a battu le record de retard car elle dormait, se réveillant plus de cinq heures trop tard. Elle a été réveillée par le cri de l'amie C.",
       "bbox": {
@@ -23,6 +33,16 @@
         "y": 0.2795,
         "width": 0.4231,
         "height": 0.112
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Towa",
+      "bbox": {
+        "x": 0.1655,
+        "y": 0.529,
+        "width": 0.1255,
+        "height": 0.0227
       }
     },
     {
@@ -37,12 +57,22 @@
     },
     {
       "type": "paragraph",
-      "text": "La dernière chanson originale de Towa, « FACT », a été choisie comme générique de fin pour l'émission Majo ni |waretai Yoru diffusée sur Fuji TV en février.",
+      "text": "La dernière chanson originale de Towa, « FACT », a été choisie comme générique de fin pour l’émission Majo ni Iwaretai Yoru diffusée sur Fuji TV en février.",
       "bbox": {
         "x": 0.0538,
         "y": 0.8364,
         "width": 0.425,
         "height": 0.0851
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.6364,
+        "y": 0.2386,
+        "width": 0.1927,
+        "height": 0.0227
       }
     },
     {
@@ -56,8 +86,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Luna",
+      "bbox": {
+        "x": 0.6364,
+        "y": 0.5934,
+        "width": 0.1145,
+        "height": 0.0253
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Luna a continué de s'amuser sur RAFT cette semaine. Le radeau de Luna est maintenant assez avancé, avec beaucoup de technologie et de machines intégrées. Elle a également fait en sorte d’agrémenter son radeau, en y ajoutant des décorations variées comme des plantes, des coffres et des lampes, à la manière d'une caravane. Alors qu'elle lisait les Super Chats plus tard dans le stream, ses fans ont dit qu'ils espéraient que le radeau de Luna devienne aussi grand que le Titanic, mais Luna a rejeté cette idée avec insistance car ayant passé beaucoup de temps à rassembler des ressources en stream et hors stream, elle ne veut pas que ses efforts soient vains.",
+      "text": "Luna a continué de s’amuser sur RAFT cette semaine. Le radeau de Luna est maintenant assez avancé, avec beaucoup de technologie et de machines intégrées. Elle a également fait en sorte d’agrémenter son radeau, en y ajoutant des décorations variées comme des plantes, des coffres et des lampes, à la manière d'une caravane. Alors qu'elle lisait les Super Chats plus tard dans le stream, ses fans ont dit qu'ils espéraient que le radeau de Luna devienne aussi grand que le Titanic, mais Luna a rejeté cette idée avec insistance car ayant passé beaucoup de temps à rassembler des ressources en stream et hors stream, elle ne veut pas que ses efforts soient vains.",
       "bbox": {
         "x": 0.5225,
         "y": 0.6337,

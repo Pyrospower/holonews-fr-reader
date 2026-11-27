@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_0205_-_0805",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.4709,
+        "y": 0.0152,
+        "width": 0.0582,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mumei",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.178,
+        "width": 0.1164,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Mumei avait un stream filler où elle s'est mise à faire un tas de choses pour faire passer le temps, allant de redessiner ses dessins infâmes de sa série « Mumei Draws Hololive », à faire des léger changement dans le Bunkeronii dans Minecraft, ou bien lire des super chats. Le stream n'avait pas de direction particulière, mais depuis quand est-ce que cela est devenu une mauvaise raison de lancer un stream ?",
+      "text": "Mumei avait un stream filler où elle s’est mise à faire un tas de choses pour faire passer le temps, allant de redessiner ses dessins infâmes de sa série « Mumei Draws Hololive », à faire des léger changement dans le Bunkeronii dans Minecraft, ou bien lire des super chats. Le stream n’avait pas de direction particulière, mais depuis quand est-ce que cela est devenu une mauvaise raison de lancer un stream ?",
       "bbox": {
         "x": 0.0712,
         "y": 0.2135,
@@ -16,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kronii",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.4735,
+        "width": 0.1164,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "ee Kronii est de retour de sa pause de 12 jours due au Covid avec un stream discussion (intitulé « I lived Bugger »). Elle a répondu à plusieurs questions posées à propos de sa pause par ses spectateurs. Kronii est toujours en convalescence, mais elle est parfaite comme d'habitude.",
+      "text": "Kronii est de retour de sa pause de 12 jours due au Covid avec un stream discussion (intitulé « I lived Bugger »). Elle a répondu à plusieurs questions posées à propos de sa pause par ses spectateurs. Kronii est toujours en convalescence, mais elle est parfaite comme d’habitude.",
       "bbox": {
         "x": 0.0719,
         "y": 0.4891,
@@ -26,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Baelz & Ame",
+      "bbox": {
+        "x": 0.2073,
+        "y": 0.726,
+        "width": 0.1982,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Bae et Ame ont passé en revue des salles de bain ce dimanche dernier ! Dans ce stream, elles ont passé en revue les salles de bain que les spectateurs ont envoyées via Twitter. Lorsqu’elles regardaient celles-ci, il s'avérait qu'elles étaient elles-même dans une salle de bain ensemble, remplie de bulles. I! y a eu beaucoup de sujets discutés dans ce stream, comme par exemple quelle partie du corps elles nettoyaient en premier, se doucher avec « ses potes », et des choses qui leur font peur dans une salle de bain. C'était globalement un stream assez agréable et cela a sans doute dû inspirer de nombreuses illustrations de Bae et Ame ensemble dans une salle de bain.",
+      "text": "Bae et Ame ont passé en revue des salles de bain ce dimanche dernier ! Dans ce stream, elles ont passé en revue les salles de bain que les spectateurs ont envoyées via Twitter. Lorsqu’elles regardaient celles-ci, il s’avérait qu’elles étaient elles-même dans une salle de bain ensemble, remplie de bulles. Il y a eu beaucoup de sujets discutés dans ce stream, comme par exemple quelle partie du corps elles nettoyaient en premier, se doucher avec « ses potes », et des choses qui leur font peur dans une salle de bain. C’était globalement un stream assez agréable et cela a sans doute dû inspirer de nombreuses illustrations de Bae et Ame ensemble dans une salle de bain.",
       "bbox": {
         "x": 0.0712,
         "y": 0.7678,
@@ -36,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Baelz",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.178,
+        "width": 0.0945,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Bae avait réalisé une collab imprévue avec IRyS et Sana après s'être fait stream snipe par les deux lors d’un stream sur Splatoon 2. Sana avait fait un stream discussion (avec quelques dessins) lorsqu'elle a décidé de s'incruster dans le stream de Bae. IRyS en a profité pour fliter avec Bae pendant que Sana affirmait sa supériorité sur le jeu.",
+      "text": "Bae avait réalisé une collab imprévue avec IRyS et Sana après s’être fait stream snipe par les deux lors d’un stream sur Splatoon 2. Sana avait fait un stream discussion (avec quelques dessins) lorsqu’elle a décidé de s’incruster dans le stream de Bae. IRyS en a profité pour flirter avec Bae pendant que Sana affirmait sa supériorité sur le jeu.",
       "bbox": {
         "x": 0.5381,
         "y": 0.2183,
@@ -46,8 +96,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ina & Kiara",
+      "bbox": {
+        "x": 0.6727,
+        "y": 0.471,
+        "width": 0.1836,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Ina et Kiara ont réalisé un stream de compétition sur les tenues que chacun a conçu pour IRyS et les membres du Council. Mumei et Fauna étaient présentes en tant que juges. Lorsqu'il était nécessaire, les votes des spectateurs étaient utilisés pour les départager. Kiara est allée sur des tenues très thématiques et décorées d'après dles memes et les styles associés pour chaque membre, tandis qu’Ina s'est contentée de tenues simples, confortables et décontractées. Ina a gagné avec 4 votes contre 2 des deux juges et des sondages. Kiara a partagé qu'elle voulait faire un stream sur quelque chose de différent des jeux et du karaoké, c'est pour cela qu'elle a décidé de faire ce concours.",
+      "text": "Ina et Kiara ont réalisé un stream de compétition sur les tenues que chacun a conçu pour IRyS et les membres du Council. Mumei et Fauna étaient présentes en tant que juges. Lorsqu’il était nécessaire, les votes des spectateurs étaient utilisés pour les départager. Kiara est allée sur des tenues très thématiques et décorées d’après dles memes et les styles associés pour chaque membre, tandis qu’Ina s’est contentée de tenues simples, confortables et décontractées. Ina a gagné avec 4 votes contre 2 des deux juges et des sondages. Kiara a partagé qu’elle voulait faire un stream sur quelque chose de différent des jeux et du karaoké, c’est pour cela qu’elle a décidé de faire ce concours.",
       "bbox": {
         "x": 0.5369,
         "y": 0.5135,
@@ -56,8 +116,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Sana",
+      "bbox": {
+        "x": 0.6364,
+        "y": 0.8598,
+        "width": 0.0818,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Sana a révélé qu’elle traînait pas mal avec Kronii récemment. Après avoir dit à Kronii qu'elle aimait sa compagnie, Kronii a répondu avec « Dis moi enfin que tu m'aimes», ce à quoi Sana a répondu qu'elle lui avait déjà dit. Ça c'est du bon flirt de l'espace temps !",
+      "text": "Sana a révélé qu’elle traînait pas mal avec Kronii récemment. Après avoir dit à Kronii qu’elle aimait sa compagnie, Kronii a répondu avec « Dis moi enfin que tu m’aimes», ce à quoi Sana a répondu qu’elle lui avait déjà dit. Ça c’est du bon flirt de l’espace temps !",
       "bbox": {
         "x": 0.5381,
         "y": 0.8993,

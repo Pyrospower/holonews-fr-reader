@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_2208_-_2808",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Shirogane Noel",
+      "bbox": {
+        "x": 0.1122,
+        "y": 0.2616,
+        "width": 0.8244,
+        "height": 0.1173
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le troisième concert anniversaire de Noel était intitulé Summer Memories -Natsu no omoide-. La chanson avec laquelle elle a commencé son concert a été « lkenai Taiyou » qu'elle a performé vêtue d'un bikini et avec un décor de plage. Après une introduction rapide, Noel a disparu de la scène pour réapparaître en compagnie de sa première invitée, Koyori, qui a chanté « Solar system disco » avec elle.",
+      "text": "Le troisième concert anniversaire de Noel était intitulé Summer Memories ~Natsu no omoide~. La chanson avec laquelle elle a commencé son concert a été « Ikenai Taiyou » qu’elle a performé vêtue d’un bikini et avec un décor de plage. Après une introduction rapide, Noel a disparu de la scène pour réapparaître en compagnie de sa première invitée, Koyori, qui a chanté « Solar system disco » avec elle.",
       "bbox": {
         "x": 0.0817,
         "y": 0.4464,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Ensuite, elles sont tombées de la scène alors qu'elle était en train d'être changée pour revenir au décor de plage. Noel a chanté « Thrilling! Is this love? » et « Homenobi » sans tenir compte de ce qui venait de se produire.",
+      "text": "Ensuite, elles sont tombées de la scène alors qu’elle était en train d’être changée pour revenir au décor de plage. Noel a chanté « Thrilling! Is this love? » et « Homenobi » sans tenir compte de ce qui venait de se produire.",
       "bbox": {
         "x": 0.0811,
         "y": 0.7369,
@@ -27,27 +37,17 @@
     },
     {
       "type": "paragraph",
-      "text": "Alors qu'elle était encore a la plage, Noel a chanté « Alligator » et",
+      "text": "Alors qu’elle était encore à la plage, Noel a chanté « Alligator » et « Shampoo » avec le reste d’holofantasy, puis « Coco ☆ Natsu » avec Akirose, Polka et Lui. Elles ont faites des petites pauses pour pouvoir faire des captures d’écrans entre chaque performance.",
       "bbox": {
         "x": 0.0811,
         "y": 0.8434,
-        "width": 0.3889,
-        "height": 0.0289
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "« Shampoo » avec le reste d'holofantasy, puis « Coco vr Natsu » avec Akirose, Polka et Lui. Elles ont faites des petites pauses pour pouvoir faire des captures d'écrans entre chaque performance.",
-      "bbox": {
-        "x": 0.0811,
-        "y": 0.8723,
         "width": 0.3894,
-        "height": 0.0864
+        "height": 0.1153
       }
     },
     {
       "type": "paragraph",
-      "text": "La partie suivante du concert a débuté sur Danchou émergeant d'une porte Torii en yukata pour chanter «Hana ni Bourei» et « You together ». Elle a mentionné vraiment vouloir représenter une atmosphère estivale avec cette partie.",
+      "text": "La partie suivante du concert a débuté sur Danchou émergeant d’une porte Torii en yukata pour chanter «Hana ni Bourei» et « You together ». Elle a mentionné vraiment vouloir représenter une atmosphère estivale avec cette partie.",
       "bbox": {
         "x": 0.5339,
         "y": 0.4468,
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après avoir chanté « Clock lock works » et « Dango Daikazoku », Noel a révélé sa nouvelle gamme de produits dérivés d'anniversaire:",
+      "text": "Après avoir chanté « Clock lock works » et « Dango Daikazoku », Noel a révélé sa nouvelle gamme de produits dérivés d’anniversaire:",
       "bbox": {
         "x": 0.5333,
         "y": 0.7052,
@@ -67,22 +67,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Un tableau en acrylique, illustré ar Watao » Son sweat à capuche\n• Un porte clé de la peluche Knights“",
+      "text": "• Un tableau en acrylique, illustré par Watao\n• Son sweat à capuche\n• Un porte clé de la peluche Knights♡\n• Un shaker",
       "bbox": {
-        "x": 0.5489,
-        "y": 0.7728,
-        "width": 0.3694,
-        "height": 0.0718
+        "x": 0.5467,
+        "y": 0.7724,
+        "width": 0.38,
+        "height": 0.0864
       }
     },
     {
       "type": "paragraph",
-      "text": "Un shaker Le bonus pour avoir acheté toute la collection est une carte postale avec son autographe écrit à la main.",
+      "text": "Le bonus pour avoir acheté toute la collection est une carte postale avec son autographe écrit à la main.",
       "bbox": {
-        "x": 0.5339,
-        "y": 0.8445,
-        "width": 0.3839,
-        "height": 0.0571
+        "x": 0.5322,
+        "y": 0.8588,
+        "width": 0.3889,
+        "height": 0.0417
       }
     },
     {

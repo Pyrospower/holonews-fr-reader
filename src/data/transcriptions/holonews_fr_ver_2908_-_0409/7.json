@@ -3,16 +3,56 @@
   "issueId": "holonews_fr_ver_2908_-_0409",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.2299,
+        "width": 0.1156,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen0",
+      "bbox": {
+        "x": 0.2956,
+        "y": 0.2315,
+        "width": 0.0711,
+        "height": 0.0216
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "La sortie de la version « Midnight Grand Orchestra » des écouteurs ANWO1 de ANIMA est prévue pour le 6 octobre. Comme on peut s'y attendre de la part de Hoshiyomis, les réservations se sont vendues en quelques heures chez certains revendeurs.",
+      "text": "La sortie de la version « Midnight Grand Orchestra » des écouteurs ANW01 de ANIMA est prévue pour le 6 octobre. Comme on peut s'y attendre de la part de Hoshiyomis, les réservations se sont vendues en quelques heures chez certains revendeurs.",
       "bbox": {
         "x": 0.0438,
         "y": 0.27,
         "width": 0.4444,
         "height": 0.0694
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1211,
+        "y": 0.3681,
+        "width": 0.12,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen0",
+      "bbox": {
+        "x": 0.2533,
+        "y": 0.3696,
+        "width": 0.0711,
+        "height": 0.0216
       }
     },
     {
@@ -23,6 +63,26 @@
         "y": 0.4063,
         "width": 0.445,
         "height": 0.0838
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1656,
+        "y": 0.6582,
+        "width": 0.21,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.3844,
+        "y": 0.6597,
+        "width": 0.0711,
+        "height": 0.0216
       }
     },
     {
@@ -37,12 +97,22 @@
     },
     {
       "type": "heading",
-      "text": "Haachama D",
+      "text": "Haachama",
       "bbox": {
-        "x": 0.0613,
-        "y": 0.8459,
-        "width": 0.3519,
-        "height": 0.036
+        "x": 0.1233,
+        "y": 0.8519,
+        "width": 0.2111,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.3433,
+        "y": 0.8534,
+        "width": 0.0711,
+        "height": 0.0216
       }
     },
     {
@@ -53,6 +123,26 @@
         "y": 0.8906,
         "width": 0.4456,
         "height": 0.0868
+      }
+    },
+    {
+      "type": "heading",
+      "text": "MiComet",
+      "bbox": {
+        "x": 0.6444,
+        "y": 0.1736,
+        "width": 0.18,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen0",
+      "bbox": {
+        "x": 0.8333,
+        "y": 0.1752,
+        "width": 0.0711,
+        "height": 0.0216
       }
     },
     {
@@ -67,12 +157,22 @@
     },
     {
       "type": "heading",
-      "text": "Haachama pa",
+      "text": "Haachama",
       "bbox": {
-        "x": 0.6231,
-        "y": 0.638,
-        "width": 0.2894,
-        "height": 0.0477
+        "x": 0.6222,
+        "y": 0.6582,
+        "width": 0.21,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.8422,
+        "y": 0.6597,
+        "width": 0.0711,
+        "height": 0.0216
       }
     },
     {

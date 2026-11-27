@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1403_-_2003",
   "page": 17,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -26,8 +26,18 @@
       }
     },
     {
+      "type": "other",
+      "text": "@44ShiyonV",
+      "bbox": {
+        "x": 0.0875,
+        "y": 0.0842,
+        "width": 0.1225,
+        "height": 0.0148
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Les fans de Shien ont fait un jeu ! Ce jeu propose l'histoire des subordonnés de Shien préparant une fête d'anniversaire surprise pour celui-ci. Ils ont tenu une réunion secrète pour débattre de leur plan. Vu qu'ils ont fait une approche similaire l’année dernière, ils vont prendre une approche différente pour pouvoir le surprendre. Mais au milieu de leur plan quelque chose arriva…",
+      "text": "Les fans de Shien ont fait un jeu ! Ce jeu propose l’histoire des subordonnés de Shien préparant une fête d’anniversaire surprise pour celui-ci. Ils ont tenu une réunion secrète pour débattre de leur plan. Vu qu’ils ont fait une approche similaire l’année dernière, ils vont prendre une approche différente pour pouvoir le surprendre. Mais au milieu de leur plan quelque chose arriva…",
       "bbox": {
         "x": 0.0763,
         "y": 0.2292,
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les subordonnés se sont divisés en deux équipes : l’équipe de diversion qui a pour but de tenir le boss éloigné de leur planque, pendant que l’équipe de préparation s'occupe de rassembler les objets et de décorer la salle de la fête.",
+      "text": "Les subordonnés se sont divisés en deux équipes : l’équipe de diversion qui a pour but de tenir le boss éloigné de leur planque, pendant que l’équipe de préparation s’occupe de rassembler les objets et de décorer la salle de la fête.",
       "bbox": {
         "x": 0.0769,
         "y": 0.3095,
@@ -47,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le résultat est un RPG concentré sur l’histoire où le joueur pourra incarner le boss ou les subordonnés. Le joueur peut choisir librement de commencer le jeu soit dans l'équipe de diversion ou l’équipe de préparation. Il est pour le moment disponible uniquement sur Windows.",
+      "text": "Le résultat est un RPG concentré sur l’histoire où le joueur pourra incarner le boss ou les subordonnés. Le joueur peut choisir librement de commencer le jeu soit dans l’équipe de diversion ou l’équipe de préparation. Il est pour le moment disponible uniquement sur Windows.",
       "bbox": {
         "x": 0.0763,
         "y": 0.3615,
@@ -56,7 +66,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Let's play",
       "bbox": {
         "x": 0.4081,
@@ -66,13 +76,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "• LET'S PLAY TERMINÉS",
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
       "bbox": {
         "x": 0.7356,
         "y": 0.4266,
         "width": 0.2094,
         "height": 0.0152
+      }
+    },
+    {
+      "type": "other",
+      "text": "Good Job!\nThe Cruel King and the Great Hero ★\nYakuza\nFinal Fantasy II\nJack Jeanne\nVampire Survivors\nElden Ring",
+      "bbox": {
+        "x": 0.1894,
+        "y": 0.467,
+        "width": 0.2963,
+        "height": 0.5082
+      }
+    },
+    {
+      "type": "other",
+      "text": "Rhythm Heaven Fever\nDeath Forest\nDOOM Eternal\nKardboard Kings\nOpen The World's Best Game Shop!\nMetal Slug Attack\nSea of Thieves\nPowerWash Simulator",
+      "bbox": {
+        "x": 0.655,
+        "y": 0.467,
+        "width": 0.26,
+        "height": 0.5082
       }
     }
   ],

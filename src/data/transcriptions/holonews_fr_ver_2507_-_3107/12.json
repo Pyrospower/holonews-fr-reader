@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2507_-_3107",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,28 +16,38 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.169,
+        "y": 0.297,
+        "width": 0.124,
+        "height": 0.022
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Gamma a enfin terminé son dessin de TEMPUS en guise de cadeau de bienvenue pour eux. Axel est même passé voir son stream pour remercier Gamma pour son illustration. Ce dernier a dit qu'il aimerait eal dessiner chaque membre de i EMPUS individuellement pour une prochaine",
+      "text": "Gamma a enfin terminé son dessin de TEMPUS en guise de cadeau de bienvenue pour eux. Axel est même passé voir son stream pour remercier Gamma pour son illustration. Ce dernier a dit qu’il aimerait pouvoir dessiner chaque membre de TEMPUS individuellement pour une prochaine fois alors de rester patient pour voir cela.",
       "bbox": {
         "x": 0.0712,
         "y": 0.3346,
         "width": 0.3863,
-        "height": 0.0833
+        "height": 0.0951
       }
     },
     {
-      "type": "paragraph",
-      "text": "fois alors de rester patient pour voir cela.",
+      "type": "heading",
+      "text": "HOLOSTARS",
       "bbox": {
-        "x": 0.0712,
-        "y": 0.4167,
-        "width": 0.3363,
-        "height": 0.013
+        "x": 0.169,
+        "y": 0.615,
+        "width": 0.21,
+        "height": 0.022
       }
     },
     {
       "type": "paragraph",
-      "text": "Pour la toute première collab entre HOLOSTARS et UPROAR avec tous les membres, ils ont décidé de jouer à Gartic Phone ensemble. Puisqu'ils ont des talents de dessinateur varié, ils ont dessiné leurs idées à la suite afin de s'assurer que tous les joueurs comprennent.",
+      "text": "Pour la toute première collab entre HOLOSTARS et UPROAR avec tous les membres, ils ont décidé de jouer à Gartic Phone ensemble. Puisqu’ils ont des talents de dessinateur varié, ils ont dessiné leurs idées à la suite afin de s’assurer que tous les joueurs comprennent.",
       "bbox": {
         "x": 0.0719,
         "y": 0.6528,
@@ -47,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Comme d'habitude avec les garçons, c'était la pagaille. On a pu voir Fuma faire des efforts pour censurer le mot « tuer », mais Aruran a mal compris et a dessiné une grande « épée » pour Temma. Astel, Miyabi et Rio, qui étaient les prochains, ont fait des blagues obscènes et se sont excusés auprès de Temma, ce dernier n'étant au courant de rien. Une autre manche notable est quand ils ont réussi à créer une histoire de Yurustar, où Miyabi tuait Aruran, allait en prison, puis Temma lui rendait visite avec une mine heureuse.",
+      "text": "Comme d’habitude avec les garçons, c’était la pagaille. On a pu voir Fuma faire des efforts pour censurer le mot « tuer », mais Aruran a mal compris et a dessiné une grande « épée » pour Temma. Astel, Miyabi et Rio, qui étaient les prochains, ont fait des blagues obscènes et se sont excusés auprès de Temma, ce dernier n’étant au courant de rien. Une autre manche notable est quand ils ont réussi à créer une histoire de Yurustar, où Miyabi tuait Aruran, allait en prison, puis Temma lui rendait visite avec une mine heureuse.",
       "bbox": {
         "x": 0.0712,
         "y": 0.7604,
@@ -57,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "C'était un stream vraiment marrant, vous pouvez visionner les archives sur les chaînes de Roberu, Oga et Gamma.",
+      "text": "C’était un stream vraiment marrant, vous pouvez visionner les archives sur les chaînes de Roberu, Oga et Gamma.",
       "bbox": {
         "x": 0.0694,
         "y": 0.9336,
@@ -66,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.24,
+        "width": 0.109,
+        "height": 0.022
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Miyabi a fait un autre épisode d'Hanasaki Miyabi Vlogs, et cette fois-ci il est allé au parc côtier d’Hitachi qui se trouve dans la préfecture d’Ibaraki pour voir des némophiles. Afin de préparer sa longue promenade, il a d’abord mangé du jambon rôti, un hot-dog au porc de 30cm, et une crème glacée au némophile bleue comme dessert.",
+      "text": "Miyabi a fait un autre épisode d’Hanasaki Miyabi Vlogs, et cette fois-ci il est allé au parc côtier d’Hitachi qui se trouve dans la préfecture d’Ibaraki pour voir des némophiles. Afin de préparer sa longue promenade, il a d’abord mangé du jambon rôti, un hot-dog au porc de 30cm, et une crème glacée au némophile bleue comme dessert.",
       "bbox": {
         "x": 0.5387,
         "y": 0.2804,
@@ -86,8 +106,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "UPROAR!!",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.63,
+        "width": 0.166,
+        "height": 0.022
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "La souscription est enfin disponible pour les membres d'UPROAR. Fuma et Uyu l'ont fait le 25 juillet, Gamma et Rio le 26. Ils ont tous deux niveaux de souscription avec chacun des avantages différents. Pour Fuma, c'est son procédé de production de rap et ses notes quotidiennes. Pour Uyu, plus de streams « Jyako ». Pour Gamma, il va faire des streams d’entraînement de chant et doublage. Enfin pour Rio, des vidéos de son chat et de cuisine. Si l’une de ces choses vous intéresse, n'hésitez pas à souscrire à leurs chaînes.",
+      "text": "La souscription est enfin disponible pour les membres d’UPROAR. Fuma et Uyu l’ont fait le 25 juillet, Gamma et Rio le 26. Ils ont tous deux niveaux de souscription avec chacun des avantages différents. Pour Fuma, c’est son procédé de production de rap et ses notes quotidiennes. Pour Uyu, plus de streams « Jyako ». Pour Gamma, il va faire des streams d’entraînement de chant et doublage. Enfin pour Rio, des vidéos de son chat et de cuisine. Si l’une de ces choses vous intéresse, n'hésitez pas à souscrire à leurs chaînes.",
       "bbox": {
         "x": 0.5387,
         "y": 0.6693,

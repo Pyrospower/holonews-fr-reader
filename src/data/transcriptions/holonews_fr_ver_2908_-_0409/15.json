@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2908_-_0409",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.2075,
+        "width": 0.0612,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "other",
+      "text": "MYTH",
+      "bbox": {
+        "x": 0.2587,
+        "y": 0.2148,
+        "width": 0.0462,
+        "height": 0.0104
+      }
+    },
     {
       "type": "paragraph",
       "text": "Ina s'est lancée dans un voyage pour devenir un grand chef avec un stream de cuisine dans sa nouvelle résidence ! Elle a fait de la soupe aux œufs et du lait à la fraise. La prêtresse ne pouvait pas cuisiner lorsqu'elle vivait chez ses parents, car « Mama'nis l'empêchait d'entrer dans la cuisine », mais elle est maintenant capable de couper des légumes. D'ailleurs, elle ne s'est rendu compte qu'elle n'avait pas de mixeur pour son lait aux fraises qu'au milieu du stream, ce qui l'a obligée à écraser les fraises à la main. Des fraises chanceuses.",
@@ -13,6 +33,26 @@
         "y": 0.247,
         "width": 0.4456,
         "height": 0.1532
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.1219,
+        "y": 0.4214,
+        "width": 0.0619,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "other",
+      "text": "MYTH",
+      "bbox": {
+        "x": 0.2169,
+        "y": 0.4266,
+        "width": 0.0475,
+        "height": 0.0104
       }
     },
     {
@@ -26,23 +66,53 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "DAVINCI x",
+      "type": "heading",
+      "text": "Calli",
       "bbox": {
-        "x": 0.7181,
-        "y": 0.0321,
-        "width": 0.0744,
-        "height": 0.0095
+        "x": 0.62,
+        "y": 0.1597,
+        "width": 0.0856,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "other",
+      "text": "MYTH",
+      "bbox": {
+        "x": 0.7369,
+        "y": 0.1667,
+        "width": 0.0462,
+        "height": 0.01
       }
     },
     {
       "type": "paragraph",
-      "text": "Calli, qui est passionnée de manga, a organisé un stream avec le célèbre AniTuber Garnt (Gigguk) pour présenter les NEXT MANGA AWARDS 2022. lls avaient déjà collaboré à deux reprises sur le podcast Trash Taste.",
+      "text": "Calli, qui est passionnée de manga, a organisé un stream avec le célèbre AniTuber Garnt (Gigguk) pour présenter les NEXT MANGA AWARDS 2022. Ils avaient déjà collaboré à deux reprises sur le podcast Trash Taste.",
       "bbox": {
         "x": 0.5119,
         "y": 0.1957,
         "width": 0.4444,
         "height": 0.072
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ame",
+      "bbox": {
+        "x": 0.5887,
+        "y": 0.4557,
+        "width": 0.0906,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "other",
+      "text": "MYTH",
+      "bbox": {
+        "x": 0.71,
+        "y": 0.4635,
+        "width": 0.0462,
+        "height": 0.0104
       }
     },
     {
@@ -53,6 +123,26 @@
         "y": 0.4926,
         "width": 0.4456,
         "height": 0.1016
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gura",
+      "bbox": {
+        "x": 0.5887,
+        "y": 0.622,
+        "width": 0.0963,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "MYTH",
+      "bbox": {
+        "x": 0.7188,
+        "y": 0.6276,
+        "width": 0.0475,
+        "height": 0.0109
       }
     },
     {
@@ -67,7 +157,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les participantes devaient répondre à des questions assez simples posées par Gura, comme ce qu'est 2\n• 5 ou sur le nom d'un groupe de corbeaux, avec des bonus de type « jeu » à utiliser sur elles-mêmes ou sur leurs camarades. Parmi les moments marquants, plusieurs filles ont oublié que la couleur jaune existait : la question était de savoir quelle couleur de l'arc-en-ciel venait en dernier dans l'ordre alphabétique, et Bae en a profité pour mettre en avant « VIOLET » d'Ina. IRyS a dit à tort qu'un groupe de corbeaux est une foule au lieu d'un meurtre et a failli qualifier un angle obtus d'« obèse ». Malheureusement, le stream a été interrompu en raison de problèmes techniques, mais Gura a promis de continuer une prochaine fois",
+      "text": "Les participantes devaient répondre à des questions assez simples posées par Gura, comme ce qu'est 2 + 5 ou sur le nom d'un groupe de corbeaux, avec des bonus de type « jeu » à utiliser sur elles-mêmes ou sur leurs camarades. Parmi les moments marquants, plusieurs filles ont oublié que la couleur jaune existait : la question était de savoir quelle couleur de l'arc-en-ciel venait en dernier dans l'ordre alphabétique, et Bae en a profité pour mettre en avant « VIOLET » d'Ina. IRyS a dit à tort qu'un groupe de corbeaux est une foule au lieu d'un meurtre et a failli qualifier un angle obtus d'« obèse ». Malheureusement, le stream a été interrompu en raison de problèmes techniques, mais Gura a promis de continuer une prochaine fois",
       "bbox": {
         "x": 0.5106,
         "y": 0.7595,

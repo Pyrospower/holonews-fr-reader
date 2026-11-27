@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2706_-_0307",
   "page": 18,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -26,28 +26,58 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Laplus 800k @ Ollie 1,1 M & Zeta 450k",
+      "type": "other",
+      "text": "Laplus 800k",
       "bbox": {
-        "x": 0.5131,
-        "y": 0.2222,
-        "width": 0.1956,
-        "height": 0.1563
+        "x": 0.6031,
+        "y": 0.2218,
+        "width": 0.1081,
+        "height": 0.0126
       }
     },
     {
-      "type": "paragraph",
-      "text": "hololiveEN ch 500k & Kobo 900k",
+      "type": "other",
+      "text": "hololiveEN ch 500k",
       "bbox": {
-        "x": 0.7463,
-        "y": 0.224,
-        "width": 0.1988,
-        "height": 0.0924
+        "x": 0.8263,
+        "y": 0.2231,
+        "width": 0.1206,
+        "height": 0.0256
       }
     },
     {
-      "type": "paragraph",
-      "text": "Evénements a venir",
+      "type": "other",
+      "text": "Ollie 1,1 M",
+      "bbox": {
+        "x": 0.6031,
+        "y": 0.2847,
+        "width": 0.0938,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "other",
+      "text": "Kobo 900k",
+      "bbox": {
+        "x": 0.8306,
+        "y": 0.2847,
+        "width": 0.095,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "other",
+      "text": "Zeta 450k",
+      "bbox": {
+        "x": 0.6031,
+        "y": 0.3477,
+        "width": 0.0881,
+        "height": 0.0126
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Événements à venir",
       "bbox": {
         "x": 0.5381,
         "y": 0.4306,
@@ -57,27 +87,17 @@
     },
     {
       "type": "paragraph",
-      "text": "• 6 juillet : Anniversaire de Kiara et concert en 3D",
+      "text": "• 6 juillet : Anniversaire de Kiara et concert en 3D\n• 11 juillet : Anniversaire des débuts d'IRyS",
       "bbox": {
         "x": 0.5725,
         "y": 0.4878,
         "width": 0.3425,
-        "height": 0.0278
+        "height": 0.0795
       }
     },
     {
       "type": "paragraph",
-      "text": "• 11 juillet : Anniversaire des débuts d'IRyS",
-      "bbox": {
-        "x": 0.5725,
-        "y": 0.536,
-        "width": 0.2831,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur @ Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
         "x": 0.0463,
         "y": 0.691,

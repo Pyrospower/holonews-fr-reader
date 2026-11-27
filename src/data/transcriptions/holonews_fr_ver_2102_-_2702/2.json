@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2102_-_2702",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La semaine dernière, Okayu a fêté son anniversaire avec un concert en 3D ! Le stream s’est ouvert sur « p.h. » de SEVENTHLINKS, une chanson qu’elle avait toujours voulu interpréter en live. Après avoir chanté, elle a pris une courte pause en s’allongeant avec ses spectateurs, la position de la caméra donnant l'illusion d'être allongé à ses côtés. Suite à cela, Okayu a interprété de nombreuses chansons avec ses invitées, Towa, Marine, Kanata, ainsi que ses camarades de GAMERS, avant de finir avec un duo sur « No Title » de Reol en compagnie de Korone. Nombre de moments adorables ont évidemment eu lieu durant ce stream entre Okayu et ses invitées, et tout particulièrement Korone.",
+      "text": "La semaine dernière, Okayu a fêté son anniversaire avec un concert en 3D ! Le stream s’est ouvert sur « p.h. » de SEVENTHLINKS, une chanson qu’elle avait toujours voulu interpréter en live. Après avoir chanté, elle a pris une courte pause en s’allongeant avec ses spectateurs, la position de la caméra donnant l’illusion d’être allongé à ses côtés. Suite à cela, Okayu a interprété de nombreuses chansons avec ses invitées, Towa, Marine, Kanata, ainsi que ses camarades de GAMERS, avant de finir avec un duo sur « No Title » de Reol en compagnie de Korone. Nombre de moments adorables ont évidemment eu lieu durant ce stream entre Okayu et ses invitées, et tout particulièrement Korone.",
       "bbox": {
         "x": 0.6689,
         "y": 0.0633,
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après son duo avec Korone, Okayu a levé le voile sur sa nouvelle chanson originale : « Detabare Neko ». Ses produits dérivés d'anniversaire ont suivi peu de temps après, et comprennent :",
+      "text": "Après son duo avec Korone, Okayu a levé le voile sur sa nouvelle chanson originale : « Detabare Neko ». Ses produits dérivés d’anniversaire ont suivi peu de temps après, et comprennent :",
       "bbox": {
         "x": 0.6689,
         "y": 0.5448,
@@ -37,27 +37,17 @@
     },
     {
       "type": "paragraph",
-      "text": "- Une tapisserie au format B2 illustrée par Chiroru Kamioka",
+      "text": "- Une tapisserie au format B2 illustrée par Chiroru Kamioka\n- Un bol à riz\n- Un haramaki\n- Un pack de voix",
       "bbox": {
         "x": 0.6694,
         "y": 0.6983,
         "width": 0.2778,
-        "height": 0.0475
+        "height": 0.14
       }
     },
     {
       "type": "paragraph",
-      "text": "- Un bol à riz - Un haramaki - Un pack de voix",
-      "bbox": {
-        "x": 0.6694,
-        "y": 0.7623,
-        "width": 0.1861,
-        "height": 0.076
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "En bonus, l’achat de l'ensemble complet de produits dérivés donne droit à une carte postale signée ainsi qu’à des enregistrements audio ASMR bonus.",
+      "text": "En bonus, l’achat de l’ensemble complet de produits dérivés donne droit à une carte postale signée ainsi qu’à des enregistrements audio ASMR bonus.",
       "bbox": {
         "x": 0.6689,
         "y": 0.8515,

@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2102_-_2702",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 1",
+      "bbox": {
+        "x": 0.1904,
+        "y": 0.0561,
+        "width": 0.1538,
+        "height": 0.0267
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1615,
+        "y": 0.2296,
+        "width": 0.2404,
+        "height": 0.0214
+      }
+    },
     {
       "type": "paragraph",
       "text": "Haachama a fait le tour du serveur Minecraft, actuellement vide, en souhaitant que tout le monde y joue à nouveau. Elle a visité la maison de Rushia et a essayé de réparer la maison avec les matériaux qu'elle avait, y compris de la TNT. Elle a également proclamé que c'était sa maison à partir de maintenant en plaçant un panneau.",
@@ -17,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Haachama a marché sur une crotte de chien en rentrant chez elle, puis son chien a fait ses besoins dans sa chambre en plein stream ASMR, et il a refait caca apres le stream. On peut dire qu'elle a passé une journée de merde.",
+      "text": "Haachama a marché sur une crotte de chien en rentrant chez elle, puis son chien a fait ses besoins dans sa chambre en plein stream ASMR, et il a refait caca après le stream. On peut dire qu’elle a passé une journée de merde.",
       "bbox": {
         "x": 0.0525,
         "y": 0.3976,
@@ -26,18 +46,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Within Skerry",
+      "type": "heading",
+      "text": "Fubuki",
       "bbox": {
-        "x": 0.0425,
-        "y": 0.5612,
-        "width": 0.1675,
-        "height": 0.0161
+        "x": 0.1596,
+        "y": 0.6248,
+        "width": 0.1635,
+        "height": 0.024
       }
     },
     {
       "type": "paragraph",
-      "text": "La semaine derniere, Fubuki a joué a Within Skerry ! Elle était assez effrayée par le jeu, alors elle avait son harmonica dans la bouche pour ne pas crier, mais elle l'a ensuite laissé tomber et a joué au jeu normalement. Plus tard, Fubuki a demandé à Polka de la rejoindre pour atténuer sa peur, mais Polka a plutôt effrayé Fubuki (encore plus que le jeu) en jouant aléatoirement de son kazoo pour faire sursauter Fubuki.",
+      "text": "La semaine dernière, Fubuki a joué à Within Skerry ! Elle était assez effrayée par le jeu, alors elle avait son harmonica dans la bouche pour ne pas crier, mais elle l'a ensuite laissé tomber et a joué àu jeu normalement. Plus tard, Fubuki a demandé à Polka de la rejoindre pour atténuer sa peur, mais Polka a plutôt effrayé Fubuki (encore plus que le jeu) en jouant aléatoirement de son kazoo pour faire sursauter Fubuki.",
       "bbox": {
         "x": 0.0556,
         "y": 0.6697,
@@ -56,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.2256,
+        "width": 0.1846,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Matsuri flirtait avec Iroha sur ARK en lui avouant son amour et en essayant de lui donner de l'argent. Iroha a été perturbée par ce développement et a finalement accepté d'aller à un rendez-vous avec Matsuri un jour.",
+      "text": "Matsuri flirtait avec Iroha sur ARK en lui avouant son amour et en essayant de lui donner de l’argent. Iroha a été perturbée par ce développement et a finalement accepté d'aller à un rendez-vous avec Matsuri un jour.",
       "bbox": {
         "x": 0.5225,
         "y": 0.2661,
@@ -67,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Matsuri veut être réincarnée en homme _ parce qu'elle pense que montrer son p*nis en étant ivre serait drôle.",
+      "text": "Matsuri veut être réincarnée en homme parce qu’elle pense que montrer son p*nis en étant ivre serait drôle.",
       "bbox": {
         "x": 0.5225,
         "y": 0.3754,
@@ -76,23 +106,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "nr VAMPIRE SURVIVORS",
+      "type": "heading",
+      "text": "Mel",
       "bbox": {
-        "x": 0.5713,
-        "y": 0.4497,
-        "width": 0.2419,
-        "height": 0.0378
+        "x": 0.6327,
+        "y": 0.5661,
+        "width": 0.0865,
+        "height": 0.024
       }
     },
     {
       "type": "paragraph",
-      "text": "Mel est accro a Vampire Survivors, un jeu dans lequel elle peut massacrer ses semblables. Elle aime chanter avec la musique de fond et s'ambiancer en ouvrant les coffres au trésor.",
+      "text": "Mel est accro à Vampire Survivors, un jeu dans lequel elle peut massacrer ses semblables. Elle aime chanter avec la musique de fond et s'ambiancer en ouvrant les coffres au trésor.",
       "bbox": {
         "x": 0.5313,
         "y": 0.6059,
         "width": 0.4113,
         "height": 0.0764
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aki",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.8238,
+        "width": 0.0827,
+        "height": 0.024
       }
     },
     {

@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_0404_-_1004",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "GENO",
+      "text": "GEN 0",
       "bbox": {
         "x": 0.4388,
         "y": 0.0174,
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.18,
+        "width": 0.082,
+        "height": 0.022
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Miko s’est encore brûlée en renversant de l'eau bouillante sur son pied. Elle a réussi a refroidir sa blessure et ça ne semble pas être quelque chose de très grave.",
+      "text": "Miko s’est encore brûlée en renversant de l’eau bouillante sur son pied. Elle a réussi à refroidir sa blessure et ça ne semble pas être quelque chose de très grave.",
       "bbox": {
         "x": 0.0656,
         "y": 0.2153,
@@ -26,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.153,
+        "y": 0.42,
+        "width": 0.095,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le let's play de Suisei sur Within Skerry est devenu une collaboration Tokomachi ! Avec l'imperturbable Inui Toko, Suisei a été capable de faire la majeure partie du jeu. Elle a sursauté à plusieurs reprises devant plusieurs jumpscares, cependant elle s'est montrée adorable en chantant « Ghost » et « Stellar Stellar », en parlant un peu en anglais et en faisant semblant de jouer à Phasmophobia. Bien que Suisei ait réussi à terminer le jeu, elle n’a pas réussi à s'échapper de la mauvaise fin, malgré les encouragements et les conseils de Toko.",
+      "text": "Le let’s play de Suisei sur Within Skerry est devenu une collaboration Tokomachi ! Avec l’imperturbable Inui Toko, Suisei a été capable de faire la majeure partie du jeu. Elle a sursauté à plusieurs reprises devant plusieurs jumpscares, cependant elle s’est montrée adorable en chantant « Ghost » et « Stellar Stellar », en parlant un peu en anglais et en faisant semblant de jouer à Phasmophobia. Bien que Suisei ait réussi à terminer le jeu, elle n’a pas réussi à s’échapper de la mauvaise fin, malgré les encouragements et les conseils de Toko.",
       "bbox": {
         "x": 0.065,
         "y": 0.4562,
@@ -36,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "AZKi & Nene",
+      "bbox": {
+        "x": 0.185,
+        "y": 0.78,
+        "width": 0.2,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": ". f ~ ok »’ à AZKi & Nene Nene et AZKi se retrouvé pour faire un karaoké. C'est la première collaboration d'AZKi depuis qu'elle a rejoint hololive. À l'aide de leurs modèles 3D à la maison, les deux ont interprété huit des plus grands succès d'hololive. Entre les chansons, AZKi a habilement esquivé les questions de Nene et l'a même taquinée en l'appelant senpai. Vers la fin du stream, elles ont publié leur reprise commune de Roki sur la chaine d'AZKi.",
+      "text": "Nene et AZKi se retrouvé pour faire un karaoké. C'est la première collaboration d'AZKi depuis qu'elle a rejoint hololive. À l'aide de leurs modèles 3D à la maison, les deux ont interprété huit des plus grands succès d'hololive. Entre les chansons, AZKi a habilement esquivé les questions de Nene et l'a même taquinée en l'appelant senpai. Vers la fin du stream, elles ont publié leur reprise commune de Roki sur la chaine d'AZKi.",
       "bbox": {
         "x": 0.0656,
         "y": 0.7635,
@@ -46,23 +76,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Miko a fait un karaoké cette semaine et a chanté 16 chansons en 2 heures. Bien qu’elle ait commencé = des musiques de 3 Yorushika et Utada Hikaru, presque la moitié des chansons chantées étaient des chansons originales de hololive. Bien qu”elle n'a pas chanté « Stellar Stellar », d'autres chansons ont été interprétées comme « Taiyou.",
+      "type": "heading",
+      "text": "Miko",
       "bbox": {
-        "x": 0.5375,
-        "y": 0.2148,
-        "width": 0.4031,
-        "height": 0.1024
+        "x": 0.632,
+        "y": 0.18,
+        "width": 0.082,
+        "height": 0.022
       }
     },
     {
       "type": "paragraph",
-      "text": "Shoujo » de Subaru, « Heroine Audition » de Akirose et « Smile & Go » de Flare. Il a aussi eu des bruits tout mignons de Miko et même un peu d'anglais de la part de Elite Miko !",
+      "text": "Miko a fait un karaoké cette semaine et a chanté 16 chansons en 2 heures. Bien qu’elle ait commencé par des musiques de Yorushika et Utada Hikaru, presque la moitié des chansons chantées étaient des chansons originales de hololive. Bien qu’elle n’a pas chanté « Stellar Stellar », d’autres chansons ont été interprétées comme « Taiyou Shoujo » de Subaru, « Heroine Audition » de Akirose et « Smile & Go » de Flare. Il a aussi eu des bruits tout mignons de Miko et même un peu d’anglais de la part de Elite Miko !",
       "bbox": {
         "x": 0.5369,
-        "y": 0.316,
-        "width": 0.395,
-        "height": 0.0512
+        "y": 0.2148,
+        "width": 0.4037,
+        "height": 0.1524
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.507,
+        "width": 0.072,
+        "height": 0.022
       }
     },
     {

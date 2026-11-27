@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0205_-_0805",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,196 +17,66 @@
     },
     {
       "type": "paragraph",
-      "text": "[AZKi] Ito: 75K",
+      "text": "05/02\n[AZKi] Ito: 75K\n[Sora] Love Trial: 750K\n[Aqua] Ubiquitous DB: 3M\n[Mel] Discommunication Alien: 750K\n[Subaru] Koi No Mahou: 4M\n[La+] LiFE: 250K",
       "bbox": {
-        "x": 0.3606,
-        "y": 0.0833,
-        "width": 0.1269,
-        "height": 0.0135
+        "x": 0.0491,
+        "y": 0.0783,
+        "width": 0.4382,
+        "height": 0.1061
       }
     },
     {
       "type": "paragraph",
-      "text": "[Sora] Love Trial: 750K",
+      "text": "05/03\n[Suisei] e-ma: 1M\n[Towa] Gira Gira: 750K\n[Astel/Rikka] Gunjo Sanka: 25K\n[Rio] Kimi no Myaku de Odoritakatta: 75K\n[Kiara/Gura] Ai Kotoba III: 3M",
       "bbox": {
-        "x": 0.2856,
-        "y": 0.1011,
-        "width": 0.2019,
-        "height": 0.0135
+        "x": 0.5109,
+        "y": 0.0783,
+        "width": 0.4418,
+        "height": 0.0896
       }
     },
     {
       "type": "paragraph",
-      "text": "[Aqua] Ubiquitous DB: 3M",
+      "text": "05/04\n[Ina] Violet: 3M\n[Nene/Kiara] Orange: 250K\n[Reine/Suisei/Calliope] Beat Eater: 1M\n[Korone] Doggy God's Street: 2M\n[Miko] Darling Dance: 1M",
       "bbox": {
-        "x": 0.2594,
-        "y": 0.1189,
-        "width": 0.2269,
-        "height": 0.0135
+        "x": 0.0491,
+        "y": 0.1995,
+        "width": 0.4382,
+        "height": 0.0896
       }
     },
     {
       "type": "paragraph",
-      "text": "[Mel] Discommunication Alien: 750K [Subaru] Koi No Mahou: 4M",
+      "text": "05/05\n[Lui] Prologue: 250K\n[Kronii] Daydream: 1M\n[Botan] Lioness' Pride: 1M\n[Mel/Kanata/Calliope] Luvoratorrrrry!: 250K\n[Lui] Fukurou-san: 750K\n[Izuru] Nostalgia: 10K",
       "bbox": {
-        "x": 0.1694,
-        "y": 0.1367,
-        "width": 0.3181,
-        "height": 0.0313
+        "x": 0.5109,
+        "y": 0.1806,
+        "width": 0.4418,
+        "height": 0.1086
       }
     },
     {
       "type": "paragraph",
-      "text": "[La+] LIFE: 250K",
+      "text": "05/06\n[Baelz] Play Dice: 2M\n[Kanata] Phony: 500K\n[Polka] Chimera (Reprise): 100K\n[Sora/AZKi/Matsuri/Etc] Peace: 100K\n[Astel/Nana] Yukoku, Yume To Mimagau (Reprise): 25K\n[Roboco] The Boy and Magic Robot: 75K\n[Towa/Miko/AkiRose/Polka/Iroha] Sakura No Ame: 750K\n[Area15] HI-15 (JP): 50K\n[Watame] Phony: 1M",
       "bbox": {
-        "x": 0.34,
-        "y": 0.1723,
-        "width": 0.1475,
-        "height": 0.0135
+        "x": 0.0491,
+        "y": 0.303,
+        "width": 0.4382,
+        "height": 0.197
       }
     },
     {
       "type": "paragraph",
-      "text": "05/ 04 [Ina] Violet: 3M [Nene/Kiara] Orange: 250K [Reine/Suisei/Calliope] Beat Eater: 1M [Korone] Doggy God's Street: 2M [Miko] Darling Dance: 1M",
+      "text": "05/07\n[AZKi] Over Light: 100K\n[Nene] Watashi Aidoru Sengen: 1M\n[AZKi/Rikka] Kakumei Dualism (Reprise): 100K\n[Sora] Taiyoukei Disco (Live): 75K",
       "bbox": {
-        "x": 0.0513,
-        "y": 0.2001,
-        "width": 0.4363,
-        "height": 0.0898
+        "x": 0.5109,
+        "y": 0.303,
+        "width": 0.4418,
+        "height": 0.0707
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Baelz] Play Dice: 2M",
-      "bbox": {
-        "x": 0.3,
-        "y": 0.309,
-        "width": 0.1863,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Kanata] Phony: 500K",
-      "bbox": {
-        "x": 0.2944,
-        "y": 0.3268,
-        "width": 0.1931,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Polka] Chimera (Reprise): 100K [Sora/AZKi/Matsuri/Etc] Peace: 100K [Astel/Nana]",
-      "bbox": {
-        "x": 0.1619,
-        "y": 0.3446,
-        "width": 0.3256,
-        "height": 0.049
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Yukoku, Yume To Mimagau (Reprise): 25K [Roboco] The Boy and Magic Robot: 75K [Towa/Miko/AkiRose/Polka/lroha] Sakura No Ame: 750K",
-      "bbox": {
-        "x": 0.1081,
-        "y": 0.398,
-        "width": 0.3794,
-        "height": 0.0638
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Area15] HI-15 (JP): 50K [Watame] Phony: 1M",
-      "bbox": {
-        "x": 0.2706,
-        "y": 0.4692,
-        "width": 0.2169,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Suisei] e-ma: 1M [Towa] Gira Gira: 750K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.0833,
-        "width": 0.2025,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Astel/Rikka] Gunjo Sanka: 25K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.1189,
-        "width": 0.2769,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Rio] Kimi no Myaku de Odoritakatta: 75K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.1367,
-        "width": 0.3638,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Kiara/Gura] Ai Kotoba Ill: 3M",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.1545,
-        "width": 0.2569,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Lui] Prologue: 250K [Kronii] Daydream: 1M [Botan] Lioness’ Pride: 1M [Mel/Kanata/Calliope] Luvoratorrrrry!: 250K [Lui] Fukurou-san: 750K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.1875,
-        "width": 0.3762,
-        "height": 0.0846
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[lzuru] Nostalgia: 10K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2765,
-        "width": 0.1888,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[AZKi] Over Light: 100K 05/07 [Nene] Watashi Aidoru Sengen: 1M",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.3034,
-        "width": 0.435,
-        "height": 0.0369
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[AZKi/Rikka] Kakumei Dualism (Reprise): 100K [Sora] Taiyoukei Disco (Live): 75K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.3446,
-        "width": 0.4144,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
+      "type": "other",
       "text": "REPRISE ORIGINAL NOUVEAU",
       "bbox": {
         "x": 0.5181,
@@ -226,63 +96,43 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "KAKUMEI DUALISM",
+      "type": "other",
+      "text": "REPRISE\nAZKi & Rikka\nKAKUMEI DUALISM",
       "bbox": {
-        "x": 0.0531,
-        "y": 0.7144,
-        "width": 0.1663,
-        "height": 0.0326
+        "x": 0.0327,
+        "y": 0.577,
+        "width": 0.2364,
+        "height": 0.1755
       }
     },
     {
-      "type": "heading",
-      "text": "YUKOKU, YUME TO MIMAGAU",
+      "type": "other",
+      "text": "REPRISE\nAstel & Kagura Nana\nYUKOKU, YUME TO MIMAGAU",
       "bbox": {
-        "x": 0.5188,
-        "y": 0.714,
-        "width": 0.3406,
-        "height": 0.033
+        "x": 0.5018,
+        "y": 0.577,
+        "width": 0.3691,
+        "height": 0.1755
       }
     },
     {
-      "type": "paragraph",
-      "text": "Polka",
+      "type": "other",
+      "text": "REPRISE\nPolka\nCHIMERA",
       "bbox": {
-        "x": 0.0538,
-        "y": 0.875,
-        "width": 0.0644,
-        "height": 0.0143
+        "x": 0.0327,
+        "y": 0.7626,
+        "width": 0.3418,
+        "height": 0.1692
       }
     },
     {
-      "type": "heading",
-      "text": "CHIMERA",
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nORIO (Kanata & Towa)\nOVER TIME",
       "bbox": {
-        "x": 0.0519,
-        "y": 0.9015,
-        "width": 0.3169,
-        "height": 0.0273
-      }
-    },
-    {
-      "type": "heading",
-      "text": "ORIO (Kanata & Towa)",
-      "bbox": {
-        "x": 0.52,
-        "y": 0.8746,
-        "width": 0.2756,
-        "height": 0.0187
-      }
-    },
-    {
-      "type": "heading",
-      "text": "OVER TIME",
-      "bbox": {
-        "x": 0.52,
-        "y": 0.9015,
-        "width": 0.3681,
-        "height": 0.0273
+        "x": 0.5018,
+        "y": 0.7639,
+        "width": 0.3927,
+        "height": 0.1679
       }
     }
   ],

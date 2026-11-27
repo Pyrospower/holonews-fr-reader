@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2803_-_0304",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.4325,
+        "y": 0.0165,
+        "width": 0.1363,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.1814,
+        "width": 0.1044,
+        "height": 0.0213
+      }
+    },
     {
       "type": "paragraph",
       "text": "Le stream de Koyori d'apprentissage de l'Anglais a fait son retour, cette fois-ci avec l'appui de Duolingo. Koyori a passé le test de niveau du cours d'anglais US, et a atteint le niveau 2 sur 7. Elle s'est également intéressée aux Histoires pour améliorer sa compréhension écrite et orale de l'anglais.",
@@ -33,6 +53,16 @@
         "y": 0.421,
         "width": 0.3863,
         "height": 0.1437
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.1814,
+        "width": 0.105,
+        "height": 0.0213
       }
     },
     {
@@ -76,6 +106,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Mio",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.7826,
+        "width": 0.0619,
+        "height": 0.0187
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Mio a fait son grand retour sur Getting Over It avec pour objectif de battre son meilleur temps. Elle a battu son précédent record en finissant avec un temps de 18:41 lors de sa deuxième tentative, mais a ensuite continué de tenter de l'améliorer pendant près d'une heure et demi. Mio a ensuite décidé de finir le stream et de remercier les Super Chats plus tard, car elle était plutôt pressée. Quelle louve furtive !",
       "bbox": {
@@ -83,6 +123,16 @@
         "y": 0.8194,
         "width": 0.39,
         "height": 0.1584
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu & Korone",
+      "bbox": {
+        "x": 0.6331,
+        "y": 0.7799,
+        "width": 0.255,
+        "height": 0.0217
       }
     },
     {

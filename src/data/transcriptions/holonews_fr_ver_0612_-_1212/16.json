@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0612_-_1212",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0929,
         "width": 0.4081,
         "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Baelz & IRyS",
+      "bbox": {
+        "x": 0.178,
+        "y": 0.266,
+        "width": 0.281,
+        "height": 0.024
       }
     },
     {
@@ -27,12 +37,32 @@
     },
     {
       "type": "heading",
-      "text": "& Others",
+      "text": "IRyS",
       "bbox": {
-        "x": 0.2944,
-        "y": 0.5456,
-        "width": 0.1706,
-        "height": 0.0365
+        "x": 0.634,
+        "y": 0.266,
+        "width": 0.107,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une collaboration entre D4DJ Groovy Mix et IRyS se présage. Sa chanson « HERE COMES HOPE » sera disponible le 26 décembre ! Un stream spécial est prévu, restez à l’écoute pour plus d'informations.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.3129,
+        "width": 0.4119,
+        "height": 0.0794
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kronii & Others",
+      "bbox": {
+        "x": 0.1594,
+        "y": 0.5603,
+        "width": 0.305,
+        "height": 0.0217
       }
     },
     {
@@ -47,32 +77,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Kronii a vaincu Andariel, rattrapant ainsi Kiara, et est maintenant prête à jouer à",
-      "bbox": {
-        "x": 0.0513,
-        "y": 0.822,
-        "width": 0.39,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Diablo Il avec son ainée. Leur collab est prévue pour la semaine prochaine.",
+      "text": "Kronii a vaincu Andariel, rattrapant ainsi Kiara, et est maintenant prête à jouer à Diablo II avec son ainée. Leur collab est prévue pour la semaine prochaine.",
       "bbox": {
         "x": 0.0506,
-        "y": 0.8537,
+        "y": 0.822,
         "width": 0.3938,
-        "height": 0.0317
+        "height": 0.0634
       }
     },
     {
-      "type": "paragraph",
-      "text": "Une collaboration entre D4DJ Groovy Mix et IRyS se présage. Sa chanson « HERE COMES HOPE » sera disponible le 26 décembre ! Un stream spécial est prévu, restez à I'écoute pour plus d'informations.",
+      "type": "other",
+      "text": "JUST\nGWAK",
       "bbox": {
-        "x": 0.5231,
-        "y": 0.3129,
-        "width": 0.4119,
-        "height": 0.0794
+        "x": 0.446,
+        "y": 0.901,
+        "width": 0.023,
+        "height": 0.016
       }
     },
     {
@@ -96,8 +116,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Baelz & Mumei",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.758,
+        "width": 0.3,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "ee Suivant l'exemple de Gura, Mumei et Baelz ont joué à Big Brain Academy cette semaine pour mesurer leur intelligence. Elles ont toutes les deux eu le rang S- se classant autour de 3 000 de puissance de cerveau. Baelz a fait preuve d'une très bonne mémoire tandis que Mumei a le plus excellé dans l'analyse.",
+      "text": "Suivant l’exemple de Gura, Mumei et Baelz ont joué à Big Brain Academy cette semaine pour mesurer leur intelligence. Elles ont toutes les deux eu le rang S- se classant autour de 3 000 de puissance de cerveau. Baelz a fait preuve d’une très bonne mémoire tandis que Mumei a le plus excellé dans l’analyse.",
       "bbox": {
         "x": 0.5225,
         "y": 0.7743,

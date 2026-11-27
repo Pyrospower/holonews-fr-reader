@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_2006_-_2606",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Fan game",
+      "bbox": {
+        "x": 0.649,
+        "y": 0.006,
+        "width": 0.3,
+        "height": 0.045
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "HoloCure, un jeu fait par un fan inspiré de Vampire Survivors et de Magic Survival, est sorti le 24 juin. Le jeu a été développé par Kay Yu, un animateur qui a, entre autres, travaillé comme concepteur de sprites pour River City Girls et plusieurs animations pour hololive. Il présente les personnages d'holoMyth, d'holoCouncil et IRyS, et d'autres sont prévus. II est disponible gratuitement sur itch.io (uniquement sur Windows pour le moment). alors n'hésitez pas à v ieter un œil",
+      "text": "HoloCure, un jeu fait par un fan inspiré de Vampire Survivors et de Magic Survival, est sorti le 24 juin. Le jeu a été développé par Kay Yu, un animateur qui a, entre autres, travaillé comme concepteur de sprites pour River City Girls et plusieurs animations pour hololive. Il présente les personnages d'holoMyth, d'holoCouncil et IRyS, et d'autres sont prévus. Il est disponible gratuitement sur itch.io (uniquement sur Windows pour le moment). alors n'hésitez pas à v jeter un œil",
       "bbox": {
         "x": 0.0806,
         "y": 0.3325,
@@ -16,8 +26,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Let' S play",
+      "type": "heading",
+      "text": "Let's play",
       "bbox": {
         "x": 0.4088,
         "y": 0.424,
@@ -26,13 +36,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "TOWNSCAPER",
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
       "bbox": {
-        "x": 0.2094,
-        "y": 0.7808,
-        "width": 0.2238,
-        "height": 0.0091
+        "x": 0.735,
+        "y": 0.426,
+        "width": 0.215,
+        "height": 0.019
+      }
+    },
+    {
+      "type": "other",
+      "text": "hidden through time\nJump King\nAI THE SOMNIUM FILES nirvanA Initiative\nLITTLE NIGHTMARES\nTOWNSCAPER\nKeyWe\nHoloCure",
+      "bbox": {
+        "x": 0.188,
+        "y": 0.466,
+        "width": 0.264,
+        "height": 0.512
+      }
+    },
+    {
+      "type": "other",
+      "text": "DUDE, STOP\nDORF ROMANTIK\nFIGHTCRAB\nSUPER PAPER MARIO\nPurrfect Date\nCAPCOM FIGHTING COLLECTION\nit takes two",
+      "bbox": {
+        "x": 0.654,
+        "y": 0.466,
+        "width": 0.263,
+        "height": 0.512
       }
     }
   ],

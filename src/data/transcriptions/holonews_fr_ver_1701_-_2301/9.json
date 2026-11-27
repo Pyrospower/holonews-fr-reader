@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1701_-_2301",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0647,
         "width": 0.4119,
         "height": 0.0239
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.279,
+        "width": 0.166,
+        "height": 0.026
       }
     },
     {
@@ -27,16 +37,6 @@
     },
     {
       "type": "paragraph",
-      "text": "Kanata a posté un tweet avec des photos sur lesquelles elle prenait la pose, pour que les fans puissent faire des montages. Après avoir vu quelques montages amusants d'elle-même, elle a fait un tweet disant qu'il y avait d'autres façons mignonnes de l'utiliser. Cela n'a fait qu'encourager les fans à faire d'autres montages absurdes.",
-      "bbox": {
-        "x": 0.0525,
-        "y": 0.6914,
-        "width": 0.42,
-        "height": 0.1176
-      }
-    },
-    {
-      "type": "paragraph",
       "text": "Selon la plateforme sur laquelle vous commandez votre copie physique, il viendra avec des bonus différents et uniques :",
       "bbox": {
         "x": 0.5256,
@@ -47,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "• Sur Animate, elle sera livrée avec un intercalaire transparent illustré par Hanamori-sensel.",
+      "text": "• Sur Animate, elle sera livrée avec un intercalaire transparent illustré par Hanamori-sensei.",
       "bbox": {
         "x": 0.545,
         "y": 0.1819,
@@ -87,12 +87,42 @@
     },
     {
       "type": "paragraph",
-      "text": "En précommandant une édition limitée, vous aurez droit a une tapisserie B2 qui est disponible partout, a une exception pres. Vous pouvez également acheter la tapisserie sur Tora no Ana. Enfin, vous pouvez obtenir une copie numérique sur Amazon JP !",
+      "text": "En précommandant une édition limitée, vous aurez droit à une tapisserie B2 qui est disponible partout, à une exception près. Vous pouvez également acheter la tapisserie sur Tora no Ana. Enfin, vous pouvez obtenir une copie numérique sur Amazon JP !",
       "bbox": {
         "x": 0.525,
         "y": 0.3555,
         "width": 0.425,
         "height": 0.0881
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOFORCE",
+      "bbox": {
+        "x": 0.099,
+        "y": 0.477,
+        "width": 0.351,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.164,
+        "y": 0.653,
+        "width": 0.162,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata a posté un tweet avec des photos sur lesquelles elle prenait la pose, pour que les fans puissent faire des montages. Après avoir vu quelques montages amusants d'elle-même, elle a fait un tweet disant qu'il y avait d'autres façons mignonnes de l'utiliser. Cela n'a fait qu'encourager les fans à faire d'autres montages absurdes.",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.6914,
+        "width": 0.42,
+        "height": 0.1176
       }
     },
     {
@@ -116,8 +146,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "BKTR",
+      "bbox": {
+        "x": 0.526,
+        "y": 0.849,
+        "width": 0.127,
+        "height": 0.022
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Les membres du groupe Bakatare voulaient faire de I'engrais sur ARK. Elles ont alors fait déféquer leur Phomia appelé « Unchi », tellement déféqué que le fumier volait.",
+      "text": "Les membres du groupe Bakatare voulaient faire de l’engrais sur ARK. Elles ont alors fait déféquer leur Phomia appelé « Unchi », tellement déféqué que le fumier volait.",
       "bbox": {
         "x": 0.5244,
         "y": 0.8889,

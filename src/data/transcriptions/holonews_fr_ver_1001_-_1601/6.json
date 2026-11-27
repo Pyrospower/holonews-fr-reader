@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_1001_-_1601",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 1",
+      "bbox": {
+        "x": 0.191,
+        "y": 0.061,
+        "width": 0.148,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.233,
+        "width": 0.159,
+        "height": 0.023
+      }
+    },
     {
       "type": "paragraph",
       "text": "Fubuki voulait une tortue sur ARK, donc elle a passé quatre minutes à essayer de la tuer. Elle est parvenue à ses fins, mais le corps de la tortue s'est mis à monter aux cieux et à flotter dans le ciel, là où Fubuki ne pouvait pas l'atteindre. Elle a essayé de faire une échelle pour l'atteindre, mais malheureusement, le corps de la tortue a réussi à atteindre les cieux et a disparu.",
@@ -26,8 +46,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.154,
+        "y": 0.661,
+        "width": 0.241,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Haachama est allée chez Hoshikawa Sara de Nijisanji pour cuisiner des takoyaki avec elle ! Elles n'ont pas précisé ce qu'elles mettaient dans les takoyaki, mais au moins, elles n'ont pas mis d'insectes. L'un des ingrédients était une saucisse, qui était beaucoup trop grosse et qui dépassait du takoyaki.",
+      "text": "Haachama est allée chez Hoshikawa Sara de Nijisanji pour cuisiner des takoyaki avec elle ! Elles n'ont pas précisé ce qu’elles mettaient dans les takoyaki, mais au moins, elles n'ont pas mis d'insectes. L’un des ingrédients était une saucisse, qui était beaucoup trop grosse et qui dépassait du takoyaki.",
       "bbox": {
         "x": 0.0494,
         "y": 0.7018,
@@ -46,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.233,
+        "width": 0.185,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Matsuri a trouvé Aki face contre terre lorsqu'elles jouaient à ARK ensemble, et en a donc profité pour renifler son derrière. Pour se venger, Aki s’est délestée d'une grande quantité d'excréments pendant que Matsuri la @æ: reniflait. Va) N",
+      "text": "Matsuri a trouvé Aki face contre terre lorsqu’elles jouaient à ARK ensemble, et en a donc profité pour renifler son derrière. Pour se venger, Aki s’est délestée d’une grande quantité d'excréments pendant que Matsuri la reniflait.",
       "bbox": {
         "x": 0.5231,
         "y": 0.2747,
@@ -56,8 +96,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Haachama & Marine",
+      "bbox": {
+        "x": 0.661,
+        "y": 0.54,
+        "width": 0.283,
+        "height": 0.014
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Haachama a fait sa sixieme revue de fanarts obscenes avec Marine, taquinant YouTube comme d'habitude. La collab a eu lieu dans un love hotel, et Miko a été apercue dans le tchat, criant sur Marine pour avoir poussé Haachama à la tromper.",
+      "text": "Haachama a fait sa sixième revue de fanarts obscènes avec Marine, taquinant YouTube comme d’habitude. La collab a eu lieu dans un love hotel, et Miko a été aperçue dans le tchat, criant sur Marine pour avoir poussé Haachama à la tromper.",
       "bbox": {
         "x": 0.5219,
         "y": 0.5738,
@@ -67,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Contrairement à Haachama, Marine avait toujours peur que la chaîne se fasse bannir et changeait souvent d'humeur lors du stream, passant de l'inquiétude à l'excitation, mais cela ne l'a pas empêchée d'entrer dans les détails à propos de son fétichisme de l'hypnose. Haachama a également eu l'idée géniale d'utiliser le mot « Mentos » pour désigner les tétons pendant le stream.",
+      "text": "Contrairement à Haachama, Marine avait toujours peur que la chaîne se fasse bannir et changeait souvent d'humeur lors du stream, passant de l'inquiétude à l'excitation, mais cela ne l'a pas empêchée d’entrer dans les détails à propos de son fétichisme de l’hypnose. Haachama a également eu l'idée géniale d'utiliser le mot « Mentos » pour désigner les tétons pendant le stream.",
       "bbox": {
         "x": 0.5219,
         "y": 0.7057,

@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_1001_-_1601",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "nouveau ‘ visage de",
+      "type": "heading",
+      "text": "Le nouveau visage de Pekora",
       "bbox": {
         "x": 0.07,
         "y": 0.2227,
@@ -16,8 +16,28 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "re BOTAN A INTERVIEWE YAGOO",
+      "type": "other",
+      "text": "La parade d’anniversaire de Risu",
+      "bbox": {
+        "x": 0.1194,
+        "y": 0.3264,
+        "width": 0.1338,
+        "height": 0.0391
+      }
+    },
+    {
+      "type": "other",
+      "text": "Anniversaire d’Oga",
+      "bbox": {
+        "x": 0.2319,
+        "y": 0.6914,
+        "width": 0.5606,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "other",
+      "text": "Botan a interviewe Yagoo",
       "bbox": {
         "x": 0.3669,
         "y": 0.7587,
@@ -26,8 +46,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "\"9 PERA : NOUS RECHERCHONS DES TRADUCTEURS JP, PL ET ID !",
+      "type": "other",
+      "text": "Nous recherchons des traducteurs JP, PL et ID !",
       "bbox": {
         "x": 0.0738,
         "y": 0.8724,

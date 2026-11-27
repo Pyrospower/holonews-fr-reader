@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_1701_-_2301",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "HOLOX",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.047,
+        "width": 0.208,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chloe",
+      "bbox": {
+        "x": 0.161,
+        "y": 0.22,
+        "width": 0.127,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "De retour de sa pause, Chloe a remercié en stream ses fans de l'avoir attendue. Bien gu’encore un peu triste, elle a expliqué que les nombreux messages de soutien qu'elle a reçus l'ont encouragée à revenir un peu plus tôt que prévu. Elle a également avoué qu'elle ne comptait à l'origine pas prendre de pause, car le décès de sa grand-mère était inévitable et qu'elle venait tout juste de faire ses débuts. En fin de compte, elle a jugé que cela valait mieux que si ses spectateurs apprenaient la nouvelle plus tard.",
+      "text": "De retour de sa pause, Chloe a remercié en stream ses fans de l’avoir attendue. Bien qu’encore un peu triste, elle a expliqué que les nombreux messages de soutien qu’elle a reçus l’ont encouragée à revenir un peu plus tôt que prévu. Elle a également avoué qu’elle ne comptait à l’origine pas prendre de pause, car le décès de sa grand-mère était inévitable et qu’elle venait tout juste de faire ses débuts. En fin de compte, elle a jugé que cela valait mieux que si ses spectateurs apprenaient la nouvelle plus tard.",
       "bbox": {
         "x": 0.0513,
         "y": 0.26,
@@ -17,12 +37,52 @@
     },
     {
       "type": "paragraph",
-      "text": "Son manager lui a également dit que ses fans préféreraient qu’elle reste elle-même, et qu’elle ferait mieux de leur dire et de prendre une pause. Avant son décès, la grand-mère de Chloe lui a apporté son soutien et lui a dit de ne pas s'inquiéter pour elle et de tout donner sur son projet. || faudra encore un peu de temps pour que Chloe se remette entièrement sur le plan émotionnel, ce qui signifie qu’elle pourra potentiellement reprendre des pauses à l’avenir. Néanmoins, elle souhaite montrer a sa grand-mère que beaucoup de gens la soutiennent et qu'elle est heureuse.",
+      "text": "Son manager lui a également dit que ses fans préféreraient qu’elle reste elle-même, et qu’elle ferait mieux de leur dire et de prendre une pause. Avant son décès, la grand-mère de Chloe lui a apporté son soutien et lui a dit de ne pas s’inquiéter pour elle et de tout donner sur son projet. Il faudra encore un peu de temps pour que Chloe se remette entièrement sur le plan émotionnel, ce qui signifie qu’elle pourra potentiellement reprendre des pauses à l’avenir. Néanmoins, elle souhaite montrer à sa grand-mère que beaucoup de gens la soutiennent et qu’elle est heureuse.",
       "bbox": {
         "x": 0.0513,
         "y": 0.4462,
         "width": 0.4225,
         "height": 0.1858
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+ & Lui",
+      "bbox": {
+        "x": 0.659,
+        "y": 0.22,
+        "width": 0.209,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lui s’est rendue chez La+ pour cuisiner pour elle et a été surprise de voir qu’elle avait rangé sa chambre.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2609,
+        "width": 0.3925,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chloe & Lui",
+      "bbox": {
+        "x": 0.66,
+        "y": 0.447,
+        "width": 0.25,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Chloe déménage chez Lui pour vivre avec elle, car elle ne peut plus vivre avec sa sœur. Selon Chloe, Lui a dit qu’elle ne cuisinerait pas pour elle si elle ne se lavait pas. De son côté, Lui a expliqué qu’elles ne vivaient pas ensemble pour qu’elle s’occupe de Chloe, mais qu’elles étaient indépendantes et se donnaient un coup de main au besoin.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.4865,
+        "width": 0.4206,
+        "height": 0.1406
       }
     },
     {
@@ -36,8 +96,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Mio",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.834,
+        "width": 0.086,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Mio a joué a Getting Over lten & remplaçant les éventuels jurons qu’elle pouvait prononcer par des « Nyan- ».",
+      "text": "Mio a joué à Getting Over It en remplaçant les éventuels jurons qu’elle pouvait prononcer par des « Nyan~ ».",
       "bbox": {
         "x": 0.0525,
         "y": 0.8767,
@@ -46,28 +116,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Lui s'est rendue chez La+ pour cuisiner pour elle et a été surprise de voir qu'elle avait rangé sa chambre.",
+      "type": "heading",
+      "text": "SMOK",
       "bbox": {
-        "x": 0.5231,
-        "y": 0.2609,
-        "width": 0.3925,
-        "height": 0.0473
+        "x": 0.635,
+        "y": 0.834,
+        "width": 0.137,
+        "height": 0.024
       }
     },
     {
       "type": "paragraph",
-      "text": "Chloe déménage chez Lui pour vivre avec elle, car elle ne peut plus vivre avec sa sœur. Selon Chloe, Lui a dit qu’elle ne cuisinerait pas pour elle si elle ne se lavait pas. De son côté, Lui a expliqué qu'elles ne vivaient pas ensemble pour qu'elle s'occupe de Chloe, mais qu'elles étaient indépendantes et se donnaient un coup de main au besoin.",
-      "bbox": {
-        "x": 0.5231,
-        "y": 0.4865,
-        "width": 0.4206,
-        "height": 0.1406
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Au début de la collaboration SMOK sur Splatoon 2, Subaru a imité l'intro des streams de Mio en lui donnant l’énergie d'un gorille. Elle a été suivie des autres filles, et finalement de Mio elle-même.",
+      "text": "Au début de la collaboration SMOK sur Splatoon 2, Subaru a imité l’intro des streams de Mio en lui donnant l’énergie d’un gorille. Elle a été suivie des autres filles, et finalement de Mio elle-même.",
       "bbox": {
         "x": 0.5225,
         "y": 0.8763,

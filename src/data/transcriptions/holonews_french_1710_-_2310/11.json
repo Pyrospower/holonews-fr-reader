@@ -3,11 +3,21 @@
   "issueId": "holonews_french_1710_-_2310",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.1412,
+        "y": 0.1515,
+        "width": 0.1025,
+        "height": 0.0239
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le dimanche 23 octobre, Astel a enfin annoncé et sorti I'un de ses grands projets, un jeu Murder Mystery ! Après avoir mangé la tarte aux fruits préparée par Phruity, un de ses amis animaux, Astel a retrouvé la mémoire. Pour partager son passé avant ses débuts, Astel 2 sorti un jeu de meurtre et mystère intitulé [p=] ICES. MBICEDEBE HAN DITIS-1 (Recueillis par les étoiles, les pensées de l'équipage -Souvenirs du début-). Ce jeu nous présente les membres d'équipage du vaisseau d'Astel, 8 personnages originaux conçus par Roduki-sensei (@rodurodu_13). L'un de ces personnages jouera le rôle de maître de jeu, tandis que les sept autres seront des joueurs. En conséquence, vous aurez besoin d'un maître de jeu et de 7 joueurs pour jouer à ce jeu, ni plus ni moins.",
+      "text": "Le dimanche 23 octobre, Astel a enfin annoncé et sorti l'un de ses grands projets, un jeu Murder Mystery ! Après avoir mangé la tarte aux fruits préparée par Phruity, un de ses amis animaux, Astel a retrouvé la mémoire. Pour partager son passé avant ses débuts, Astel a sorti un jeu de meurtre et mystère intitulé 「星に集う、船員たちの思惑 -始まりの記憶-」 (Recueillis par les étoiles, les pensées de l'équipage -Souvenirs du début-). Ce jeu nous présente les membres d'équipage du vaisseau d'Astel, 8 personnages originaux conçus par Roduki-sensei (@rodurodu_13). L'un de ces personnages jouera le rôle de maître de jeu, tandis que les sept autres seront des joueurs. En conséquence, vous aurez besoin d'un maître de jeu et de 7 joueurs pour jouer à ce jeu, ni plus ni moins.",
       "bbox": {
         "x": 0.0425,
         "y": 0.1975,
@@ -26,8 +36,38 @@
       }
     },
     {
+      "type": "other",
+      "text": "URATTY · ARECOS · JUKE · HARUTO · ASTEL · STRIDON · KNOLL · PHRUITY · MERCK",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.6988,
+        "width": 0.3931,
+        "height": 0.0486
+      }
+    },
+    {
+      "type": "other",
+      "text": "New Friends\nFrom Mars\nArecos\nLike\nhobby\nbattle\nColor code\n#741C1D\n@ina_ba_ya",
+      "bbox": {
+        "x": 0.6687,
+        "y": 0.0378,
+        "width": 0.2737,
+        "height": 0.1532
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.6088,
+        "y": 0.2023,
+        "width": 0.1025,
+        "height": 0.0247
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après avoir lancé son nouveau jeu de Murder Mystery, Astel a également présenté son nouvel ami à fourrure, Arecos venu de Mars. Arceos a rencontré Apolléon sur Mars, et l'a suivi jusqu'à la maison d'Astel qu'il semble connaître comme un vieil ami. Arecos a été dessiné par Yoshiya-sensei (@ina_ba_ya) et adore les fraises. Immédiatement apres, Astel a également dévoilé la silhouette d'un autre de ses amis animaux, Juke de Jupiter. Suivez = @STAR_Animals pour plus d'informations sur les amis à fourrure d'Astel.",
+      "text": "Après avoir lancé son nouveau jeu de Murder Mystery, Astel a également présenté son nouvel ami à fourrure, Arecos venu de Mars. Arceos a rencontré Apolléon sur Mars, et l’a suivi jusqu'à la maison d'Astel qu’il semble connaître comme un vieil ami. Arecos a été dessiné par Yoshiya-sensei (@ina_ba_ya) et adore les fraises. Immédiatement après, Astel a également dévoilé la silhouette d'un autre de ses amis animaux, Juke de Jupiter. Suivez @STAR_AnimaLs_ pour plus d'informations sur les amis à fourrure d'Astel.",
       "bbox": {
         "x": 0.5113,
         "y": 0.253,
@@ -57,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "II a également ajouté qu'il streamera le jour de l'événement et de ne pas s'inquiéter de sa condition physique, car il est très énergique.",
+      "text": "Il a également ajouté qu'il streamera le jour de l'événement et de ne pas s'inquiéter de sa condition physique, car il est très énergique.",
       "bbox": {
         "x": 0.5125,
         "y": 0.589,

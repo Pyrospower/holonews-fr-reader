@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_0301_-_0901",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Tokoyami Towa",
+      "bbox": {
+        "x": 0.0277,
+        "y": 0.3921,
+        "width": 0.5,
+        "height": 0.0951
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Depuis fin décembre, les filles d'holoForce se Sont produites da concerts en 3D pour fêter le deuxième anniversaire de leurs débuts. Le 4 janvier (hed japonaise), c'était au tour de Towa de monter sur scène pour son concert intitulé « Scream ». Le stream s'est ouvert sur une interprétation de « Palette » accompagnée de visuels monochromes, qui ont laissé place à des couleurs éclatantes au moment du refrain.",
+      "text": "Depuis fin décembre, les filles d'holoForce se sont produites dans concerts en 3D pour fêter le deuxième anniversaire de leurs débuts. Le 4 janvier (heure japonaise), c'était au tour de Towa de monter sur scène pour son concert intitulé « Scream ». Le stream s'est ouvert sur une interprétation de « Palette » accompagnée de visuels monochromes, qui ont laissé place à des couleurs éclatantes au moment du refrain.",
       "bbox": {
         "x": 0.0394,
         "y": 0.5235,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Durant le spectacle, elle à interprété quatre chansons du IDOL PROJECT d'hololive accompagnée de ses camarades de génération. Pendant la chorégraphie de « Candy-Go-Round », ses invitées (Pekora, Okayu et Mio) ont réalisé un pas de danse 7 et pour le moins ‘excentrique, plongeant Towa dans la confusion.",
+      "text": "Durant le spectacle, elle a interprété quatre chansons du IDOL PROJECT d'hololive accompagnée de ses camarades de génération. Pendant la chorégraphie de « Candy-Go-Round », ses invitées (Pekora, Okayu et Mio) ont réalisé un pas de danse inattendu et pour le moins excentrique, plongeant Towa dans la confusion.",
       "bbox": {
         "x": 0.04,
         "y": 0.6208,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Vers la fin du stream, tout en riant à pleins poumons, Towa a révélé son MSN produits dérivés commémoratifs :",
+      "text": "Vers la fin du stream, tout en riant à pleins poumons, Towa a révélé son ensemble de produits dérivés commémoratifs :",
       "bbox": {
         "x": 0.0394,
         "y": 0.669,
@@ -37,12 +47,22 @@
     },
     {
       "type": "paragraph",
-      "text": "• Un bracelet en caoutchouc au hasard parmi quatre variantes, présentant un i de Gotou\n• Un sac banane sur le thème de Towa\n• Un triple bracelet sur le thème des Kenzoku, d'environ 6,4 cm de circonférence Un masque Bibi Le bonus pour l'achat de l'ensemble complet est une carte postale estampillée de l'autographe de Towa et regroupant tous les dessins réalisés par Gotou pour l'événement.",
+      "text": "• Un bracelet en caoutchouc au hasard parmi quatre variantes, présentant un dessin de Gotou\n• Un sac banane sur le thème de Towa\n• Un triple bracelet sur le thème des Kenzoku, d'environ 6,4 cm de circonférence\n• Un masque Bibi",
       "bbox": {
         "x": 0.04,
         "y": 0.7207,
         "width": 0.8867,
         "height": 0.125
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le bonus pour l’achat de l’ensemble complet est une carte postale estampillée de l’autographe de Towa et regroupant tous les dessins réalisés par Gotou pour l’événement.",
+      "bbox": {
+        "x": 0.0385,
+        "y": 0.8141,
+        "width": 0.8923,
+        "height": 0.031
       }
     },
     {

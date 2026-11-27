@@ -3,8 +3,69 @@
   "issueId": "holonews_french_1710_-_2310",
   "page": 1,
   "lang": "fr",
-  "status": "unavailable",
-  "blocks": [],
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Nene a fêté son anniversaire",
+      "bbox": {
+        "x": 0.0215,
+        "y": 0.1934,
+        "width": 0.3708,
+        "height": 0.1506
+      }
+    },
+    {
+      "type": "other",
+      "text": "Aruran redébute avec un nouveau modèle",
+      "bbox": {
+        "x": 0.02,
+        "y": 0.3686,
+        "width": 0.3246,
+        "height": 0.1325
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS ont tenu un concert 3D",
+      "bbox": {
+        "x": 0.72,
+        "y": 0.3825,
+        "width": 0.2646,
+        "height": 0.1303
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magni a fêté son anniversaire",
+      "bbox": {
+        "x": 0.7231,
+        "y": 0.5427,
+        "width": 0.2615,
+        "height": 0.1325
+      }
+    },
+    {
+      "type": "other",
+      "text": "FR",
+      "bbox": {
+        "x": 0.86,
+        "y": 0.8323,
+        "width": 0.1062,
+        "height": 0.0459
+      }
+    },
+    {
+      "type": "other",
+      "text": "Vol 6",
+      "bbox": {
+        "x": 0.5185,
+        "y": 0.8761,
+        "width": 0.4554,
+        "height": 0.1026
+      }
+    }
+  ],
   "source": {
     "engine": "tesseract.js",
     "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",

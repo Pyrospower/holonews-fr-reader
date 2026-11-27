@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_2208_-_2808",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "nements à venir",
+      "text": "Événements à venir",
       "bbox": {
         "x": 0.1106,
         "y": 0.0299,
@@ -17,22 +17,12 @@
     },
     {
       "type": "paragraph",
-      "text": "• 30 août : Anniversaire de Kaela a ;\n• 31 août : hololive Summer 2022 Climax Story Live\n• 3 septembre : 4e anniversaire des débuts d'Ayame\n• 4 septembre : 4e anniversaire des débuts de Choco ; ;\n• 6 septembre : Anniversaire de Kurokami\n• 7 septembre : 5e anniversaire des débuts de Sora",
+      "text": "• 30 août : Anniversaire de Kaela\n• 31 août : hololive Summer 2022 Climax Story Live\n• 3 septembre : 4e anniversaire des débuts d'Ayame\n• 4 septembre : 4e anniversaire des débuts de Choco\n• 6 septembre : Anniversaire de Kurokami\n• 7 septembre : 5e anniversaire des débuts de Sora",
       "bbox": {
         "x": 0.075,
         "y": 0.1085,
         "width": 0.395,
         "height": 0.2535
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "vd e Crédits Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive,",
-      "bbox": {
-        "x": 0.0569,
-        "y": 0.6654,
-        "width": 0.54,
-        "height": 0.1072
       }
     },
     {
@@ -46,38 +36,58 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Magni 1408 holoSTARS ch 7 200k",
+      "type": "other",
+      "text": "Ayame 1,3M\nAxel 130k\nKaela 450k\nTemma 125k",
       "bbox": {
-        "x": 0.7644,
-        "y": 0.1311,
-        "width": 0.1894,
-        "height": 0.0933
+        "x": 0.625,
+        "y": 0.1306,
+        "width": 0.0769,
+        "height": 0.2235
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magni 140k\nholoSTARS ch 200k\nAltare 140k",
+      "bbox": {
+        "x": 0.83,
+        "y": 0.1306,
+        "width": 0.1263,
+        "height": 0.1563
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.6667,
+        "width": 0.2244,
+        "height": 0.036
       }
     },
     {
       "type": "paragraph",
-      "text": "Mi n'hésitez pas a rejoindre notre subreddit AL ou notre serveur Discord pour participeg",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive,",
       "bbox": {
-        "x": 0.0575,
-        "y": 0.7769,
-        "width": 0.6063,
-        "height": 0.0499
+        "x": 0.0556,
+        "y": 0.7131,
+        "width": 0.5437,
+        "height": 0.0564
       }
     },
     {
       "type": "paragraph",
-      "text": "et donner un coup de main ala création",
+      "text": "n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
-        "x": 0.0575,
-        "y": 0.822,
-        "width": 0.5387,
-        "height": 0.0334
+        "x": 0.0556,
+        "y": 0.7843,
+        "width": 0.5525,
+        "height": 0.076
       }
     },
     {
       "type": "paragraph",
-      "text": "Merci d'avoir lu et à la semaine prochaine !",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
       "bbox": {
         "x": 0.0575,
         "y": 0.8737,

@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2802_-_0603",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0955,
         "width": 0.3481,
         "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.154,
+        "y": 0.267,
+        "width": 0.163,
+        "height": 0.024
       }
     },
     {
@@ -26,6 +36,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Luna",
+      "bbox": {
+        "x": 0.154,
+        "y": 0.562,
+        "width": 0.112,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Luna a essayé Vampire Survivors la semaine dernière, et elle s’est révélée assez douée. Elle était tellement à ses aises qu'elle s'est même autoproclamé « Dieu ». Malheureusement pour ce « Dieu », la quantité d'objets sur l'écran l'empêchait de voir ses ennemis et ses FPS ont fini par chuter à cause de la quantité d'objets sur son écran. Dieu n'est pas à l'abri de tout, semble-t-il.",
       "bbox": {
@@ -36,6 +56,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Towa",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.267,
+        "width": 0.119,
+        "height": 0.025
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Towa a déclaré qu'elle serait désormais graveleuse lors d'un stream de discussion. Pour prouver ses dires, elle a zoomé sur sa poitrine et a essayé de la faire rebondir. Towa affirme qu'elle peut même rivaliser avec Choco-sensei maintenant.",
       "bbox": {
@@ -43,6 +73,16 @@
         "y": 0.3095,
         "width": 0.415,
         "height": 0.0898
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.758,
+        "y": 0.562,
+        "width": 0.142,
+        "height": 0.025
       }
     },
     {

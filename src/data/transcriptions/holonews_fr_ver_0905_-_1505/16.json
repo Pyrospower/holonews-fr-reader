@@ -3,30 +3,40 @@
   "issueId": "holonews_fr_ver_0905_-_1505",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "other",
-      "text": "Kanata 1,2M",
+      "type": "heading",
+      "text": "Crédits",
       "bbox": {
-        "x": 0.6069,
-        "y": 0.3199,
-        "width": 0.0956,
-        "height": 0.0104
+        "x": 0.428,
+        "y": 0.023,
+        "width": 0.145,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.663,
+        "y": 0.192,
+        "width": 0.147,
+        "height": 0.026
       }
     },
     {
       "type": "other",
-      "text": "& Koyori 600k &) Oga 160k",
+      "text": "Kobo 500k | Kaela 250k\nKanata 1,2M | Koyori 600k\nLuna 800k | Oga 160k",
       "bbox": {
-        "x": 0.7538,
-        "y": 0.3003,
-        "width": 0.1731,
-        "height": 0.1024
+        "x": 0.603,
+        "y": 0.263,
+        "width": 0.326,
+        "height": 0.122
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Evénements à venir",
       "bbox": {
         "x": 0.5375,
@@ -37,27 +47,17 @@
     },
     {
       "type": "paragraph",
-      "text": "• 18 mai : Anniversaire de Chloe\n• 20 mai : Anniversaire d'Ina",
+      "text": "• 18 mai : Anniversaire de Chloe\n• 20 mai : Anniversaire d'Ina\n• 23 mai : Anniversaire de Roboco",
       "bbox": {
         "x": 0.5694,
         "y": 0.533,
-        "width": 0.3231,
-        "height": 0.0438
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 23 mai : Anniversaire de Roboco",
-      "bbox": {
-        "x": 0.5694,
-        "y": 0.5972,
         "width": 0.3419,
-        "height": 0.0117
+        "height": 0.0759
       }
     },
     {
       "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte a hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
         "x": 0.0569,
         "y": 0.6949,

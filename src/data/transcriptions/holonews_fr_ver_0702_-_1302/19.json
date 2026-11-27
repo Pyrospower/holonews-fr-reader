@@ -3,18 +3,8 @@
   "issueId": "holonews_fr_ver_0702_-_1302",
   "page": 19,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
-    {
-      "type": "paragraph",
-      "text": "REPRISE",
-      "bbox": {
-        "x": 0.8475,
-        "y": 0.0872,
-        "width": 0.0956,
-        "height": 0.01
-      }
-    },
     {
       "type": "heading",
       "text": "STATS ET NOUVELLES SORTIES",
@@ -26,77 +16,127 @@
       }
     },
     {
-      "type": "heading",
-      "text": "ORIGINAL",
+      "type": "other",
+      "text": "REPRISE\nORIGINAL\nNOUVEAU",
       "bbox": {
-        "x": 0.8431,
-        "y": 0.1037,
-        "width": 0.1038,
-        "height": 0.01
+        "x": 0.841,
+        "y": 0.087,
+        "width": 0.111,
+        "height": 0.046
       }
     },
     {
       "type": "paragraph",
-      "text": "NOUVEAU",
+      "text": "02/07\n[Marine] Unison: 6M\n[Calliope/Gura] Q: 2M\n[Suisei] Stellar Stellar: 6M\n[NePoLaBo] Blessing: 3M\n[Suisei] Lower One's Eyes: 1M\n[Ayame/Fubuki/Mio] Onikemodance: 750K\n[Polka/Miko/Aqua/Flare/Watame/Towa] Adabana Necromancy Live: 100K",
       "bbox": {
-        "x": 0.8413,
-        "y": 0.1202,
-        "width": 0.1081,
-        "height": 0.01
+        "x": 0.052,
+        "y": 0.165,
+        "width": 0.437,
+        "height": 0.14
       }
     },
     {
       "type": "paragraph",
-      "text": "[Marine] Unison: 6M _ [La+] God-ish: 8M [Calliope/Gura] Q: 2M [Calliope] Roki: 10M [Suisei] Stellar Stellar: 6M [Polka] Cinema: 100K [NePoLaBo] Blessing: 3M [Astel/Roberu] Hashire: 50K [Suisei] Lower One's Eyes: IM [Matsuri] ChiChinPuiPui: 750K [Ayame/Fubuki/Mio] Onikemodance: 750K [Polka/Miko/Aqua/Flare/Watame/Towa] _ [Lui] Phony: 250K 02/10 Adabana Necromancy Live: 100K [Shion] God-ish: 2M [Kronii] Daydream: 250K 02/09 [Calliope/Gura] Q:3M [AZKIi] Hikari No Mukou E: 250K [MiComet] Animal: 2M [Pekora/Miko] PekoMiko Daisensou: 8M [Kiara] Goodbye Sengen: 5M _ [Kiara/Ina] I~ya I~ya I~ya: 2M [Suisei] Shoujo Rei: 4M 02/11 [Okayu] flos: 10M _ [Chloe] Animal: 750K [Botan] Animal: 750K [Lamy/Botan] Lion: 1M [OKFAMS] Monster: 2M 02/12 [Watame] Phony: 750K [Marine] Music Hour: 1M [Aqua] Aqua Iro Palette: 5M _ [Aqua/Kanata] God-ish: 500K [Moona] Ai No Chiisana Uta: 3M 02/13 [Rushia] Iris: 1M [Astel] Hokori Takaaki Idol (Cover): 25K [Calliope/Gura] QO: 4M [Sora/Roboco/Miko/AZKi/Mel/Subaru] [Choco] ChocoLove (Live): 100K Blessing: 1M [Roboco] Country Roads Piano: 50K [Choco/Subaru/Luna] Kami No Manimani: 250K [AZKi] Heart Thermography: 50K",
+      "text": "02/08\n[La+] God-ish: 8M\n[Calliope] Roki: 10M\n[Polka] Cinema: 100K\n[Astel/Roberu] Hashire: 50K\n[Matsuri] ChiChinPuiPui: 750K",
       "bbox": {
-        "x": 0.0538,
-        "y": 0.1688,
-        "width": 0.8925,
-        "height": 0.4362
+        "x": 0.512,
+        "y": 0.165,
+        "width": 0.435,
+        "height": 0.087
       }
     },
     {
       "type": "paragraph",
-      "text": "Astel",
+      "text": "02/09\n[Calliope/Gura] Q: 3M\n[MiComet] Animal: 2M\n[Kiara] Goodbye Sengen: 5M",
       "bbox": {
-        "x": 0.0513,
-        "y": 0.7023,
-        "width": 0.0413,
-        "height": 0.0161
+        "x": 0.052,
+        "y": 0.326,
+        "width": 0.437,
+        "height": 0.05
       }
     },
     {
       "type": "paragraph",
-      "text": "Kronii",
+      "text": "02/10\n[Lui] Phony: 250K\n[Shion] God-ish: 2M\n[Kronii] Daydream: 250K\n[AZKi] Hikari No Mukou E: 250K\n[Pekora/Miko] PekoMiko Daisensou: 8M\n[Kiara/Ina] I~ya I~ya I~ya: 2M\n[Suisei] Shoujo Rei: 4M\n[Chloe] Animal: 750K",
       "bbox": {
-        "x": 0.3594,
-        "y": 0.7023,
-        "width": 0.0456,
-        "height": 0.0161
+        "x": 0.512,
+        "y": 0.269,
+        "width": 0.435,
+        "height": 0.143
       }
     },
     {
       "type": "paragraph",
-      "text": "Aqua & Kanata",
+      "text": "02/11\n[Okayu] flos: 10M\n[Botan] Animal: 750K\n[Lamy/Botan] Lion: 1M\n[Watame] Phony: 750K\n[Aqua] Aqua Iro Palette: 5M",
       "bbox": {
-        "x": 0.6644,
-        "y": 0.704,
-        "width": 0.1213,
-        "height": 0.0126
+        "x": 0.052,
+        "y": 0.395,
+        "width": 0.437,
+        "height": 0.087
       }
     },
     {
-      "type": "heading",
-      "text": "DAYDREAM GOD-ISH",
+      "type": "paragraph",
+      "text": "02/12\n[OKFAMS] Monster: 2M\n[Marine] Music Hour: 1M\n[Aqua/Kanata] God-ish: 500K\n[Moona] Ai No Chiisana Uta: 3M\n[Astel] Hokori Takaaki Idol (Cover): 25K\n[Sora/Roboco/Miko/AZKi/Mel/Subaru] Blessing: 1M",
       "bbox": {
-        "x": 0.3594,
-        "y": 0.7201,
-        "width": 0.4956,
-        "height": 0.0182
+        "x": 0.512,
+        "y": 0.43,
+        "width": 0.435,
+        "height": 0.122
       }
     },
     {
-      "type": "heading",
+      "type": "paragraph",
+      "text": "02/13\n[Rushia] Iris: 1M\n[Calliope/Gura] Q: 4M\n[Choco] ChocoLove (Live): 100K\n[Roboco] Country Roads Piano: 50K\n[Choco/Subaru/Luna] Kami No Manimani: 250K\n[AZKi] Heart Thermography: 50K",
+      "bbox": {
+        "x": 0.052,
+        "y": 0.5,
+        "width": 0.437,
+        "height": 0.107
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nAstel\nHOKORI\nTAKAKI IDOL",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.634,
+        "width": 0.171,
+        "height": 0.109
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nKronii\nDAYDREAM",
+      "bbox": {
+        "x": 0.347,
+        "y": 0.634,
+        "width": 0.271,
+        "height": 0.104
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nAqua & Kanata\nGOD–ISH",
+      "bbox": {
+        "x": 0.654,
+        "y": 0.634,
+        "width": 0.205,
+        "height": 0.104
+      }
+    },
+    {
+      "type": "other",
+      "text": "NOUVEL ALBUM",
+      "bbox": {
+        "x": 0.042,
+        "y": 0.761,
+        "width": 0.069,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "other",
       "text": "hololive music studio",
       "bbox": {
         "x": 0.2963,
@@ -106,7 +146,7 @@
       }
     },
     {
-      "type": "heading",
+      "type": "other",
       "text": "DAYBREAK",
       "bbox": {
         "x": 0.2963,

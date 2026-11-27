@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_2006_-_2606",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 3",
+      "bbox": {
+        "x": 0.205,
+        "y": 0.034,
+        "width": 0.12,
+        "height": 0.026
+      }
+    },
     {
       "type": "heading",
       "text": "Pekora",
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pekora s’est battu et a gagné contre le joueur pro de Smash Bros. Nagare lors du dernier match de son stream d'endurance sur Smash. La criminelle de guerre a mis en place la condition qu'elle mettrait fin au stream seulement si elle a réussi à obtenir trois victoires. Nagare a plus tard mis en ligne une vidéo formelle de ses excuses où il fait un dogeza en portant une tenue costard pour avoir perdu contre elle et pour avoir également empêché les autres de pouvoir jouer contre.",
+      "text": "Pekora s’est battu et a gagné contre le joueur pro de Smash Bros. Nagare lors du dernier match de son stream d’endurance sur Smash. La criminelle de guerre a mis en place la condition qu’elle mettrait fin au stream seulement si elle a réussi à obtenir trois victoires. Nagare a plus tard mis en ligne une vidéo formelle de ses excuses où il fait un dogeza en portant une tenue costard pour avoir perdu contre elle et pour avoir également empêché les autres de pouvoir jouer contre.",
       "bbox": {
         "x": 0.0719,
         "y": 0.4831,
@@ -56,6 +66,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.809,
+        "width": 0.14,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Watame a publié une édition spéciale de Tsunomaki News afin de faire de la pub pour son Tsunomaki Shop. Ses produits dérivés d’anniversaires seront en vente sur le site officiel. Pour une durée limitée, les produits suivants sont disponibles : des chaussons Watame, une écharpe Watame, et un tapis de bureau Watame ! Des cartes postales écrites à la main ainsi qu’un enregistrement audio spécial anniversaire sont également inclus !",
       "bbox": {
@@ -66,8 +86,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gen 5",
+      "bbox": {
+        "x": 0.673,
+        "y": 0.034,
+        "width": 0.12,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.189,
+        "width": 0.1,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Bien qu'elle ne se sente pas très bien, Shishiron a décidé de stream à propos de son tout dernier PC. Elle a eu un coup de main de la part d’AURYN, la même entreprise qui a collaboré avec Marine pour son PC. Elle est partie dans les détails des pièces en expliquant les raisons derrière ses choix, du boîtier Define 7 de Fractal Design à la carte graphique GeForce RTX 3090 Ti de ZOTAC GAMING. Elle a même pris des nouveaux périphériques pour aller avec, pour le clavier c’était un REALFORCE et pour la souris, une Outset. Les tests de son nouveau PC sur Cinebench ont eu un score impressionnant de 26553 !",
+      "text": "Bien qu’elle ne se sente pas très bien, Shishiron a décidé de stream à propos de son tout dernier PC. Elle a eu un coup de main de la part d’AURYN, la même entreprise qui a collaboré avec Marine pour son PC. Elle est partie dans les détails des pièces en expliquant les raisons derrière ses choix, du boîtier Define 7 de Fractal Design à la carte graphique GeForce RTX 3090 Ti de ZOTAC GAMING. Elle a même pris des nouveaux périphériques pour aller avec, pour le clavier c’était un REALFORCE et pour la souris, une Outset. Les tests de son nouveau PC sur Cinebench ont eu un score impressionnant de 26553 !",
       "bbox": {
         "x": 0.5363,
         "y": 0.2283,
@@ -97,7 +137,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après avoir terminé les remakes de Resident Evil 2 & 3, Koyori est parti au Manoir de Spencer pour en apprendre plus sur les débuts de la saga Resident Evil. Koyori a incarné Jill, et a essayé de découvrir la vérité sur la Bravo Team qui a disparu ainsi que sur l’un des centres de recherche d'armes biologiques d'Umbrella Corp.",
+      "text": "Après avoir terminé les remakes de Resident Evil 2 & 3, Koyori est parti au Manoir de Spencer pour en apprendre plus sur les débuts de la saga Resident Evil. Koyori a incarné Jill, et a essayé de découvrir la vérité sur la Bravo Team qui a disparu ainsi que sur l’un des centres de recherche d’armes biologiques d’Umbrella Corp.",
       "bbox": {
         "x": 0.5356,
         "y": 0.5516,
@@ -106,8 +146,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Iroha",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.788,
+        "width": 0.09,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Une semaine après ses débuts en 3D, Iroha fait sa première apparition dans holo no Graffiti, faisant d'elle la première membre d'holoX à y être. D’après un commentaire de la chaîne officielle, Chloe serait la prochaine ! En attendant, regardez l'épisode de cette semaine pour voir Iroha à la recherche d’un adversaire digne de ce battre avec elle.",
+      "text": "Une semaine après ses débuts en 3D, Iroha fait sa première apparition dans holo no Graffiti, faisant d’elle la première membre d’holoX à y être. D’après un commentaire de la chaîne officielle, Chloe serait la prochaine ! En attendant, regardez l’épisode de cette semaine pour voir Iroha à la recherche d’un adversaire digne de ce battre avec elle.",
       "bbox": {
         "x": 0.5356,
         "y": 0.8299,

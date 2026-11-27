@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_2410_-_3010",
   "page": 19,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,126 +17,76 @@
     },
     {
       "type": "paragraph",
-      "text": "[La+] Queen: 250K",
+      "text": "10/24\n[La+] Queen: 250K\n[Rio] CH4NGE: 100K\n[Subaru] Pleiades: 250K\n[Fuma/Uyu/Gamma/Rio] Brother Beat: 75K\n[Sora/Suzuna Subaru/Kosaka] Ready Steady: 100K\n[Bae] Strange: 100K\n[Kanata] Bug: 250K",
       "bbox": {
-        "x": 0.3406,
-        "y": 0.0777,
-        "width": 0.1506,
-        "height": 0.0117
+        "x": 0.021,
+        "y": 0.073,
+        "width": 0.474,
+        "height": 0.115
       }
     },
     {
       "type": "paragraph",
-      "text": "[Rio] CHANGE: 100K",
+      "text": "10/25\n[Suisei] Kakero: 5M\n[Shien] BEGINNING: 25K\n[Nene] Ring-A-Linger: 100K\n[Nene/Mel] Inishie Romantic: 250K\n[Astel] Sen No Yoru Wo Koete (Cover): 10K\n[Kiara] Fever Night: 750K\n[Rikka] Overdose: 100K",
       "bbox": {
-        "x": 0.3281,
-        "y": 0.0938,
-        "width": 0.1631,
-        "height": 0.0122
+        "x": 0.021,
+        "y": 0.199,
+        "width": 0.474,
+        "height": 0.112
       }
     },
     {
       "type": "paragraph",
-      "text": "[Subaru] Pleiades: 250K",
+      "text": "10/26\n[Miko] Darling Dance: 2M\n[Kanata/La+] Lower: 750K\n[Aqua] Internet Overdose: 1M\n[Shion/Aqua] Nee Nee Ne: 3M\n[Okayu] adieu, salauds: 500K\n[Fubuki] CREATION: 250K",
       "bbox": {
-        "x": 0.2956,
-        "y": 0.1102,
-        "width": 0.1956,
-        "height": 0.0122
+        "x": 0.021,
+        "y": 0.326,
+        "width": 0.474,
+        "height": 0.1
       }
     },
     {
       "type": "paragraph",
-      "text": "[Fuma/Uyu/Gamma/Rio] Brother Beat: 75K [Sora/Suzuna Subaru/Kosaka] Ready Steady: 100K [Bae] Strange: 100K",
+      "text": "10/27\n[Shien] King: 1M\n[Okayu] Cinderella (Remix): 500K\n[Sora] Yumezora Fanfare: 25K",
       "bbox": {
-        "x": 0.0731,
-        "y": 0.1267,
-        "width": 0.4181,
-        "height": 0.046
+        "x": 0.021,
+        "y": 0.436,
+        "width": 0.474,
+        "height": 0.048
       }
     },
     {
       "type": "paragraph",
-      "text": "[Kanata] Bug: 250K",
+      "text": "10/28\n[Kanata] Additional Memory: 750K",
       "bbox": {
-        "x": 0.3331,
-        "y": 0.1766,
-        "width": 0.1581,
-        "height": 0.0126
+        "x": 0.508,
+        "y": 0.073,
+        "width": 0.47,
+        "height": 0.021
       }
     },
     {
       "type": "paragraph",
-      "text": "[Suisei] Kakero: 5M",
+      "text": "10/29\n[Risu] Mira (Cover): 75K\n[Aruran/Rikka] DAYS: 50K\n[La+] Carnivorous Plant: 750K\n[Rikka] Love Letter (Cover): 75K\n[Shion] Reincarnation Apple (Cover): 100K\n[Axel/Calliope/Ina/Ollie/Anya/Reine/Kronii/Altare/Vesper] Bad End Night (Cover): 100K\n[Miyabi] Kaika Sengen: 75K\n[Sora] Sora No Toki: 75K",
       "bbox": {
-        "x": 0.3363,
-        "y": 0.2036,
-        "width": 0.1556,
-        "height": 0.0122
+        "x": 0.508,
+        "y": 0.106,
+        "width": 0.47,
+        "height": 0.148
       }
     },
     {
       "type": "paragraph",
-      "text": "[Shien] BEGINNING: 25K",
+      "text": "10/30\n[AZKi] equal: 25K\n[AZKi] Heartbeat: 100K\n[Ollie] Zombies (Cover): 50K\n[Miyabi/Temma] Suirenka: 50K\n[Mio] Yasashii Suisei (Cover): 75K\n[Watame] HOLLOW HUNGER: 750K\n[Fubuki] Kusaregedou to Chocolate: 750K\n[Reine/Kobo] Ai Kotoba IV (Cover): 100K\n[Fauna] Cute Na Kanojo (Cover): 100K\n[Okayu] Detabare Neko (Live): 75K\n[Watame] Venom (Cover): 50K\n[Kiara] Heart Challenger: 2M\n[Aqua] Aqua Iro Palette: 9M\n[Koyori] Bug: 500K",
       "bbox": {
-        "x": 0.2944,
-        "y": 0.2201,
-        "width": 0.1988,
-        "height": 0.0122
+        "x": 0.508,
+        "y": 0.265,
+        "width": 0.47,
+        "height": 0.231
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Nene] Ring-A-Linger: 100K",
-      "bbox": {
-        "x": 0.2744,
-        "y": 0.237,
-        "width": 0.2188,
-        "height": 0.0126
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Nene/Mel] Inishie Romantic: 250K [Astel] Sen No Yoru Wo Koete (Cover): 10K [Kiara] Fever Night: 750K",
-      "bbox": {
-        "x": 0.1506,
-        "y": 0.253,
-        "width": 0.3431,
-        "height": 0.046
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Rikka] Overdose: 100K",
-      "bbox": {
-        "x": 0.3044,
-        "y": 0.3025,
-        "width": 0.1894,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Miko] Darling Dance: 2M [Kanata/La+] Lower: 750K [Aqua] Internet Overdose: TM [Shion/Aqua] Nee Nee Ne: 3M [Okayu] adieu, salauds: 500K [Fubuki] CREATION: 250K",
-      "bbox": {
-        "x": 0.2463,
-        "y": 0.3303,
-        "width": 0.245,
-        "height": 0.0946
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Shien] King: 1M [Okayu] Cinderella (Remix): 500K [Sora] Yumezora Fanfare: 25K",
-      "bbox": {
-        "x": 0.2188,
-        "y": 0.4401,
-        "width": 0.2725,
-        "height": 0.046
-      }
-    },
-    {
-      "type": "paragraph",
+      "type": "other",
       "text": "REPRISE",
       "bbox": {
         "x": 0.0225,
@@ -146,47 +96,7 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Fubuki",
-      "bbox": {
-        "x": 0.0313,
-        "y": 0.605,
-        "width": 0.0438,
-        "height": 0.0074
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "DAISHIKYU DAISHUKI",
-      "bbox": {
-        "x": 0.0313,
-        "y": 0.6176,
-        "width": 0.1038,
-        "height": 0.0174
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Reine &",
-      "bbox": {
-        "x": 0.2706,
-        "y": 0.605,
-        "width": 0.0481,
-        "height": 0.0074
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Al KOTOBA IV",
-      "bbox": {
-        "x": 0.2694,
-        "y": 0.6181,
-        "width": 0.1063,
-        "height": 0.0174
-      }
-    },
-    {
-      "type": "paragraph",
+      "type": "other",
       "text": "ORIGINALE",
       "bbox": {
         "x": 0.4525,
@@ -196,157 +106,7 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Kanata] Additional Memory: 750K",
-      "bbox": {
-        "x": 0.5106,
-        "y": 0.0786,
-        "width": 0.2813,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Risu] Mira (Cover): 75K",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.1102,
-        "width": 0.1956,
-        "height": 0.0117
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Aruran/Rikka] DAYS: 50K",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.1263,
-        "width": 0.21,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[La+] Carnivorous Plant: 750K",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.1428,
-        "width": 0.2425,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Rikka] Love Letter (Cover): 75K",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.1593,
-        "width": 0.2544,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Shion] Reincarnation Apple (Cover): 100K [Axel/Calliope/Ina/Ollie/Anya/Reine/Kronii/Altare/ Vesper] Bad End Night (Cover): 100K",
-      "bbox": {
-        "x": 0.5088,
-        "y": 0.1758,
-        "width": 0.42,
-        "height": 0.046
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Miyabi] Kaika Sengen: 75K",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.2253,
-        "width": 0.2206,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Sora] Sora No Toki: 75K",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.2418,
-        "width": 0.1988,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[AZKi] equal: 25K",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.2695,
-        "width": 0.14,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[AZKi] Heartbeat: 100K",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.286,
-        "width": 0.1863,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Ollie] Zombies (Cover): 50K [Miyabi/Temma] Suirenka: 50K",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.3025,
-        "width": 0.2569,
-        "height": 0.0295
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Mio] Yasashii Suisei (Cover): 75K [Watame] HOLLOW HUNGER: 750K [Fubuki] Kusaregedou to Chocolate: 750K [Reine/Kobo] Ai Kotoba IV (Cover): 100K [Fauna] Cute Na Kanojo (Cover): 100K [Okayu] Detabare Neko (Live): 75K [Watame] Venom (Cover): 50K",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.3355,
-        "width": 0.3363,
-        "height": 0.1111
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Kiara] Heart Challenger: 2M",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.451,
-        "width": 0.2294,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Aqua] Aqua Iro Palette: SM",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.4674,
-        "width": 0.2238,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Koyori] Bug: 500K",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.4839,
-        "width": 0.1531,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
+      "type": "other",
       "text": "NOUVEAU",
       "bbox": {
         "x": 0.8788,
@@ -356,123 +116,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Ollie",
+      "type": "other",
+      "text": "REPRISE · Fubuki · DAISHIKYU DAISHUKI\nREPRISE · Reine & Kobo · AI KOTOBA IV\nREPRISE · Ollie · ZOMBIES\nREPRISE · Watame · VENOM\nCHANSON ORIGINAL · Rikka · 3104\nCHANSON ORIGINAL · Sora · YUMEZORA FANFARE\nCHANSON ORIGINAL · AZKi · EQUAL\nREPRISE · Astel · SEN NO YORU WO KOETE\nREPRISE · Axel & Autres · BAD ∞ END ∞ NIGHT\nREPRISE · Rikka · LOVE LETTER\nREPRISE · Fauna · CUTE NA KANOJO\nREPRISE · Risu · MIRA\nREPRISE · Mio · YASASHII SUISEI\nREPRISE · Shion · TENSEI RINGO",
       "bbox": {
-        "x": 0.5106,
-        "y": 0.605,
-        "width": 0.0294,
-        "height": 0.0074
-      }
-    },
-    {
-      "type": "heading",
-      "text": "ZOMBIES",
-      "bbox": {
-        "x": 0.5113,
-        "y": 0.6185,
-        "width": 0.1588,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "YUMEZORA",
-      "bbox": {
-        "x": 0.3531,
-        "y": 0.7313,
-        "width": 0.1594,
-        "height": 0.0113
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "FANFARE REPRISE",
-      "bbox": {
-        "x": 0.3513,
-        "y": 0.7457,
-        "width": 0.1331,
-        "height": 0.0373
-      }
-    },
-    {
-      "type": "heading",
-      "text": "kif",
-      "bbox": {
-        "x": 0.3769,
-        "y": 0.7795,
-        "width": 0.0581,
-        "height": 0.026
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Astel",
-      "bbox": {
-        "x": 0.0331,
-        "y": 0.8394,
-        "width": 0.0475,
-        "height": 0.0109
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "SEN NO YORU WO KOETE",
-      "bbox": {
-        "x": 0.0331,
-        "y": 0.8568,
-        "width": 0.2363,
-        "height": 0.0252
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Axel & Autres NIGHT",
-      "bbox": {
-        "x": 0.3531,
-        "y": 0.8394,
-        "width": 0.1288,
-        "height": 0.0425
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Fagna CUTE NA KANOJO",
-      "bbox": {
-        "x": 0.03,
-        "y": 0.9475,
-        "width": 0.0862,
-        "height": 0.0295
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Mio YASASHII SUISEI",
-      "bbox": {
-        "x": 0.51,
-        "y": 0.9475,
-        "width": 0.0888,
-        "height": 0.0286
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Shion",
-      "bbox": {
-        "x": 0.7506,
-        "y": 0.9475,
-        "width": 0.0363,
-        "height": 0.0074
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "TENSEI RINGO",
-      "bbox": {
-        "x": 0.7494,
-        "y": 0.9596,
-        "width": 0.0681,
-        "height": 0.0174
+        "x": 0.021,
+        "y": 0.552,
+        "width": 0.958,
+        "height": 0.434
       }
     }
   ],

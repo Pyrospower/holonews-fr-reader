@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.2323,
+        "width": 0.0945,
+        "height": 0.0202
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 4e volume du blog Red Bull de Botan a été publié. Ce mois-ci, elle a parlé de son intérêt nouvellement découvert pour les jeux de sociétés et les jeux d’évasions grâce à la rencontre des autres holomems plus tôt le mois dernier. Elle a aimé l'ambiance et la sensation tactile des accessoires que l’on ne peut ressentir qu’en personne.",
+      "text": "Le 4e volume du blog Red Bull de Botan a été publié. Ce mois-ci, elle a parlé de son intérêt nouvellement découvert pour les jeux de sociétés et les jeux d’évasions grâce à la rencontre des autres holomems plus tôt le mois dernier. Elle a aimé l’ambiance et la sensation tactile des accessoires que l’on ne peut ressentir qu’en personne.",
       "bbox": {
         "x": 0.0694,
         "y": 0.2721,
@@ -36,18 +46,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Ollie a joué a VALORANT avec la VTuber Japonaise indépendante Suisyou Nemu, sur la chaîne de cette-dernière après qu'Ollie n’a pas réussi à le faire pour la sienne. Elles ont montré leur talents et ont discuté ensemble pendant deux heures de stream, elles ont mis fin au stream en gagnant une partie.",
+      "type": "heading",
+      "text": "Botan",
       "bbox": {
-        "x": 0.0694,
-        "y": 0.6905,
-        "width": 0.3894,
-        "height": 0.0938
+        "x": 0.6364,
+        "y": 0.2008,
+        "width": 0.0927,
+        "height": 0.0202
       }
     },
     {
       "type": "paragraph",
-      "text": "Botan a pris une pause d'une semaine pour son hospitalisation et sa visite médicale, le suivi de l'année dernière. Pendant ce temps, elle a regardé Twitter et a discuté avec NePoLaBo sur Discord. Shishiron sera de retour le 24 Août. Avant de partir, elle a partagé les résultats de la lecture des lignes de sa main. Apparemment, sa chance dans la fortune est élevée et a dit en plaisantant qu’elle aura la chance d’avoir un manoir plus tard. Elle a également publié le clip pour sa chanson originale « /// | Love You! ».",
+      "text": "Botan a pris une pause d’une semaine pour son hospitalisation et sa visite médicale, le suivi de l’année dernière. Pendant ce temps, elle a regardé Twitter et a discuté avec NePoLaBo sur Discord. Shishiron sera de retour le 24 Août. Avant de partir, elle a partagé les résultats de la lecture des lignes de sa main. Apparemment, sa chance dans la fortune est élevée et a dit en plaisantant qu’elle aura la chance d’avoir un manoir plus tard. Elle a également publié le clip pour sa chanson originale « /// I Love You! ».",
       "bbox": {
         "x": 0.5381,
         "y": 0.2452,
@@ -56,8 +66,48 @@
       }
     },
     {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.4836,
+        "y": 0.4432,
+        "width": 0.0491,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.6503,
+        "width": 0.0782,
+        "height": 0.0215
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour la célébration de ses 400 000 abonnés, Ckia a streamé Angry Birds 2 à la place de Kaela. La forgeronne a mignonne voix a béni ses spectateurs de répliques comme « onii-chan daisuki » et « moe moe kyuun ». Elle a aussi chanté « Fuwa Fuwa Time » de K-On!, l'anime favori de Kaela",
+      "text": "Ollie a joué a VALORANT avec la VTuber Japonaise indépendante Suisyou Nemu, sur la chaîne de cette-dernière après qu’Ollie n’a pas réussi à le faire pour la sienne. Elles ont montré leur talents et ont discuté ensemble pendant deux heures de stream, elles ont mis fin au stream en gagnant une partie.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.6905,
+        "width": 0.3894,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kaela",
+      "bbox": {
+        "x": 0.6364,
+        "y": 0.6654,
+        "width": 0.0909,
+        "height": 0.0215
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la célébration de ses 400 000 abonnés, Ckia a streamé Angry Birds 2 à la place de Kaela. La forgeronne a mignonne voix a béni ses spectateurs de répliques comme « onii-chan daisuki » et « moe moe kyuun ». Elle a aussi chanté « Fuwa Fuwa Time » de K-On!, l’anime favori de Kaela",
       "bbox": {
         "x": 0.5394,
         "y": 0.704,
@@ -66,8 +116,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Area15",
+      "bbox": {
+        "x": 0.7636,
+        "y": 0.8523,
+        "width": 0.1109,
+        "height": 0.0202
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pendant l'Area15 de ce mois (le 15 du mois, bien sûr), HoloID Gen1 ont montré leur modèles VR chibi. Les modèles ont augmenté l’air prétentieux du trio, leur compétence comique, et, pour des raisons inconnues, avaient une quantité absurde de durian.",
+      "text": "Pendant l’Area15 de ce mois (le 15 du mois, bien sûr), HoloID Gen1 ont montré leur modèles VR chibi. Les modèles ont augmenté l’air prétentieux du trio, leur compétence comique, et, pour des raisons inconnues, avaient une quantité absurde de durian.",
       "bbox": {
         "x": 0.5475,
         "y": 0.8898,

@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_3101_-_0602",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.1831,
+        "y": 0.0673,
+        "width": 0.1631,
+        "height": 0.0267
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.1585,
+        "y": 0.2415,
+        "width": 0.1123,
+        "height": 0.0235
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 22 janvier, Aqua est retournée sur APEX après presque un an pour tenter d'atteindre le rang de Maître en solo avant la fin de la saison APEX. Après presque deux semaines d’entraînement intensif sur APEX, notre soubrette préféré l’as enfin fait ! Elle a atteint le rang de Maître et a relevé son défi, devenant la deuxième membre d'holoPro à I atteindre en solo en stream. Elle a fait des progrès remarquables par rapport à l'année dernière, ce qui a surpris de nombreux joueurs occasionnels et professionnels. Le joueur pro rpr a même tweeté qu'elle était devenue « une déesse » à ce jeu. Peu de temps après avoir atteint le rang de Maître, elle a commencé une partie et a remporté son premier match avec ce rang. Félicitations Aqua !",
+      "text": "Le 22 janvier, Aqua est retournée sur APEX après presque un an pour tenter d'atteindre le rang de Maître en solo avant la fin de la saison APEX. Après presque deux semaines d’entraînement intensif sur APEX, notre soubrette préféré l’as enfin fait ! Elle a atteint le rang de Maître et a relevé son défi, devenant la deuxième membre d'holoPro à l'atteindre en solo en stream. Elle a fait des progrès remarquables par rapport à l'année dernière, ce qui a surpris de nombreux joueurs occasionnels et professionnels. Le joueur pro rpr a même tweeté qu'elle était devenue « une déesse » à ce jeu. Peu de temps après avoir atteint le rang de Maître, elle a commencé une partie et a remporté son premier match avec ce rang. Félicitations Aqua !",
       "bbox": {
         "x": 0.0488,
         "y": 0.2813,
@@ -27,42 +47,42 @@
     },
     {
       "type": "paragraph",
-      "text": "A\" Subaru avait",
+      "text": "Subaru avait gagné le droit de faire un caméo dans Lupin III lors de l'événement Project V l'année dernière, et elle a enfin fait son apparition dans le 18ème épisode qui a été diffusé le 5 février sur NTV !",
       "bbox": {
         "x": 0.2306,
         "y": 0.7504,
-        "width": 0.1775,
-        "height": 0.0117
+        "width": 0.2313,
+        "height": 0.1884
       }
     },
     {
-      "type": "paragraph",
-      "text": "Ww gagné le droit de faire un caméo dans Lupin Ill lors de l'événement Project V l'année dernière, et elle a enfin fait son apparition dans le 18ème épisode qui a été diffusé le 5 février sur NTV !",
+      "type": "heading",
+      "text": "Choco",
       "bbox": {
-        "x": 0.2463,
-        "y": 0.7661,
-        "width": 0.2156,
-        "height": 0.1727
+        "x": 0.6323,
+        "y": 0.2393,
+        "width": 0.1369,
+        "height": 0.0235
       }
     },
     {
       "type": "paragraph",
-      "text": "Choco et Gundou Mirei de Nijisanji ont fait un stream en collaboration durant lequel elles ont discuté et bu de l'alcool ensemble. Cela faisait un moment qu'il n'y avait pas eu de collabs entre elles, alors elles ont passé l'heure à",
-      "bbox": {
-        "x": 0.5231,
-        "y": 0.2817,
-        "width": 0.4181,
-        "height": 0.0668
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "rattraper le temps perdu. Elles ont parlé de leurs genres de mangas préférés et se sont demandées si elles étaient toutes deux een des « professeurs » ou non. Gundou à égal alement exprimé son amour pour la tenue ouvel An et le corps obscene de Choco.",
+      "text": "Choco et Gundou Mirei de Nijisanji ont fait un stream en collaboration durant lequel elles ont discuté et bu de l’alcool ensemble. Cela faisait un moment qu'il n’y avait pas eu de collabs entre elles, alors elles ont passé l’heure à rattraper le temps perdu. Elles ont parlé de leurs genres de mangas préférés et se sont demandées si elles étaient toutes deux vraiment des « professeurs » ou non. Gundou a également exprimé son amour pour la tenue du Nouvel An et le corps obscène de Choco.",
       "bbox": {
         "x": 0.5225,
-        "y": 0.3468,
+        "y": 0.2817,
         "width": 0.4213,
-        "height": 0.0881
+        "height": 0.1532
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ayame",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.5662,
+        "width": 0.1538,
+        "height": 0.0256
       }
     },
     {
@@ -87,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Shion a dit qu'elle avait mal a la gorge mais que son état s'est considérablement amélioré. Elle veut reprendre ses streams des que possible, mais demande a ses fans de patienter encore un peu.",
+      "text": "Shion a dit qu'elle avait mal à la gorge mais que son état s'est considérablement amélioré. Elle veut reprendre ses streams dès que possible, mais demande à ses fans de patienter encore un peu.",
       "bbox": {
         "x": 0.5225,
         "y": 0.8707,

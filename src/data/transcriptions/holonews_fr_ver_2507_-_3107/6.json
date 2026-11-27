@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2507_-_3107",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.169,
+        "y": 0.2405,
+        "width": 0.073,
+        "height": 0.0178
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Sora a organisé un second concert en live avec la chanteuse et compositrice Kusano Kayoko. Elle est connue pour être l’une des compositrices de Gurenge, l’un des themes de Demon Slayer: Kimetsu no Yaiba. Durant ce show, Kayoko a chanté une chanson pour célébrer le palier des un million d’abonnées pour Sora. Toutes deux ont beaucoup parlé de musique et de la façon dont elles se sont lancées dans le métier, ainsi que de leurs passe-temps et de leurs premières impressions. Tant dis qu’une partie était disponible sur YouTube sur la chaîne de Sora, l'autre partie était uniquement possible aux membres du fan club de Sora.",
+      "text": "Sora a organisé un second concert en live avec la chanteuse et compositrice Kusano Kayoko. Elle est connue pour être l’une des compositrices de Gurenge, l’un des thèmes de Demon Slayer: Kimetsu no Yaiba. Durant ce show, Kayoko a chanté une chanson pour célébrer le palier des un million d’abonnées pour Sora. Toutes deux ont beaucoup parlé de musique et de la façon dont elles se sont lancées dans le métier, ainsi que de leurs passe-temps et de leurs premières impressions. Tant dis qu’une partie était disponible sur YouTube sur la chaîne de Sora, l’autre partie était uniquement possible aux membres du fan club de Sora.",
       "bbox": {
         "x": 0.0712,
         "y": 0.2795,
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Mardi soir, Suisei a stream tardivement, en faisant un compte à rebours pour la sortie du blu-ray de son premier concert solo, ainsi que de son nouvel album avec Taku Inoue, sous le nom de « Midnight Grand Orchestra ». Suisei savait que ses deux sorties se passaient au même moment et a trouvé cette coïncidence plutôt rôle.",
+      "text": "Mardi soir, Suisei a stream tardivement, en faisant un compte à rebours pour la sortie du blu-ray de son premier concert solo, ainsi que de son nouvel album avec Taku Inoue, sous le nom de « Midnight Grand Orchestra ». Suisei savait que ses deux sorties se passaient au même moment et a trouvé cette coïncidence plutôt drôle.",
       "bbox": {
         "x": 0.0712,
         "y": 0.6641,
@@ -47,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "En attendant l'heure de sortie, elle a parlé de la publicité réalisée pour le blu-ray, de la tombola organisée pour gagner un blu-ray signé par Suisei et de TikTok, ainsi que de plein d'autres choses. Une fois le compte à rebours fini, elle a décrit ce qu'il y avait dans son nouvel album, son avis sur chaque musique et sur la boîte du CD. Vers la fin du stream, elle a répondu aux questions de son tchat lors d’une foire aux questions. On lui a notamment demandé son expérience avec son prix au ShibuHal PC Prize, ses chances de la revoir une seconde fois sur scène, ses apparitions dans les concerts des autres membres, et même ses commentaire sur l’un des membres du staff, lorsqu'elle est apparue dans le concert de Calliope.",
+      "text": "En attendant l’heure de sortie, elle a parlé de la publicité réalisée pour le blu-ray, de la tombola organisée pour gagner un blu-ray signé par Suisei et de TikTok, ainsi que de plein d'autres choses. Une fois le compte à rebours fini, elle a décrit ce qu’il y avait dans son nouvel album, son avis sur chaque musique et sur la boîte du CD. Vers la fin du stream, elle a répondu aux questions de son tchat lors d’une foire aux questions. On lui a notamment demandé son expérience avec son prix au ShibuHal PC Prize, ses chances de la revoir une seconde fois sur scène, ses apparitions dans les concerts des autres membres, et même ses commentaire sur l’un des membres du staff, lorsqu’elle est apparue dans le concert de Calliope.",
       "bbox": {
         "x": 0.0712,
         "y": 0.7773,
@@ -67,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Durant un stream discussion, Roboco a mentionné qu’elle a accidentellement acheté 100 rouleaux de papier toilette. Jusqu'à présent, elle a seulement utilisé 5 ou 6 rouleaux de la boîte, donc elle craint de devoir ranger davantage de rouleaux au cas où on lui rend visite. Elle a ensuite dit qu’elle donnerait peut-être certains rouleaux aux holomems qu'elle rencontrerait. Elle a même proposé à ses spectateurs s'ils accepteraient certains rouleaux s'ils étaient autographiés par elle-même. Certains d'entre-eux ont dit qu'il garderait précieusement ce papier toilette, comme un trésor.",
+      "text": "Durant un stream discussion, Roboco a mentionné qu’elle a accidentellement acheté 100 rouleaux de papier toilette. Jusqu’à présent, elle a seulement utilisé 5 ou 6 rouleaux de la boîte, donc elle craint de devoir ranger davantage de rouleaux au cas où on lui rend visite. Elle a ensuite dit qu’elle donnerait peut-être certains rouleaux aux holomems qu’elle rencontrerait. Elle a même proposé à ses spectateurs s’ils accepteraient certains rouleaux s’ils étaient autographiés par elle-même. Certains d'entre-eux ont dit qu’il garderait précieusement ce papier toilette, comme un trésor.",
       "bbox": {
         "x": 0.5363,
         "y": 0.1072,
@@ -97,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La vie universitaire d'Haachama est une nouvelle fois de plus compromise; elle a été absente à tellement de cours qu’elle a déjà raté cinq matières. (Le plus élevé était dix absences pour une seule matière). Cependant, c'est parce qu'elle a pris onze matières ce semestre, espérant ainsi gratter des points. Cependant, ses notes ne sont pas très bonnes.",
+      "text": "La vie universitaire d’Haachama est une nouvelle fois de plus compromise; elle a été absente à tellement de cours qu’elle a déjà raté cinq matières. (Le plus élevé était dix absences pour une seule matière). Cependant, c’est parce qu’elle a pris onze matières ce semestre, espérant ainsi gratter des points. Cependant, ses notes ne sont pas très bonnes.",
       "bbox": {
         "x": 0.5363,
         "y": 0.4835,
@@ -107,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Cela a provoqué une vague de Super Chats disant qu'ils pouvaient être utilisés pour acheter des points ou pour acheter des amis et pouvoir manger avec. Haachama a dit qu’elle améliorerait son assiduité pour le prochain semestre et qu’elle assisterait à tous ses cours sans faute, avant de rapidement changer d'avis et de dire qu'elle ferait le stricte minimum pour ne pas échouer automatiquement.",
+      "text": "Cela a provoqué une vague de Super Chats disant qu’ils pouvaient être utilisés pour acheter des points ou pour acheter des amis et pouvoir manger avec. Haachama a dit qu’elle améliorerait son assiduité pour le prochain semestre et qu’elle assisterait à tous ses cours sans faute, avant de rapidement changer d’avis et de dire qu’elle ferait le stricte minimum pour ne pas échouer automatiquement.",
       "bbox": {
         "x": 0.5363,
         "y": 0.6181,
@@ -117,22 +127,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Prions pour qu'elle puisse obtenir son diplôme.",
+      "text": "Prions pour qu’elle puisse obtenir son diplôme.",
       "bbox": {
         "x": 0.5369,
         "y": 0.7526,
         "width": 0.3863,
         "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "FROM THE SCHOOLY,",
-      "bbox": {
-        "x": 0.5363,
-        "y": 0.8359,
-        "width": 0.2463,
-        "height": 0.0156
       }
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Haachama a été vu en train de tweeté des même datant de 2010. Donc... Haachama est-t-elle si vieille ?",
+      "text": "Haachama a été vu en train de tweeté des même datant de 2010. Donc… Haachama est-t-elle si vieille ?",
       "bbox": {
         "x": 0.5356,
         "y": 0.9384,

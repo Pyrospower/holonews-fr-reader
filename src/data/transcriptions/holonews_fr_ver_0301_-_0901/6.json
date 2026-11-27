@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_0301_-_0901",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 0",
+      "bbox": {
+        "x": 0.1831,
+        "y": 0.0791,
+        "width": 0.1677,
+        "height": 0.0288
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roboco",
+      "bbox": {
+        "x": 0.1615,
+        "y": 0.2521,
+        "width": 0.1692,
+        "height": 0.0267
+      }
+    },
     {
       "type": "paragraph",
       "text": "Roboco a organisé un stream endurance karaoké jusqu'à atteindre 800 000 abonnés. Elle en avait besoin de 36 000 et a rempli son objectif après 6 heures de chant.",
@@ -26,8 +46,28 @@
       }
     },
     {
+      "type": "other",
+      "text": "STILL STILL",
+      "bbox": {
+        "x": 0.7615,
+        "y": 0.2863,
+        "width": 0.1323,
+        "height": 0.0118
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.6122,
+        "width": 0.1108,
+        "height": 0.0246
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le premier stream de Sora de l'année était assez simple. Elle a montré quelques nouveaux accessoires en 3D créés pour elle. Il s’agit d'un masque rose avec le logo d’hololive, d’un kagami mochi (littéralement « gateau miroir ») et d'une patte de tigre qu'elle peut porter sur sa tête.",
+      "text": "Le premier stream de Sora de l'année était assez simple. Elle a montré quelques nouveaux accessoires en 3D créés pour elle. Il s’agit d'un masque rose avec le logo d’hololive, d’un kagami mochi (littéralement « gâteau miroir ») et d'une patte de tigre qu'elle peut porter sur sa tête.",
       "bbox": {
         "x": 0.0506,
         "y": 0.6523,
@@ -43,6 +83,16 @@
         "y": 0.7773,
         "width": 0.4088,
         "height": 0.0955
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.6122,
+        "width": 0.1215,
+        "height": 0.0246
       }
     },
     {

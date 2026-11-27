@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_3005_-_0506",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Natsuiro Matsuri",
+      "bbox": {
+        "x": 0.483,
+        "y": 0.273,
+        "width": 0.48,
+        "height": 0.097
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Matsuri a organisé un stream d'appel qui a commencé 23 heures pour fêter le 4e anniversaire de ses débuts. Avant de commencer les appels, elle a d'abord montré son nouvel accessoire : un pansement sur son nez, un trait caractéristique des personnages principaux des shônen. Matsuri a également obtenu une nouvelle coiffure avec une frange très courtes et deux queues de cheval, rappelant la coiffure de Shion. Elle a ensuite pris le temps de préparer les questions etles demandes qu'elle allait poser à ses interlocuteurs :",
+      "text": "Matsuri a organisé un stream d'appel qui a commencé 23 heures pour fêter le 4e anniversaire de ses débuts. Avant de commencer les appels, elle a d'abord montré son nouvel accessoire : un pansement sur son nez, un trait caractéristique des personnages principaux des shônen. Matsuri a également obtenu une nouvelle coiffure avec une frange très courtes et deux queues de cheval, rappelant la coiffure de Shion. Elle a ensuite pris le temps de préparer les questions et les demandes qu'elle allait poser à ses interlocuteurs :",
       "bbox": {
         "x": 0.0278,
         "y": 0.4055,
@@ -17,47 +27,17 @@
     },
     {
       "type": "paragraph",
-      "text": "- Où voudrais-tu aller pendant un rendez-vous avec Matsuri ?",
-      "bbox": {
-        "x": 0.0283,
-        "y": 0.6617,
-        "width": 0.3,
-        "height": 0.0289
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- La différence entre l'ancienne Matsuri et l'actuel ? ;",
-      "bbox": {
-        "x": 0.0283,
-        "y": 0.6887,
-        "width": 0.2811,
-        "height": 0.0278
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- Quel genre de collaboration aimerais-tu avoir avec Matsuri ? - Veuillez déclarer votre amour à l'occasion de mon 4ème anniversaire.",
-      "bbox": {
-        "x": 0.0283,
-        "y": 0.7149,
-        "width": 0.2978,
-        "height": 0.0656
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- La couleur des vos sous-vêtements ?",
+      "text": "- Où voudrais-tu aller pendant un rendez-vous avec Matsuri ?\n- La différence entre l'ancienne Matsuri et l'actuel ?\n- Quel genre de collaboration aimerais-tu avoir avec Matsuri ?\n- Veuillez déclarer votre amour à l'occasion de mon 4ème anniversaire.\n- La couleur des vos sous-vêtements ?",
       "bbox": {
         "x": 0.0278,
-        "y": 0.7828,
-        "width": 0.2417,
-        "height": 0.0247
+        "y": 0.6617,
+        "width": 0.3005,
+        "height": 0.1458
       }
     },
     {
       "type": "paragraph",
-      "text": "Après avoir terminé ses préparatifs, elle a commencé à prendre des appels, le premier étant celui de Towa. Etant d'abord timide, Towa a terminé son appel par un message sincère sur le respect qu'elle porte à Matsuri.",
+      "text": "Après avoir terminé ses préparatifs, elle a commencé à prendre des appels, le premier étant celui de Towa. Étant d'abord timide, Towa a terminé son appel par un message sincère sur le respect qu'elle porte à Matsuri.",
       "bbox": {
         "x": 0.3489,
         "y": 0.4066,
@@ -107,42 +87,12 @@
     },
     {
       "type": "paragraph",
-      "text": "• Tapis en caoutchouc illustré par SHHbHAR (omochinonaka)",
+      "text": "• Tapis en caoutchouc illustré par おもちもなか (omochinonaka)\n• Un t-shirt « Matsuri Stall »\n• Un cadre et une carte postale\n• Bonus : Une carte postale avec une copie de son autographe en relief.",
       "bbox": {
         "x": 0.6894,
         "y": 0.5424,
         "width": 0.2811,
-        "height": 0.0459
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un t-shirt « Matsuri Stall »",
-      "bbox": {
-        "x": 0.6894,
-        "y": 0.5883,
-        "width": 0.2611,
-        "height": 0.0116
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un cadre et une carte postale",
-      "bbox": {
-        "x": 0.6894,
-        "y": 0.6038,
-        "width": 0.2222,
-        "height": 0.0301
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Bonus : Une carte postale avec une copie de son autographe en relief.",
-      "bbox": {
-        "x": 0.6894,
-        "y": 0.6339,
-        "width": 0.2622,
-        "height": 0.0455
+        "height": 0.137
       }
     },
     {

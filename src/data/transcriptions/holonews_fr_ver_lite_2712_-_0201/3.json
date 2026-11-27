@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_lite_2712_-_0201",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "HAACHAMA",
+      "bbox": {
+        "x": 0.0437,
+        "y": 0.069,
+        "width": 0.4394,
+        "height": 0.0347
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.2422,
+        "width": 0.2412,
+        "height": 0.0234
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Haachama a fait un stream en l'hommage du 2ème anniversaire de Coco le 28 décembre, que cette dernière n'a jamais pu fêter.",
+      "text": "Haachama a fait un stream en l’hommage du 2ème anniversaire de Coco le 28 décembre, que cette dernière n’a jamais pu fêter.",
       "bbox": {
         "x": 0.05,
         "y": 0.286,
@@ -17,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle a chanté « Tegami », « Asu e no Tegami » et « Homura », les yeux pleins de larmes. Elle nous a dit ce qu'elle pense de Coco, à quel point elle l'admirait et que l'un de ses objectifs était de la surpasser, mais elle est partie. Elle a souligné qu'elle respecte le choix de Coco.",
+      "text": "Elle a chanté « Tegami », « Asu e no Tegami » et « Homura », les yeux pleins de larmes. Elle nous a dit ce qu'elle pense de Coco, à quel point elle l'admirait et que l'un de ses objectifs était de la surpasser, mais elle est partie. Elle a souligné qu’elle respecte le choix de Coco.",
       "bbox": {
         "x": 0.05,
         "y": 0.3446,
@@ -27,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Haachama nous a ensuite montré sa version modifiée du clip de « Weather Hackersys », qui a été faite avec des fanarts d'elle avec Coco. Elle a fait en sorte que les paroles « Good Morning **ther ***ers! » soient entendues à minuit.",
+      "text": "Haachama nous a ensuite montré sa version modifiée du clip de « Weather Hackers☆ », qui a été faite avec des fanarts d’elle avec Coco. Elle a fait en sorte que les paroles « Good Morning **ther ****ers! » soient entendues à minuit.",
       "bbox": {
         "x": 0.05,
         "y": 0.4627,
@@ -37,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Haachama continuera d'être l'idole n°1 et la plus forte.",
+      "text": "Haachama continuera d’être l'idole n°1 et la plus forte.",
       "bbox": {
         "x": 0.0506,
         "y": 0.5664,
@@ -56,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.6325,
+        "y": 0.2422,
+        "width": 0.2412,
+        "height": 0.0234
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Haachama a fait une rétrospective du contenu qu'elle a créé en 2021 en montrant les MVPs des différents concours qu’elle a organisés : cuisine, clips musicaux, dessin lubrique, cosplay etc. Cependant, elle ne pouvait pas bouger son corps et est resté bloqué avec la même expression durant tout se temps. Elle pense que c'est parce qu'elle utilisé trop son pc pour du montage vidéo",
+      "text": "Haachama a fait une rétrospective du contenu qu’elle a créé en 2021 en montrant les MVPs des différents concours qu’elle a organisés : cuisine, clips musicaux, dessin lubrique, cosplay etc. Cependant, elle ne pouvait pas bouger son corps et est resté bloqué avec la même expression durant tout se temps. Elle pense que c'est parce qu'elle utilisé trop son pc pour du montage vidéo",
       "bbox": {
         "x": 0.5225,
         "y": 0.2856,
@@ -67,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le PC d'Haachama a fini par tomber en panne, après des mois de maltraitance.",
+      "text": "Le PC d’Haachama a fini par tomber en panne, après des mois de maltraitance.",
       "bbox": {
         "x": 0.5194,
         "y": 0.4527,
@@ -76,8 +106,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.6325,
+        "y": 0.6424,
+        "width": 0.2412,
+        "height": 0.0234
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Haachama a de nouveau fait ses débuts, cette fois-ci en tant que “CHAMA” (sans le Haa), mais c'était un prétexte pour nous montrer la mise à jour de sa tenue du Nouvel An, devenue aussi expressive que que la Haachama qu'on connaît.",
+      "text": "Haachama a de nouveau fait ses débuts, cette fois-ci en tant que “CHAMA” (sans le Haa), mais c’était un prétexte pour nous montrer la mise à jour de sa tenue du Nouvel An, devenue aussi expressive que que la Haachama qu'on connaît.",
       "bbox": {
         "x": 0.5231,
         "y": 0.6862,

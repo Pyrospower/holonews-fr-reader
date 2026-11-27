@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1807_-_2407",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -36,6 +36,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Artists",
+      "bbox": {
+        "x": 0.268,
+        "y": 0.607,
+        "width": 0.11,
+        "height": 0.022
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Le 19 juillet, le trio composé de Sana, Calli et Mumei s'est réuni pour faire une revue d'« anatomie » pour la onzième collab pré-graduation de Sana. L'« histoire » du stream était qu'elles se sont retrouvées toutes les trois dans un musée d'art où elles ont passé en revue les illustrations des fans posté avec #anatoMei.",
       "bbox": {
@@ -47,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Beaucoup s'attendaient à ce que le stream soit assez animé, mais elles ont en fait véritablement évalué les différentes techniques artistiques de chaque illustration. Sana a même donné son point de vue sur la composition, les règles et l'éclairage dans le dessin. Elles ont abordé brièvement divers concepts artistiques comme les lumières réfléchissantes et la théorie des couleurs pour chaque œuvre. Sana a vraiment aimé une illustration où Gura a été dessinée sous l'eau ; elle l'a même qualifiée de chef-d' œuvre et était très enthousiaste quand elle en parlait",
+      "text": "Beaucoup s'attendaient à ce que le stream soit assez animé, mais elles ont en fait véritablement évalué les différentes techniques artistiques de chaque illustration. Sana a même donné son point de vue sur la composition, les règles et l'éclairage dans le dessin. Elles ont abordé brièvement divers concepts artistiques comme les lumières réfléchissantes et la théorie des couleurs pour chaque œuvre. Sana a vraiment aimé une illustration où Gura a été dessinée sous l'eau ; elle l'a même qualifiée de chef-d'œuvre et était très enthousiaste quand elle en parlait.",
       "bbox": {
         "x": 0.0712,
         "y": 0.747,
@@ -66,6 +76,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Sana & Kaela",
+      "bbox": {
+        "x": 0.641,
+        "y": 0.193,
+        "width": 0.207,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
       "text": "La dixième collaboration de Sana pré-graduation était sur 51 Worldwide Games avec Kaela. Même s'il s'agissait de leur première collaboration ensemble, leur alchimie était évidente dès la première partie de bowling, où elles riaient de leur mauvaise performance. À la surprise générale, Sana a réussi à faire rire Kaela à gorge déployée ! Son accent australien fait ressembler « Kaela » à « Koala », qui est devenu son nouveau surnom. Kaela a dit qu'elle voulait vraiment rencontrer Sana dans la vraie vie et l'a couronnée « Reine des Erreurs ». Sana a annoncé qu'elle aurait cinq collabs en un jour plus tard avant de terminer le stream.",
       "bbox": {
@@ -77,12 +97,12 @@
     },
     {
       "type": "heading",
-      "text": "7 Ender Dragon",
+      "text": "CouncilRyS VS Ender Dragon",
       "bbox": {
-        "x": 0.5581,
-        "y": 0.6263,
-        "width": 0.2844,
-        "height": 0.02
+        "x": 0.642,
+        "y": 0.601,
+        "width": 0.216,
+        "height": 0.042
       }
     },
     {

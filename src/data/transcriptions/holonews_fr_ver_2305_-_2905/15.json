@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2305_-_2905",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,322 +17,162 @@
     },
     {
       "type": "paragraph",
-      "text": "[Mel] Bunny: 250K [Temma] Cinderella Girl: 50K",
+      "text": "05/16\n[Mel] Bunny: 250K\n[Temma] Cinderella Girl: 50K\n[Kanata] Fragile: 1M",
       "bbox": {
-        "x": 0.2419,
-        "y": 0.0755,
-        "width": 0.2456,
-        "height": 0.0304
+        "x": 0.0531,
+        "y": 0.0686,
+        "width": 0.435,
+        "height": 0.0543
       }
     },
     {
       "type": "paragraph",
-      "text": "[Kanata] Fragile: 1M",
+      "text": "05/17\n[Fauna] Let Me Stay Here: 250K\n[Matsuri] Kimi to Nagameru Natsu no Hana: 750K\n[Aqua] Indoor Kei Nara Trackmaker: 8M",
       "bbox": {
-        "x": 0.3169,
-        "y": 0.1102,
-        "width": 0.1694,
-        "height": 0.013
+        "x": 0.5112,
+        "y": 0.0686,
+        "width": 0.4344,
+        "height": 0.0543
       }
     },
     {
       "type": "paragraph",
-      "text": "[Flare] Colorful: 500K",
+      "text": "05/18\n[Flare] Colorful: 500K\n[Shion] Yoidore Shirazu: 250K\n[AZKi/Mimi] Mrs. Pumpkin no Kokkei na Yume: 25K\n[Polka] Chimera: 250K",
       "bbox": {
-        "x": 0.3088,
-        "y": 0.1428,
-        "width": 0.1788,
-        "height": 0.013
+        "x": 0.0494,
+        "y": 0.1354,
+        "width": 0.4387,
+        "height": 0.0725
       }
     },
     {
       "type": "paragraph",
-      "text": "[Shion] Yoidore Shirazu: 250K [AZKi/Mimi] Mrs. Pumpkin no Kokkei na Yume: 25K [Polka] Chimera: 250K",
+      "text": "05/19\n[IRyS] Identity: 750K\n[Miko] Yumeji Labyrinth: 100K\n[Sora] Taiyoukei Disco (Live): 100K\n[Calliope/Inoue] Yona Yona Journey: 750K\n[Chloe] Nisemono Ningen 40-gou (Cover): 100K\n[Kanata] Telecaster B-Boy (Cover): 250K\n[AZKi] Shinzou to Karakuri: 75K\n[Gura] Target For Love: 2M",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.135,
+        "width": 0.4369,
+        "height": 0.1428
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/20\n[Roboco] Azamina: 100K\n[Temma] Kimi Ni Todoke: 100K\n[Lamy/Okayu] Betelguese (Cover): 100K\n[Mel/Kanata/Calliope] Luvoratorrrrry!: 500K\n[Calliope/Baelz] Street FITE: 250K\n[Ina'nis] Nai Nai (Cover): 250K\n[Holostars 1/2/3] Painter: 1M\n[AZKi] Ningen Datta: 100K",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2205,
+        "width": 0.4375,
+        "height": 0.1398
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/21\n[Watame] My Song: 2M\n[Calliope/Suisei] Capsule: 3M\n[HoloID 1/2] Virtual Medley Lagu Daerah: 3M\n[Polka] Internet Overdose: 250K\n[Calliope] Mera Mera: 750K",
+      "bbox": {
+        "x": 0.5112,
+        "y": 0.2899,
+        "width": 0.4356,
+        "height": 0.0894
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/22\n[Chloe] Hurt You: 250K\n[IRyS] Till the end of me: 100K\n[Kanata/Mel/Akirose/Subaru/Nene] Tondemo Wonders (Reupload): 250K\n[Kanata/Nene] Shijoshugi Adtruck: 750K\n[AZKi/Rikka] Kakumei Dualism: 250K\n[Suisei] Yuurei Tokyo (Cover): 100K\n[Luna] Fancy Baby Doll: 100K\n[Subaru] Do My Best: 4M",
       "bbox": {
         "x": 0.0519,
-        "y": 0.1602,
-        "width": 0.4356,
-        "height": 0.0477
+        "y": 0.3737,
+        "width": 0.4375,
+        "height": 0.158
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Roboco] Azamina: 100K [Temma] Kimi Ni Todoke: 100K",
+      "type": "other",
+      "text": "REPRISE    ORIGINALE    NOUVEAU",
       "bbox": {
-        "x": 0.2219,
-        "y": 0.227,
-        "width": 0.2656,
-        "height": 0.0304
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Lamy/Okayu] Betelguese (Cover): 100K [Mel/Kanata/Calliope] Luvoratorrrrry!: 500K [Calliope/Baelz] Street FITE: 250K",
-      "bbox": {
-        "x": 0.1256,
-        "y": 0.2617,
-        "width": 0.3619,
-        "height": 0.0477
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Ina'nis] Nai Nai (Cover): 250K",
-      "bbox": {
-        "x": 0.2319,
-        "y": 0.3138,
-        "width": 0.2556,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Holostars 1/2/3] Painter: 1M",
-      "bbox": {
-        "x": 0.2469,
-        "y": 0.3312,
-        "width": 0.2394,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[AZKi] Ningen Datta: 100K",
-      "bbox": {
-        "x": 0.2644,
-        "y": 0.3485,
-        "width": 0.2231,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Chloe] Hurt You: 250K",
-      "bbox": {
-        "x": 0.2919,
-        "y": 0.3811,
-        "width": 0.1956,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[IRyS] Till the end of me: 100K [Kanata/Mel/Akirose/Subaru/Nene] Tondemo Wonders (Reupload): 250K [Kanata/Nene] Shijoshugi Adtruck: 750K [AZKi/Rikka] Kakumei Dualism: 250K [Suisei] Yuurei Tokyo (Cover): 100K [Luna] Fancy Baby Doll: 100K",
-      "bbox": {
-        "x": 0.1469,
+        "x": 0.5194,
         "y": 0.3984,
-        "width": 0.3406,
-        "height": 0.1172
+        "width": 0.4256,
+        "height": 0.0169
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Subaru] Do My Best: 4M",
+      "type": "other",
+      "text": "REPRISE\nChloe\nNISEMONO NINGEN 40-GOU",
       "bbox": {
-        "x": 0.2744,
-        "y": 0.52,
-        "width": 0.2119,
-        "height": 0.013
+        "x": 0.0338,
+        "y": 0.5525,
+        "width": 0.3119,
+        "height": 0.1241
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Fauna] Let Me Stay Here: 250K 05 / 17 [Matsuri] Kimi to Nagameru Natsu no Hana: 750K [Aqua] Indoor Kei Nara Trackmaker: 8M",
+      "type": "other",
+      "text": "REPRISE\nKanata\nTELECASTER B-BOY",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.0699,
-        "width": 0.43,
-        "height": 0.0534
+        "x": 0.3463,
+        "y": 0.5525,
+        "width": 0.3094,
+        "height": 0.1241
       }
     },
     {
-      "type": "paragraph",
-      "text": "[IRyS] Identity: 750K [Miko] Yumeji Labyrinth: 100K",
+      "type": "other",
+      "text": "REPRISE\nIna\nNAI NAI",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.1428,
-        "width": 0.2525,
-        "height": 0.0304
+        "x": 0.6581,
+        "y": 0.5525,
+        "width": 0.3094,
+        "height": 0.1241
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Sora] Taiyoukei Disco (Live): 100K [Calliope/Inoue] Yona Yona Journey: 750K",
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nCalli\nMERA MERA",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.1775,
-        "width": 0.3606,
-        "height": 0.0304
+        "x": 0.0338,
+        "y": 0.6775,
+        "width": 0.4662,
+        "height": 0.1801
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Chloe] Nisemono Ningen 40-gou (Cover): 100K [Kanata] Telecaster B-Boy (Cover): 250K",
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nIRyS\nTILL THE END OF ME",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.2122,
-        "width": 0.4069,
-        "height": 0.0304
+        "x": 0.5025,
+        "y": 0.6775,
+        "width": 0.4656,
+        "height": 0.1801
       }
     },
     {
-      "type": "paragraph",
-      "text": "[AZKi] Shinzou to Karakuri: 75K",
+      "type": "other",
+      "text": "REPRISE\nLamy & Okayu\nBETELGEUSE",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.247,
-        "width": 0.2675,
-        "height": 0.013
+        "x": 0.0338,
+        "y": 0.8589,
+        "width": 0.3113,
+        "height": 0.1237
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Gura] Target For Love: 2M",
+      "type": "other",
+      "text": "REPRISE\nSuisei\nYUUREI TOKYO",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.2643,
-        "width": 0.2294,
-        "height": 0.013
+        "x": 0.3456,
+        "y": 0.8589,
+        "width": 0.3106,
+        "height": 0.1237
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Watame] My Song: 2M [Calliope/Suisei] Capsule: 3M",
+      "type": "other",
+      "text": "REPRISE\nWatame & AZKi\nMAWARU SORA USAGI",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.2969,
-        "width": 0.2469,
-        "height": 0.0304
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[HololD 1/2] Virtual Medley Lagu Daerah: 3M [Polka] Internet Overdose: 250K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.3316,
-        "width": 0.3781,
-        "height": 0.0304
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Calliope] Mera Mera: 750K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.3663,
-        "width": 0.2313,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "REPRISE",
-      "bbox": {
-        "x": 0.5213,
-        "y": 0.4006,
-        "width": 0.1019,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "ORIGINALE NOUVEAU",
-      "bbox": {
-        "x": 0.6606,
-        "y": 0.4006,
-        "width": 0.2813,
-        "height": 0.0117
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Chloe NISEMONO NINGEN 40-GOU",
-      "bbox": {
-        "x": 0.0438,
-        "y": 0.6285,
-        "width": 0.1981,
-        "height": 0.0373
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Kanata TELECASTER B-BOY",
-      "bbox": {
-        "x": 0.3581,
-        "y": 0.6285,
-        "width": 0.1606,
-        "height": 0.0386
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Calli",
-      "bbox": {
-        "x": 0.0525,
-        "y": 0.7856,
-        "width": 0.0513,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "heading",
-      "text": "MERA MERA",
-      "bbox": {
-        "x": 0.0544,
-        "y": 0.8129,
-        "width": 0.4125,
-        "height": 0.0256
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Suisei",
-      "bbox": {
-        "x": 0.3569,
-        "y": 0.9349,
-        "width": 0.0463,
-        "height": 0.01
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "YUUREI TOKYO",
-      "bbox": {
-        "x": 0.3556,
-        "y": 0.951,
-        "width": 0.09,
-        "height": 0.0221
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Lamy & Okayu",
-      "bbox": {
-        "x": 0.0444,
-        "y": 0.9349,
-        "width": 0.1175,
-        "height": 0.0126
-      }
-    },
-    {
-      "type": "heading",
-      "text": "BETELGEUSE",
-      "bbox": {
-        "x": 0.0444,
-        "y": 0.9514,
-        "width": 0.2781,
-        "height": 0.0174
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Watame & AZKi MAWARU SORA USAGI",
-      "bbox": {
-        "x": 0.6681,
-        "y": 0.9349,
-        "width": 0.1938,
-        "height": 0.0382
+        "x": 0.6581,
+        "y": 0.8589,
+        "width": 0.3094,
+        "height": 0.1237
       }
     }
   ],

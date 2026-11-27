@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_2908_-_0409",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Yuzuki Choco",
+      "bbox": {
+        "x": 0.2533,
+        "y": 0.25,
+        "width": 0.4889,
+        "height": 0.189
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Choco-sensei a célébré son 4e anniversaire le 5 septembre (JST)! Après s'être lancée avec 2 de ses chansons originales, « Secret Class » et « ChocoLove », elle a chanté « Kaakuma Datte Kawawanai! » avec Shigure Ui, l'illustrateur de Subaru, et a fait la pose pour prendre des photos avec elle.",
+      "text": "Choco-sensei a célébré son 4e anniversaire le 5 septembre (JST)! Après s’être lancée avec 2 de ses chansons originales, « Secret Class » et « ChocoLove », elle a chanté « Kaakuma Datte Kawawanai! » avec Shigure Ui, l’illustrateur de Subaru, et a fait la pose pour prendre des photos avec elle.",
       "bbox": {
         "x": 0.0811,
         "y": 0.473,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Choco a ensuite chanté « Annoying! San-san Week » avec Noel et Lamy, « Devikyuu » avec Towa et La+, puis « lIkasama@Casino » with Lui à son bar. Vint ensuite « Hikaru Nara » avec Subaru et Luna, puis Botan s'est jointe à la fête pour « POP STAR » dans la tente du cirque.",
+      "text": "Choco a ensuite chanté « Annoying! San-san Week » avec Noel et Lamy, « Devikyuu » avec Towa et La+, puis « Ikasama⇔Casino » with Lui à son bar. Vint ensuite « Hikaru Nara » avec Subaru et Luna, puis Botan s’est jointe à la fête pour « POP STAR » dans la tente du cirque.",
       "bbox": {
         "x": 0.0794,
         "y": 0.7512,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "De retour sur scène, Choco a révélé ses produits dérivés d'anniversaire:",
+      "text": "De retour sur scène, Choco a révélé ses produits dérivés d’anniversaire:",
       "bbox": {
         "x": 0.5339,
         "y": 0.473,
@@ -37,27 +47,17 @@
     },
     {
       "type": "paragraph",
-      "text": "Une figurine en acrylique pour smartphone illustré par Ichikawa Haru",
+      "text": "• Une figurine en acrylique pour smartphone illustré par Ichikawa Haru\n• Une peluche Chocolat\n• Un tablier\n• Une assiette miniature\n• A enregistrement ASMR",
       "bbox": {
         "x": 0.5489,
         "y": 0.5177,
         "width": 0.37,
-        "height": 0.0424
+        "height": 0.108
       }
     },
     {
       "type": "paragraph",
-      "text": "Une peluche Chocolat Un tablier Une assiette miniature A enregistremen MR",
-      "bbox": {
-        "x": 0.5489,
-        "y": 0.5644,
-        "width": 0.265,
-        "height": 0.0613
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Le bonus pour avoir acheté toute la collection est une carte postale illustrée par Ichikawa Haru avec une signature à la main de Choco ainsi qu'un message dupliqué et estampé.",
+      "text": "Le bonus pour avoir acheté toute la collection est une carte postale illustrée par Ichikawa Haru avec une signature à la main de Choco ainsi qu’un message dupliqué et estampé.",
       "bbox": {
         "x": 0.5339,
         "y": 0.762,

@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_2102_-_2702",
   "page": 17,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "DIVERS",
+      "bbox": {
+        "x": 0.1635,
+        "y": 0.0694,
+        "width": 0.2173,
+        "height": 0.0294
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shiranui Kensetsu",
+      "bbox": {
+        "x": 0.4788,
+        "y": 0.1469,
+        "width": 0.4154,
+        "height": 0.0267
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Toutes les employées de Shiranui Kensetsu étaient de sortie a Disneyland, mais sur ; Minecraft. Elles ont visité et joué dans Minecraft ( Walt Disney World Magic Kingdom tous les cing gah ensembles. Là, elles ont essayé les montagnes Be Si russes et la chasse aux personnages Disney A NS disséminés un peu partout sur la map et ont ” récolté leurs emblèmes. Leur visite leur a donné A fa envie de construire Shiraken Park et aussi G = - vouloir aller dans un vrai Disneyland tous = ER) ensemble dans le futur.",
+      "text": "Toutes les employées de Shiranui Kensetsu étaient de sortie à Disneyland, mais sur Minecraft. Elles ont visité et joué dans Minecraft Walt Disney World Magic Kingdom tous les cinq ensembles. Là, elles ont essayé les montagnes russes et la chasse aux personnages Disney disséminés un peu partout sur la map et ont récolté leurs emblèmes. Leur visite leur a donné envie de construire Shiraken Park et aussi vouloir aller dans un vrai Disneyland tous ensemble dans le futur.",
       "bbox": {
         "x": 0.0531,
         "y": 0.1905,
@@ -16,8 +36,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "LET'S PLAY TERMINES",
+      "type": "heading",
+      "text": "LET'S PLAY",
+      "bbox": {
+        "x": 0.2385,
+        "y": 0.3872,
+        "width": 0.3462,
+        "height": 0.032
+      }
+    },
+    {
+      "type": "other",
+      "text": "LET'S PLAY TERMINÉS",
       "bbox": {
         "x": 0.8356,
         "y": 0.3893,
@@ -26,23 +56,13 @@
       }
     },
     {
-      "type": "heading",
-      "text": "POLICE",
+      "type": "other",
+      "text": "BlueArchive | slither.io | BESIEGE\nunpacking | HOUSE FLIPPER | INSCRYPTION\nBATTLETOADS | ウマ娘 プリティーダービー | POLICE SIMULATOR PATROL OFFICERS\nProject SEKAI COLORFUL STAGE! feat. HATSUNE MIKU | RAFT | SKATEBIRD\nVAMPIRE SURVIVORS | HEAVEN BURNS RED\nSplatoon 2 | POWER WASH SIMULATOR | ELDEN RING\nWithin Skerry | MINECRAFT Disney DLC",
       "bbox": {
-        "x": 0.8025,
-        "y": 0.5916,
-        "width": 0.1425,
-        "height": 0.0286
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "\"SIMULATOR",
-      "bbox": {
-        "x": 0.7869,
-        "y": 0.6198,
-        "width": 0.1525,
-        "height": 0.0143
+        "x": 0.1423,
+        "y": 0.4446,
+        "width": 0.8231,
+        "height": 0.4873
       }
     }
   ],

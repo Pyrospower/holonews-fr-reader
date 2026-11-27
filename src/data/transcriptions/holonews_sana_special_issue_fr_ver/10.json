@@ -3,11 +3,21 @@
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "#1. La premiére collaboration de Sana en dehors du Council, Super Bunny Man avec Ina !",
+      "type": "other",
+      "text": "Tsukumo Sana Special Issue",
+      "bbox": {
+        "x": 0.3967,
+        "y": 0.0262,
+        "width": 0.2078,
+        "height": 0.0131
+      }
+    },
+    {
+      "type": "other",
+      "text": "#1. La première collaboration de\nSana en dehors du Council,\nSuper Bunny Man avec Ina !",
       "bbox": {
         "x": 0.1125,
         "y": 0.2795,
@@ -16,8 +26,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "#2. La collaboration de Sana avec : Watame, sa première collaboration avec une membre d'holoJP !",
+      "type": "other",
+      "text": "#2. La collaboration de Sana avec\nWatame, sa première collaboration\navec une membre d'holoJP !",
       "bbox": {
         "x": 0.4994,
         "y": 0.2799,
@@ -26,8 +36,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "#3. Le premier stream Pokémon de Sana et le premier d'une série de longs streams Pokémon.",
+      "type": "other",
+      "text": "#3. Le premier stream Pokémon de\nSana et le premier d'une série de\nlongs streams Pokémon.",
       "bbox": {
         "x": 0.1019,
         "y": 0.5608,
@@ -36,27 +46,17 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "#4. Le deuxième stream de chasse au chromatique de Sana, ou elle a finalement obtenu son Rayquaza",
+      "type": "other",
+      "text": "#4. Le deuxième stream de chasse au\nchromatique de Sana, où elle a\nfinalement obtenu son Rayquaza\nchromatique.",
       "bbox": {
         "x": 0.5488,
         "y": 0.5603,
         "width": 0.3538,
-        "height": 0.0395
+        "height": 0.0525
       }
     },
     {
-      "type": "paragraph",
-      "text": "chromatique.",
-      "bbox": {
-        "x": 0.6625,
-        "y": 0.5998,
-        "width": 0.1269,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
+      "type": "other",
       "text": "#5. Le stream anniversaire de Sana.",
       "bbox": {
         "x": 0.0963,
@@ -66,8 +66,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "#6. La première chanson originale de Sana, « Astrogirl » !",
+      "type": "other",
+      "text": "#6. La première chanson originale\nde Sana, « Astrogirl » !",
       "bbox": {
         "x": 0.5575,
         "y": 0.8641,
@@ -76,8 +76,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Highlights : Page 2 a",
+      "type": "other",
+      "text": "Highlights : Page 2",
       "bbox": {
         "x": 0.4306,
         "y": 0.9601,

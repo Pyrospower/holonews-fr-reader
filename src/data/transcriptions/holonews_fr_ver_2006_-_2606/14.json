@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_2006_-_2606",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.47,
+        "y": 0.015,
+        "width": 0.06,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.338,
+        "y": 0.179,
+        "width": 0.11,
+        "height": 0.025
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Comme annoncé dans le stream de dégustation de Pop-Tarts, Kiara, Ame, Ina et Gura ont joué ensemble à Smash Ultimate, mais il s'agissait pe, d'un stream discussion. Ina s'est rapprochée de Bubba, le chien d'Ame, rendant Kiara jalouse. Elles nous ont rappelé leur participation a I’Anime Expo 2022 et nous ont montré les produits dérivés qui y seront vendus.",
+      "text": "Comme annoncé dans le stream de dégustation de Pop-Tarts, Kiara, Ame, Ina et Gura ont joué ensemble à Smash Ultimate, mais il s'agissait plutôt d'un stream discussion. Ina s'est rapprochée de Bubba, le chien d'Ame, rendant Kiara jalouse. Elles nous ont rappelé leur participation à l’Anime Expo 2022 et nous ont montré les produits dérivés qui y seront vendus.",
       "bbox": {
         "x": 0.0719,
         "y": 0.2183,
@@ -17,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Ils ont annoncé d'autres « choses amusantes » sur la chaîne d'Ame. Calli les rejoindra bientôt pour un stream où elles séront au complet. À la fin du stream, elles ont répondu à des questions et ont parlé de leurs interactions dans la vie réelle.",
+      "text": "Ils ont annoncé d'autres « choses amusantes » sur la chaîne d'Ame. Calli les rejoindra bientôt pour un stream où elles seront au complet. À la fin du stream, elles ont répondu à des questions et ont parlé de leurs interactions dans la vie réelle.",
       "bbox": {
         "x": 0.0719,
         "y": 0.3398,
@@ -26,13 +46,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Baelz",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.548,
+        "width": 0.09,
+        "height": 0.025
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Lors de son stream sur Yakiniku Simulation, Bae s'est mise au défi dans lequel elle devait faire un squat pour chaque Super Chat qui lui était envoyé. Cela a entraîné une pluie de Super Chats de la part de ses spectateurs, ce qui a amené Bae à déclarer que les Super Chats rouges auraient 10 secondes de squats à la place. Bae a fait 76 squats au total pendant ce stream.",
+      "text": "Lors de son stream sur Yakiniku Simulation, Bae s’est mise au défi dans lequel elle devait faire un squat pour chaque Super Chat qui lui était envoyé. Cela a entraîné une pluie de Super Chats de la part de ses spectateurs, ce qui a amené Bae à déclarer que les Super Chats rouges auraient 10 secondes de squats à la place. Bae a fait 76 squats au total pendant ce stream.",
       "bbox": {
         "x": 0.0712,
         "y": 0.5877,
         "width": 0.3838,
         "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS & Bae",
+      "bbox": {
+        "x": 0.652,
+        "y": 0.179,
+        "width": 0.18,
+        "height": 0.025
       }
     },
     {
@@ -53,6 +93,16 @@
         "y": 0.2938,
         "width": 0.3888,
         "height": 0.1137
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fauna",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.548,
+        "width": 0.1,
+        "height": 0.025
       }
     },
     {

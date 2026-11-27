@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2507_-_3107",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0174,
         "width": 0.33,
         "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Altare",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.18,
+        "width": 0.095,
+        "height": 0.023
       }
     },
     {
@@ -26,13 +36,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Ok I think I have to make it clear that I was doing a bit during the sonic stream I do not find Rogue the bat or Amy attractive in any way or Shadow, Sally Acorn, Mina Mongoose, or Bunny D'Coolette theres also Blaze the Cat.and Tikal. Oh Yea how could I forget Wave from",
+      "type": "heading",
+      "text": "Dezmond",
       "bbox": {
-        "x": 0.0619,
-        "y": 0.4844,
-        "width": 0.4094,
-        "height": 0.0673
+        "x": 0.168,
+        "y": 0.578,
+        "width": 0.15,
+        "height": 0.023
       }
     },
     {
@@ -56,8 +66,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Dezmond",
+      "bbox": {
+        "x": 0.631,
+        "y": 0.305,
+        "width": 0.15,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Une semaine seulement apres ses débuts, le grand alchimiste autoproclamé a décidé de prendre les choses en main d'une manière tellement MAGGANTE.",
+      "text": "Une semaine seulement après ses débuts, le grand alchimiste autoproclamé a décidé de prendre les choses en main d'une manière tellement MAGGANTE.",
       "bbox": {
         "x": 0.5356,
         "y": 0.3442,
@@ -77,12 +97,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour rester fidèle à sa vignette, il a nomme son espèce Axel sur Spore et a juré de le faire évoluer jusqu'à ce qu'elle sache lire.",
+      "text": "Pour rester fidèle à sa vignette,il a nommé son espèce Axel sur Spore et a juré de le faire évoluer jusqu'à ce qu'elle sache lire.",
       "bbox": {
         "x": 0.5363,
         "y": 0.5365,
         "width": 0.3856,
         "height": 0.0417
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Apex Collab",
+      "bbox": {
+        "x": 0.746,
+        "y": 0.756,
+        "width": 0.188,
+        "height": 0.023
       }
     },
     {

@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1807_-_2407",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Sana a rejoint une autre artiste reconnue au sein d'hololive, Zeta, pour sa treizième collaboration pré-graduation. Elles ont gribouillé sur une toile qu'elles partageaient et ont discuté de divers sujets comme de leurs mascottes, de nourriture et de vieilles histoires de leur enfance. Zeta a dit que Sana avait l'air d'un canard ivre très mignon. La toile s'est rapidement remplie de dessins des différents sujets de conversation qu'elles ont abordés. Sana a dit qu'elle veillerait à ce que tous les talents grandissent au fil du temps. Zeta n'a pas voulu mettre fin au stream car c'était sa dernière chance d'être avec Sana. Avec cette collaboration, Sana a fini de collaborer avec toutes ses cadettes, y compris celles d'hololD 3ème génération.",
+      "text": "Sana a rejoint une autre artiste reconnue au sein d'hololive, Zeta, pour sa treizième collaboration pré-graduation. Elles ont gribouillé sur une toile qu'elles partageaient et ont discuté de divers sujets comme de leurs mascottes, de nourriture et de vieilles histoires de leur enfance. Zeta a dit que Sana avait l'air d'un canard ivre très mignon. La toile s'est rapidement remplie de dessins des différents sujets de conversation qu'elles ont abordés. Sana a dit qu'elle veillerait à ce que tous les talents grandissent au fil du temps. Zeta n'a pas voulu mettre fin au stream car c'était sa dernière chance d'être avec Sana. Avec cette collaboration, Sana a fini de collaborer avec toutes ses cadettes, y compris celles d'holoID 3ème génération.",
       "bbox": {
         "x": 0.0712,
         "y": 0.1289,
@@ -47,12 +47,32 @@
     },
     {
       "type": "paragraph",
-      "text": "Mel a invité Sana sur sa chaîne pour jouer a Nintendo Switch Sports, ce qui en fait la quatorzième collaboration pré-graduation de Sana. Pour pimenter les choses, elles ont mis en place des punitions : si Sana perdait, elle devait dire des phrases très embarrassantes en japonais, et si Mel perdait, elle devait parler un anglais australien. Sana a remporté après une égalité, mais a quand même voulu les punitions. Sana a lu la phrase « Ne touche pas ma fille. Allez, fais moi un bisous, petit chaton. », et Mel a appris à dire « sun on the beach » et « crikey », qui lui a semblé très mignon. Mel a dit qu'elle était très triste que Sana parte et qu'elle voulait passer du temps avec elle, même si ce n'était qu'une fois. Malgré son départ, Sana ne disparaîtra pas, et son souvenir ne s'effacera pas non plus, alors Mel a dit qu'elle s'accrocherait à ce moment agréable et a souhaité le meilleur pour Sana.",
+      "text": "Mel a invité Sana sur sa chaîne pour jouer à Nintendo Switch Sports, ce qui en fait la quatorzième collaboration pré-graduation de Sana. Pour pimenter les choses, elles ont mis en place des punitions : si Sana perdait, elle devait dire des phrases très embarrassantes en japonais, et si Mel perdait, elle devait parler un anglais australien. Sana a remporté après une égalité, mais a quand même voulu les punitions. Sana a lu la phrase « Ne touche pas ma fille. Allez, fais moi un bisous, petit chaton. », et Mel a appris à dire « sun on the beach » et « crikey », qui lui a semblé très mignon. Mel a dit qu'elle était très triste que Sana parte et qu'elle voulait passer du temps avec elle, même si ce n'était qu'une fois. Malgré son départ, Sana ne disparaîtra pas, et son souvenir ne s'effacera pas non plus, alors Mel a dit qu'elle s'accrocherait à ce moment agréable et a souhaité le meilleur pour Sana.",
       "bbox": {
         "x": 0.0712,
         "y": 0.4275,
         "width": 0.405,
         "height": 0.2687
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Minecraft",
+      "bbox": {
+        "x": 0.735,
+        "y": 0.225,
+        "width": 0.157,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La lune, l'espace et le temps se sont réunis avec l'objectif de finir l'observatoire de Sana pour sa quinzième collaboration pré-graduation. Pendant la préparation, Kronii a pris les fesses du Sanalite pour une référence à Among Us, ce qui a bien fait rire Sana. Après avoir rassemblé les ressources, elles ont lentement construit les murs de verre parsemés de pierres lumineuses pour représenter les étoiles du ciel nocturne. Après presque trois heures de construction, c'était enfin terminé. Elles ont pris des captures d'écran avec une éclipse lunaire et la tour de Sana en arrière-plan dans la nuit. Après le lever du soleil, Moona a emmené les deux autres dans le serveur ID. Tous deux ont été hypnotisés par les structures organisées, l'esthétique définie et la technologie étonnante de la ville. Sana les a remerciés de l'avoir aidée à terminer la tour et a souhaité rester sur le serveur ID. Son observatoire restera là pour toujours, brillant de la lumière toujours éclatante des étoiles.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2648,
+        "width": 0.3913,
+        "height": 0.2856
       }
     },
     {
@@ -77,52 +97,22 @@
     },
     {
       "type": "paragraph",
-      "text": "La lune, l'espace et le temps se sont réunis avec l'objectif de finir l'observatoire de Sana pour sa quinzième collaboration pré-graduation. Pendant la préparation, Kronii a pris les fesses du Sanalite pour une référence à Among Us, ce qui a bien fait rire Sana. Après avoir rassemblé les ressources, elles ont lentement construit les murs de verre parsemés de pierres lumineuses pour représenter les étoiles du ciel nocturne. Après presque trois heures de construction, c'était enfin terminé. Elles ont pris des captures d'écran avec une éclipse lunaire et la tour de Sana en arrière-plan dans la nuit. Après le lever du soleil, Moona a emmené les deux autres dans le serveur ID. Tous deux ont été hypnotisés par les structures organisées, l'esthétique définie et la technologie étonnante de la ville. Sana les a remerciés de l'avoir aidée à terminer la tour et a souhaité rester sur le serveur ID. Son observatoire restera là pour toujours, brillant de la lumière toujours éclatante des étoiles.",
+      "text": "Elles ont joué un peu, puis ont été téléportées sur une scène ressemblant à une pièce de théâtre scolaire, avec six étoiles représentant chaque membre dans le ciel. Elles ont commencé à chanter « Secret Base », une chanson qui parle de se souvenir des bons moments, quelque chose que les filles n'oublieront sûrement jamais. Une fois la chanson terminée, les filles ont organisé une séance de photos sur la scène, ont fait un dernier au revoir à Sana, et ont terminé le stream en annonçant la sortie de produits dérivés Smol dans le futur.",
       "bbox": {
         "x": 0.5381,
-        "y": 0.2648,
-        "width": 0.3913,
-        "height": 0.2856
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Elles ont joué un peu, puis ont été téléportées",
-      "bbox": {
-        "x": 0.5394,
         "y": 0.7804,
-        "width": 0.3625,
-        "height": 0.0217
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "sur une scène ressemblant à une pièce de théâtre scolaire, avec six étoiles représentant chaque membre dans le ciel. Elles ont commencé à chanter « Secret Base », une chanson qui parle de se souvenir des bons moments, quelque chose que les filles n'oublieront sûrement jamais. Une fois la chanson terminée, les filles ont organisé une séance de photos sur la scène, ont fait un dernier au revoir à Sana, et ont terminé le stream en annonçant la sortie de produits dérivés Smol dans le futur.",
-      "bbox": {
-        "x": 0.5381,
-        "y": 0.7925,
         "width": 0.39,
-        "height": 0.1432
+        "height": 0.1553
       }
     },
     {
       "type": "paragraph",
-      "text": "Au générique, elles ont remercié Ame, Henma et les autres personnes qui ont fait de ce projet une réalité, avec une interprétation au piano",
+      "text": "Au générique, elles ont remercié Ame, Henma et les autres personnes qui ont fait de ce projet une réalité, avec une interprétation au piano d'« Astrogirl » comme musique de fond.",
       "bbox": {
         "x": 0.5381,
         "y": 0.9384,
         "width": 0.39,
-        "height": 0.0365
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "d'« Astrogirl » comme musique de fond.",
-      "bbox": {
-        "x": 0.5387,
-        "y": 0.9748,
-        "width": 0.3144,
-        "height": 0.0122
+        "height": 0.0486
       }
     }
   ],

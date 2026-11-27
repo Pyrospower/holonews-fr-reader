@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0108_-_0708",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,16 +13,6 @@
         "y": 0.0161,
         "width": 0.1444,
         "height": 0.0221
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Ollie a créé un quiz pour vous ! Êtes-vous quelqu'un de loyal envers votre oshi, une personne indécise, où quelqu'un qui supporte tout le monde ?",
-      "bbox": {
-        "x": 0.0694,
-        "y": 0.4266,
-        "width": 0.3781,
-        "height": 0.0525
       }
     },
     {
@@ -37,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les membres d'holoro (hololD Gen 2) vont recevoir de nouvelles tenues ce mois-ci ! La seule information que nous avons est que les tenues arrivent en août 2022, donc restez informez.",
+      "text": "Les membres d’holoro (holoID Gen 2) vont recevoir de nouvelles tenues ce mois-ci ! La seule information que nous avons est que les tenues arrivent en août 2022, donc restez informez.",
       "bbox": {
         "x": 0.5206,
         "y": 0.1354,
@@ -46,63 +36,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Kureiji Ollie (+ 9 —) g @+ 0 7 { FID // #)). @ WANT TO DRAW MORE SWIMSUITS",
+      "type": "heading",
+      "text": "Ollie",
       "bbox": {
-        "x": 0.5725,
-        "y": 0.2196,
-        "width": 0.2456,
-        "height": 0.0169
-      }
-    },
-    {
-      "type": "other",
-      "text": "HoloNews | Exclusive Interview w/ Sana ou... We will write about that!",
-      "bbox": {
-        "x": 0.5719,
-        "y": 0.2674,
-        "width": 0.2306,
-        "height": 0.0174
-      }
-    },
-    {
-      "type": "other",
-      "text": "• Kureiji Ollie (+ Ÿ —) @* 0 7 4 71D // HIOLLE® ©",
-      "bbox": {
-        "x": 0.5288,
-        "y": 0.3155,
-        "width": 0.3194,
-        "height": 0.0221
-      }
-    },
-    {
-      "type": "other",
-      "text": "@HoloNewsEN",
-      "bbox": {
-        "x": 0.585,
-        "y": 0.3485,
-        "width": 0.07,
-        "height": 0.0061
+        "x": 0.167,
+        "y": 0.39,
+        "width": 0.23,
+        "height": 0.026
       }
     },
     {
       "type": "paragraph",
-      "text": "UWOOOOOOGH",
+      "text": "Ollie a créé un quiz pour vous ! Êtes-vous quelqu’un de loyal envers votre oshi, une personne indécise, où quelqu’un qui supporte tout le monde ?",
       "bbox": {
-        "x": 0.53,
-        "y": 0.3655,
-        "width": 0.1213,
-        "height": 0.0078
+        "x": 0.0694,
+        "y": 0.4266,
+        "width": 0.3781,
+        "height": 0.0525
       }
     },
     {
-      "type": "other",
-      "text": "Translate",
+      "type": "heading",
+      "text": "Ollie",
       "bbox": {
-        "x": 0.5288,
-        "y": 0.3798,
-        "width": 0.0375,
-        "height": 0.0043
+        "x": 0.636,
+        "y": 0.417,
+        "width": 0.23,
+        "height": 0.026
       }
     },
     {
@@ -147,67 +107,27 @@
     },
     {
       "type": "paragraph",
-      "text": "Figurine à l'échelle : Chloé, Lamy, Noel en aillot de bain",
+      "text": "• Figurine à l'échelle : Chloé, Lamy, Noel en maillot de bain\n• Figma : La+, Calli, Ame, Ina, Kiara (Gura a été annoncé en juillet, plus de détails bientôt).\n• POP UP PARADE : Shion, Kanata, Subaru, Ayame\n• Nendoroid : Botan, Lamy, Aki, Kanata, Watame, Ayame, Noel, Suisei, Flare\n• Phat : Noel (Prototype)",
       "bbox": {
-        "x": 0.0956,
+        "x": 0.0781,
         "y": 0.8125,
-        "width": 0.365,
-        "height": 0.0239
+        "width": 0.3876,
+        "height": 0.1554
       }
     },
     {
-      "type": "paragraph",
-      "text": "Figma : La+, Calli, Ame, Ina, Kiara (Gura a",
+      "type": "heading",
+      "text": "Sweets",
       "bbox": {
-        "x": 0.0963,
-        "y": 0.8446,
-        "width": 0.3694,
-        "height": 0.0239
+        "x": 0.803,
+        "y": 0.693,
+        "width": 0.115,
+        "height": 0.026
       }
     },
     {
       "type": "paragraph",
-      "text": "été annonce en juillet, plus de détails bientôt).",
-      "bbox": {
-        "x": 0.0956,
-        "y": 0.8581,
-        "width": 0.3188,
-        "height": 0.0269
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• POP UP PARADE : Shion, Kanata, Subaru, Ayame",
-      "bbox": {
-        "x": 0.0781,
-        "y": 0.8902,
-        "width": 0.3219,
-        "height": 0.0269
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Nendoroid : Botan, Lamy, Aki, Kanata, Watame, Ayame, Noel, Suisei, Flare",
-      "bbox": {
-        "x": 0.0781,
-        "y": 0.9223,
-        "width": 0.3488,
-        "height": 0.0269
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Phat : Noel (Prototype)",
-      "bbox": {
-        "x": 0.0963,
-        "y": 0.9544,
-        "width": 0.1969,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Calli, Choco, Lui et Mel ont goûté et jugé cing sortes de bonbons de luxe sur la chaîne hololive. Ils s'agissaient des cings meilleures sucreries de luxe du Japon au moment de la rédaction de cet article : de la terrine de chocolat au thé vert d'Izumo, une tarte au chocolat de MAISON CACAO, du chocolat « Toronama Baumkuchen », un gâteau au fromage de luxe de Musashinosabo et le pudding à la mode de Tokyo. Les règles stipulaient que si l'une des filles choisissait le bonbon numéro un, le jeu prenait fin immédiatement et Mel mangeait tout. Sinon, cette fille peut goûter ce bonbon et le jeu continue. Le jeu a pris fin quand Calli a choisi le cheesecake, qui était le bonbon numéro un. Lui a goûté la tarte au chocolat qui était en troisième position et Choco a goûté le pudding qui était en cinquième position.",
+      "text": "Calli, Choco, Lui et Mel ont goûté et jugé cinq sortes de bonbons de luxe sur la chaîne hololive. Ils s’agissaient des cinq meilleures sucreries de luxe du Japon au moment de la rédaction de cet article : de la terrine de chocolat au thé vert d’Izumo, une tarte au chocolat de MAISON CACAO, du chocolat « Toronama Baumkuchen », un gâteau au fromage de luxe de Musashinosabo et le pudding à la mode de Tokyo. Les règles stipulaient que si l’une des filles choisissait le bonbon numéro un, le jeu prenait fin immédiatement et Mel mangeait tout. Sinon, cette fille peut goûter ce bonbon et le jeu continue. Le jeu a pris fin quand Calli a choisi le cheesecake, qui était le bonbon numéro un. Lui a goûté la tarte au chocolat qui était en troisième position et Choco a goûté le pudding qui était en cinquième position.",
       "bbox": {
         "x": 0.5381,
         "y": 0.7318,

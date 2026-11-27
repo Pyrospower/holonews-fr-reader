@@ -3,8 +3,18 @@
   "issueId": "holonews_holoid03_debut_special_-_fr_version",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Kobo Kanaeru",
+      "bbox": {
+        "x": 0.0413,
+        "y": 0.0198,
+        "width": 0.4524,
+        "height": 0.1036
+      }
+    },
     {
       "type": "paragraph",
       "text": "Kobo Kanaeru est la dernière membre de la génération 3 d'holoID à avoir fait ses débuts après Zeta et Kaela, qui avaient fait leurs débuts plus tôt.",
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Kobo a commencé son aventure au sein d’hololD en étant victime de blagues sur son nom, qui ressemble au « kobokan aer » (un bol rempli d'eau utilisé dans les restaurants indonésiens pour se laver les mains avant de manger).",
+      "text": "Kobo a commencé son aventure au sein d’holoID en étant victime de blagues sur son nom, qui ressemble au « kobokan aer » (un bol rempli d'eau utilisé dans les restaurants indonésiens pour se laver les mains avant de manger).",
       "bbox": {
         "x": 0.035,
         "y": 0.2639,
@@ -47,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle a ensuite présenté son immense collection d'instruments : elle possède un tambourin, une flûte à bec, une kalimba, une guitare, un clavier, une caisse claire et un violon cassé. Et bien que ses cheveux ressemblent à de l'eau, Kobo déteste l'eau et ne sait pas nager.",
+      "text": "Elle a ensuite présenté son immense collection d’instruments : elle possède un tambourin, une flûte à bec, une kalimba, une guitare, un clavier, une caisse claire et un violon cassé. Et bien que ses cheveux ressemblent à de l'eau, Kobo déteste l'eau et ne sait pas nager.",
       "bbox": {
         "x": 0.0338,
         "y": 0.7036,
@@ -57,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après avoir énuméré ses objectifs, qui comprennent, entre autres, l'achat d’un cheval, Kobo a terminé le stream en interprétant en direct sa chanson originale avec une guitare acoustique. En rappel, elle a chanté « Renai Circulation ».",
+      "text": "Après avoir énuméré ses objectifs, qui comprennent, entre autres, l’achat d’un cheval, Kobo a terminé le stream en interprétant en direct sa chanson originale avec une guitare acoustique. En rappel, elle a chanté « Renai Circulation ».",
       "bbox": {
         "x": 0.0331,
         "y": 0.8251,
@@ -67,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "N'hésitez pas à aller découvrir la chaîne de cette adorable chamane des pluies !",
+      "text": "N’hésitez pas à aller découvrir la chaîne de cette adorable chamane des pluies !",
       "bbox": {
         "x": 0.035,
         "y": 0.9223,

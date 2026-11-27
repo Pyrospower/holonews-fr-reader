@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2211_-_2811",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Noel à tenu un stream totsumachi pour célébrer son anniversaire ! C’est le 3e anniversaire qu’elle fête en tant que membre d’hololive.",
+      "text": "Noel a tenu un stream totsumachi pour célébrer son anniversaire ! C’est le 3e anniversaire qu’elle fête en tant que membre d’hololive.",
       "bbox": {
         "x": 0.02,
         "y": 0.0868,
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "D'autres membres d’hololive tels que Marine, Flare, Mel, Choco, Lamy, Suisei, Towa, Miko, Subaru, Sora et Pekora sont passées pour lui fêter un joyeux anniversaire. Noel leur a demandé ce qu'elles feraient si elles avaient la capacité de changer de corps pendant une journée, leur préférence entre le porc ou le bœuf dans un bol de riz et ce qu’elles feraient si elles pouvaient sortir avec Noel, puis elle a eu une séance de discussion.",
+      "text": "D’autres membres d’hololive tels que Marine, Flare, Mel, Choco, Lamy, Suisei, Towa, Miko, Subaru, Sora et Pekora sont passées pour lui fêter un joyeux anniversaire. Noel leur a demandé ce qu’elles feraient si elles avaient la capacité de changer de corps pendant une journée, leur préférence entre le porc ou le bœuf dans un bol de riz et ce qu’elles feraient si elles pouvaient sortir avec Noel, puis elle a eu une séance de discussion.",
       "bbox": {
         "x": 0.0194,
         "y": 0.1428,
@@ -47,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour remercier ses chevaliers de leur loyauté et de leur soutien sans faille, Noel a dévoilé ses produits dérivés d'anniversaire :",
+      "text": "Pour remercier ses chevaliers de leur loyauté et de leur soutien sans faille, Noel a dévoilé ses produits dérivés d’anniversaire :",
       "bbox": {
         "x": 0.02,
         "y": 0.3316,
@@ -57,37 +57,17 @@
     },
     {
       "type": "paragraph",
-      "text": "• Une affiche de Noel prenant son bain au format A2 illustré par sa maman, Watao-sensei « Une serviette de bain style Noren « Danchou »",
+      "text": "• Une affiche de Noel prenant son bain au format A2 illustré par sa maman, Watao-sensei\n• Une serviette de bain style Noren « Danchou »\n• Une bouteille de shampooing avec une contenance de 650 mL\n• Le porte-savon allant de pair",
       "bbox": {
         "x": 0.0369,
         "y": 0.3876,
-        "width": 0.4463,
-        "height": 0.0408
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Une bouteille de shampooing avec une contenance de 650 mL",
-      "bbox": {
-        "x": 0.0369,
-        "y": 0.4293,
         "width": 0.4781,
-        "height": 0.0239
+        "height": 0.0824
       }
     },
     {
       "type": "paragraph",
-      "text": "• Le porte-savon allant de pair",
-      "bbox": {
-        "x": 0.0369,
-        "y": 0.457,
-        "width": 0.2581,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Le bonus pour l’achat de l’ensemble est une carte postale comportant un message secret de Noel en relief ainsi qu'une signature manuscrite.",
+      "text": "Le bonus pour l’achat de l’ensemble est une carte postale comportant un message secret de Noel en relief ainsi qu’une signature manuscrite.",
       "bbox": {
         "x": 0.02,
         "y": 0.4848,
@@ -107,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le 25 novembre s'est tenu le premier live de la 3e génération d’hololive, intitulé « HOLOLIVE FANTASY 1st LIVE FAN FUN ISLAND ». Il a pris place au Tokyo Dome City Hall et a été diffusé sur SPWN.",
+      "text": "Le 25 novembre s’est tenu le premier live de la 3e génération d’hololive, intitulé « HOLOLIVE FANTASY 1st LIVE FAN FUN ISLAND ». Il a pris place au Tokyo Dome City Hall et a été diffusé sur SPWN.",
       "bbox": {
         "x": 0.035,
         "y": 0.7296,
@@ -127,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Une partie du live peut être trouvée gratuitement sur la chaîne YouTube officielle d’hololive tandis que des billets sont encore disponibles sur le site de SPWN pour accéder à l'archive. L’archive complète sera disponible jusqu'au 25 décembre.",
+      "text": "Une partie du live peut être trouvée gratuitement sur la chaîne YouTube officielle d’hololive tandis que des billets sont encore disponibles sur le site de SPWN pour accéder à l’archive. L’archive complète sera disponible jusqu’au 25 décembre.",
       "bbox": {
         "x": 0.035,
         "y": 0.8724,

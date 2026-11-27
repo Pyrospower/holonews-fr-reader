@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_1001_-_1601",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Oga’s Birthday",
+      "bbox": {
+        "x": 0.054,
+        "y": 0.414,
+        "width": 0.552,
+        "height": 0.096
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Ce 15 janvier, Oga a célébré son 3 052e anniversaire avec un stream en 3D. La première moitié du stream était dédiée au scénario d'une fiction où nous passons la journée avec Oga. Le scénario a commencé sur notre réveil dans le lit d'Oga, puis a continué sur une sortie shopping avec lui. Après ça, nous sommes retournés chez lui et lui avons fait un massage, en profitant pour admirer son dos. En retour, Oga nous a également fait un massage.",
+      "text": "Ce 15 janvier, Oga a célébré son 3 052e anniversaire avec un stream en 3D. La première moitié du stream était dédiée au scénario d’une fiction où nous passons la journée avec Oga. Le scénario a commencé sur notre réveil dans le lit d’Oga, puis a continué sur une sortie shopping avec lui. Après ça, nous sommes retournés chez lui et lui avons fait un massage, en profitant pour admirer son dos. En retour, Oga nous a également fait un massage.",
       "bbox": {
         "x": 0.0706,
         "y": 0.5285,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Par la suite, nous avons mangé du gâteau avec lui, mais avons décidé de prendre la fuite après qu'il a refusé de se laisser nourrir. S'en est suivi un clip de sa chanson originale « Silent Night Requiem » où nous avons manqué de nous faire renverser par une voiture après nous être enfuis, nous faisant sauver de justesse par Oga. Après nous avoir retrouvé et ramené à la maison, Oga nous a fait prendre une douche et nous a essuyé avant de retourner ensemble au lit pour nous coucher.",
+      "text": "Par la suite, nous avons mangé du gâteau avec lui, mais avons décidé de prendre la fuite après qu’il a refusé de se laisser nourrir. S’en est suivi un clip de sa chanson originale « Silent Night Requiem » où nous avons manqué de nous faire renverser par une voiture après nous être enfuis, nous faisant sauver de justesse par Oga. Après nous avoir retrouvé et ramené à la maison, Oga nous a fait prendre une douche et nous a essuyé avant de retourner ensemble au lit pour nous coucher.",
       "bbox": {
         "x": 0.0711,
         "y": 0.6416,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le scénario étant terminé, nous sommes retournés à la réalité où Oga a fait venir un Omaesan en tant qu'invité surprise, pour jouer avec lui et prendre des photos: L'Omaesan a dancé, pris la pose avec Oga et s'est aussi fait frapper par la foudre. Oga a ensuite présenté ses produit dérivés d'anniversaire :",
+      "text": "Le scénario étant terminé, nous sommes retournés à la réalité où Oga a fait venir un Omaesan en tant qu’invité surprise, pour jouer avec lui et prendre des photos. L’Omaesan a dancé, pris la pose avec Oga et s'est aussi fait frapper par la foudre. Oga a ensuite présenté ses produit dérivés d’anniversaire :",
       "bbox": {
         "x": 0.0722,
         "y": 0.7542,
@@ -36,58 +46,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "• Un intercalaire transparent A4",
+      "type": "other",
+      "text": "• Un intercalaire transparent A4\n• Un badge en métal\n• Une plaque d’identité militaire\n• Un sac en toile\n• Un pack de voix ASMR",
       "bbox": {
-        "x": 0.0928,
-        "y": 0.8187,
-        "width": 0.3139,
-        "height": 0.0154
+        "x": 0.091,
+        "y": 0.819,
+        "width": 0.317,
+        "height": 0.078
       }
     },
     {
       "type": "paragraph",
-      "text": "• Un badge en métal",
-      "bbox": {
-        "x": 0.0928,
-        "y": 0.8345,
-        "width": 0.2067,
-        "height": 0.0158
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Une plaque d'identité militaire",
-      "bbox": {
-        "x": 0.0928,
-        "y": 0.8507,
-        "width": 0.3094,
-        "height": 0.0158
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un sac en toile",
-      "bbox": {
-        "x": 0.0928,
-        "y": 0.8665,
-        "width": 0.1656,
-        "height": 0.012
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un pack de voix ASMR",
-      "bbox": {
-        "x": 0.0928,
-        "y": 0.8827,
-        "width": 0.2483,
-        "height": 0.0154
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Acheter l'ensemble complet vous permet d'obtenir une carte postale signée. Oga a fini le stream en remerciant tout le monde d'être venu pour son anniversaire et espère que les spectateurs auront apprécié son fan service. Il a également mentionné le fait que sa chanson originale sera disponible en téléchargement et en streaming.",
+      "text": "Acheter l’ensemble complet vous permet d'obtenir une carte postale signée. Oga a fini le stream en remerciant tout le monde d’être venu pour son anniversaire et espère que les spectateurs auront apprécié son fan service. Il a également mentionné le fait que sa chanson originale sera disponible en téléchargement et en streaming.",
       "bbox": {
         "x": 0.0711,
         "y": 0.9147,

@@ -3,8 +3,18 @@
   "issueId": "holonews_french_1710_-_2310",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "hololive 🤝 NIJISANJI EN",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.0214,
+        "width": 0.7185,
+        "height": 0.0705
+      }
+    },
     {
       "type": "paragraph",
       "text": "Le 18 octobre, après la collab entre Altare et Alban Knox de NIJISANJI EN, Ollie et Zeta ont joué à Apex avec Selen Tatsuki, qui fait aussi partie de de NIJISANJI EN !",
@@ -27,7 +37,37 @@
     },
     {
       "type": "paragraph",
-      "text": "La collab POMUTORI finalement eu lieu : Kiara a enfin pu faire un stream avec Pomu, la fée des bois de NIJISANJI. Les deux sont amies depuis un certain temps. Le stream a commencé avec Pomu qui a transformé Frogiwawa en Kiara avec un gros baiser baveux, avant que les deux se lancent dans une aventure en réalité virtuelle à travers les mondes VRChat de NIJISANJI et hololive.",
+      "text": "La collab entre Ollie et Selen a été très attendue par les fans depuis qu'elle a été annoncée en novembre 2021. La date initiale de la collab a été reportée, et elles ont dit qu’elles essaieraient à nouveau l'année prochaine. Près d'un an plus tard, elles ont tenu leur promesse et ont même invité Zeta à passer du temps avec elles.",
+      "bbox": {
+        "x": 0.57,
+        "y": 0.0981,
+        "width": 0.385,
+        "height": 0.1589
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En plein milieu de leur collab, Selen a dit qu'elle fera une autre collab sur Apex avec Dez et Axel. Elle a également révélé à la fin de son stream qu'elle participera à une autre collaboration holoNIJI prévue dans le futur, alors restez à l'écoute pour d'autres interactions inter-agences !",
+      "bbox": {
+        "x": 0.5675,
+        "y": 0.4002,
+        "width": 0.3838,
+        "height": 0.1294
+      }
+    },
+    {
+      "type": "heading",
+      "text": "POMUTORI",
+      "bbox": {
+        "x": 0.1615,
+        "y": 0.6987,
+        "width": 0.2154,
+        "height": 0.0524
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La collab POMUTORI tant attendue a finalement eu lieu : Kiara a enfin pu faire un stream avec Pomu, la fée des bois de NIJISANJI. Les deux sont amies depuis un certain temps. Le stream a commencé avec Pomu qui a transformé Frogiwawa en Kiara avec un gros baiser baveux, avant que les deux se lancent dans une aventure en réalité virtuelle à travers les mondes VRChat de NIJISANJI et hololive.",
       "bbox": {
         "x": 0.0506,
         "y": 0.7852,
@@ -37,57 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "tant attendue a",
-      "bbox": {
-        "x": 0.3,
-        "y": 0.7852,
-        "width": 0.1825,
-        "height": 0.0104
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "La collab entre Ollie et Selen a été très attendue par les fans depuis qu'elle a été annoncée en novembre 2021. La date initiale de la collab a été reportée, et elles ont dit qu'elles essaieraient a",
-      "bbox": {
-        "x": 0.57,
-        "y": 0.0981,
-        "width": 0.385,
-        "height": 0.0929
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "nouveau l'année prochaine. Près d'un an plus tard, elles ont tenu leur promesse et ont même invité Zeta à passer du temps avec elles.",
-      "bbox": {
-        "x": 0.57,
-        "y": 0.1806,
-        "width": 0.385,
-        "height": 0.0764
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "En plein milieu de leur collab, Selen a dit qu'elle fera une autre collab sur",
-      "bbox": {
-        "x": 0.5694,
-        "y": 0.4002,
-        "width": 0.3819,
-        "height": 0.0304
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Apex avec Dez et Axel. Elle a également révélé à la fin de son stream qu'elle participera à une autre collaboration holoNIJI prévue dans le futur, alors restez à l'écoute pour d'autres interactions inter-agences !",
-      "bbox": {
-        "x": 0.5675,
-        "y": 0.4332,
-        "width": 0.3837,
-        "height": 0.0964
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Il y a eu plusieurs temps forts dans ce stream : le duo a saccagé la chambre de Finana, bu les larmes de YAGOO, Kiara a piqué Pomu aux fesses, les deux sont entrées dans un sauna ensemble, Kiara n'a fait qu'un avec le sol et les deux ont twerké dans la chambre de Calli. Ensuite, un mini concert a été organisé, au cours duquel le duo a chanté « Hinotori », « Diamond City Lights », « Fukashigi no Carte » et « Lady Mermaid ». Le stream a dû prendre fin, mais elles ont promis de collaborer à nouveau à l'avenir.",
+      "text": "Il y a eu plusieurs temps forts dans ce stream : le duo a saccagé la chambre de Finana, bu les larmes de YAGOO, Kiara a piqué Pomu aux fesses, les deux sont entrées dans un sauna ensemble, Kiara n’a fait qu’un avec le sol et les deux ont twerké dans la chambre de Calli. Ensuite, un mini concert a été organisé, au cours duquel le duo a chanté « Hinotori », « Diamond City Lights », « Fukashigi no Carte » et « Lady Mermaid ». Le stream a dû prendre fin, mais elles ont promis de collaborer à nouveau à l'avenir.",
       "bbox": {
         "x": 0.5681,
         "y": 0.7218,

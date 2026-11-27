@@ -3,11 +3,51 @@
   "issueId": "holonews_fr_ver_1403_-_2003",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Hakui Koyori",
+      "bbox": {
+        "x": 0.0322,
+        "y": 0.0301,
+        "width": 0.4167,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "other",
+      "text": "3.15",
+      "bbox": {
+        "x": 0.7722,
+        "y": 0.1821,
+        "width": 0.0767,
+        "height": 0.0231
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après les appels, Koyori a présenté ses produits dérivés d'anniversaire :",
+      "text": "Le 15 mars, Koyori a fêté son anniversaire avec un stream durant lequel elle recevait des appels. Elle avait fait un décompte la veille, et a écrit deux capsules temporelles pour la Koyori du futur. Une des capsules est pour l’année prochaine, l'autre pour dans 10 ans.. Une heure avant son stream d'anniversaire, Koyori a également sorti une reprise d' « Onegai Darling ».",
+      "bbox": {
+        "x": 0.6044,
+        "y": 0.5374,
+        "width": 0.3406,
+        "height": 0.2249
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant son stream d'anniversaire, 27 personnes ont appelé Koyori et elle a reçu des cadeaux variés : Bae lui a chanté Joyeux anniversaire, Kiara a fait de même mais en allemand, et Pekora prévoit de lui donner des bonbons salmiakit lorsqu’elles se rencontreront dans la vie réelle.",
+      "bbox": {
+        "x": 0.6044,
+        "y": 0.7758,
+        "width": 0.335,
+        "height": 0.1694
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après les appels, Koyori a présenté ses produits dérivés d’anniversaire :",
       "bbox": {
         "x": 0.0844,
         "y": 0.7596,
@@ -17,52 +57,12 @@
     },
     {
       "type": "paragraph",
-      "text": "• Une tapisserie B2",
+      "text": "• Une tapisserie B2\n• Un support en acrylique\n• Une breloque en forme de queue duveteuse\n• Un porte-clés\n• Quatre packs de voix",
       "bbox": {
         "x": 0.1083,
         "y": 0.814,
-        "width": 0.2117,
-        "height": 0.0166
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un support en acrylique",
-      "bbox": {
-        "x": 0.1083,
-        "y": 0.8318,
-        "width": 0.2772,
-        "height": 0.017
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Une breloque en forme de queue duveteuse",
-      "bbox": {
-        "x": 0.1083,
-        "y": 0.8495,
         "width": 0.3789,
-        "height": 0.0309
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un porte-clés",
-      "bbox": {
-        "x": 0.1083,
-        "y": 0.8846,
-        "width": 0.1644,
-        "height": 0.017
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "» Quatre packs de voix",
-      "bbox": {
-        "x": 0.1083,
-        "y": 0.9028,
-        "width": 0.2489,
-        "height": 0.0166
+        "height": 0.1054
       }
     },
     {
@@ -73,26 +73,6 @@
         "y": 0.9379,
         "width": 0.4217,
         "height": 0.0347
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Le 15 mars, Koyori a fété son anniversaire avec un stream durant lequel elle recevait des appels. Elle avait fait un décompte la veille, et a écrit deux capsules temporelles pour la Koyori du futur. Une des capsules est pour l’année prochaine, l'autre pour dans 10 ans.. Une heure avant son stream d'anniversaire, Koyori a également sorti une reprise d' « Onegai Darling ».",
-      "bbox": {
-        "x": 0.6044,
-        "y": 0.5374,
-        "width": 0.3406,
-        "height": 0.2249
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Pendant son stream d'anniversaire, 27 personnes ont appelé Koyori et elle a reçu des cadeaux variés : Bae lui a chanté Joyeux anniversaire, Kiara a fait de même mais en allemand, et Pekora prévoit de lui donner des bonbons salmiakit lorsqu'elles se rencontreront dans la vie réelle.",
-      "bbox": {
-        "x": 0.6044,
-        "y": 0.7758,
-        "width": 0.335,
-        "height": 0.1694
       }
     }
   ],

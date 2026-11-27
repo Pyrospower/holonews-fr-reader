@@ -3,51 +3,41 @@
   "issueId": "holonews_fr_ver_3101_-_0602",
   "page": 18,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Les membres du serveur Discord de fans de Kiara préparent sa fête d'anniversaire plus tôt que d'habitude dans le but d'accorder plus de temps à sa réalisation. L'un des projets consiste à organiser un ballet aérien sur le jeu gratuit War Thunder, et ils recherchent des joueurs. Ils utiliseront des modèles d'avions spécifiques et certains modèles prendront du temps à être",
+      "type": "heading",
+      "text": "FAN PROJECTS",
       "bbox": {
-        "x": 0.0519,
-        "y": 0.1758,
-        "width": 0.4313,
-        "height": 0.1115
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "débloqués ! Ils feront aussi quelques projets",
-      "bbox": {
-        "x": 0.0525,
-        "y": 0.2869,
-        "width": 0.3775,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "additionnels comme des parodies de chansons,",
-      "bbox": {
-        "x": 0.0525,
-        "y": 0.3008,
-        "width": 0.4138,
-        "height": 0.0161
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "un drama audio, un musée de fanarts en 3D, et plus encore. Pour plus d'informations, veuillez vous référer aux sources dans les commentaires et cliquez sur le lien du serveur Discord.",
-      "bbox": {
-        "x": 0.0513,
-        "y": 0.3147,
-        "width": 0.4238,
-        "height": 0.056
+        "x": 0.1133,
+        "y": 0.0637,
+        "width": 0.3017,
+        "height": 0.0243
       }
     },
     {
       "type": "heading",
-      "text": "• LET'S PLAY +",
+      "text": "KFP",
+      "bbox": {
+        "x": 0.155,
+        "y": 0.1389,
+        "width": 0.095,
+        "height": 0.0255
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les membres du serveur Discord de fans de Kiara préparent sa fête d’anniversaire plus tôt que d’habitude dans le but d’accorder plus de temps à sa réalisation. L’un des projets consiste à organiser un ballet aérien sur le jeu gratuit War Thunder, et ils recherchent des joueurs. Ils utiliseront des modèles d’avions spécifiques et certains modèles prendront du temps à être débloqués ! Ils feront aussi quelques projets additionnels comme des parodies de chansons, un drama audio, un musée de fanarts en 3D, et plus encore. Pour plus d’informations, veuillez vous référer aux sources dans les commentaires et cliquez sur le lien du serveur Discord.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.1758,
+        "width": 0.4319,
+        "height": 0.1949
+      }
+    },
+    {
+      "type": "heading",
+      "text": "LET'S PLAY",
       "bbox": {
         "x": 0.1825,
         "y": 0.3971,
@@ -56,13 +46,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "HEAVEN BURNS RED",
+      "type": "other",
+      "text": "LET'S PLAY\nTERMINÉS",
       "bbox": {
-        "x": 0.2363,
-        "y": 0.7391,
-        "width": 0.0825,
-        "height": 0.0421
+        "x": 0.835,
+        "y": 0.3958,
+        "width": 0.1017,
+        "height": 0.0336
+      }
+    },
+    {
+      "type": "other",
+      "text": "UNCHARTED 4: A Thief’s End | GREEN HELL | WE WENT BACK\nMONSTER HUNTER WORLD ICEBORNE | Bus Simulator 18 | universe SANDBOX\nWarioWare GET IT Together! | VILLAGE BIOHAZARD | AGE of EMPIRES II\nMom Hid My Game! 2 | MORDHAU | Ib\nHEAVEN BURNS RED | RAFT | OMORI\nSUPER DRINK BROS. | A WAY OUT | HACKTAG: A 2 PLAYER COOP STEALTH GAME\nBossa Productions SURGEON SIMULATOR 2 | OVERLOAD | DYING LIGHT 2 STAY HUMAN",
+      "bbox": {
+        "x": 0.135,
+        "y": 0.4606,
+        "width": 0.8233,
+        "height": 0.4711
       }
     }
   ],

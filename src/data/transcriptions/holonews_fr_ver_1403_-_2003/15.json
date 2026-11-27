@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_1403_-_2003",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.4706,
+        "y": 0.0174,
+        "width": 0.06,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.1669,
+        "y": 0.1797,
+        "width": 0.0756,
+        "height": 0.0208
+      }
+    },
     {
       "type": "paragraph",
       "text": "Juste avant le festival, le 18 mars, Calli a fait trois grandes annonces. Tout d'abord, elle sortira son premier clip en 3D pour une nouvelle chanson originale, « UnAlive ». Deuxièmement, après le festival, elle organisera un live 3D pour son anniversaire.",
@@ -17,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La troisième annonce est le plus grand projet de sa carrière musicale : son premier album complet, également appelé UnAlive, sortira le 21 mars, accompagné d'une vidéo pour la chanson du même nom ! L'album comprend 11 titres, dont celui chanté avec Gura « TQ1 », et« Graveyard Shift » avec BOOGEY VOXX, ainsi que de nouvelles chansons originales ! Elliot Hsu, Camellia, seibin et Pretty Patterns ont participé à cet album et la couverture a été dessinée par Rei.",
+      "text": "La troisième annonce est le plus grand projet de sa carrière musicale : son premier album complet, également appelé UnAlive, sortira le 21 mars, accompagné d'une vidéo pour la chanson du même nom ! L'album comprend 11 titres, dont celui chanté avec Gura « 「Q」 », et « Graveyard Shift » avec BOOGEY VOXX, ainsi que de nouvelles chansons originales ! Elliot Hsu, Camellia, seibin et Pretty Patterns ont participé à cet album et la couverture a été dessinée par Rei.",
       "bbox": {
         "x": 0.0712,
         "y": 0.3151,
@@ -36,6 +56,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kronii",
+      "bbox": {
+        "x": 0.1669,
+        "y": 0.8099,
+        "width": 0.1019,
+        "height": 0.0213
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Kronii a enfin eu l'occasion de montrer sa connaissance sur l'univers de Powerwash Simulator en live. Sans perdre de temps, elle a montré son jeu, terminé à 100%, et une tenue entièrement améliorée. Entre deux discussions sur des animé et desfilms, elle a parlé du l'histoire du jeu et de ses théoris, montrant au passage ses penchants de femme de chambre, qu'elle nous avait déjà montré sur Minecraft.",
       "bbox": {
@@ -46,6 +76,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.1823,
+        "width": 0.0531,
+        "height": 0.0213
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Ina a discuté avec Febri, un site consacré à la culture japonaise, dans le cadre d'une série d'interviews avec les filles d'holoMyth. Elle a raconté son admiration pour Kuroboshi, son illustrateur, avant même de rejoindre hololive, ses idées de jeux de mots et son expérience sur le fait de faire partie d'UMISEA avec Marine, Aqua et Gura. L'interview est disponible sur le site web de Febri en japonais et en anglais.",
       "bbox": {
@@ -53,6 +93,16 @@
         "y": 0.2179,
         "width": 0.3856,
         "height": 0.1385
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.4887,
+        "width": 0.0881,
+        "height": 0.02
       }
     },
     {

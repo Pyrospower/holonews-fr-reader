@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_1010_-_1610",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "paragraph",
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour son stream d'anniversaire, elle a organisé un karaoké en appel, où elle chantait avec des invités qui avaient envoyé leurs voix préenregistrées. Pendant près de cinq heures, elle a chanté quarante-deux chansons (sans compter les répétitions) avec quarante-neuf invités, dont vingt-neuf membres d'hololive, des VTubers d'autres agences et des indépendants, comme Obake PAM de Playasia, la chanteuse indépendante splendiferachie et Zen Gunawan de MAHAS.",
+      "text": "Pour son stream d'anniversaire, elle a organisé un karaoké en appel, où elle chantait avec des invités qui avaient envoyé leurs voix préenregistrées. Pendant près de cinq heures, elle a chanté quarante-deux chansons (sans compter les répétitions) avec quarante-neuf invités, dont vingt-neuf membres d'hololive, des VTubers d'autres agences et des indépendants, comme Obake PAM de Playasia, la chanteuse indépendante splendiferachie et Zen Gunawan de MAHA5.",
       "bbox": {
         "x": 0.065,
         "y": 0.5964,
@@ -37,42 +37,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Le second est un ensemble de produits dérivés, qui comprend :",
+      "text": "Le second est un ensemble de produits dérivés, qui comprend :\n• Un paillasson en caoutchouc\n• Un collier\n• Un étui pour PC/tablette\n• Un ensemble de bombes de bain",
       "bbox": {
         "x": 0.565,
         "y": 0.6033,
         "width": 0.385,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un paillasson en caoutchouc",
-      "bbox": {
-        "x": 0.58,
-        "y": 0.6406,
-        "width": 0.3019,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un étui pour PC/tablette",
-      "bbox": {
-        "x": 0.58,
-        "y": 0.6736,
-        "width": 0.2619,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un ensemble de bombes de bain",
-      "bbox": {
-        "x": 0.58,
-        "y": 0.6901,
-        "width": 0.3394,
-        "height": 0.0113
+        "height": 0.0981
       }
     },
     {

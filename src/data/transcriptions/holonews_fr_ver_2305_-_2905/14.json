@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2305_-_2905",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -56,6 +56,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.7769,
+        "y": 0.1085,
+        "width": 0.1037,
+        "height": 0.0195
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Ina, Gura, Watson et Mumei ont fait plusieurs parties sur Overwatch. Le stream d'Ina s'est arrêté à cause de son fournisseur d'accès Internet, donc elle a redirigé ses spectateurs vers Mumei en plein milieu. Plus tard, elles ont remarqué que Bae jouait à Minecraft et ont décidé de la rejoindre par surprise. Elles ont promis de rejoindre Bae si elles gagnaient une partie de plus, et elles l’ont fait. Mumei a ensuite redirigé ses spectateurs vers Bae : de nombreux Takodachis et Hoomans se sont retrouvés sur le chat de Bae, qui a alors atteint un pic de 1 700 spectateurs.",
       "bbox": {
@@ -67,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elles ont parlé du nouveau relais que Moona a suggéré peur la création d’un portail, similaire à celui du portail EN qui relie les serveurs JP et EN entre eux. Bae construisait un tunnel vers le Bunkeronii afin de relier sa source de nourriture pour plus de commodité. De nouvelles constructions et projets ont attiré l'attention et de nouvelles idées ont été mises en œuvre. Dans l'ensemble, une journée très productive pour les filles.",
+      "text": "Elles ont parlé du nouveau relais que Moona a suggéré pour la création d’un portail, similaire à celui du portail EN qui relie les serveurs JP et EN entre eux. Bae construisait un tunnel vers le Bunkeronii afin de relier sa source de nourriture pour plus de commodité. De nouvelles constructions et projets ont attiré l'attention et de nouvelles idées ont été mises en œuvre. Dans l'ensemble, une journée très productive pour les filles.",
       "bbox": {
         "x": 0.5275,
         "y": 0.2995,
@@ -86,23 +96,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "NIGHT ALONE",
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
       "bbox": {
-        "x": 0.3569,
-        "y": 0.6389,
-        "width": 0.0706,
-        "height": 0.0078
+        "x": 0.7356,
+        "y": 0.4271,
+        "width": 0.2112,
+        "height": 0.0178
       }
     },
     {
-      "type": "heading",
-      "text": "Within Ske rry",
+      "type": "other",
+      "text": "Taiko no Tatsujin: Drum ’n’ Fun!\nPenguin’s Dogma\nYomawari: Night Alone\nHollow Knight\nKirby and the Forgotten Land\nKeyWe\nKnightfall: A Daring Journey",
       "bbox": {
-        "x": 0.67,
-        "y": 0.4805,
-        "width": 0.2281,
-        "height": 0.0339
+        "x": 0.1906,
+        "y": 0.4666,
+        "width": 0.2619,
+        "height": 0.5043
+      }
+    },
+    {
+      "type": "other",
+      "text": "Within Skerry\nGhostwire: Tokyo Deluxe Edition\nNeedy Girl Overdose\nHouse Flipper Pets\nElden Ring\nUntitled Goose Game\nPeglin",
+      "bbox": {
+        "x": 0.655,
+        "y": 0.4666,
+        "width": 0.2606,
+        "height": 0.5043
       }
     }
   ],

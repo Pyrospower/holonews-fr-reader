@@ -3,36 +3,46 @@
   "issueId": "holonews_fr_ver_lite_2712_-_0201",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "ÉVÉNEMENTS PALIERS À VENIR D'ABONNÉS",
+      "text": "ÉVÉNEMENTS À VENIR",
       "bbox": {
-        "x": 0.0738,
-        "y": 0.0269,
-        "width": 0.8219,
-        "height": 0.0712
+        "x": 0.0737,
+        "y": 0.0265,
+        "width": 0.3931,
+        "height": 0.0707
       }
     },
     {
       "type": "paragraph",
-      "text": "• 6 janvier : Anniversaire d'Amelia",
+      "text": "• 6 janvier : Anniversaire d’Amelia\n• 7 janvier : Tournoi hololive Mario Kart 8 2022",
       "bbox": {
-        "x": 0.0625,
+        "x": 0.0619,
         "y": 0.1202,
-        "width": 0.3606,
-        "height": 0.0161
+        "width": 0.3631,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PALIERS D’ABONNÉS",
+      "bbox": {
+        "x": 0.5825,
+        "y": 0.0365,
+        "width": 0.3131,
+        "height": 0.0616
       }
     },
     {
       "type": "paragraph",
-      "text": "• 7 janvier : Tournoi hololive Mario Kart 8 2022",
+      "text": "OGA 150K\nTOWA 900K\nIOFI 500K\nARURAN 150K\nKOYORI 450K\nFUBUKI 1.8 M\nMUMEI 500K\nKRONII 600K\nPOLKA 900K\nKORONE 1.75 M\nHAACHAMA DARKWEB 200K",
       "bbox": {
-        "x": 0.0625,
-        "y": 0.1549,
-        "width": 0.3631,
-        "height": 0.0299
+        "x": 0.6281,
+        "y": 0.1363,
+        "width": 0.2519,
+        "height": 0.4922
       }
     },
     {
@@ -47,22 +57,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Merci d’avoir consulté notre édition allégée spéciale vacances ! La majorité des membres de l’équipe de production sont en pause, alors veuillez nous excuser si cette édition n’est pas",
+      "text": "Merci d’avoir consulté notre édition allégée spéciale vacances ! La majorité des membres de l’équipe de production sont en pause, alors veuillez nous excuser si cette édition n’est pas aussi approfondie que d’habitude, et passez de bonnes vacances et une bonne année !",
       "bbox": {
-        "x": 0.055,
+        "x": 0.0525,
         "y": 0.6931,
-        "width": 0.8838,
-        "height": 0.0677
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "aussi approfondie que d'habitude, et passez de bonnes vacances et une bonne année !",
-      "bbox": {
-        "x": 0.1069,
-        "y": 0.7622,
-        "width": 0.7806,
-        "height": 0.0404
+        "width": 0.89,
+        "height": 0.1098
       }
     },
     {

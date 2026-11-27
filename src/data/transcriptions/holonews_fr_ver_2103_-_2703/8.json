@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_2103_-_2703",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "GEN 3",
+      "bbox": {
+        "x": 0.4373,
+        "y": 0.0167,
+        "width": 0.1267,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.1653,
+        "y": 0.1824,
+        "width": 0.116,
+        "height": 0.0194
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Re Marine Surfant sur la tendance déja observée au sein d'hololive, Marine a essayé The Closing Shift ! Elle a fait preuve de dextérité et de vivacité d'esprit afin de minimiser le temps d'attente de ses clients et les servir avec élégance. Juste après avoir ri à pleines dents en assistant à la danse déplacée d'un client torse nu, Marine a été effrayée par un assassin alors qu'elle fermait boutique.",
+      "text": "Surfant sur la tendance déjà observée au sein d'hololive, Marine a essayé The Closing Shift ! Elle a fait preuve de dextérité et de vivacité d'esprit afin de minimiser le temps d'attente de ses clients et les servir avec élégance. Juste après avoir ri à pleines dents en assistant à la danse déplacée d'un client torse nu, Marine a été effrayée par un assassin alors qu'elle fermait boutique.",
       "bbox": {
         "x": 0.07,
         "y": 0.1727,
@@ -26,6 +46,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.6307,
+        "y": 0.1824,
+        "width": 0.1093,
+        "height": 0.0194
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Pekora a joué à l'intégralité de Portal en à peu près une heure, qualifiant le jeu de « facile » à chaque fois qu'elle finissait une pièce. Comprendre le fonctionnement des portails lui a demandé de faire marcher ses neurones, car elle a oublié d'activer les sous-titres au début du jeu. Une fois cette étape passée, le jeu ne lui a posé aucune difficulté majeure et elle s'est beaucoup amusée en découvrant le Companion Cube. Le combat de boss ne lui a pris que quelques tentatives, et Pekora a fini le stream en discutant avec son tchat comme d'habitude.",
       "bbox": {
@@ -36,8 +66,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Noel",
+      "bbox": {
+        "x": 0.172,
+        "y": 0.4926,
+        "width": 0.0733,
+        "height": 0.0204
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Noel a été contrariée en apprenant que le récent patch d'Elden Ring avait rendu moins puissant l'un des boss les plus compliqués du jeu, Radahn. Elle a décidé de le défier a nu, sans armure ni invocations. Equipée seulement de sa fidèle masse, elle a vaincu le boss après près de trois heures de combat.",
+      "text": "Noel a été contrariée en apprenant que le récent patch d'Elden Ring avait rendu moins puissant l'un des boss les plus compliqués du jeu, Radahn. Elle a décidé de le défier à nu, sans armure ni invocations. Équipée seulement de sa fidèle masse, elle a vaincu le boss après près de trois heures de combat.",
       "bbox": {
         "x": 0.2738,
         "y": 0.4831,
@@ -56,6 +96,36 @@
       }
     },
     {
+      "type": "other",
+      "text": "All-Star Athletic Meet",
+      "bbox": {
+        "x": 0.1773,
+        "y": 0.7009,
+        "width": 0.148,
+        "height": 0.012
+      }
+    },
+    {
+      "type": "other",
+      "text": "16:00-",
+      "bbox": {
+        "x": 0.4093,
+        "y": 0.6167,
+        "width": 0.0573,
+        "height": 0.012
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Towa",
+      "bbox": {
+        "x": 0.1653,
+        "y": 0.7296,
+        "width": 0.0853,
+        "height": 0.0204
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Le 26 mars, Towa a participé aux portions Mario Kart 8 et Splatoon 2 du All-Star Athletic Meet. Elle a joué à Splatoon 2 en compagnie de Soraru, Ras, Naruse et Lisa, et à Mario Kart 8 avec Cpt, KInako, Soraru, Kanae, Naruse et Lisa.",
       "bbox": {
@@ -63,6 +133,16 @@
         "y": 0.7665,
         "width": 0.3913,
         "height": 0.0864
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.6347,
+        "y": 0.7296,
+        "width": 0.112,
+        "height": 0.0204
       }
     },
     {
@@ -76,23 +156,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Après avoir pris une longue pause à la suite du 3rd Fes, Luna a fait son Luna retour dimanche soir avec une partie détente sur Rhythm Heaven. Après avoir joué, elle a rattrapé son retard sur les Super Chats et a bavardé",
+      "type": "heading",
+      "text": "Luna",
       "bbox": {
-        "x": 0.1681,
-        "y": 0.9154,
-        "width": 0.7563,
-        "height": 0.0434
+        "x": 0.1667,
+        "y": 0.9306,
+        "width": 0.0813,
+        "height": 0.0213
       }
     },
     {
       "type": "paragraph",
-      "text": "avec les Lu-knights.",
+      "text": "Après avoir pris une longue pause à la suite du 3rd Fes, Luna a fait son retour dimanche soir avec une partie détente sur Rhythm Heaven. Après avoir joué, elle a rattrapé son retard sur les Super Chats et a bavardé avec les Lu-knights.",
       "bbox": {
-        "x": 0.2675,
-        "y": 0.9596,
-        "width": 0.1781,
-        "height": 0.0139
+        "x": 0.267,
+        "y": 0.9154,
+        "width": 0.66,
+        "height": 0.0581
       }
     }
   ],

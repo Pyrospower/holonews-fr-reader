@@ -3,7 +3,7 @@
   "issueId": "holonews_french_1710_-_2310",
   "page": 18,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,148 +16,68 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "• 25 octobre : Nouvelle tenue de Risu",
+      "type": "other",
+      "text": "• 25 octobre : Nouvelle tenue de Risu\n• 26 octobre : Nouvelle tenue de Iofi\n• 26 octobre : Nouvelle tenue de Polka\n• 27 octobre : Stream anniversaire des débuts de Rikka\n• 27 octobre : Nouvelle tenue de Moona\n• 28 octobre : Fête d'adieu de Shinove\n• 28 octobre : hololive Virtual LIVE sur VARK (Flare et Polka)\n• 31 octobre : Départ de Shinove\n• 31 octobre : Anniversaire de Mel\n• 1er novembre : Anniversaire d'Axel",
       "bbox": {
-        "x": 0.0444,
+        "x": 0.0438,
         "y": 0.2682,
-        "width": 0.4131,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 26 octobre : Nouvelle tenue de lofi\n• 26 octobre : Nouvelle tenue de Polka . .\n• 27 octobre : Stream anniversaire des débuts de Rikka",
-      "bbox": {
-        "x": 0.0444,
-        "y": 0.3003,
-        "width": 0.4288,
-        "height": 0.0933
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 27 octobre : Nouvelle tenue de Moona",
-      "bbox": {
-        "x": 0.0444,
-        "y": 0.4128,
-        "width": 0.3613,
-        "height": 0.0291
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 28 octobre : Fête d'adieu de Shinove",
-      "bbox": {
-        "x": 0.0444,
-        "y": 0.4609,
-        "width": 0.4206,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 28 octobre : hololive Virtual LIVE sur VARK (Flare et Polka)",
-      "bbox": {
-        "x": 0.0444,
-        "y": 0.4931,
-        "width": 0.4219,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 31 octobre : Départ de Shinove\n• 31 octobre : Anniversaire de Mel",
-      "bbox": {
-        "x": 0.0444,
-        "y": 0.5412,
-        "width": 0.3787,
-        "height": 0.0451
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "1er novembre : Anniversaire d'Axel",
-      "bbox": {
-        "x": 0.0669,
-        "y": 0.6055,
-        "width": 0.3888,
-        "height": 0.013
+        "width": 0.4325,
+        "height": 0.3516
       }
     },
     {
       "type": "heading",
-      "text": "Crédits Si vous voulez voir votre oshi dans les",
+      "text": "Paliers",
       "bbox": {
-        "x": 0.0569,
-        "y": 0.6536,
-        "width": 0.5069,
-        "height": 0.0686
+        "x": 0.6737,
+        "y": 0.1962,
+        "width": 0.155,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "other",
+      "text": "Zeta 600k\nSubaru 1.4 M\nAxel 160k",
+      "bbox": {
+        "x": 0.65,
+        "y": 0.2865,
+        "width": 0.0737,
+        "height": 0.1571
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magni 170k\nVesper 180k\nIzuru 200k",
+      "bbox": {
+        "x": 0.8538,
+        "y": 0.2847,
+        "width": 0.0725,
+        "height": 0.1589
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.6519,
+        "width": 0.2787,
+        "height": 0.0469
       }
     },
     {
       "type": "paragraph",
-      "text": "actualités ou juste rester à jour sur tout ce qui concerne hololive,",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d'HoloNews !",
       "bbox": {
-        "x": 0.0569,
-        "y": 0.7266,
-        "width": 0.54,
-        "height": 0.0395
+        "x": 0.0563,
+        "y": 0.7066,
+        "width": 0.5538,
+        "height": 0.1545
       }
     },
     {
       "type": "paragraph",
-      "text": "Magni 170k Vesper 180k",
-      "bbox": {
-        "x": 0.855,
-        "y": 0.2856,
-        "width": 0.0656,
-        "height": 0.0907
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Izuru 200k",
-      "bbox": {
-        "x": 0.8556,
-        "y": 0.4162,
-        "width": 0.0469,
-        "height": 0.0243
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "n'hésitez pas à rejoindre notre subreddit rt",
-      "bbox": {
-        "x": 0.0581,
-        "y": 0.7778,
-        "width": 0.6119,
-        "height": 0.0291
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "ou notre serveur Discord pour participe création d'HoloNews ! 1",
-      "bbox": {
-        "x": 0.0575,
-        "y": 0.8047,
-        "width": 0.5881,
-        "height": 0.0564
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "et donner un coup de main à la",
-      "bbox": {
-        "x": 0.0575,
-        "y": 0.8242,
-        "width": 0.4188,
-        "height": 0.02
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Merci d'avoir lu et a la semaine prochaine!",
+      "text": "Merci d'avoir lu et à la semaine prochaine !",
       "bbox": {
         "x": 0.0569,
         "y": 0.8802,

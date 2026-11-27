@@ -3,16 +3,46 @@
   "issueId": "holonews_fr_ver_lite_2712_-_0201",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "HOLO EN",
+      "bbox": {
+        "x": 0.1169,
+        "y": 0.0334,
+        "width": 0.3,
+        "height": 0.0321
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.1613,
+        "y": 0.2031,
+        "width": 0.1044,
+        "height": 0.0239
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Calli a collaboré avec Merryweather Comics pour nous offrir Calli's Christmas Catastrophe, une mini-série en trois épisodes ! Calli y promet d'acheter des cadeaux pour les filles d'holoEN, à la grande désapprobation de Death-sensei, car Calli est une Faucheuse et ne devrait pas interagir avec les mortels. Cependant, il permet à Calli de passer du temps avec ses amis après avoir réalisé qu'ils comptent beaucoup pour elle.",
+      "text": "Calli a collaboré avec Merryweather Comics pour nous offrir Calli's Christmas Catastrophe, une mini-série en trois épisodes ! Calli y promet d'acheter des cadeaux pour les filles d’holoEN, à la grande désapprobation de Death-sensei, car Calli est une Faucheuse et ne devrait pas interagir avec les mortels. Cependant, il permet à Calli de passer du temps avec ses amis après avoir réalisé qu'ils comptent beaucoup pour elle.",
       "bbox": {
         "x": 0.0525,
         "y": 0.2474,
         "width": 0.4206,
         "height": 0.1471
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ame",
+      "bbox": {
+        "x": 0.1613,
+        "y": 0.5417,
+        "width": 0.1013,
+        "height": 0.0213
       }
     },
     {
@@ -27,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Il n'a pas fallu longtemps pour qu’elle s'énerve, puisqu'elle s'est transformée en diablotin dès que Bennett Foddy, le narrateur du jeu, a parlé. Les mécaniques frustrantes du jeu, combinées à Bennett Foddy qui parlait lorsqu'elle tombait, on fait qu’Ame était constamment en colère pendant le stream, allant même jusqu'à quitter le jeu avec rage de nombreuses fois, avant de le relancer.",
+      "text": "Il n'a pas fallu longtemps pour qu’elle s’énerve, puisqu'elle s'est transformée en diablotin dès que Bennett Foddy, le narrateur du jeu, a parlé. Les mécaniques frustrantes du jeu, combinées à Bennett Foddy qui parlait lorsqu'elle tombait, on fait qu’Ame était constamment en colère pendant le stream, allant même jusqu'à quitter le jeu avec rage de nombreuses fois, avant de le relancer.",
       "bbox": {
         "x": 0.05,
         "y": 0.6428,
@@ -57,27 +87,17 @@
     },
     {
       "type": "heading",
-      "text": "ololive",
+      "text": "Kronii",
       "bbox": {
-        "x": 0.6888,
-        "y": 0.0213,
-        "width": 0.21,
-        "height": 0.0347
-      }
-    },
-    {
-      "type": "heading",
-      "text": "ENGLISH",
-      "bbox": {
-        "x": 0.6863,
-        "y": 0.0629,
-        "width": 0.1744,
-        "height": 0.0165
+        "x": 0.6312,
+        "y": 0.2031,
+        "width": 0.1512,
+        "height": 0.0234
       }
     },
     {
       "type": "paragraph",
-      "text": "Kronii a joué a Inscryption tout en doublant tous les dialogues. Elle a eu beaucoup de plaisir a affronter les différents défis que Leshy (le maître de jeu) lui proposait. En réfléchissant bien et en jouant lentement, elle a réussi à avancer jusqu'à la zone enneigée de l'acte 1.",
+      "text": "Kronii a joué à Inscryption tout en doublant tous les dialogues. Elle a eu beaucoup de plaisir à affronter les différents défis que Leshy (le maître de jeu) lui proposait. En réfléchissant bien et en jouant lentement, elle a réussi à avancer jusqu'à la zone enneigée de l'acte 1.",
       "bbox": {
         "x": 0.5219,
         "y": 0.2478,
@@ -87,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Kronii a rapidement découvert que le jeu proposait des écureuils ayant pour but d'être sacrifiés afin de jouer de meilleures cartes. Ironiquement, elle s'est rapidement prise d'affection pour eux. Vers la fin du stream, Kronii a fait une pause de plusieurs minutes en disant qu'elle devait lire les Super Chats, mais en réalité, elle ne voulait absolument pas arrêter de jouer.",
+      "text": "Kronii a rapidement découvert que le jeu proposait des écureuils ayant pour but d’être sacrifiés afin de jouer de meilleures cartes. Ironiquement, elle s'est rapidement prise d'affection pour eux. Vers la fin du stream, Kronii a fait une pause de plusieurs minutes en disant qu'elle devait lire les Super Chats, mais en réalité, elle ne voulait absolument pas arrêter de jouer.",
       "bbox": {
         "x": 0.5219,
         "y": 0.3763,

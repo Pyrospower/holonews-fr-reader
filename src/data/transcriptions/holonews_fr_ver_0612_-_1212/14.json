@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0612_-_1212",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0655,
         "width": 0.2469,
         "height": 0.0508
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holo ID Gen 2",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.238,
+        "width": 0.296,
+        "height": 0.024
       }
     },
     {
@@ -26,23 +36,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Maman Nyori a enfin publié la feuille de dessin de Moona. Et, contre toute attente, Moona a un nez",
+      "type": "heading",
+      "text": "Reine & Anya",
       "bbox": {
-        "x": 0.0525,
-        "y": 0.5994,
-        "width": 0.2981,
-        "height": 0.0556
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Ollie a fait une capsule temporelle remplie de questions à l'intention d’elle-même pour son prochain anniversaire en 2022. Elle a également énuméré dans la liste toutes les idées pour son concert solo. Lisez-la si vous voulez savoir quels sont ses objectifs actuels.",
-      "bbox": {
-        "x": 0.0506,
-        "y": 0.8442,
-        "width": 0.4144,
-        "height": 0.0877
+        "x": 0.651,
+        "y": 0.239,
+        "width": 0.286,
+        "height": 0.024
       }
     },
     {
@@ -56,8 +56,38 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.561,
+        "width": 0.153,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour le « Lundi productif » de cette semaine, lofi a dessiné holoro pour leur 1er anniversaire. Elle a également dessiné les nouvelles tenues de Rushia et Flare.",
+      "text": "Maman Nyori a enfin publié la feuille de dessin de Moona. Et, contre toute attente, Moona a un nez",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.5994,
+        "width": 0.2981,
+        "height": 0.0556
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.559,
+        "width": 0.08,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le « Lundi productif » de cette semaine, Iofi a dessiné holoro pour leur 1er anniversaire. Elle a également dessiné les nouvelles tenues de Rushia et Flare.",
       "bbox": {
         "x": 0.5225,
         "y": 0.6007,
@@ -67,12 +97,32 @@
     },
     {
       "type": "paragraph",
-      "text": "lofi a fait un stream expérimental de dessin où elle a utilisé les conseils et astuces de Fuzichoco (dessinateur d'Omegao). Fuzichoco, présent dans le chat, a dessiné lofi en retour tout en regardant son stream. Elle utilise maintenant ce dessin comme avatar Twitter.",
+      "text": "Iofi a fait un stream expérimental de dessin où elle a utilisé les conseils et astuces de Fuzichoco (dessinateur d’Omegaα). Fuzichoco, présent dans le chat, a dessiné Iofi en retour tout en regardant son stream. Elle utilise maintenant ce dessin comme avatar Twitter.",
       "bbox": {
         "x": 0.5213,
         "y": 0.6875,
         "width": 0.4225,
         "height": 0.1089
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.802,
+        "width": 0.101,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a fait une capsule temporelle remplie de questions à l’intention d’elle-même pour son prochain anniversaire en 2022. Elle a également énuméré dans la liste toutes les idées pour son concert solo. Lisez-la si vous voulez savoir quels sont ses objectifs actuels.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.8442,
+        "width": 0.4144,
+        "height": 0.0877
       }
     }
   ],

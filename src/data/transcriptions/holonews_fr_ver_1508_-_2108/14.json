@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Vesper",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.2121,
+        "width": 0.1091,
+        "height": 0.0215
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "En tant que vétéran et fan de Faster Than Light, Vesper a passionnément expliqué tous les aspects du jeu a ses spectateurs. Vesper a facilement terminé une partie en mode normal sans perdre un seul membre de son équipage et en se faisant à peine touché par les vaisseaux ennemis. Les membres de son équipage ont été nommés d’après ses camarades de génération, Astel, Aruran, et quelques spectateurs.",
+      "text": "En tant que vétéran et fan de Faster Than Light, Vesper a passionnément expliqué tous les aspects du jeu à ses spectateurs. Vesper a facilement terminé une partie en mode normal sans perdre un seul membre de son équipage et en se faisant à peine touché par les vaisseaux ennemis. Les membres de son équipage ont été nommés d’après ses camarades de génération, Astel, Aruran, et quelques spectateurs.",
       "bbox": {
         "x": 0.0744,
         "y": 0.25,
@@ -26,8 +36,28 @@
       }
     },
     {
+      "type": "other",
+      "text": "@ICHIRIOS",
+      "bbox": {
+        "x": 0.3836,
+        "y": 0.4937,
+        "width": 0.0455,
+        "height": 0.0101
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Altare",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.5202,
+        "width": 0.0982,
+        "height": 0.0215
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Altare nous a montré une nouvelle facette de lui dans la dernière interview que Vesper a faite avec lui. Quand on lui a demandé ce qui le mettait le plus en colère, en tant que gamer toxique réformé, il a eu un déclic et s'est plaint de Shaco dans League of Legends. Les spectateurs ont pu voir ses expressions et entendre son changement de ton de façon amusante.",
+      "text": "Altare nous a montré une nouvelle facette de lui dans la dernière interview que Vesper a faite avec lui. Quand on lui a demandé ce qui le mettait le plus en colère, en tant que gamer toxique réformé, il a eu un déclic et s’est plaint de Shaco dans League of Legends. Les spectateurs ont pu voir ses expressions et entendre son changement de ton de façon amusante.",
       "bbox": {
         "x": 0.0712,
         "y": 0.5582,
@@ -37,12 +67,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Après cela, les spectateurs ont surnomme cette nouvelle facette de lui Maldtare.",
+      "text": "Après cela, les spectateurs ont surnommé cette nouvelle facette de lui Maldtare.",
       "bbox": {
         "x": 0.0712,
         "y": 0.6927,
         "width": 0.3506,
         "height": 0.0234
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Axel",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.7854,
+        "width": 0.0691,
+        "height": 0.0215
       }
     },
     {
@@ -53,6 +93,16 @@
         "y": 0.8238,
         "width": 0.4006,
         "height": 0.1072
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Magni",
+      "bbox": {
+        "x": 0.6345,
+        "y": 0.2601,
+        "width": 0.1,
+        "height": 0.0227
       }
     },
     {
@@ -76,8 +126,28 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "ARE YA WINNING, SON?",
+      "type": "other",
+      "text": "HORNY\nGRIP",
+      "bbox": {
+        "x": 0.7073,
+        "y": 0.4596,
+        "width": 0.0509,
+        "height": 0.0189
+      }
+    },
+    {
+      "type": "other",
+      "text": "BONK STICK",
+      "bbox": {
+        "x": 0.7945,
+        "y": 0.4975,
+        "width": 0.1182,
+        "height": 0.0189
+      }
+    },
+    {
+      "type": "other",
+      "text": "ARE YA WINNING,\nSON?",
       "bbox": {
         "x": 0.64,
         "y": 0.5764,
@@ -86,8 +156,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Vesper",
+      "bbox": {
+        "x": 0.6345,
+        "y": 0.673,
+        "width": 0.1091,
+        "height": 0.0227
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Vesper a décidé que la meilleure façon de montrer des memes en stream était de les dessiner lui-même sur Paint. Ainsi, avec Paint et une simple souris, il a commencé à dessiner les autres membres de TEMPUS sous forme de memes. En un stream, il a réussi à dessiner « Altare : Devenir incontrôlable » et « Dezmond est Mag ». Plus tard, il a également fait un stream imprévue pour compléter sa collection et a terminé I'Axel « La Poigne Australienne ».",
+      "text": "Vesper a décidé que la meilleure façon de montrer des memes en stream était de les dessiner lui-même sur Paint. Ainsi, avec Paint et une simple souris, il a commencé à dessiner les autres membres de TEMPUS sous forme de memes. En un stream, il a réussi à dessiner « Altare : Devenir incontrôlable » et « Dezmond est Mag ». Plus tard, il a également fait un stream imprévue pour compléter sa collection et a terminé l'Axel « La Poigne Australienne ».",
       "bbox": {
         "x": 0.5381,
         "y": 0.7127,
@@ -97,7 +177,7 @@
     },
     {
       "type": "paragraph",
-      "text": "En guise de remerciement, Altare a dessiné Vesper en tant que pére dans le meme « Are ya winning, son ? ». Les quatre membres de TEMPUS ont fait de ces dessins leurs photos de profiles sur Twitter, bien que Magni est changé avant la sortie de ce numéro.",
+      "text": "En guise de remerciement, Altare a dessiné Vesper en tant que père dans le meme « Are ya winning, son ? ». Les quatre membres de TEMPUS ont fait de ces dessins leurs photos de profiles sur Twitter, bien que Magni est changé avant la sortie de ce numéro.",
       "bbox": {
         "x": 0.5387,
         "y": 0.8741,

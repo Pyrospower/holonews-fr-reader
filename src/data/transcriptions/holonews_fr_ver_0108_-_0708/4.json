@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_0108_-_0708",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Shiranui Flare",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.265,
+        "width": 0.89,
+        "height": 0.074
+      }
+    },
+    {
+      "type": "other",
+      "text": "3rd Anniversary Live\nSKY SONAR",
+      "bbox": {
+        "x": 0.255,
+        "y": 0.22,
+        "width": 0.48,
+        "height": 0.077
+      }
+    },
     {
       "type": "paragraph",
       "text": "Les membres d'holoFANTASY célèbrent le troisième anniversaire de leurs débuts ce mois-ci, en commençant par Flare le 8 août ! Elle a commencé son concert 3D intitulé SKY SONAR en interprétant ses chansons originales, « Zenryoku-Jumping!! », « Dai Kangensai! Yume no Flare Channel », « Hurray! Hurray! Elfriend! », et « Smile & Go!! » avec le reste d'holoFANTASY. La deuxième chanson était un duo avec sa mascotte, doublée par Hyadain. Le clip de « Hurray! Hurray! Elfriend! » a été publié après le concert.",
@@ -17,22 +37,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Flare s'est ensuite produite avec les autres membres d'holoFANTASY, interprétant « Homenobi » avec Noel, « Ahoy! We Are Houshou Pirates » avec Marine, et « Alibi Bunny » avec Pekora. Ensuite, trois nouvelles chansons originales ont été interprétées :",
+      "text": "Flare s'est ensuite produite avec les autres membres d'holoFANTASY, interprétant « Homenobi » avec Noel, « Ahoy! We Are Houshou Pirates » avec Marine, et « Alibi Bunny » avec Pekora. Ensuite, trois nouvelles chansons originales ont été interprétées : « Yggdrasil », « Atelier » et « Sky Sonar » !",
       "bbox": {
         "x": 0.4333,
         "y": 0.6061,
         "width": 0.4494,
-        "height": 0.0995
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "« Yggdrasil », « Atelier » et « Sky Sonar » !",
-      "bbox": {
-        "x": 0.4339,
-        "y": 0.7076,
-        "width": 0.41,
-        "height": 0.0147
+        "height": 0.1162
       }
     },
     {
@@ -47,22 +57,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Un porte-magazines, illustré par lack Un certificat Elfriend, illustré par Sasaki Un porte-cartes d'identité",
+      "text": "• Un porte-magazines, illustré par lack\n• Un certificat Elfriend, illustré par Sasaki\n• Un porte-cartes d'identité\n• Un sweat à capuche",
       "bbox": {
-        "x": 0.47,
-        "y": 0.8137,
-        "width": 0.41,
-        "height": 0.049
+        "x": 0.448,
+        "y": 0.811,
+        "width": 0.434,
+        "height": 0.068
       }
     },
     {
       "type": "paragraph",
-      "text": "• Un sweat à capuche Le bonus pour l'achat de l'ensemble complet est une carte postale illustrée par lack, estampillée avec l'autographe de Flare.",
+      "text": "Le bonus pour l'achat de l'ensemble complet est une carte postale illustrée par lack, estampillée avec l'autographe de Flare.",
       "bbox": {
-        "x": 0.4339,
-        "y": 0.865,
-        "width": 0.4611,
-        "height": 0.0664
+        "x": 0.432,
+        "y": 0.881,
+        "width": 0.465,
+        "height": 0.05
       }
     }
   ],

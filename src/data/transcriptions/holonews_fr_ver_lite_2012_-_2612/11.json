@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_lite_2012_-_2612",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,18 +16,68 @@
       }
     },
     {
-      "type": "other",
-      "text": "IKINARI PAT K",
+      "type": "heading",
+      "text": "Okayu",
       "bbox": {
-        "x": 0.3156,
-        "y": 0.1424,
-        "width": 0.135,
-        "height": 0.0234
+        "x": 0.6077,
+        "y": 0.1672,
+        "width": 0.1408,
+        "height": 0.0283
       }
     },
     {
       "type": "paragraph",
-      "text": "Cette année pour Noël, Korone a décidé de devenir. un arbre de Noël.",
+      "text": "Pour fêter son million d’abonnés, Okayu va collaborer avec le restaurant Ikinari! Steak du 10 au 31 janvier. La collaboration aura lieu dans le magasin Ikinari! Steak de Suehirocho. L’intérieur du magasin sera décoré dans un style américain et des musiques comme « Mogu Mogu Yummy » et « Shiny Smiley Story » feront partie de la musique de fond.",
+      "bbox": {
+        "x": 0.5194,
+        "y": 0.2135,
+        "width": 0.4313,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "other",
+      "text": "MENU\n2,300円\n1,200円",
+      "bbox": {
+        "x": 0.0946,
+        "y": 0.2804,
+        "width": 0.32,
+        "height": 0.3029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "The collaboration menu will include:\n• 2-steak combo, l’un étant un steak « chat » et l’autre étant un « aileron »\n• Steak de Hambourg du chat chanceux Okayu",
+      "bbox": {
+        "x": 0.5188,
+        "y": 0.3503,
+        "width": 0.4218,
+        "height": 0.0824
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En achetant le menu pendant la période de collaboration, vous recevrez le tablier et l’un des deux types de dossiers en plastique. Les illustrations de la collaboration ont été dessinées par chiroru-sensei.",
+      "bbox": {
+        "x": 0.5194,
+        "y": 0.441,
+        "width": 0.42,
+        "height": 0.0751
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Korone",
+      "bbox": {
+        "x": 0.1408,
+        "y": 0.6517,
+        "width": 0.1715,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette année pour Noël, Korone a décidé de devenir... un arbre de Noël.",
       "bbox": {
         "x": 0.0531,
         "y": 0.6319,
@@ -53,56 +103,6 @@
         "y": 0.8247,
         "width": 0.4256,
         "height": 0.0994
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Pour fêter son million d'abonnés, Okayu va collaborer avec le restaurant Ikinari! Steak du 10 au 31 janvier. La collaboration aura lieu dans le magasin lkinari! Steak de Suehirocho. L'intérieur du magasin sera décoré dans un style américain et des musiques comme « Mogu Mogu Yummy » et « Shiny Smiley Story » feront partie de la musique de fond.",
-      "bbox": {
-        "x": 0.5194,
-        "y": 0.2135,
-        "width": 0.4313,
-        "height": 0.1207
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "The collaboration menu will include:",
-      "bbox": {
-        "x": 0.5188,
-        "y": 0.3503,
-        "width": 0.3319,
-        "height": 0.0113
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 2-steak combo, l’un étant un steak « chat » et l'autre étant un « aileron »",
-      "bbox": {
-        "x": 0.5387,
-        "y": 0.3728,
-        "width": 0.4019,
-        "height": 0.0265
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Steak de Hambourg du chat chanceux Okayu",
-      "bbox": {
-        "x": 0.5387,
-        "y": 0.4032,
-        "width": 0.3781,
-        "height": 0.0295
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "En achetant le menu pendant la période de collaboration, vous recevrez le tablier et l’un des deux types de dossiers en plastique. Les illustrations de la collaboration ont été dessinées par chiroru-sensei.",
-      "bbox": {
-        "x": 0.5194,
-        "y": 0.441,
-        "width": 0.42,
-        "height": 0.0751
       }
     }
   ],

@@ -3,46 +3,16 @@
   "issueId": "holonews_fr_ver_2908_-_0409",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "« Tonde K! hololive summer » w/ Sora, Marine, Watame, Lamy, Koyori",
+      "type": "heading",
+      "text": "hololive Summer 2022 Climax Story Live",
       "bbox": {
-        "x": 0.0944,
-        "y": 0.4279,
-        "width": 0.3656,
-        "height": 0.0305
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "« Kirameki Rider » w/ Robocosan, Okayu, Noel",
-      "bbox": {
-        "x": 0.0944,
-        "y": 0.4788,
-        "width": 0.2561,
-        "height": 0.0305
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "« Dreaming Days » w/ Shion, Choco, Kanata, Luna",
-      "bbox": {
-        "x": 0.0944,
-        "y": 0.5297,
-        "width": 0.2861,
-        "height": 0.0289
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "« BLUE CLAPPER » w/ NePoLaBo",
-      "bbox": {
-        "x": 0.0944,
-        "y": 0.5802,
-        "width": 0.1906,
-        "height": 0.0278
+        "x": 0.0856,
+        "y": 0.0548,
+        "width": 0.8333,
+        "height": 0.0656
       }
     },
     {
@@ -66,73 +36,43 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "« Yumemiru Sora He » + Produits dérivés : w/ Fubuki, Matsuri, Haato, Aki, Mel",
+      "type": "heading",
+      "text": "Répertoire :",
       "bbox": {
-        "x": 0.0944,
-        "y": 0.6211,
-        "width": 0.6783,
-        "height": 0.039
+        "x": 0.1267,
+        "y": 0.3796,
+        "width": 0.1433,
+        "height": 0.017
       }
     },
     {
       "type": "paragraph",
-      "text": "« AsuiroClearSky » w/ Miko, Flare, Lui",
+      "text": "« Tonde K! hololive summer » w/ Sora, Marine, Watame, Lamy, Koyori\n« Kirameki Rider » w/ Robocosan, Okayu, Noel\n« Dreaming Days » w/ Shion, Choco, Kanata, Luna\n« BLUE CLAPPER » w/ NePoLaBo\n« Yumemiru Sora He » w/ Fubuki, Matsuri, Haato, Aki, Mel\n« AsuiroClearSky » w/ Miko, Flare, Lui\n« Domination! All the World Is an Ocean » as UMISEA\n« Prism Melody » w/ AZKi, Pekora, Watame\n« hololive ondo » w/ Subaru, Korone, Towa, Laplus\n« Sparklers » w/ Suisei, Mio, Ayame, Iroha",
       "bbox": {
-        "x": 0.0944,
-        "y": 0.6817,
-        "width": 0.1767,
-        "height": 0.0289
+        "x": 0.0922,
+        "y": 0.4275,
+        "width": 0.3778,
+        "height": 0.4861
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Produits dérivés :",
+      "bbox": {
+        "x": 0.5622,
+        "y": 0.6227,
+        "width": 0.2167,
+        "height": 0.0185
       }
     },
     {
       "type": "paragraph",
-      "text": "« Domination! All the World Is an Ocean » as UMISEA : « Prism Melody » w/ AZKi, Pekora, Watame « hololive ondo » w/ Subaru, Korone, Towa, Laplus « Sparklers » w/ Suisei, Mio, Ayame, Iroha",
+      "text": "Des acryliques stands 3D, version Shiny Wave\nUne plaque en acrylique hololive Summer 2022\nDes badges version Shiny Wave (aléatoire)\nUn mini album hololive Summer 2022 (aléatoire)",
       "bbox": {
-        "x": 0.0944,
-        "y": 0.7323,
-        "width": 0.3744,
-        "height": 0.1829
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Des acryliques stands 3D, version Shiny Wave : ;",
-      "bbox": {
-        "x": 0.5367,
-        "y": 0.6647,
-        "width": 0.3717,
-        "height": 0.0471
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Une plaque en acrylique hololive",
-      "bbox": {
-        "x": 0.5378,
-        "y": 0.7103,
-        "width": 0.2983,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Summer 2022",
-      "bbox": {
-        "x": 0.5378,
-        "y": 0.7257,
-        "width": 0.1283,
-        "height": 0.0108
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Des badges version Shiny Wave (aléatoire) Un mini album hololive Summer 2022 (aléatoire)",
-      "bbox": {
-        "x": 0.5378,
-        "y": 0.7562,
-        "width": 0.3433,
-        "height": 0.0745
+        "x": 0.5356,
+        "y": 0.6644,
+        "width": 0.3756,
+        "height": 0.1651
       }
     },
     {

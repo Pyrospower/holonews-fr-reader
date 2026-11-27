@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_2006_-_2606",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Gen 0",
+      "bbox": {
+        "x": 0.205,
+        "y": 0.035,
+        "width": 0.12,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.193,
+        "width": 0.08,
+        "height": 0.025
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Suite à l'annonce de la collaboration Darts Hive x hololive, Tokino Sora, la passionnée de fléchettes d'hololive, a organisé un stream consacré aux fléchettes. Elle avait initialement l'intention de ne parler que de la collaboration, mais a fini par parler des fléchettes en général ! Elle a parlé des fléchettes qu'elle utilise, de ses meilleurs scores et de la façon de s'initier à ce hobby. La passion de Sora pour les fléchettes s'est exprimée pleinement dans ce stream.",
+      "text": "Suite à l’annonce de la collaboration Darts Hive x hololive, Tokino Sora, la passionnée de fléchettes d'hololive, a organisé un stream consacré aux fléchettes. Elle avait initialement l'intention de ne parler que de la collaboration, mais a fini par parler des fléchettes en général ! Elle a parlé des fléchettes qu'elle utilise, de ses meilleurs scores et de la façon de s'initier à ce hobby. La passion de Sora pour les fléchettes s'est exprimée pleinement dans ce stream.",
       "bbox": {
         "x": 0.0712,
         "y": 0.2331,
@@ -16,28 +36,18 @@
       }
     },
     {
-      "type": "other",
-      "text": "Translated from Japanese by Google",
+      "type": "heading",
+      "text": "Miko",
       "bbox": {
-        "x": 0.0563,
-        "y": 0.4531,
-        "width": 0.1581,
-        "height": 0.0074
+        "x": 0.17,
+        "y": 0.502,
+        "width": 0.08,
+        "height": 0.025
       }
     },
     {
       "type": "paragraph",
-      "text": "I'm scaged if I'm scared @",
-      "bbox": {
-        "x": 0.0569,
-        "y": 0.4635,
-        "width": 0.1969,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Miko a développé une insomnie apres avoir écouté les histoires d'horreur partagées par les membres de Shiraken pendant leurs vacances ensemble. Le bébé d'élite a essayé de se distraire avec une poupée Polka (cette dernière n'a pas pu venir à cause d'un rendez-vous à l'hôpital, alors ils ont apporté une poupée Polka à la place), mais elle a fini par se retourner dans son lit. Pauvre Mikochi. Par ailleurs, Suisei a révélé qu'elle avait bronzé et pris des coups de soleil à cause des vacances.",
+      "text": "Miko a développé une insomnie après avoir écouté les histoires d'horreur partagées par les membres de Shiraken pendant leurs vacances ensemble. Le bébé d'élite a essayé de se distraire avec une poupée Polka (cette dernière n'a pas pu venir à cause d'un rendez-vous à l'hôpital, alors ils ont apporté une poupée Polka à la place), mais elle a fini par se retourner dans son lit. Pauvre Mikochi. Par ailleurs, Suisei a révélé qu'elle avait bronzé et pris des coups de soleil à cause des vacances.",
       "bbox": {
         "x": 0.0712,
         "y": 0.5412,
@@ -56,6 +66,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Mio",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.785,
+        "width": 0.07,
+        "height": 0.025
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Mio est devenue un rocher dans Rock Simulator. L'objectif de ce jeu est de rester complètement immobile et de ne rien faire pour monter en niveau. Mio a erré sans but en incarnant toutes sortes de pierres. Elle trouvait ce jeu étrangement relaxant et thérapeutique et c'était un excellent moyen de se rapprocher de son tchat. Au fur et à mesure, elle se retrouvait de plus en plus dans la peau d'un rocher, et elle commençait même à penser comme tel. Elle a commencé à voir le monde d'un point de vue complètement différent.",
       "bbox": {
@@ -63,6 +83,26 @@
         "y": 0.8247,
         "width": 0.3856,
         "height": 0.161
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 1",
+      "bbox": {
+        "x": 0.673,
+        "y": 0.035,
+        "width": 0.12,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.193,
+        "width": 0.12,
+        "height": 0.025
       }
     },
     {
@@ -76,8 +116,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Haachama & Towa",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.573,
+        "width": 0.3,
+        "height": 0.025
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Towa et Haachama se sont affrontées sur 51 Worldwide Games pour que cette dernière récupère son honorifique (Haato-sama), que Towa lui aurait pris sans le savoir. Towa a pris l'avantage avec trois victoires d'affilée avant qu'elles ne jouent au Yam's, le seul jeu auquel Haachama est bonne. Elle a finalement réussi à gagner mais a demandé une revanche parce qu'aucune d'entre elles n'a obtenu de Yam's, ce qui, selon elle, était le but de ce jeu. La chance était toujours du côté d'Haachama, qui a réussi à remporter une nouvelle victoire. Bien que Towa ait eu plus de victoires qu'elle, elle a tout de même donné la victoire à Haachama et lui a promis de sortir avec elle à Disneyland.",
+      "text": "Towa et Haachama se sont affrontées sur 51 Worldwide Games pour que cette dernière récupère son honorifique (Haato-sama), que Towa lui aurait pris sans le savoir. Towa a pris l’avantage avec trois victoires d'affilée avant qu'elles ne jouent au Yam’s, le seul jeu auquel Haachama est bonne. Elle a finalement réussi à gagner mais a demandé une revanche parce qu'aucune d'entre elles n'a obtenu de Yam’s, ce qui, selon elle, était le but de ce jeu. La chance était toujours du côté d'Haachama, qui a réussi à remporter une nouvelle victoire. Bien que Towa ait eu plus de victoires qu'elle, elle a tout de même donné la victoire à Haachama et lui a promis de sortir avec elle à Disneyland.",
       "bbox": {
         "x": 0.5356,
         "y": 0.6133,

@@ -3,8 +3,48 @@
   "issueId": "holonews_fr_1107_-_1707",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.4231,
+        "y": 0.0556,
+        "width": 0.5338,
+        "height": 0.1165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une année s’est écoulée depuis que l’Espoir est apparu le 11 juillet 2021 ! IRyS a célébré cet événement avec un stream karaoké, incluant des chansons originales, des musiques anime, ainsi que des ses discussions habituelles entre chaque musique.",
+      "bbox": {
+        "x": 0.6119,
+        "y": 0.1979,
+        "width": 0.3444,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le papaIRyS et AneRyS l’ont appelée pour la féliciter pour ses 1 an. Elle a aussi commenté son premier stream, en étant très mal à l’aise, et a fait attention à de nombreux détails. Elle a réprimandé l’ancienne IRyS de n’avoir pas inclus Fafner dans la liste de ses animés favoris et a regretté de ne pas avoir tagué ses fanarts avec le hashtag #ArtRyS.",
+      "bbox": {
+        "x": 0.6119,
+        "y": 0.3077,
+        "width": 0.3475,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a exprimé sa gratitude pour tout le support qu’elle a reçu et a montré sa joie de pouvoir transmettre sa bonne humeur aux autres. Elle espère que nous l’ont puisse en attendre plus dans un future proche. Elle a aussi parlé d’une possible nouvelle tenue.",
+      "bbox": {
+        "x": 0.6113,
+        "y": 0.4583,
+        "width": 0.3519,
+        "height": 0.0938
+      }
+    },
     {
       "type": "paragraph",
       "text": "IRyS a ensuite révélé ses produits dérivés :",
@@ -17,42 +57,12 @@
     },
     {
       "type": "paragraph",
-      "text": "• Un traversin, illustré par ayahira",
+      "text": "• Un traversin, illustré par ayahira\n• Un porte-clé peluche avec un chibi-peluche d’IRyS, dessiné par Amelia Watson\n• Un Bandeau IRyS\n• Un enregistrement",
       "bbox": {
         "x": 0.0856,
         "y": 0.6133,
-        "width": 0.32,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un porte-clé peluche avec un chibi-peluche d’IRyS, dessiné par Amelia Watson",
-      "bbox": {
-        "x": 0.0856,
-        "y": 0.6276,
         "width": 0.3525,
-        "height": 0.0391
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Un Bandeau IRyS",
-      "bbox": {
-        "x": 0.0856,
-        "y": 0.6706,
-        "width": 0.1831,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un enregistrement",
-      "bbox": {
-        "x": 0.0856,
-        "y": 0.6849,
-        "width": 0.1931,
-        "height": 0.0135
+        "height": 0.0851
       }
     },
     {
@@ -77,82 +87,22 @@
     },
     {
       "type": "paragraph",
-      "text": "1.« Delight »",
+      "text": "1.« Delight »\n2.« BERSERKER »\n3.« Ai no Jikkai »\n4.« ENJOY! JOY!! JOYFUL!!! »",
       "bbox": {
-        "x": 0.0994,
+        "x": 0.0981,
         "y": 0.8793,
-        "width": 0.1169,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "2.« BERSERKER »",
-      "bbox": {
-        "x": 0.0988,
-        "y": 0.8941,
-        "width": 0.1763,
-        "height": 0.01
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "3.« Ai no Jikkai »",
-      "bbox": {
-        "x": 0.0981,
-        "y": 0.908,
-        "width": 0.1606,
-        "height": 0.0104
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "4.« ENJOY! JOY!! JOYFUL!!! »",
-      "bbox": {
-        "x": 0.0981,
-        "y": 0.9227,
         "width": 0.2881,
-        "height": 0.01
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Une année s’est écoulée depuis que l’Espoir est apparu le 11 juillet 2021 ! IRyS a célébré cet événement avec un stream karaoké, incluant des chansons originales, des musiques anime, ainsi que des ses discussions habituelles entre chaque musique.",
-      "bbox": {
-        "x": 0.6119,
-        "y": 0.1979,
-        "width": 0.3444,
-        "height": 0.0938
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Le papalRyS et AneRyS l’ont appelée pour la féliciter pour ses 1 an. Elle a aussi commenté son premier stream, en étant très mal à l’aise, et a fait attention à de nombreux détails. Elle a réprimandé l’ancienne IRyS de n’avoir pas inclus Fafner dans la liste de ses animés favoris et a regretté de ne pas avoir tagué ses fanarts avec le hashtag #ArtRyS.",
-      "bbox": {
-        "x": 0.6119,
-        "y": 0.3077,
-        "width": 0.3475,
-        "height": 0.1341
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Elle a exprimé sa gratitude pour tout le support qu’elle a reçu et a montré sa joie de pouvoir transmettre sa bonne humeur aux autres. Elle espère que nous l’ont puisse en attendre plus dans un future proche. Elle a aussi parlé d’une possible nouvelle tenue.",
-      "bbox": {
-        "x": 0.6113,
-        "y": 0.4583,
-        "width": 0.3519,
-        "height": 0.0938
+        "height": 0.0534
       }
     },
     {
       "type": "other",
-      "text": "• 2016 COVER Corp.",
+      "text": "On Sale July 11\n1st Anniversary Celebration\n~Special Mini Album~",
       "bbox": {
-        "x": 0.71,
-        "y": 0.921,
-        "width": 0.0631,
-        "height": 0.0048
+        "x": 0.5185,
+        "y": 0.7874,
+        "width": 0.4231,
+        "height": 0.1186
       }
     }
   ],

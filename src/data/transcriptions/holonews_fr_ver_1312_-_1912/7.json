@@ -3,31 +3,21 @@
   "issueId": "holonews_fr_ver_1312_-_1912",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "heading",
-      "text": "USADA",
+      "type": "other",
+      "text": "USADA CONSTRUCTIONS",
       "bbox": {
-        "x": 0.0817,
-        "y": 0.2442,
-        "width": 0.3467,
-        "height": 0.0486
+        "x": 0.08,
+        "y": 0.239,
+        "width": 0.351,
+        "height": 0.068
       }
     },
     {
       "type": "paragraph",
-      "text": "CONSTRUCTIONS",
-      "bbox": {
-        "x": 0.2228,
-        "y": 0.2955,
-        "width": 0.2056,
-        "height": 0.0112
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Après ce qui a semblé 80 ans d'attente, les Nousagis peuvent enfin voir Pekora dans une nouvelle tenue. Elle a annoncé u'elle montrerait sa tenue le 15 écembre et en a révélé la silhouette to à la miniature. Cette annonce a veillé l'enthousiasme des Nousagis comme des autres fans, provoquantune 4 envolée de concepts créatifs et de ( discussions, car les oreilles de Pekora spy semblaient manquer. (ad",
+      "text": "Après ce qui a semblé 80 ans d’attente, les Nousagis peuvent enfin voir Pekora dans une nouvelle tenue. Elle a annoncé qu’elle montrerait sa tenue le 15 décembre et en a révélé la silhouette grâce à la miniature. Cette annonce a éveillé l’enthousiasme des Nousagis comme des autres fans, provoquant une envolée de concepts créatifs et de discussions, car les oreilles de Pekora semblaient manquer.",
       "bbox": {
         "x": 0.0544,
         "y": 0.3495,
@@ -37,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le jour J, Pekora a entamé son stream en présentant une grande variété de concepts : des mignons, des osés, des terrifiants et beaucoup d'autres. Elle a ensuite montré une vidéo dépeignant la vie d’un Nousagi qui avait dû attendre 80 ans pour voir la nouvelle tenue de Pekora.",
+      "text": "Le jour J, Pekora a entamé son stream en présentant une grande variété de concepts : des mignons, des osés, des terrifiants et beaucoup d’autres. Elle a ensuite montré une vidéo dépeignant la vie d’un Nousagi qui avait dû attendre 80 ans pour voir la nouvelle tenue de Pekora.",
       "bbox": {
         "x": 0.055,
         "y": 0.5424,
@@ -47,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La tenue fut ensuite finalement révélée ! Pekora commença par montrer ses chaussures, les Pekonverse, enchaîna avec une courte jupe flottante, puis une veste en jean avec une marinière, et termina avec une mignonne paire d'oreilles nouées comme un ruban sur le haut de sa tête. Pekora a également obtenu deux coiffures, une aux cheveux longs et l'autre aux cheveux courts. Et ne vous inquiétez pas, ses oreilles habituelles (détachées) font partie des variantes ! Pekora clôtura le stream en discutant plus en profondeur de l'événement.",
+      "text": "La tenue fut ensuite finalement révélée ! Pekora commença par montrer ses chaussures, les Pekonverse, enchaîna avec une courte jupe flottante, puis une veste en jean avec une marinière, et termina avec une mignonne paire d’oreilles nouées comme un ruban sur le haut de sa tête. Pekora a également obtenu deux coiffures, une aux cheveux longs et l’autre aux cheveux courts. Et ne vous inquiétez pas, ses oreilles habituelles (détachées) font partie des variantes ! Pekora clôtura le stream en discutant plus en profondeur de l’événement.",
       "bbox": {
         "x": 0.055,
         "y": 0.6875,

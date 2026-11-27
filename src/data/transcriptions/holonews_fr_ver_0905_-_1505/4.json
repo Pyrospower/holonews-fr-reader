@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_0905_-_1505",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Le 10 mai, Uyu a fêté son anniversaire en le répartissant sur trois streams. Il a commencé par un stream compte a rebours, pour lequel il a désactivé les Super Chats afin que les gens les envoient plutôt pendant le stream d'anniversaire. Il a remercié plusieurs de ses collègues pour lui avoir souhaité un joyeux anniversaire, chantonné « Romeo » et « Yoru ni kakeru », et a décidé du hashtag pour son anniversaire. Est ensuite venue l'heure du stream d'anniversaire, lors duquel il a lu autant de poèmes envoyés par des Fantoms que possible en 30 minutes, le reste devant attendre une prochaine fois. Avant cela, il a discuté de ses projets pour les émoticônes et souscriptions de membres à sa chaîne.",
+      "text": "Le 10 mai, Uyu a fêté son anniversaire en le répartissant sur trois streams. Il a commencé par un stream compte à rebours, pour lequel il a désactivé les Super Chats afin que les gens les envoient plutôt pendant le stream d'anniversaire. Il a remercié plusieurs de ses collègues pour lui avoir souhaité un joyeux anniversaire, chantonné « Romeo » et « Yoru ni kakeru », et a décidé du hashtag pour son anniversaire. Est ensuite venue l'heure du stream d'anniversaire, lors duquel il a lu autant de poèmes envoyés par des Fantoms que possible en 30 minutes, le reste devant attendre une prochaine fois. Avant cela, il a discuté de ses projets pour les émoticônes et souscriptions de membres à sa chaîne.",
       "bbox": {
         "x": 0.0578,
         "y": 0.4907,
@@ -17,22 +17,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Il a également expliqué à son tchat qu'il lirait les Super Chats et regarderait les fan arts lors d'un autre stream. La discussion a dérivé pendant encore 30 minutes avant que son tchat lui rappelle qu'il devait encore lire leurs poèmes. Il s'est finalement attelé à la tâche et a donné une note à chacun des poèmes en fonction de son avis et de la finesse d'écriture. L'une des œuvres envoyées était écrite en morse, et Uyu a lu individuellement chacun des points et traits. Heureusement, Machamane (le manager d'UPROAR!!) a rapidement traduit le message, qui donnait :",
+      "text": "Il a également expliqué à son tchat qu'il lirait les Super Chats et regarderait les fan arts lors d'un autre stream. La discussion a dérivé pendant encore 30 minutes avant que son tchat lui rappelle qu'il devait encore lire leurs poèmes. Il s'est finalement attelé à la tâche et a donné une note à chacun des poèmes en fonction de son avis et de la finesse d'écriture. L'une des œuvres envoyées était écrite en morse, et Uyu a lu individuellement chacun des points et traits. Heureusement, Machamane (le manager d'UPROAR!!) a rapidement traduit le message, qui donnait : « Uyu, je t'aime, épouse-moi. » Uyu lui a accordé 78 points, justifiant en expliquant que ce n'était pas un poème mais une déclaration d'amour.",
       "bbox": {
         "x": 0.3583,
         "y": 0.49,
         "width": 0.2817,
-        "height": 0.3526
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "« Uyu, je t'aime, épouse-moi. » Uyu lui a accordé 78 points, justifiant en expliquant que ce n'était pas un poème mais une déclaration d'amour.",
-      "bbox": {
-        "x": 0.3589,
-        "y": 0.8434,
-        "width": 0.2794,
-        "height": 0.0922
+        "height": 0.4456
       }
     },
     {

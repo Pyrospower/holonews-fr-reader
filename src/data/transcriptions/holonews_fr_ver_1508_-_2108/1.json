@@ -3,8 +3,38 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "other",
+      "text": "Les bières d’Aki",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.0113,
+        "width": 0.1938,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "other",
+      "text": "Kaela a 400 000 abonnés",
+      "bbox": {
+        "x": 0.35,
+        "y": 0.0113,
+        "width": 0.2969,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHAD CAST ep.08",
+      "bbox": {
+        "x": 0.7575,
+        "y": 0.0122,
+        "width": 0.2181,
+        "height": 0.0165
+      }
+    },
     {
       "type": "other",
       "text": "Magazine hebdomadaire d'actualités",
@@ -13,6 +43,16 @@
         "y": 0.1536,
         "width": 0.2963,
         "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mio",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.191,
+        "width": 0.1669,
+        "height": 0.0503
       }
     },
     {
@@ -37,22 +77,22 @@
     },
     {
       "type": "paragraph",
-      "text": "fait un concert pour son",
+      "text": "fait un concert pour son second anniversaire en 3D",
       "bbox": {
         "x": 0.0244,
-        "y": 0.4301,
-        "width": 0.19,
-        "height": 0.0391
+        "y": 0.4306,
+        "width": 0.1913,
+        "height": 0.0955
       }
     },
     {
       "type": "heading",
-      "text": "second anniversaire",
+      "text": "Shion",
       "bbox": {
-        "x": 0.025,
-        "y": 0.4709,
-        "width": 0.1619,
-        "height": 0.0352
+        "x": 0.02,
+        "y": 0.5503,
+        "width": 0.2125,
+        "height": 0.0495
       }
     },
     {
@@ -66,8 +106,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Reprise",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.6832,
+        "width": 0.2981,
+        "height": 0.0503
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Mumei, Kronii, Nene, Okayu et { d'autres ont publié des reprises !",
+      "text": "Mumei, Kronii, Nene, Okayu et d’autres ont publié des reprises !",
       "bbox": {
         "x": 0.025,
         "y": 0.7391,
@@ -76,18 +126,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "CHAD CAST ep.08",
-      "bbox": {
-        "x": 0.7575,
-        "y": 0.0122,
-        "width": 0.2181,
-        "height": 0.0165
-      }
-    },
-    {
       "type": "heading",
-      "text": "s TARS",
+      "text": "STARS",
       "bbox": {
         "x": 0.6825,
         "y": 0.1441,
@@ -97,7 +137,7 @@
     },
     {
       "type": "paragraph",
-      "text": "• GREAT VOYAGE to UNIVERSE! »",
+      "text": "« GREAT VOYAGE to UNIVERSE!! »",
       "bbox": {
         "x": 0.7844,
         "y": 0.2439,
@@ -117,7 +157,7 @@
     },
     {
       "type": "paragraph",
-      "text": "révèle sa d’écolière",
+      "text": "révèle sa tenue d’écolière",
       "bbox": {
         "x": 0.8475,
         "y": 0.375,
@@ -127,7 +167,7 @@
     },
     {
       "type": "heading",
-      "text": "Magni ;",
+      "text": "Magni",
       "bbox": {
         "x": 0.7025,
         "y": 0.457,
@@ -137,27 +177,17 @@
     },
     {
       "type": "paragraph",
-      "text": "a dessiné",
-      "bbox": {
-        "x": 0.8488,
-        "y": 0.5122,
-        "width": 0.1256,
-        "height": 0.0152
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Magmite, la mascote de ses fans",
+      "text": "a dessiné Magmite, la mascote de ses fans",
       "bbox": {
         "x": 0.8225,
-        "y": 0.533,
+        "y": 0.5122,
         "width": 0.1525,
-        "height": 0.0556
+        "height": 0.0764
       }
     },
     {
-      "type": "paragraph",
-      "text": "Vous voulez nous aider ? Rejoignez notre Discord !",
+      "type": "other",
+      "text": "Vous voulez nous aider ?\nRejoignez notre Discord !",
       "bbox": {
         "x": 0.5831,
         "y": 0.921,

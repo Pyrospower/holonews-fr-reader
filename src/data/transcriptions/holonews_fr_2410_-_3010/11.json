@@ -3,46 +3,26 @@
   "issueId": "holonews_fr_2410_-_3010",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.145,
+        "y": 0.204,
+        "width": 0.22,
+        "height": 0.029
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "= Ollie Malgré la ressemblance, nous ne figurons pas dans la reprise de « Zombie » d'Ollie. Quoi qu'il en soit, félicitations pour cette nouvelle reprise et continue a faire du bon travail, Ollie !",
+      "text": "Malgré la ressemblance, nous ne figurons pas dans la reprise de « Zombie » d'Ollie. Quoi qu'il en soit, félicitations pour cette nouvelle reprise et continue à faire du bon travail, Ollie !",
       "bbox": {
         "x": 0.0431,
         "y": 0.2062,
         "width": 0.4463,
         "height": 0.0951
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Millie Parfait ,* NUISANJI EN",
-      "bbox": {
-        "x": 0.1094,
-        "y": 0.3281,
-        "width": 0.1956,
-        "height": 0.0104
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "My dream is to be a part of your NNN segment someday e",
-      "bbox": {
-        "x": 0.11,
-        "y": 0.3559,
-        "width": 0.37,
-        "height": 0.0117
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "AY YO 00 +",
-      "bbox": {
-        "x": 0.1088,
-        "y": 0.434,
-        "width": 0.0775,
-        "height": 0.0104
       }
     },
     {
@@ -66,18 +46,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Kaeluarga was ejected",
+      "type": "heading",
+      "text": "Collab",
       "bbox": {
-        "x": 0.2037,
-        "y": 0.671,
-        "width": 0.0969,
-        "height": 0.0056
+        "x": 0.121,
+        "y": 0.752,
+        "width": 0.22,
+        "height": 0.029
       }
     },
     {
       "type": "paragraph",
-      "text": "Une énorme collab Among Us a eu lieu avec toutes les membres d’hololive ID. Il y a eu plusieurs temps forts : Zeta qui passe par la bouche d'aération sous les yeux de Kaela et Ollie, la transformation de Moona qui prend fin au moment où elle était avec tout le monde, Reine qui s'est déguisée en Marine nudiste, et Kobo qui s'est emportée lorsqu'elle avait le rôle de l'imposteur. Pour ce qui est des incidents sensationnels, Kaela est devenue la protagoniste d’un harem de yanderes, Moona a fait culpabiliser Kobo à cause d'une fausse accusation, Ollie a fait pression sur lofi pour qu'elles restent ensemble avant de la tuer et Anya s’est perdue. hololD est, comme toujours, une branche charmante et chaotique.",
+      "text": "Une énorme collab Among Us a eu lieu avec toutes les membres d’hololive ID. Il y a eu plusieurs temps forts : Zeta qui passe par la bouche d’aération sous les yeux de Kaela et Ollie, la transformation de Moona qui prend fin au moment où elle était avec tout le monde, Reine qui s'est déguisée en Marine nudiste, et Kobo qui s'est emportée lorsqu'elle avait le rôle de l'imposteur. Pour ce qui est des incidents sensationnels, Kaela est devenue la protagoniste d’un harem de yanderes, Moona a fait culpabiliser Kobo à cause d'une fausse accusation, Ollie a fait pression sur Iofi pour qu'elles restent ensemble avant de la tuer et Anya s’est perdue. holoID est, comme toujours, une branche charmante et chaotique.",
       "bbox": {
         "x": 0.0456,
         "y": 0.7964,
@@ -86,8 +66,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.625,
+        "y": 0.151,
+        "width": 0.22,
+        "height": 0.029
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Risu et Ollie ont fait un stream sur Phasmophobia avec Zentreya de VShojo, et rpr, un VTuber indépendant. La pauvre Ollie a été victime de plusieurs crashs techniques pendant le stream et a reçu une avalanche de Super Chats après que le tchat ait été encouragé par rpr. Risu s'est fait tuer par Ollie et Zen, tandis que rpr a malheureusement découvert à quel point Risu peut être dangereuse a l'approche du mois de novembre.",
+      "text": "Risu et Ollie ont fait un stream sur Phasmophobia avec Zentreya de VShojo, et rpr, un VTuber indépendant. La pauvre Ollie a été victime de plusieurs crashs techniques pendant le stream et a reçu une avalanche de Super Chats après que le tchat ait été encouragé par rpr. Risu s'est fait tuer par Ollie et Zen, tandis que rpr a malheureusement découvert à quel point Risu peut être dangereuse à l’approche du mois de novembre.",
       "bbox": {
         "x": 0.5113,
         "y": 0.1953,
@@ -116,8 +106,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kaela",
+      "bbox": {
+        "x": 0.591,
+        "y": 0.562,
+        "width": 0.22,
+        "height": 0.029
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Kaela était folle de joie lorsque le développeur de JUSTICE SUCKS, le jeu qu'elle diffusait à ce moment-là, lui a envoyé un Super Chat et l'a remerciée. Ils lui ont également donné des conseils sur la façon d'infliger plus de dégâts pendant le jeu. Elle a ensuite fait remarquer à quel point elle était heureuse qu'un développeur se joigne à ses streams, ce qui la pousse à donner le meileur d'elle-même. Son tchat, cependant, a remarqué la cruauté de ses actions : essayer de détruire un jeu sous les yeux du développeur. Elle a ri silencieusement à plusieurs reprises.",
+      "text": "Kaela était folle de joie lorsque le développeur de JUSTICE SUCKS, le jeu qu'elle diffusait à ce moment-là, lui a envoyé un Super Chat et l'a remerciée. Ils lui ont également donné des conseils sur la façon d'infliger plus de dégâts pendant le jeu. Elle a ensuite fait remarquer à quel point elle était heureuse qu'un développeur se joigne à ses streams, ce qui la pousse à donner le meilleur d'elle-même. Son tchat, cependant, a remarqué la cruauté de ses actions : essayer de détruire un jeu sous les yeux du développeur. Elle a ri silencieusement à plusieurs reprises.",
       "bbox": {
         "x": 0.515,
         "y": 0.605,
@@ -137,7 +137,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Kiara a posé à Reine des questions importantes sur le sens de la mode dhololD pendant leur collab de dessin entre Spicy Birds. Selon Reine, Kobo a le sens de la mode le plus sexy en raison de ses shorts courts, Zeta a tendance a porter des vétements mignons, tandis que Risu, Moona et lofi ont tendance a porter des vétements plus cool. Ollie, comme prévu, était la plus voyante. Par ailleurs, Reine a révélé que lofi et Ollie se donnent souvent des coups de poitrine, et le tchat a dit que « Ollie espére qu'une partie de la poitrine de lofi lui soit transférée ». De plus, les membres d’hololD sont tres tactiles entre elles.",
+      "text": "Kiara a posé à Reine des questions importantes sur le sens de la mode d'holoID pendant leur collab de dessin entre Spicy Birds. Selon Reine, Kobo a le sens de la mode le plus sexy en raison de ses shorts courts, Zeta a tendance à porter des vêtements mignons, tandis que Risu, Moona et Iofi ont tendance à porter des vêtements plus cool. Ollie, comme prévu, était la plus voyante. Par ailleurs, Reine a révélé que Iofi et Ollie se donnent souvent des coups de poitrine, et le tchat a dit que « Ollie espère qu'une partie de la poitrine de Iofi lui soit transférée ». De plus, les membres d’holoID sont très tactiles entre elles.",
       "bbox": {
         "x": 0.5188,
         "y": 0.822,

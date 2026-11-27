@@ -3,18 +3,8 @@
   "issueId": "holonews_fr_ver_1312_-_1912",
   "page": 18,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
-    {
-      "type": "paragraph",
-      "text": "REPRISE ORIGINALE",
-      "bbox": {
-        "x": 0.8381,
-        "y": 0.0951,
-        "width": 0.1156,
-        "height": 0.0252
-      }
-    },
     {
       "type": "heading",
       "text": "STATS ET SORTIES",
@@ -26,273 +16,103 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "12/13 [Suisei] Phony: 3M [Suisei/Hibiki Ao] Turing Love: 1M [Flare/Patra] Crazy Party Night: 50K",
+      "type": "other",
+      "text": "REPRISE\nORIGINALE\nNOUVEAU",
       "bbox": {
-        "x": 0.0531,
-        "y": 0.171,
-        "width": 0.4338,
-        "height": 0.0521
+        "x": 0.837,
+        "y": 0.094,
+        "width": 0.12,
+        "height": 0.043
       }
     },
     {
       "type": "paragraph",
-      "text": "[Fubuki/Oga] Okochama Sensou: 500K",
+      "text": "12/13\n[Suisei] Phony: 3M\n[Suisei/Hibiki Ao] Turing Love: 1M\n[Flare/Patra] Crazy Party Night: 50K\n[Fubuki/Oga] Okochama Sensou: 500K",
       "bbox": {
-        "x": 0.14,
-        "y": 0.2274,
-        "width": 0.3469,
-        "height": 0.0135
+        "x": 0.05,
+        "y": 0.17,
+        "width": 0.44,
+        "height": 0.07
       }
     },
     {
       "type": "paragraph",
-      "text": "[Kanata] Outsider: 3M",
+      "text": "12/14\n[Calliope] Roki: 9M\n[Sora] Vampire: 500K\n[Okayu] Gehenna: 750K\n[Suisei/HoloFantasy] Saga Jihen: 15M\n[AZKi] Gamen No Nakano Kimi Ga Suki: 25K\n[Astel] Mirai Ginga to Kiteki no Melody: 50K\n[AZKi] Inochi Ni Kirawarete Iru: 250K\n[Suisei] Shine!!: 500K\n[Aruran] W.I.M.: 50K",
       "bbox": {
-        "x": 0.2944,
-        "y": 0.2622,
-        "width": 0.1913,
-        "height": 0.0135
+        "x": 0.512,
+        "y": 0.17,
+        "width": 0.437,
+        "height": 0.159
       }
     },
     {
       "type": "paragraph",
-      "text": "[Korone] Fire Emblem Theme: 500K",
+      "text": "12/15\n[Kanata] Outsider: 3M\n[Matsuri] Chichin Pui Pui: 100K\n[Suisei/Izuru/Astel] Cinema (Cover): 250K\n[Temma] 1.15man Kilo No Film (Cover): 10K\n[Korone] Fire Emblem Theme: 500K\n[Watame] Chikuwa Rap: 100K",
       "bbox": {
-        "x": 0.1681,
-        "y": 0.3333,
-        "width": 0.3188,
-        "height": 0.0135
+        "x": 0.05,
+        "y": 0.26,
+        "width": 0.44,
+        "height": 0.103
       }
     },
     {
       "type": "paragraph",
-      "text": "[Watame] Chikuwa Rap: 100K",
+      "text": "12/16\n[AZKi] Felicia: 250K\n[Roberu] Rashisa: 75K",
       "bbox": {
-        "x": 0.22,
-        "y": 0.3511,
-        "width": 0.2669,
-        "height": 0.0135
+        "x": 0.512,
+        "y": 0.349,
+        "width": 0.437,
+        "height": 0.034
       }
     },
     {
       "type": "paragraph",
-      "text": "12/17 [Towa] Eye: 750K [Lamy] Asu E No Kyoukaisen: 250K",
+      "text": "12/17\n[Towa] Eye: 750K\n[Lamy] Asu E No Kyoukaisen: 250K\n[Kanata] Ashura-chan (Cover): 100K\n[AZKi] Sennou Sakushu Toranomaki: 75K\n[Calliope/Taku Inoue] Yona Yona Journey: 100K\n[Miko/Fubuki/Matsuri/Marine] Gimme Virtua Star: 750K\n[La+] God-ish: 3M",
       "bbox": {
-        "x": 0.0538,
-        "y": 0.3837,
-        "width": 0.4331,
-        "height": 0.0334
+        "x": 0.05,
+        "y": 0.383,
+        "width": 0.44,
+        "height": 0.14
       }
     },
     {
       "type": "paragraph",
-      "text": "[AZKi] Sennou Sakushu Toranomaki: 75K [Calliope/Taku Inoue] Yona Yona Journey: 100K [Miko/Fubuki/Matsuri/Marine]",
+      "text": "12/18\n[Sora] Envy Baby: 250K\n[Okayu] Animal (Cover): 250K\n[Aruran/Rikka/Roberu/Shien/Oga] Pentas: 75K",
       "bbox": {
-        "x": 0.0613,
-        "y": 0.4392,
-        "width": 0.4256,
-        "height": 0.049
+        "x": 0.512,
+        "y": 0.402,
+        "width": 0.437,
+        "height": 0.052
       }
     },
     {
       "type": "paragraph",
-      "text": "Gimme Virtua Star: 750K",
+      "text": "12/19\n[Suisei] Stellar Stellar: 4M\n[Moona/Suisei] Saikai: 1M\n[AZKi] Nanawari Enemy: 75K\n[Reine] Gate Open: START!: 250K\n[Astel/Roberu] Hashire (Cover): 10K\n[Polka] S'il Vous President (Cover): 75K\n[Babudon] Mrs Pumpkin no Kokkei na Yume: 50K\n[Aqua/Fubuki/Mio/Rushia/Marine/Kanata] Umapyoi Densetsu: 2M",
       "bbox": {
-        "x": 0.2663,
-        "y": 0.4926,
-        "width": 0.2206,
-        "height": 0.0104
+        "x": 0.048,
+        "y": 0.544,
+        "width": 0.442,
+        "height": 0.16
       }
     },
     {
-      "type": "paragraph",
-      "text": "[La+] God-ish: 3M",
+      "type": "other",
+      "text": "HOLOSTARS 1st ACT\nJOURNEY to FIND STARS!!",
       "bbox": {
-        "x": 0.3294,
-        "y": 0.5104,
-        "width": 0.1563,
-        "height": 0.0135
+        "x": 0.568,
+        "y": 0.5,
+        "width": 0.333,
+        "height": 0.092
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Suisei] Stellar Stellar: 4M [Moona/Suisei] Saikai: 1M",
+      "type": "other",
+      "text": "CHANSON ORIGINALE — MelKiss — CHOCO♡ MELTY\nREPRISE — Temma — 115MAN KILO NO FILM\nREPRISE — Suisei, Izuru, Astel — CINEMA\nREPRISE — Astel & Roberu — HASHIRE\nREPRISE — Okayu — ANIMAL\nREPRISE — Kanata — ASHURA CHAN\nREPRISE — Polka — S'IL VOUS PRESIDENT\nREPRISE — Matsuri — CHICHIN PUI PUI",
       "bbox": {
-        "x": 0.2581,
-        "y": 0.5473,
-        "width": 0.2275,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[AZKi] Nanawari Enemy: 75K [Reine] Gate Open: START!: 250K",
-      "bbox": {
-        "x": 0.1819,
-        "y": 0.5829,
-        "width": 0.305,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Babudon] Mrs Pumpkin no Kokkei na Yume: 50K [Aqua/Fubuki/Mio/Rushia/Marine/Kanata] Umapyoi Densetsu: 2M",
-      "bbox": {
-        "x": 0.0494,
-        "y": 0.6541,
-        "width": 0.4375,
-        "height": 0.049
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Temma",
-      "bbox": {
-        "x": 0.2775,
-        "y": 0.7852,
-        "width": 0.0481,
-        "height": 0.0074
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "NO FILM",
-      "bbox": {
-        "x": 0.2781,
-        "y": 0.8064,
-        "width": 0.0781,
-        "height": 0.0074
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Kanata",
-      "bbox": {
-        "x": 0.2781,
-        "y": 0.8746,
-        "width": 0.0438,
-        "height": 0.0074
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Calliope] Roki: 9M [Sora] Vampire: 500K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.174,
-        "width": 0.1894,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Okayu] Gehenna: 750K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2096,
-        "width": 0.2131,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Suisei/HoloFantasy] Saga Jihen: 15M",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2274,
-        "width": 0.3356,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[AZKi] Gamen No Nakano Kimi Ga Suki: 25K [Astel] Mirai Ginga to Kiteki no Melody: 50K [AZKi] Inochi Ni Kirawarete Iru: 250K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2452,
-        "width": 0.3975,
-        "height": 0.049
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Suisei] Shine!!: 500K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2986,
-        "width": 0.1888,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Aruran] W./.M.: 50K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.3164,
-        "width": 0.1788,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[AZKi] Felicia: 250K [Roberu] Rashisa: 75K [Sora] Envy Baby: 250K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.3533,
-        "width": 0.2106,
-        "height": 0.066
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Aruran/Rikka/Roberu/Shien/Oga] Pentas: 75K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.4414,
-        "width": 0.41,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Suisei, lzwru,Astel",
-      "bbox": {
-        "x": 0.5081,
-        "y": 0.7852,
-        "width": 0.115,
-        "height": 0.0087
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "CINEMA",
-      "bbox": {
-        "x": 0.5081,
-        "y": 0.7982,
-        "width": 0.1412,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "HASHIRE",
-      "bbox": {
-        "x": 0.7413,
-        "y": 0.7982,
-        "width": 0.1538,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Matsuri",
-      "bbox": {
-        "x": 0.74,
-        "y": 0.8746,
-        "width": 0.0475,
-        "height": 0.0074
+        "x": 0.04,
+        "y": 0.733,
+        "width": 0.922,
+        "height": 0.175
       }
     }
   ],

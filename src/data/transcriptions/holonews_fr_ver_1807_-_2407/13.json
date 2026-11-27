@@ -3,8 +3,38 @@
   "issueId": "holonews_fr_ver_1807_-_2407",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.476,
+        "y": 0.016,
+        "width": 0.048,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "other",
+      "text": "Presented to\nMoona Hoshinova hololive-ID\nFor passing 1,000,000 subscribers",
+      "bbox": {
+        "x": 0.067,
+        "y": 0.227,
+        "width": 0.355,
+        "height": 0.069
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.362,
+        "width": 0.111,
+        "height": 0.022
+      }
+    },
     {
       "type": "paragraph",
       "text": "Moona a finalement reçu son Trophée du créateur en or de YouTube pour avoir atteint un million d'abonnés en février. Cependant, certains fans ont jugé nécessaire de la prévenir qu'elle ne pouvait pas le manger.",
@@ -13,16 +43,6 @@
         "y": 0.398,
         "width": 0.3688,
         "height": 0.0668
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "New progressssssssssss",
-      "bbox": {
-        "x": 0.5263,
-        "y": 0.1094,
-        "width": 0.1819,
-        "height": 0.0104
       }
     },
     {
@@ -56,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.34,
+        "y": 0.666,
+        "width": 0.106,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Kobo a invité trois membres d'UPROAR!!, Fuma, Gamma et Rio, à une collaboration VALORANT. Elle a déclaré qu'elle avait initialement prévu de faire une collaboration complète avec les quatre membres d UPROAR! et Uyu. Cependant, Kobo a pensé qu'elle aurait besoin d'une personne capable de traduire pour elle et a donc aussi invité Ollie.",
+      "text": "Kobo a invité trois membres d'UPROAR!!, Fuma, Gamma et Rio, à une collaboration VALORANT. Elle a déclaré qu'elle avait initialement prévu de faire une collaboration complète avec les quatre membres d'UPROAR!! et Uyu. Cependant, Kobo a pensé qu'elle aurait besoin d'une personne capable de traduire pour elle et a donc aussi invité Ollie.",
       "bbox": {
         "x": 0.0719,
         "y": 0.7053,
@@ -76,8 +106,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Oga & Risu",
+      "bbox": {
+        "x": 0.66,
+        "y": 0.756,
+        "width": 0.168,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Oga et Risu, l'auto-baptisé « Duo de la domination mondiale », ont regardé ensemble leur dernière chanson originale en collaboration : « Harapan PanPanPan. Ils ont dit qu'ils voulaient une chanson combinant l'indonésien et le japonais, mais comme Oga ne savait pas parler indonésien, ils ont pensé à « Harapan », car ce mot a une signification dans les deux langues. Il signifie « espoir » en indonésien et « coup de poing » en japonais.",
+      "text": "Oga et Risu, l'auto-baptisé « Duo de la domination mondiale », ont regardé ensemble leur dernière chanson originale en collaboration : « Harapan PanPanPan. Ils ont dit qu'ils voulaient une chanson combinant l’indonésien et le japonais, mais comme Oga ne savait pas parler indonésien, ils ont pensé à « Harapan », car ce mot a une signification dans les deux langues. Il signifie « espoir » en indonésien et « coup de poing » en japonais.",
       "bbox": {
         "x": 0.5387,
         "y": 0.7956,

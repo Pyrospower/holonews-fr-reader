@@ -3,146 +3,96 @@
   "issueId": "holonews_fr_ver_1312_-_1912",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.093,
+        "y": 0.042,
+        "width": 0.353,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.213,
+        "width": 0.117,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Temma & Others |i Après avoir vu les autres membres d'holostars Après le stream anniversaire de Temma I : jouer a des jeux de drague pour femmes, en 3D, Aruran, Miyabi et Temma ont VE Astel a décidé de s'orienter vers ceux destinés décidé de faire une soirée pyjama z à un public masculin en jouant à Doki Doki improvisée dans la maison d'Arurandeisu.",
+      "text": "Après avoir vu les autres membres d’holostars jouer à des jeux de drague pour femmes, Astel a décidé de s'orienter vers ceux destinés à un public masculin en jouant à Doki Doki Literature Club en stream. Avant de débuter son stream, Astel a partagé dans le tchat de la salle d’attente sa peine à changer le nom de son PC, car il y avait un risque que DDLC l’affiche. Fidèle à lui-même, il a essayé de le renommer « ch◯nch◯n ». Finalement, il a décidé de lancer son stream sous condition que si des informations personnelles étaient révélées, l’archive du stream devrait être retirée.",
       "bbox": {
         "x": 0.05,
-        "y": 0.2174,
-        "width": 0.94,
-        "height": 0.1007
+        "y": 0.254,
+        "width": 0.43,
+        "height": 0.204
       }
     },
     {
       "type": "paragraph",
-      "text": "Literature Club en stream. Avant de débuter son stream, Astel a partagé dans le tchat de la salle d'attente sa peine à changer le nom de son PC, car il y avait un risque que DDLC l'affiche. Fidèle à lui-même, il a essayé de le renommer « chOnchOn ». Finalement, il a décidé de lancer son stream sous condition gue si des informations personnelles étaient révélées, l'archive du stream devrait être retirée.",
+      "text": "Astel a de nouveau essayé de piéger ses spectateurs. Dans la salle d’attente précédant son stream DDLC, Astel a demandé à tout son tchat d’imiter des scénarios de jeux de drague. Cependant, alors que son tchat s’exécutait, Astel les a réprimandés de jouer dans sa salle d’attente.",
       "bbox": {
-        "x": 0.0513,
-        "y": 0.3134,
-        "width": 0.4263,
-        "height": 0.1484
+        "x": 0.049,
+        "y": 0.504,
+        "width": 0.437,
+        "height": 0.14
       }
     },
     {
-      "type": "paragraph",
-      "text": "Après avoir acheté leur dîner à l'épicerie, ils ont joué à Pokémon et se sont relayés pour jouer et commenter le jeu. Ils ont enchaîné avec Smash Bros où Temma a < écrasé Aruran et Miyabi avec des scores H de 14, 5 et 2 respectivement. En i | : récompense, Temma a dormi dans un lit I : tandis que les deux autres ont dormi par : terre.",
+      "type": "heading",
+      "text": "Temma & Others",
       "bbox": {
-        "x": 0.5206,
-        "y": 0.3186,
-        "width": 0.4694,
-        "height": 0.1406
+        "x": 0.634,
+        "y": 0.217,
+        "width": 0.31,
+        "height": 0.023
       }
     },
     {
       "type": "paragraph",
-      "text": "Pendant le déjeuner, ils ont parlé de",
+      "text": "Après le stream anniversaire de Temma en 3D, Aruran, Miyabi et Temma ont décidé de faire une soirée pyjama improvisée dans la maison d'Arurandeisu. Après avoir acheté leur dîner à l'épicerie, ils ont joué à Pokémon et se sont relayés pour jouer et commenter le jeu. Ils ont enchaîné avec Smash Bros où Temma a écrasé Aruran et Miyabi avec des scores de 14, 5 et 2 respectivement. En récompense, Temma a dormi dans un lit tandis que les deux autres ont dormi par terre.",
       "bbox": {
-        "x": 0.5225,
-        "y": 0.4792,
-        "width": 0.3538,
-        "height": 0.0156
+        "x": 0.52,
+        "y": 0.254,
+        "width": 0.414,
+        "height": 0.206
       }
     },
     {
       "type": "paragraph",
-      "text": "P > produits dérivés qu'ils ne peuvent pas Astel a de nouveau Sy e oe plèger vendre comme des sous-vêtements. Au ses spectateurs. Dans la salle d'attente début, ils voulaient en faire pour Noël, mais",
+      "text": "Pendant le déjeuner, ils ont parlé de produits dérivés qu'ils ne peuvent pas vendre comme des sous-vêtements. Au début, ils voulaient en faire pour Noël, mais ils se sont résignés, car leurs fans ne s'en serviraient pas. C'est pourquoi les sous-vêtements ont été remplacés par des chaussettes qui sont actuellement en vente. Alors qu'ils discutaient de beaucoup de choses, Temma voulait s‘éclipser pour dormir.",
       "bbox": {
-        "x": 0.0488,
-        "y": 0.4952,
-        "width": 0.8975,
-        "height": 0.0477
+        "x": 0.52,
+        "y": 0.48,
+        "width": 0.429,
+        "height": 0.174
       }
     },
     {
-      "type": "paragraph",
-      "text": "précédant son stream DDLC, Astel a",
+      "type": "heading",
+      "text": "Izuru & Rikka",
       "bbox": {
-        "x": 0.0494,
-        "y": 0.5391,
-        "width": 0.3906,
-        "height": 0.02
+        "x": 0.189,
+        "y": 0.803,
+        "width": 0.267,
+        "height": 0.021
       }
     },
     {
       "type": "paragraph",
-      "text": "demandé à tout son tchat d'imiter des",
-      "bbox": {
-        "x": 0.0506,
-        "y": 0.5564,
-        "width": 0.3981,
-        "height": 0.02
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "scénarios de jeux de drague.",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.5738,
-        "width": 0.305,
-        "height": 0.0165
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Cependant, alors que son tchat s’exécutait, Astel les a réprimandés de jouer dans sa salle d'attente.",
-      "bbox": {
-        "x": 0.0469,
-        "y": 0.5911,
-        "width": 0.4113,
-        "height": 0.0512
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Pour célébrer leur collaboration avec le jeu de machines a pince en ligne de Capcom, Net Catcher, Izuru et Rikka ont organisé un stream où ils ont essayé d'obtenir autant de prix que possible en une heure. Pendant qu'ils se démenaient sur le jeu, ils ont reçu l'aide de la « main de Dieu » à cinq reprises.",
+      "text": "Pour célébrer leur collaboration avec le jeu de machines à pince en ligne de Capcom, Net Catcher, Izuru et Rikka ont organisé un stream où ils ont essayé d'obtenir autant de prix que possible en une heure. Pendant qu'ils se démenaient sur le jeu, ils ont reçu l'aide de la « main de Dieu » à cinq reprises.",
       "bbox": {
         "x": 0.0513,
         "y": 0.8416,
         "width": 0.4188,
         "height": 0.1089
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "ils se sont résignés, car leurs fans ne s'en",
-      "bbox": {
-        "x": 0.5219,
-        "y": 0.5434,
-        "width": 0.4094,
-        "height": 0.0156
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "serviraient pas. C'est pourquoi les sous- ||;",
-      "bbox": {
-        "x": 0.5213,
-        "y": 0.5582,
-        "width": 0.4688,
-        "height": 0.0239
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "vêtements ont été remplacés par des chaussettes qui sont actuellement en vente. Alors qu'ils discutaient de beaucoup ;:",
-      "bbox": {
-        "x": 0.5206,
-        "y": 0.5755,
-        "width": 0.4694,
-        "height": 0.0486
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "de choses, Temma voulait s‘éclipser pour 7 & ormir.",
-      "bbox": {
-        "x": 0.5213,
-        "y": 0.6237,
-        "width": 0.4688,
-        "height": 0.0282
       }
     },
     {
@@ -157,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Aramagi Oga est maintenant certifié sur Twitter, ce qui fait de lui le premier membre ; : d’holostars a obtenir le badge bleu. hy",
+      "text": "Aramagi Oga est maintenant certifié sur Twitter, ce qui fait de lui le premier membre d’holostars à obtenir le badge bleu.",
       "bbox": {
         "x": 0.5219,
         "y": 0.8416,

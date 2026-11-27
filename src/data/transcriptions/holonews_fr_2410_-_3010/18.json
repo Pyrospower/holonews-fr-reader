@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_2410_-_3010",
   "page": 18,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -26,33 +26,73 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Les messages sont sur Yosetti et les illustrations sur Magma, et sont tous remplis de tendresse et d'amour A A .",
+      "type": "other",
+      "text": "Wish you all the best!\nThank you for everything\nHope you happy (always)",
       "bbox": {
-        "x": 0.5188,
-        "y": 0.3069,
-        "width": 0.4444,
-        "height": 0.0269
+        "x": 0.048,
+        "y": 0.247,
+        "width": 0.15,
+        "height": 0.102
+      }
+    },
+    {
+      "type": "other",
+      "text": "Thank you!!!",
+      "bbox": {
+        "x": 0.296,
+        "y": 0.21,
+        "width": 0.091,
+        "height": 0.032
+      }
+    },
+    {
+      "type": "other",
+      "text": "Thank you for all your hard work these past years!!\nGood luck on the next half of your journey, Shinove-san!!",
+      "bbox": {
+        "x": 0.231,
+        "y": 0.263,
+        "width": 0.144,
+        "height": 0.09
       }
     },
     {
       "type": "paragraph",
-      "text": "pour Shinove. Merci pour tout Shinove !",
+      "text": "Les messages sont sur Yosetti et les illustrations sur Magma, et sont tous remplis de tendresse et d’amour pour Shinove. Merci pour tout Shinove !",
       "bbox": {
         "x": 0.5181,
-        "y": 0.3329,
-        "width": 0.3194,
-        "height": 0.0122
+        "y": 0.3069,
+        "width": 0.4451,
+        "height": 0.0382
       }
     },
     {
       "type": "heading",
-      "text": "# Let's play terminés",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.392,
+        "y": 0.42,
+        "width": 0.214,
+        "height": 0.031
+      }
+    },
+    {
+      "type": "other",
+      "text": "Let's play terminés",
       "bbox": {
         "x": 0.6513,
         "y": 0.4232,
         "width": 0.23,
         "height": 0.0169
+      }
+    },
+    {
+      "type": "other",
+      "text": "Settlement Survival\nDicey Dungeons\nBayonetta 3\nJUSTICE SUCKS: TACTICAL VACUUM ACTION\nDestroy All Humans!\nJUDGE EYES Remastered\nCase 02: Paranormal Evil\nEuro Truck Simulator 2\nResident Evil biohazard\nVillage Resident Evil\nTrombone Champ\nFOREWARNED\nTerraria\nPHASMOPHOBIA",
+      "bbox": {
+        "x": 0.1,
+        "y": 0.465,
+        "width": 0.802,
+        "height": 0.518
       }
     }
   ],

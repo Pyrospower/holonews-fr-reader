@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_1403_-_2003",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.4756,
+        "y": 0.0161,
+        "width": 0.0481,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Area 15",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.181,
+        "width": 0.1187,
+        "height": 0.0213
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Immédiatement après la sortie de « Q&A=E », lofi a animé un stream où elle a discuté de sa chanson originale avec Moona et Risa. Au fil du temps, la stream s'est transformée en une discussion sur toutes leurs chansons originales. Elles ont discuté des paroles, du processus de création des chansons et de leurs expériences de travail sur celles-ci. Ils ont également discuté de leur participation prochaine au holo Fes et ont annoncé qu'ils allaient streamer ensemble pendant les trois prochains jours.",
+      "text": "Immédiatement après la sortie de « Q&A=E », Iofi a animé un stream où elle a discuté de sa chanson originale avec Moona et Risa. Au fil du temps, la stream s'est transformée en une discussion sur toutes leurs chansons originales. Elles ont discuté des paroles, du processus de création des chansons et de leurs expériences de travail sur celles-ci. Ils ont également discuté de leur participation prochaine au holo Fes et ont annoncé qu'ils allaient streamer ensemble pendant les trois prochains jours.",
       "bbox": {
         "x": 0.0631,
         "y": 0.2227,
@@ -16,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Area 15",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.533,
+        "width": 0.1187,
+        "height": 0.0208
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Même si Moona, Risu et lofi ont fait une pause pour préparer le festival, elles sont restées très actives sur Twitter. Il se trouve que lofi a vu un fanart d'elle-même montrant le résultat d'un test de grossesse. Au même moment, elle a appelé Moona et lui a dit qu'elles allaient avoir un autre bébé. Après le refus de Moona, lofi a approché Risu et lui a demandé si elle voulait un autre frère ou une autre sœur. En réponse, Risu a demandé pourquoi lofi voulait plus d'enfants, étant donné qu'elle avait déjà quatre personnalités, dont l'une était un ikemen (un Joli garçon). lofi a seulement conclu qu'elle voulait plus de garçons et ne changerait pas son rêve d'avoir une famille ikemen.",
+      "text": "Même si Moona, Risu et Iofi ont fait une pause pour préparer le festival, elles sont restées très actives sur Twitter. Il se trouve que Iofi a vu un fanart d'elle-même montrant le résultat d'un test de grossesse. Au même moment, elle a appelé Moona et lui a dit qu'elles allaient avoir un autre bébé. Après le refus de Moona, Iofi a approché Risu et lui a demandé si elle voulait un autre frère ou une autre sœur. En réponse, Risu a demandé pourquoi Iofi voulait plus d'enfants, étant donné qu'elle avait déjà quatre personnalités, dont l'une était un ikemen (un joli garçon). Iofi a seulement conclu qu'elle voulait plus de garçons et ne changerait pas son rêve d'avoir une famille ikemen.",
       "bbox": {
         "x": 0.0619,
         "y": 0.5725,
@@ -37,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "À ce stade, lofi voulait une version homme d'elle même et a décidé de la dessiner elle-même. Parce que le lofi résultant était magnifique, lofi a décidé de se dessiner avec lui dans des circonstances épicées.",
+      "text": "À ce stade, Iofi voulait une version homme d'elle même et a décidé de la dessiner elle-même. Parce que le Iofi résultant était magnifique, Iofi a décidé de se dessiner avec lui dans des circonstances épicées.",
       "bbox": {
         "x": 0.0625,
         "y": 0.8824,
@@ -46,23 +76,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "» Kureiji Ollie WOULD YOU HIT ME FOR A MILLION DOLLARS?!?!",
+      "type": "heading",
+      "text": "Ollie",
       "bbox": {
-        "x": 0.5669,
-        "y": 0.0812,
-        "width": 0.3538,
-        "height": 0.0221
+        "x": 0.6356,
+        "y": 0.178,
+        "width": 0.0781,
+        "height": 0.0204
       }
     },
     {
       "type": "paragraph",
-      "text": "Le 18 mars, Ollie a mis en ligne une vidéo montrant les réactions de ses collegues a la question de savoir s'ils frapperaient Ollie pour un million de dollars/yen. Elle a interrogé 23 participants de toutes les branches et chacun d'entre eux a réagi différemment à sa question. Certains n'hésitaient pas à la frapper, mais la plupart étaient assez gentils pour ne pas le faire.",
+      "text": "Le 18 mars, Ollie a mis en ligne une vidéo montrant les réactions de ses collègues à la question de savoir s'ils frapperaient Ollie pour un million de dollars/yen. Elle a interrogé 23 participants de toutes les branches et chacun d'entre eux a réagi différemment à sa question. Certains n'hésitaient pas à la frapper, mais la plupart étaient assez gentils pour ne pas le faire.",
       "bbox": {
         "x": 0.5369,
         "y": 0.2183,
         "width": 0.3975,
         "height": 0.1319
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Reine",
+      "bbox": {
+        "x": 0.6288,
+        "y": 0.4835,
+        "width": 0.0906,
+        "height": 0.0204
       }
     },
     {

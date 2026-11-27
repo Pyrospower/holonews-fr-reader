@@ -3,8 +3,38 @@
   "issueId": "holonews_uproar_debut_special_-_fr_version",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Yatogami Fuma",
+      "bbox": {
+        "x": 0.56,
+        "y": 0.0074,
+        "width": 0.3988,
+        "height": 0.1146
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le premier à avoir débuté, Yatogami Fuma, a commencé le stream avec une vidéo sur la façon dont UPROAR !!! s'est réuni et a planifié ses débuts ! On nous a promis que plus de détails seraient révélés à la sortie du manga de Gamma le 31 mars.",
+      "bbox": {
+        "x": 0.5675,
+        "y": 0.138,
+        "width": 0.4081,
+        "height": 0.211
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après la vidéo, Fuma s'est enfin montré et nous avons entendu sa voix pour la première fois. Il a dit qu'il était très nerveux, mais qu'il a quand même montré ses qualités sans difficulté.",
+      "bbox": {
+        "x": 0.5675,
+        "y": 0.3672,
+        "width": 0.4081,
+        "height": 0.1406
+      }
+    },
     {
       "type": "paragraph",
       "text": "Il a commencé par se présenter, puis a parlé des personnes impliquées dans ses débuts, a montré ses hashtags, ce qu'il aime et n'aime pas, ses plans pour le stream et ses objectifs.",
@@ -26,33 +56,13 @@
       }
     },
     {
-      "type": "other",
-      "text": "Familiar",
-      "bbox": {
-        "x": 0.9031,
-        "y": 0.73,
-        "width": 0.0338,
-        "height": 0.0043
-      }
-    },
-    {
       "type": "paragraph",
-      "text": "a ; ; AB) Il a terminé ses débuts en nous disant de LUA regarder les débuts de ses compagnons, et a remercié toutes les personnes qui sont venues voir ses débuts.",
+      "text": "Il a terminé ses débuts en nous disant de regarder les débuts de ses compagnons, et a remercié toutes les personnes qui sont venues voir ses débuts.",
       "bbox": {
         "x": 0.0325,
         "y": 0.8746,
         "width": 0.5806,
         "height": 0.105
-      }
-    },
-    {
-      "type": "other",
-      "text": "29% pc (Raccoon)",
-      "bbox": {
-        "x": 0.7319,
-        "y": 0.898,
-        "width": 0.1225,
-        "height": 0.0078
       }
     }
   ],

@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_0404_-_1004",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.475,
+        "y": 0.016,
+        "width": 0.05,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Risu",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.184,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Durant le stream anniversaire d’hololD sur Minecraft, le logiciel de stream (OBS) de Risu a eu quelques petits soucis (probablement dû à son matériel de streaming qui a dû changer de place récemment), et a donné des effets plutôt étranges sur son modèle durant tout le stream.",
+      "text": "Durant le stream anniversaire d’holoID sur Minecraft, le logiciel de stream (OBS) de Risu a eu quelques petits soucis (probablement dû à son matériel de streaming qui a dû changer de place récemment), et a donné des effets plutôt étranges sur son modèle durant tout le stream.",
       "bbox": {
         "x": 0.07,
         "y": 0.2201,
@@ -16,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Iofi & Oga",
+      "bbox": {
+        "x": 0.194,
+        "y": 0.46,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "lofi et al ont fait un stream ensemble, ou ils ont dessiné chacun leurs benjamins (HoloH3roes et Uproar). Pendant qu’Oga attendait lofi pour compléter sa partie d’un dessin, il a dessiné une mascotte pour lofi, la manageuse de hololD, et plus encore.",
+      "text": "Iofi et Oga ont fait un stream ensemble, où ils ont dessiné chacun leurs benjamins (HoloH3roes et Uproar). Pendant qu’Oga attendait Iofi pour compléter sa partie d’un dessin, il a dessiné une mascotte pour Iofi, la manageuse de holoID, et plus encore.",
       "bbox": {
         "x": 0.0631,
         "y": 0.4826,
@@ -26,18 +56,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Let’s Learn Indonesian!",
+      "type": "heading",
+      "text": "Reine & IRyS",
       "bbox": {
-        "x": 0.6813,
-        "y": 0.1081,
-        "width": 0.1125,
-        "height": 0.0295
+        "x": 0.631,
+        "y": 0.184,
+        "width": 0.21,
+        "height": 0.026
       }
     },
     {
       "type": "paragraph",
-      "text": "HeiRys, c’est ReiRyS ! IRyS était la douzième invitée du cours d’Indonésien de Reine. Reine a commencé par la base, avec les noms de certains fruits, et une traduction du mot “Pure” (“Polos”). On a aussi appris des mots plus vulgaires (IRyS ayant demandé hors-stream), incluant comment on dit “tenir la main” (ou le pied) Elles ont finis avec la traduction de “L'espoir est arrivé et il est là pour toi” (“Harapan telah datang, dan akan menghampirimu”).",
+      "text": "HeiRys, c’est ReiRyS ! IRyS était la douzième invitée du cours d’Indonésien de Reine. Reine a commencé par la base, avec les noms de certains fruits, et une traduction du mot “Pure” (“Polos”). On a aussi appris des mots plus vulgaires (IRyS ayant demandé hors-stream), incluant comment on dit “tenir la main” (ou le pied) Elles ont finis avec la traduction de “L’espoir est arrivé et il est là pour toi” (“Harapan telah datang, dan akan menghampirimu”).",
       "bbox": {
         "x": 0.5331,
         "y": 0.2201,
@@ -46,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.534,
+        "width": 0.07,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Cette semaine, lofi a dessiné Korone dans un uniforme de scout.",
+      "text": "Cette semaine, Iofi a dessiné Korone dans un uniforme de scout.",
       "bbox": {
         "x": 0.5337,
         "y": 0.5703,
@@ -56,8 +96,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.144,
+        "y": 0.662,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "En début de semaine, Moona a annoncé qu'elle s'était remise du Covid, avec un stream à l’improviste qui montrait son modèle 3D à domicile. Elle Moona 2 montré des accessoires de son modèle (des lunettes de soleil, les lunettes de Watame, des oreilles de lapin, des moustaches et bien plus encore) aussi bien que des T-pose, des poses de lions et, le plus important, elle a fait un kabedon à la caméra. Regardez l'archive du stream pour le reste des accessoires montrés que l’on n’a pas pu lister ici !",
+      "text": "En début de semaine, Moona a annoncé qu’elle s’était remise du Covid, avec un stream à l’improviste qui montrait son modèle 3D à domicile. Elle a montré des accessoires de son modèle (des lunettes de soleil, les lunettes de Watame, des oreilles de lapin, des moustaches et bien plus encore) aussi bien que des T-pose, des poses de lions et, le plus important, elle a fait un kabedon à la caméra. Regardez l’archive du stream pour le reste des accessoires montrés que l’on n’a pas pu lister ici !",
       "bbox": {
         "x": 0.1456,
         "y": 0.6298,
@@ -67,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le 15 avril, Area 15 aura eu deux ans. Le semaine prochaine, nous raconterons comment Moona, Risu et lofi auront célébré cet anniversaire.",
+      "text": "Le 15 avril, Area 15 aura eu deux ans. Le semaine prochaine, nous raconterons comment Moona, Risu et Iofi auront célébré cet anniversaire.",
       "bbox": {
         "x": 0.6006,
         "y": 0.8529,

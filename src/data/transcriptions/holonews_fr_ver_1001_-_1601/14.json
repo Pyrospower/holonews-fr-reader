@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_1001_-_1601",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Holo ID",
+      "bbox": {
+        "x": 0.158,
+        "y": 0.048,
+        "width": 0.21,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Risu & Oga",
+      "bbox": {
+        "x": 0.188,
+        "y": 0.222,
+        "width": 0.235,
+        "height": 0.028
+      }
+    },
     {
       "type": "paragraph",
       "text": "Risu et Oga sont de retour pour jouer ensemble à PHOGS! Ensemble, ils ont réussi à résoudre les énigmes efficacement. En dehors du jeu, ils ont également parlé de leurs souhaits pour leurs anniversaires à venir et se sont demandé lequel d'entre eux était le véritable seigneur des démons. D'après leur discussion, Risu pourrait être le plus puissant des deux.",
@@ -26,23 +46,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Pendant le « lundi productif » de cette semaine, lofi a continué à dessiner des illustrations pour la MV de sa chanson originale (qui sortira le 14 mars, jour du White Day). Dans un autre stream, elle a dessiné une carte de Nouvel An pour souhaiter une bonne année à ses mamans (Mitsuki et Vivi), son papa (Raku) ainsi qu’à",
+      "type": "heading",
+      "text": "Iofi",
       "bbox": {
-        "x": 0.0519,
-        "y": 0.7652,
-        "width": 0.4269,
-        "height": 0.1276
+        "x": 0.162,
+        "y": 0.724,
+        "width": 0.08,
+        "height": 0.023
       }
     },
     {
       "type": "paragraph",
-      "text": "YAGOO. Le tchat l’a critiquée quand ils se sont rendu compte qu’elle avait oublié comment écrire correctement son nom en hiragana.",
+      "text": "Pendant le « lundi productif » de cette semaine, Iofi a continué à dessiner des illustrations pour la MV de sa chanson originale (qui sortira le 14 mars, jour du White Day). Dans un autre stream, elle a dessiné une carte de Nouvel An pour souhaiter une bonne année à ses mamans (Mitsuki et Vivi), son papa (Raku) ainsi qu’à YAGOO. Le tchat l’a critiquée quand ils se sont rendu compte qu’elle avait oublié comment écrire correctement son nom en hiragana.",
       "bbox": {
-        "x": 0.0513,
-        "y": 0.8932,
-        "width": 0.4163,
-        "height": 0.0638
+        "x": 0.051,
+        "y": 0.764,
+        "width": 0.43,
+        "height": 0.191
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.223,
+        "width": 0.155,
+        "height": 0.021
       }
     },
     {
@@ -56,13 +86,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.63,
+        "width": 0.1,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Piscok, le chat d'Ollie, à réussi à grimper sur son étagère et a détruit son Blu-ray d’ « Hololive 2nd fes. Beyond the Stage ».",
+      "text": "Piscok, le chat d'Ollie, a réussi à grimper sur son étagère et a détruit son Blu-ray d’ « Hololive 2nd fes. Beyond the Stage ».",
       "bbox": {
         "x": 0.5238,
         "y": 0.6706,
         "width": 0.4063,
         "height": 0.0477
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Risu",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.864,
+        "width": 0.104,
+        "height": 0.022
       }
     },
     {

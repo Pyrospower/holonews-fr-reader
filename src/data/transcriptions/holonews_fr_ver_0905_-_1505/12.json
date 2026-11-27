@@ -3,16 +3,26 @@
   "issueId": "holonews_fr_ver_0905_-_1505",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "other",
-      "text": "<\\inoïa> I don't ony because I an naka your ko ko ro",
+      "type": "heading",
+      "text": "EN",
       "bbox": {
-        "x": 0.0556,
-        "y": 0.0668,
-        "width": 0.1969,
-        "height": 0.0048
+        "x": 0.472,
+        "y": 0.017,
+        "width": 0.058,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.179,
+        "width": 0.05,
+        "height": 0.02
       }
     },
     {
@@ -26,6 +36,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ame",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.59,
+        "width": 0.071,
+        "height": 0.02
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Smol Ame est de retour avec un nouveau suivi des yeux ! Elle a passé en revue les nombreux dessins « Finis la Ame » créés à partir d'un modèle de Hyde (@tabakko), où ses fans ont pu dessiner un torse pour elle. Parmi les propositions, on trouve un Buff Smol Ame, un dinosaure Ame, et même un Ame sans torse - juste quatre jambes et une tête. Smol Ame a parfois donné des descriptions de ce que pourrait être la chronologie d'un tel Ame, ou a même affirmé que certains d'entre eux n'existaient absolument pas, comme l'Ame à long cou.",
       "bbox": {
@@ -33,6 +53,16 @@
         "y": 0.6276,
         "width": 0.39,
         "height": 0.1745
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara & Mumei",
+      "bbox": {
+        "x": 0.667,
+        "y": 0.179,
+        "width": 0.232,
+        "height": 0.021
       }
     },
     {
@@ -73,6 +103,16 @@
         "y": 0.3863,
         "width": 0.355,
         "height": 0.0503
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara & Reine",
+      "bbox": {
+        "x": 0.668,
+        "y": 0.577,
+        "width": 0.212,
+        "height": 0.022
       }
     },
     {

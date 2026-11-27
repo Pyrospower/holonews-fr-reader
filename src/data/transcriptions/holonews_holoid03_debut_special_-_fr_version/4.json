@@ -3,7 +3,7 @@
   "issueId": "holonews_holoid03_debut_special_-_fr_version",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -23,6 +23,36 @@
         "y": 0.1597,
         "width": 0.5733,
         "height": 0.0644
+      }
+    },
+    {
+      "type": "other",
+      "text": "Surprise",
+      "bbox": {
+        "x": 0.2882,
+        "y": 0.3391,
+        "width": 0.1882,
+        "height": 0.0335
+      }
+    },
+    {
+      "type": "other",
+      "text": "Déçue",
+      "bbox": {
+        "x": 0.2047,
+        "y": 0.5523,
+        "width": 0.1412,
+        "height": 0.0351
+      }
+    },
+    {
+      "type": "other",
+      "text": "debut!",
+      "bbox": {
+        "x": 0.0129,
+        "y": 0.7958,
+        "width": 0.1259,
+        "height": 0.049
       }
     }
   ],

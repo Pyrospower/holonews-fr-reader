@@ -3,21 +3,31 @@
   "issueId": "holonews_fr_ver_2908_-_0409",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Astel a",
+      "type": "heading",
+      "text": "Astel",
       "bbox": {
-        "x": 0.4194,
-        "y": 0.1901,
-        "width": 0.0694,
-        "height": 0.0095
+        "x": 0.1671,
+        "y": 0.1508,
+        "width": 0.1014,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.2771,
+        "y": 0.1518,
+        "width": 0.07,
+        "height": 0.0188
       }
     },
     {
       "type": "paragraph",
-      "text": "Dans son dernier stream de dessin, présenté son dernier ami animal : la chouette grise, Merck. Apolléon et Polneu ont rencontré Merck sur Mercure lorsqu'ils s'y sont rendus pour enquêter sur quelque chose. Après avoir résolu l'enquête, ils sont revenus avec Astel et Merck.",
+      "text": "Dans son dernier stream de dessin, Astel a présenté son dernier ami animal : la chouette grise, Merck. Apolléon et Polneu ont rencontré Merck sur Mercure lorsqu'ils s'y sont rendus pour enquêter sur quelque chose. Après avoir résolu l'enquête, ils sont revenus avec Astel et Merck.",
       "bbox": {
         "x": 0.0438,
         "y": 0.1901,
@@ -47,7 +57,7 @@
     },
     {
       "type": "heading",
-      "text": "NE) Collab",
+      "text": "Collab",
       "bbox": {
         "x": 0.0594,
         "y": 0.4466,
@@ -56,8 +66,18 @@
       }
     },
     {
+      "type": "other",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.3657,
+        "y": 0.4554,
+        "width": 0.07,
+        "height": 0.0188
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le groupe « Survival » composé d'lzuru, Temma, et Roberu a commencé son voyage pour continuer l'histoire du chapitre 3 de Raft. lls ont exploré Varuna Point où ils se sont séparés pour rassembler les notes éparpillées dans le bâtiment. Roberu est monté tandis qu'lzuru et Temma sont descendus dans l'eau pour explorer le sous-sol. Après avoir rassemblé les notes et les objets nécessaires, ils sont tous montés sur la grue pour voir la dernière note nécessaire pour la prochaine île. Avant de terminer le stream, ils ont annoncé que la prochaine collaboration aura lieu le 6 septembre pour continuer l'histoire.",
+      "text": "Le groupe « Survival » composé d'Izuru, Temma, et Roberu a commencé son voyage pour continuer l'histoire du chapitre 3 de Raft. Ils ont exploré Varuna Point où ils se sont séparés pour rassembler les notes éparpillées dans le bâtiment. Roberu est monté tandis qu'Izuru et Temma sont descendus dans l'eau pour explorer le sous-sol. Après avoir rassemblé les notes et les objets nécessaires, ils sont tous montés sur la grue pour voir la dernière note nécessaire pour la prochaine île. Avant de terminer le stream, ils ont annoncé que la prochaine collaboration aura lieu le 6 septembre pour continuer l'histoire.",
       "bbox": {
         "x": 0.0431,
         "y": 0.4909,
@@ -67,12 +87,22 @@
     },
     {
       "type": "heading",
-      "text": "%) PROJECT V",
+      "text": "PROJECT V",
       "bbox": {
         "x": 0.0588,
         "y": 0.6866,
         "width": 0.3419,
         "height": 0.0365
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.3314,
+        "y": 0.6944,
+        "width": 0.07,
+        "height": 0.0188
       }
     },
     {
@@ -86,8 +116,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Temma",
+      "bbox": {
+        "x": 0.6314,
+        "y": 0.1498,
+        "width": 0.1443,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.7929,
+        "y": 0.1538,
+        "width": 0.07,
+        "height": 0.0188
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Dans son jeu Cult of the Lamb, notre chevalier noir, Kishido Temma, a décidé de recruter et de nommer les membres de son culte d'après d'autres membres d'HOLOSTARS. En commençant par Miyabi, Temma a lentement mais sûrement continué à recruter d'autres adeptes dans son culte. Il a également modifié leur apparence pour qu'ils ressemblent aux HOLOSTARS. En tant que chef du culte, Temma s'assurait qu'aucun de ses adeptes ne s'endormait ou même ne mourait sans sa permission. Cependant, le moment venu, il n'a pas hésité à sacrifier facilement Aruran lors du rituel. N'oubliez pas de regarder le let's play de Cult of the Lamb de Temma pour découvrir le sort des autres membres d'HOLOSTARS entre les mains de notre chevalier noir Kishido Temma.",
+      "text": "Dans son jeu Cult of the Lamb, notre chevalier noir, Kishido Temma, a décidé de recruter et de nommer les membres de son culte d'après d'autres membres d'HOLOSTARS. En commençant par Miyabi, Temma a lentement mais sûrement continué à recruter d'autres adeptes dans son culte. Il a également modifié leur apparence pour qu'ils ressemblent aux HOLOSTARS. En tant que chef du culte, Temma s'assurait qu'aucun de ses adeptes ne s'endormait ou même ne mourait sans sa permission. Cependant, le moment venu, il n'a pas hésité à sacrifier facilement Aruran lors du rituel. N'oubliez pas de regarder le let’s play de Cult of the Lamb de Temma pour découvrir le sort des autres membres d'HOLOSTARS entre les mains de notre chevalier noir Kishido Temma.",
       "bbox": {
         "x": 0.5119,
         "y": 0.1897,
@@ -103,6 +153,16 @@
         "y": 0.4431,
         "width": 0.2131,
         "height": 0.0273
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.7357,
+        "y": 0.4454,
+        "width": 0.07,
+        "height": 0.0188
       }
     },
     {

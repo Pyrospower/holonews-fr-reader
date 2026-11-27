@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_1010_-_1610",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.2387,
+        "width": 0.2125,
+        "height": 0.026
+      }
+    },
     {
       "type": "paragraph",
       "text": "Haachama a désormais une matinale appelée Haato Na News. Contrairement aux nouvelles des autres membres, elle a également inclus des nouvelles sans rapport avec hololive qu'elle trouve mignonnes et intéressantes. Elle a fait un reportage sur un chat assis sur un Roomba, une bande dessinée avec un personnage qui renifle des chats, l'événement Halloween de Disneyland, la collaboration hololive x Lawson, et sa prochaine apparition dans HoloGra.",
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "L'émission rappelait beaucoup les streams matinaux qu’elle faisait lorsqu'elle était en Australie.",
+      "text": "L’émission rappelait beaucoup les streams matinaux qu’elle faisait lorsqu'elle était en Australie.",
       "bbox": {
         "x": 0.0438,
         "y": 0.408,
@@ -57,12 +67,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Haachama est apparue dans un enregistrement vidéo lors du concert du 1er anniversaire de Kson pour l'encourager et la féliciter. Haachama a également exprimé le désir de collaborer avec elle a l'avenir.",
+      "text": "Haachama est apparue dans un enregistrement vidéo lors du concert du 1er anniversaire de Kson pour l'encourager et la féliciter. Haachama a également exprimé le désir de collaborer avec elle à l'avenir.",
       "bbox": {
         "x": 0.0431,
         "y": 0.6163,
         "width": 0.445,
         "height": 0.0599
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ayame",
+      "bbox": {
+        "x": 0.12,
+        "y": 0.7023,
+        "width": 0.1406,
+        "height": 0.0269
       }
     },
     {
@@ -76,8 +96,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.12,
+        "y": 0.806,
+        "width": 0.105,
+        "height": 0.0217
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Allez donner plus d'amour à Aqua.",
+      "text": "Allez donner plus d’amour à Aqua.",
       "bbox": {
         "x": 0.0431,
         "y": 0.8459,
@@ -86,13 +116,23 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "Hey, I want you to like me more!",
       "bbox": {
         "x": 0.055,
         "y": 0.9453,
         "width": 0.26,
         "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.6375,
+        "y": 0.1931,
+        "width": 0.1375,
+        "height": 0.0247
       }
     },
     {
@@ -107,7 +147,7 @@
     },
     {
       "type": "heading",
-      "text": "«=| Fubuki",
+      "text": "Fubuki",
       "bbox": {
         "x": 0.5344,
         "y": 0.444,
@@ -117,7 +157,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Fubuki a déclaré quelle était en fait une chienne pendant un let's play sur Sherlock Holmes : The Devil's Daughter. Elle s’est mise a aboyer et a renifler, et son tchat s'est mis à la renifler. Ouaf !",
+      "text": "Fubuki a déclaré qu’elle était en fait une chienne pendant un let’s play sur Sherlock Holmes : The Devil's Daughter. Elle s’est mise à aboyer et à renifler, et son tchat s’est mis à la renifler. Ouaf !",
       "bbox": {
         "x": 0.5119,
         "y": 0.487,
@@ -146,8 +186,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.5875,
+        "y": 0.7352,
+        "width": 0.1219,
+        "height": 0.0239
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Cela faisait un moment que Choco n'avait pas fait de stream karaoké. Après une journée d'enregistrement, Choco a eu envie de chanter et a lancé un stream karaoké à l'improviste. La rediffusion n'est pas disponible. ry kA 3",
+      "text": "Cela faisait un moment que Choco n’avait pas fait de stream karaoké. Après une journée d'enregistrement, Choco a eu envie de chanter et a lancé un stream karaoké à l’improviste. La rediffusion n'est pas disponible.",
       "bbox": {
         "x": 0.5119,
         "y": 0.7713,

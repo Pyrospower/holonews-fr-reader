@@ -3,10 +3,10 @@
   "issueId": "holonews_fr_ver_0205_-_0805",
   "page": 17,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Crédits",
       "bbox": {
         "x": 0.4288,
@@ -16,38 +16,58 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "10 Mai : Anniversaire d'Uyu",
+      "type": "heading",
+      "text": "Paliers",
       "bbox": {
-        "x": 0.59,
-        "y": 0.533,
-        "width": 0.2688,
-        "height": 0.0152
+        "x": 0.66,
+        "y": 0.1907,
+        "width": 0.1545,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "other",
+      "text": "Ina 1,4M\nRio 50k\nKobo 450k",
+      "bbox": {
+        "x": 0.6,
+        "y": 0.2626,
+        "width": 0.0891,
+        "height": 0.1237
+      }
+    },
+    {
+      "type": "other",
+      "text": "Roberu 250k\nGamma 50k\nZeta 350k",
+      "bbox": {
+        "x": 0.8327,
+        "y": 0.2626,
+        "width": 0.1055,
+        "height": 0.1237
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.5364,
+        "y": 0.4596,
+        "width": 0.3964,
+        "height": 0.0316
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 10 Mai : Anniversaire d'Uyu\n• 13 Mai : Anniversaire des débuts de Mel\n• 15 Mai : Anniverisaire de Sora",
+      "bbox": {
+        "x": 0.5655,
+        "y": 0.5303,
+        "width": 0.3527,
+        "height": 0.0985
       }
     },
     {
       "type": "paragraph",
-      "text": "• 13 Mai : Anniversaire des débuts de Mel",
-      "bbox": {
-        "x": 0.5694,
-        "y": 0.5647,
-        "width": 0.3431,
-        "height": 0.0282
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "15 Mai : Anniverisaire de Sora",
-      "bbox": {
-        "x": 0.59,
-        "y": 0.6133,
-        "width": 0.2969,
-        "height": 0.0117
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur ,@ Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
         "x": 0.0569,
         "y": 0.6944,

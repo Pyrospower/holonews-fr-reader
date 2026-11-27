@@ -3,56 +3,36 @@
   "issueId": "holonews_fr_holostars_-tempus-_debut_special",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "MAGNI DEZMOND",
+      "bbox": {
+        "x": 0.0803,
+        "y": 0.0642,
+        "width": 0.2561,
+        "height": 0.0737
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Venez nombreux pour découvrir les débuts de Magni Dezmond, le plus grand alchimiste de la guilde",
+      "text": "Venez nombreux pour découvrir les débuts de Magni Dezmond, le plus grand alchimiste de la guilde TEMPUS. Dans sa quête pour trouver la vérité sur ce monde, cet alchimiste est sûr de pouvoir nous impressionner.",
       "bbox": {
         "x": 0.0188,
         "y": 0.2148,
         "width": 0.3675,
-        "height": 0.0556
+        "height": 0.1355
       }
     },
     {
       "type": "paragraph",
-      "text": "TEMPUS. Dans sa quête pour trouver la vérité sur ce monde, cet alchimiste est sûr de pouvoir nous impressionner.",
-      "bbox": {
-        "x": 0.0188,
-        "y": 0.2752,
-        "width": 0.3525,
-        "height": 0.0751
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Magni a commencé ses débuts en présentant sa carte de guilde, qui mettait en évidence sa grande chance et son intelligence, ainsi que sa maigre force et sa faible dextérité.",
+      "text": "Magni a commencé ses débuts en présentant sa carte de guilde, qui mettait en évidence sa grande chance et son intelligence, ainsi que sa maigre force et sa faible dextérité. Elle nous apprend également qu'il a 26 ans et qu'il est chargé des relations publiques de la guilde.",
       "bbox": {
         "x": 0.0194,
         "y": 0.3676,
         "width": 0.38,
-        "height": 0.0955
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Elle nous apprend également qu'il a 26 ans et qu'il est chargé des relations publiques de la guilde.",
-      "bbox": {
-        "x": 0.02,
-        "y": 0.4674,
-        "width": 0.3688,
-        "height": 0.0556
-      }
-    },
-    {
-      "type": "other",
-      "text": "Guild Role: Twitter :",
-      "bbox": {
-        "x": 0.6631,
-        "y": 0.069,
-        "width": 0.0644,
-        "height": 0.0182
+        "height": 0.1554
       }
     },
     {

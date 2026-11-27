@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_2908_-_0409",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Ayame",
+      "bbox": {
+        "x": 0.1643,
+        "y": 0.2788,
+        "width": 0.14,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen2",
+      "bbox": {
+        "x": 0.3114,
+        "y": 0.2817,
+        "width": 0.0714,
+        "height": 0.0188
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après une longue pause de 2 mois, Ayame fait son grand retour ! Plus de 40 000 spectateurs se sont rassemblés pour son stream, et elle a entre autres parlé des raisons qui l'ont empêché de streamer pendant cette période. Vous pouvez aller voir la rediffusion pour plus d'informations, et bon retour Ojou !",
+      "text": "Après une longue pause de 2 mois, Ayame fait son grand retour ! Plus de 40 000 spectateurs se sont rassemblés pour son stream, et elle a entre autres parlé des raisons qui l’ont empêché de streamer pendant cette période. Vous pouvez aller voir la rediffusion pour plus d’informations, et bon retour Ojou !",
       "bbox": {
         "x": 0.0431,
         "y": 0.3181,
@@ -16,8 +36,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.1214,
+        "y": 0.4315,
+        "width": 0.1429,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen3",
+      "bbox": {
+        "x": 0.2757,
+        "y": 0.4335,
+        "width": 0.0714,
+        "height": 0.0188
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "« I'm your treasure box » de Marine a passé les 8 millions de vues, bientôt 9, et a été diffusée dans plusieurs radios, supermarchés et autres espaces publiques japonais dans toute sa gloire, c'est-à-dire en non censuré.",
+      "text": "« I’m your treasure box » de Marine a passé les 8 millions de vues, bientôt 9, et a été diffusée dans plusieurs radios, supermarchés et autres espaces publiques japonais dans toute sa gloire, c'est-à-dire en non censuré.",
       "bbox": {
         "x": 0.0438,
         "y": 0.4705,
@@ -27,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour le plaisir pervers des fans d’outre mer, un des membres de l’équipe officielle de traduction d'hololive a décidé de traduire quelques commentaires trouvables sur le clip youtube de personnes qui ont été quelque peu surprises de la nature des paroles. Plusieurs utilisateurs ont cité l’avoir entendue à la salle de gym, dans des centres commerciaux et même chez le dentiste.",
+      "text": "Pour le plaisir pervers des fans d’outre mer, un des membres de l’équipe officielle de traduction d’hololive a décidé de traduire quelques commentaires trouvables sur le clip youtube de personnes qui ont été quelque peu surprises de la nature des paroles. Plusieurs utilisateurs ont cité l’avoir entendue à la salle de gym, dans des centres commerciaux et même chez le dentiste.",
       "bbox": {
         "x": 0.0438,
         "y": 0.5564,
@@ -36,68 +76,28 @@
       }
     },
     {
-      "type": "other",
-      "text": "\"At my job, when we play cable radio over the speakers and this song comes on, the customers who haven't heard it start looking at the speakers all surprised like. @\"",
+      "type": "heading",
+      "text": "Choco",
       "bbox": {
-        "x": 0.0488,
-        "y": 0.6931,
-        "width": 0.43,
-        "height": 0.033
+        "x": 0.6343,
+        "y": 0.1756,
+        "width": 0.12,
+        "height": 0.0298
       }
     },
     {
       "type": "other",
-      "text": "\"When I went to train at the gym, this song was playing! My pecs were pleased by Senchou's lewd voice",
+      "text": "Gen2",
       "bbox": {
-        "x": 0.0488,
-        "y": 0.7409,
-        "width": 0.3988,
-        "height": 0.0204
-      }
-    },
-    {
-      "type": "other",
-      "text": "osakaki \"Having this playing at Geo and lon and the like made shopping fun for once.\"",
-      "bbox": {
-        "x": 0.0488,
-        "y": 0.7973,
-        "width": 0.4013,
-        "height": 0.0321
-      }
-    },
-    {
-      "type": "other",
-      "text": "\"This song was playing quietly at Yakiniku King. After listening to it more closely here, I'm glad it was playing quietly. The meat was delicious. I'm a fan of hers now.\"",
-      "bbox": {
-        "x": 0.0488,
-        "y": 0.8468,
-        "width": 0.4156,
-        "height": 0.0304
+        "x": 0.7643,
+        "y": 0.1776,
+        "width": 0.0714,
+        "height": 0.0188
       }
     },
     {
       "type": "paragraph",
-      "text": "osakaki",
-      "bbox": {
-        "x": 0.0488,
-        "y": 0.9149,
-        "width": 0.0456,
-        "height": 0.0069
-      }
-    },
-    {
-      "type": "other",
-      "text": "\"This was playing at my job, and I'm relieved to come here and find many of my kind. In my case, it started playing during my morning meeting yesterday, and | !! panicked. Nobody said anything, so I quietly changed the",
-      "bbox": {
-        "x": 0.0488,
-        "y": 0.9284,
-        "width": 0.4288,
-        "height": 0.0321
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Choco a subi la la pression de sa mère pendant son stream du Minecraft Summer Festival, puisqu'elle lui répétait sans cesse d'arrêter de jouer et de venir dîner. Il a été révélé que sa mère ne savait pas qu'elle était streameuse, étant donné qu’elle ne s'y connaît pas beaucoup en technologie, et pensait donc que Choco ne faisait que jouer. Choco nous a aussi divulgué qu'elle ne l’a pas dit à Yuzuki-mama parce qu'elle s'inquiétait qu’elle se mette à frimer et qu'elle exhibe ses produits aux autres. Durant le stream on pouvait voir Choco lancer des regards sur sa droite alors qu’elle se faisait gronder par sa mère lui disant de venir manger au lieu de jouer.",
+      "text": "Choco a subi la pression de sa mère pendant son stream du Minecraft Summer Festival, puisqu’elle lui répétait sans cesse d’arrêter de jouer et de venir dîner. Il a été révélé que sa mère ne savait pas qu’elle était streameuse, étant donné qu’elle ne s’y connaît pas beaucoup en technologie, et pensait donc que Choco ne faisait que jouer. Choco nous a aussi divulgué qu’elle ne l’a pas dit à Yuzuki-mama parce qu’elle s'inquiétait qu’elle se mette à frimer et qu’elle exhibe ses produits aux autres. Durant le stream on pouvait voir Choco lancer des regards sur sa droite alors qu’elle se faisait gronder par sa mère ,lui disant de venir manger au lieu de jouer.",
       "bbox": {
         "x": 0.5113,
         "y": 0.1997,
@@ -106,8 +106,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Towa",
+      "bbox": {
+        "x": 0.5986,
+        "y": 0.4315,
+        "width": 0.1029,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen4",
+      "bbox": {
+        "x": 0.7143,
+        "y": 0.4365,
+        "width": 0.07,
+        "height": 0.0188
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Cette semaine, Towa a rejoint Shibu Hal Custom avec rpr et Truly squid de SCARZ. Pendant qu'ils attendaient que le jeu démarre, Towa a regardé son twitter et a vu que YAGOO avait répondu a Astel, Fuma et Axel, leur disant «Ganbatte», ce qui l’a rendue jalouse, étant donné que c'était en réponse à l'annonce de la team Holostars pour leur participation dans ce même salon custom. Towa voulait aussi être congratulé de la part de YAGOO. À cela, rpr a ri et a commenté que ça ressemblait à père favorisant un enfant à un autre.",
+      "text": "Cette semaine, Towa a rejoint Shibu Hal Custom avec rpr et Truly squid de SCARZ. Pendant qu’ils attendaient que le jeu démarre, Towa a regardé son twitter et a vu que YAGOO avait répondu à Astel, Fuma et Axel, leur disant «Ganbatte», ce qui l’a rendue jalouse, étant donné que c’était en réponse à l’annonce de la team Holostars pour leur participation dans ce même salon custom. Towa voulait aussi être congratulé de la part de YAGOO. À cela, rpr a ri et a commenté que ça ressemblait à père favorisant un enfant à un autre.",
       "bbox": {
         "x": 0.5113,
         "y": 0.4705,

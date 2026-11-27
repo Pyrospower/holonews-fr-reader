@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2507_-_3107",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kiara & Nabi",
+      "bbox": {
+        "x": 0.181,
+        "y": 0.277,
+        "width": 0.197,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Kiara a invité Aoi Nabi, l'ilustratrice d'Ame, à lui apprendre quelques phrases coréennes basiques en vue de son voyage en Corée. Nabi a appris à Kiara comment saluer les autres et se présenter, comment répondre aux questions, et l'argot coréen basique, entre autres.",
+      "text": "Kiara a invité Aoi Nabi, l'illustratrice d'Ame, à lui apprendre quelques phrases coréennes basiques en vue de son voyage en Corée. Nabi a appris à Kiara comment saluer les autres et se présenter, comment répondre aux questions, et l'argot coréen basique, entre autres.",
       "bbox": {
         "x": 0.0719,
         "y": 0.3168,
@@ -36,6 +46,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Botan & Watame",
+      "bbox": {
+        "x": 0.183,
+        "y": 0.832,
+        "width": 0.26,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Shishiron et Watame ont participé à Cinderella Switch, une série de concerts virtuels sur la plateforme VARK. Il s'agissait de leur deuxième représentation. La première chanson du concert est disponible gratuitement sur NicoNico. Le prochain concert aura lieu le 27 août et mettra en vedette Matsuri et Fubuki.",
       "bbox": {
@@ -46,13 +66,23 @@
       }
     },
     {
-      "type": "heading",
-      "text": ", game kiwawagace",
+      "type": "other",
+      "text": "ça me\nkiwawagace",
       "bbox": {
         "x": 0.6194,
         "y": 0.1207,
         "width": 0.2694,
         "height": 0.0616
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan & Watame",
+      "bbox": {
+        "x": 0.647,
+        "y": 0.766,
+        "width": 0.26,
+        "height": 0.023
       }
     },
     {

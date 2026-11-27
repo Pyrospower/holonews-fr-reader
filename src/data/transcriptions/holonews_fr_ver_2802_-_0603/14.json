@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2802_-_0603",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Holo EN",
+      "bbox": {
+        "x": 0.158,
+        "y": 0.038,
+        "width": 0.225,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.155,
+        "y": 0.209,
+        "width": 0.126,
+        "height": 0.024
+      }
+    },
     {
       "type": "paragraph",
       "text": "Kiara a fait un stream défi où elle devait faire une heure entière de Mario Kart sans jurer. Si elle n'y parvenait pas, elle avait pour obligation de faire un stream Ring Fit ou un jeu d'horreur. Bien que Kiara ait techniquement perdu 30 secondes après le début de la première course, elle ne les a pas comptabilisées car elle n'a pas terminé le mot. Après un réel juron lors de la deuxième course, elle a changé les règles pour qu'elle puisse jurer trois fois avant de perdre le défi. Tenchou a gaspillé son deuxième juron dans le lobby du jeu et son troisième et dernier juron a eu lieu lors de la dernière course du stream. Le stream de punitions apparaîtra dans le mois, mais nous sommes fiers de Kiara pour avoir tenu presque une heure sans jurer !",
@@ -37,12 +57,12 @@
     },
     {
       "type": "heading",
-      "text": "& OMOCAT",
+      "text": "Kiara, Calli, & OMOCAT",
       "bbox": {
-        "x": 0.665,
-        "y": 0.2483,
-        "width": 0.2075,
-        "height": 0.0195
+        "x": 0.629,
+        "y": 0.209,
+        "width": 0.262,
+        "height": 0.059
       }
     },
     {
@@ -57,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "À la fin du stream, des réassortiments de vêtements holoMyth x OMOCAT ont également été annoncés pour le mois de mars et d'avril.",
+      "text": "À la fin du stream, des réassortiments de vêtements holoMyth x OMOCAT ont également été annoncés pour le mois de mars et d’avril.",
       "bbox": {
         "x": 0.5225,
         "y": 0.4032,
@@ -66,8 +86,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kiara & Noel",
+      "bbox": {
+        "x": 0.666,
+        "y": 0.667,
+        "width": 0.277,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 5 mars, Kiara a fait un stream Holotalk avec son 22ème invité, Shirogane Noel. Au cours de l'entretien, Noel a expliqué qu'elle avait rejoint hololive à cause d'un imposteur qui avait postulé en utilisant son nom. Ils ont discuté de l'amour de Noel pour les équipements audio professionnels, ainsi que de son plaisir et de ses difficultés à réaliser des streams ASMR. Noel a également parlé de sa chanson originale « Homenobi » et est montée sur la scène Holotalk pour la chanter en direct. Parmi les autres sujets abordés, citons ses RPG fantastiques préférés, son plat préféré, le gyüdon, et sa relation avec Shiranui Flare (ce qui fait lien au précédent Holotalk dans lequel Flare était invité)",
+      "text": "Le 5 mars, Kiara a fait un stream Holotalk avec son 22ème invité, Shirogane Noel. Au cours de l'entretien, Noel a expliqué qu'elle avait rejoint hololive à cause d'un imposteur qui avait postulé en utilisant son nom. Ils ont discuté de l'amour de Noel pour les équipements audio professionnels, ainsi que de son plaisir et de ses difficultés à réaliser des streams ASMR. Noel a également parlé de sa chanson originale « Homenobi » et est montée sur la scène Holotalk pour la chanter en direct. Parmi les autres sujets abordés, citons ses RPG fantastiques préférés, son plat préféré, le gyūdon, et sa relation avec Shiranui Flare (ce qui fait lien au précédent Holotalk dans lequel Flare était invité)",
       "bbox": {
         "x": 0.5225,
         "y": 0.7075,

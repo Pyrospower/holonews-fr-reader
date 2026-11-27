@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_1010_-_1610",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les membres d’Amelia’s Detective Bureau (un serveur de fans sur Discord) ont reçu l'accord de COVER pour créer et envoyer un monde VRChat ainsi qu’un un livre (physique et numérique) pour l'anniversaire d’Ame ! Ils recherchent des personnes ayant des talents permettant de développer le projet, alors n'hésitez pas à les rejoindre si vous pensez pouvoir les aider !",
+      "text": "Les membres d’Amelia’s Detective Bureau (un serveur de fans sur Discord) ont reçu l’accord de COVER pour créer et envoyer un monde VRChat ainsi qu’un un livre (physique et numérique) pour l’anniversaire d’Ame ! Ils recherchent des personnes ayant des talents permettant de développer le projet, alors n’hésitez pas à les rejoindre si vous pensez pouvoir les aider !",
       "bbox": {
         "x": 0.5119,
         "y": 0.076,
@@ -26,8 +26,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "aking a 3d VRE map for amelia watson which willl containt! gour submissions, it willl include a physical and digital book. [ts already been approved by Cover.",
+      "type": "other",
+      "text": "Amelia Birthday 2023",
+      "bbox": {
+        "x": 0.6544,
+        "y": 0.197,
+        "width": 0.2731,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "other",
+      "text": "We are making a 3d VRC map for amelia watson which will containt your submissions, it will include a physical and digital book. Its already been approved by Cover.",
       "bbox": {
         "x": 0.6012,
         "y": 0.2509,
@@ -36,28 +46,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "As last year, we want to show Ame appreciation from her fans",
+      "type": "other",
+      "text": "As last year, we want to show Ame appreciation from her fans by doing a big project, of course this will include your submissions on it. Lets make it a huge success like last year!",
       "bbox": {
         "x": 0.5638,
         "y": 0.2817,
-        "width": 0.3381,
-        "height": 0.0087
+        "width": 0.35,
+        "height": 0.0261
       }
     },
     {
-      "type": "paragraph",
-      "text": "by doing a big project, of course this will include your submissions it. Lets make it a huge success like last gear!",
-      "bbox": {
-        "x": 0.565,
-        "y": 0.2904,
-        "width": 0.3488,
-        "height": 0.0174
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "This time the submissions be: 2d art, 3d things videos,photos F handcraft among(us) other things allowed, your submission ill beyadded to both, book and 3d map (check the link For details)",
+      "type": "other",
+      "text": "This time the submissions be: 2d art, 3d things,videos,photos of handcraft among(us) other things allowed, your submission will be added to both, book and 3d map (check the link for details)",
       "bbox": {
         "x": 0.5994,
         "y": 0.3155,
@@ -66,8 +66,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "bo Submission opens from now until 15th november 2022!",
+      "type": "other",
+      "text": "Submission opens from now until 15th november 2022!",
       "bbox": {
         "x": 0.5513,
         "y": 0.3346,
@@ -76,8 +76,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Let's play # Let's play terminés",
+      "type": "heading",
+      "text": "Let's play",
       "bbox": {
         "x": 0.3963,
         "y": 0.4201,
@@ -86,13 +86,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "My Cirlfriend's Secrets",
+      "type": "other",
+      "text": "★ Let's play terminés",
       "bbox": {
-        "x": 0.6613,
-        "y": 0.6484,
-        "width": 0.1425,
-        "height": 0.0082
+        "x": 0.6594,
+        "y": 0.424,
+        "width": 0.2362,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "other",
+      "text": "Devil May Cry 3: Dante’s Awakening\nThe Quarry\nKena: Bridge of Spirits\nWhat the Golf?\nSoulcalibur VI\nRukimin’s Disappointing Adventure!\nFactorio",
+      "bbox": {
+        "x": 0.2069,
+        "y": 0.4648,
+        "width": 0.2612,
+        "height": 0.5182
+      }
+    },
+    {
+      "type": "other",
+      "text": "Glover ★\nMADiSON\nExtra Case My Girlfriend's Secrets\nPOWER PRO BASEBALL 2022\nStray\nCats Organized Neatly\nDevour",
+      "bbox": {
+        "x": 0.6412,
+        "y": 0.4648,
+        "width": 0.26,
+        "height": 0.5182
       }
     }
   ],

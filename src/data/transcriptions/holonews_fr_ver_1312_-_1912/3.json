@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1312_-_1912",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Temma a fêté son 2ème anniversaire avec Aruran et Miyabi ! Ils ont commencé par discuter ensemble et s'amuser dans la maison de Miyabi, puis les trois ont essayé Emily Wants to Play en réalité virtuelle. Ils n'ont pas pu aller très loin dans le jeu en raison de quelques difficultés techniques, mais l'expérience n'en fut pas moins divertissante grâce à leurs plaisanteries, leurs poses hilarantes, et leurs réactions face aux jumpscares.",
+      "text": "Temma a fêté son 2ème anniversaire avec Aruran et Miyabi ! Ils ont commencé par discuter ensemble et s’amuser dans la maison de Miyabi, puis les trois ont essayé Emily Wants to Play en réalité virtuelle. Ils n’ont pas pu aller très loin dans le jeu en raison de quelques difficultés techniques, mais l'expérience n'en fut pas moins divertissante grâce à leurs plaisanteries, leurs poses hilarantes, et leurs réactions face aux jumpscares.",
       "bbox": {
         "x": 0.0456,
         "y": 0.0891,
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Ils ont ensuite été transférés dans le jardin de Miyabi, dans laquelle les trois ont chanté et dansé ensemble, laissant Miyabi sur les rotules. Après cela, Miyabi et Aruran sont partis pour laisser Temma faire l'annonce de ses produits dérivés commeémoratifs :",
+      "text": "Ils ont ensuite été transférés dans le jardin de Miyabi, dans laquelle les trois ont chanté et dansé ensemble, laissant Miyabi sur les rotules. Après cela, Miyabi et Aruran sont partis pour laisser Temma faire l’annonce de ses produits dérivés commémoratifs :",
       "bbox": {
         "x": 0.0444,
         "y": 0.2975,
@@ -37,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "» Une plaque en acrylique (acrylic panel) » Un badge à épingle de son emblème",
+      "text": "• Une plaque en acrylique (acrylic panel)\n• Un badge à épingle de son emblème",
       "bbox": {
         "x": 0.0683,
         "y": 0.4367,
@@ -53,16 +53,6 @@
         "y": 0.5058,
         "width": 0.4394,
         "height": 0.1208
-      }
-    },
-    {
-      "type": "other",
-      "text": "7; Emily Wants To Play",
-      "bbox": {
-        "x": 0.1261,
-        "y": 0.7535,
-        "width": 0.1106,
-        "height": 0.0096
       }
     }
   ],

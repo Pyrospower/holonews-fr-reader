@@ -3,11 +3,21 @@
   "issueId": "holonews_french_1710_-_2310",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "ARURAN STARS",
+      "bbox": {
+        "x": 0.08,
+        "y": 0.0406,
+        "width": 0.2354,
+        "height": 0.1731
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Apres l'annonce du nouveau modèle d'Aruran dans HOLOSTARS 2nd ACT, il a présenté un nouvel Arurandeisu d'un autre univers. Comme le montre l'épisode de « stars*collection » intitulé « Farewell, Arurandeisu », l'ancien Arurandeisu est parti en voyage, et la raison de ce voyage sera révélée le jour de son anniversaire, le 11 novembre. Pour l'instant, tout le monde doit s'habituer au jeune Arurandeisu.",
+      "text": "Après l'annonce du nouveau modèle d'Aruran dans HOLOSTARS 2nd ACT, il a présenté un nouvel Arurandeisu d'un autre univers. Comme le montre l’épisode de « stars*collection » intitulé « Farewell, Arurandeisu », l'ancien Arurandeisu est parti en voyage, et la raison de ce voyage sera révélée le jour de son anniversaire, le 11 novembre. Pour l'instant, tout le monde doit s'habituer au jeune Arurandeisu.",
       "bbox": {
         "x": 0.0606,
         "y": 0.2227,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Il se présente comme « un Italien de HOLOSTARS 1ère génération qui, après avoir traversé de nombreuses dimensions, est enfin arrivé». partir de maintenant, le jeune Arurandeisu - qui a une vingtaine d'années - utilisera la chaîne du vieil Arurandeisu. Son nouveau profil indique qu'il a voyagé dans différentes dimensions où il est devenu, entre autres, détective, tireur d'élite et enseignant. Il est venu dans ce monde pour réaliser l'un de ses rêves: devenir une idole, mais la plupart du temps, il ne se fie qu'à ses muscles.",
+      "text": "Il se présente comme « un Italien de HOLOSTARS 1ère génération qui, après avoir traversé de nombreuses dimensions, est enfin arrivé ». À partir de maintenant, le jeune Arurandeisu - qui a une vingtaine d'années - utilisera la chaîne du vieil Arurandeisu. Son nouveau profil indique qu'il a voyagé dans différentes dimensions où il est devenu, entre autres, détective, tireur d'élite et enseignant. Il est venu dans ce monde pour réaliser l'un de ses rêves: devenir une idole, mais la plupart du temps, il ne se fie qu’à ses muscles.",
       "bbox": {
         "x": 0.0606,
         "y": 0.5404,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "De plus toutes les anciennes emotes ont été remplacées par des versions jeunes d'Arurandeisu, accompagné d'une emote supplémentaire. son surnom passe également d'Arupapa à Arunii. Bien que son corps physique ait changé, ses souvenirs sont toujours les mêmes, car il partage sa mémoire avec l'ancien Arurandeisu.",
+      "text": "De plus, toutes les anciennes emotes ont été remplacées par des versions jeunes d'Arurandeisu, accompagné d’une emote supplémentaire. Son surnom passe également d'Arupapa à Arunii. Bien que son corps physique ait changé, ses souvenirs sont toujours les mêmes, car il partage sa mémoire avec l'ancien Arurandeisu.",
       "bbox": {
         "x": 0.3644,
         "y": 0.5464,
@@ -36,23 +46,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Il a également fait un stream d'appel inversé où il appelle ses invités. Il a appelé 3 de ses sœurs de lack-sensei : Ririmu et Lain de NIJISANJI, et Popri de World Connect Project. En outre, il a également appelé Ange et Naruse de NIJISANJI, Matsuri et",
+      "type": "other",
+      "text": "lack",
       "bbox": {
-        "x": 0.6669,
-        "y": 0.546,
-        "width": 0.2719,
-        "height": 0.1628
+        "x": 0.3646,
+        "y": 0.8248,
+        "width": 0.0292,
+        "height": 0.0085
       }
     },
     {
       "type": "paragraph",
-      "text": "Fubuki de hololive, René, Izumi et Kuku de 774inc. et de nombreux VTubers indépendants. Comme on le voit dans les interactions de ce stream d'appel, même si le vieil Arurandeisu est parti en voyage, le papa tyrannique reste toujours présent.",
+      "text": "Il a également fait un stream d’appel inversé où il appelle ses invités. Il a appelé 3 de ses sœurs de lack-sensei : Ririmu et Lain de NIJISANJI, et Popri de World Connect Project. En outre, il a également appelé Ange et Naruse de NIJISANJI, Matsuri et Fubuki de hololive, René, Izumi et Kuku de 774inc. et de nombreux VTubers indépendants. Comme on le voit dans les interactions de ce stream d’appel, même si le vieil Arurandeisu est parti en voyage, le papa tyrannique reste toujours présent.",
       "bbox": {
         "x": 0.6669,
-        "y": 0.7109,
+        "y": 0.546,
         "width": 0.2719,
-        "height": 0.1632
+        "height": 0.3281
       }
     }
   ],

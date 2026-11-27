@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_3101_-_0602",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "HOLOMYTH",
+      "bbox": {
+        "x": 0.0891,
+        "y": 0.0492,
+        "width": 0.3545,
+        "height": 0.0316
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holo EN",
+      "bbox": {
+        "x": 0.3418,
+        "y": 0.2273,
+        "width": 0.1418,
+        "height": 0.0215
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Les filles d’holoEN ont obtenu l'autorisation pour streamer le nouveau jeu à la mode, Needy Streamer Overload. Le jeu raconte la carriere d'une streameuse nommé KAngel, et bien qu'il soit largement satirique, il contient des scénarios plus sombres impliquant la consommation de drogues et l'automutilation.",
+      "text": "Les filles d’holoEN ont obtenu l'autorisation pour streamer le nouveau jeu à la mode, Needy Streamer Overload. Le jeu raconte la carrière d'une streameuse nommé KAngel, et bien qu'il soit largement satirique, il contient des scénarios plus sombres impliquant la consommation de drogues et l'automutilation.",
       "bbox": {
         "x": 0.0531,
         "y": 0.2682,
@@ -26,8 +46,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.1582,
+        "y": 0.8333,
+        "width": 0.0782,
+        "height": 0.0253
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Ina fait une pause en raison de problemes d'Internet. Elle a décidé de passer a un nouveau forfait ou de changer de fournisseur.",
+      "text": "Ina fait une pause en raison de problèmes d'Internet. Elle a décidé de passer à un nouveau forfait ou de changer de fournisseur.",
       "bbox": {
         "x": 0.0506,
         "y": 0.8772,
@@ -37,7 +67,7 @@
     },
     {
       "type": "heading",
-      "text": "à Calli & Gura",
+      "text": "Calli & Gura",
       "bbox": {
         "x": 0.5988,
         "y": 0.2096,
@@ -47,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après de nombreux retards afin de l'améliorer au maximum, la chanson originale de Calli et Gura, « lQ1 », est finalement sortie le 4 février. Dans le stream sur Super Drink Bros, Calli a mentionné que les choix de titres incluaient « Queen » et « Killer Queen », mais trop de chansons portent le premier titre, et le second était déjà une chanson. Finalement, le titre est laissé à l'imagination des spectateurs.",
+      "text": "Après de nombreux retards afin de l'améliorer au maximum, la chanson originale de Calli et Gura, « 「Q」 », est finalement sortie le 4 février. Dans le stream sur Super Drink Bros, Calli a mentionné que les choix de titres incluaient « Queen » et « Killer Queen », mais trop de chansons portent le premier titre, et le second était déjà une chanson. Finalement, le titre est laissé à l'imagination des spectateurs.",
       "bbox": {
         "x": 0.5181,
         "y": 0.2739,
@@ -57,12 +87,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Il s'avère que le co-auteur des paroles (avec Calli) et producteur de la musique n’est autre que DECO*27, qui a également écrit les paroles de « RAINBOW » de Watame, ainsi que ses propres chansons telles que « Ghost Rule », « Vampire », et « Cinderella ». L'animation a été réalisée par Kay Yu et le clip a été monté par riguruma.",
+      "text": "Il s’avère que le co-auteur des paroles (avec Calli) et producteur de la musique n’est autre que DECO*27, qui a également écrit les paroles de « RAINBOW » de Watame, ainsi que ses propres chansons telles que « Ghost Rule », « Vampire », et « Cinderella ». L'animation a été réalisée par Kay Yu et le clip a été monté par riguruma.",
       "bbox": {
         "x": 0.5188,
         "y": 0.4258,
         "width": 0.4313,
         "height": 0.1211
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.6309,
+        "y": 0.6919,
+        "width": 0.1273,
+        "height": 0.0253
       }
     },
     {

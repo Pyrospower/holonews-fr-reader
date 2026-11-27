@@ -3,41 +3,51 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "Aki rejoint Noel et Lamy et obtient sa propre 155",
+      "text": "Gen 1",
+      "bbox": {
+        "x": 0.45,
+        "y": 0.0163,
+        "width": 0.1156,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aki",
+      "bbox": {
+        "x": 0.1656,
+        "y": 0.2028,
+        "width": 0.0516,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aki rejoint Noel et Lamy et obtient sa propre boisson alcoolisée. Sa bière, 今日も1日おつたーる！ , est une collaboration avec Hansharo Beer Brewing et sera en vente à partir du 25 août. Son odeur rappelle les pommes cuites, et son goût est doux grâce à l’équilibre des agrumes des fruits.",
       "bbox": {
         "x": 0.0688,
         "y": 0.2418,
-        "width": 0.3644,
-        "height": 0.0234
+        "width": 0.3931,
+        "height": 0.0885
       }
     },
     {
-      "type": "paragraph",
-      "text": "boisson alcoolisée. Sa bière, #H",
+      "type": "heading",
+      "text": "Haachama",
       "bbox": {
-        "x": 0.07,
-        "y": 0.2539,
-        "width": 0.2781,
-        "height": 0.0122
+        "x": 0.1672,
+        "y": 0.462,
+        "width": 0.1703,
+        "height": 0.0206
       }
     },
     {
       "type": "paragraph",
-      "text": "— 4! , est une collaboration avec Hansharo Beer Brewing et sera en vente à partir du 25 août. Son odeur rappelle les pommes cuites, et son goût est doux grâce à l'équilibre des agrumes des fruits.",
-      "bbox": {
-        "x": 0.0694,
-        "y": 0.2665,
-        "width": 0.3925,
-        "height": 0.0638
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Haachama a publié un court-métrage animé intitulé « Vie Quotidienne Paisible ». Contrairement à ce que suppose le nom, le court-métrage était tout sauf paisible. On y voit Haachama se battre contre un scorpion, et elle semble gagner. Elle essaie de cuisiner la bête, mais elle est contrecarrée par le scorpion, qui revient à la vie et attaque Haachama ! Peut-être qu'Haachama a une définition différente du mot « paisible » ?",
+      "text": "Haachama a publié un court-métrage animé intitulé « Vie Quotidienne Paisible ». Contrairement à ce que suppose le nom, le court-métrage était tout sauf paisible. On y voit Haachama se battre contre un scorpion, et elle semble gagner. Elle essaie de cuisiner la bête, mais elle est contrecarrée par le scorpion, qui revient à la vie et attaque Haachama ! Peut-être qu’Haachama a une définition différente du mot « paisible » ?",
       "bbox": {
         "x": 0.0731,
         "y": 0.4974,
@@ -86,23 +96,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "If Matsuri was a man, I would persuade Towachin to make her happy < (V7) > + *. +",
+      "type": "heading",
+      "text": "Matsuri & Towa",
       "bbox": {
-        "x": 0.53,
-        "y": 0.4497,
-        "width": 0.38,
-        "height": 0.0243
+        "x": 0.6469,
+        "y": 0.5022,
+        "width": 0.2438,
+        "height": 0.0239
       }
     },
     {
-      "type": "heading",
-      "text": "Le : atsuri & Towa",
+      "type": "other",
+      "text": "eww",
       "bbox": {
-        "x": 0.6181,
-        "y": 0.4783,
-        "width": 0.2719,
-        "height": 0.0438
+        "x": 0.6281,
+        "y": 0.4751,
+        "width": 0.0484,
+        "height": 0.0347
       }
     },
     {
@@ -126,6 +136,16 @@
       }
     },
     {
+      "type": "other",
+      "text": "Oozora Police",
+      "bbox": {
+        "x": 0.15,
+        "y": 0.7614,
+        "width": 0.2219,
+        "height": 0.0195
+      }
+    },
+    {
       "type": "heading",
       "text": "Subaru",
       "bbox": {
@@ -137,7 +157,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Qui nous sauvera quand les holomem deviendront incontrôlables ? ! Ce serait nul autre que la police Oozora ! Subaru a lancé un appel à rapports sur les méfaits commis par les membres d'hololive et attend avec impatience vos rapports pour le projet de la police Oozora de l'été 2022. La date limite pour les rapports est le 28 août. Veillez à utiliser le hashtag #XA ZR, ou #00zora_police pour les anglophones.",
+      "text": "Qui nous sauvera quand les holomem deviendront incontrôlables ? ! Ce serait nul autre que la police Oozora ! Subaru a lancé un appel à rapports sur les méfaits commis par les membres d'hololive et attend avec impatience vos rapports pour le projet de la police Oozora de l'été 2022. La date limite pour les rapports est le 28 août. Veillez à utiliser le hashtag #大空警察, ou #oozora_police pour les anglophones.",
       "bbox": {
         "x": 0.0694,
         "y": 0.8524,
@@ -146,28 +166,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.6375,
+        "y": 0.8124,
+        "width": 0.1156,
+        "height": 0.0206
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "La corruption est évidente au sein de la police Oozora, puisque Subaru a effrontément volé vingt ferrailles à Fubuki sous ses yeux sur RUST. Le renard a tiré en représailles, ce qui a poussé le canard à plaider pour sa vie, avant de rendre les ferrailles. Cependant, Shuba n'a rendu que quatre des vingt morceaux volés avant de s'échapper rapidement, tout en proclamant",
+      "text": "La corruption est évidente au sein de la police Oozora, puisque Subaru a effrontément volé vingt ferrailles à Fubuki sous ses yeux sur RUST. Le renard a tiré en représailles, ce qui a poussé le canard à plaider pour sa vie, avant de rendre les ferrailles. Cependant, Shuba n'a rendu que quatre des vingt morceaux volés avant de s'échapper rapidement, tout en proclamant\n« Fubu-chan est Dieu ».",
       "bbox": {
         "x": 0.5387,
         "y": 0.852,
         "width": 0.3894,
-        "height": 0.1137
+        "height": 0.1233
       }
     },
     {
       "type": "paragraph",
-      "text": "« Fubu-chan est Dieu ».",
-      "bbox": {
-        "x": 0.5394,
-        "y": 0.9653,
-        "width": 0.1988,
-        "height": 0.01
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "C'est un canard diabolique.",
+      "text": "C’est un canard diabolique.",
       "bbox": {
         "x": 0.54,
         "y": 0.9779,

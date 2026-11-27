@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2911_-_0512",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,13 +16,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.1594,
+        "y": 0.1975,
+        "width": 0.075,
+        "height": 0.0239
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Avant de prendre une pause, Ina a sorti une cover du générique de « Spice and Wolf ». Alors que la miniature était faite par Sana, Ina nous a surpris en faisant le clip vidéo et la voix. Elle a aussi tenu un stream « dans les coulisses » où elle nous a parlé de la façon dont elle géré son temps. Plus tard, elle a annoncé que les membres auront droit à 12 fonds d'écrans ce mois-ci, incluant des images du clip.",
+      "text": "Avant de prendre une pause, Ina a sorti une cover du générique de « Spice and Wolf ». Alors que la miniature était faite par Sana, Ina nous a surpris en faisant le clip vidéo et la voix. Elle a aussi tenu un stream « dans les coulisses » où elle nous a parlé de la façon dont elle géré son temps. Plus tard, elle a annoncé que les membres auront droit à 12 fonds d’écrans ce mois-ci, incluant des images du clip.",
       "bbox": {
         "x": 0.05,
         "y": 0.24,
         "width": 0.4263,
         "height": 0.1554
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.1594,
+        "y": 0.5208,
+        "width": 0.1094,
+        "height": 0.0608
       }
     },
     {
@@ -36,6 +56,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.1594,
+        "y": 0.7986,
+        "width": 0.1313,
+        "height": 0.0521
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Après avoir fait la pub des vêtements holoEN disponibles sur OMOCAT, Kiara a joué à Superliminal. Pendant les premières heures de jeu, Kiara et son cerveau d'Oiseau ont eu du mal à résoudre les puzzles, mais elle a réussi à comprendre les mécaniques du jeu un peu plus tard.",
       "bbox": {
@@ -46,18 +76,28 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "e Amelia Ame a tenu le « Ametaverse » : Une présentation Keynote en VR, où Ame a fait quelques annonces. La première est la sortie d’une toute nouvelle innovation de Watson Industries : Le NFAT (Jetons Ame Non Fongibles), ce qui devrait résoudre le fait que vous n’ayez pas votre propre Ame Temporelle à montrer à vos amis, En regardant une image d’Ame, elle devient automatiquement tienne; c'est aussi simple que ça. Pour créer une NFAT, il suffit de tweeter d’une image d’Ame avec le hashtag #NFAmeT pour le rendre valide.",
+      "type": "heading",
+      "text": "Amelia",
       "bbox": {
-        "x": 0.5219,
-        "y": 0.197,
-        "width": 0.4256,
-        "height": 0.2509
+        "x": 0.6312,
+        "y": 0.4861,
+        "width": 0.1563,
+        "height": 0.0543
       }
     },
     {
       "type": "paragraph",
-      "text": "Plus sérieusement, Ame a annoncé le « holoEN VR Studios » : Un environnement VR construit comme un vrai studio. Il est complet, avec toutes sortes d'équipements d’enregistrements et un Bubba en 3D comme opérateur technique. Ame a présenté les possibilités offertes grâce à ce studio, qui incluait des plateaux de jeux télé, de Talk-show, des concerts, ou toute émission que la branche EN voudrait faire en 3D. Le premier évent sera un concert de Smol Calli sur la chaîne de Calli.",
+      "text": "Ame a tenu le « Ametaverse » : Une présentation Keynote en VR, où Ame a fait quelques annonces. La première est la sortie d’une toute nouvelle innovation de Watson Industries : Le NFAT (Jetons Ame Non Fongibles), ce qui devrait résoudre le fait que vous n’ayez pas votre propre Ame Temporelle à montrer à vos amis, En regardant une image d’Ame, elle devient automatiquement tienne; c’est aussi simple que ça. Pour créer une NFAT, il suffit de tweeter d’une image d’Ame avec le hashtag #NFAmeT pour le rendre valide.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2396,
+        "width": 0.4313,
+        "height": 0.204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Plus sérieusement, Ame a annoncé le « holoEN VR Studios » : Un environnement VR construit comme un vrai studio. Il est complet, avec toutes sortes d’équipements d’enregistrements et un Bubba en 3D comme opérateur technique. Ame a présenté les possibilités offertes grâce à ce studio, qui incluait des plateaux de jeux télé, de Talk-show, des concerts, ou toute émission que la branche EN voudrait faire en 3D. Le premier évent sera un concert de Smol Calli sur la chaîne de Calli.",
       "bbox": {
         "x": 0.5213,
         "y": 0.4722,
@@ -66,8 +106,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gura",
+      "bbox": {
+        "x": 0.6312,
+        "y": 0.8021,
+        "width": 0.1125,
+        "height": 0.0521
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour son stream de GTA V, Gura a enfilé un hoodie vert, parce qu'on se moquait d’elle a toujours porter le même hoodie bleu. Ensuite, elle a commencé a semer le chaos a Los Santos, et est partie voler quelques diamants. Pour célébrer sa réussite, elle est partie se faire plaisir dans le strip club.",
+      "text": "Pour son stream de GTA V, Gura a enfilé un hoodie vert, parce qu'on se moquait d’elle à toujours porter le même hoodie bleu. Ensuite, elle a commencé à semer le chaos à Los Santos, et est partie voler quelques diamants. Pour célébrer sa réussite, elle est partie se faire plaisir dans le strip club.",
       "bbox": {
         "x": 0.5256,
         "y": 0.8424,

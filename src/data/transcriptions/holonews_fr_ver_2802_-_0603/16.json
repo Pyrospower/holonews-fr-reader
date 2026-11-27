@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2802_-_0603",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,78 +16,58 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "VIRTUAL TALENT AUDITIONS Les critères sont les suivants : APPLY NOW AT en.hololive.tv/auditio",
+      "type": "other",
+      "text": "VIRTUAL TALENT AUDITIONS\nAPPLY NOW AT en.hololive.tv/audition",
       "bbox": {
-        "x": 0.2131,
-        "y": 0.1072,
-        "width": 0.5838,
-        "height": 0.036
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "< a » La volonté de jouer un rôle masculin (le N genre dans la vrai vie n’est pas prise en",
-      "bbox": {
-        "x": 0.405,
-        "y": 0.1406,
-        "width": 0.52,
-        "height": 0.0291
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "compte) Savoir parler couramment anglais (les autre langues comme le japonais sont optionnelles)",
-      "bbox": {
-        "x": 0.56,
-        "y": 0.1706,
-        "width": 0.3488,
-        "height": 0.0582
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "1 TA Holosta rs",
-      "bbox": {
-        "x": 0.1575,
-        "y": 0.2161,
-        "width": 0.2369,
-        "height": 0.0352
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Pouvoir stream au moins trois fois par semaine pendant au moins un an",
-      "bbox": {
-        "x": 0.5425,
-        "y": 0.2296,
-        "width": 0.3638,
-        "height": 0.0286
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "; ; ; (Streamer pendant la poursuite d’une Hololive English a maintenant ouvert ses carrière/éducation compte, par exemple auditions pour des VTubers masculins ! Dans après le travail/cours, pendant les congés, leur annonce, ils ont donné un lien vers un etc...) formulaire de candidature sur le site d'hololive et + Avoir de l'expérience dans le streaming une liste de critères pour l’audition. (gaming, chant, dessin, etc.)",
-      "bbox": {
-        "x": 0.0531,
-        "y": 0.2591,
-        "width": 0.8919,
-        "height": 0.0877
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Avoir 18 ans ou plus",
-      "bbox": {
-        "x": 0.5425,
-        "y": 0.3477,
-        "width": 0.2037,
-        "height": 0.0139
+        "x": 0.211,
+        "y": 0.108,
+        "width": 0.29,
+        "height": 0.037
       }
     },
     {
       "type": "heading",
-      "text": "» LET'S PLAY *",
+      "text": "Holostars",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.229,
+        "width": 0.225,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hololive English a maintenant ouvert ses auditions pour des VTubers masculins ! Dans leur annonce, ils ont donné un lien vers un formulaire de candidature sur le site d’hololive et une liste de critères pour l’audition.",
+      "bbox": {
+        "x": 0.053,
+        "y": 0.269,
+        "width": 0.446,
+        "height": 0.073
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les critères sont les suivants :",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.111,
+        "width": 0.277,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• La volonté de jouer un rôle masculin (le genre dans la vrai vie n’est pas prise en compte)\n• Savoir parler couramment anglais (les autre langues comme le japonais sont optionnelles)\n• Pouvoir stream au moins trois fois par semaine pendant au moins un an (Streamer pendant la poursuite d’une carrière/éducation compte, par exemple après le travail/cours, pendant les congés, etc…)\n• Avoir de l’expérience dans le streaming (gaming, chant, dessin, etc.)\n• Avoir 18 ans ou plus",
+      "bbox": {
+        "x": 0.541,
+        "y": 0.141,
+        "width": 0.407,
+        "height": 0.22
+      }
+    },
+    {
+      "type": "heading",
+      "text": "LET'S PLAY",
       "bbox": {
         "x": 0.2431,
         "y": 0.3893,
@@ -96,23 +76,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "DEATH FOREST",
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
       "bbox": {
-        "x": 0.8088,
-        "y": 0.5525,
-        "width": 0.1013,
-        "height": 0.0104
+        "x": 0.766,
+        "y": 0.385,
+        "width": 0.171,
+        "height": 0.037
       }
     },
     {
-      "type": "paragraph",
-      "text": "VAMPIRE SURVIVORS",
+      "type": "other",
+      "text": "Inside Depth 6 | Sucker for Love | Besiege\nLife is Strange True Colors | Missing Children | Death Forest\n★ Inscryption | Doki Doki Literature Club! | Monster Hunter World\nKardboard Kings: Open The World’s Best Game Shop! | Thief Simulator | PowerWash Simulator\nGetsuFumaDen Undying Moon | Kirby Super Star | Clash of Chefs VR\nVampire Survivors | Survival Quiz City\nElden Ring | Sea of Thieves",
       "bbox": {
-        "x": 0.4738,
-        "y": 0.8073,
-        "width": 0.165,
-        "height": 0.0373
+        "x": 0.041,
+        "y": 0.441,
+        "width": 0.926,
+        "height": 0.488
       }
     }
   ],

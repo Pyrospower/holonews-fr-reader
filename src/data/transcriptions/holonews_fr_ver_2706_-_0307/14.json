@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2706_-_0307",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -36,6 +36,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "AQUARIUM",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.4514,
+        "width": 0.1869,
+        "height": 0.0213
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Entergram a dévoilé son nouveau roman vidéoludique, AQUARIUM, dans lequel Minato Aqua elle-même joue le rôle d'une servante dans une histoire d'amour épique ! Le jeu a été annoncé en janvier, lors du concert Aqua-iro in Wonderland d'Aqua, et sortira sur Nintendo Switch et PlayStation 4 le 27 octobre ! L'illustration de la boîte du jeu a été réalisée par Hanekoto (@hanekoto2424).",
       "bbox": {
@@ -57,42 +67,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Une copie physique du jeu pour Switch Une tapisserie pliante B2",
+      "text": "Une copie physique du jeu pour Switch\nUne tapisserie pliante B2\nUne figurine en acrylique\nUn porte-clés en acrylique\nUn roman original et livre audio sur CD\nLa bande sonore originale sur CD",
       "bbox": {
         "x": 0.0712,
         "y": 0.6641,
         "width": 0.3162,
-        "height": 0.0265
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Une figurine en acrylique",
-      "bbox": {
-        "x": 0.0712,
-        "y": 0.691,
-        "width": 0.2013,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Un porte-clés en acrylique",
-      "bbox": {
-        "x": 0.0712,
-        "y": 0.7044,
-        "width": 0.2113,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Un roman original et livre audio sur CD La bande sonore originale sur CD",
-      "bbox": {
-        "x": 0.0712,
-        "y": 0.7179,
-        "width": 0.3137,
-        "height": 0.0265
+        "height": 0.0803
       }
     },
     {
@@ -117,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le thème principal du jeu sur CD Un panneau acrylique original B6 Un drama audio original sur CD",
+      "text": "Le thème principal du jeu sur CD\nUn panneau acrylique original B6\nUn drama audio original sur CD",
       "bbox": {
         "x": 0.0712,
         "y": 0.8659,
@@ -136,6 +116,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Shion & Marine",
+      "bbox": {
+        "x": 0.6594,
+        "y": 0.1797,
+        "width": 0.2444,
+        "height": 0.0187
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Shion et Marine se sont réunies et ont organisé une collab en personne alcoolisée chez Marine ! Leur dernière collaboration remonte à longtemps, mais elles ont montré qu'elles entretenaient toujours une excellente relation. Les moments d'ivresse sont nombreux : elles ont essayé de faire un bras de fer, se sont transformées en chats et ont dit « nyan », et ont regardé la culotte de l'autre. Elles ont aussi eu des conversations chaleureuses. Par exemple, Shion a parlé de ce qu'elle aime chez Marine.",
       "bbox": {
@@ -143,6 +133,16 @@
         "y": 0.2183,
         "width": 0.3838,
         "height": 0.1424
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shiranui Kensetsu",
+      "bbox": {
+        "x": 0.6375,
+        "y": 0.5039,
+        "width": 0.2938,
+        "height": 0.02
       }
     },
     {
@@ -157,7 +157,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elles ont également réagi différemment au tour de montagnes russes : Miko a vomi après être descendu, Noel a poussé un cri de mort avant de se figer de peur, Flare s'est amusée et Suisei a ri de joie. À la fin, elles ont remercié Suisei d'avoir organisé le voyage et ont promis qu'elles feraient d' autres streams ensemble à l'avenir.",
+      "text": "Elles ont également réagi différemment au tour de montagnes russes : Miko a vomi après être descendu, Noel a poussé un cri de mort avant de se figer de peur, Flare s'est amusée et Suisei a ri de joie. À la fin, elles ont remercié Suisei d'avoir organisé le voyage et ont promis qu'elles feraient d'autres streams ensemble à l'avenir.",
       "bbox": {
         "x": 0.5356,
         "y": 0.7782,

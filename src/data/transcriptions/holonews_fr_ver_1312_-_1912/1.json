@@ -3,10 +3,20 @@
   "issueId": "holonews_fr_ver_1312_-_1912",
   "page": 1,
   "lang": "fr",
-  "status": "unavailable",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
+      "text": "Édition Noel",
+      "bbox": {
+        "x": 0.13,
+        "y": 0.168,
+        "width": 0.24,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "heading",
       "text": "Anniversaire d'Ayame",
       "bbox": {
         "x": 0.0189,
@@ -16,7 +26,37 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
+      "text": "Et elle est mignonne",
+      "bbox": {
+        "x": 0.11,
+        "y": 0.368,
+        "width": 0.12,
+        "height": 0.049
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Troisième anniversaire de Melty Kiss",
+      "bbox": {
+        "x": 0.209,
+        "y": 0.675,
+        "width": 0.57,
+        "height": 0.063
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Second anniversaire de Temma",
+      "bbox": {
+        "x": 0.317,
+        "y": 0.786,
+        "width": 0.56,
+        "height": 0.068
+      }
+    },
+    {
+      "type": "other",
       "text": "L'équipe d'Holonews est en pause jusqu'au 1er janvier",
       "bbox": {
         "x": 0.0411,

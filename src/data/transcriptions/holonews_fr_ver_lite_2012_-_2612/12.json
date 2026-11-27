@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_lite_2012_-_2612",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0538,
         "width": 0.385,
         "height": 0.0282
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holostars",
+      "bbox": {
+        "x": 0.15,
+        "y": 0.2297,
+        "width": 0.2285,
+        "height": 0.0251
       }
     },
     {
@@ -27,12 +37,52 @@
     },
     {
       "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.6315,
+        "y": 0.2292,
+        "width": 0.1162,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour Noël, Astel a surpris tout le monde avec son cadeau en 3D depuis son domicile ! Il nous a offert un karaoké de Noël tout en mettant en valeur les variantes et les expressions de son modèle 3D.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2708,
+        "width": 0.4206,
+        "height": 0.0994
+      }
+    },
+    {
+      "type": "heading",
       "text": "HOLORO",
       "bbox": {
         "x": 0.1219,
         "y": 0.4839,
         "width": 0.2831,
         "height": 0.0304
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.1577,
+        "y": 0.7382,
+        "width": 0.1015,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "other",
+      "text": "JOURNEY TO FIND STARS",
+      "bbox": {
+        "x": 0.2923,
+        "y": 0.6838,
+        "width": 0.1508,
+        "height": 0.1453
       }
     },
     {
@@ -46,13 +96,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Pour Noël, Astel a surpris tout le monde avec son cadeau en 3D depuis son domicile ! ll nous a offert un karaoké de Noël tout en mettant en valeur les variantes et les expressions de son modèle 3D.",
+      "type": "heading",
+      "text": "Reine",
       "bbox": {
-        "x": 0.5231,
-        "y": 0.2708,
-        "width": 0.4206,
-        "height": 0.0994
+        "x": 0.6246,
+        "y": 0.7324,
+        "width": 0.1269,
+        "height": 0.023
       }
     },
     {

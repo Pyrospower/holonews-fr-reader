@@ -3,10 +3,10 @@
   "issueId": "holonews_fr_ver_1402_-_2002",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "Anniversaire d'Aki et Choco.",
       "bbox": {
         "x": 0.0369,
@@ -16,7 +16,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "Les tenues assorties de Temma et Miyabi.",
       "bbox": {
         "x": 0.0369,
@@ -26,7 +26,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "Stream de la Saint-Valentin.",
       "bbox": {
         "x": 0.0381,
@@ -36,8 +36,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Nous sommes a la recherche de plus de journalistes pour les talents JP.",
+      "type": "other",
+      "text": "Vista\nniyori's Vtuber design work-",
+      "bbox": {
+        "x": 0.0337,
+        "y": 0.773,
+        "width": 0.34,
+        "height": 0.111
+      }
+    },
+    {
+      "type": "other",
+      "text": "Nous sommes à la recherche de plus de journalistes pour les talents JP.",
       "bbox": {
         "x": 0.1969,
         "y": 0.9674,

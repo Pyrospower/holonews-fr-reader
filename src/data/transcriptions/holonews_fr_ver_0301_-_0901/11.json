@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0301_-_0901",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.1615,
+        "y": 0.2265,
+        "width": 0.1662,
+        "height": 0.0246
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Roberu est de retour avec un stream sur THE iDOLM@STER Cinderella Girls: Starlight Stage pour tenter sa chance avec des invocations sur le gacha. Son objectif était Minami Nitta, la SSR exclusive du Nouvel An. Malheureusement pour lui, il n’a pas réussi à l’obtenir et à dû échanger ses 300 invocations contre la Minami du Nouvel An. ll aura dépensé 67 500 joyaux au cours de ce stream, parmi lesquels 57 000 sont des joyaux qu'il a achetés. Au cours de ses invocations, il sera parvenu à obtenir 11 SSRs, dont deux copies de la Himiko du Nouvel An. Il a ensuite passé le reste du stream à s'époumoner à propos de Minami. Et vous, avez-vous eu plus de chance sur vos invocations du Nouvel An que Roberu ?",
+      "text": "Roberu est de retour avec un stream sur THE iDOLM@STER Cinderella Girls: Starlight Stage pour tenter sa chance avec des invocations sur le gacha. Son objectif était Minami Nitta, la SSR exclusive du Nouvel An. Malheureusement pour lui, il n’a pas réussi à l’obtenir et à dû échanger ses 300 invocations contre la Minami du Nouvel An. Il aura dépensé 67 500 joyaux au cours de ce stream, parmi lesquels 57 000 sont des joyaux qu’il a achetés. Au cours de ses invocations, il sera parvenu à obtenir 11 SSRs, dont deux copies de la Himiko du Nouvel An. Il a ensuite passé le reste du stream à s’époumoner à propos de Minami. Et vous, avez-vous eu plus de chance sur vos invocations du Nouvel An que Roberu ?",
       "bbox": {
         "x": 0.05,
         "y": 0.2682,
@@ -26,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.7244,
+        "width": 0.1292,
+        "height": 0.0246
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Izuru a publié un clip dans lequel il a joué contre un tricheur lors d’une partie classée d'Apex Legends avec Astel et DTN Leia, et a tout de même réussi à gagner. Cette vidéo, qu’il a montée et traduite en Anglais entièrement par lui-même, contient également un moment hilarant à la fin de celle-ci. Regardez le clip pour voir Izuru à l'œuvre !",
+      "text": "Izuru a publié un clip dans lequel il a joué contre un tricheur lors d’une partie classée d’Apex Legends avec Astel et DTN Leia, et a tout de même réussi à gagner. Cette vidéo, qu’il a montée et traduite en Anglais entièrement par lui-même, contient également un moment hilarant à la fin de celle-ci. Regardez le clip pour voir Izuru à l'œuvre !",
       "bbox": {
         "x": 0.05,
         "y": 0.7661,
@@ -36,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.2265,
+        "width": 0.1154,
+        "height": 0.0246
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Astel a débuté l’un de ses streams par un karaoké mais est parti dans une digression qui a duré deux heures, et a mené les Astellas à glisser dans ses messages privés (avec son accord) et à lui envoyer des selfies. A l’origine, Astel voulait simplement que ses fans les plus ardents lui envoient des photos d'eux parmi lesquelles il choisirait la plus mignonne pour créer une chaîne de couple d'entrepreneurs. Il a fini par recevoir une tonne de photos de beaux garçons et a indiqué que les filles n'étaient pas autorisées, sauf si elles étaient vraiment très belles. Finalement, après avoir dit qu’il ne comptait pas sérieusement bloquer quiconque n’était pas assez mignon, Astel a reçu aux alentours de 300 messages privés et a qualifié tout le monde de mignon et stylé, en ajoutant également que certaines photos lui plaisaient beaucoup et qu’il voulait les garder.",
+      "text": "Astel a débuté l’un de ses streams par un karaoké mais est parti dans une digression qui a duré deux heures, et a mené les Astellas à glisser dans ses messages privés (avec son accord) et à lui envoyer des selfies. À l’origine, Astel voulait simplement que ses fans les plus ardents lui envoient des photos d’eux parmi lesquelles il choisirait la plus mignonne pour créer une chaîne de couple d’entrepreneurs. Il a fini par recevoir une tonne de photos de beaux garçons et a indiqué que les filles n’étaient pas autorisées, sauf si elles étaient vraiment très belles. Finalement, après avoir dit qu’il ne comptait pas sérieusement bloquer quiconque n’était pas assez mignon, Astel a reçu aux alentours de 300 messages privés et a qualifié tout le monde de mignon et stylé, en ajoutant également que certaines photos lui plaisaient beaucoup et qu’il voulait les garder.",
       "bbox": {
         "x": 0.5219,
         "y": 0.2691,
@@ -47,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Cette semaine, Astel a réalisé deux streams de défis consécutifs. Le premier stream était sur le jeu d'horreur Masagoro, avec la condition qu'il terminerait son stream s'il se mettait à pousser le moindre cri. Même après avoir insisté qu'il n'avait pas crié les deux premières fois, il a mis fin à son stream au bout de 21 minutes suite à son indéniable troisième cri.",
+      "text": "Cette semaine, Astel a réalisé deux streams de défis consécutifs. Le premier stream était sur le jeu d’horreur Masagoro, avec la condition qu’il terminerait son stream s’il se mettait à pousser le moindre cri. Même après avoir insisté qu’il n’avait pas crié les deux premières fois, il a mis fin à son stream au bout de 21 minutes suite à son indéniable troisième cri.",
       "bbox": {
         "x": 0.5213,
         "y": 0.6037,
@@ -57,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Ensuite, Astel a lancé le deuxième stream où il a joué à Mario Kart 8 Deluxe et devait mettre fin à son stream si jamais il n’était pas au moins 8ème ou s'il ne disait pas « Pièce ! » pour chaque pièce qu'il récupérait. Le stream a pris fin en 15 minutes car il a fini 12e lors de sa 3e course.",
+      "text": "Ensuite, Astel a lancé le deuxième stream où il a joué à Mario Kart 8 Deluxe et devait mettre fin à son stream si jamais il n’était pas au moins 8ème ou s'il ne disait pas « Pièce ! » pour chaque pièce qu’il récupérait. Le stream a pris fin en 15 minutes car il a fini 12e lors de sa 3e course.",
       "bbox": {
         "x": 0.5188,
         "y": 0.7899,

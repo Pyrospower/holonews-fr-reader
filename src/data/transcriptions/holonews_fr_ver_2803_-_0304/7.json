@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2803_-_0304",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,7 +16,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Pekora",
       "bbox": {
         "x": 0.1669,
@@ -46,7 +46,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Roboco",
       "bbox": {
         "x": 0.1663,
@@ -66,8 +66,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "UPROAR!!",
+      "bbox": {
+        "x": 0.3119,
+        "y": 0.7756,
+        "width": 0.1613,
+        "height": 0.0182
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "UPROARI!! a célébré le ler avril en changeant leur profil pour leur mascotte, leur partenaire ou quelque chose qui les représente. Fuma est devenu Kotatsu, un Tanuki ou un raton-laveur japonais; Uyu s'est transformé en Jyako, un pigeon jacobin; Gamma est devenu un pinceau, car il est un artiste de manga; et Rio s'est transformé en une des lumières qui flottent à côté de sa tête. lls ont communiqué et se sont taquinés sur Twitter comme s'ils communiquaient avec une mascotte.",
+      "text": "UPROAR!! a célébré le 1er avril en changeant leur profil pour leur mascotte, leur partenaire ou quelque chose qui les représente. Fuma est devenu Kotatsu, un Tanuki ou un raton-laveur japonais; Uyu s'est transformé en Jyako, un pigeon jacobin; Gamma est devenu un pinceau, car il est un artiste de manga; et Rio s'est transformé en une des lumières qui flottent à côté de sa tête. Ils ont communiqué et se sont taquinés sur Twitter comme s'ils communiquaient avec une mascotte.",
       "bbox": {
         "x": 0.0669,
         "y": 0.8121,
@@ -76,7 +86,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Miko",
       "bbox": {
         "x": 0.64,
@@ -87,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le 1er avril, Mikodanye a enfermé Mikochi dans une pièce sombre et pris le contrôle de son compte Twitter. Elle a posté des photos de sa victime, documentant ses actions. Les fans de Mikochi, les 35P, ont chaleureusement accueilli Mikodanye et cette dernière était reconnaissante de cet amour. À un moment, elle à fait un sondage pour savoir si elle devait laisser sortir Miko ou non et les fans ont dit non. Miko a imploré la clémence et trois heures plus tard, un nouveau vote a été organisé avec le même résultat. Plus tard, Mikodanye a fait un stream où elle a expliqué ce qui se passait et a montré que Miko était en sécurité. Elle a traité Miko de cette façon parce qu'elle est elle-même enfermée dans une ièce sombre tout le temps si elle n'est pas à antenne. Finalement, Mikodanye a libéré Miko et lui a rendu son compte Twitter. Elle a dit qu'elle avait passé un bon moment et qu'elle nous reverra, nye.",
+      "text": "Le 1er avril, Mikodanye a enfermé Mikochi dans une pièce sombre et pris le contrôle de son compte Twitter. Elle a posté des photos de sa victime, documentant ses actions. Les fans de Mikochi, les 35P, ont chaleureusement accueilli Mikodanye et cette dernière était reconnaissante de cet amour. À un moment, elle a fait un sondage pour savoir si elle devait laisser sortir Miko ou non et les fans ont dit non. Miko a imploré la clémence et trois heures plus tard, un nouveau vote a été organisé avec le même résultat. Plus tard, Mikodanye a fait un stream où elle a expliqué ce qui se passait et a montré que Miko était en sécurité. Elle a traité Miko de cette façon parce qu'elle est elle-même enfermée dans une pièce sombre tout le temps si elle n'est pas à l'antenne. Finalement, Mikodanye a libéré Miko et lui a rendu son compte Twitter. Elle a dit qu'elle avait passé un bon moment et qu'elle nous reverra, nye.",
       "bbox": {
         "x": 0.5406,
         "y": 0.1359,
@@ -127,7 +137,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour célébrer le 1er avril, le Twitter officiel d'holostars a annoncé un jeu de simulation de rencontre appelé Tokimeki Holostars Gakuen, où vous pouvez choisir avec qui passer votre jeunesse. Au même moment, tous les membres d'holostars ont changé leurs avatars Twitter en avatars d'étudiants et ont commencé à se présenter comme s'ils étaient des étudiants. Étant étudiants, les holostars se sont bien amusées. Rikka, qui est devenu Ristuko, a reçu de nombreuses demandes en mariage de la part de fans féminins, Oga a donné des conseils pour avoir une mauvaise fin, et lzuru a simplement dormi pendant toutes les activités du 1er avril.",
+      "text": "Pour célébrer le 1er avril, le Twitter officiel d'holostars a annoncé un jeu de simulation de rencontre appelé Tokimeki Holostars Gakuen, où vous pouvez choisir avec qui passer votre jeunesse. Au même moment, tous les membres d'holostars ont changé leurs avatars Twitter en avatars d'étudiants et ont commencé à se présenter comme s'ils étaient des étudiants. Étant étudiants, les holostars se sont bien amusées. Rikka, qui est devenu Ristuko, a reçu de nombreuses demandes en mariage de la part de fans féminins, Oga a donné des conseils pour avoir une mauvaise fin, et Izuru a simplement dormi pendant toutes les activités du 1er avril.",
       "bbox": {
         "x": 0.5331,
         "y": 0.7448,

@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_lite_2712_-_0201",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "AREA15",
+      "bbox": {
+        "x": 0.1363,
+        "y": 0.0642,
+        "width": 0.2562,
+        "height": 0.0317
+      }
+    },
     {
       "type": "heading",
       "text": "Holo ID",
@@ -17,12 +27,22 @@
     },
     {
       "type": "paragraph",
-      "text": "La famille holoID a fait un décompte jusqu'à la nouvelle année sur la chaîne de Risu. Reine n'a pas pu être présente, donc après avoir montré de la dinde rôtie, elles ont montré son portrait funèbre. Le décompte était chaotique, comme à leur habitude. Elles ont dit parler de leurs résolutions pour cette nouvelle année, et Ollie a demandé à ses cadettes (encore inconnues) de la gen 3 d’hololD de ne pas l'enquiquiner. Il y a eu plusieurs « problèmes de connexion », et à la fin du stream, elles avaient toutes un portrait funèbre à la place de leur avatar.",
+      "text": "La famille holoID a fait un décompte jusqu’à la nouvelle année sur la chaîne de Risu. Reine n’a pas pu être présente, donc après avoir montré de la dinde rôtie, elles ont montré son portrait funèbre. Le décompte était chaotique, comme à leur habitude. Elles ont dit parler de leurs résolutions pour cette nouvelle année, et Ollie a demandé à ses cadettes (encore inconnues) de la gen 3 d’holoID de ne pas l'enquiquiner. Il y a eu plusieurs « problèmes de connexion », et à la fin du stream, elles avaient toutes un portrait funèbre à la place de leur avatar.",
       "bbox": {
         "x": 0.0494,
         "y": 0.3112,
         "width": 0.4219,
         "height": 0.2027
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.1619,
+        "y": 0.6567,
+        "width": 0.1556,
+        "height": 0.02
       }
     },
     {
@@ -33,6 +53,16 @@
         "y": 0.6966,
         "width": 0.4206,
         "height": 0.1727
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.6325,
+        "y": 0.2318,
+        "width": 0.0819,
+        "height": 0.0234
       }
     },
     {
@@ -47,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Parmi les nombreux streams discussion qu'elle a faites cette semaine, lofi en a fait un sur les hamsters. Elle a réalisé que toutes les histoires sur les hamsters se terminent par leur mort d’une manière bizarre.",
+      "text": "Parmi les nombreux streams discussion qu’elle a faites cette semaine, lofi en a fait un sur les hamsters. Elle a réalisé que toutes les histoires sur les hamsters se terminent par leur mort d’une manière bizarre.",
       "bbox": {
         "x": 0.5225,
         "y": 0.3919,
@@ -57,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour le « Lundi Productif » de cette semaine, lofi a commencé à dessiner les images qu'elle utilisera pour sa chanson originale (qui sortira en mars) en stream, pour montrer un petit quelque chose à ses spectateurs.",
+      "text": "Pour le « Lundi Productif » de cette semaine, lofi a commencé à dessiner les images qu’elle utilisera pour sa chanson originale (qui sortira en mars) en stream, pour montrer un petit quelque chose à ses spectateurs.",
       "bbox": {
         "x": 0.5225,
         "y": 0.5239,

@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2803_-_0304",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,13 +16,33 @@
       }
     },
     {
-      "type": "other",
-      "text": "@tsunomakiwatame",
+      "type": "paragraph",
+      "text": "Le stream d’anniversaire de Flare était plutôt impressionnant : en effet, elle utilisait son modèle 3D à domicile et a reçu des appels de la part de 15 invitées. Les premières étaient Marine et Noel, qui l'ont taquinée avec son gâteau préféré, la Sachertorte. Lamy, Chloe et Miko ont appelé pour exprimer leur désir de jouer à Elden Ring avec elle, mais n'ont pas pu le faire pour diverses raisons. Lors de son appel, Watame a plaisanté sur le fait que Flare s'attendait à ce qu'elle lui recommande des choses à acheter pour l’évenement. Flare a exprimé son intérêt pour les streams sur Sekiro d'Iroha, et Iroha a promis de lui faire des sucreries un jour. Koyori a appelé et a dit vouloir jouer avec Flare et Kanata quand Kanata ira mieux. Comme Iroha, Flare a regardé Mel jouer à Biohazard, et Flare a promis de réaliser un stream de collaboration avec Mel. L'appel de Lui a tourné autour d'une potentielle collaboration NoeFure x Lui/Chloe, et s'est moquée de la nervosité de Flare. La dernière à appeler était Pekora, que Flare a taquiné à propos de Sekiro, en plaisantant également sur le fait qu'elle avait fui le jeu Elden Ring. Après cela, Flare a annoncé qu'elle organiserait un concert d'anniversaire dès qu'une date serait confirmée.",
       "bbox": {
-        "x": 0.1063,
-        "y": 0.5707,
-        "width": 0.0944,
-        "height": 0.0061
+        "x": 0.5469,
+        "y": 0.072,
+        "width": 0.4013,
+        "height": 0.3993
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GEN4",
+      "bbox": {
+        "x": 0.4412,
+        "y": 0.5069,
+        "width": 0.115,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.6749,
+        "width": 0.1306,
+        "height": 0.0182
       }
     },
     {
@@ -36,6 +56,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.1638,
+        "y": 0.8481,
+        "width": 0.1131,
+        "height": 0.0182
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Kanata a enfin refait un stream, après presque un mois et demi. Bien qu'elle soit en pause à cause du Covid, elle a fait ce stream parce qu'elle a été sponsorisée pour jouer à Shinymas, l'une de ses franchises préférées, pendant l'événement du 4e anniversaire du jeu.",
       "bbox": {
@@ -46,13 +76,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Le stream d'anniversaire de Flare était plutôt impressionnant : en effet, elle utilisait son modèle 3D à domicile et a reçu des appels de la part de 15 invitées. Les premières étaient Marine et Noel, qui l'ont taquinée avec son gâteau préféré, la Sachertorte. Lamy, Chloe et Miko ont appelé pour exprimer leur désir de jouer a Elden Ring avec elle, mais n'ont pas pu le faire pour diverses raisons. Lors de son appel, Watame a plaisanté sur le fait que Flare s'attendait à ce qu'elle lui recommande des choses à acheter pour 'évenement. Flare a exprimé son intérêt pour les streams sur Sekiro d'Iroha, et Iroha a promis de lui faire des sucreries un jour. Koyori a appelé et a dit vouloir jouer avec Flare et Kanata quand Kanata ira mieux. Comme Iroha, Flare a regardé Mel jouer a Biohazard, et Flare a promis de réaliser un stream de collaboration avec Mel. L'appel de Lui a tourné autour d'une potentielle collaboration NoeFure x Lui/Chloe, et s'est moquée de la nervosité de Flare. La dernière à appeler était Pekora, que Flare a taquiné à propos de Sekiro, en plaisantant également sur le fait qu'elle avait fui le jeu Elden Ring. Après cela, Flare a annoncé qu'elle organiserait un concert d'anniversaire dès qu'une date serait confirmée.",
+      "type": "heading",
+      "text": "Luna",
       "bbox": {
-        "x": 0.5469,
-        "y": 0.072,
-        "width": 0.4013,
-        "height": 0.3993
+        "x": 0.6462,
+        "y": 0.6749,
+        "width": 0.08,
+        "height": 0.0182
       }
     },
     {

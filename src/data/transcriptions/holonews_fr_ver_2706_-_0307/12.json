@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_2706_-_0307",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "holoMyth Col",
+      "text": "EN",
+      "bbox": {
+        "x": 0.4713,
+        "y": 0.0165,
+        "width": 0.0581,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holoMyth Collab",
       "bbox": {
         "x": 0.1706,
         "y": 0.1797,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le 29 juin, holoMyth on enfin eu leur première collab en personne avec tous les membres du groupe ! Elles ont commencé avec un bras de fer sur la chaîne d’Ame avec leurs modèles 3D. A la surprise de tous, Ina est parvenue à gagner contre Gura. Les filles ont mentionné qu'elles allaient se rassembler pour le concert d'anniversaire 3D de Kiara qui arrive.",
+      "text": "Le 29 juin, holoMyth on enfin eu leur première collab en personne avec tous les membres du groupe ! Elles ont commencé avec un bras de fer sur la chaîne d’Ame avec leurs modèles 3D. À la surprise de tous, Ina est parvenue à gagner contre Gura. Les filles ont mentionné qu’elles allaient se rassembler pour le concert d’anniversaire 3D de Kiara qui arrive.",
       "bbox": {
         "x": 0.0712,
         "y": 0.2183,
@@ -27,37 +37,27 @@
     },
     {
       "type": "paragraph",
-      "text": "Elles sont ensuite passées sur la chaîne de Calli pour boire quelques boissons (préparées par Calli) et un karaoké. Calli a également commandé des microphones animés pour tout le monde ! Lorsqu’elles s'apprêtaient à chanter « Shiny Smily Story », elles ont révélé que Bae était présente en tant qu'invité surprise et en tant qu'« audience en direct ». Ells ont chantées « Myth or Treat », « Live Again »,",
+      "text": "Elles sont ensuite passées sur la chaîne de Calli pour boire quelques boissons (préparées par Calli) et un karaoké. Calli a également commandé des microphones animés pour tout le monde ! Lorsqu’elles s'apprêtaient à chanter « Shiny Smily Story », elles ont révélé que Bae était présente en tant qu’invité surprise et en tant qu’« audience en direct ». Ells ont chantées « Myth or Treat », « Live Again », « VIOLET », « Excuse my Rudeness, But Could You Please RIP? » ainsi que « HINOTORI », et elles ont clôturé le tout avec « Journey Like a Thousand Years ».",
       "bbox": {
         "x": 0.0712,
         "y": 0.3351,
         "width": 0.3894,
-        "height": 0.1137
+        "height": 0.164
       }
     },
     {
-      "type": "paragraph",
-      "text": "« VIOLET », « Excuse my Rudeness, But Could You Please RIP? » ainsi que",
+      "type": "heading",
+      "text": "Ame",
       "bbox": {
-        "x": 0.0719,
-        "y": 0.4484,
-        "width": 0.3456,
-        "height": 0.0256
+        "x": 0.1675,
+        "y": 0.635,
+        "width": 0.0731,
+        "height": 0.0226
       }
     },
     {
       "type": "paragraph",
-      "text": "« HINOTORI », et elles ont clôturé le tout avec « Journey Like a Thousand Years ».",
-      "bbox": {
-        "x": 0.0719,
-        "y": 0.4735,
-        "width": 0.3863,
-        "height": 0.0256
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Après quelques jours de collab assez épuisants et ayant était support technique pour le concert de Kiara, Ame a enfin pu stream seul avec ses Teamates après tant d'attente ! Dans ce stream, Ame a beaucoup raconté à propos de ses expériences avec les autres filles et a aussi répondu aux questions de la sorte de « qui est la meilleure ou la plus... » du chat comme par exemple « Qui est la plus affectueuse ? » ou encore « Qui a la meilleure odeur ? ».",
+      "text": "Après quelques jours de collab assez épuisants et ayant était support technique pour le concert de Kiara, Ame a enfin pu stream seul avec ses Teamates après tant d’attente ! Dans ce stream, Ame a beaucoup raconté à propos de ses expériences avec les autres filles et a aussi répondu aux questions de la sorte de « qui est la meilleure ou la plus... » du chat comme par exemple « Qui est la plus affectueuse ? » ou encore « Qui a la meilleure odeur ? ».",
       "bbox": {
         "x": 0.0712,
         "y": 0.6745,
@@ -67,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pendant le stream, Ame a révélé qu’en plus de Fauna et Bae, holoMyth a également pu rencontrer Jenma, Mamamori, et Tante Watson ! Mamamori et Tante Watson se sont rencontrés et ont échanger des plaisantries ensemble, et Kiara a rendu Ame toute génée devant Tante Watson en remerciant cette dernière de l'avoir bien élever.",
+      "text": "Pendant le stream, Ame a révélé qu’en plus de Fauna et Bae, holoMyth a également pu rencontrer Jenma, Mamamori, et Tante Watson ! Mamamori et Tante Watson se sont rencontrés et ont échanger des plaisantries ensemble, et Kiara a rendu Ame toute gênée devant Tante Watson en remerciant cette dernière de l’avoir bien élever.",
       "bbox": {
         "x": 0.0712,
         "y": 0.8129,
@@ -77,12 +77,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Après s'être séparé des autres filles, Ame a annoncé qu'elle aimerait prendre une pause de quelques jours pour se relaxer. Elle compte partir dans un spa et se faire les ongles lors de cette pause bien méritée.",
+      "text": "Après s’être séparé des autres filles, Ame a annoncé qu’elle aimerait prendre une pause de quelques jours pour se relaxer. Elle compte partir dans un spa et se faire les ongles lors de cette pause bien méritée.",
       "bbox": {
         "x": 0.0712,
         "y": 0.9262,
         "width": 0.3762,
         "height": 0.0625
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.6388,
+        "y": 0.1788,
+        "width": 0.0525,
+        "height": 0.0226
       }
     },
     {
@@ -106,8 +116,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kronii",
+      "bbox": {
+        "x": 0.6369,
+        "y": 0.648,
+        "width": 0.1025,
+        "height": 0.0226
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Kronii a joué à Silt, un jeu de puzzle et d'aventure qui se déroule sous la mer. Elle a baissé la luminosité de sa chambre pour créer une ambiance pendant qu'elle explorait les profondeurs monochromes, et a été choquée par les créatures qui s'y cachaient. Mais la chose la plus terrifiante a sans doute été le retour surprise de Cortana dans la discussion de fin de stream, tourmentant Kronii avec des barrages sans fin de « Hi, l'm Cortana! »",
+      "text": "Kronii a joué à Silt, un jeu de puzzle et d'aventure qui se déroule sous la mer. Elle a baissé la luminosité de sa chambre pour créer une ambiance pendant qu'elle explorait les profondeurs monochromes, et a été choquée par les créatures qui s'y cachaient. Mais la chose la plus terrifiante a sans doute été le retour surprise de Cortana dans la discussion de fin de stream, tourmentant Kronii avec des barrages sans fin de « Hi, I'm Cortana! ».",
       "bbox": {
         "x": 0.5387,
         "y": 0.6879,

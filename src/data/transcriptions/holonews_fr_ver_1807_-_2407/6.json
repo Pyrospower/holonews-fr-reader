@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_1807_-_2407",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Nekomata Okayu\nSpecial 3D Live",
+      "bbox": {
+        "x": 0.304,
+        "y": 0.109,
+        "width": 0.39,
+        "height": 0.072
+      }
+    },
     {
       "type": "paragraph",
       "text": "Okayu a donné un concert spécial en 3D le 24 juillet. Elle a commencé par questionner les autres membres de SMOK (Subaru, Mio et Korone) pour savoir si elles connaissaient bien notre chat préféré. Les perdantes, Subaru et Mio, ont dû consommer une boisson qui les ferait « aimer davantage Okayu ». Après avoir dit qu'elle avait bon goût malgré sa couleur verte inquiétante, Korone a décidé d'en prendre aussi.",
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Cependant, les SMK se sont soudainement évanouies de douleur sous le regard d'Okayu, souriant. Après une transition, Okayu est apparue sur scène dans sa tenue d'idole, chantant « Doku no Oujisama » ; « Adieu, Salauds », et une nouvelle chanson, « Tokuhai Swallow », écrite par Iwami Takashi et Nanahoshi Orchestra. Immédiatement après, Okayu a annoncé son premier concert solo, Poisonya Syndrome, qui aura lieu le 30 septembre au Tachikawa Stage Garden a Tachikawa dans la préfecture de Tokyo !",
+      "text": "Cependant, les SMK se sont soudainement évanouies de douleur sous le regard d'Okayu, souriant. Après une transition, Okayu est apparue sur scène dans sa tenue d'idole, chantant « Doku no Oujisama » ; « Adieu, Salauds », et une nouvelle chanson, « Tokuhai Swallow », écrite par Iwami Takashi et Nanahoshi Orchestra. Immédiatement après, Okayu a annoncé son premier concert solo, Poisonya Syndrome, qui aura lieu le 30 septembre au Tachikawa Stage Garden à Tachikawa dans la préfecture de Tokyo !",
       "bbox": {
         "x": 0.5256,
         "y": 0.3873,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les billets pour le regarder en streaming sont désormais disponibles sur SPWN et LINE LIVE (ce dernier est réservé au Japon). Des produits dérivés officiels sont aussi disponibles ! Le pack essentiel comprend une serviette pour le visage, un T-shirt, une lampe en acrylique, et également un étui a ticket ainsi qu'un autocollant.",
+      "text": "Les billets pour le regarder en streaming sont désormais disponibles sur SPWN et LINE LIVE (ce dernier est réservé au Japon). Des produits dérivés officiels sont aussi disponibles ! Le pack essentiel comprend une serviette pour le visage, un T-shirt, une lampe en acrylique, et également un étui à ticket ainsi qu'un autocollant.",
       "bbox": {
         "x": 0.1011,
         "y": 0.5829,
@@ -46,8 +56,18 @@
       }
     },
     {
+      "type": "other",
+      "text": "2022.7.24 21:00 - 8.8 23:59",
+      "bbox": {
+        "x": 0.542,
+        "y": 0.805,
+        "width": 0.338,
+        "height": 0.018
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Okayu a également annoncé son premier album complet, aussi nommé Poisonya Syndrome, qui sortira le 6 septembre ! L'album de 12 titres comprendra toutes les chansons originales d'Okayu jusqu'à présent, avec de nouvelles chansons de producteurs tels que Surii, Kamiyama Yo, et DECO*27. Le 12e morceau, « ORANGE PARADE » produit par FAKE TYPE aura une intervention de Korone.",
+      "text": "Okayu a également annoncé son premier album complet, aussi nommé Poisonya Syndrome, qui sortira le 6 septembre ! L'album de 12 titres comprendra toutes les chansons originales d'Okayu jusqu'à présent, avec de nouvelles chansons de producteurs tels que Surii, Kamiyama Yō, et DECO*27. Le 12e morceau, « ORANGE PARADE » produit par FAKE TYPE aura une intervention de Korone.",
       "bbox": {
         "x": 0.1006,
         "y": 0.8592,

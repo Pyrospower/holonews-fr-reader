@@ -3,71 +3,61 @@
   "issueId": "holonews_fr_ver_1701_-_2301",
   "page": 20,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "ÉVÉNEMENT PALIERS À VENIR D’ABONNÉS",
+      "text": "ÉVÉNEMENT À VENIR",
       "bbox": {
         "x": 0.08,
         "y": 0.0326,
-        "width": 0.8269,
-        "height": 0.0729
+        "width": 0.37,
+        "height": 0.073
       }
     },
     {
       "type": "other",
-      "text": "• 27 janvier : Tournoi Pokémon holoJP (NicoNico)",
+      "text": "• 27 janvier : Tournoi Pokémon holoJP (NicoNico)\n• 30 janvier : Tournoi Pokémon holoEN x holoID\n• 28 janvier : Second concert solo d’Aqua\n• 30 janvier : Anniversaire de Polka",
       "bbox": {
         "x": 0.0744,
         "y": 0.1285,
-        "width": 0.3313,
-        "height": 0.0339
-      }
-    },
-    {
-      "type": "other",
-      "text": "• 30 janvier : Tournoi Pokémon",
-      "bbox": {
-        "x": 0.0744,
-        "y": 0.1806,
-        "width": 0.3313,
-        "height": 0.0165
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "holoEN x holoID",
-      "bbox": {
-        "x": 0.0956,
-        "y": 0.1984,
-        "width": 0.1713,
-        "height": 0.0126
-      }
-    },
-    {
-      "type": "other",
-      "text": "» 28 janvier : Second concert solo d'Aqua",
-      "bbox": {
-        "x": 0.0744,
-        "y": 0.2331,
-        "width": 0.3588,
-        "height": 0.0334
-      }
-    },
-    {
-      "type": "other",
-      "text": "• 30 janvier : Anniversaire de Polka",
-      "bbox": {
-        "x": 0.0744,
-        "y": 0.2852,
         "width": 0.3756,
-        "height": 0.0161
+        "height": 0.1728
       }
     },
     {
-      "type": "paragraph",
-      "text": "Merci!",
+      "type": "heading",
+      "text": "PALIERS D’ABONNÉS",
+      "bbox": {
+        "x": 0.572,
+        "y": 0.041,
+        "width": 0.335,
+        "height": 0.065
+      }
+    },
+    {
+      "type": "other",
+      "text": "OKAYU\n1,3 M",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.159,
+        "width": 0.09,
+        "height": 0.043
+      }
+    },
+    {
+      "type": "other",
+      "text": "KOYORI\n500 K",
+      "bbox": {
+        "x": 0.7394,
+        "y": 0.2057,
+        "width": 0.0988,
+        "height": 0.042
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci !",
       "bbox": {
         "x": 0.3913,
         "y": 0.6033,
@@ -77,17 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "KOYORI",
-      "bbox": {
-        "x": 0.7394,
-        "y": 0.2057,
-        "width": 0.0988,
-        "height": 0.0191
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un oup de main à la création d’HoloNews !",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
         "x": 0.0688,
         "y": 0.6515,
@@ -97,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Merci d'avoir lu et à la semaine prochaine !",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
       "bbox": {
         "x": 0.325,
         "y": 0.7986,

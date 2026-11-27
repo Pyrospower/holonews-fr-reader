@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_holostars_-tempus-_debut_special",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,76 +13,6 @@
         "y": 0.043,
         "width": 0.8825,
         "height": 0.0286
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "ART: SNOWMYA",
-      "bbox": {
-        "x": 0.3831,
-        "y": 0.1011,
-        "width": 0.1294,
-        "height": 0.0065
-      }
-    },
-    {
-      "type": "heading",
-      "text": "WEEKLY ‘5 SCHEDULE",
-      "bbox": {
-        "x": 0.04,
-        "y": 0.1237,
-        "width": 0.2019,
-        "height": 0.036
-      }
-    },
-    {
-      "type": "other",
-      "text": "A Way Out",
-      "bbox": {
-        "x": 0.4506,
-        "y": 0.4028,
-        "width": 0.0519,
-        "height": 0.0061
-      }
-    },
-    {
-      "type": "other",
-      "text": "p © Thief Simulator",
-      "bbox": {
-        "x": 0.4325,
-        "y": 0.428,
-        "width": 0.0981,
-        "height": 0.0061
-      }
-    },
-    {
-      "type": "other",
-      "text": "Spore",
-      "bbox": {
-        "x": 0.4544,
-        "y": 0.4523,
-        "width": 0.0288,
-        "height": 0.0052
-      }
-    },
-    {
-      "type": "heading",
-      "text": "Programme de [Jess Dezmond OFFLINE",
-      "bbox": {
-        "x": 0.0938,
-        "y": 0.4653,
-        "width": 0.4538,
-        "height": 0.0495
-      }
-    },
-    {
-      "type": "heading",
-      "text": "Pro gramme de Vesper",
-      "bbox": {
-        "x": 0.1156,
-        "y": 0.9106,
-        "width": 0.2063,
-        "height": 0.053
       }
     },
     {
@@ -96,13 +26,53 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "AS ABOVE",
+      "type": "other",
+      "text": "ART: SNOWMYA\nWEEKLY SCHEDULE · JULY 24 - 30\nSUN 24 · The Legend of Zelda: Twilight Princess HD · 7 pm pst · 11 am jst\nMON 25 · 4 pm pst · 8 am jst\nTUE 26 · Astral Radiance · 8 pm pst · 12 pm jst\nWED 27 · BEDTIME ASMR · 7 pm pst · 11 am jst\nTHU 28 · The Ghost Train · 7 pm pst · 11 am jst\nFRI 29 · BAD END THEATER · 7 pm pst · 11 am jst\nSAT 30 · break!",
       "bbox": {
-        "x": 0.8244,
-        "y": 0.3546,
-        "width": 0.1344,
-        "height": 0.0148
+        "x": 0.0348,
+        "y": 0.0979,
+        "width": 0.497,
+        "height": 0.2084
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Dezmond",
+      "bbox": {
+        "x": 0.0909,
+        "y": 0.4621,
+        "width": 0.2712,
+        "height": 0.0547
+      }
+    },
+    {
+      "type": "other",
+      "text": "SCHEDULE · WEEK OF 07.25\n@MagniDezmond · #MagginTime · #MagniOpus\nmon · Potion Craft · 12:00 JST · 23:00 EST · 20:00 PST\ntue · A Way Out · w/ Altare · COLLAB · 12:00 JST · 23:00 EST · 20:00 PST\nwed · Thief Simulator · 12:00 JST · 23:00 EST · 20:00 PST\nthu · Spore · 12:00 JST · 23:00 EST · 20:00 PST\nfri · Sonic Adventure 2 · 12:00 JST · 23:00 EST · 20:00 PST\nsat · OFFLINE\nsun · Stray · 12:00 JST · 23:00 EST · 20:00 PST",
+      "bbox": {
+        "x": 0.4045,
+        "y": 0.3221,
+        "width": 0.3045,
+        "height": 0.2137
+      }
+    },
+    {
+      "type": "other",
+      "text": "Design: @AmatsukiLuni\nArt: @hachimit5u",
+      "bbox": {
+        "x": 0.8606,
+        "y": 0.3179,
+        "width": 0.103,
+        "height": 0.0232
+      }
+    },
+    {
+      "type": "other",
+      "text": "AS ABOVE\nSO BELOW",
+      "bbox": {
+        "x": 0.8121,
+        "y": 0.3505,
+        "width": 0.15,
+        "height": 0.1821
       }
     },
     {
@@ -116,93 +86,43 @@
       }
     },
     {
+      "type": "other",
+      "text": "Schedule · WEEK OF 07.25 - 07.31\nARTWORK: @CGcrescent · DESIGN: @AMATSUKILUNI\nLIVE TAG #WHYSOSYRIOS · ART TAG #AXELARTS\nMON · ESCAPE SIMULATOR · YALL DOUBTING MY IQ?? · 11:00 JST · Sun / 22:00 EST · Sun / 19:00 PST\nTUE · COLLAB · GUILD QUEST REPORT · 08:00 JST · Mon / 19:00 EST · Mon / 16:00 PST\nWED · Chivalry II · HOW TO FIGHT LIKE A GLADIATOR · 11:00 JST · Tue / 22:00 EST · Tue / 19:00 PST\nTHU · 【日本語配信】 · もうちょっと自分の教えてあげるっす！ · 20:00 JST · 07:00 EST · 04:00 PST\nFRI · DRAGON QUEST III · 初めてのドラクエだぞ！ · 20:00 JST · 07:00 EST · 04:00 PST\nSAT · COLLAB ON VESPER'S CH · [CHATTING] INTERVIEWING WITH A MYSTERIOUS CREATURE (AXEL) · 14:00 JST · 01:00 EST · FRI / 22:00 PST\nSUN · OFFLINE",
+      "bbox": {
+        "x": 0.0424,
+        "y": 0.5442,
+        "width": 0.3045,
+        "height": 0.2105
+      }
+    },
+    {
       "type": "heading",
-      "text": "SCHEDULE Z| |—",
+      "text": "Programme de Vesper",
       "bbox": {
-        "x": 0.7613,
-        "y": 0.7739,
-        "width": 0.2388,
-        "height": 0.0221
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "WEEK OF JULY 25",
-      "bbox": {
-        "x": 0.7938,
-        "y": 0.8086,
-        "width": 0.08,
-        "height": 0.0056
+        "x": 0.1156,
+        "y": 0.9106,
+        "width": 0.2063,
+        "height": 0.053
       }
     },
     {
       "type": "other",
-      "text": "MON|| TEMPUS GUIL",
+      "text": "SCHEDULE · WEEK OF JULY 25\nMON · TEMPUS GUILD REPORTS · w/Altare, Dezmond, Axel · 4 PM PST\nTUE · WEST OF LOATHING · 10 PM PST\nWED · HUNT: SHOWDOWN · w/Altare · 9 AM PST\nTHU · WEST OF LOATHING · 10 PM PST\nFRI · INTERVIEWING A MYSTERIOUS CREATURE · w/Axel · 10 PM PST\nSAT · BEEG RESPECT\nSUN · SCRAPPING AN OLD PC · 10 PM PST",
       "bbox": {
-        "x": 0.7138,
-        "y": 0.8346,
-        "width": 0.12,
-        "height": 0.0091
+        "x": 0.7091,
+        "y": 0.7737,
+        "width": 0.2439,
+        "height": 0.2042
       }
     },
     {
       "type": "other",
-      "text": "'ORTS 4PMPST",
+      "text": "@LASI",
       "bbox": {
-        "x": 0.8694,
-        "y": 0.8346,
-        "width": 0.0763,
-        "height": 0.0056
-      }
-    },
-    {
-      "type": "other",
-      "text": "TUE || WEST OF LOATHING",
-      "bbox": {
-        "x": 0.7175,
-        "y": 0.8533,
-        "width": 0.1438,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "other",
-      "text": "10 PM PST",
-      "bbox": {
-        "x": 0.9088,
-        "y": 0.8563,
-        "width": 0.0413,
-        "height": 0.0043
-      }
-    },
-    {
-      "type": "other",
-      "text": "WED || HUNT: SHOWDOWN",
-      "bbox": {
-        "x": 0.715,
-        "y": 0.875,
-        "width": 0.155,
+        "x": 0.4091,
+        "y": 0.9674,
+        "width": 0.0712,
         "height": 0.0126
-      }
-    },
-    {
-      "type": "other",
-      "text": "9AMPST",
-      "bbox": {
-        "x": 0.9088,
-        "y": 0.8776,
-        "width": 0.0375,
-        "height": 0.0052
-      }
-    },
-    {
-      "type": "other",
-      "text": "THU WEST OF LOATHING 10 PM PST SAT spi = SUN || SCRAPPING AN OLDPC 10PMPST",
-      "bbox": {
-        "x": 0.7163,
-        "y": 0.8898,
-        "width": 0.2338,
-        "height": 0.0807
       }
     }
   ],

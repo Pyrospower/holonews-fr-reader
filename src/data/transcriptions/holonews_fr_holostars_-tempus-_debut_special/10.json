@@ -3,11 +3,51 @@
   "issueId": "holonews_fr_holostars_-tempus-_debut_special",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Axel Syrios",
+      "bbox": {
+        "x": 0.5,
+        "y": 0.0063,
+        "width": 0.4121,
+        "height": 0.0979
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le tchat a ensuite commencé a le taquiner sur le fait d'être un furry, mais Axel a répondu qu'il était « faging pur avec un faq dur ». Il a également avoué fièrement son amour pour YAGOO et a mentionné que lorsqu'il a rencontré YAGOO pour la première fois, il lui a dit qu'il l'aimait.",
+      "text": "Le troisième à faire ses débuts était le Gladiateur, Axel Syrios. Tout de suite, nous avons été accueillis par Axel au milieu d'un Colisée. Il s'est présenté en anglais et en japonais et a également mentionné qu'il jurait beaucoup, mais que c'était sa langue d'amour.",
+      "bbox": {
+        "x": 0.4576,
+        "y": 0.1147,
+        "width": 0.5045,
+        "height": 0.1411
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il s'est ensuite dirigé vers ses diapositives et a présenté sa carte de guilde. Il dit être littéralement un videur dans TEMPUS, mais son rôle réel est la gestion du personnel. Sa STR est élevée et son INT faible. Axel dit qu'il est en fait intelligent, donc il pense que la carte de statut est faussée.",
+      "bbox": {
+        "x": 0.4576,
+        "y": 0.2768,
+        "width": 0.5182,
+        "height": 0.1411
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a ensuite parlé de ses goûts, des streams prévus, des hashtags, et de ses objectifs à court et à long terme. Axel a également raconté une histoire mémorable : il a accidentellement regardé le dernier épisode de l'anime School Days lorsqu'il était à l'école primaire.",
+      "bbox": {
+        "x": 0.4576,
+        "y": 0.4411,
+        "width": 0.5076,
+        "height": 0.1411
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le tchat a ensuite commencé à le taquiner sur le fait d'être un furry, mais Axel a répondu qu'il était « faqing pur avec un faq dur ». Il a également avoué fièrement son amour pour YAGOO et a mentionné que lorsqu'il a rencontré YAGOO pour la première fois, il lui a dit qu'il l'aimait.",
       "bbox": {
         "x": 0.0475,
         "y": 0.6406,

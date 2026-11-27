@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_3005_-_0506",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0156,
         "width": 0.26,
         "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fuma",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.173,
+        "width": 0.096,
+        "height": 0.027
       }
     },
     {
@@ -37,12 +47,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Après leur collab sur Overcooked, UPROAR! a annoncé que leur groupe a maintenant un signe représentatif officiel. Il s'agit de l'emoji «UP ! » sur iOS et Android. Ils ont dit qu'ils sont toujours reconnaissants pour tout l'amour et le soutien qui leur est donné et ils encouragent à utiliser leur signe représentatif à partir de maintenant chaque fois que les fans se réfèrent à eux en tant que groupe.",
+      "text": "Après leur collab sur Overcooked, UPROAR!! a annoncé que leur groupe a maintenant un signe représentatif officiel. Il s'agit de l'emoji « UP ! » sur iOS et Android. Ils ont dit qu'ils sont toujours reconnaissants pour tout l'amour et le soutien qui leur est donné et ils encouragent à utiliser leur signe représentatif à partir de maintenant chaque fois que les fans se réfèrent à eux en tant que groupe.",
       "bbox": {
         "x": 0.075,
         "y": 0.5343,
         "width": 0.3913,
         "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.789,
+        "width": 0.13,
+        "height": 0.027
       }
     },
     {
@@ -56,6 +76,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Uyu",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.173,
+        "width": 0.065,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Après avoir terminé sa maison dans un style japonais sur Minecraft la semaine précédente, Fuma a continué en y rajoutant un jardin. Accompagné de Gamma, Fuma a appris beaucoup de choses, comme la physique de l'eau dans Minecraft, la pierre lumineuse et même la plantation de bambous. Au milieu de la construction, Fuma a également reçu l'aide de Rio qui a débarqué dans l'appel alors qu'il venait juste de se réveiller.",
       "bbox": {
@@ -63,6 +93,16 @@
         "y": 0.2127,
         "width": 0.3831,
         "height": 0.1341
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Temma & UPROAR!!",
+      "bbox": {
+        "x": 0.639,
+        "y": 0.507,
+        "width": 0.305,
+        "height": 0.028
       }
     },
     {
@@ -103,6 +143,16 @@
         "y": 0.7856,
         "width": 0.3756,
         "height": 0.0234
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.867,
+        "width": 0.121,
+        "height": 0.027
       }
     },
     {

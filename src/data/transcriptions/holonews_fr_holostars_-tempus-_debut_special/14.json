@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_holostars_-tempus-_debut_special",
   "page": 14,
   "lang": "fr",
-  "status": "unavailable",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "Présentation des papâs et mama",
+      "text": "Présentation des papas et mamans",
       "bbox": {
         "x": 0.0456,
         "y": 0.0525,
@@ -16,7 +16,17 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
+      "text": "倉花千夏",
+      "bbox": {
+        "x": 0.1455,
+        "y": 0.1274,
+        "width": 0.1606,
+        "height": 0.0263
+      }
+    },
+    {
+      "type": "other",
       "text": "@kurahanastaff",
       "bbox": {
         "x": 0.15,
@@ -27,16 +37,16 @@
     },
     {
       "type": "heading",
-      "text": "# YH Ginka",
+      "text": "古海鐘一",
       "bbox": {
-        "x": 0.1472,
-        "y": 0.4117,
-        "width": 0.2272,
-        "height": 0.0247
+        "x": 0.6182,
+        "y": 0.1274,
+        "width": 0.1561,
+        "height": 0.0263
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "@hasendow",
       "bbox": {
         "x": 0.6217,
@@ -46,13 +56,83 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
+      "text": "ギンカ Ginka",
+      "bbox": {
+        "x": 0.2848,
+        "y": 0.4105,
+        "width": 0.0955,
+        "height": 0.0263
+      }
+    },
+    {
+      "type": "other",
+      "text": "@hagure_ginsu",
+      "bbox": {
+        "x": 0.1455,
+        "y": 0.4421,
+        "width": 0.1636,
+        "height": 0.0158
+      }
+    },
+    {
+      "type": "heading",
+      "text": "小宮",
+      "bbox": {
+        "x": 0.6152,
+        "y": 0.4137,
+        "width": 0.0803,
+        "height": 0.0263
+      }
+    },
+    {
+      "type": "other",
       "text": "@shidokenai",
       "bbox": {
         "x": 0.6217,
         "y": 0.4444,
         "width": 0.1183,
         "height": 0.012
+      }
+    },
+    {
+      "type": "other",
+      "text": "@tou_ilie",
+      "bbox": {
+        "x": 0.0833,
+        "y": 0.7768,
+        "width": 0.1106,
+        "height": 0.0179
+      }
+    },
+    {
+      "type": "other",
+      "text": "@megajujube",
+      "bbox": {
+        "x": 0.2924,
+        "y": 0.7768,
+        "width": 0.1697,
+        "height": 0.0179
+      }
+    },
+    {
+      "type": "other",
+      "text": "@keffiy",
+      "bbox": {
+        "x": 0.5758,
+        "y": 0.7768,
+        "width": 0.1,
+        "height": 0.0179
+      }
+    },
+    {
+      "type": "other",
+      "text": "@FELUCCACHAN",
+      "bbox": {
+        "x": 0.7621,
+        "y": 0.7768,
+        "width": 0.1818,
+        "height": 0.0179
       }
     }
   ],

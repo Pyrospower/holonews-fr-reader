@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "LOID CUP 2k)22",
+      "text": "HOLOID CUP 2022",
       "bbox": {
         "x": 0.2288,
         "y": 0.3151,
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le 17 août marque le jour de l'indépendance de l'Indonésie, puisque ce même jour, en 1945, la déclaration d'indépendance du pays était lu à Jakarta.",
+      "text": "Le 17 août marque le jour de l’indépendance de l’Indonésie, puisque ce même jour, en 1945, la déclaration d'indépendance du pays était lu à Jakarta.",
       "bbox": {
         "x": 0.0813,
         "y": 0.4293,
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Cette année, hololive ID a célébré cette fête avec une série spécial évènement, en commençant avec le holoID Cup 2022, une évènement sportif sur le serveur Minecraft ID, dans le stade Gelora Bung YAGOO, un amphithéâtre construit pour l'événement. Pendant que Moona et Ollie faisaient les commentatrices, le reste d'hololD (sauf Zeta, qui était absente pour des soucis de santé), et de neuf membres d'holoJP et d'holoEN, ont été mélangés ensemble pour composer deux équipes, Harimau et Garuda.",
+      "text": "Cette année, hololive ID a célébré cette fête avec une série spécial évènement, en commençant avec le holoID Cup 2022, une évènement sportif sur le serveur Minecraft ID, dans le stade Gelora Bung YAGOO, un amphithéâtre construit pour l'événement. Pendant que Moona et Ollie faisaient les commentatrices, le reste d’holoID (sauf Zeta, qui était absente pour des soucis de santé), et de neuf membres d’holoJP et d’holoEN, ont été mélangés ensemble pour composer deux équipes, Harimau et Garuda.",
       "bbox": {
         "x": 0.0806,
         "y": 0.5308,
@@ -37,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "L'événement était composé de plusieurs épreuves individuelles et de groupe, avec une épreuve finale, le « Panjat Pinang », un jeu traditionnel d'escalade de poteaux",
+      "text": "L'événement était composé de plusieurs épreuves individuelles et de groupe, avec une épreuve finale, le « Panjat Pinang », un jeu traditionnel d’escalade de poteaux.",
       "bbox": {
         "x": 0.08,
         "y": 0.76,
@@ -46,8 +46,18 @@
       }
     },
     {
+      "type": "other",
+      "text": "hololive Indonesia presents Bebas",
+      "bbox": {
+        "x": 0.2156,
+        "y": 0.9371,
+        "width": 0.2375,
+        "height": 0.0206
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Plus tard, holoID a publié une reprise de « Bebas », produite par des grands noms de l'industrie musicale indonésienne, puis un drama doublé par les membres d’hololD et une interview de Risu sur les festivités.",
+      "text": "Plus tard, holoID a publié une reprise de « Bebas », produite par des grands noms de l'industrie musicale indonésienne, puis un drama doublé par les membres d’holoID et une interview de Risu sur les festivités.",
       "bbox": {
         "x": 0.5331,
         "y": 0.4293,
@@ -57,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Dans l'interview de Risu, elle a annoncé des produits dérivés du festival, disponible, exclusivement sur Tokopedia :",
+      "text": "Dans l’interview de Risu, elle a annoncé des produits dérivés du festival, disponible, exclusivement sur Tokopedia :",
       "bbox": {
         "x": 0.5337,
         "y": 0.5477,
@@ -77,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "• Une bouteille transparente, avec les noms et les mascottes des membres d'hololD.",
+      "text": "• Une bouteille transparente, avec les noms et les mascottes des membres d’holoID.",
       "bbox": {
         "x": 0.5494,
         "y": 0.6458,
@@ -87,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "• Trois plaques thématiques de chaque génération d'hololD.",
+      "text": "• Trois plaques thématiques de chaque génération d’holoID.",
       "bbox": {
         "x": 0.5494,
         "y": 0.6888,

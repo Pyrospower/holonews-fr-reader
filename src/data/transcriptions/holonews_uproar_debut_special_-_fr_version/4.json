@@ -3,8 +3,18 @@
   "issueId": "holonews_uproar_debut_special_-_fr_version",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Utsugi Uyu",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.0085,
+        "width": 0.3433,
+        "height": 0.1605
+      }
+    },
     {
       "type": "paragraph",
       "text": "Un voleur fantôme aimant les belles choses. On dit qu'il y a des trésors qui ne sont ouverts qu'aux idoles, donc il est devenu une idole pour accéder à ces trésors.",
@@ -13,6 +23,26 @@
         "y": 0.1883,
         "width": 0.6244,
         "height": 0.1096
+      }
+    },
+    {
+      "type": "other",
+      "text": "Triste",
+      "bbox": {
+        "x": 0.2778,
+        "y": 0.3472,
+        "width": 0.0767,
+        "height": 0.0162
+      }
+    },
+    {
+      "type": "other",
+      "text": "Heureux",
+      "bbox": {
+        "x": 0.2344,
+        "y": 0.5123,
+        "width": 0.1144,
+        "height": 0.0162
       }
     }
   ],

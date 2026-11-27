@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2401_-_3001",
   "page": 18,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,103 +16,73 @@
       }
     },
     {
-      "type": "other",
-      "text": "r/Holostars under new management",
+      "type": "heading",
+      "text": "Holostars Fan Sub",
       "bbox": {
-        "x": 0.0381,
-        "y": 0.0747,
-        "width": 0.2269,
-        "height": 0.0091
+        "x": 0.1581,
+        "y": 0.1719,
+        "width": 0.2875,
+        "height": 0.0655
       }
     },
     {
-      "type": "other",
-      "text": "News/Information",
+      "type": "paragraph",
+      "text": "Il va y avoir quelque changements dans la gestion de r/Holostars (un subreddit sur holostars créé par les fans), vu que les modérateurs ont été contactés par u/Holostarstv, le compte Reddit officiel d’holostars, pour récupérer ledit subreddit. Pour l’instant, aucune date n’a été mentionnée sur quand le transfert aura lieu.",
       "bbox": {
-        "x": 0.04,
-        "y": 0.0907,
-        "width": 0.0688,
-        "height": 0.0052
-      }
-    },
-    {
-      "type": "other",
-      "text": "We moderators have been contacted by the official account asking to transfer them ownership of the subreddit. I've been dealing with plenty of things in the real and personally haven't been the best owner. I believe the official Holostars team will make into the thriving community it should be. That being said Id like to thank everyone who's contributed to making this place the great community it is.",
-      "bbox": {
-        "x": 0.0375,
-        "y": 0.1063,
-        "width": 0.4525,
-        "height": 0.0473
+        "x": 0.0506,
+        "y": 0.2444,
+        "width": 0.4194,
+        "height": 0.148
       }
     },
     {
       "type": "heading",
-      "text": "Holostars Fan",
+      "text": "Polka Fans",
       "bbox": {
-        "x": 0.1588,
-        "y": 0.1732,
-        "width": 0.2838,
-        "height": 0.0195
+        "x": 0.6325,
+        "y": 0.1979,
+        "width": 0.225,
+        "height": 0.0304
       }
     },
     {
       "type": "paragraph",
-      "text": "Sub Il va y avoir quelque changements dans la gestion de r/Holostars (un subreddit sur holostars créé par les fans), vu que les modérateurs ont été contactés par u/Holostarstv, le compte Reddit officiel",
+      "text": "Polka's Hologram Circus, le serveur Discord des fans anglophones de Polka, a préparé un cadeau d'anniversaire pour Polka. Il s'agit d'un GIF avec différents thèmes de stream. Plusieurs thèmes défilent très vite et il faut prendre une capture d’écran pour voir sur lequel on tombe. Il y a un total de 64 possibilités. Elle pourra l'utiliser quand elle ne saura pas quoi faire en stream.",
       "bbox": {
-        "x": 0.0525,
-        "y": 0.2096,
-        "width": 0.4156,
-        "height": 0.1181
+        "x": 0.5238,
+        "y": 0.2444,
+        "width": 0.4275,
+        "height": 0.1497
       }
     },
     {
-      "type": "paragraph",
-      "text": "Polka Fans Polka's Hologram Circus, le serveur Discord des fans anglophones de Polka, a préparé un cadeau d'anniversaire pour",
+      "type": "heading",
+      "text": "★ LET’S PLAY ★",
       "bbox": {
-        "x": 0.525,
-        "y": 0.1984,
-        "width": 0.4175,
-        "height": 0.092
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Polka. Il s'agit d'un GIF avec différents thèmes de stream. Plusieurs thèmes défilent très vite et il faut prendre une",
-      "bbox": {
-        "x": 0.5244,
-        "y": 0.2904,
-        "width": 0.3769,
-        "height": 0.0456
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "d’holostars, pour récupérer ledit subreddit. capture d'écran pour voir sur lequel on Pour l'instant, aucune date n'a été tombe. Il y a un total de 64 possibilités. Elle mentionnée sur quand le transfert aura pourra l'utiliser quand elle ne saura pas lieu. quoi faire en stream. ’ LET'S PLAY\n• LET'S PLAY » TERMINÉS",
-      "bbox": {
-        "x": 0.0525,
-        "y": 0.3294,
-        "width": 0.8963,
-        "height": 0.1267
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Mom Hid si My Game!",
-      "bbox": {
-        "x": 0.1631,
-        "y": 0.4891,
-        "width": 0.1169,
+        "x": 0.1944,
+        "y": 0.424,
+        "width": 0.4,
         "height": 0.0282
       }
     },
     {
-      "type": "paragraph",
-      "text": "Link's Awakening",
+      "type": "other",
+      "text": "★ LET’S PLAY TERMINÉS",
       "bbox": {
-        "x": 0.5031,
-        "y": 0.5981,
-        "width": 0.1288,
-        "height": 0.013
+        "x": 0.765,
+        "y": 0.4232,
+        "width": 0.1706,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "other",
+      "text": "Mom Hid My Game! 2 | Jump King | Dying Light Platinum Edition\nBig Brain Academy: Brain vs. Brain | ★ The Legend of Zelda: Link’s Awakening | Subnautica Below Zero\nSonic Adventure 2 | Guilty Gear -Strive- | Mega Man 7\nFall Guys: Ultimate Knockout | Bully Scholarship Edition | Bus Simulator 21\nTom Clancy’s Rainbow Six Extraction | Little Nightmares II | Project SEKAI COLORFUL STAGE!\n★ NEEDY STREAMER OVERLOAD | Paladins: Champions of the Realm | Super Bunny Man\nARK Lost Island | ERROR | Raft",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.4818,
+        "width": 0.9219,
+        "height": 0.4839
       }
     }
   ],

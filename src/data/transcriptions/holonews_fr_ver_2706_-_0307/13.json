@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2706_-_0307",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.4713,
+        "y": 0.0165,
+        "width": 0.0581,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ame & Kiara",
+      "bbox": {
+        "x": 0.1913,
+        "y": 0.1775,
+        "width": 0.1956,
+        "height": 0.0226
+      }
+    },
     {
       "type": "paragraph",
       "text": "Les fans ont été choqués cette semaine par l'annonce qu'Ame et Kiara partageaient une chambre dans un love hôtel. Bien que le choc se soit rapidement dissipé avec l'annonce qu'elles ne faisaient que bavarder et faire des quiz sur BuzzFeed.",
@@ -36,23 +56,13 @@
       }
     },
     {
-      "type": "other",
-      "text": "LADY OF NAISH AND GLENCOE",
+      "type": "heading",
+      "text": "Kiara",
       "bbox": {
-        "x": 0.1825,
-        "y": 0.5729,
-        "width": 0.1931,
-        "height": 0.0061
-      }
-    },
-    {
-      "type": "other",
-      "text": "Lady Takanashi Kiara",
-      "bbox": {
-        "x": 0.2356,
-        "y": 0.6016,
-        "width": 0.0819,
-        "height": 0.0043
+        "x": 0.1681,
+        "y": 0.6615,
+        "width": 0.0881,
+        "height": 0.0226
       }
     },
     {
@@ -66,33 +76,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "7, Ninomae Ina’nis M holoEN & 4 I think I got enough vitamin D for 2 years & ®",
+      "type": "heading",
+      "text": "Ina",
       "bbox": {
-        "x": 0.5313,
-        "y": 0.0703,
-        "width": 0.2669,
-        "height": 0.0213
+        "x": 0.6369,
+        "y": 0.1788,
+        "width": 0.0544,
+        "height": 0.0226
       }
     },
     {
       "type": "paragraph",
-      "text": "7, Ninomae Ina’nis M holoEN & 4 I also thought I defeated the sun but the sunburn attack was a timed attack",
-      "bbox": {
-        "x": 0.5313,
-        "y": 0.1198,
-        "width": 0.4063,
-        "height": 0.0213
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Notre prétresse tako bien-aimée a tweeté qu'elle a des coups de soleil et qu'elle a maintenant « assez de vitamine D pour 2 ans ». Les Takodachis attendent actuellement les fanarts d'une Ina bronzée tout en déclarant la guerre au soleil.",
+      "text": "Notre prêtresse tako bien-aimée a tweeté qu'elle a des coups de soleil et qu'elle a maintenant « assez de vitamine D pour 2 ans ». Les Takodachis attendent actuellement les fanarts d'une Ina bronzée tout en déclarant la guerre au soleil.",
       "bbox": {
         "x": 0.5381,
         "y": 0.2183,
         "width": 0.3963,
         "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fauna",
+      "bbox": {
+        "x": 0.6325,
+        "y": 0.4327,
+        "width": 0.1,
+        "height": 0.0226
       }
     },
     {
@@ -103,6 +113,16 @@
         "y": 0.4731,
         "width": 0.3881,
         "height": 0.2205
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.6325,
+        "y": 0.8485,
+        "width": 0.0762,
+        "height": 0.0247
       }
     },
     {

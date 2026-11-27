@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_1402_-_2002",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "HOLOX",
+      "bbox": {
+        "x": 0.1632,
+        "y": 0.0337,
+        "width": 0.2103,
+        "height": 0.0337
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.1574,
+        "y": 0.2094,
+        "width": 0.1618,
+        "height": 0.0317
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 6 février, Koyori a publié un sondage intitulé « Sondage sur le genre de femmes populaires chez les fans d'hololive ». Comme le titre le suggère, Koyori souhaite découvrir quel type de femme était populaire auprès des fans d'Hololive grâce à ce sondage. Une fois l'enquête terminée, Koyori a montré les résultats le 14 février.",
+      "text": "Le 6 février, Koyori a publié un sondage intitulé « Sondage sur le genre de femmes populaires chez les fans d’hololive ». Comme le titre le suggère, Koyori souhaite découvrir quel type de femme était populaire auprès des fans d'Hololive grâce à ce sondage. Une fois l'enquête terminée, Koyori a montré les résultats le 14 février.",
       "bbox": {
         "x": 0.0506,
         "y": 0.2522,
@@ -17,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "D'après son sondage, le type de femme le plus populaire auprès des fans d'hololive est une femme correcte, aux cheveux noirs raides et à la personnalité héroïque. Idéalement, elle serait habillée d'un chemisier, un bas long, de collants noirs, et aurait un joli maquillage. La « femme idéale des fans d'hololive » a également été dessinée par Amimi-sensei et Koyori a montré cette illustration sur son stream. Elle a clôturé ce dernier avec la sortie de sa quatrième reprise, « Heart Forecast ».",
+      "text": "D’après son sondage, le type de femme le plus populaire auprès des fans d'hololive est une femme correcte, aux cheveux noirs raides et à la personnalité héroïque. Idéalement, elle serait habillée d'un chemisier, un bas long, de collants noirs, et aurait un joli maquillage. La « femme idéale des fans d'hololive » a également été dessinée par Amimi-sensei et Koyori a montré cette illustration sur son stream. Elle a clôturé ce dernier avec la sortie de sa quatrième reprise, « Heart Forecast ».",
       "bbox": {
         "x": 0.0506,
         "y": 0.385,
@@ -36,6 +56,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.8253,
+        "width": 0.1618,
+        "height": 0.0327
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Koyori a invité Suisei, Subaru, Okayu et Lamy pour une partie de Loups-Garous. Le hashtag de la collab était #holothemewerewolfgame, cependant, leur phrase de fin de stream, « otsuyagoo », était en tendances au Japon, à la grande surprise de Koyori.",
       "bbox": {
@@ -46,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Lui & Koyori",
+      "bbox": {
+        "x": 0.6647,
+        "y": 0.2063,
+        "width": 0.2853,
+        "height": 0.0327
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Les grandes sœurs d'holoX se sont à nouveau réunies pour un stream, cette fois-ci sur ARK. Le duo espérait apprivoiser une mante religieuse rose chacune. Koyori, par miracle, a réussi a en attraper une avec seulement une tenue de chasse et sans insecticide. La chance n'était pas de leur côté lorsqu'elles ont tenté d'en attraper une deuxième : le piège u'elles ont posé à fait buguer l'insecte et il était impossible de l'attraper. Juste avant qu'elles perdent espoir, Polka est apparue et leur a donné l'insecticide pour apprivoiser des mantes religieuses roses.",
+      "text": "Les grandes sœurs d'holoX se sont à nouveau réunies pour un stream, cette fois-ci sur ARK. Le duo espérait apprivoiser une mante religieuse rose chacune. Koyori, par miracle, a réussi à en attraper une avec seulement une tenue de chasse et sans insecticide. La chance n'était pas de leur côté lorsqu'elles ont tenté d'en attraper une deuxième : le piège qu'elles ont posé à fait buguer l'insecte et il était impossible de l'attraper. Juste avant qu'elles perdent espoir, Polka est apparue et leur a donné l'insecticide pour apprivoiser des mantes religieuses roses.",
       "bbox": {
         "x": 0.5225,
         "y": 0.2539,
@@ -63,6 +103,16 @@
         "y": 0.4753,
         "width": 0.4244,
         "height": 0.115
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iroha",
+      "bbox": {
+        "x": 0.6309,
+        "y": 0.7324,
+        "width": 0.1309,
+        "height": 0.0286
       }
     },
     {

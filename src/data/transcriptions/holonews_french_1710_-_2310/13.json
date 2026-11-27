@@ -3,11 +3,21 @@
   "issueId": "holonews_french_1710_-_2310",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.14,
+        "y": 0.2153,
+        "width": 0.1563,
+        "height": 0.0234
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Gamma a dessiné ses aînés d'HOLOSTARS portant leurs nouvelles tenues d'ido/ en guise de soutien pour leur concert",
+      "text": "Gamma a dessiné ses aînés d’HOLOSTARS portant leurs nouvelles tenues d'idol en guise de soutien pour leur concert",
       "bbox": {
         "x": 0.0438,
         "y": 0.26,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les membres des groupes UPROAR!! et TEMPUS ont eu l’occasion de regarder le concert HOLOSTARS 2nd ACT ensemble. Dezmond n’a pas pu y participer parce qu'il ne se sentait pas bien à ce moment-là et qu'il devait se reposer en vue de la célébration de son anniversaire plus tard dans la journée.",
+      "text": "Les membres des groupes UPROAR!! et TEMPUS ont eu l’occasion de regarder le concert HOLOSTARS 2nd ACT ensemble. Dezmond n’a pas pu y participer parce qu’il ne se sentait pas bien à ce moment-là et qu'il devait se reposer en vue de la célébration de son anniversaire plus tard dans la journée.",
       "bbox": {
         "x": 0.0431,
         "y": 0.3715,
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les deux groupes étaient ébahis en regardant leurs aînés et ont dit en avoir beaucoup appris. Désormais, ils les respectent davantage et sont motivés à travailler encore plus dur en disant qu'ils devaient s'améliorer en chant et en danse. Ils n'ont pas arrêté de faire l'éloge de leurs modèles 3D et de tous les mouvements qu'ils pouvaient effectuer. Avec l'annonce des débuts en 3D d'UPROARI!!, les membres du groupe pensaient que la différence entre le 1st ACT et le 2nd ACT était qu'ils étaient des fans qui étaient sur le point de faire leurs débuts au sein d'HOLOSTARS mais maintenant ils seront sur scène aussi, en 3D en tant qu'aînés.",
+      "text": "Les deux groupes étaient ébahis en regardant leurs aînés et ont dit en avoir beaucoup appris. Désormais, ils les respectent davantage et sont motivés à travailler encore plus dur en disant qu'ils devaient s’améliorer en chant et en danse. Ils n’ont pas arrêté de faire l'éloge de leurs modèles 3D et de tous les mouvements qu’ils pouvaient effectuer. Avec l’annonce des débuts en 3D d’UPROAR!!, les membres du groupe pensaient que la différence entre le 1st ACT et le 2nd ACT était qu'ils étaient des fans qui étaient sur le point de faire leurs débuts au sein d’HOLOSTARS mais maintenant ils seront sur scène aussi, en 3D en tant qu’aînés.",
       "bbox": {
         "x": 0.0438,
         "y": 0.4622,
@@ -46,28 +56,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "HOLOSTARS 2nd ACT",
+      "type": "heading",
+      "text": "Vesper",
       "bbox": {
-        "x": 0.1106,
-        "y": 0.638,
-        "width": 0.1063,
-        "height": 0.0048
+        "x": 0.6125,
+        "y": 0.1519,
+        "width": 0.14,
+        "height": 0.0269
       }
     },
     {
       "type": "paragraph",
-      "text": "ai qai",
-      "bbox": {
-        "x": 0.7231,
-        "y": 0.0638,
-        "width": 0.0425,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Après avoir tenté de déchiffrer les tweets de Fuma dans le cadre de son apprentissage du japonais, le prochain aîné que Vesper a utilisé pour son apprentissage était Uyu. Quand ce dernier s'en est rendu compte, il a dit que Vesper est trés mignon quand il apprend les kanjis. Au cours de cette session, Vesper a pris quelques tweets d'Uyu, les a disséqués et a essayé de comprendre ce que Uyu disait. En faisant cela, il apprenait aussi davantage de kanjis. Bonne chance avec tes études, Grand-pire !",
+      "text": "Après avoir tenté de déchiffrer les tweets de Fuma dans le cadre de son apprentissage du japonais, le prochain aîné que Vesper a utilisé pour son apprentissage était Uyu. Quand ce dernier s'en est rendu compte, il a dit que Vesper est très mignon quand il apprend les kanjis. Au cours de cette session, Vesper a pris quelques tweets d'Uyu, les a disséqués et a essayé de comprendre ce que Uyu disait. En faisant cela, il apprenait aussi davantage de kanjis. Bonne chance avec tes études, Grand-pire !",
       "bbox": {
         "x": 0.515,
         "y": 0.197,
@@ -87,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Altare s'est lancé un nouveau défi : jouer a League of Legends en ARAM (All Random, All Mid) jusqu'à ce qu'il perde. Son stream précédent s'étant terminé après un seul match, il espérait que celui-ci pourrait durer plus longtemps. Cependant, Altare n'a pas eu de chance. Il a encore une fois perdu après un seul match. Mais cette fois, il a réussi à atteindre 30 minutes de streaming. Bien joué, leader ?",
+      "text": "Altare s'est lancé un nouveau défi : jouer à League of Legends en ARAM (All Random, All Mid) jusqu'à ce qu'il perde. Son stream précédent s'étant terminé après un seul match, il espérait que celui-ci pourrait durer plus longtemps. Cependant, Altare n'a pas eu de chance. Il a encore une fois perdu après un seul match. Mais cette fois, il a réussi à atteindre 30 minutes de streaming. Bien joué, leader ?",
       "bbox": {
         "x": 0.515,
         "y": 0.3885,
@@ -97,7 +97,7 @@
     },
     {
       "type": "heading",
-      "text": "@ » PB Axel",
+      "text": "Axel",
       "bbox": {
         "x": 0.515,
         "y": 0.5143,
@@ -107,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Axel, désormais plus connu sous le nom de Brian, est une fois de plus devenu la victime des membres d’hololive ID. Cette fois-ci, ce n’est pas seulement une, mais bien trois membres d'holoID qui sont responsables. Après que Kobo se soit rétablie, Ollie, Zeta, Axel et elle ont décidé de jouer à VALORANT ensemble. Cette fois, non seulement Axel a dû faire face à Zeta et à Kobo séparément, mais il a également dû faire face à ces deux forces combinées, en plus d’Ollie, ce qui n’aidait pas du tout. Quoi qu'il en soit, tout s'est passé dans la bonne humeur et leurs blagues ont rendu le stream super intéressant. Merci Brian pour ton sacrifice ! 07",
+      "text": "Axel, désormais plus connu sous le nom de Brian, est une fois de plus devenu la victime des membres d’hololive ID. Cette fois-ci, ce n’est pas seulement une, mais bien trois membres d’holoID qui sont responsables. Après que Kobo se soit rétablie, Ollie, Zeta, Axel et elle ont décidé de jouer à VALORANT ensemble. Cette fois, non seulement Axel a dû faire face à Zeta et à Kobo séparément, mais il a également dû faire face à ces deux forces combinées, en plus d’Ollie, ce qui n’aidait pas du tout. Quoi qu'il en soit, tout s'est passé dans la bonne humeur et leurs blagues ont rendu le stream super intéressant. Merci Brian pour ton sacrifice ! o7",
       "bbox": {
         "x": 0.5175,
         "y": 0.5625,
@@ -127,7 +127,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après Altare et Axel, Kobo a enfin eu l’occasion de jouer à VALORANT avec notre Grand-pire, Vesper. À cela, Axel et Zeta ont répondu qu'ils prieraient pour lui. Kobo a aussi mis en ligne une capture d'écran des résultats de l’une de ses parties avec Vesper et Zeta, durant laquelle Kobo était la meilleure joueuse. Après ça, Kobo a fait un stream non archivé, dans lequel elle a joué avec Vesper et Altare. Suivez leurs comptes Twitter et leurs chaînes YouTube pour ne pas rater d'autres collabs sur VALORANT !",
+      "text": "Après Altare et Axel, Kobo a enfin eu l’occasion de jouer à VALORANT avec notre Grand-pire, Vesper. À cela, Axel et Zeta ont répondu qu'ils prieraient pour lui. Kobo a aussi mis en ligne une capture d’écran des résultats de l’une de ses parties avec Vesper et Zeta, durant laquelle Kobo était la meilleure joueuse. Après ça, Kobo a fait un stream non archivé, dans lequel elle a joué avec Vesper et Altare. Suivez leurs comptes Twitter et leurs chaînes YouTube pour ne pas rater d’autres collabs sur VALORANT !",
       "bbox": {
         "x": 0.5144,
         "y": 0.796,

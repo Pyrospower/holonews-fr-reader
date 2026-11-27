@@ -3,71 +3,51 @@
   "issueId": "holonews_fr_ver_1402_-_2002",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "@usadapekor",
+      "type": "heading",
+      "text": "HOLO FANTASY",
       "bbox": {
-        "x": 0.09,
-        "y": 0.1076,
-        "width": 0.0656,
-        "height": 0.0065
+        "x": 0.0588,
+        "y": 0.0419,
+        "width": 0.4176,
+        "height": 0.0317
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1559,
+        "y": 0.2145,
+        "width": 0.1662,
+        "height": 0.0296
       }
     },
     {
       "type": "paragraph",
-      "text": "Pekora s'est reposée pendant 2-3 jours pour que sa gorge puisse se soigner. Elle a consulté un médecin à ce propos et a appris “ne sa gorge était dans cet état à cause",
-      "bbox": {
-        "x": 0.0494,
-        "y": 0.2587,
-        "width": 0.4238,
-        "height": 0.0673
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "‘un surmenage. Sachant qu’elle serait en forme dans quelque jours, elle a prévenu ses fans qu'il ne fallait pas surréagir.",
+      "text": "Pekora s’est reposée pendant 2-3 jours pour que sa gorge puisse se soigner. Elle a consulté un médecin à ce propos et a appris que sa gorge était dans cet état à cause d’un surmenage. Sachant qu’elle serait en forme dans quelque jours, elle a prévenu ses fans qu’il ne fallait pas surréagir.",
       "bbox": {
         "x": 0.0481,
-        "y": 0.3147,
-        "width": 0.4006,
-        "height": 0.0421
+        "y": 0.2587,
+        "width": 0.4251,
+        "height": 0.0981
       }
     },
     {
-      "type": "paragraph",
-      "text": "Pekora, débutante en ASMR, a invité Noel pour lui apprendre les bases de l'ASMR. Le stream, qui était censé être relaxant, est",
+      "type": "heading",
+      "text": "Pekora",
       "bbox": {
-        "x": 0.0456,
-        "y": 0.5304,
-        "width": 0.4256,
-        "height": 0.0473
+        "x": 0.6279,
+        "y": 0.2145,
+        "width": 0.1647,
+        "height": 0.0296
       }
     },
     {
       "type": "paragraph",
-      "text": "finalement devenu comique avec les pitreries de Pekora, malgré le fait qu’elle a affirmée qu'elle allait s'y mettre sérieusement. Noel a avoué que parmi tous ses élèves, elle sent que Pekora est probablement la pire de tous.",
-      "bbox": {
-        "x": 0.0444,
-        "y": 0.5764,
-        "width": 0.415,
-        "height": 0.0911
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Flare a révélé son modèle 3D mis à jour le 20 février ! Elle a commencé le stream en exprimant sa gratitude et pour fêter cela, elle s’est mise à danser sur huit chansons. Pendant le stream, deux des performances ont inclus Miko, Suisei, Polka et Noel, qui sont toutes des membres de l'entreprise de Flare. Flare a montré un côté mignon et un côté cool cette nuit-là et a fourni aux fans l'opportunité de prendre plusieurs photos de sa nouvelle tenue. Elle a aussi annoncé qu’elle allait vendre des figurines en acrylique de son nouveau modèle 3D pour commémorer l'événement. Flare fit également une nouvelle reprise de la chanson « RGB » par YOASOBI vers la fin du stream.",
-      "bbox": {
-        "x": 0.0538,
-        "y": 0.6988,
-        "width": 0.4263,
-        "height": 0.2552
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Les précommandes pour la figurine Nendoroid de Pekora sont maintenant disponibles ! Avec plusieurs accessoires inclus tels qu’un Nousagi, des lunettes de soleil, ainsi qu'un microphone pour son Peko rap. Elle a également trois expressions différentes : un visage souriant, un clignement de l'œil et un visage triste.",
+      "text": "Les précommandes pour la figurine Nendoroid de Pekora sont maintenant disponibles ! Avec plusieurs accessoires inclus tels qu’un Nousagi, des lunettes de soleil, ainsi qu’un microphone pour son Peko rap. Elle a également trois expressions différentes : un visage souriant, un clignement de l’œil et un visage triste.",
       "bbox": {
         "x": 0.5144,
         "y": 0.2578,
@@ -76,13 +56,53 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1544,
+        "y": 0.4862,
+        "width": 0.1647,
+        "height": 0.0296
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Noel a joué à Getting Over It avec Pekora lors d’un stream alcoolisé pour la Saint-Valentin. Au cours du stream, l’attention se tournait entre le jeu et les conversations gu'avaient Noel et Pekora. Même avec tout cela, Noel est parvenue à terminer Getting Over It en 2 heures et 42 minutes.",
+      "text": "Pekora, débutante en ASMR, a invité Noel pour lui apprendre les bases de l’ASMR. Le stream, qui était censé être relaxant, est finalement devenu comique avec les pitreries de Pekora, malgré le fait qu’elle a affirmée qu’elle allait s’y mettre sérieusement. Noel a avoué que parmi tous ses élèves, elle sent que Pekora est probablement la pire de tous.",
+      "bbox": {
+        "x": 0.0444,
+        "y": 0.5304,
+        "width": 0.4268,
+        "height": 0.1371
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Noel",
+      "bbox": {
+        "x": 0.6294,
+        "y": 0.4862,
+        "width": 0.1059,
+        "height": 0.0296
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Noel a joué à Getting Over It avec Pekora lors d’un stream alcoolisé pour la Saint-Valentin. Au cours du stream, l’attention se tournait entre le jeu et les conversations qu’avaient Noel et Pekora. Même avec tout cela, Noel est parvenue à terminer Getting Over It en 2 heures et 42 minutes.",
       "bbox": {
         "x": 0.5206,
         "y": 0.5282,
         "width": 0.4269,
         "height": 0.1085
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Flare a révélé son modèle 3D mis à jour le 20 février ! Elle a commencé le stream en exprimant sa gratitude et pour fêter cela, elle s’est mise à danser sur huit chansons. Pendant le stream, deux des performances ont inclus Miko, Suisei, Polka et Noel, qui sont toutes des membres de l'entreprise de Flare. Flare a montré un côté mignon et un côté cool cette nuit-là et a fourni aux fans l’opportunité de prendre plusieurs photos de sa nouvelle tenue. Elle a aussi annoncé qu’elle allait vendre des figurines en acrylique de son nouveau modèle 3D pour commémorer l’événement. Flare fit également une nouvelle reprise de la chanson « RGB » par YOASOBI vers la fin du stream.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.6988,
+        "width": 0.4263,
+        "height": 0.2552
       }
     }
   ],

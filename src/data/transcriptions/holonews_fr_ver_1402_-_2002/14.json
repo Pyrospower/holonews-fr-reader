@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_1402_-_2002",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "Holo ID (",
+      "text": "Holo ID",
       "bbox": {
         "x": 0.1625,
         "y": 0.0508,
@@ -16,38 +16,28 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Pour la Saint-Valentin, Ollie a organisé des Risu Gers a It Takes Two en collaboration appels en stream. Les appels étaient sous la avec Liliana Vampaia de MyHoloTV pour forme d'un tirage au sort, ou chacuns des leur première collaboration ensemble. invités recevait un défi au hasard (en Pendant qu’elles jouaient, elles ont",
+      "type": "heading",
+      "text": "Ollie",
       "bbox": {
-        "x": 0.0506,
-        "y": 0.2609,
-        "width": 0.8906,
-        "height": 0.059
+        "x": 0.1604,
+        "y": 0.2189,
+        "width": 0.1019,
+        "height": 0.0262
       }
     },
     {
       "type": "paragraph",
-      "text": "général une phrase de drague) ou un « prix commencé à nommer le jeu Fall Guys",
+      "text": "Pour la Saint-Valentin, Ollie a organisé des appels en stream. Les appels étaient sous la forme d’un tirage au sort, ou chacuns des invités recevait un défi au hasard (en général une phrase de drague) ou un « prix » qui leurs permettaient de donner un défi à Ollie, toujours dans le même genre pour rester dans le thème de la Saint-Valentin. Ollie a reçu des membres d'hololive comme Risu, Reine, Anya, Lui et Bae durant le stream. Elle a aussi reçu d’autres VTubers en dehors d’hololive : des indépendants comme ZonBko, Issei Kai, Kanna Tamachi, Ganba Ruuko, Vyolfers, VAV-KAS et Takanashi Hayate ; des VTubers venant d’autres compagnies comme Hana Macchia, ZEA Cornelia, Alia Adelia, Zen Gunawan, Ironmouse mais aussi le streameur Twitch rprx.",
       "bbox": {
-        "x": 0.0513,
-        "y": 0.3168,
-        "width": 0.8406,
-        "height": 0.0204
+        "x": 0.0491,
+        "y": 0.2608,
+        "width": 0.4302,
+        "height": 0.2792
       }
     },
     {
       "type": "paragraph",
-      "text": "» qui leurs permettaient de donner un défi à après être tombées plusieurs fois dans le Ollie, toujours dans le même genre pour vide alors qu’elles étaient en train d’explorer rester dans le thème de la Saint-Valentin. Ollie a reçu des membres d'hololive comme Risu, Reine, Anya, Lui et Bae durant le stream. Elle a aussi reçu d'autres VTubers en dehors d’hololive : des indépendants comme ZonBko, Issei Kai, Kanna Tamachi, Ganba Ruuko, Vyolfers, VAV-KAS et Takanashi Hayate ; des VTubers venant d’autres compagnies comme Hana Macchia, ZEA Cornelia, Alia Adelia, Zen Gunawan, Ironmouse mais aussi le streameur Twitch rprx.",
-      "bbox": {
-        "x": 0.0513,
-        "y": 0.3307,
-        "width": 0.8975,
-        "height": 0.2105
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Récemment, les Zombrades ont utilisé Olivia comme un porte-bonheur pour leurs tirages et cela a étonnamment bien fonctionné. Cela a attiré l'attention d’Ollie qui, énervée, admet le fait qu'Olivia lui donne de la chance lors de ces tirages peu importe la situation.",
+      "text": "Récemment, les Zombrades ont utilisé Olivia comme un porte-bonheur pour leurs tirages et cela a étonnamment bien fonctionné. Cela a attiré l’attention d’Ollie qui, énervée, admet le fait qu’Olivia lui donne de la chance lors de ces tirages peu importe la situation.",
       "bbox": {
         "x": 0.0513,
         "y": 0.559,
@@ -56,8 +46,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.1585,
+        "y": 0.7969,
+        "width": 0.083,
+        "height": 0.0262
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "lofi a joué a Needy Streamer Overload et a été captivé par le jeu. Après le stream, elle n’a pas arrêté de tweet « donnez moi de l'amour » (de la même manière que la protagoniste du jeu demande) dans plusieurs langues. Elle a tellement tweet que Oga et Astel se sont inquiétés pour elle.",
+      "text": "Iofi a joué a Needy Streamer Overload et a été captivé par le jeu. Après le stream, elle n’a pas arrêté de tweet « donnez moi de l’amour » (de la même manière que la protagoniste du jeu demande) dans plusieurs langues. Elle a tellement tweet que Oga et Astel se sont inquiétés pour elle.",
       "bbox": {
         "x": 0.0488,
         "y": 0.8329,
@@ -66,13 +66,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "l'univers du jeu. Le stream a duré deux heures durant lesquelles Risu et Liliana ont battu deux boss du jeu. Le prochain stream sera sur la chaîne de Lili, donc n'oubliez pas de jeter un coup d'œil !",
+      "type": "heading",
+      "text": "Risu",
       "bbox": {
-        "x": 0.5225,
-        "y": 0.3581,
-        "width": 0.4194,
-        "height": 0.0703
+        "x": 0.6264,
+        "y": 0.2189,
+        "width": 0.1038,
+        "height": 0.0262
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Risu a joué a It Takes Two en collaboration avec Liliana Vampaia de MyHoloTV pour leur première collaboration ensemble. Pendant qu’elles jouaient, elles ont commencé à nommer le jeu Fall Guys après être tombées plusieurs fois dans le vide alors qu’elles étaient en train d’explorer l’univers du jeu. Le stream a duré deux heures durant lesquelles Risu et Liliana ont battu deux boss du jeu. Le prochain stream sera sur la chaîne de Lili, donc n’oubliez pas de jeter un coup d'œil !",
+      "bbox": {
+        "x": 0.5189,
+        "y": 0.2608,
+        "width": 0.4302,
+        "height": 0.2084
       }
     },
     {
@@ -83,6 +93,16 @@
         "y": 0.4436,
         "width": 0.4188,
         "height": 0.0464
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Reine",
+      "bbox": {
+        "x": 0.6264,
+        "y": 0.6265,
+        "width": 0.1321,
+        "height": 0.0262
       }
     },
     {

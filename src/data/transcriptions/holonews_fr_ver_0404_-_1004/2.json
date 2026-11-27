@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_0404_-_1004",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Calliope Mori",
+      "bbox": {
+        "x": 0.018,
+        "y": 0.027,
+        "width": 0.958,
+        "height": 0.086
+      }
+    },
     {
       "type": "paragraph",
       "text": "La fête d'anniversaire de Calli, le 4 avril, a été pleine de surprises ! Après la session d'appels de la veille, Calli a fait un stream avec son modèle 3D. Elle a commencé par un jeu de charades avec deux groupes de filles. Puis est arrivé le moment tant attendu, le concert, qu'elle a ouvert avec Rikka en chantant « Spiral Tones » ! Calli a souligné qu'il y avait des décors uniques sur la scène, comme des squelettes effrayants qui regardaient depuis le plafond.",
@@ -17,22 +27,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Ensuite, elle a chanté deux chansons avec Suisei :",
+      "text": "Ensuite, elle a chanté deux chansons avec Suisei : « Wicked », présentée au concert du quatrième anniversaire des débuts de Suisei, ainsi qu'une nouvelle chanson, « CapSule ».",
       "bbox": {
         "x": 0.06,
         "y": 0.7785,
-        "width": 0.2472,
-        "height": 0.0258
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "« Wicked », présentée au concert du quatrième anniversaire des débuts de Suisei, ainsi qu'une nouvelle chanson, « CapSule ».",
-      "bbox": {
-        "x": 0.06,
-        "y": 0.8079,
         "width": 0.2583,
-        "height": 0.0725
+        "height": 0.1019
       }
     },
     {
@@ -47,32 +47,12 @@
     },
     {
       "type": "paragraph",
-      "text": "• Cinq couverture d'album d'originales au format vinyle, dessinées par différents",
+      "text": "• Le CD\n• Cinq couverture d'album d'originales au format vinyle, dessinées par différents artistes\n• Un interview en coulisses sur le DVD\n• Un badge Deadbeat (édition super limitée !)",
       "bbox": {
-        "x": 0.3617,
-        "y": 0.6867,
-        "width": 0.2761,
-        "height": 0.0436
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un interview en coulisses sur",
-      "bbox": {
-        "x": 0.3617,
-        "y": 0.7454,
-        "width": 0.285,
-        "height": 0.0112
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Un badge Deadbeat (édition super limitée !)",
-      "bbox": {
-        "x": 0.3617,
-        "y": 0.7747,
-        "width": 0.2756,
-        "height": 0.0297
+        "x": 0.36,
+        "y": 0.67,
+        "width": 0.29,
+        "height": 0.132
       }
     },
     {
@@ -107,42 +87,12 @@
     },
     {
       "type": "paragraph",
-      "text": "• Un pack d'enregistrement\n• Un gilet Dead Beats",
+      "text": "• Un pack d'enregistrement\n• Un gilet Dead Beats\n• Son verre à vin préféré\n• Un poster UnAlive\n• Un vinyl UnAlive !",
       "bbox": {
         "x": 0.6628,
         "y": 0.7272,
         "width": 0.2628,
-        "height": 0.0297
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Son verre à vin préféré",
-      "bbox": {
-        "x": 0.6633,
-        "y": 0.7577,
-        "width": 0.2356,
-        "height": 0.0147
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un poster UnAlive",
-      "bbox": {
-        "x": 0.6628,
-        "y": 0.7739,
-        "width": 0.1911,
-        "height": 0.0147
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un vinyl UnAlive !",
-      "bbox": {
-        "x": 0.6628,
-        "y": 0.7894,
-        "width": 0.1844,
-        "height": 0.0147
+        "height": 0.0769
       }
     },
     {

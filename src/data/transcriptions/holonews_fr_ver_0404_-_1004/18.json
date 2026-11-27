@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0404_-_1004",
   "page": 18,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,13 +16,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Mori's Realm",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.106,
+        "width": 0.205,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour célébrer l'anniversaire de la faucheuse, les Dead Beats ont mis en avant quatre cartes de fan artworks et de messages de célébration.",
+      "text": "Pour célébrer l’anniversaire de la faucheuse, les Dead Beats ont mis en avant quatre cartes de fan artworks et de messages de célébration.",
       "bbox": {
         "x": 0.0694,
         "y": 0.1424,
         "width": 0.3888,
         "height": 0.0412
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Onigiriyas",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.106,
+        "width": 0.18,
+        "height": 0.026
       }
     },
     {
@@ -36,7 +56,17 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
+      "text": "MOGU MOGU Okayu",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.341,
+        "width": 0.12,
+        "height": 0.051
+      }
+    },
+    {
+      "type": "heading",
       "text": "Let's play",
       "bbox": {
         "x": 0.4088,
@@ -46,13 +76,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "• LET'S PLAY TERMINÉS",
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
       "bbox": {
         "x": 0.7356,
         "y": 0.4266,
         "width": 0.2094,
         "height": 0.0152
+      }
+    },
+    {
+      "type": "other",
+      "text": "Ring Fit Adventure\nRune Factory 5\nNieR Replicant ver.1.22474487139...\nPotion Craft\nTO THE MOON\nKeyWe\nVISCERA CLEANUP DETAIL",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.466,
+        "width": 0.263,
+        "height": 0.515
+      }
+    },
+    {
+      "type": "other",
+      "text": "LEAGUE OF LEGENDS Wild Rift\n★ Yakuza 0\nGHOSTWIRE TOKYO\nPAYDAY 2\nTHERE IS NO GAME WRONG DIMENSION\nOVERWATCH\nRAFT",
+      "bbox": {
+        "x": 0.62,
+        "y": 0.466,
+        "width": 0.309,
+        "height": 0.515
       }
     }
   ],

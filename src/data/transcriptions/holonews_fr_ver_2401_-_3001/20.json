@@ -3,16 +3,16 @@
   "issueId": "holonews_fr_ver_2401_-_3001",
   "page": 20,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "ÉVÉNEMENTS PALIERS À VENIR D’ABONNÉS",
+      "text": "ÉVÉNEMENTS À VENIR",
       "bbox": {
-        "x": 0.0538,
-        "y": 0.0326,
-        "width": 0.8531,
-        "height": 0.0729
+        "x": 0.0531,
+        "y": 0.0321,
+        "width": 0.4063,
+        "height": 0.0738
       }
     },
     {
@@ -26,33 +26,43 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "AMELIA",
+      "type": "heading",
+      "text": "PALIERS D’ABONNÉS",
       "bbox": {
-        "x": 0.6325,
+        "x": 0.5694,
+        "y": 0.0395,
+        "width": 0.34,
+        "height": 0.066
+      }
+    },
+    {
+      "type": "other",
+      "text": "AMELIA 1,6M\nCALLIOPE 1,9M\nHAKOS 450K\nRIKKA 200K",
+      "bbox": {
+        "x": 0.6306,
         "y": 0.1593,
-        "width": 0.1069,
-        "height": 0.0178
+        "width": 0.2175,
+        "height": 0.1853
       }
     },
     {
-      "type": "paragraph",
-      "text": "1,6M CALLIOPE",
+      "type": "heading",
+      "text": "Merci !",
       "bbox": {
-        "x": 0.6575,
-        "y": 0.1827,
-        "width": 0.1863,
-        "height": 0.0421
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[4 Merci! Si vous voulez voir votre oshi dans les actualités ou aimeriez rester a jour sur tout ce qui se rapporte a hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
-      "bbox": {
-        "x": 0.0706,
+        "x": 0.3912,
         "y": 0.6081,
-        "width": 0.8588,
-        "height": 0.1723
+        "width": 0.23,
+        "height": 0.0321
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.6458,
+        "width": 0.8625,
+        "height": 0.1302
       }
     },
     {

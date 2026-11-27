@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_1402_-_2002",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.0926,
+        "y": 0.047,
+        "width": 0.3574,
+        "height": 0.0327
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.2094,
+        "width": 0.1632,
+        "height": 0.0327
+      }
+    },
     {
       "type": "paragraph",
       "text": "Le 14 février, Miyabi est revenu après s'être remis du COVID-19. Il est aussi énergique qu'avant, bien que sa gorge n'ait pas encore récupéré à 100%. Il a dit qu'il se sentait bien et qu'il pouvait jouer à des jeux pendant 10 heures d'affilée et que la fièvre avait déjà disparu. Miyabi a également expliqué comment lui et sa famille avaient contracté le COVID-19, et a précisé que si les autres allaient déjà mieux, son père présentait toujours des symptômes. Il s'est également inquiété du fait que ses fans aient pu l'oublier pendant son absence, et a parlé de la façon dont le reste des holoStars avait été gentil avec lui, et a mentionné qu'il voulait faire un autre stream dès que possible. À la fin, Miyabi a assuré à tout le monde qu'il pourrait à nouveau diffuser.",
@@ -13,6 +33,16 @@
         "y": 0.2565,
         "width": 0.4269,
         "height": 0.2808
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Oga",
+      "bbox": {
+        "x": 0.1603,
+        "y": 0.6691,
+        "width": 0.0897,
+        "height": 0.0306
       }
     },
     {
@@ -26,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.6324,
+        "y": 0.2574,
+        "width": 0.1191,
+        "height": 0.0306
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Astel a enfin révélé le TENGA promis. Apres une discussion avec leur compte Twitter, Astel a reçu une édition spéciale de TENGA pour le Nouvel An avec des tigres représentés, symbolisant le signe du zodiaque de cette année. Il prévoit de l'utiliser comme décoration pour l'entrée de sa maison.",
+      "text": "Astel a enfin révélé le TENGA promis. Après une discussion avec leur compte Twitter, Astel a reçu une édition spéciale de TENGA pour le Nouvel An avec des tigres représentés, symbolisant le signe du zodiaque de cette année. Il prévoit de l'utiliser comme décoration pour l'entrée de sa maison.",
       "bbox": {
         "x": 0.5225,
         "y": 0.3016,
@@ -37,12 +77,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Astel a rendu visite à Yunohara Izumi d'Animare pour l'affronter sur Yu-Gi-Oh ! Master Duel. Il avait préparé un total de six jeux de cartes pour cette collab. Astel a admis a Izumi qu'il avait dépensé environ 80 000 Ÿ pour le jeu. Il a ajouté qu'en préparant cette collaboration, il avait dépensé 120 000 ¥ supplementaies, Au total, il a dépensé 200 000 ¥ sur Yu-Gi-Oh. Astel détient la carte la plus puissante de tous les jeux de cartes, une carte de crédit.",
+      "text": "Astel a rendu visite à Yunohara Izumi d'Animare pour l'affronter sur Yu-Gi-Oh ! Master Duel. Il avait préparé un total de six jeux de cartes pour cette collab. Astel a admis à Izumi qu'il avait dépensé environ 80 000 ¥ pour le jeu. Il a ajouté qu'en préparant cette collaboration, il avait dépensé 120 000 ¥ supplémentaires. Au total, il a dépensé 200 000 ¥ sur Yu-Gi-Oh. Astel détient la carte la plus puissante de tous les jeux de cartes, une carte de crédit.",
       "bbox": {
         "x": 0.5275,
         "y": 0.4405,
         "width": 0.4263,
         "height": 0.1589
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.6294,
+        "y": 0.763,
+        "width": 0.1691,
+        "height": 0.0306
       }
     },
     {

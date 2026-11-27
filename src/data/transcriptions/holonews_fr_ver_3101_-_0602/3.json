@@ -3,11 +3,41 @@
   "issueId": "holonews_fr_ver_3101_-_0602",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "other",
+      "text": "Gawr Gura",
+      "bbox": {
+        "x": 0.6,
+        "y": 0.1296,
+        "width": 0.0883,
+        "height": 0.0081
+      }
+    },
+    {
+      "type": "other",
+      "text": "Takanashi Kiara",
+      "bbox": {
+        "x": 0.6138,
+        "y": 0.3579,
+        "width": 0.1508,
+        "height": 0.0107
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Concert\nLink your wish",
+      "bbox": {
+        "x": 0.2862,
+        "y": 0.3665,
+        "width": 0.66,
+        "height": 0.1442
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Plusieurs talents ont confirmé que les apparitions d’holoMyth et d'AREA15 au concert HoloFes Link Your Wish ne se feront pas en 2D ou sous la forme de silhouettes en carton, mais bien avec des modèles 3D ! Calli a été la première à confirmer l'information après son stream sur Needy Streamer Overload, précisant que les filles ne se rendraient pas au Japon mais que l’équipe de management avait quand même trouvé un moyen pour elles de se produire sur scène en 3D..Par ailleurs, leurs habituels débuts en 3D'sur YouTube sont donc remis à plus tard dans ce but. Après l'événement, en bonus, les filles pourront toutes utiliser leurs modèles librement !",
+      "text": "Plusieurs talents ont confirmé que les apparitions d’holoMyth et d’AREA15 au concert HoloFes Link Your Wish ne se feront pas en 2D ou sous la forme de silhouettes en carton, mais bien avec des modèles 3D ! Calli a été la première à confirmer l’information après son stream sur Needy Streamer Overload, précisant que les filles ne se rendraient pas au Japon mais que l’équipe de management avait quand même trouvé un moyen pour elles de se produire sur scène en 3D. Par ailleurs, leurs habituels débuts en 3D sur YouTube sont donc remis à plus tard dans ce but. Après l’événement, en bonus, les filles pourront toutes utiliser leurs modèles librement !",
       "bbox": {
         "x": 0.05,
         "y": 0.4907,
@@ -17,22 +47,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Kiara a confirmé la nouvelle dañs un post destiné à la communauté,-suivie de tofi'et Moona durant des streafns-Si vous ne voulez pas manqueries premiers pas en 3D des branches anglaises et indonésiennes, assurez-vous d'acheter des billets pour l'événement avantle 19 ou le 20 mars (JST).",
+      "text": "Kiara a confirmé la nouvelle dans un post destiné à la communauté, suivie de Iofi et Moona durant des streams. Si vous ne voulez pas manquer les premiers pas en 3D des branches anglaises et indonésiennes, assurez-vous d’acheter des billets pour l’événement avant le 19 ou le 20 mars (JST).",
       "bbox": {
         "x": 0.05,
         "y": 0.8241,
         "width": 0.4717,
         "height": 0.1481
-      }
-    },
-    {
-      "type": "other",
-      "text": "Gawr Gura",
-      "bbox": {
-        "x": 0.6,
-        "y": 0.1296,
-        "width": 0.0883,
-        "height": 0.0081
       }
     }
   ],

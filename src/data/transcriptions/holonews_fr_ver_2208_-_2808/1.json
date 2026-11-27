@@ -3,10 +3,10 @@
   "issueId": "holonews_fr_ver_2208_-_2808",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "ASMR de Kobo",
       "bbox": {
         "x": 0.0244,
@@ -16,7 +16,27 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
+      "text": "Collaboration des STARS",
+      "bbox": {
+        "x": 0.3469,
+        "y": 0.0113,
+        "width": 0.3063,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "other",
+      "text": "Aki a le covid",
+      "bbox": {
+        "x": 0.8163,
+        "y": 0.0117,
+        "width": 0.16,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
       "text": "Magazine hebdomadaire d'actualités",
       "bbox": {
         "x": 0.0256,
@@ -27,7 +47,7 @@
     },
     {
       "type": "heading",
-      "text": "NOËL",
+      "text": "NOEL",
       "bbox": {
         "x": 0.0269,
         "y": 0.1905,
@@ -43,36 +63,6 @@
         "y": 0.2422,
         "width": 0.1713,
         "height": 0.0616
-      }
-    },
-    {
-      "type": "heading",
-      "text": "VOL 1",
-      "bbox": {
-        "x": 0.0319,
-        "y": 0.9167,
-        "width": 0.2625,
-        "height": 0.053
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Aug 30 2022",
-      "bbox": {
-        "x": 0.185,
-        "y": 0.9774,
-        "width": 0.1088,
-        "height": 0.0117
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Aki a le covid",
-      "bbox": {
-        "x": 0.8163,
-        "y": 0.0117,
-        "width": 0.16,
-        "height": 0.013
       }
     },
     {
@@ -133,6 +123,36 @@
         "y": 0.5734,
         "width": 0.1706,
         "height": 0.0451
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Anniversaire du Council",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.6484,
+        "width": 0.9,
+        "height": 0.2422
+      }
+    },
+    {
+      "type": "other",
+      "text": "VOL 1",
+      "bbox": {
+        "x": 0.0319,
+        "y": 0.9167,
+        "width": 0.2625,
+        "height": 0.053
+      }
+    },
+    {
+      "type": "other",
+      "text": "Aug 30 2022",
+      "bbox": {
+        "x": 0.185,
+        "y": 0.9774,
+        "width": 0.1088,
+        "height": 0.0117
       }
     }
   ],

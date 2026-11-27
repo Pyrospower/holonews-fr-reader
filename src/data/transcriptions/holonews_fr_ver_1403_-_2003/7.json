@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_1403_-_2003",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 0",
+      "bbox": {
+        "x": 0.4412,
+        "y": 0.0161,
+        "width": 0.1187,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama & Miko",
+      "bbox": {
+        "x": 0.1906,
+        "y": 0.174,
+        "width": 0.2656,
+        "height": 0.02
+      }
+    },
     {
       "type": "paragraph",
       "text": "Haachama a construit un nid d'amour derrière la maison de Miko dans Minecraft qu'elle a affectueusement appelé « Honeytrap ». En réponse, Miko a construit un donjon souterrain dans lequel elle a réussi à piéger Haachama. À l'intérieur, elle a écrit un livre effrayant expliquant que Haachama n'était pas fidèle à son cœur. Miko l'a ensuite retenue jusqu'à ce qu'elle change d'avis.",
@@ -17,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La première tentative d'évasion d'Haachama a échoué, car Miko venait tout juste de se connecter. Lors de sa deuxième tentative, elle a trompé Miko en l'invitant à dormir ensemble dans la cellule, en la tuant à l'aide d'un seau à lave et en détruisant ses élytres... a nouveau. Miko n'était cependant pas triste, car elle avait maintenant une excuse parfaite pour avoir un rendez-vous avec Haachama afin de chercher une nouvelle paire d'élytres.",
+      "text": "La première tentative d'évasion d'Haachama a échoué, car Miko venait tout juste de se connecter. Lors de sa deuxième tentative, elle a trompé Miko en l'invitant à dormir ensemble dans la cellule, en la tuant à l'aide d'un seau à lave et en détruisant ses élytres... à nouveau. Miko n'était cependant pas triste, car elle avait maintenant une excuse parfaite pour avoir un rendez-vous avec Haachama afin de chercher une nouvelle paire d'élytres.",
       "bbox": {
         "x": 0.0694,
         "y": 0.3759,
@@ -26,13 +46,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "L'émission de radio de Fubuki et Marine, Sukondawa, a remporté le prix de la « meilleure radio humoristique » lors de la 7e édition des Aniradi Awards ! L'émission de radio a également été nominée dans trois autres catégories : « Meilleure Radio Féminine », « Meilleure Radio Bénéfique », et « Meilleure Radio Créative » !",
+      "type": "heading",
+      "text": "Suisei",
       "bbox": {
-        "x": 0.0725,
-        "y": 0.8108,
-        "width": 0.39,
-        "height": 0.1141
+        "x": 0.6412,
+        "y": 0.1775,
+        "width": 0.0969,
+        "height": 0.02
       }
     },
     {
@@ -46,8 +66,48 @@
       }
     },
     {
+      "type": "heading",
+      "text": "GEN 1",
+      "bbox": {
+        "x": 0.4419,
+        "y": 0.6037,
+        "width": 0.1231,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki & Marine",
+      "bbox": {
+        "x": 0.1856,
+        "y": 0.7661,
+        "width": 0.2637,
+        "height": 0.0195
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "A la fin de son stream de chant, Matsuri a parlé des premiers baisers. Selon elle, les derniers baisers ont plus de valeur que les premiers. Cela a eu beaucoup d'effet et ses spectateurs ont essayé d'envoyer le dernier superchat du stream. Cela a duré cinq bonnes minutes avant que Matsuri ne mette fin au stream.",
+      "text": "L'émission de radio de Fubuki et Marine, Sukondawa, a remporté le prix de la « meilleure radio humoristique » lors de la 7e édition des Aniradi Awards ! L'émission de radio a également été nominée dans trois autres catégories : « Meilleure Radio Féminine », « Meilleure Radio Bénéfique », et « Meilleure Radio Créative » !",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.8108,
+        "width": 0.39,
+        "height": 0.1141
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.7669,
+        "width": 0.125,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À la fin de son stream de chant, Matsuri a parlé des premiers baisers. Selon elle, les derniers baisers ont plus de valeur que les premiers. Cela a eu beaucoup d’effet et ses spectateurs ont essayé d'envoyer le dernier superchat du stream. Cela a duré cinq bonnes minutes avant que Matsuri ne mette fin au stream.",
       "bbox": {
         "x": 0.5369,
         "y": 0.8064,

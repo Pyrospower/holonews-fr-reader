@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0108_-_0708",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0174,
         "width": 0.2606,
         "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.356,
+        "width": 0.23,
+        "height": 0.026
       }
     },
     {
@@ -26,13 +36,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Rio",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.644,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Rio a montré son côté perfectionniste en jouant a Cooking Simulator. || s'assurait que tout était parfait et riait de sa maladresse chaque fois qu'il ratait un de ses plats. Il a fini par casser beaucoup d'assiettes et a passé un long moment à jeter tous les morceaux à la poubelle.",
+      "text": "Rio a montré son côté perfectionniste en jouant à Cooking Simulator. Il s'assurait que tout était parfait et riait de sa maladresse chaque fois qu'il ratait un de ses plats. Il a fini par casser beaucoup d'assiettes et a passé un long moment à jeter tous les morceaux à la poubelle.",
       "bbox": {
         "x": 0.0712,
         "y": 0.6819,
         "width": 0.3869,
         "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.166,
+        "width": 0.23,
+        "height": 0.026
       }
     },
     {
@@ -56,8 +86,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.766,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour fêter ses 200 000 abonnés sur YouTube, Shien a reçu des appels d'autres membres d'holopro. Des membres d'HOLOSTARS et d'UPROAR!! sont venus ainsi que Bae, Ollie, lofi, Anya et Kazami Kuku de AniMare. Certains lui ont offert des illustrations en guise de cadeau, tandis que d'autres ont parlé des moments mémorables qu'ils partagent avec lui, comme ses conseils, les collaborations ou les dîners qu'ils ont eus ensemble. Shien a remercié les Subordinates et ses collègues pour avoir atteint les 200 000 abonnés, mais ce n'est pas son objectif. Il a encore beaucoup de projets à faire et à accomplir, alors n'hésitez pas à le soutenir davantage à partir de maintenant.",
+      "text": "Pour fêter ses 200 000 abonnés sur YouTube, Shien a reçu des appels d'autres membres d'holopro. Des membres d'HOLOSTARS et d'UPROAR!! sont venus ainsi que Bae, Ollie, Iofi, Anya et Kazami Kuku de AniMare. Certains lui ont offert des illustrations en guise de cadeau, tandis que d'autres ont parlé des moments mémorables qu'ils partagent avec lui, comme ses conseils, les collaborations ou les dîners qu'ils ont eus ensemble. Shien a remercié les Subordinates et ses collègues pour avoir atteint les 200 000 abonnés, mais ce n'est pas son objectif. Il a encore beaucoup de projets à faire et à accomplir, alors n'hésitez pas à le soutenir davantage à partir de maintenant.",
       "bbox": {
         "x": 0.5381,
         "y": 0.8043,

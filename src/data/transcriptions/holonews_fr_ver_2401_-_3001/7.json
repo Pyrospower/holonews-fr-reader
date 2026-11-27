@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2401_-_3001",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Rushia a posté une vidéo sous la forme d'un jeu de drague. Dans ce jeu, le protagoniste n'arrive à s'échapper de la nécromancienne. Cette dernière propose au spectateur de venir chez elle après les cours, en parlant doucement et en lui offrant de la nourriture savoureuse. Dans la scène finale, on peut voir Rushia avec des menottes, impliquant que le protagoniste ne la quittera pas.",
+      "text": "Rushia a posté une vidéo sous la forme d’un jeu de drague. Dans ce jeu, le protagoniste n’arrive à s'échapper de la nécromancienne. Cette dernière propose au spectateur de venir chez elle après les cours, en parlant doucement et en lui offrant de la nourriture savoureuse. Dans la scène finale, on peut voir Rushia avec des menottes, impliquant que le protagoniste ne la quittera pas.",
       "bbox": {
         "x": 0.0538,
         "y": 0.3251,
@@ -36,18 +36,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Récemment dans un stream discussion, Flare a dit qu’elle ne faisait rien mis à part jouer à ARK, manger et se coucher tard. De ce fait, elle voulait un peu se calmer avec le jeu. Elle a pris le temps de parler des mises à jour de sa chaîne, de son matériel et a répondu à quelques questions du tchat. Plus tard, Flare a raconté comment elle s’est rapprochée de Noel. Toutes deux ont remarqué qu'elles étaient fan de Planetes, un vieil animé de science-fiction rarement aimé par des filles.",
+      "type": "heading",
+      "text": "Marine",
       "bbox": {
-        "x": 0.0525,
-        "y": 0.6649,
-        "width": 0.4156,
-        "height": 0.2049
+        "x": 0.634,
+        "y": 0.2847,
+        "width": 0.165,
+        "height": 0.024
       }
     },
     {
       "type": "paragraph",
-      "text": "Bien que Marine ait réduit son rythme de streams, elle a publié une courte vidéo muette, dans laquelle elle se fait hypnotiser par une application mobile. Contrairement à la vidéo d'avant, elle a enlevé sa jupe. La vidéo se termine brutalement après qu'elle ait repris ces esprits.",
+      "text": "Bien que Marine ait réduit son rythme de streams, elle a publié une courte vidéo muette, dans laquelle elle se fait hypnotiser par une application mobile. Contrairement à la vidéo d'avant, elle a enlevé sa jupe. La vidéo se termine brutalement après qu’elle ait repris ces esprits.",
       "bbox": {
         "x": 0.5244,
         "y": 0.3251,
@@ -56,8 +56,38 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Flare",
+      "bbox": {
+        "x": 0.1625,
+        "y": 0.6237,
+        "width": 0.12,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pekora a pris une petite pause cette semaine pour reposer sa voix. Elle est revenue le samedi et a continué son aventure sur Dragon Quest 8. Elle s’est aussi excusée de s'être absentée pendant 3 jours et a expliqué qu'elle comprenait maintenant l'importance des jours de repos. Pekora n'a même pas joué à ARK durant sa pause et a annoncé qu'elle pourrait désormais prendre de courtes pauses hebdomadaires.",
+      "text": "Récemment dans un stream discussion, Flare a dit qu’elle ne faisait rien mis à part jouer à ARK, manger et se coucher tard. De ce fait, elle voulait un peu se calmer avec le jeu. Elle a pris le temps de parler des mises à jour de sa chaîne, de son matériel et a répondu à quelques questions du tchat. Plus tard, Flare a raconté comment elle s’est rapprochée de Noel. Toutes deux ont remarqué qu’elles étaient fan de Planetes, un vieil animé de science-fiction rarement aimé par des filles.",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.6649,
+        "width": 0.4156,
+        "height": 0.2049
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.6237,
+        "width": 0.16,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora a pris une petite pause cette semaine pour reposer sa voix. Elle est revenue le samedi et a continué son aventure sur Dragon Quest 8. Elle s’est aussi excusée de s'être absentée pendant 3 jours et a expliqué qu’elle comprenait maintenant l’importance des jours de repos. Pekora n’a même pas joué à ARK durant sa pause et a annoncé qu’elle pourrait désormais prendre de courtes pauses hebdomadaires.",
       "bbox": {
         "x": 0.525,
         "y": 0.6654,

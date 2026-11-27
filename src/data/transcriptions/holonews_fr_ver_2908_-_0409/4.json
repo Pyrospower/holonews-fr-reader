@@ -3,51 +3,41 @@
   "issueId": "holonews_fr_ver_2908_-_0409",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "heading",
-      "text": "Kovalskia",
+      "type": "other",
+      "text": "KaelemaoDay\n2022",
       "bbox": {
-        "x": 0.1419,
-        "y": 0.3594,
-        "width": 0.7169,
-        "height": 0.0655
+        "x": 0.5133,
+        "y": 0.1844,
+        "width": 0.1111,
+        "height": 0.0702
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kaela Kovalskia",
+      "bbox": {
+        "x": 0.1378,
+        "y": 0.2785,
+        "width": 0.7233,
+        "height": 0.1481
       }
     },
     {
       "type": "paragraph",
-      "text": "Notre forgeronne préférée Kaela a fêté son anniversaire le 30 Août ! Elle a reçu des messages et des vidéos de 21 de ses senpais, cadets et collègues de sa génération qui ont dû donner",
+      "text": "Notre forgeronne préférée Kaela a fêté son anniversaire le 30 Août ! Elle a reçu des messages et des vidéos de 21 de ses senpais, cadets et collègues de sa génération qui ont dû donner le super pouvoirs qu’ils souhaiteraient s' ils pouvaient en avoir un. Kaela avait posé à Pemaoles dans l’onglet communauté de youtube la même question environ une semaine auparavant, pour « Aucune raison particulière ».",
       "bbox": {
         "x": 0.08,
         "y": 0.4805,
         "width": 0.3863,
-        "height": 0.0773
+        "height": 0.1866
       }
     },
     {
       "type": "paragraph",
-      "text": "le super pouvoirs qu'ils souhaiteraient s' ils pouvaient en avoir un. Kaela avait posé à",
-      "bbox": {
-        "x": 0.0806,
-        "y": 0.5573,
-        "width": 0.385,
-        "height": 0.0473
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Pemaoles dans l'onglet communauté de youtube la même question environ une semaine auparavant, pour « Aucune raison particulière ».",
-      "bbox": {
-        "x": 0.0806,
-        "y": 0.6055,
-        "width": 0.385,
-        "height": 0.0616
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Après avoir passé en revue les réponses de tout le monde, Kaela a révélé sa collection de produits dérivés d'anniversaire:",
+      "text": "Après avoir passé en revue les réponses de tout le monde, Kaela a révélé sa collection de produits dérivés d’anniversaire:",
       "bbox": {
         "x": 0.08,
         "y": 0.6862,
@@ -57,32 +47,12 @@
     },
     {
       "type": "paragraph",
-      "text": "• Une plaque en acrylique, illustré par Teita",
+      "text": "• Une plaque en acrylique, illustré par Teita\n• Un set de verre avec un verre, une paille et leur brosse.\n• Un dessous de verre\n• Trois voix de situations différentes en anglais, indonésien et japonais (les voix anglaises et indonésiennes viennent en 1).",
       "bbox": {
         "x": 0.0963,
         "y": 0.7708,
         "width": 0.37,
-        "height": 0.0317
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un set de verre avec un verre, une paille et leur brosse.\n• Un dessous de verre",
-      "bbox": {
-        "x": 0.0963,
-        "y": 0.822,
-        "width": 0.3694,
-        "height": 0.0447
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Trois voix de situations différentes en anglais, indonésien et japonais (les voix anglaises et indonésiennes viennent en 1).",
-      "bbox": {
-        "x": 0.0963,
-        "y": 0.8898,
-        "width": 0.37,
-        "height": 0.0638
+        "height": 0.1828
       }
     },
     {
@@ -97,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Kaela a aussi amené Zeta et Kobo sur le stream pour un appel mignon mais surtout chaotique. Kobo a même préparé une chanson originale pour la personne la plus importante de la journée! Les célébrations ont continué dans un autre stream, plus tard, dans lequel Kaela a fait une réaction à une chanson faite par ses fans dans le discord Kaela's workshop, puis à la première de sa première reprise, « Phoenix » de League of Legends.",
+      "text": "Kaela a aussi amené Zeta et Kobo sur le stream pour un appel mignon mais surtout chaotique. Kobo a même préparé une chanson originale pour la personne la plus importante de la journée! Les célébrations ont continué dans un autre stream, plus tard, dans lequel Kaela a fait une réaction à une chanson faite par ses fans dans le discord Kaela’s workshop, puis à la première de sa première reprise, « Phoenix » de League of Legends.",
       "bbox": {
         "x": 0.5313,
         "y": 0.7708,

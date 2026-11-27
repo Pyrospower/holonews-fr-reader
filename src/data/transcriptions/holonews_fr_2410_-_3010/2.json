@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_2410_-_3010",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "RIKKA ANNIV",
+      "bbox": {
+        "x": 0.091,
+        "y": 0.032,
+        "width": 0.232,
+        "height": 0.172
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Rikka a célébré son 3e anniversaire avec A Piece of Parallel Time, un concert 3D. En une heure, les spectateurs ont pu profiter de neuf chansons, avec en guise de transitions quelques courtes vidéos à propos de l'aventure de Rikka depuis sa création.",
+      "text": "Rikka a célébré son 3e anniversaire avec A Piece of Parallel Time, un concert 3D. En une heure, les spectateurs ont pu profiter de neuf chansons, avec en guise de transitions quelques courtes vidéos à propos de l’aventure de Rikka depuis sa création.",
       "bbox": {
         "x": 0.075,
         "y": 0.217,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Il a été montré que Rikka a été créé par deux scientifiques (qui étaient interprétés par deux invités, Yuuki Ono et Amatsuki) le 15 avril 2019. Les spectateurs ont pu voir ce a quoi pensait Rikka pendant qu'il attendait pour rencontrer ses genmates, alors qu'il terminait son premier stream, et alors qu'il entrait dans sa seconde et sa troisième année de streaming.",
+      "text": "Il a été montré que Rikka a été créé par deux scientifiques (qui étaient interprétés par deux invités, Yuuki Ono et Amatsuki) le 15 avril 2019. Les spectateurs ont pu voir ce à quoi pensait Rikka pendant qu’il attendait pour rencontrer ses genmates, alors qu’il terminait son premier stream, et alors qu’il entrait dans sa seconde et sa troisième année de streaming.",
       "bbox": {
         "x": 0.075,
         "y": 0.4045,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Entre plusieurs vidéos qui portaient sur l’histoire de son personnage, Rikka a chanté des chansons émouvantes comme « Eine Kleine », « Platina » et « And that's why I gave up on music », qui était d'ailleurs sa toute première reprise. Il a aussi chanté « Love Letter », et l'a aussi sortie a la fin du stream pour remercier ses fans de tout leur soutien.",
+      "text": "Entre plusieurs vidéos qui portaient sur l’histoire de son personnage, Rikka a chanté des chansons émouvantes comme « Eine Kleine », « Platina » et « And that’s why I gave up on music », qui était d’ailleurs sa toute première reprise. Il a aussi chanté « Love Letter », et l’a aussi sortie à la fin du stream pour remercier ses fans de tout leur soutien.",
       "bbox": {
         "x": 0.075,
         "y": 0.6749,
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Rikka a fait part de la joie qu'il avait de chanter de nouveau après 2nd Act et qu'il en avait les larmes aux yeux. Il a annoncé à ses spectateurs qu’il y avait de nombreux détails dans le stream et qu'il aimerait qu'ils le voient de nouveau. Pour commémorer son anniversaire, il a aussi créé de nouveaux produits dérivés :",
+      "text": "Rikka a fait part de la joie qu’il avait de chanter de nouveau après 2nd Act et qu’il en avait les larmes aux yeux. Il a annoncé à ses spectateurs qu’il y avait de nombreux détails dans le stream et qu’il aimerait qu’ils le voient de nouveau. Pour commémorer son anniversaire, il a aussi créé de nouveaux produits dérivés :",
       "bbox": {
         "x": 0.3675,
         "y": 0.5039,
@@ -47,47 +57,17 @@
     },
     {
       "type": "paragraph",
-      "text": "Une horloge en acrylique",
+      "text": "• Une horloge en acrylique\n• Un pin’s\n• Un coussin taille réelle de Spanner façon die-cut.\n• Un mug avec un logo\n• Un pack de voix « À la maison avec Rikka »",
       "bbox": {
-        "x": 0.3825,
+        "x": 0.38,
         "y": 0.7461,
-        "width": 0.1681,
-        "height": 0.0308
+        "width": 0.2457,
+        "height": 0.1423
       }
     },
     {
       "type": "paragraph",
-      "text": "Un pin’s",
-      "bbox": {
-        "x": 0.4019,
-        "y": 0.7791,
-        "width": 0.0775,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Un coussin taille réelle de Spanner façon die-cut.",
-      "bbox": {
-        "x": 0.4013,
-        "y": 0.7956,
-        "width": 0.2244,
-        "height": 0.0438
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Un mug avec un logo Un pack de voix « À la maison avec Rikka »",
-      "bbox": {
-        "x": 0.4019,
-        "y": 0.8446,
-        "width": 0.2138,
-        "height": 0.0438
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "En achetant la totalité du set, vous recevrez un autographe manuscrit et un message dupliqué et imprimé a chaud.",
+      "text": "En achetant la totalité du set, vous recevrez un autographe manuscrit et un message dupliqué et imprimé à chaud.",
       "bbox": {
         "x": 0.6594,
         "y": 0.5035,
@@ -97,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Avant la fin du stream, Rikka a annoncé la sortie de sa 4 chanson originale, « 3104 ». La chanson parle de dystopie, et il dit que pour l'instant, il ne compte pas faire de clip. Après avoir terminé le stream avec cette nouvelle chanson, Rikka a teasé la suite de son histoire, en demandant « Prêts pour des émotions secrètes ? » et en montrant une vidéo de lui téléchargeant des informations secrètes.",
+      "text": "Avant la fin du stream, Rikka a annoncé la sortie de sa 4e chanson originale, « 3104 ». La chanson parle de dystopie, et il dit que pour l’instant, il ne compte pas faire de clip. Après avoir terminé le stream avec cette nouvelle chanson, Rikka a teasé la suite de son histoire, en demandant « Prêts pour des émotions secrètes ? » et en montrant une vidéo de lui téléchargeant des informations secrètes.",
       "bbox": {
         "x": 0.6587,
         "y": 0.6059,

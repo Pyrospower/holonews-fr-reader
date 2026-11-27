@@ -3,11 +3,21 @@
   "issueId": "holonews_uproar_debut_special_-_fr_version",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Hizaki Gamma",
+      "bbox": {
+        "x": 0.0181,
+        "y": 0.0156,
+        "width": 0.4219,
+        "height": 0.1476
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le lendemain, Gamma a été le premier à faire ses débuts, et il s'est avéré être un mangaka hyper fétard, tel qu'il l'avait dit. Il a d'abord montré un gros plan de son visage, en précisant qu'il n'avait pas prévu de le faire.",
+      "text": "Le lendemain, Gamma a été le premier à faire ses débuts, et il s'est avéré être un mangaka hyper fêtard, tel qu'il l'avait dit. Il a d'abord montré un gros plan de son visage, en précisant qu'il n'avait pas prévu de le faire.",
       "bbox": {
         "x": 0.0325,
         "y": 0.1762,

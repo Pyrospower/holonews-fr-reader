@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0404_-_1004",
   "page": 17,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,23 +16,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Fuma a rendu Ollie très heureuse après l'avoir appelé « Aneki » dans son précédent stream sur Apex. Ce moment a aussi titillé beaucoup d'artistes qui l’ont dessiné comme le plus jeune de la fratrie du combo Astellie. Ollie a retweeté certains de ces fanarts en disant que la famille s'agrandit. Astel a lui aussi retweeté un artwork, et vu que leur combinaison de couleur fait jaune, bleu et rouge, il a dit qu’ils ressemblaient a un feu de signalisation japonais.",
+      "type": "heading",
+      "text": "Nouveau frère ?",
       "bbox": {
-        "x": 0.07,
-        "y": 0.2209,
-        "width": 0.3931,
-        "height": 0.1523
+        "x": 0.255,
+        "y": 0.183,
+        "width": 0.227,
+        "height": 0.026
       }
     },
     {
       "type": "paragraph",
-      "text": "Bienvenue dans la famille d'addicte à Apex,",
+      "text": "Fuma a rendu Ollie très heureuse après l’avoir appelé « Aneki » dans son précédent stream sur Apex. Ce moment a aussi titillé beaucoup d’artistes qui l’ont dessiné comme le plus jeune de la fratrie du combo Astellie. Ollie a retweeté certains de ces fanarts en disant que la famille s'agrandit. Astel a lui aussi retweeté un artwork, et vu que leur combinaison de couleur fait jaune, bleu et rouge, il a dit qu’ils ressemblaient a un feu de signalisation japonais. Bienvenue dans la famille d'addicte à Apex, Fuma !",
       "bbox": {
-        "x": 0.0719,
-        "y": 0.3737,
-        "width": 0.3663,
-        "height": 0.0135
+        "x": 0.07,
+        "y": 0.2209,
+        "width": 0.3931,
+        "height": 0.1663
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Error",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.534,
+        "width": 0.18,
+        "height": 0.026
       }
     },
     {
@@ -47,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Dans le dernier épisode, un glissement de terrain a dévasté la ville entière de Aogami. Après s'en être remis, Shino (Sora) a prié les dieux pour sauver ses amis. Plusieurs années plus tard, en février 20XX, l'étudiant transféré du présent se réveille dans un train de la station Aogami. Elle reconnait Inukai Akane (Korone) du chapitre 1, essayant de réveiller son ami endormi Nekomiya Yuka (Okayu)",
+      "text": "Dans le dernier épisode, un glissement de terrain a dévasté la ville entière de Aogami. Après s’en être remis, Shino (Sora) a prié les dieux pour sauver ses amis. Plusieurs années plus tard, en février 20XX, l’étudiant transféré du présent se réveille dans un train de la station Aogami. Elle reconnait Inukai Akane (Korone) du chapitre 1, essayant de réveiller son ami endormi Nekomiya Yuka (Okayu)",
       "bbox": {
         "x": 0.0706,
         "y": 0.6155,
@@ -57,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La fin est difficile à décrire ici, mais le texte nous apprend qu'il y a eu une recrudescence de cas de personnes disparues à Aogami et que tous on était vu pour la dernière fois près de la station Aogami.",
+      "text": "La fin est difficile à décrire ici, mais le texte nous apprend qu’il y a eu une recrudescence de cas de personnes disparues à Aogami et que tous on était vu pour la dernière fois près de la station Aogami.",
       "bbox": {
         "x": 0.0706,
         "y": 0.7778,
@@ -76,6 +86,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Pacific Racing",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.182,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Annoncé au 2022 Super GT, Pacific Racing a sorti des images de leur NAC Ferrari décoré entièrement avec hololive, avec Sora, Akirose, Fubuki, Subaru, Marine, et Lamy. Les produits dérivés de Pacific x hololive seront toujours disponibles jusqu’au 18 avril.",
       "bbox": {
@@ -83,6 +103,16 @@
         "y": 0.2188,
         "width": 0.3713,
         "height": 0.1024
+      }
+    },
+    {
+      "type": "other",
+      "text": "Day1 - 6.11sat\nDay2 - 6.12sun",
+      "bbox": {
+        "x": 0.528,
+        "y": 0.395,
+        "width": 0.414,
+        "height": 0.02
       }
     },
     {
@@ -117,7 +147,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Nous avons eu trois collab sur KeyWe cette semaine, dont deux nouveaux duos et une qui continue depuis la semaine dernière. Watame et Lui ont continué leur manigance durant plus de trois heures. Du côté d’holoEN, les deux membres anglophones d’holoTori y ont joué. Mumei et Kiara ont travaillé ensemble pour faire marcher leur cervelle de moineau, les moments marquants étant les discussions sur les baie et l'offre de Mumei sur les échanges de doigts. Mais la collab la plus inattendu était sans doute Towa et Ayame, la Oni travaillant avec le Diable à la poste pendant deux heures. Pour les talents JP, c'était aussi un stream d'apprentissage de l'anglais !",
+      "text": "Nous avons eu trois collab sur KeyWe cette semaine, dont deux nouveaux duos et une qui continue depuis la semaine dernière. Watame et Lui ont continué leur manigance durant plus de trois heures. Du côté d’holoEN, les deux membres anglophones d’holoTori y ont joué. Mumei et Kiara ont travaillé ensemble pour faire marcher leur cervelle de moineau, les moments marquants étant les discussions sur les baie et l’offre de Mumei sur les échanges de doigts. Mais la collab la plus inattendu était sans doute Towa et Ayame, la Oni travaillant avec le Diable à la poste pendant deux heures. Pour les talents JP, c’était aussi un stream d’apprentissage de l’anglais !",
       "bbox": {
         "x": 0.5369,
         "y": 0.7522,

@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_1807_-_2407",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Débuts de TEMPUS *°",
+      "type": "other",
+      "text": "Débuts de TEMPUS",
       "bbox": {
         "x": 0.0263,
         "y": 0.0113,
@@ -26,8 +26,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "• Nouvelles tenues",
+      "type": "other",
+      "text": "Nouvelles tenues",
       "bbox": {
         "x": 0.7256,
         "y": 0.0117,
@@ -37,57 +37,37 @@
     },
     {
       "type": "heading",
-      "text": "lofi",
-      "bbox": {
-        "x": 0.8863,
-        "y": 0.1918,
-        "width": 0.0869,
-        "height": 0.0339
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "a fêté son anniversaire",
+      "text": "Iofi a fêté son anniversaire",
       "bbox": {
         "x": 0.7713,
-        "y": 0.2348,
+        "y": 0.1918,
         "width": 0.2056,
-        "height": 0.0447
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "concert 3D spécial",
-      "bbox": {
-        "x": 0.7963,
-        "y": 0.3793,
-        "width": 0.1806,
-        "height": 0.0482
+        "height": 0.0877
       }
     },
     {
       "type": "heading",
-      "text": "Calli",
+      "text": "Okayu a fait un concert 3D spécial",
       "bbox": {
-        "x": 0.8506,
-        "y": 0.4618,
-        "width": 0.1281,
-        "height": 0.0339
+        "x": 0.779,
+        "y": 0.31,
+        "width": 0.2,
+        "height": 0.114
       }
     },
     {
-      "type": "paragraph",
-      "text": "a fait son propre lcAncert 3D",
+      "type": "heading",
+      "text": "Calli a fait son propre concert 3D",
       "bbox": {
         "x": 0.7881,
-        "y": 0.5052,
+        "y": 0.4618,
         "width": 0.1938,
-        "height": 0.0707
+        "height": 0.1141
       }
     },
     {
       "type": "other",
-      "text": "Vous voulez nous aider ? N Rejoignez notre Discord ! NS",
+      "text": "Vous voulez nous aider ?\nRejoignez notre Discord !",
       "bbox": {
         "x": 0.4931,
         "y": 0.9366,

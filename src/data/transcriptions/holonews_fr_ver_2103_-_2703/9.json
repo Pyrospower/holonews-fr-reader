@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2103_-_2703",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 5",
+      "bbox": {
+        "x": 0.4373,
+        "y": 0.0167,
+        "width": 0.1267,
+        "height": 0.0241
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.1653,
+        "y": 0.1806,
+        "width": 0.0947,
+        "height": 0.0204
+      }
+    },
     {
       "type": "paragraph",
       "text": "La série impressionnante de Shishiron sur Elden Ring se poursuit puisqu'elle a vaincu au moins un boss par stream. Cette semaine, en trois streams, elle a vaincu un total de six boss. Elle a notamment tué Godfrey, le premier seigneur d'Elden, en moins de 30 minutes. Le boss suivant, Morgott, a été épargné pour l'instant car il a nommé une liste de boss pendant sa cinématique, gâchant la surprise car Shishiron ne les avait pas encore rencontrés. Maintenant, elle a prévu de s'attaquer aux autres en premier.",
@@ -16,13 +36,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.5352,
+        "width": 0.0853,
+        "height": 0.0222
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "L’aura enfantine de Kobo, la nouvelle membre d'hololD, a déclenché l'instinct maternel de Lamy, qui a décidé de devenir sa maman. Lamy a même demandé sur Twitter comment elle pourrait le devenir. Elle est complètement sous le charme.",
+      "text": "L’aura enfantine de Kobo, la nouvelle membre d'holoID, a déclenché l'instinct maternel de Lamy, qui a décidé de devenir sa maman. Lamy a même demandé sur Twitter comment elle pourrait le devenir. Elle est complètement sous le charme.",
       "bbox": {
         "x": 0.0688,
         "y": 0.5734,
         "width": 0.3863,
         "height": 0.0877
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.1653,
+        "y": 0.8009,
+        "width": 0.084,
+        "height": 0.0204
       }
     },
     {
@@ -36,13 +76,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.1796,
+        "width": 0.092,
+        "height": 0.0213
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Avec l'aide de son assistant lzutsu, Polka a mis en valeur le contenu de la brochure hololive SUPER EXPO 2022. Ils sont entrés dans les détails en parcourant la page de profil de chaque membre, en mettant en évidence leur emploi du temps quotidien lorsque cela était possible. Il y a beaucoup de choses que Polka n'a pas révélé, comme des articles et des interviews. Procurez-vous un exemplaire tant qu'il est encore disponible !",
+      "text": "Avec l'aide de son assistant Izutsu, Polka a mis en valeur le contenu de la brochure hololive SUPER EXPO 2022. Ils sont entrés dans les détails en parcourant la page de profil de chaque membre, en mettant en évidence leur emploi du temps quotidien lorsque cela était possible. Il y a beaucoup de choses que Polka n'a pas révélé, comme des articles et des interviews. Procurez-vous un exemplaire tant qu'il est encore disponible !",
       "bbox": {
         "x": 0.5369,
         "y": 0.2179,
         "width": 0.4006,
         "height": 0.1385
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Anya & Botan",
+      "bbox": {
+        "x": 0.652,
+        "y": 0.5009,
+        "width": 0.2133,
+        "height": 0.0213
       }
     },
     {

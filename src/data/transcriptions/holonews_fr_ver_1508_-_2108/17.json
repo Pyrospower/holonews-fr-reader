@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 17,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,13 +16,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "TOKOYAMI TOWA",
+      "type": "other",
+      "text": "TOKOYAMI TOWA\n&\nLA+ DARKNESSS",
       "bbox": {
         "x": 0.2781,
         "y": 0.1398,
         "width": 0.1288,
         "height": 0.0078
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Capcom",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.2734,
+        "width": 0.1288,
+        "height": 0.0217
       }
     },
     {
@@ -36,6 +46,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "hololive",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.2326,
+        "width": 0.1313,
+        "height": 0.0208
+      }
+    },
+    {
       "type": "paragraph",
       "text": "hololive organisera une foire à Shinjuku les 26 et 27 août. Il y aura des stands où vous pourrez gagner des pièces que vous pourrez dépenser dans le défi de la pastèque géante. Les prix de l'événement comprennent des cartes à l'effigie de AZKi, Matsuri, Aqua, Shion et Flare. Le grand prix est un happi, une veste traditionnelle portée lors des festivals japonais.",
       "bbox": {
@@ -46,7 +66,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Let's play",
       "bbox": {
         "x": 0.4081,
@@ -56,13 +76,153 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "“LET'S PLAY TERMINÉS",
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
       "bbox": {
         "x": 0.7356,
         "y": 0.4275,
         "width": 0.2094,
         "height": 0.0169
+      }
+    },
+    {
+      "type": "other",
+      "text": "葬回診\nsou kai shin",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.4661,
+        "width": 0.26,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "other",
+      "text": "CYBERPUNK BARTENDER ACTION\nVA-11 Hall-A",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.5425,
+        "width": 0.26,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "other",
+      "text": "Before The Night",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.6189,
+        "width": 0.26,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "other",
+      "text": "HOUSE FLIPPER",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.6944,
+        "width": 0.26,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "other",
+      "text": "Cooking Simulator VR",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.77,
+        "width": 0.26,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "other",
+      "text": "CULT OF THE LAMB",
+      "bbox": {
+        "x": 0.2675,
+        "y": 0.8559,
+        "width": 0.165,
+        "height": 0.0391
+      }
+    },
+    {
+      "type": "other",
+      "text": "APEX",
+      "bbox": {
+        "x": 0.2675,
+        "y": 0.9323,
+        "width": 0.165,
+        "height": 0.0391
+      }
+    },
+    {
+      "type": "other",
+      "text": "DEAD SPACE",
+      "bbox": {
+        "x": 0.655,
+        "y": 0.4661,
+        "width": 0.26,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "other",
+      "text": "カービィのグルメフェス",
+      "bbox": {
+        "x": 0.655,
+        "y": 0.5425,
+        "width": 0.26,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "other",
+      "text": "YAKUZA KIWAMI 2",
+      "bbox": {
+        "x": 0.655,
+        "y": 0.6189,
+        "width": 0.26,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "other",
+      "text": "SURGEON SIMULATOR 2",
+      "bbox": {
+        "x": 0.655,
+        "y": 0.6944,
+        "width": 0.26,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "other",
+      "text": "FTL",
+      "bbox": {
+        "x": 0.655,
+        "y": 0.77,
+        "width": 0.26,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "other",
+      "text": "MOLLY. ONLINE",
+      "bbox": {
+        "x": 0.7375,
+        "y": 0.8559,
+        "width": 0.1663,
+        "height": 0.0391
+      }
+    },
+    {
+      "type": "other",
+      "text": "Kirby’s Dream Buffet",
+      "bbox": {
+        "x": 0.7375,
+        "y": 0.9323,
+        "width": 0.1663,
+        "height": 0.0391
       }
     }
   ],

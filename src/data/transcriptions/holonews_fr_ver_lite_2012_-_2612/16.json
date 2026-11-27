@@ -3,36 +3,66 @@
   "issueId": "holonews_fr_ver_lite_2012_-_2612",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Ollie, lofi et Bae ont réagi en direct en stream au concert « Journey to Find",
+      "type": "heading",
+      "text": "MISC",
       "bbox": {
-        "x": 0.0513,
-        "y": 0.2617,
-        "width": 0.3956,
-        "height": 0.0334
+        "x": 0.1881,
+        "y": 0.0421,
+        "width": 0.1563,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie, Iofi & Baelz",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.2127,
+        "width": 0.3219,
+        "height": 0.0243
       }
     },
     {
       "type": "paragraph",
-      "text": "Stars » d'holostars, les adulant de tout @ p-",
+      "text": "Ollie, Iofi et Bae ont réagi en direct en stream au concert « Journey to Find Stars » d'holostars, les adulant de tout cœur.",
       "bbox": {
-        "x": 0.0513,
-        "y": 0.2795,
-        "width": 0.6313,
-        "height": 0.0751
+        "x": 0.05,
+        "y": 0.2609,
+        "width": 0.4063,
+        "height": 0.0664
       }
     },
     {
-      "type": "paragraph",
-      "text": "LET'S PLAY TERMINES",
+      "type": "heading",
+      "text": "LET’S PLAY",
+      "bbox": {
+        "x": 0.2213,
+        "y": 0.365,
+        "width": 0.3431,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "other",
+      "text": "LET'S PLAY TERMINÉS",
       "bbox": {
         "x": 0.8369,
         "y": 0.3659,
         "width": 0.0944,
         "height": 0.0308
+      }
+    },
+    {
+      "type": "other",
+      "text": "Lost in Random · UNDERTALE · Doki Doki Literature Club!\nTHE iDOLM@STER STARLIGHT STAGE · The Cruel King and the Great Hero · NEO: The World Ends with You\nRhythm Heaven Fever · Girl’s Side 4th Heart · Ori and the Blind Forest Definitive Edition\nEmily Wants to Play · UNDERTALE GENOCIDE · Jump King: There Is a Smoking Hot Babe at the Top\nBig Brain Academy: Brain vs. Brain · Super Bunny Man · Minecraft Disney DLC\nUltimate Chicken Horse · Cake Bash · Quest Rooms",
+      "bbox": {
+        "x": 0.0362,
+        "y": 0.4214,
+        "width": 0.9219,
+        "height": 0.4141
       }
     }
   ],

@@ -3,11 +3,11 @@
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 20,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "Merci d'avoir lu ce numéro spécial d'HoloNews, -",
+      "text": "Merci d'avoir lu ce numéro spécial d'HoloNews,",
       "bbox": {
         "x": 0.1494,
         "y": 0.138,
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Un GRAND merci a Sana pour tous ses efforts,",
+      "text": "Un GRAND merci à Sana pour tous ses efforts,",
       "bbox": {
         "x": 0.2581,
         "y": 0.2565,
@@ -37,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d'HoloNews !",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
         "x": 0.1569,
         "y": 0.4449,

@@ -3,11 +3,21 @@
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "#1. Sana et Bae ont été invitées au Smash! 2022.",
+      "type": "other",
+      "text": "Tsukumo Sana Special Issue",
+      "bbox": {
+        "x": 0.3967,
+        "y": 0.0262,
+        "width": 0.2078,
+        "height": 0.0131
+      }
+    },
+    {
+      "type": "other",
+      "text": "#1. Sana et Bae ont été invitées\nau Smash! 2022.",
       "bbox": {
         "x": 0.115,
         "y": 0.2765,
@@ -16,18 +26,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "#5. Sana a battu I'Ender Dragon aux côtés du Council et d'IRyS.",
-      "bbox": {
-        "x": 0.0963,
-        "y": 0.8542,
-        "width": 0.3556,
-        "height": 0.0291
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "#2. Sana ramène une armée de Sanallites dans son stream sur Metroid Dread.",
+      "type": "other",
+      "text": "#2. Sana ramène une armée de\nSanallites dans son stream sur\nMetroid Dread.",
       "bbox": {
         "x": 0.5719,
         "y": 0.2691,
@@ -36,8 +36,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "#4. La premiére reprise en collaboration de Sana et Ina, « Futariboshi ».",
+      "type": "other",
+      "text": "#3. Le stream Tanabata\nd'Ina et Sana.",
+      "bbox": {
+        "x": 0.1522,
+        "y": 0.5633,
+        "width": 0.2378,
+        "height": 0.0293
+      }
+    },
+    {
+      "type": "other",
+      "text": "#4. La première reprise en\ncollaboration de Sana et Ina,\n« Futariboshi ».",
       "bbox": {
         "x": 0.5825,
         "y": 0.5638,
@@ -46,8 +56,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "#6. Le dernier stream de Sana sur sa chaîne.",
+      "type": "other",
+      "text": "#5. Sana a battu l'Ender Dragon aux\ncôtés du Council et d'IRyS.",
+      "bbox": {
+        "x": 0.0963,
+        "y": 0.8542,
+        "width": 0.3556,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "other",
+      "text": "#6. Le dernier stream de Sana sur\nsa chaîne.",
       "bbox": {
         "x": 0.56,
         "y": 0.8615,
@@ -56,8 +76,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "a Highlights : Page 3 ——",
+      "type": "other",
+      "text": "Highlights : Page 3",
       "bbox": {
         "x": 0.1475,
         "y": 0.9618,

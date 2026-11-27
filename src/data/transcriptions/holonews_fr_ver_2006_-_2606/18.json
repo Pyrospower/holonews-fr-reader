@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2006_-_2606",
   "page": 18,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,16 +13,6 @@
         "y": 0.0256,
         "width": 0.1431,
         "height": 0.0221
-      }
-    },
-    {
-      "type": "heading",
-      "text": "Paliers",
-      "bbox": {
-        "x": 0.6625,
-        "y": 0.1519,
-        "width": 0.1456,
-        "height": 0.023
       }
     },
     {
@@ -37,52 +27,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Anya 500k",
-      "bbox": {
-        "x": 0.6,
-        "y": 0.2214,
-        "width": 0.0894,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "_ wy Fuma 60k",
-      "bbox": {
-        "x": 0.7781,
-        "y": 0.2044,
-        "width": 0.1594,
-        "height": 0.0286
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "ee) Kaela 300k",
-      "bbox": {
-        "x": 0.8075,
-        "y": 0.2782,
-        "width": 0.1356,
-        "height": 0.0182
-      }
-    },
-    {
-      "type": "paragraph",
       "text": "Saviez-vous que nous publions toutes les semaines depuis presque deux ans ?",
       "bbox": {
         "x": 0.0725,
         "y": 0.2391,
         "width": 0.345,
         "height": 0.0265
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Hololive ch 1,75M",
-      "bbox": {
-        "x": 0.6019,
-        "y": 0.2813,
-        "width": 0.0888,
-        "height": 0.0247
       }
     },
     {
@@ -97,7 +47,27 @@
     },
     {
       "type": "heading",
-      "text": "Evénements a venir",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.6625,
+        "y": 0.1519,
+        "width": 0.1456,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "other",
+      "text": "Anya 500k\nFuma 60k\nHololive ch 1,75 M\nKaela 300k",
+      "bbox": {
+        "x": 0.6,
+        "y": 0.218,
+        "width": 0.345,
+        "height": 0.088
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Événements à venir",
       "bbox": {
         "x": 0.5387,
         "y": 0.3546,
@@ -107,37 +77,17 @@
     },
     {
       "type": "paragraph",
-      "text": "• 30 juin : première collaboration 3D d'holoX\n• 1 juillet : anniversaire d'AZKi",
+      "text": "• 30 juin : première collaboration 3D d'holoX\n• 1 juillet : anniversaire d'AZKi\n• 2 juillet : Anniversaire de Subaru\n• 3 juillet : Subaru, Botan, Matsuri et Nene au V-Clan « Summer Voyage »",
       "bbox": {
-        "x": 0.5725,
-        "y": 0.4115,
-        "width": 0.3213,
-        "height": 0.0638
+        "x": 0.57,
+        "y": 0.41,
+        "width": 0.35,
+        "height": 0.16
       }
     },
     {
-      "type": "paragraph",
-      "text": "• 2 juillet : Anniversaire de Subaru",
-      "bbox": {
-        "x": 0.5725,
-        "y": 0.4922,
-        "width": 0.3369,
-        "height": 0.0152
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 3 juillet : Subaru, Botan, Matsuri et Nene au V-Clan « Summer Voyage »",
-      "bbox": {
-        "x": 0.5725,
-        "y": 0.5243,
-        "width": 0.3319,
-        "height": 0.0473
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur, Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "type": "other",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
         "x": 0.0463,
         "y": 0.691,
@@ -146,7 +96,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "Merci d’avoir lu et à la semaine prochaine !",
       "bbox": {
         "x": 0.0463,

@@ -2,9 +2,19 @@
   "schemaVersion": 1,
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 4,
-  "lang": "fr",
-  "status": "auto",
+  "lang": "en",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "SANA INTERVIEW PAGE 3",
+      "bbox": {
+        "x": 0.0786,
+        "y": 0.0496,
+        "width": 0.6386,
+        "height": 0.0377
+      }
+    },
     {
       "type": "paragraph",
       "text": "Question: What made you interested in Japan and vtubers in the first place?",
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: I wasn't interested much at first but back then there were some people whom wanted to be friends with so I tried to find out more about their interests. Around the time VTubers started to get popular they were everywhere and I couldn’t really get away from them so I decided to give them a shot, and I got really hooked on Fubuki and Korone.",
+      "text": "Answer: I wasn’t interested much at first but back then there were some people whom I wanted to be friends with so I tried to find out more about their interests. Around the time VTubers started to get popular they were everywhere and I couldn’t really get away from them so I decided to give them a shot, and I got really hooked on Fubuki and Korone.",
       "bbox": {
         "x": 0.0794,
         "y": 0.4562,
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: I respect Watame-senpai a lot. Fubuki and Korone were the ones who got me into hololive, as I really like their personalities on stream and how much they care about their viewers and interact with them, but Watame-senpai will always have a special place in my heart. She was the first senpai I ever got to collab and interact with, and she has such a big heart. I aspired to give off the same kind of warmth as well. She's such a treasure.",
+      "text": "Answer: I respect Watame-senpai a lot. Fubuki and Korone were the ones who got me into hololive, as I really like their personalities on stream and how much they care about their viewers and interact with them, but Watame-senpai will always have a special place in my heart. She was the first senpai I ever got to collab and interact with, and she has such a big heart. I aspired to give off the same kind of warmth as well. She’s such a treasure.",
       "bbox": {
         "x": 0.0794,
         "y": 0.6532,
@@ -57,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: My genmates who have grown to become like my family. Meeting them made me glad that I took this opportunity. (°°)",
+      "text": "Answer: My genmates who have grown to become like my family. Meeting them made me glad that I took this opportunity. (°◡°♡)",
       "bbox": {
         "x": 0.0794,
         "y": 0.8932,
@@ -67,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: That's so nice! What were your impressions of them around the time of your debut, compared to your impressions of them now?",
+      "text": "Question: That’s so nice! What were your impressions of them around the time of your debut, compared to your impressions of them now?",
       "bbox": {
         "x": 0.5344,
         "y": 0.4132,
@@ -77,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: I think all of them were quite shy at first, so I tried to sort of make fun of myself in order to get them to open up to one another. had hoped that Fauna would be the kind of person to say sadistic things to me, but she really is just the cutest sweetheart.",
+      "text": "Answer: I think all of them were quite shy at first, so I tried to sort of make fun of myself in order to get them to open up to one another. I had hoped that Fauna would be the kind of person to say sadistic things to me, but she really is just the cutest sweetheart.",
       "bbox": {
         "x": 0.5337,
         "y": 0.4848,
@@ -97,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: Maybe (5°) Overall, my impression of them at the beginning was great but it has only strengthened so much since then. I find all of them so capable and strong and now I firmly believe that they are all people that I can trust to be friends for life.",
+      "text": "Answer: Maybe ( ͡° ͜ʖ ͡°) Overall, my impression of them at the beginning was great but it has only strengthened so much since then. I find all of them so capable and strong and now I firmly believe that they are all people that I can trust to be friends for life.",
       "bbox": {
         "x": 0.5337,
         "y": 0.6376,
@@ -107,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: That's really sweet, and we're sure they think the same of you too. They tell us all the time that you are always very hardworking. How do you stay focused while doing tasks?",
+      "text": "Question: That’s really sweet, and we’re sure they think the same of you too. They tell us all the time that you are always very hardworking. How do you stay focused while doing tasks?",
       "bbox": {
         "x": 0.5337,
         "y": 0.7504,
@@ -117,7 +127,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: If I need to stay awake I listen to EDM or metal. I need something really heavy and beaty so I don't fall asleep. I don’t usually listen to metal any more but it does the trick when I need to be focused. I also make sure to only do things one at a time. Make a list, check it twice!",
+      "text": "Answer: If I need to stay awake I listen to EDM or metal. I need something really heavy and beaty so I don’t fall asleep. I don’t usually listen to metal any more but it does the trick when I need to be focused. I also make sure to only do things one at a time. Make a list, check it twice!",
       "bbox": {
         "x": 0.5337,
         "y": 0.8364,

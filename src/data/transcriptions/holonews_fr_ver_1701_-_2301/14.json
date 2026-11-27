@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1701_-_2301",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,26 @@
         "y": 0.0755,
         "width": 0.3456,
         "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "HOLO THROW-DOWN!!\nHoloEN × HoloID\nMini Pokémon Tournament",
+      "bbox": {
+        "x": 0.09,
+        "y": 0.127,
+        "width": 0.38,
+        "height": 0.106
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.249,
+        "width": 0.105,
+        "height": 0.024
       }
     },
     {
@@ -36,33 +56,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "QS Ninomae Ina’nis À holoEN @ =",
+      "type": "heading",
+      "text": "IRyS",
       "bbox": {
-        "x": 0.0413,
-        "y": 0.8498,
-        "width": 0.2069,
-        "height": 0.0252
-      }
-    },
-    {
-      "type": "other",
-      "text": "@ninomaeinanis",
-      "bbox": {
-        "x": 0.0888,
-        "y": 0.865,
-        "width": 0.0844,
-        "height": 0.0056
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "As said on the stream, I will be taking a week-ish break to recover from the coughing!! l'm sorry for making you all worry! ; w;; I'll be back soon to streaming as soon as l'm better!",
-      "bbox": {
-        "x": 0.0413,
-        "y": 0.8872,
-        "width": 0.4431,
-        "height": 0.0547
+        "x": 0.636,
+        "y": 0.249,
+        "width": 0.107,
+        "height": 0.025
       }
     },
     {
@@ -83,6 +83,16 @@
         "y": 0.4822,
         "width": 0.4288,
         "height": 0.1727
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.608,
+        "y": 0.719,
+        "width": 0.075,
+        "height": 0.024
       }
     },
     {

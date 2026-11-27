@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_3101_-_0602",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "HOLO FANTASY 4",
+      "text": "HOLO FANTASY",
       "bbox": {
         "x": 0.06,
         "y": 0.0577,
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1585,
+        "y": 0.2468,
+        "width": 0.1615,
+        "height": 0.0235
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "YouTube a publié une alpha des cadeaux d'abonnements ! Pendant qu'elle mangé des carottes trempées dans de la mayonnaise, elle a expliqué que cette fonctionnalité permettait d'offrir un abonnement à quelqu'un et d'en recevoir. Les Nousadgis lui ont offert un nombre massif de cadeau d'abonnement, allant d’un simple cadeau à 5, 10 voire 20 abonnements offerts ! Pekora a accueilli les nouveaux membres en annonçant qu’elle regardait prochainement un film avec ces nouveaux compagnons.",
+      "text": "YouTube a publié une alpha des cadeaux d'abonnements ! Pendant qu'elle mangé des carottes trempées dans de la mayonnaise, elle a expliqué que cette fonctionnalité permettait d'offrir un abonnement à quelqu'un et d'en recevoir. Les Nousagis lui ont offert un nombre massif de cadeau d’abonnement, allant d’un simple cadeau à 5, 10 voire 20 abonnements offerts ! Pekora a accueilli les nouveaux membres en annonçant qu’elle regardait prochainement un film avec ces nouveaux compagnons.",
       "bbox": {
         "x": 0.05,
         "y": 0.2886,
@@ -27,12 +37,22 @@
     },
     {
       "type": "paragraph",
-      "text": "KonPeko ! KonPeko ! KonPeko ! Pekora a maintenant sa propre figurine, de la série POP UP PARADE. La figurine fait 18cm de haut et est entièrement peinte. Les précommandes sont disponibles sur GoodSmile jusqu'au 2 mars, donc dépêchez vous d’en commander une ! Date d'envoi prévue pour juin 2022.",
+      "text": "KonPeko ! KonPeko ! KonPeko ! Pekora a maintenant sa propre figurine, de la série POP UP PARADE. La figurine fait 18cm de haut et est entièrement peinte. Les précommandes sont disponibles sur GoodSmile jusqu’au 2 mars, donc dépêchez vous d’en commander une ! Date d'envoi prévue pour juin 2022.",
       "bbox": {
         "x": 0.0494,
         "y": 0.5143,
         "width": 0.4181,
         "height": 0.1276
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Noel",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.7724,
+        "width": 0.1015,
+        "height": 0.0246
       }
     },
     {
@@ -46,8 +66,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gen 3",
+      "bbox": {
+        "x": 0.8262,
+        "y": 0.3024,
+        "width": 0.1215,
+        "height": 0.0235
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "La seconde partie de la collaboration d'HoloFantasy avec Raku Spa est arrivée ! Les illustrations d’holoFantasy en peignoir sont sorties. De nombreux produits en rapport avec la collaboration comme des dessins, des bannières, des pins ou bien des posters sont en vente. Pas seulement des accessoires, mais aussi de la nourriture ! Une édition limitée d’un des posters est accompagnée d’un pancake avec une soucoupe !",
+      "text": "La seconde partie de la collaboration d’HoloFantasy avec Raku Spa est arrivée ! Les illustrations d’holoFantasy en peignoir sont sorties. De nombreux produits en rapport avec la collaboration comme des dessins, des bannières, des pins ou bien des posters sont en vente. Pas seulement des accessoires, mais aussi de la nourriture ! Une édition limitée d’un des posters est accompagnée d’un pancake avec une soucoupe !",
       "bbox": {
         "x": 0.5219,
         "y": 0.3433,
@@ -56,8 +86,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Flare",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.7179,
+        "width": 0.12,
+        "height": 0.0256
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "L'auteur d’Air, Clannad et Little Busters! vient avec un nouveau jeu, Heaven Burns Red, un RPG sur mobile. Flare a fait un stream sponsorisé durant lequel elle a visionné le live officiel dédié au lancement du jeu. Par ailleurs, elle a joué au jeu avant sa sortie ! Elle a montré du gameplay du jeu ainsi que son aspect gacha.",
+      "text": "L’auteur d’Air, Clannad et Little Busters! vient avec un nouveau jeu, Heaven Burns Red, un RPG sur mobile. Flare a fait un stream sponsorisé durant lequel elle a visionné le live officiel dédié au lancement du jeu. Par ailleurs, elle a joué au jeu avant sa sortie ! Elle a montré du gameplay du jeu ainsi que son aspect gacha.",
       "bbox": {
         "x": 0.5225,
         "y": 0.7578,

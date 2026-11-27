@@ -3,16 +3,46 @@
   "issueId": "holonews_uproar_debut_special_-_fr_version",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Minase Rio",
+      "bbox": {
+        "x": 0.0213,
+        "y": 0.0087,
+        "width": 0.395,
+        "height": 0.1441
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Un fantôme qui est mort en révant de devenir une idole. Il a passé ses premiers jours en tant que fantôme à ne rien faire, jusqu'à ce que, grâce à l'invitation de Fuma, il décide encore une fois de devenir une idole. Il ne peut pas faire face aux fantômes et aux choses effrayantes autres que lui-même.",
+      "text": "Un fantôme qui est mort en rêvant de devenir une idole. Il a passé ses premiers jours en tant que fantôme à ne rien faire, jusqu'à ce que, grâce à l'invitation de Fuma, il décide encore une fois de devenir une idole. Il ne peut pas faire face aux fantômes et aux choses effrayantes autres que lui-même.",
       "bbox": {
         "x": 0.0317,
         "y": 0.1713,
         "width": 0.575,
         "height": 0.1478
+      }
+    },
+    {
+      "type": "other",
+      "text": "Triste",
+      "bbox": {
+        "x": 0.2737,
+        "y": 0.3828,
+        "width": 0.0875,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "other",
+      "text": "Heureux",
+      "bbox": {
+        "x": 0.2188,
+        "y": 0.5503,
+        "width": 0.1175,
+        "height": 0.0234
       }
     }
   ],

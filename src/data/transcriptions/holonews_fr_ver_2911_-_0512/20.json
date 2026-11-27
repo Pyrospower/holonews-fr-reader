@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_2911_-_0512",
   "page": 20,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "ÉVÉNEMENTS Â VENIR",
+      "text": "ÉVÉNEMENTS À VENIR",
       "bbox": {
         "x": 0.0581,
         "y": 0.0326,
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "paragraph",
+      "text": "• 8 décembre : Anniversaire de Shion, HoloRo Anniversaire 12 heures de stream en relais\n• 9-12 décembre : Nouvelles tenues d’holoMyth\n• 10 décembre : Anniversaire de YAGOO\n• 11 décembre : Concert gratuit de Matsuri « Natsuiro Winter Festival»\n• 12 décembre : Second anniversaire du début de Temma\n• 13 décembre : Anniversaire d’Ayame",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.1137,
+        "width": 0.4406,
+        "height": 0.2956
+      }
+    },
+    {
       "type": "heading",
-      "text": "PALIERS D'ABONNES",
+      "text": "PALIERS D’ABONNÉS",
       "bbox": {
         "x": 0.5888,
         "y": 0.033,
@@ -26,78 +36,38 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "«8 décembre : Anniversaire de Shion, HoloRo Anniversaire 12 heures de stream en relais",
+      "type": "other",
+      "text": "SHIEN 175K\nKANATA 1.1 M\nLA+ 500 K\nLUI 300K\nKOYORI 350K\nCHLOE 500K\nIROHA 300K",
       "bbox": {
-        "x": 0.05,
-        "y": 0.1137,
-        "width": 0.405,
-        "height": 0.0495
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 9-12 décembre : Nouvelles tenues d'holoMyth",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.1849,
-        "width": 0.3838,
-        "height": 0.0339
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 10 décembre : Anniversaire de YAGOO",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.237,
-        "width": 0.4406,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 11 décembre : Concert gratuit de Matsuri « Natsuiro Winter Festival»",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.2717,
-        "width": 0.3906,
-        "height": 0.0304
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 12 décembre : Second anniversaire du début de Temma",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.3238,
-        "width": 0.43,
-        "height": 0.0304
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 13 décembre : Anniversaire Sega",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.3759,
-        "width": 0.4119,
-        "height": 0.0334
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "MASS, un serveur de projet orienté VTuber, a sorti son magazine numérique, pe Holo Zone Zine. Ce magazine fête le 2e anniversaire d’hololive Production en célébrant les talents préférés des fans avec leurs messages de soutien et leurs œuvres !",
-      "bbox": {
-        "x": 0.0506,
-        "y": 0.5326,
-        "width": 0.8988,
-        "height": 0.0885
+        "x": 0.63,
+        "y": 0.1376,
+        "width": 0.2188,
+        "height": 0.3385
       }
     },
     {
       "type": "heading",
-      "text": "Merci!",
+      "text": "Projets Fan",
+      "bbox": {
+        "x": 0.075,
+        "y": 0.5109,
+        "width": 0.2325,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "MASS, un serveur de projet orienté VTuber, a sorti son magazine numérique, The Holo Zone Zine. Ce magazine fête le 2e anniversaire d’hololive Production en célébrant les talents préférés des fans avec leurs messages de soutien et leurs œuvres !",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.5556,
+        "width": 0.8688,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci !",
       "bbox": {
         "x": 0.3881,
         "y": 0.6497,
@@ -106,23 +76,13 @@
       }
     },
     {
-      "type": "heading",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester a jour sur tout ce qui se rapporte a hololive, n’hésitez pas a rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la",
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews ! Merci d’avoir lu et à la semaine prochaine !",
       "bbox": {
         "x": 0.0538,
         "y": 0.6936,
         "width": 0.8856,
-        "height": 0.0977
-      }
-    },
-    {
-      "type": "heading",
-      "text": "création d’HoloNews ! Merci d’avoir lu et à la semaine prochaine !",
-      "bbox": {
-        "x": 0.3181,
-        "y": 0.7925,
-        "width": 0.3425,
-        "height": 0.0751
+        "height": 0.174
       }
     }
   ],

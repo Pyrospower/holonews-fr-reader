@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_3005_-_0506",
   "page": 17,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,16 +13,6 @@
         "y": 0.0182,
         "width": 0.2706,
         "height": 0.0282
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "En outre, les fans ont envoyé des photos hollywoodiennes des membres du groupe présentant l'architecture, les paysages et les sites touristiques de leur pays, donnant l'impression qu'ils étaient en tournée dans le monde entier. Enfin, il y avait aussi des messages de vœux pour leur anniversaire dans différentes langues et des fan arts du monde entier. Si vous ne l'avez pas encore écouté, allez-y maintenant !",
-      "bbox": {
-        "x": 0.5394,
-        "y": 0.0794,
-        "width": 0.3681,
-        "height": 0.1224
       }
     },
     {
@@ -37,22 +27,62 @@
     },
     {
       "type": "paragraph",
-      "text": "Le 3 juin, un projet de fans a été publié dans le cadre du troisième anniversaire de _ HOLOSTARS organisé par [IEATNEE] JtFS World Edition team. Starlights a montré tout son talent en reprenant en édition mondiale la chanson originale de HOLOSTARS, « Journey to Find Stars ». La",
+      "text": "Le 3 juin, un projet de fans a été publié dans le cadre du troisième anniversaire de HOLOSTARS organisé par 【非公式企画】 JtFS World Edition team. Starlights a montré tout son talent en reprenant en édition mondiale la chanson originale de HOLOSTARS, « Journey to Find Stars ». La chanson a été traduite dans un total de quinze langues différentes, dont l'anglais, le portugais, l'indonésien, le thaïlandais, l'espagnol, le japonais, le birman, le français, le chinois mandarin, le chinois cantonais, le finnois, le malais, l'italien, le philippin et l'allemand.",
       "bbox": {
-        "x": 0.0712,
+        "x": 0.0706,
         "y": 0.2439,
-        "width": 0.3875,
-        "height": 0.0859
+        "width": 0.3888,
+        "height": 0.1589
       }
     },
     {
       "type": "paragraph",
-      "text": "chanson a été traduite dans un total de quinze langues différentes, dont l'anglais, le portugais, l'indonésien, le thaïlandais, l'espagnol, le japonais, le birman, le francais, le chinois mandarin, le chinois cantonais, le finnois, le malais, l'italien, le philippin et l'allemand.",
+      "text": "En outre, les fans ont envoyé des photos hollywoodiennes des membres du groupe présentant l'architecture, les paysages et les sites touristiques de leur pays, donnant l'impression qu'ils étaient en tournée dans le monde entier. Enfin, il y avait aussi des messages de vœux pour leur anniversaire dans différentes langues et des fan arts du monde entier. Si vous ne l'avez pas encore écouté, allez-y maintenant !",
       "bbox": {
-        "x": 0.0706,
-        "y": 0.3273,
-        "width": 0.3888,
-        "height": 0.0755
+        "x": 0.5394,
+        "y": 0.0794,
+        "width": 0.3681,
+        "height": 0.1224
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.405,
+        "y": 0.422,
+        "width": 0.189,
+        "height": 0.031
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.732,
+        "y": 0.426,
+        "width": 0.217,
+        "height": 0.019
+      }
+    },
+    {
+      "type": "other",
+      "text": "BIOSHOCK INFINITE\nWHAT THE GOLF?\nPeglin\nFRIDAY NIGHT FUNKIN’\nTHE RAMEN SENSEI\nOVERCOOKED! 2\nTHE STANLEY PARABLE ULTRA DELUXE",
+      "bbox": {
+        "x": 0.188,
+        "y": 0.47,
+        "width": 0.266,
+        "height": 0.511
+      }
+    },
+    {
+      "type": "other",
+      "text": "INSANIQUARIUM! DELUXE\nTALES OF THE ABYSS\nJump King\nGOROGOA\n13 SENTINELS: AEGIS RIM\nDEEEER Simulator\nit takes two",
+      "bbox": {
+        "x": 0.65,
+        "y": 0.47,
+        "width": 0.268,
+        "height": 0.511
       }
     }
   ],

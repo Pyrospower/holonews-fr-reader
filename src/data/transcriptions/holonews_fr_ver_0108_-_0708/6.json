@@ -3,18 +3,8 @@
   "issueId": "holonews_fr_ver_0108_-_0708",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
-    {
-      "type": "paragraph",
-      "text": "Puisque Gamma est un fétard, sa tenue de capitaine blanche aux accents rouges était un peu plus osée. Il expose sa poitrine et ses clavicules, et a même coiffé ses cheveux de façon à montrer son front, mais il a gardé une certaine classe avec ses chaussures blanches et son chapeau de capitaine. Il a également beaucoup d'accessoires, comme des boucles d'oreilles, un mouchoir, des ceintures à chaînes et des gants.",
-      "bbox": {
-        "x": 0.0611,
-        "y": 0.7527,
-        "width": 0.4128,
-        "height": 0.2106
-      }
-    },
     {
       "type": "paragraph",
       "text": "Uyu a dévoilé sa nouvelle tenue, de ses talons haut jusqu'à son chapeau de marin. Sa tenue est une version moderne de l'uniforme d'un capitaine de marine. Elle est blanche avec des accents roses et est en grande partie recouverte d'une cape. Il a une nouvelle coupe de cheveux légèrement plaqué en arrière. Jyako (sa partenaire) a également fait une apparition. Elle porte un pompon doré avec une ancre et son propre chapeau de capitaine.",
@@ -22,6 +12,16 @@
         "x": 0.4811,
         "y": 0.0498,
         "width": 0.4567,
+        "height": 0.2106
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Puisque Gamma est un fétard, sa tenue de capitaine blanche aux accents rouges était un peu plus osée. Il expose sa poitrine et ses clavicules, et a même coiffé ses cheveux de façon à montrer son front, mais il a gardé une certaine classe avec ses chaussures blanches et son chapeau de capitaine. Il a également beaucoup d'accessoires, comme des boucles d'oreilles, un mouchoir, des ceintures à chaînes et des gants.",
+      "bbox": {
+        "x": 0.0611,
+        "y": 0.7527,
+        "width": 0.4128,
         "height": 0.2106
       }
     }

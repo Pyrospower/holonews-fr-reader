@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0612_-_1212",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -26,23 +26,43 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Risu a été réincarnée dans le serveur Minecraft d’hololD, et ne communique avec",
+      "type": "other",
+      "text": "illust by :\n@ULTRARIS",
       "bbox": {
-        "x": 0.2888,
-        "y": 0.1827,
-        "width": 0.1819,
-        "height": 0.0799
+        "x": 0.172,
+        "y": 0.167,
+        "width": 0.08,
+        "height": 0.016
       }
     },
     {
       "type": "paragraph",
-      "text": "le monde extérieur Moona que via des vidéos Moona a fait une stream « Unpacking » cryptiques de « (déballage) surprise . Mais elle n'a rien Padoru » déballé, elle a joué au jeu du même nom.",
+      "text": "Risu a été réincarnée dans le serveur Minecraft d’holoID, et ne communique avec le monde extérieur que via des vidéos cryptiques de « Padoru »",
       "bbox": {
-        "x": 0.2888,
-        "y": 0.2474,
-        "width": 0.6388,
-        "height": 0.0803
+        "x": 0.2875,
+        "y": 0.1832,
+        "width": 0.19,
+        "height": 0.141
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.248,
+        "width": 0.156,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moona a fait une stream « Unpacking » (déballage) surprise . Mais elle n'a rien déballé, elle a joué au jeu du même nom.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.28,
+        "width": 0.409,
+        "height": 0.045
       }
     },
     {
@@ -56,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.529,
+        "width": 0.105,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Dans son stream de cuisine sur le thème d’Earthbound, Calli a annoncé qu'elle ne pourrait pas passer les vacances avec sa famille cette année, car elle a dû annuler son voyage à cause du COVID. Ame",
+      "text": "Dans son stream de cuisine sur le thème d’Earthbound, Calli a annoncé qu’elle ne pourrait pas passer les vacances avec sa famille cette année, car elle a dû annuler son voyage à cause du COVID.",
       "bbox": {
         "x": 0.0506,
         "y": 0.5703,
@@ -67,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pendant qu'elle présentait sa nouvelle tenue, Calli a annoncé un nouvel album remix : une version lo-fi hip hop de « Your Mori », prévu pour janvier 2022. L'aloum sera composé de 8 pistes, dont les instrumentaux de dj-Jo, ainsi que de nouveaux enregistrements, et une illustration faite par Calli. Elle a chanté toutes les chansons en live, dans sa nouvelle tenue. a. 423,",
+      "text": "Pendant qu’elle présentait sa nouvelle tenue, Calli a annoncé un nouvel album remix : une version lo-fi hip hop de « Your Mori », prévu pour janvier 2022. L’album sera composé de 8 pistes, dont les instrumentaux de dj-Jo, ainsi que de nouveaux enregistrements, et une illustration faite par Calli. Elle a chanté toutes les chansons en live, dans sa nouvelle tenue.",
       "bbox": {
         "x": 0.5206,
         "y": 0.5269,
@@ -76,63 +106,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ame",
+      "bbox": {
+        "x": 0.14,
+        "y": 0.671,
+        "width": 0.137,
+        "height": 0.028
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après de nombreuses morts, des heures de frustration et du sel,",
+      "text": "Après de nombreuses morts, des heures de frustration et du sel, Ame a finalement atteint le boss final de DKC: Tropical Freeze. Après plusieurs essais ratés, Ame a invoqué Smol Ame. Smol Ame a dit que Ame était rentrée pleurer chez elle, s'est vantée d'être une vraie joueuse et d’avoir déjà battu le boss du premier coup.",
       "bbox": {
         "x": 0.05,
         "y": 0.7214,
         "width": 0.5988,
-        "height": 0.0143
+        "height": 0.0924
       }
     },
     {
       "type": "paragraph",
-      "text": "Ame a finalement atteint le boss final de DKC: Tropical Freeze. Après plusieurs essais ratés, Ame a invoqué Smol Ame. Smol",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.7365,
-        "width": 0.585,
-        "height": 0.0295
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Ame a dit que Ame était rentrée pleurer chez elle, s'est vantée d'être une vraie joueuse et d’avoir déjà battu le boss du premier",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.7669,
-        "width": 0.5919,
-        "height": 0.0295
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "coup.",
-      "bbox": {
-        "x": 0.0506,
-        "y": 0.7943,
-        "width": 0.0494,
-        "height": 0.0195
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Après avoir perdu et frappé son clavier, elle a arrêté le stream, est revenue après un moment, puis a recommencé, encore et encore. Apres étre revenue pour la énieme fois, le stream a",
+      "text": "Après avoir perdu et frappé son clavier, elle a arrêté le stream, est revenue après un moment, puis a recommencé, encore et encore. Après être revenue pour la énième fois, le stream a affiché les crédits de fin : Ame expliqua qu’elle avait battu le boss après une dizaine d’essais hors stream. Quelques heures plus tard, dans son stream discussion, elle a montré une photo de son clavier cassé.",
       "bbox": {
         "x": 0.05,
         "y": 0.8277,
-        "width": 0.5794,
-        "height": 0.0447
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "3 = 2 hig q 5 5 affiché les crédits de fin : Ame expliqua qu’elle avait battu le boss après une dizaine d'essais hors stream. Quelques heures plus tard, dans son stream discussion, elle a montré une photo de son clavier cassé.",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.8733,
         "width": 0.6088,
-        "height": 0.0569
+        "height": 0.1025
       }
     }
   ],

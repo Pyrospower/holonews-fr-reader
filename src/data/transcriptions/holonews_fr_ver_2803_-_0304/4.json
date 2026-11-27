@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2803_-_0304",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0309,
         "width": 0.4128,
         "height": 0.0567
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chama",
+      "bbox": {
+        "x": 0.5611,
+        "y": 0.081,
+        "width": 0.0411,
+        "height": 0.0085
       }
     },
     {
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Miko, bouche bée devant la gentillesse de Haato, lui a demandé d'être tsundere et a décidé de l'épouser. Watame a assisté à la dernière partie et a décidé d'oublier ce qui venait de se passer car elle voulait aussi entendre Haato se confesser à elle. Chloe lui a demandé de faire un mélodieux « moe moe kyun- », et en retour, Haato lui a demandé de prendre un bain, provoquant la fuite immédiate de Chloe. Aki a souhaité entendre l'ancienne salutation de Haato une fois de plus et s'est faite couper la tête (dans le cadre de la même salutation), puis elles ont promis de jouer à Minecraft ensemble une autre fois. Ollie est arrivé en criant comme d'habitude et a immédiatement demandé Haato en mariage, mais Haato a refusé parce qu'elle était déjà fiancée à Miko et Watame et a demandé à Ollie de se contenter d'un simple baiser.",
+      "text": "Miko, bouche bée devant la gentillesse de Haato, lui a demandé d'être tsundere et a décidé de l'épouser. Watame a assisté à la dernière partie et a décidé d'oublier ce qui venait de se passer car elle voulait aussi entendre Haato se confesser à elle. Chloe lui a demandé de faire un mélodieux « moe moe kyun~ », et en retour, Haato lui a demandé de prendre un bain, provoquant la fuite immédiate de Chloe. Aki a souhaité entendre l'ancienne salutation de Haato une fois de plus et s'est faite couper la tête (dans le cadre de la même salutation), puis elles ont promis de jouer à Minecraft ensemble une autre fois. Ollie est arrivé en criant comme d'habitude et a immédiatement demandé Haato en mariage, mais Haato a refusé parce qu'elle était déjà fiancée à Miko et Watame et a demandé à Ollie de se contenter d'un simple baiser.",
       "bbox": {
         "x": 0.5644,
         "y": 0.37,

@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2103_-_2703",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0174,
         "width": 0.1331,
         "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.1667,
+        "y": 0.1806,
+        "width": 0.116,
+        "height": 0.0204
       }
     },
     {
@@ -27,12 +37,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Après avoir partagé son histoire, il a commencé a parler de Elden Ring, jeu auquel il a joué pendant qu'il était malade, de l'épisode de WachaSTARS avec Shibasaki Noriko, de la SUPER EXPO et de sa prochaine apparition au tournoi VTuber Saikyou avec Kaga Sumire et Hanabusa Lisa. Roberu reprend les streams à son propre rythme, mais tout le monde est heureux qu'il se sente enfin mieux.",
+      "text": "Après avoir partagé son histoire, il a commencé à parler de Elden Ring, jeu auquel il a joué pendant qu'il était malade, de l'épisode de WachaSTARS avec Shibasaki Noriko, de la SUPER EXPO et de sa prochaine apparition au tournoi VTuber Saikyou avec Kaga Sumire et Hanabusa Lisa. Roberu reprend les streams à son propre rythme, mais tout le monde est heureux qu'il se sente enfin mieux.",
       "bbox": {
         "x": 0.0694,
         "y": 0.4249,
         "width": 0.3787,
         "height": 0.1584
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.1667,
+        "y": 0.7231,
+        "width": 0.0787,
+        "height": 0.0204
       }
     },
     {
@@ -56,6 +76,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.1806,
+        "width": 0.116,
+        "height": 0.0204
+      }
+    },
+    {
       "type": "paragraph",
       "text": "La radio de Roberu et Yuuki Ono, Hen na Radio, s'est arrêtée à 52 émissions, après un an d'antenne. Cela a toujours été le rêve de Roberu d'animer une radio, il était donc très heureux de pouvoir le faire avec quelqu'un comme Yuuki Ono. Roberu a remercié tous ceux qui ont aidé la radio au cours de l'année écoulée pour leur travail acharné.",
       "bbox": {
@@ -66,7 +96,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "HOLOSTARS",
       "bbox": {
         "x": 0.6319,
@@ -96,8 +126,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.6373,
+        "y": 0.8565,
+        "width": 0.0853,
+        "height": 0.0204
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "lzuru a ré-enregistré certaines chansons de ses streams intitulés « Goodnight unarchived piano ». Il l'a fait parce que son chant doux peut aider ceux qui ont du mal à s'endormir. Allez voir ses archives de superbes berceuses.",
+      "text": "Izuru a ré-enregistré certaines chansons de ses streams intitulés « Goodnight unarchived piano ». Il l'a fait parce que son chant doux peut aider ceux qui ont du mal à s'endormir. Allez voir ses archives de superbes berceuses.",
       "bbox": {
         "x": 0.5269,
         "y": 0.9015,

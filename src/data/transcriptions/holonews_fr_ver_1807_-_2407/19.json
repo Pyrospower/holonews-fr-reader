@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1807_-_2407",
   "page": 19,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,86 +17,76 @@
     },
     {
       "type": "paragraph",
-      "text": "[Botan] Animal: 1M",
+      "text": "07/18\n[Botan] Animal: 1M\n[AZKi] Hatokkai Solar Cycle: 100K\n[Aqua/Subaru/Nene] Panight: 250K\n[Roberu/Temma/Astel] Ah, Osaka Dreamin' Night: 1M\n[Rikka] Haru Wo Tsugeru (Piano): 75K\n[Sana] Astrogirl: 500K",
       "bbox": {
-        "x": 0.3338,
-        "y": 0.0625,
-        "width": 0.1525,
-        "height": 0.0122
+        "x": 0.047,
+        "y": 0.056,
+        "width": 0.444,
+        "height": 0.1
       }
     },
     {
       "type": "paragraph",
-      "text": "[AZKi] Hatokkai Solar Cycle: 100K [Aqua/Subaru/Nene] Panight: 250K [Roberu/Temma/Astel] Ah, Osaka Dreamin' Night: 1M [Rikka] Haru Wo Tsugeru (Piano): 75K [Sana] Astrogirl: 500K",
+      "text": "07/19\n[Aqua] Kira Kira: 2M\n[Calliope] Holy Shitto: 750K\n[Calliope/AmaLee] Villain Vibes: 1M\n[AZKi/Suisei] The Last Frontier: 750K\n[Calliope] Ijimeko Bully: 5M\n[Iofi] Dekat Di Hati: 50K",
       "bbox": {
-        "x": 0.0525,
-        "y": 0.079,
-        "width": 0.435,
-        "height": 0.0781
+        "x": 0.511,
+        "y": 0.056,
+        "width": 0.442,
+        "height": 0.1
       }
     },
     {
       "type": "paragraph",
-      "text": "07/ 20 [Aqua] Gyutto: 1M [Suisei/Taku Inoue] Highway: 100K [Ayame/Fubuki/Mio] Onikemodance: 2M [Watame] Chiki Chiki Ban Ban (Cover): 250K",
+      "text": "07/20\n[Aqua] Gyutto: 1M\n[Suisei/Taku Inoue] Highway: 100K\n[Ayame/Fubuki/Mio] Onikemodance: 2M\n[Watame] Chiki Chiki Ban Ban (Cover): 250K\n[Suisei] Yuurei Tokyo: 4M",
       "bbox": {
-        "x": 0.0488,
-        "y": 0.1706,
-        "width": 0.4406,
-        "height": 0.0673
+        "x": 0.047,
+        "y": 0.17,
+        "width": 0.444,
+        "height": 0.087
       }
     },
     {
       "type": "paragraph",
-      "text": "[Suisei] Yuurei Tokyo: 4M",
+      "text": "07/21\n[Fuma] Shanti: 50K\n[AZKi] Reflection: 100K\n[Koyori] Mixed Nuts (Cover): 100K\n[Aqua/Subaru/Nene] Yokubari Cute Girl: 100K\n[Koyori] Onegai Darling: 500K\n[Koyori] WAO!!: 500K",
       "bbox": {
-        "x": 0.2819,
-        "y": 0.2422,
-        "width": 0.2063,
-        "height": 0.0122
+        "x": 0.511,
+        "y": 0.175,
+        "width": 0.442,
+        "height": 0.097
       }
     },
     {
       "type": "paragraph",
-      "text": "[Suisei] Template: 4M [Mel] Darling Dance: 250K [Rikka] Re: Hello world: 500K [Flare] Goodbye Sengen: 750K [Flare] Carnival Happy: 100K [Matsuri] Jinsei wa Saikou no Hima Tsubushi (Cover): 100K",
+      "text": "07/22\n[Suisei] Template: 4M\n[Mel] Darling Dance: 250K\n[Rikka] Re: Hello world: 500K\n[Flare] Goodbye Sengen: 750K\n[Flare] Carnival Happy: 100K",
       "bbox": {
-        "x": 0.2356,
-        "y": 0.2739,
-        "width": 0.2519,
-        "height": 0.1263
+        "x": 0.047,
+        "y": 0.267,
+        "width": 0.444,
+        "height": 0.084
       }
     },
     {
       "type": "paragraph",
-      "text": "[Altare] Heartache (Cover): 100K",
+      "text": "07/23\n[Baelz] Play Dice: 3M\n[Kobo] Mantra Hujan: 5M\n[IRyS] Internet Overdose: 1M\n[Gura] Reflect (Animated): 5M\n[Calliope] Make ‘Em Afraid: 250K\n[Risu/Oga] Harapan PanPanPan: 50K\n[Nene] Hammer Song to Itami no Tou: 100K\n[Reine/Towa] Cynical Night Plan (Cover): 50K\n[Sora] Sekai Wa Mada Hajimatte Sura Inai: 100K\n[Fubuki/Matsuri/Shion/Ayame/Choco/Subaru/Pekora/Marine/Kanata] Dreaming Days: 500K\n[Kanata] Tondemo Wonders (Live): 1M\n[Suisei/Flare/Kanata/Lamy/Nene/Botan/Polka/ETC] Peace: 250K\n[Sora] Shoujo Rei (Cover): 50K\n[Iroha] Color of Drops: 250K\n[IRyS] Diorama: 500K",
       "bbox": {
-        "x": 0.2219,
-        "y": 0.4045,
-        "width": 0.265,
-        "height": 0.0122
+        "x": 0.511,
+        "y": 0.286,
+        "width": 0.442,
+        "height": 0.28
       }
     },
     {
       "type": "paragraph",
-      "text": "[Luna] Zettai Chuusei 9 Nanonanora: 50K [Akirose] Shikisai No Blues (Live): 25K [Kanata] Odo (Bon-Odo Remix): 500K [Axel] Yoidore Shirazu (Cover): 100K [Kobo] Tondemo Wonders: 750K",
+      "text": "07/24\n[Matsuri] Jinsei wa Saikou no Hima Tsubushi (Cover): 100K\n[Altare] Heartache (Cover): 100K\n[Luna] Zettai Chuusei ♡ Nanonanora: 50K\n[Akirose] Shikisai No Blues (Live): 25K\n[Kanata] Odo (Bon-Odo Remix): 500K\n[Axel] Yoidore Shirazu (Cover): 100K\n[Kobo] Tondemo Wonders: 750K\n[Temma] Shooting Star 75K",
       "bbox": {
-        "x": 0.1412,
-        "y": 0.4201,
-        "width": 0.3456,
-        "height": 0.079
+        "x": 0.047,
+        "y": 0.365,
+        "width": 0.444,
+        "height": 0.149
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Temma] Shooting Star 75K",
-      "bbox": {
-        "x": 0.2569,
-        "y": 0.5035,
-        "width": 0.225,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
+      "type": "other",
       "text": "REPRISE ORIGINALE NOUVEAU",
       "bbox": {
         "x": 0.0594,
@@ -106,363 +96,43 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Aqua] Kira Kira: 2M [Calliope] Holy Shitto: 750K",
+      "type": "other",
+      "text": "REPRISE | Koyori | MIXED NUTS\nREPRISE | Matsuri | JINSEI WA SAIKOU NO HIMA TSUBUSHI\nREPRISE | Sora | SHOUJO REI\nREPRISE | Watame | CHIKI-CHIKI BAN-BAN",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.0625,
-        "width": 0.2206,
-        "height": 0.0286
+        "x": 0.032,
+        "y": 0.583,
+        "width": 0.936,
+        "height": 0.086
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Calliope/AmaLee] Villain Vibes: 1M",
+      "type": "other",
+      "text": "CHANSON ORIGINAL | Calli | MAKE 'EM AFRAID\nCHANSON ORIGINAL | NEGI☆U | YOKUBARI CUTE GIRL\nCHANSON ORIGINAL | Sora | ZETTAI CHUUSEI ♡ NANONANORA!",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.0955,
-        "width": 0.2875,
-        "height": 0.0122
+        "x": 0.032,
+        "y": 0.669,
+        "width": 0.936,
+        "height": 0.115
       }
     },
     {
-      "type": "paragraph",
-      "text": "[AZKi/Suisei] The Last Frontier: 750K",
+      "type": "other",
+      "text": "CHANSON ORIGINAL | Mel | AKAKU NARANAIDE\nCHANSON ORIGINAL | Pekora | RARARA RABBIT!\nCHANSON ORIGINAL | Matsuri | NEVER GIVE UP NATSUIRO STORY!",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.112,
-        "width": 0.3006,
-        "height": 0.0122
+        "x": 0.032,
+        "y": 0.784,
+        "width": 0.936,
+        "height": 0.115
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Calliope] ljimeko Bully: 5M",
+      "type": "other",
+      "text": "CHANSON ORIGINAL | Risu & Oga | HARAPAN PANPANPAN\nREPRISE | Axel | YOIDORE SHIRAZU\nREPRISE | Altare | HEARTACHE\nREPRISE | Reine & Towa | CYNICAL NIGHT PLAN",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.1285,
-        "width": 0.2169,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[lofi] Dekat Di Hati: 50K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.145,
-        "width": 0.1881,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Fuma] Shanti: 50K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.1766,
-        "width": 0.1556,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[AZKi] Reflection: 100K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.1931,
-        "width": 0.1875,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Koyori] Mixed Nuts (Cover): 100K [Aqua/Subaru/Nene] Yokubari Cute Girl: 100K [Koyori] Onegai Darling: 500K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2096,
-        "width": 0.3725,
-        "height": 0.0451
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Koyori] WAO!!: 500K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2591,
-        "width": 0.1725,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Baelz] Play Dice: 3M",
-      "bbox": {
-        "x": 0.5188,
-        "y": 0.2899,
-        "width": 0.1663,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Kobo] Mantra Hujan: 5M",
-      "bbox": {
-        "x": 0.5188,
-        "y": 0.3064,
-        "width": 0.1963,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "IRyS] Internet Overdose: 1M",
-      "bbox": {
-        "x": 0.5188,
-        "y": 0.3229,
-        "width": 0.23,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Gura] Reflect (Animated): 5M Calliope] Make ‘Em Afraid: 250K Risu/Oga] Harapan PanPanPan: 50K Nene] Hammer Song to Itami no Tou: 100K Reine/Towa] Cynical Night Plan (Cover): 50K Sora] Sekai Wa Mada Hajimatte Sura Inai: 100K Fubuki/Matsuri/Shion/Ayame/Choco/Subaru/ Pekora/Marine/Kanata] Dreaming Days: 500K [Kanata] Tondemo Wonders (Live): 1M [Suisei/Flare/Kanata/Lamy/Nene/ Botan/Polka/ETC] Peace: 250K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.3394,
-        "width": 0.3963,
-        "height": 0.1771
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Sora] Shoujo Rei (Cover): 50K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.5208,
-        "width": 0.2512,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Iroha] Color of Drops: 250K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.5373,
-        "width": 0.2263,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[IRyS] Diorama: 500K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.5538,
-        "width": 0.1763,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Koyori MIXED NUTS",
-      "bbox": {
-        "x": 0.0413,
-        "y": 0.6306,
-        "width": 0.0619,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Matsuri JINSEI WA SAIKOU NO",
-      "bbox": {
-        "x": 0.2738,
-        "y": 0.6324,
-        "width": 0.2094,
-        "height": 0.0204
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "HIMA TSUBUSHI",
-      "bbox": {
-        "x": 0.275,
-        "y": 0.6541,
-        "width": 0.1506,
-        "height": 0.0082
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Calli MAKE 'EM",
-      "bbox": {
-        "x": 0.0438,
-        "y": 0.7365,
-        "width": 0.1144,
-        "height": 0.0256
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Mel AKAKU NARANAIDE",
-      "bbox": {
-        "x": 0.0425,
-        "y": 0.8511,
-        "width": 0.1412,
-        "height": 0.0373
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Pekora RARARA",
-      "bbox": {
-        "x": 0.3563,
-        "y": 0.8529,
-        "width": 0.0981,
-        "height": 0.0239
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "RABBIT!",
-      "bbox": {
-        "x": 0.3556,
-        "y": 0.8793,
-        "width": 0.0919,
-        "height": 0.0091
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Axel",
-      "bbox": {
-        "x": 0.2744,
-        "y": 0.9475,
-        "width": 0.0263,
-        "height": 0.0074
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Risu & Oga HARAPAN PANPANPAN",
-      "bbox": {
-        "x": 0.0413,
-        "y": 0.9479,
-        "width": 0.1225,
-        "height": 0.0291
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "YOIDORE SHIRAZU",
-      "bbox": {
-        "x": 0.2738,
-        "y": 0.9605,
-        "width": 0.0862,
-        "height": 0.0174
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "CUTE GIRL",
-      "bbox": {
-        "x": 0.3544,
-        "y": 0.7648,
-        "width": 0.1244,
-        "height": 0.0095
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Altare",
-      "bbox": {
-        "x": 0.5106,
-        "y": 0.9479,
-        "width": 0.0388,
-        "height": 0.0074
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Sora SHOUJO REI",
-      "bbox": {
-        "x": 0.5106,
-        "y": 0.6324,
-        "width": 0.0775,
-        "height": 0.0299
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Watame CHIKI-CHIKI",
-      "bbox": {
-        "x": 0.7438,
-        "y": 0.6324,
-        "width": 0.1131,
-        "height": 0.02
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "BAN-BAN",
-      "bbox": {
-        "x": 0.745,
-        "y": 0.6541,
-        "width": 0.09,
-        "height": 0.0074
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Sora",
-      "bbox": {
-        "x": 0.6681,
-        "y": 0.7383,
-        "width": 0.0344,
-        "height": 0.0091
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "ZETTAI CHUUSEI © NANONANORA!",
-      "bbox": {
-        "x": 0.6681,
-        "y": 0.7517,
-        "width": 0.2181,
-        "height": 0.0226
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Matsuri",
-      "bbox": {
-        "x": 0.6694,
-        "y": 0.8529,
-        "width": 0.0581,
-        "height": 0.0095
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "NEVER GIVE UP NATSUIRO STORY!",
-      "bbox": {
-        "x": 0.6694,
-        "y": 0.8676,
-        "width": 0.2106,
-        "height": 0.0213
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "H EARTACHE Shite NIGHT",
-      "bbox": {
-        "x": 0.5113,
-        "y": 0.9579,
-        "width": 0.385,
-        "height": 0.026
+        "x": 0.032,
+        "y": 0.899,
+        "width": 0.936,
+        "height": 0.086
       }
     }
   ],

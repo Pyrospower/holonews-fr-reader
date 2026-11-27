@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 18,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,472 +17,202 @@
     },
     {
       "type": "paragraph",
-      "text": "[La+] Life: 1M [Fubuki] Kingworld: 500K",
+      "text": "08/15\n[La+] Life: 1M\n[Fubuki] Kingworld: 500K\n[La+] Lipstick Message: 250K\n[Calliope] Dead Beats (Live): 100K\n[Holostars Tempus] Top of the World: 100K\n[Rikka/Izuru] Happy Halloween: 100K\n[AZKi/Hachi] Bakuhatsu: 75K\n[Polka] Cinderella: 750K",
       "bbox": {
-        "x": 0.285,
-        "y": 0.0608,
-        "width": 0.2025,
-        "height": 0.0286
+        "x": 0.0475,
+        "y": 0.0547,
+        "width": 0.4425,
+        "height": 0.1337
       }
     },
     {
       "type": "paragraph",
-      "text": "[La+] Lipstick Message: 250K",
+      "text": "08/16\n[Kanata] Hibana: 2M\n[Towa/Okayu] Cat Loving: 1M\n[HoloJP Gen 0-3] Shiny Smily Story: 7M\n[Izuru] Monologue in a Row (Live): 10K\n[Suisei] Next Color Planet: 15M",
       "bbox": {
-        "x": 0.2488,
-        "y": 0.0938,
-        "width": 0.2388,
-        "height": 0.0122
+        "x": 0.0475,
+        "y": 0.2014,
+        "width": 0.4425,
+        "height": 0.0842
       }
     },
     {
       "type": "paragraph",
-      "text": "[Calliope] Dead Beats (Live): 100K [Holostars Tempus] Top of the World: 100K [Rikka/lzuru] Happy Halloween: 100K [AZKi/Hachi] Bakuhatsu: 75K",
+      "text": "08/17\n[IRyS] Inochi: 1M\n[Kobo] Mantra Hujan: 6M\n[Kiara] You Little Shit: 100K\n[Aqua] Aqua Iro Palette: 8M\n[Marine] I'm Your Treasure Box: 6M\n[Reine/Kiara] Animal (EN): 250K\n[Koyori] Mixed Nuts: 500K\n[Flare] Smile & Go!!: 500K",
       "bbox": {
-        "x": 0.1363,
-        "y": 0.1102,
-        "width": 0.3513,
-        "height": 0.0616
+        "x": 0.0475,
+        "y": 0.2986,
+        "width": 0.4425,
+        "height": 0.1337
       }
     },
     {
       "type": "paragraph",
-      "text": "[Polka] Cinderella: 750K",
+      "text": "08/18\n[Mel] Bunny: 500K)\n[Okayu] Setsuna Plus: 750K\n[Kanata] Telecaster B-Boy: 2M\n[Polka] SAIKYOUTICPOLKA: 250K\n[AZKi/Hachi] Bakuhatsu: 100K\n[Kronii] Mafia (Cover): 250K\n[La+] Klimer: 500K",
       "bbox": {
-        "x": 0.2925,
-        "y": 0.1762,
-        "width": 0.195,
-        "height": 0.0122
+        "x": 0.0475,
+        "y": 0.4453,
+        "width": 0.4425,
+        "height": 0.1181
       }
     },
     {
       "type": "paragraph",
-      "text": "[Kanata] Hibana: 2M",
+      "text": "08/19\n[Towa] Fact: 3M\n[Suisei] Shoujo Rei: 7M\n[lofi] Dekat Di Hati: 100K\n[Korone] Sweet Magic: 3M\n[Aqua] Stay Blue (Full): 250K\n[Sora] Pit Shite Marmalade: 25K\n[AZKi/HACHI] Chanto Aru Yo (Cover): 50K\n[HoloJP 0-6] Tonde K! hololive summer: 250K\n[Risu/Oga] Harapan PanPanPan: 75K\n[HoloID 1/2/3] Bebas (Cover): 250K\n[Sora] Wonderland (Short): 75K\n[Botan] I I I Love You: 100K\n[Reine/Kotone] ECHO: 75K\n[Fubuki] Ready To: 500K\n[Suisei] Phony: 20M",
       "bbox": {
-        "x": 0.3238,
-        "y": 0.2075,
-        "width": 0.1644,
-        "height": 0.0122
+        "x": 0.5112,
+        "y": 0.0547,
+        "width": 0.44,
+        "height": 0.2491
       }
     },
     {
       "type": "paragraph",
-      "text": "[Towa/Okayu] Cat Loving: 1M",
+      "text": "08/20\n[Marine] Unison: 8M\n[Shion] Chandelier: 250K\n[Calliope] Let's End The World: 250K\n[Miko/Pekora] Pekomiko Daisensou: 9M\n[Calliope/Suisei] Wicked (Live): 100K\n[Sora] Happy Meowthday: 75K\n[Fuma] Shanti: 100K",
       "bbox": {
-        "x": 0.2488,
-        "y": 0.224,
-        "width": 0.2394,
-        "height": 0.0122
+        "x": 0.5112,
+        "y": 0.3168,
+        "width": 0.44,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "[HoloJP Gen 0-3] Shiny Smily Story: 7M [Izuru] Monologue in a Row (Live): 10K [Suisei] Next Color Planet: 15M 08/17 [IRyS] Inochi: 1M [Kobo] Mantra Hujan: 6M",
+      "text": "08/21\n[Nene] Kaisei (Cover): 25K\n[Okayu] Hatsukoisou (Cover): 250K\n[Matsuri/Suisei/Flare/Nene] Niccori^^ Survey Team Theme (Live Cover): 50K\n[Mumei] The Forgotten Song (Cover): 100K\n[HoloID 1/2/3] Bebas (Cover): 500K\n[HoloJP] Hololive Ondo: 100K",
       "bbox": {
-        "x": 0.0488,
-        "y": 0.2405,
-        "width": 0.4406,
-        "height": 0.0933
+        "x": 0.5112,
+        "y": 0.447,
+        "width": 0.44,
+        "height": 0.1163
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Kiara] You Little Shit: 100K",
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nPolka\nSAIKYOU TIC\nPOLKA",
       "bbox": {
-        "x": 0.2656,
-        "y": 0.3381,
-        "width": 0.2219,
-        "height": 0.0122
+        "x": 0.0338,
+        "y": 0.5807,
+        "width": 0.3113,
+        "height": 0.1042
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Aqua] Aqua Iro Palette: 8M [Marine] I'm Your Treasure Box: 6M [Reine/Kiara] Animal (EN): 250K [Koyori] Mixed Nuts: 500K",
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nhololive IDOL PROJECT\nHOLOLIVE\nONDO",
       "bbox": {
-        "x": 0.1988,
-        "y": 0.3546,
-        "width": 0.2888,
-        "height": 0.0616
+        "x": 0.3463,
+        "y": 0.5807,
+        "width": 0.31,
+        "height": 0.1042
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Flare] Smile & Go!!: 500K",
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nShion\nCHANDELIER",
       "bbox": {
-        "x": 0.2763,
-        "y": 0.4206,
-        "width": 0.2113,
-        "height": 0.0122
+        "x": 0.6575,
+        "y": 0.5807,
+        "width": 0.3113,
+        "height": 0.1042
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Mel] Bunny: 500K)",
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nCalliope\nLET'S END\nTHE WORLD",
       "bbox": {
-        "x": 0.3325,
-        "y": 0.4523,
-        "width": 0.1538,
-        "height": 0.0122
+        "x": 0.0338,
+        "y": 0.6858,
+        "width": 0.3113,
+        "height": 0.1042
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Okayu] Setsuna Plus: 750K [Kanata] Telecaster B-Boy: 2M [Polka] SAIKYOUTICPOLKA: 250K [AZKi/Hachi] Bakuhatsu: 100K [Kronii] Mafia (Cover): 250K",
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nhololive IDOL PROJECT\nTONDE K!\nHOLOLIVE SUMMER",
       "bbox": {
-        "x": 0.2006,
-        "y": 0.4688,
-        "width": 0.2863,
-        "height": 0.0781
+        "x": 0.3463,
+        "y": 0.6858,
+        "width": 0.31,
+        "height": 0.1042
       }
     },
     {
-      "type": "paragraph",
-      "text": "[La+] Klimer: 500K",
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nBotan\nI I I\nLOVE YOU",
       "bbox": {
-        "x": 0.3375,
-        "y": 0.5512,
-        "width": 0.1494,
-        "height": 0.0122
+        "x": 0.6575,
+        "y": 0.6858,
+        "width": 0.3113,
+        "height": 0.1042
       }
     },
     {
-      "type": "paragraph",
-      "text": "hololive IDOL PROJECT",
+      "type": "other",
+      "text": "REPRISE\nKronii\nMAFIA",
       "bbox": {
-        "x": 0.3556,
-        "y": 0.6398,
-        "width": 0.2044,
-        "height": 0.01
+        "x": 0.0338,
+        "y": 0.7908,
+        "width": 0.2325,
+        "height": 0.0868
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Towa] Fact: 3M",
+      "type": "other",
+      "text": "REPRISE\nMumei\nTHE FORGOTTEN\nSONG",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.0608,
-        "width": 0.1288,
-        "height": 0.0122
+        "x": 0.2675,
+        "y": 0.7908,
+        "width": 0.2338,
+        "height": 0.0868
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Suisei] Shoujo Rei: TM",
+      "type": "other",
+      "text": "REPRISE\nNene\nKAISEI",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.0773,
-        "width": 0.1875,
-        "height": 0.0122
+        "x": 0.5025,
+        "y": 0.7908,
+        "width": 0.2325,
+        "height": 0.0868
       }
     },
     {
-      "type": "paragraph",
-      "text": "[lofi] Dekat Di Hati: 100K",
+      "type": "other",
+      "text": "REPRISE\nOkayu\nHATSU-\nKOISOU",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.0938,
-        "width": 0.1981,
-        "height": 0.0122
+        "x": 0.7362,
+        "y": 0.7908,
+        "width": 0.2325,
+        "height": 0.0868
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Korone] Sweet Magic: 3M",
+      "type": "other",
+      "text": "REPRISE\nMiyabi & Temma\nSUIRENKA",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.1102,
-        "width": 0.2131,
-        "height": 0.0122
+        "x": 0.0338,
+        "y": 0.8785,
+        "width": 0.3113,
+        "height": 0.1042
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Aqua] Stay Blue (Full): 250K",
+      "type": "other",
+      "text": "REPRISE\nhololive Indonesia\nBEBAS",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.1267,
-        "width": 0.2344,
-        "height": 0.0122
+        "x": 0.3463,
+        "y": 0.8785,
+        "width": 0.31,
+        "height": 0.1042
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Sora] Pit Shite Marmalade: 25K [AZKi/HACHI] Chanto Aru Yo (Cover): 50K [HoloJP 0-6] Tonde K! hololive summer: 250K [Risu/Oga] Harapan PanPanPan: 75K [HoloID 1/2/3] Bebas (Cover): 250K",
+      "type": "other",
+      "text": "REPRISE\nAZKi & HACHI\nCHANTO\nARU YO",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.1432,
-        "width": 0.3706,
-        "height": 0.0781
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Sora] Wonderland (Short): 75K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2257,
-        "width": 0.255,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Botan] / / / Love You: 100K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2422,
-        "width": 0.2219,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Reine/Kotone] ECHO: 75K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2587,
-        "width": 0.2213,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Fubuki] Ready To: 500K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2752,
-        "width": 0.2013,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Suisei] Phony: 20M",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2917,
-        "width": 0.1606,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Marine] Unison: 8M",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.322,
-        "width": 0.1613,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Shion] Chandelier: 250K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.3385,
-        "width": 0.2025,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Calliope] Let's End The World: 250K [Miko/Pekora] Pekomiko Daisensou: 9M [Calliope/Suisei] Wicked (Live): 100K [Sora] Happy Meowthday: 75K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.355,
-        "width": 0.3231,
-        "height": 0.0616
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Fuma] Shanti: 100K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.421,
-        "width": 0.1656,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Nene] Kaisei (Cover): 25K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.4523,
-        "width": 0.2163,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Okayu] Hatsukoisou (Cover): 250K [Matsuri/Suisei/Flare/Nene] Niccori™ Survey Team Theme (Live Cover): 50K [Mumei] The Forgotten Song (Cover): 100K [HoloID 1/2/3] Bebas (Cover): 500K [HoloJP] Hololive Ondo: 100K",
-      "bbox": {
-        "x": 0.5131,
-        "y": 0.4688,
-        "width": 0.3519,
-        "height": 0.0946
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Polka SAIKYOU TIC POLKA",
-      "bbox": {
-        "x": 0.0431,
-        "y": 0.6398,
-        "width": 0.1563,
-        "height": 0.0373
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Shion HOLOLIVE NDO",
-      "bbox": {
-        "x": 0.3569,
-        "y": 0.6398,
-        "width": 0.3575,
-        "height": 0.0386
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "hololive IDOL PROJECT",
-      "bbox": {
-        "x": 0.355,
-        "y": 0.7452,
-        "width": 0.205,
-        "height": 0.01
-      }
-    },
-    {
-      "type": "heading",
-      "text": "CHANDELIER",
-      "bbox": {
-        "x": 0.6675,
-        "y": 0.6567,
-        "width": 0.2781,
-        "height": 0.0174
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "LET'S.END THE WORLD",
-      "bbox": {
-        "x": 0.0431,
-        "y": 0.7604,
-        "width": 0.1494,
-        "height": 0.0221
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "TONDE K! HOLOLIVE SUMMER",
-      "bbox": {
-        "x": 0.355,
-        "y": 0.7617,
-        "width": 0.2413,
-        "height": 0.0221
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Botan 111 LOVE YOU",
-      "bbox": {
-        "x": 0.6681,
-        "y": 0.7452,
-        "width": 0.1238,
-        "height": 0.0382
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Mumei",
-      "bbox": {
-        "x": 0.2775,
-        "y": 0.8394,
-        "width": 0.045,
-        "height": 0.0078
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Miyabi &Temma",
-      "bbox": {
-        "x": 0.0456,
-        "y": 0.9379,
-        "width": 0.1363,
-        "height": 0.0126
-      }
-    },
-    {
-      "type": "heading",
-      "text": "SUIRENKA",
-      "bbox": {
-        "x": 0.0444,
-        "y": 0.9549,
-        "width": 0.23,
-        "height": 0.0187
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "hololive Indonesia",
-      "bbox": {
-        "x": 0.3581,
-        "y": 0.9379,
-        "width": 0.1488,
-        "height": 0.01
-      }
-    },
-    {
-      "type": "heading",
-      "text": "BEBAS",
-      "bbox": {
-        "x": 0.3581,
-        "y": 0.9566,
-        "width": 0.1488,
-        "height": 0.0182
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Nene",
-      "bbox": {
-        "x": 0.5125,
-        "y": 0.8394,
-        "width": 0.0344,
-        "height": 0.0074
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Okayu HATSU-KOISOU",
-      "bbox": {
-        "x": 0.7469,
-        "y": 0.8394,
-        "width": 0.0731,
-        "height": 0.0299
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "AZKi & HACHI",
-      "bbox": {
-        "x": 0.6688,
-        "y": 0.9379,
-        "width": 0.1181,
-        "height": 0.01
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "CHANTO ARU YO",
-      "bbox": {
-        "x": 0.6669,
-        "y": 0.9536,
-        "width": 0.1069,
-        "height": 0.0221
+        "x": 0.6575,
+        "y": 0.8785,
+        "width": 0.3113,
+        "height": 0.1042
       }
     }
   ],

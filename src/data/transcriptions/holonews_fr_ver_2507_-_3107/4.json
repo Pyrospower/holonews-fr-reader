@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_2507_-_3107",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "Houshou Marine vAth season of 17th birthday ~",
+      "text": "Houshou Marine\n~4th season of 17th birthday~",
       "bbox": {
         "x": 0.0917,
         "y": 0.228,
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Marine a fêté pour la quatrième fois son 17e anniversaire avec un concert en 3D et une nouvelle tenue ! Elle a commencé par une performance époustouflante de « Unison », puis a épaté la foule avec « Marine Set Sail!! ». Akirose l'a rejointe pour une merveilleuse interprétation de « Ankoku Tengoku » tandis que Lui est apparu pour un duo sur « Eh? Ah, Yes. ». Senchou a également chanté « Yuzurenai Negai » avec Sora et AZKi, qui l'ont ensuite poursuivie avec des épées, et « Gekkou Terasu wa Shiriaru » avec Chloe, qui l'a assassinée.",
+      "text": "Marine a fêté pour la quatrième fois son 17e anniversaire avec un concert en 3D et une nouvelle tenue ! Elle a commencé par une performance époustouflante de « Unison », puis a épaté la foule avec « Marine Set Sail!! ». Akirose l'a rejointe pour une merveilleuse interprétation de « Ankoku Tengoku » tandis que Lui est apparu pour un duo sur « Eh? Ah, Yes. ». Senchou a également chanté « Yuzurenai Negai » avec Sora et AZKi, qui l’ont ensuite poursuivie avec des épées, et « Gekkou Terasu wa Shiriaru » avec Chloe, qui l’a assassinée.",
       "bbox": {
         "x": 0.0789,
         "y": 0.343,
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après « 1000% SPARKING! » avec Suisei (qui l'a traitée de naine), Marine a été rejointe par ses camarades d'holoFantasy pour une incroyable représentation de « Wonderful Rush », pendant laquelle Marine en a profité pour se changer et enfiler sa nouvelle tenue. Cette nouvelle tenue a été plus tard surnommée « Marine trentenaire » par Senchou elle-même. La pirate a terminé le concert avec sa chanson signature, « Ahoy!! We Are Houshou Piratesyt », et a révélé et interprété sa toute nouvelle chanson originale, « I'm Your Treasure Box », produite par Camellia et U.Z. INU.",
+      "text": "Après « 1000% SPARKING! » avec Suisei (qui l'a traitée de naine), Marine a été rejointe par ses camarades d’holoFantasy pour une incroyable représentation de « Wonderful Rush », pendant laquelle Marine en a profité pour se changer et enfiler sa nouvelle tenue. Cette nouvelle tenue a été plus tard surnommée « Marine trentenaire » par Senchou elle-même. La pirate a terminé le concert avec sa chanson signature, « Ahoy!! We Are Houshou Pirates☆ », et a révélé et interprété sa toute nouvelle chanson originale, « I’m Your Treasure Box », produite par Camellia et U.Z. INU.",
       "bbox": {
         "x": 0.0783,
         "y": 0.7068,
@@ -37,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "g\\ = ® / Marine a également dévoilé son set de produits dérivés d'anniversaire, qui comprend :",
+      "text": "Marine a également dévoilé son set de produits dérivés d’anniversaire, qui comprend :",
       "bbox": {
         "x": 0.5239,
         "y": 0.4186,
@@ -47,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "• Une tapisserie B2, avec une illustration d'Akasa Ai\n• Un T-shirt taille unique, illustré par saku",
+      "text": "• Une tapisserie B2, avec une illustration d’Akasa Ai\n• Un T-shirt taille unique, illustré par saku㊴",
       "bbox": {
         "x": 0.5417,
         "y": 0.5428,

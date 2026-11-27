@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2911_-_0512",
   "page": 19,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,178 +16,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Suisei] Phony: 1M [Aqua] Vampire: 3M",
-      "bbox": {
-        "x": 0.3113,
-        "y": 0.1068,
-        "width": 0.1737,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Holostars] Just Follow Stars: 500K [Kiara] Hinotori Redshift Remix: 75K [Rushia/Ayame] Renai Circulation: 500K [Polka] Tondemo Wonders: 250K",
-      "bbox": {
-        "x": 0.1319,
-        "y": 0.1424,
-        "width": 0.3544,
-        "height": 0.0668
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Risu] Gurenge: 25K",
-      "bbox": {
-        "x": 0.3069,
-        "y": 0.2135,
-        "width": 0.1794,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Lui] Eye: 750K [Matsuri] Fansa: 1M",
-      "bbox": {
-        "x": 0.3113,
-        "y": 0.2513,
-        "width": 0.1744,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Korone] Fire Emblem Theme (Cover): 100K [Miko] Sakurairo High Tension: 250K",
-      "bbox": {
-        "x": 0.0956,
-        "y": 0.2869,
-        "width": 0.39,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Aqua] Aqua Iro Palette: 4M",
-      "bbox": {
-        "x": 0.2431,
-        "y": 0.3403,
-        "width": 0.2419,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[IRyS] Shiny Smily Story: 250K [Calliope] Off With Their Heads: 9M [Watame] Everlasting Soul: 500K [Subaru/Ui] adrenaline!!!: 2M",
-      "bbox": {
-        "x": 0.1744,
-        "y": 0.3581,
-        "width": 0.3119,
-        "height": 0.0668
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Towa] Eye: 500K",
-      "bbox": {
-        "x": 0.3294,
-        "y": 0.4466,
-        "width": 0.1563,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Suisei] Phony: 2M",
-      "bbox": {
-        "x": 0.3213,
-        "y": 0.4644,
-        "width": 0.1631,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Aqua] Kira Kira: 250K",
-      "bbox": {
-        "x": 0.2906,
-        "y": 0.4822,
-        "width": 0.195,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[IRyS] Here Comes Hope: 500K [Moona/Suisei] Saikai (Cover): 250K [Fubuki] Sil Vous President (Reupload): 100K [Kiara] Hinotori Lone Alpha Remix: 75K [HoloFantasy] Interact Fantasia: 1M [Moona/Pekora] Turing Love: 2M [Kanata] Uma to Shika: 6M",
-      "bbox": {
-        "x": 0.0862,
-        "y": 0.5,
-        "width": 0.3994,
-        "height": 0.1202
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Polka] Envy Baby: 6M",
-      "bbox": {
-        "x": 0.2863,
-        "y": 0.6246,
-        "width": 0.1981,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Shion] God-ish: 750K",
-      "bbox": {
-        "x": 0.2925,
-        "y": 0.6424,
-        "width": 0.1931,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Koyori] Ruma: 1M",
-      "bbox": {
-        "x": 0.3219,
-        "y": 0.6602,
-        "width": 0.1625,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Modna & Suiset",
-      "bbox": {
-        "x": 0.0488,
-        "y": 0.7556,
-        "width": 0.0981,
-        "height": 0.0074
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "SAIKAI",
-      "bbox": {
-        "x": 0.0469,
-        "y": 0.7682,
-        "width": 0.1156,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "USSEEWA",
-      "bbox": {
-        "x": 0.28,
-        "y": 0.7687,
-        "width": 0.1744,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "REPRISE ORIGINAL NOUVEAU",
+      "type": "other",
+      "text": "REPRISE\nORIGINAL\nNOUVEAU",
       "bbox": {
         "x": 0.8413,
         "y": 0.0278,
@@ -197,142 +27,102 @@
     },
     {
       "type": "paragraph",
-      "text": "[Anya] Phony: 100K [Calliope] end of a life: 5M",
+      "text": "11/29\n[Suisei] Phony: 1M\n[Aqua] Vampire: 3M\n[Holostars] Just Follow Stars: 500K\n[Kiara] Hinotori Redshift Remix: 75K\n[Rushia/Ayame] Renai Circulation: 500K\n[Polka] Tondemo Wonders: 250K\n[Risu] Gurenge: 25K",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.1055,
-        "width": 0.2269,
-        "height": 0.0313
+        "x": 0.05,
+        "y": 0.102,
+        "width": 0.4375,
+        "height": 0.1237
       }
     },
     {
       "type": "paragraph",
-      "text": "[Calliope] Envy Baby EN: 3M",
+      "text": "11/30\n[Anya] Phony: 100K\n[Calliope] end of a life: 5M\n[Calliope] Envy Baby EN: 3M\n[A-Chan] Bossa Nova & Jazz Mix: 1M\n[AZKi] Sennou Sakushu Tora no Maki: 50K\n[Temma/Miyabi] Kawaiiku Naritai: 100K\n[Suisei] Tenkyuu, Suisei Wa Yoru Wo Mataide: 10M",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.1411,
-        "width": 0.2537,
-        "height": 0.0135
+        "x": 0.5125,
+        "y": 0.1007,
+        "width": 0.4375,
+        "height": 0.1411
       }
     },
     {
       "type": "paragraph",
-      "text": "[A-Chan] Bossa Nova & Jazz Mix: 1M",
+      "text": "12/01\n[Lui] Eye: 750K\n[Matsuri] Fansa: 1M\n[Korone] Fire Emblem Theme (Cover): 100K\n[Miko] Sakurairo High Tension: 250K",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.1589,
-        "width": 0.3306,
-        "height": 0.0135
+        "x": 0.05,
+        "y": 0.2474,
+        "width": 0.4375,
+        "height": 0.0694
       }
     },
     {
       "type": "paragraph",
-      "text": "[AZKi] Sennou Sakushu Tora no Maki: 50K [Temma/Miyabi] Kawaiiku Naritai: 100K [Suisei] Tenkyuu, Suisei Wa Yoru",
+      "text": "12/02\n[Aqua] Kira Kira: 100K\n[AZKi] Nonbiri To: 25K\n[Okayu] Shitsuraku Petri: 6M\n[Korone] Fire Emblem Theme (Cover): 250K\n[Calliope/Milky Queen] Usseewa (Cover): 500K\n[Flare] Vampire: 100K\n[Mel/Shion/Ayame/Choco/Rushia] Crazy Night: 500K",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.1766,
-        "width": 0.3794,
-        "height": 0.049
+        "x": 0.5125,
+        "y": 0.2639,
+        "width": 0.4375,
+        "height": 0.1432
       }
     },
     {
       "type": "paragraph",
-      "text": "Wo Mataide: 10M",
+      "text": "12/03\n[Aqua] Aqua Iro Palette: 4M\n[IRyS] Shiny Smily Story: 250K\n[Calliope] Off With Their Heads: 9M\n[Watame] Everlasting Soul: 500K\n[Subaru/Ui] adrenaline!!!: 2M",
       "bbox": {
-        "x": 0.5144,
-        "y": 0.23,
-        "width": 0.1538,
-        "height": 0.0104
+        "x": 0.05,
+        "y": 0.3385,
+        "width": 0.4375,
+        "height": 0.0846
       }
     },
     {
       "type": "paragraph",
-      "text": "[Aqua] Kira Kira: 100K [AZKi] Nonbiri To: 25K",
+      "text": "12/04\n[La+] God-ish (Cover): 1M\n[HoloMyth] Myth or Treat: 3M\n[Ina] Tabi no Tochuu (Cover): 250K\n[Sora/Aoi] Turing Love (Cover): 100K\n[Calliope/Milky Queen] Usseewa (Cover): 750K\n[Roboco/Miko/Mel/Akirose/Matsuri/Aqua/Mio/Flare/Towa] Asuiro Clear Sky Short: 750K\n[Kanata/Towa] Madoromi: 750K\n[Sora] Hot Limit Short: 250K",
       "bbox": {
-        "x": 0.5163,
-        "y": 0.2682,
-        "width": 0.1963,
-        "height": 0.0313
+        "x": 0.5125,
+        "y": 0.428,
+        "width": 0.4375,
+        "height": 0.1584
       }
     },
     {
       "type": "paragraph",
-      "text": "[Okayu] Shitsuraku Petri: 6M",
+      "text": "12/05\n[Towa] Eye: 500K\n[Suisei] Phony: 2M\n[Aqua] Kira Kira: 250K\n[IRyS] Here Comes Hope: 500K\n[Moona/Suisei] Saikai (Cover): 250K\n[Fubuki] Sil Vous President (Reupload): 100K\n[Kiara] Hinotori Lone Alpha Remix: 75K\n[HoloFantasy] Interact Fantasia: 1M\n[Moona/Pekora] Turing Love: 2M\n[Kanata] Uma to Shika: 6M\n[Polka] Envy Baby: 6M\n[Shion] God-ish: 750K\n[Koyori] Ruma: 1M",
       "bbox": {
-        "x": 0.5163,
-        "y": 0.3038,
-        "width": 0.2506,
-        "height": 0.0135
+        "x": 0.05,
+        "y": 0.4449,
+        "width": 0.4375,
+        "height": 0.2279
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Korone] Fire Emblem Theme (Cover): 250K [Calliope/Milky Queen] Usseewa (Cover): 500K [Flare] Vampire: 100K [Mel/Shion/Ayame/Choco/Rushia]",
+      "type": "other",
+      "text": "REPRISE | Moona & Suisei | SAIKAI\nREPRISE | Calli & Milky Queen | USSEEWA\nREPRISE | Sora & Fuji Aoi | TURING LOVE\nREPRISE | Miyabi & Astel | BOOO!",
       "bbox": {
-        "x": 0.5163,
-        "y": 0.3216,
-        "width": 0.415,
-        "height": 0.0668
+        "x": 0.0394,
+        "y": 0.7031,
+        "width": 0.9219,
+        "height": 0.0868
       }
     },
     {
-      "type": "paragraph",
-      "text": "Crazy Night: 500K",
+      "type": "other",
+      "text": "ORIGINAL | Holostars | PENTAS\nORIGINAL | Aqua | KIRA KIRA\nORIGINAL | Aqua | UNI-BIRTH\nORIGINAL | AZKi | NONBIRI TO",
       "bbox": {
-        "x": 0.5156,
-        "y": 0.3928,
-        "width": 0.1606,
-        "height": 0.0135
+        "x": 0.0394,
+        "y": 0.7934,
+        "width": 0.9219,
+        "height": 0.0825
       }
     },
     {
-      "type": "paragraph",
-      "text": "[La+] God-ish (Cover): 1M [HoloMyth] Myth or Treat: 3M",
+      "type": "other",
+      "text": "REPRISE | Korone | FIRE EMBLEM THEME\nREPRISE | La+ | GOD-ISH\nREPRISE | holoX | OCHAME KINOU\nREPRISE | Ina | TABI NO TOCHUU",
       "bbox": {
-        "x": 0.5163,
-        "y": 0.4306,
-        "width": 0.255,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Ina] Tabi no Tochuu (Cover): 250K [Sora/Aoi] Turing Love (Cover): 100K [Calliope/Milky Queen] Usseewa (Cover): 750K [Roboco/Miko/Mel/Akirose/Matsuri/Aqua/Mio/FI are/Towa] Asuiro Clear Sky Short: 750K [Kanata/Towa] Madoromi: 750K",
-      "bbox": {
-        "x": 0.5156,
-        "y": 0.4661,
-        "width": 0.4156,
-        "height": 0.1024
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Sora] Hot Limit Short: 250K",
-      "bbox": {
-        "x": 0.5163,
-        "y": 0.5729,
-        "width": 0.2463,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Sorat&Puji Aoi",
-      "bbox": {
-        "x": 0.5094,
-        "y": 0.7556,
-        "width": 0.0925,
-        "height": 0.0095
-      }
-    },
-    {
-      "type": "heading",
-      "text": "BOOO!",
-      "bbox": {
-        "x": 0.7425,
-        "y": 0.7687,
-        "width": 0.11,
-        "height": 0.0143
+        "x": 0.0394,
+        "y": 0.8832,
+        "width": 0.9219,
+        "height": 0.0825
       }
     }
   ],

@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_3101_-_0602",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.0415,
+        "y": 0.3686,
+        "width": 0.4477,
+        "height": 0.1528
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Shien est le dernier membre d'holostars à obtenir une nouvelle tenue. Avant de la présenter, il a montré les précédentes, comme sa tenue habituelle, celle du Nouvel An et celle d'été. Shien nous a ensuite emmenés dans une rue pleine de graffitis et a commencé à révéler son nouveau modèle, en partant du bas. Sa tenue s'inspire du streetwear : baskets, jogging et veste coupe-vent. Le design présente également des éléments asymétriques. Cependant, le plus grand changement se situe au niveau de ses cheveux, qui présentent désormais davantage de mèches blanches et une frange balayée sur le côté. D'autre part, il peut enfiler sa capuche et porter un masque à gaz à lunettes amovibles en forme de museau de chacal:",
+      "text": "Shien est le dernier membre d'holostars à obtenir une nouvelle tenue. Avant de la présenter, il a montré les précédentes, comme sa tenue habituelle, celle du Nouvel An et celle d'été. Shien nous a ensuite emmenés dans une rue pleine de graffitis et a commencé à révéler son nouveau modèle, en partant du bas. Sa tenue s'inspire du streetwear : baskets, jogging et veste coupe-vent. Le design présente également des éléments asymétriques. Cependant, le plus grand changement se situe au niveau de ses cheveux, qui présentent désormais davantage de mèches blanches et une frange balayée sur le côté. D'autre part, il peut enfiler sa capuche et porter un masque à gaz à lunettes amovibles en forme de museau de chacal.",
       "bbox": {
         "x": 0.0383,
         "y": 0.5328,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "En plus de sa nouvelle tenue, Shien a également dévoilé des produits dérivés : « Une figurine en acrylique » Un badge en métal",
+      "text": "En plus de sa nouvelle tenue, Shien a également dévoilé des produits dérivés :\n• Une figurine en acrylique\n• Un badge en métal",
       "bbox": {
         "x": 0.04,
         "y": 0.8449,
@@ -36,33 +46,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "New Outfit Celebration 2022",
-      "bbox": {
-        "x": 0.7878,
-        "y": 0.5849,
-        "width": 0.1594,
-        "height": 0.0367
-      }
-    },
-    {
       "type": "other",
-      "text": "On Sale January 31",
+      "text": "Kageyama Shien\nNew Outfit Celebration 2022\nOn Sale January 31\n2 Celebration Merch\n• Sporty Shien Acrylic Stand\n• Sporty Shien Pin Badge",
       "bbox": {
-        "x": 0.8061,
-        "y": 0.6265,
-        "width": 0.1211,
-        "height": 0.0073
-      }
-    },
-    {
-      "type": "other",
-      "text": "2 Celebration Merch Sporty Shien Acrylic Stand Sporty Shien Pin Badge",
-      "bbox": {
-        "x": 0.8239,
-        "y": 0.6551,
-        "width": 0.1267,
-        "height": 0.0224
+        "x": 0.7877,
+        "y": 0.5684,
+        "width": 0.1646,
+        "height": 0.1154
       }
     }
   ],

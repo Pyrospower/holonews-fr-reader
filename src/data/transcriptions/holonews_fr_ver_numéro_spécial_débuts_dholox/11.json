@@ -3,8 +3,49 @@
   "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
   "page": 11,
   "lang": "fr",
-  "status": "unavailable",
-  "blocks": [],
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Birthday 6/18\nHeight 156cm",
+      "bbox": {
+        "x": 0.7387,
+        "y": 0.0296,
+        "width": 0.1827,
+        "height": 0.0648
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IROHA KAZAMA",
+      "bbox": {
+        "x": 0.596,
+        "y": 0.3824,
+        "width": 0.1987,
+        "height": 0.0157
+      }
+    },
+    {
+      "type": "other",
+      "text": "Clin d’œil",
+      "bbox": {
+        "x": 0.5147,
+        "y": 0.4944,
+        "width": 0.1627,
+        "height": 0.0241
+      }
+    },
+    {
+      "type": "other",
+      "text": "En colère",
+      "bbox": {
+        "x": 0.736,
+        "y": 0.6352,
+        "width": 0.1613,
+        "height": 0.0241
+      }
+    }
+  ],
   "source": {
     "engine": "tesseract.js",
     "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",

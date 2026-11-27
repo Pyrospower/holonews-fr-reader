@@ -3,31 +3,21 @@
   "issueId": "holonews_fr_2410_-_3010",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "@ IRyS® holoEN ‘+ One Step at a Time & Gravity",
+      "type": "heading",
+      "text": "IRyS",
       "bbox": {
-        "x": 0.0494,
-        "y": 0.036,
-        "width": 0.295,
-        "height": 0.0273
+        "x": 0.14,
+        "y": 0.156,
+        "width": 0.22,
+        "height": 0.029
       }
     },
     {
       "type": "paragraph",
-      "text": "Thank you very much for coming to my unarchived stream guys!! I will miss you guys as much as you will miss me but II! be back better than ever :D chu®@",
-      "bbox": {
-        "x": 0.0506,
-        "y": 0.0738,
-        "width": 0.41,
-        "height": 0.0412
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "IRyS va faire un une pause d'environ un mois. Toutefois, elle reviendra avec son nouveau modèle en version 2.0. Son dernier stream avec son modèle actuel sera un stream karaoké non archivé avant qu'elle ne passe définitivement au nouveau modèle. Elle a également révélé que sa taille et sa poitrine ne seront pas modifiées dans son modèle 2.0.",
+      "text": "IRyS va faire une pause d'environ un mois. Toutefois, elle reviendra avec son nouveau modèle en version 2.0. Son dernier stream avec son modèle actuel sera un stream karaoké non archivé avant qu'elle ne passe définitivement au nouveau modèle. Elle a également révélé que sa taille et sa poitrine ne seront pas modifiées dans son modèle 2.0.",
       "bbox": {
         "x": 0.0463,
         "y": 0.1823,
@@ -36,28 +26,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "à IRyS ® holoEN ‘+ One Step at a Time & Gravity",
+      "type": "heading",
+      "text": "IRyS",
       "bbox": {
-        "x": 0.0675,
-        "y": 0.3129,
-        "width": 0.2694,
-        "height": 0.023
+        "x": 0.123,
+        "y": 0.447,
+        "width": 0.22,
+        "height": 0.029
       }
     },
     {
       "type": "paragraph",
-      "text": "I had a dream of walking into a Starbucks in a pikachu jacket & being asked by an employee if I've seen the “Starbucks anime” only for me to say I’ve never heard of such a thing. Then i ordered a Frappuccino but the barista got my order wrong & made me an espresso instead",
-      "bbox": {
-        "x": 0.0669,
-        "y": 0.3464,
-        "width": 0.3831,
-        "height": 0.076
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "IRyS a fait un rêve intéressant, dans lequel elle se rendait dans un Starbucks vêtue d'une veste Pikachu et un employé lui demandait si elle avait regardé l'« anime Starbucks ». Elle a ensuite reçu une mauvaise commande de la part du barman. La responsabilité de ce rêve étrange a été attribuée à une nouvelle publicité pour Starbucks qui est apparue récemment dans le fil d'actualités d’IRyS.",
+      "text": "IRyS a fait un rêve intéressant, dans lequel elle se rendait dans un Starbucks vêtue d'une veste Pikachu et un employé lui demandait si elle avait regardé l'« anime Starbucks ». Elle a ensuite reçu une mauvaise commande de la part du barman. La responsabilité de ce rêve étrange a été attribuée à une nouvelle publicité pour Starbucks qui est apparue récemment dans le fil d’actualités d’IRyS.",
       "bbox": {
         "x": 0.0463,
         "y": 0.4918,
@@ -66,8 +46,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.118,
+        "y": 0.816,
+        "width": 0.22,
+        "height": 0.029
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Notre chère nephilim IRyS s'est mise au défi de jouer a Outlast et a réussi à terminer le jeu en une seule session. Tout au long du stream, IRyS a béni les IRyStrocats avec ses rires lors des jumpscares, est devenue YabalRyS en disant « Help I'm sandwiched between the PP boys », s'est moquée en voyant des postérieurs et s'est moquée de sa femme Bae qui a abandonné le jeu après le premier jumpscare. Bien joué IRyS !",
+      "text": "Notre chère nephilim IRyS s'est mise au défi de jouer à Outlast et a réussi à terminer le jeu en une seule session. Tout au long du stream, IRyS a béni les IRyStrocats avec ses rires lors des jumpscares, est devenue YabalRyS en disant « Help I'm sandwiched between the PP boys », s’est moquée en voyant des postérieurs et s'est moquée de sa femme Bae qui a abandonné le jeu après le premier jumpscare. Bien joué IRyS !",
       "bbox": {
         "x": 0.0431,
         "y": 0.862,
@@ -87,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La chaîne officielle d'hololiveEN présentait une histoire d'horreur en trois parties intitulée holoweEN, mettant en scène des membres d'hololiveEN dans un univers alternatif. L'histoire a été écrite par Fauna elle-même, avec la première partie intitulée « Origine », mettant en scène Amelia, Gura et Fauna impliquées avec un site Web mystérieux qui offre le salut. Des produits dérivés de holoweEN seront mis en vente dans certains pays. Fauna étant connue pour son contenu horrifique, les fans vont être gâtés.",
+      "text": "La chaîne officielle d’hololiveEN présentait une histoire d'horreur en trois parties intitulée holoweEN, mettant en scène des membres d'hololiveEN dans un univers alternatif. L'histoire a été écrite par Fauna elle-même, avec la première partie intitulée « Origine », mettant en scène Amelia, Gura et Fauna impliquées avec un site Web mystérieux qui offre le salut. Des produits dérivés de holoweEN seront mis en vente dans certains pays. Fauna étant connue pour son contenu horrifique, les fans vont être gâtés.",
       "bbox": {
         "x": 0.5138,
         "y": 0.2305,
@@ -96,48 +86,28 @@
       }
     },
     {
+      "type": "other",
+      "text": "HOLOWEEN T-Shirt & Hoodie\nGet T-shirts and hoodies featuring original illustrations from hololive English’s holoweEN 2022 project!\nArt by Hyde　Logo Design by Spiritsnare\nCHECK! Available from Amazon\nSearch for “hololive production”",
+      "bbox": {
+        "x": 0.5406,
+        "y": 0.3776,
+        "width": 0.4031,
+        "height": 0.1181
+      }
+    },
+    {
       "type": "heading",
-      "text": "OLOWFEN T-shirt & Hoodie *",
+      "text": "Kiara",
       "bbox": {
-        "x": 0.5663,
-        "y": 0.3789,
-        "width": 0.3344,
-        "height": 0.0195
+        "x": 0.586,
+        "y": 0.778,
+        "width": 0.22,
+        "height": 0.029
       }
     },
     {
       "type": "paragraph",
-      "text": "~~ Ah Get T-shirts and hoodies featuring original illustrations",
-      "bbox": {
-        "x": 0.6881,
-        "y": 0.411,
-        "width": 0.2544,
-        "height": 0.0273
-      }
-    },
-    {
-      "type": "other",
-      "text": "from hololive English's holoweEN 2022 project! Artby Hyde Logo Design by Spiritsnare",
-      "bbox": {
-        "x": 0.7056,
-        "y": 0.4423,
-        "width": 0.2356,
-        "height": 0.0156
-      }
-    },
-    {
-      "type": "other",
-      "text": "Search for “hololive production”",
-      "bbox": {
-        "x": 0.7519,
-        "y": 0.4883,
-        "width": 0.1531,
-        "height": 0.0065
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Les employés de KFP ont fait des adieux déchirants à Frogiwawa (le modèle 3D de grenouille de Kiara) après avoir passé une semaine avec l'adorable amphibien. La petite grenouille a dû hiberner après la semaine sur le thème de la grenouille qu'elle a passée avec nous, permettant ainsi à la vraie Kiara de s'échapper du sous-sol. Incidemment, Frogiwawa avait exprimé son intérêt pour manger Nabi en raison de ses motifs de papillons. Malheureusement pour les employés de KFP, Kiara a tweeté qu'elle devra avoir une discussion avec les employés de KFP au sujet de leur trahison. De retour dans I'Usual Room, du coup.",
+      "text": "Les employés de KFP ont fait des adieux déchirants à Frogiwawa (le modèle 3D de grenouille de Kiara) après avoir passé une semaine avec l'adorable amphibien. La petite grenouille a dû hiberner après la semaine sur le thème de la grenouille qu'elle a passée avec nous, permettant ainsi à la vraie Kiara de s'échapper du sous-sol. Incidemment, Frogiwawa avait exprimé son intérêt pour manger Nabi en raison de ses motifs de papillons. Malheureusement pour les employés de KFP, Kiara a tweeté qu'elle devra avoir une discussion avec les employés de KFP au sujet de leur trahison. De retour dans l'Usual Room, du coup.",
       "bbox": {
         "x": 0.5119,
         "y": 0.8216,

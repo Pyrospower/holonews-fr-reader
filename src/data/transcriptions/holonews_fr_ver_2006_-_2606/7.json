@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2006_-_2606",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "paragraph",
@@ -26,13 +26,23 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "Avec une capuche",
       "bbox": {
         "x": 0.3428,
         "y": 0.7392,
         "width": 0.1761,
         "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "et… ça",
+      "bbox": {
+        "x": 0.149,
+        "y": 0.85,
+        "width": 0.073,
+        "height": 0.016
       }
     }
   ],

@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_0612_-_1212",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.115,
+        "y": 0.04,
+        "width": 0.304,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.215,
+        "width": 0.109,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Nene a montré les nouvelles expressions faciales de son modèle 2D. Elles incluent la tristesse et I'étonnement. Après une courte session de 5 chansons, elle a lâché une grosse annonce : Nene va faire un concert 3D de Noël avec Suisei et Towa le 21 décembre !",
+      "text": "Nene a montré les nouvelles expressions faciales de son modèle 2D. Elles incluent la tristesse et l’étonnement. Après une courte session de 5 chansons, elle a lâché une grosse annonce : Nene va faire un concert 3D de Noël avec Suisei et Towa le 21 décembre !",
       "bbox": {
         "x": 0.0506,
         "y": 0.2548,
@@ -36,13 +56,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "La+ a désormais accès à la monétisation ! Pour fêter ça, elle a fait un stream karaoké pour chanter une grande variété de chansons et mettre en avant sa voix. En moins d’une heure, elle a chanté environ 14 chansons, et lorsqu'elle a été interrogée à propos d’une lecture des Super Chats, elle a dit qu’elle les lirait mais pas pendant son stream. La+ a mis fin à son stream brusquement, comme d'habitude.",
+      "type": "heading",
+      "text": "Lamy",
       "bbox": {
-        "x": 0.0513,
-        "y": 0.806,
-        "width": 0.4181,
-        "height": 0.1441
+        "x": 0.633,
+        "y": 0.214,
+        "width": 0.126,
+        "height": 0.024
       }
     },
     {
@@ -57,12 +77,52 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour faire bon usage de son modèle 3D à la maison récemment obtenu, Lamy a fait un stream ASMR à l'improviste avec un massage à l'huile. En tant que maîtresse de l'ASMR, Lamy a parlé avec une voix douce, s'est bien occupé de ses spectateurs, et les a endormis.",
+      "text": "Pour faire bon usage de son modèle 3D à la maison récemment obtenu, Lamy a fait un stream ASMR à l'improviste avec un massage à l’huile. En tant que maîtresse de l’ASMR, Lamy a parlé avec une voix douce, s'est bien occupé de ses spectateurs, et les a endormis.",
       "bbox": {
         "x": 0.5225,
         "y": 0.4518,
         "width": 0.4213,
         "height": 0.1059
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOX",
+      "bbox": {
+        "x": 0.164,
+        "y": 0.592,
+        "width": 0.208,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.766,
+        "width": 0.082,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La+ a désormais accès à la monétisation ! Pour fêter ça, elle a fait un stream karaoké pour chanter une grande variété de chansons et mettre en avant sa voix. En moins d’une heure, elle a chanté environ 14 chansons, et lorsqu’elle a été interrogée à propos d’une lecture des Super Chats, elle a dit qu’elle les lirait mais pas pendant son stream. La+ a mis fin à son stream brusquement, comme d’habitude.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.806,
+        "width": 0.4181,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chloe",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.765,
+        "width": 0.124,
+        "height": 0.024
       }
     },
     {

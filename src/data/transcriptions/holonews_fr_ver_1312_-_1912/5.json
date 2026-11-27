@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_1312_-_1912",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 1",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.08,
+        "width": 0.197,
+        "height": 0.035
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.255,
+        "width": 0.183,
+        "height": 0.025
+      }
+    },
     {
       "type": "paragraph",
       "text": "Matsuri a été invitée pour jouer le rôle de juge lors de l'épreuve finale d'un concours de talents de VTubeurs : Let go ! VTuber Fes. Il s'agissait d'une émission en RA et elle était aux côtés de l'animateur Yoshida Hisanori.",
@@ -13,6 +33,16 @@
         "y": 0.2964,
         "width": 0.4181,
         "height": 0.0703
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.161,
+        "y": 0.516,
+        "width": 0.241,
+        "height": 0.024
       }
     },
     {
@@ -26,13 +56,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Aki",
+      "bbox": {
+        "x": 0.161,
+        "y": 0.842,
+        "width": 0.079,
+        "height": 0.025
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Twitter pense aussi qu'Aki n'est pas réelle, et a rapidement rejeté sa demande de \" certification. 1",
+      "text": "Twitter pense aussi qu'Aki n'est pas réelle, et a rapidement rejeté sa demande de certification.",
       "bbox": {
         "x": 0.0513,
         "y": 0.8832,
         "width": 0.4519,
         "height": 0.043
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.255,
+        "width": 0.16,
+        "height": 0.025
       }
     },
     {
@@ -43,6 +93,16 @@
         "y": 0.3021,
         "width": 0.4238,
         "height": 0.1437
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.59,
+        "width": 0.24,
+        "height": 0.024
       }
     },
     {
@@ -57,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Haachama a beaucoup réfléchi à la signification des paroles de certaines comptines pour enfants comme « Te no Hira wo Taiyou ni », « Anpanman March » et surtout « Yume wo Kanaete Doraemon », l'ayant faite pleurer. Elle a insisté sur la profondeur et la signification des paroles, et elle voulait que les spectateurs puissent —= aussi les comprendre. 388 Ve",
+      "text": "Haachama a beaucoup réfléchi à la signification des paroles de certaines comptines pour enfants comme « Te no Hira wo Taiyou ni », « Anpanman March » et surtout « Yume wo Kanaete Doraemon », l’ayant faite pleurer. Elle a insisté sur la profondeur et la signification des paroles, et elle voulait que les spectateurs puissent aussi les comprendre.",
       "bbox": {
         "x": 0.5206,
         "y": 0.7778,

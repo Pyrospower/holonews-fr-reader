@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_1107_-_1707",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,6 +16,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Sana & Ame",
+      "bbox": {
+        "x": 0.1708,
+        "y": 0.3665,
+        "width": 0.1908,
+        "height": 0.0235
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Pour la première collaboration d'une longue liste, Sana a dégusté du pain avec Ame. Elles ont reçu des images de fans qui ont été envoyées sur Twitter avec le hashtag #SanaPanAme. Sana s'était préparé une miche de pain et l'a mangée tout en examinant les dessins des pains. Ame a nourri Sana avec quelques dessins. Elles ont échangé des messages réconfortants, se sont complimentées mutuellement sur leur travail et ont souhaité le meilleur pour la graduation de Sana. Pour finir, Sana a parlé de sa prochaine collaboration, qu'elle fera avec Reine.",
       "bbox": {
@@ -23,6 +33,16 @@
         "y": 0.4071,
         "width": 0.3906,
         "height": 0.1745
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana & Reine",
+      "bbox": {
+        "x": 0.1723,
+        "y": 0.8013,
+        "width": 0.2108,
+        "height": 0.0214
       }
     },
     {
@@ -37,7 +57,7 @@
     },
     {
       "type": "heading",
-      "text": "Ue na & Kobo",
+      "text": "Sana & Kobo",
       "bbox": {
         "x": 0.5438,
         "y": 0.1667,
@@ -47,12 +67,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour sa premiére collaboration avec Kobo, et la troisième collaboration avant sa graduation, Sana a joue a PowerWash Simulator. Sana a appris quelques mots indonésiens comme « bacod » qui signifie « tais-toi ». Après plusieurs tentatives, Sana a finalement réussi à le prononcer correctement, et Kobo l'a reconnue comme indonésienne d'honneur. Kobo a également parlé de l'argot indonésien, non seulement en indonésien, mais aussi dans d'autres dialectes. Vers la fin du stream, Kobo était triste car elles ne pourraient pas refaire de collaboration en raison de l'emploi du temps chargé de Sana. Ensuite, Sana a promis de garder un œil sur elle depuis l'espace, et Kobo a chanté une chanson pour Sana pour lui dire combien elle était heureuse de la connaître.",
+      "text": "Pour sa première collaboration avec Kobo, et la troisième collaboration avant sa graduation, Sana à joue à PowerWash Simulator. Sana a appris quelques mots indonésiens comme « bacod » qui signifie « tais-toi ». Après plusieurs tentatives, Sana a finalement réussi à le prononcer correctement, et Kobo l'a reconnue comme indonésienne d'honneur. Kobo a également parlé de l'argot indonésien, non seulement en indonésien, mais aussi dans d'autres dialectes. Vers la fin du stream, Kobo était triste car elles ne pourraient pas refaire de collaboration en raison de l'emploi du temps chargé de Sana. Ensuite, Sana a promis de garder un œil sur elle depuis l'espace, et Kobo a chanté une chanson pour Sana pour lui dire combien elle était heureuse de la connaître.",
       "bbox": {
         "x": 0.5375,
         "y": 0.2222,
         "width": 0.3906,
         "height": 0.2253
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana & Watame",
+      "bbox": {
+        "x": 0.6415,
+        "y": 0.7895,
+        "width": 0.2477,
+        "height": 0.0235
       }
     },
     {

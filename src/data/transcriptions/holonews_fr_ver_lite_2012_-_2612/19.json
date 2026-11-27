@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_lite_2012_-_2612",
   "page": 19,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,36 @@
         "y": 0.0286,
         "width": 0.3125,
         "height": 0.0725
+      }
+    },
+    {
+      "type": "other",
+      "text": "AYAME\n1.2 M",
+      "bbox": {
+        "x": 0.145,
+        "y": 0.1549,
+        "width": 0.0981,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "other",
+      "text": "LAPLUS\n600K",
+      "bbox": {
+        "x": 0.2519,
+        "y": 0.2023,
+        "width": 0.105,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "other",
+      "text": "LAMY\n900K",
+      "bbox": {
+        "x": 0.1525,
+        "y": 0.253,
+        "width": 0.0819,
+        "height": 0.043
       }
     },
     {
@@ -47,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "• 32 décembre : Anniversaire d'Omegaa",
+      "text": "• 32 décembre : Anniversaire d’Omegaα",
       "bbox": {
         "x": 0.5475,
         "y": 0.2339,
@@ -77,7 +107,7 @@
     },
     {
       "type": "heading",
-      "text": "Merci!",
+      "text": "Merci !",
       "bbox": {
         "x": 0.3881,
         "y": 0.6497,
@@ -87,32 +117,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Merci d’avoir consulté notre édition allégée spéciale vacances ! La majorité des membres de l’équipe de production sont en pause, alors veuillez nous excuser si cette édition n’est pas",
+      "text": "Merci d’avoir consulté notre édition allégée spéciale vacances ! La majorité des membres de l’équipe de production sont en pause, alors veuillez nous excuser si cette édition n’est pas aussi approfondie que d’habitude, et passez de bonnes vacances et une bonne année !",
       "bbox": {
         "x": 0.055,
         "y": 0.6931,
         "width": 0.8844,
-        "height": 0.0677
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "aussi approfondie que d'habitude, et passez de bonnes",
-      "bbox": {
-        "x": 0.1069,
-        "y": 0.7622,
-        "width": 0.7806,
-        "height": 0.0234
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "vacances et une bonne année !",
-      "bbox": {
-        "x": 0.2744,
-        "y": 0.7852,
-        "width": 0.4431,
-        "height": 0.0174
+        "height": 0.1095
       }
     },
     {

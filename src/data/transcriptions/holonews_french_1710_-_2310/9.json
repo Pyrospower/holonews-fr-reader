@@ -3,11 +3,21 @@
   "issueId": "holonews_french_1710_-_2310",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.1419,
+        "y": 0.2526,
+        "width": 0.0663,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Lors du Lundi productif de cette semaine, et aussi pour le défi quotidien d'Holoctobre, lofi a dessiné une demoiselle IRyS, prouvant ainsi qu'un ange peut effectivement dessiner le portrait d'un nephilim.",
+      "text": "Lors du Lundi productif de cette semaine, et aussi pour le défi quotidien d'Holoctobre, Iofi a dessiné une demoiselle IRyS, prouvant ainsi qu'un ange peut effectivement dessiner le portrait d'un nephilim.",
       "bbox": {
         "x": 0.0438,
         "y": 0.299,
@@ -17,7 +27,7 @@
     },
     {
       "type": "heading",
-      "text": "lofi",
+      "text": "Iofi",
       "bbox": {
         "x": 0.0431,
         "y": 0.372,
@@ -27,12 +37,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Le loSalon a ouvert ses portes cette semaine avec Subaru et Towa comme invitées ! Subaru a reçu des cheveux ondulés et flottants, avec un ruban girly, et le look de quelqu'un sur le point d'entrer au pays des merveilles. Towa a eu les cheveux longs attachés en queue de cheval avec une frange sur les côtés et un front nu, montrant toute la puissance de son apparence (non) démoniaque.",
+      "text": "Le IoSalon a ouvert ses portes cette semaine avec Subaru et Towa comme invitées ! Subaru a reçu des cheveux ondulés et flottants, avec un ruban girly, et le look de quelqu'un sur le point d'entrer au pays des merveilles. Towa a eu les cheveux longs attachés en queue de cheval avec une frange sur les côtés et un front nu, montrant toute la puissance de son apparence (non) démoniaque.",
       "bbox": {
         "x": 0.0431,
         "y": 0.4232,
         "width": 0.4456,
         "height": 0.1033
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Zeta",
+      "bbox": {
+        "x": 0.1225,
+        "y": 0.6745,
+        "width": 0.0906,
+        "height": 0.0217
       }
     },
     {
@@ -46,6 +66,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.6094,
+        "y": 0.1576,
+        "width": 0.0919,
+        "height": 0.0239
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Lors de sa récente collaboration avec Zeta et Selen Tatsuki de NIJISANJI EN, Ollie a expliqué qu'elle avait une « allocation Apex » mensuelle à dépenser sur le jeu, déclarée être aussi élevée que ce qu'elle dépense pour sa nourriture. Selen a dit qu'il ne semblait pas que Ollie mentait, ce que Zeta a confirmé.",
       "bbox": {
@@ -56,18 +86,38 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "organisé une collaboration Back 4 Blood. Après avoir perdu quelques fois, ils ont terminé l'intégralité de l'acte 1 dans la difficulté la plus faible. Comme prévu, Zeta et Axel se chamaillaient régulièrement, Risu était toujours aussi séduisante, et Altare a expliqué longuement comment il voulait être transformé en diamant post-mortem. Entre Risu qui demandait à chacun sa « forme préférée », Zeta qui ne mâchait pas ses mots sur la nature de la \"réunion d'idoles\" d'Altare et une grande quantité de tirs amis, le résultat a été un stream très chaotique.",
+      "type": "heading",
+      "text": "Collab",
       "bbox": {
-        "x": 0.5113,
-        "y": 0.3681,
-        "width": 0.4463,
-        "height": 0.1428
+        "x": 0.72,
+        "y": 0.3095,
+        "width": 0.1237,
+        "height": 0.0226
       }
     },
     {
       "type": "paragraph",
-      "text": "Kobo, toujours en congé maladie, a tweeté au hasard pour demander si elle pouvait manger quelque chose d'épicé et de croustillant avec du MSG dedans. Halodoc, un service médical en ligne en Indonésie, a répondu qu'il valait mieux ne pas manger quelque chose de ce genre pour éviter toute irritation, et a conseillé à Kobo de boire plus d'eau même si elle est «un personnage d'anime ».",
+      "text": "Risu, Zeta, Altare et Brian Griffin (alias Axel) ont organisé une collaboration Back 4 Blood. Après avoir perdu quelques fois, ils ont terminé l'intégralité de l'acte 1 dans la difficulté la plus faible. Comme prévu, Zeta et Axel se chamaillaient régulièrement, Risu était toujours aussi séduisante, et Altare a expliqué longuement comment il voulait être transformé en diamant post-mortem. Entre Risu qui demandait à chacun sa « forme préférée », Zeta qui ne mâchait pas ses mots sur la nature de la \"réunion d'idoles\" d'Altare et une grande quantité de tirs amis, le résultat a été un stream très chaotique.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.355,
+        "width": 0.4463,
+        "height": 0.1559
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kobo",
+      "bbox": {
+        "x": 0.5919,
+        "y": 0.5304,
+        "width": 0.0994,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kobo, toujours en congé maladie, a tweeté au hasard pour demander si elle pouvait manger quelque chose d'épicé et de croustillant avec du MSG dedans. Halodoc, un service médical en ligne en Indonésie, a répondu qu'il valait mieux ne pas manger quelque chose de ce genre pour éviter toute irritation, et a conseillé à Kobo de boire plus d'eau même si elle est « un personnage d’anime ».",
       "bbox": {
         "x": 0.5119,
         "y": 0.5734,
@@ -77,7 +127,7 @@
     },
     {
       "type": "heading",
-      "text": "lofi",
+      "text": "Iofi",
       "bbox": {
         "x": 0.5138,
         "y": 0.6875,
@@ -87,7 +137,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Un loforia a répondu à lofi sur Facebook en disant « Yopi honeyy », ce à quoi lofi a répondu, le rendant heureux. Cependant, son bonheur a été écourté lorsque sa femme est apparue en disant qu'il était halu et a menacé de le mettre à la porte. Après un certain temps, lofi s'en est aperçue et a renvoyé le mari, car elle a déjà une femme elle aussi.",
+      "text": "Un Ioforia a répondu à Iofi sur Facebook en disant « Yopi honeyy », ce à quoi Iofi a répondu, le rendant heureux. Cependant, son bonheur a été écourté lorsque sa femme est apparue en disant qu'il était halu et a menacé de le mettre à la porte. Après un certain temps, Iofi s'en est aperçue et a renvoyé le mari, car elle a déjà une femme elle aussi.",
       "bbox": {
         "x": 0.5113,
         "y": 0.7378,

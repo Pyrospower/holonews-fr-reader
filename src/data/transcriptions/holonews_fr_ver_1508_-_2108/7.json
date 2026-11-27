@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "HOLOSTARS GREAT VOYAGE to UNIVERSE!!",
+      "bbox": {
+        "x": 0.0141,
+        "y": 0.1681,
+        "width": 0.9703,
+        "height": 0.0976
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Aruran, lzuru, Roberu et Shien se sont réunis pour accomplir trois missions différentes afin d'annoncer plus de détails sur leur prochain concert.",
+      "text": "Aruran, Izuru, Roberu et Shien se sont réunis pour accomplir trois missions différentes afin d'annoncer plus de détails sur leur prochain concert.",
       "bbox": {
         "x": 0.0589,
         "y": 0.4105,
@@ -27,32 +37,12 @@
     },
     {
       "type": "other",
-      "text": "HOLOSTARS 2nd ACT",
-      "bbox": {
-        "x": 0.0689,
-        "y": 0.5984,
-        "width": 0.1272,
-        "height": 0.0062
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "GRE vo",
+      "text": "HOLOSTARS 2nd ACT\nGREAT VOYAGE to UNIVERSE!!\n2022.10.20",
       "bbox": {
         "x": 0.0583,
-        "y": 0.6092,
-        "width": 0.1361,
-        "height": 0.0282
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "INIVEF RSE!",
-      "bbox": {
-        "x": 0.3139,
-        "y": 0.6092,
-        "width": 0.1356,
-        "height": 0.0239
+        "y": 0.5954,
+        "width": 0.3917,
+        "height": 0.037
       }
     },
     {
@@ -77,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Des billets premium sont disponibles pour les places au Zepp DiverCity et pour le streaming en ligne, accompagné de bonus différents. Les détenteurs de billets premium qui assisteront au concert en personne recevront une série de 10 photos style polaroid, tandis que les détenteurs de billets pour le visionnage en direct premium recevront une plaque en acrylique AS signé et une vidéo de quarante-cinq minutes de moments pris dans les coulisses durant la préparation du concert.",
+      "text": "Des billets premium sont disponibles pour les places au Zepp DiverCity et pour le streaming en ligne, accompagné de bonus différents. Les détenteurs de billets premium qui assisteront au concert en personne recevront une série de 10 photos style polaroid, tandis que les détenteurs de billets pour le visionnage en direct premium recevront une plaque en acrylique A5 signé et une vidéo de quarante-cinq minutes de moments pris dans les coulisses durant la préparation du concert.",
       "bbox": {
         "x": 0.5544,
         "y": 0.4105,
@@ -87,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Cette fois-ci, les produits dérivés sont les suivants :\n• Des bandanas (trois types) Un t-shirt De grands éventails (neuf types) Un bâton lumineux « Stars Light » Des badges (neuf types) Des figurines en acrylique (neuf types)",
+      "text": "Cette fois-ci, les produits dérivés sont les suivants :\n• Des bandanas (trois types)\n• Un t-shirt\n• De grands éventails (neuf types)\n• Un bâton lumineux « Stars Light »\n• Des badges (neuf types)\n• Des figurines en acrylique (neuf types)",
       "bbox": {
         "x": 0.555,
         "y": 0.591,
@@ -96,8 +86,18 @@
       }
     },
     {
+      "type": "other",
+      "text": "STARS LIGHT ¥4,000\nT-Shirt ¥4,000\nStand ¥2,000\nBIG Hand Fan ¥800\nButton Badge ¥600",
+      "bbox": {
+        "x": 0.5547,
+        "y": 0.7148,
+        "width": 0.3875,
+        "height": 0.103
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "HOLOSTARS accepte également des commandes de bouquets numériques. Ils ont également rappelé que le Blu-ray de HOLOSTARS 1st ACT, leur premier concert, sortira le 31 août. Un livret d'images spéciales et d'autres bonus seront inclus à l'achat. Ne uez pas HOLOSTARS 2nd ACT le 20 octobre 2022 !",
+      "text": "HOLOSTARS accepte également des commandes de bouquets numériques. Ils ont également rappelé que le Blu-ray de HOLOSTARS 1st ACT, leur premier concert, sortira le 31 août. Un livret d'images spéciales et d'autres bonus seront inclus à l'achat. Ne manquez pas HOLOSTARS 2nd ACT le 20 octobre 2022 !",
       "bbox": {
         "x": 0.5544,
         "y": 0.8314,

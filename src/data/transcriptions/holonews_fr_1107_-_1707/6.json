@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_1107_-_1707",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,26 +13,6 @@
         "y": 0.0382,
         "width": 0.1113,
         "height": 0.023
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "FEHARCS sans Thank you, Marin.",
-      "bbox": {
-        "x": 0.16,
-        "y": 0.0907,
-        "width": 0.2081,
-        "height": 0.0395
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "FEHARCS sanss DeepL Forgive the translation",
-      "bbox": {
-        "x": 0.16,
-        "y": 0.2261,
-        "width": 0.2894,
-        "height": 0.0399
       }
     },
     {
@@ -56,8 +36,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gen 6",
+      "bbox": {
+        "x": 0.6677,
+        "y": 0.0342,
+        "width": 0.12,
+        "height": 0.0267
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.6369,
+        "y": 0.2254,
+        "width": 0.1092,
+        "height": 0.0235
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Malgré qu'elle raconte avoir un permis de conduire doré, la conduite de camion de Koyori laisse penser autrement. Dans Euro Truck Simulator 2, elle a percuté d’autres véhicules, des garde-barrières, et bien sûr, elle a renversé le camion sur le côté.",
+      "text": "Malgré qu’elle raconte avoir un permis de conduire doré, la conduite de camion de Koyori laisse penser autrement. Dans Euro Truck Simulator 2, elle a percuté d’autres véhicules, des garde-barrières, et bien sûr, elle a renversé le camion sur le côté.",
       "bbox": {
         "x": 0.5406,
         "y": 0.2678,
@@ -76,13 +76,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.5417,
+        "width": 0.0923,
+        "height": 0.0267
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Polka a promu le film Aikatsu Planet!, et a interviewé l'actrice vedette Date Kaaya. Aikatsu est une série présente sur plusieurs média basé sur les idoles avec des jeux et un anime et est l'une des série préférée de Polka. Les rôles se sont ensuite inversés dans la deuxième partie et Polka s'est faite interviewer.",
+      "text": "Polka a promu le film Aikatsu Planet!, et a interviewé l’actrice vedette Date Kaaya. Aikatsu est une série présente sur plusieurs média basé sur les idoles avec des jeux et un anime et est l’une des série préférée de Polka. Les rôles se sont ensuite inversés dans la deuxième partie et Polka s'est faite interviewer.",
       "bbox": {
         "x": 0.07,
         "y": 0.5833,
         "width": 0.3913,
         "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.8964,
+        "width": 0.0831,
+        "height": 0.0203
       }
     },
     {
@@ -116,23 +136,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "En reprenant là où nous nous sommes arrêtés après le stream Raft du mois dernier, Shishiron a battu le requin géant et a découvert les coordonnées d’une zone inexplorée. Là-bas, elle a trouvé une base couverte de neige, des ours polaires et des motoneiges. Conduire a toujours été l’un des points faibles de Shishiron, démontrer par le fait qu’elle est parvenue à heurter un ours polaire et à",
+      "type": "heading",
+      "text": "Botan",
       "bbox": {
-        "x": 0.5356,
-        "y": 0.8377,
-        "width": 0.3925,
-        "height": 0.1272
+        "x": 0.6323,
+        "y": 0.7981,
+        "width": 0.1,
+        "height": 0.0214
       }
     },
     {
       "type": "paragraph",
-      "text": "asculer de son véhicule à plusieurs reprises, ce qui l’a fait beaucoup rire.",
+      "text": "En reprenant là où nous nous sommes arrêtés après le stream Raft du mois dernier, Shishiron a battu le requin géant et a découvert les coordonnées d’une zone inexplorée. Là-bas, elle a trouvé une base couverte de neige, des ours polaires et des motoneiges. Conduire a toujours été l’un des points faibles de Shishiron, démontrer par le fait qu’elle est parvenue à heurter un ours polaire et à basculer de son véhicule à plusieurs reprises, ce qui l’a fait beaucoup rire.",
       "bbox": {
-        "x": 0.5363,
-        "y": 0.9549,
-        "width": 0.3781,
-        "height": 0.026
+        "x": 0.5356,
+        "y": 0.8377,
+        "width": 0.3925,
+        "height": 0.1432
       }
     }
   ],

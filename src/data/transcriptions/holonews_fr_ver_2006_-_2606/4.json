@@ -3,16 +3,46 @@
   "issueId": "holonews_fr_ver_2006_-_2606",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Kanade Izuru",
+      "bbox": {
+        "x": 0.53,
+        "y": 0.547,
+        "width": 0.37,
+        "height": 0.116
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour fêter son 3e anniversaire à HOLOSTARS 3D, lzuru a fait un concert ! I a ouvert le concert avec « Pride Revolution », puis a ensuite interprété « Ame Mochi Hallelujah » avec Rikka. Ils avaient tous deux des guitares à la main durant ce passage. lzuru a ensuite chanté « Hello, world! » avant de se rendre sur la plateforme centrale. Il a ressorti sa guitare et a joué une version acoustique de « Seasons Die One After Another ». Puis, pour la première fois en 3D, il a chanté en jouant du piano.",
+      "text": "Pour fêter son 3e anniversaire à HOLOSTARS 3D, Izuru a fait un concert ! Il a ouvert le concert avec « Pride Revolution », puis a ensuite interprété « Ame Mochi Hallelujah » avec Rikka. Ils avaient tous deux des guitares à la main durant ce passage. Izuru a ensuite chanté « Hello, world! » avant de se rendre sur la plateforme centrale. Il a ressorti sa guitare et a joué une version acoustique de « Seasons Die One After Another ». Puis, pour la première fois en 3D, il a chanté en jouant du piano.",
       "bbox": {
         "x": 0.0628,
         "y": 0.1096,
         "width": 0.405,
         "height": 0.2064
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a chanté « Inochi no Namae » et bien qu'il y ait eu quelques erreurs, Izuru l'a chanté avec beaucoup d'émotion.",
+      "bbox": {
+        "x": 0.5322,
+        "y": 0.1096,
+        "width": 0.4044,
+        "height": 0.0467
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De nulle part, Astel s'est téléporté sur la scène et ils ont chanté ensemble pour la première fois, en interprétant « Walking in the Center of the World ». Après la téléportation d'Astel, Izuru est sorti pour interpréter sa chanson originale, « Monologue in a Row ». Le concert s'est terminé avec Izuru, Rikka et Astel qui ont interprété « Just Follow Stars » sur la scène principale de la HOLOSTARS Arena.",
+      "bbox": {
+        "x": 0.5317,
+        "y": 0.3256,
+        "width": 0.405,
+        "height": 0.1586
       }
     },
     {
@@ -27,42 +57,12 @@
     },
     {
       "type": "paragraph",
-      "text": "» Une pochette transparente format A4.",
+      "text": "• Une pochette transparente format A4.\n• Une paire de bague d'oreilles\n• Sac à accessoires\n• Un ensemble de médiators avec le design Izuru",
       "bbox": {
         "x": 0.0828,
         "y": 0.7801,
         "width": 0.3767,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "» Une paire de bague d'oreilles",
-      "bbox": {
-        "x": 0.0828,
-        "y": 0.7963,
-        "width": 0.2972,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "» Sac à accessoires",
-      "bbox": {
-        "x": 0.0828,
-        "y": 0.8129,
-        "width": 0.1911,
-        "height": 0.0108
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Un ensemble de médiators avec le design lzuru",
-      "bbox": {
-        "x": 0.0828,
-        "y": 0.8291,
-        "width": 0.3489,
-        "height": 0.0309
+        "height": 0.0799
       }
     },
     {
@@ -73,26 +73,6 @@
         "y": 0.8789,
         "width": 0.3872,
         "height": 0.0301
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Il a chanté « Inochi no Namae » et bien qu'il y ait eu quelques erreurs, lzuru l'a chanté avec beaucoup d'émotion.",
-      "bbox": {
-        "x": 0.5322,
-        "y": 0.1096,
-        "width": 0.4044,
-        "height": 0.0467
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "De nulle part, Astel s'est téléporté sur la scène et ils ont chanté ensemble pour la première fois, en interprétant « Walking in the Center of the World ». Après la téléportation d'Astel, lzuru est sorti pour interpréter sa chanson originale, « Monologue in a Row ». Le concert s'est terminé avec lzuru, Rikka et Astel qui ont interprété « Just Follow Stars » sur la scène principale de la HOLOSTARS Arena.",
-      "bbox": {
-        "x": 0.5317,
-        "y": 0.3256,
-        "width": 0.405,
-        "height": 0.1586
       }
     }
   ],

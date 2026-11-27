@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1807_-_2407",
   "page": 20,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,78 +16,68 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Paliers (que nous avons loupés",
+      "type": "heading",
+      "text": "Paliers (que nous avons loupés la semaine dernière)",
       "bbox": {
         "x": 0.0894,
         "y": 0.0729,
         "width": 0.3475,
-        "height": 0.0152
+        "height": 0.0399
       }
     },
     {
-      "type": "paragraph",
-      "text": "la semaine dernière)",
+      "type": "other",
+      "text": "Botan 1,2 M | Temma 120k\nSana 350k | Kaela 350k",
       "bbox": {
-        "x": 0.15,
-        "y": 0.0985,
-        "width": 0.2313,
-        "height": 0.0143
+        "x": 0.166,
+        "y": 0.152,
+        "width": 0.273,
+        "height": 0.09
       }
     },
     {
-      "type": "paragraph",
-      "text": "Omegaa 140k",
+      "type": "heading",
+      "text": "Paliers",
       "bbox": {
-        "x": 0.6338,
-        "y": 0.2708,
-        "width": 0.075,
-        "height": 0.0256
+        "x": 0.66,
+        "y": 0.151,
+        "width": 0.151,
+        "height": 0.025
       }
     },
     {
-      "type": "paragraph",
-      "text": "holostars ch. 190k",
+      "type": "other",
+      "text": "Uyu 60k | Miyabi 125k\nOmegaα 140k | Shien 200k\nholostars ch. 190k | Fuma 70k\nDezmond 90k | Altare 90k\nAxel 90k | Vesper 90k",
       "bbox": {
-        "x": 0.6344,
-        "y": 0.3394,
-        "width": 0.1069,
-        "height": 0.026
+        "x": 0.632,
+        "y": 0.207,
+        "width": 0.276,
+        "height": 0.291
       }
     },
     {
-      "type": "paragraph",
-      "text": "Evénements a venir 90k\n• 24 juillet : Anniversaire de Rio",
+      "type": "heading",
+      "text": "Événements à venir",
       "bbox": {
-        "x": 0.0694,
-        "y": 0.4536,
-        "width": 0.805,
-        "height": 0.066
+        "x": 0.068,
+        "y": 0.448,
+        "width": 0.397,
+        "height": 0.028
       }
     },
     {
       "type": "paragraph",
-      "text": "• 30 juillet : Anniversaire de Marine",
+      "text": "• 24 juillet : Anniversaire de Rio\n• 30 juillet : Anniversaire de Marine\n• 30 Juillet : Concert virtuel de Watame et Botan dans VARK\n• 1er août : 4e anniversaire des débuts de Miko, « Baby Dance Live »",
       "bbox": {
-        "x": 0.1213,
-        "y": 0.5317,
-        "width": 0.3463,
-        "height": 0.0152
+        "x": 0.119,
+        "y": 0.504,
+        "width": 0.352,
+        "height": 0.146
       }
     },
     {
-      "type": "paragraph",
-      "text": "• 30 Juillet : Concert virtuel de Watame et Botan dans VARK e ler août : 4e anniversaire des débuts de Miko, « Baby Dance Live »",
-      "bbox": {
-        "x": 0.1213,
-        "y": 0.559,
-        "width": 0.3225,
-        "height": 0.0872
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "type": "other",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
         "x": 0.0463,
         "y": 0.691,
@@ -96,7 +86,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "Merci d’avoir lu et à la semaine prochaine !",
       "bbox": {
         "x": 0.0463,

@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_1403_-_2003",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Gen 0",
+      "bbox": {
+        "x": 0.4412,
+        "y": 0.0161,
+        "width": 0.1187,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.1663,
+        "y": 0.1788,
+        "width": 0.08,
+        "height": 0.0182
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "La semaine dernière, Miko a joué à Mario Kart tout en imitant ses cadettes. Elle a notamment essayé d'imiter Korone, mais n’a réussi qu’à prononcer que quelques phrases. Miko a également essayé d'imiter Marine et était fiere du résultat. Et elle a finalement imité Subaru en racontant une fausse histoire sur Choco en imitant sa voix.",
+      "text": "La semaine dernière, Miko a joué à Mario Kart tout en imitant ses cadettes. Elle a notamment essayé d’imiter Korone, mais n’a réussi qu’à prononcer que quelques phrases. Miko a également essayé d’imiter Marine et était fière du résultat. Et elle a finalement imité Subaru en racontant une fausse histoire sur Choco en imitant sa voix.",
       "bbox": {
         "x": 0.0694,
         "y": 0.2183,
@@ -16,33 +36,53 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "La semaine dernière, Suisei a tenté quelque chose de nouveau dans son stream Tetris 99 :",
+      "type": "heading",
+      "text": "Suisei",
       "bbox": {
-        "x": 0.0594,
-        "y": 0.5473,
-        "width": 0.4194,
-        "height": 0.0256
+        "x": 0.1669,
+        "y": 0.5126,
+        "width": 0.0969,
+        "height": 0.0187
       }
     },
     {
       "type": "paragraph",
-      "text": "elle a prétendu que c'était la première fois qu'il y jouait. Les spectateurs ont joué le jeu en lui faisant remarquer qu’elle jouait assez vite pour quelqu'un de nouveau sur Tetris. Elle a conclu de ce stream qu'elle était née pour jouer à ce jeu.",
+      "text": "La semaine dernière, Suisei a tenté quelque chose de nouveau dans son stream Tetris 99 : elle a prétendu que c’était la première fois qu’il y jouait. Les spectateurs ont joué le jeu en lui faisant remarquer qu’elle jouait assez vite pour quelqu’un de nouveau sur Tetris. Elle a conclu de ce stream qu’elle était née pour jouer à ce jeu.",
       "bbox": {
         "x": 0.0581,
-        "y": 0.5768,
-        "width": 0.4194,
-        "height": 0.0877
+        "y": 0.5473,
+        "width": 0.4207,
+        "height": 0.1172
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.8116,
+        "width": 0.0969,
+        "height": 0.0195
       }
     },
     {
       "type": "paragraph",
-      "text": "Après avoir annoncé qu'aucun concert n'aurait lieu pour son prochain anniversaire, Suisei en a finalement fait l'annonce lors de son stream karaoké pour le 22 mars.",
+      "text": "Après avoir annoncé qu’aucun concert n’aurait lieu pour son prochain anniversaire, Suisei en a finalement fait l’annonce lors de son stream karaoké pour le 22 mars.",
       "bbox": {
         "x": 0.07,
         "y": 0.8477,
         "width": 0.3869,
         "height": 0.0699
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.6331,
+        "y": 0.1814,
+        "width": 0.0806,
+        "height": 0.0191
       }
     },
     {
@@ -56,13 +96,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.4223,
+        "width": 0.0731,
+        "height": 0.0191
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 14 mars, Sora, qui portait un casque audio ce jour-là, s'est servie de son stream de chant pour faire une annonce. Il s'agissait d’un CD limité contenant une des musiques qui figurera sur son prochain CD d'anniversaire. Happy Meowthday ! Le CD annoncé peut être précommandé et est accompagné d'un casque JVM incluant son logo. La date limite pour les précommandes est le 23 mars.",
+      "text": "Le 14 mars, Sora, qui portait un casque audio ce jour-là, s’est servie de son stream de chant pour faire une annonce. Il s’agissait d’un CD limité contenant une des musiques qui figurera sur son prochain CD d’anniversaire. Happy Meowthday ! Le CD annoncé peut être précommandé et est accompagné d’un casque JVM incluant son logo. La date limite pour les précommandes est le 23 mars.",
       "bbox": {
         "x": 0.5369,
         "y": 0.4583,
         "width": 0.3894,
         "height": 0.1467
+      }
+    },
+    {
+      "type": "heading",
+      "text": "AZKi",
+      "bbox": {
+        "x": 0.6325,
+        "y": 0.7639,
+        "width": 0.08,
+        "height": 0.0191
       }
     },
     {

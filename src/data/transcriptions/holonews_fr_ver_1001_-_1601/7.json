@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_1001_-_1601",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.185,
+        "y": 0.06,
+        "width": 0.163,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.232,
+        "width": 0.134,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Un spectateur a suggéré à Choco de faire cuire son ragoût dans son cuiseur à riz, mais Choco a rejeté cette proposition en argumentant qu'elle ne voulait pas qu'il s'imprègne de l'odeur. Un autre spectateur lui a proposé d'en acheter un nouveau, mais elle a également rejeté cette idée car son cuiseur à riz lui avait été offert par l'un de ses spectateurs et elle ne voulait pas s'en débarrasser.",
+      "text": "Un spectateur a suggéré à Choco de faire cuire son ragoût dans son cuiseur à riz, mais Choco a rejeté cette proposition en argumentant qu'elle ne voulait pas qu'il s’imprègne de l’odeur. Un autre spectateur lui a proposé d'en acheter un nouveau, mais elle a également rejeté cette idée car son cuiseur à riz lui avait été offert par l'un de ses spectateurs et elle ne voulait pas s'en débarrasser.",
       "bbox": {
         "x": 0.0513,
         "y": 0.2726,
@@ -16,7 +36,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Subaru & Ui Mama",
       "bbox": {
         "x": 0.1863,
@@ -33,6 +53,16 @@
         "y": 0.7109,
         "width": 0.4206,
         "height": 0.1081
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.232,
+        "width": 0.114,
+        "height": 0.027
       }
     },
     {
@@ -53,6 +83,16 @@
         "y": 0.444,
         "width": 0.4275,
         "height": 0.0816
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.656,
+        "width": 0.167,
+        "height": 0.024
       }
     },
     {

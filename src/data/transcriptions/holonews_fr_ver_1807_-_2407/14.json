@@ -3,16 +3,26 @@
   "issueId": "holonews_fr_ver_1807_-_2407",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "= ex) Kiara & Calli 4",
+      "text": "EN1",
       "bbox": {
-        "x": 0.0869,
-        "y": 0.1363,
-        "width": 0.2875,
-        "height": 0.0482
+        "x": 0.461,
+        "y": 0.016,
+        "width": 0.079,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara & Calli",
+      "bbox": {
+        "x": 0.178,
+        "y": 0.151,
+        "width": 0.198,
+        "height": 0.023
       }
     },
     {
@@ -56,6 +66,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.174,
+        "y": 0.793,
+        "width": 0.074,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Le 21 juillet, Calli a fait son premier concert solo, New Underworld Order ! La liste des musiques interprétées (mais aucune de vidéo) est disponible sur les comptes Twitter hololive EN et hololive event. Les archives complètes seront disponibles à la vente sur le site SPWN jusqu'au 21 août 2022. Veuillez noter que l'ensemble du concert contient des lumières et des images clignotantes et peut donc ne pas convenir aux personnes épileptiques ou ayant des troubles sensoriels.",
       "bbox": {
@@ -63,6 +83,16 @@
         "y": 0.832,
         "width": 0.3863,
         "height": 0.1445
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.152,
+        "width": 0.074,
+        "height": 0.023
       }
     },
     {
@@ -86,13 +116,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ame",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.536,
+        "width": 0.074,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Ame a enfin jugé les terrariums de ses fans, qu'ils envoient sur Twitter avec le hashtag #AmeCraft depuis le mois dernier. Au cours du stream, Ame a fait l'éloge des terrariums et a prouvé ses connaissances en botanique en Identifiant et en parlant des nombreuses plantes présentes dans les terrariums, et même en expliquant comment s'occuper de certaines plantes. Parmi les nombreuses photos, nous avons vu beaucoup de décorations avec des alligators, des Smol Ame et même une décoration en forme de takodachi. À la fin, Ame a remercié tous les participants et nous a montré quelques-uns de ses propres terrariums ainsi que de jolies photos de son chat Henry.",
+      "text": "Ame a enfin jugé les terrariums de ses fans, qu'ils envoient sur Twitter avec le hashtag #AmeCraft depuis le mois dernier. Au cours du stream, Ame a fait l'éloge des terrariums et a prouvé ses connaissances en botanique en identifiant et en parlant des nombreuses plantes présentes dans les terrariums, et même en expliquant comment s'occuper de certaines plantes. Parmi les nombreuses photos, nous avons vu beaucoup de décorations avec des alligators, des Smol Ame et même une décoration en forme de takodachi. À la fin, Ame a remercié tous les participants et nous a montré quelques-uns de ses propres terrariums ainsi que de jolies photos de son chat Henry.",
       "bbox": {
         "x": 0.5381,
         "y": 0.5751,
         "width": 0.3888,
         "height": 0.1949
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.829,
+        "width": 0.053,
+        "height": 0.023
       }
     },
     {

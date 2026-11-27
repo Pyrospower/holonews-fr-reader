@@ -3,26 +3,56 @@
   "issueId": "holonews_fr_ver_2908_-_0409",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "e Mumei Mumei a été ajoutée comme navigatrice dans Groove Coaster: Wai Wai Party! En plus de cela, sa musique originale « A New Start » a été ajoutée au jeu, accomplissant son objectif d’apparaître dans un jeu de rythme. Mumei a également joué au jeu durant un stream, au cours duquel elle a chanté en maîtrisant à la perfection ses musiques et celles d'autres membres d’hololive.",
+      "type": "heading",
+      "text": "Mumei",
       "bbox": {
-        "x": 0.0438,
-        "y": 0.1697,
-        "width": 0.445,
-        "height": 0.1519
+        "x": 0.165,
+        "y": 0.1688,
+        "width": 0.1375,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "COUNCIL",
+      "bbox": {
+        "x": 0.3219,
+        "y": 0.178,
+        "width": 0.0725,
+        "height": 0.0104
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mumei a été ajoutée comme navigatrice dans Groove Coaster: Wai Wai Party! En plus de cela, sa musique originale « A New Start » a été ajoutée au jeu, accomplissant son objectif d’apparaître dans un jeu de rythme. Mumei a également joué au jeu durant un stream, au cours duquel elle a chanté en maîtrisant à la perfection ses musiques et celles d’autres membres d’hololive.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.2083,
+        "width": 0.4456,
+        "height": 0.1141
       }
     },
     {
       "type": "heading",
-      "text": "4 Mumei",
+      "text": "Mumei",
       "bbox": {
-        "x": 0.0938,
-        "y": 0.3464,
-        "width": 0.2625,
-        "height": 0.0326
+        "x": 0.1212,
+        "y": 0.3524,
+        "width": 0.1369,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "other",
+      "text": "COUNCIL",
+      "bbox": {
+        "x": 0.2744,
+        "y": 0.3585,
+        "width": 0.0731,
+        "height": 0.0104
       }
     },
     {
@@ -37,17 +67,27 @@
     },
     {
       "type": "heading",
-      "text": "Ml Bae ED",
+      "text": "Bae",
       "bbox": {
-        "x": 0.0613,
-        "y": 0.6285,
-        "width": 0.2369,
-        "height": 0.036
+        "x": 0.1212,
+        "y": 0.6363,
+        "width": 0.0737,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "other",
+      "text": "COUNCIL",
+      "bbox": {
+        "x": 0.2169,
+        "y": 0.6415,
+        "width": 0.0725,
+        "height": 0.0104
       }
     },
     {
       "type": "paragraph",
-      "text": "Alors que la fin de la période estivale approche, Bae a sorti six mini-épisodes de Baewatch sur le theme de l'été. Venez regarder les filles, toutes doublées par Bae, prenant part à différentes activités sur la plage. On retrouve par exemple Hatsuna construisant un château de sable, Shiika jouant au volleyball et Murasaki nous demandant de lui mettre de la crème solaire (ne vous faites pas d'idées). Tous les épisodes sont illustrés et animés par taitan (@taitan89tos).",
+      "text": "Alors que la fin de la période estivale approche, Bae a sorti six mini-épisodes de Baewatch sur le thème de l’été. Venez regarder les filles, toutes doublées par Bae, prenant part à différentes activités sur la plage. On retrouve par exemple Hatsuna construisant un château de sable, Shiika jouant au volleyball et Murasaki nous demandant de lui mettre de la crème solaire (ne vous faites pas d’idées). Tous les épisodes sont illustrés et animés par taitan (@taitan89tos).",
       "bbox": {
         "x": 0.0431,
         "y": 0.6736,
@@ -56,8 +96,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Fauna",
+      "bbox": {
+        "x": 0.62,
+        "y": 0.207,
+        "width": 0.1194,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "other",
+      "text": "COUNCIL",
+      "bbox": {
+        "x": 0.7581,
+        "y": 0.2135,
+        "width": 0.0725,
+        "height": 0.0109
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Dans sa quête pour faire évoluer le serveur Minecraft EN, Fauna a décidé de construire une ferme à invasion, la plus grande de tous les temps selon elle, ayant pour but un gain infini d'émeraudes et l'effondrement économique de Minecraft. Après avoir trouvé un endroit adapté à la construction, elle a visité le village à proximité. Reproduisant les actions plus que questionnables de ses ainés, Fauna a forcé les villageois à se reproduire pour obtenir assez de « main-d'œuvre » pour sa ferme.",
+      "text": "Dans sa quête pour faire évoluer le serveur Minecraft EN, Fauna a décidé de construire une ferme à invasion, la plus grande de tous les temps selon elle, ayant pour but un gain infini d’émeraudes et l’effondrement économique de Minecraft. Après avoir trouvé un endroit adapté à la construction, elle a visité le village à proximité. Reproduisant les actions plus que questionnables de ses ainés, Fauna a forcé les villageois à se reproduire pour obtenir assez de « main-d'œuvre » pour sa ferme.",
       "bbox": {
         "x": 0.5113,
         "y": 0.2444,
@@ -67,7 +127,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Tremblez, habitants du serveur EN, car bientôt vous aurez une reine, non pas ténébreuse mais aussi belle et terrible que l'aurore !",
+      "text": "Tremblez, habitants du serveur EN, car bientôt vous aurez une reine, non pas ténébreuse mais aussi belle et terrible que l’aurore !",
       "bbox": {
         "x": 0.5113,
         "y": 0.4023,
@@ -76,13 +136,53 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.5894,
+        "y": 0.4618,
+        "width": 0.1037,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "MYTH",
+      "bbox": {
+        "x": 0.7181,
+        "y": 0.4683,
+        "width": 0.0469,
+        "height": 0.01
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Kiara a subi une infidélité à cause d'un personnage qu'elle avait appelé Laplus pendant son stream de Cult of the Lamb. Un bug du jeu a mené deux personnages, Laplus et Broocoli Jr, à dormir dans le même lit. Malheureusement, Broocoli était le mari de Kiwawa dans le jeu, et elle les a surpris « l’un sur l’autre ». Ainsi, Kiara a légitimement puni Broocoli et a « demandé le divorce en le tuant une fois de plus ». Au moins, ce n’est pas la « salle habituelle ».",
+      "text": "Kiara a subi une infidélité à cause d’un personnage qu’elle avait appelé Laplus pendant son stream de Cult of the Lamb. Un bug du jeu a mené deux personnages, Laplus et Broocoli Jr, à dormir dans le même lit. Malheureusement, Broocoli était le mari de Kiwawa dans le jeu, et elle les a surpris « l’un sur l’autre ». Ainsi, Kiara a légitimement puni Broocoli et a « demandé le divorce en le tuant une fois de plus ». Au moins, ce n’est pas la « salle habituelle ».",
       "bbox": {
         "x": 0.5119,
         "y": 0.4996,
         "width": 0.445,
         "height": 0.1458
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.5894,
+        "y": 0.6719,
+        "width": 0.0856,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "MYTH",
+      "bbox": {
+        "x": 0.6994,
+        "y": 0.6788,
+        "width": 0.0469,
+        "height": 0.01
       }
     },
     {

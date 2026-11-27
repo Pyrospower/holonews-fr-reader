@@ -3,181 +3,121 @@
   "issueId": "holonews_fr_ver_lite_2012_-_2612",
   "page": 17,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "REPRISE",
+      "type": "heading",
+      "text": "MUSIC MILESTONES",
       "bbox": {
-        "x": 0.8494,
-        "y": 0.0356,
-        "width": 0.0919,
-        "height": 0.0095
+        "x": 0.1263,
+        "y": 0.0421,
+        "width": 0.5981,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nORIGINALE\nNOUVEAU",
+      "bbox": {
+        "x": 0.8363,
+        "y": 0.0343,
+        "width": 0.1187,
+        "height": 0.043
       }
     },
     {
       "type": "paragraph",
-      "text": "[Ina] Tabi No Tochuu: 1M",
+      "text": "12/20\n[Ina] Tabi No Tochuu: 1M\n[Matsuri] ChichinPuiPui: 250K\n[Temma/Miyabi] Romeo: 100K\n[Temma] 115man Kilo No Film: 25K\n[Reine/Risu] Kakumei Dualism (Side A): 250K\n[Reine] Ano Aozora No Sei Da: 100K\n[Flare] Goodbye Sengen: 500K\n[AZKi/Aria] Sis X Love: 10K\n[Okayu] Nemurumachi: 1M",
       "bbox": {
-        "x": 0.2631,
-        "y": 0.1194,
-        "width": 0.2225,
-        "height": 0.0135
+        "x": 0.0506,
+        "y": 0.1159,
+        "width": 0.4375,
+        "height": 0.1584
       }
     },
     {
       "type": "paragraph",
-      "text": "[Matsuri] ChichinPuiPui: 250K [Temma/Miyabi] Romeo: 100K [Temma] 115man Kilo No Film: 25K [Reine/Risu] Kakumei Dualism (Side A): 250K [Reine] Ano Aozora No Sei Da: 100K [Flare] Goodbye Sengen: 500K [AZKi/Aria] Sis X Love: 10K",
+      "text": "12/21\n[Okayu] Animal: 500K\n[Polka] S'il Vous President: 100K\n[Suisei/Izuru/Astel] Cinema: 500K\n[Ollie/Etc] Utattemita No Uta: 100K\n[Fubuki] S'il Vous President: 750K",
       "bbox": {
-        "x": 0.0838,
-        "y": 0.1372,
-        "width": 0.4031,
-        "height": 0.1202
+        "x": 0.5119,
+        "y": 0.1159,
+        "width": 0.4375,
+        "height": 0.0868
       }
     },
     {
       "type": "paragraph",
-      "text": "[Okayu] Nemurumachi: 1M",
+      "text": "12/22\n[Suisei] Phony: 4M\n[Noel] Homenobi: 1M\n[Botan] Animal (Cover): 100K\n[Watame] Phony (Cover): 100K\n[Aqua] Hokori Takaki Idol (Cover): 100K\n[Polka] Tondemo Wonders: 500K\n[Sora] Hot Limit (Short): 500K",
       "bbox": {
-        "x": 0.2506,
-        "y": 0.2617,
-        "width": 0.235,
-        "height": 0.0135
+        "x": 0.0506,
+        "y": 0.2934,
+        "width": 0.4375,
+        "height": 0.1215
       }
     },
     {
       "type": "paragraph",
-      "text": "[Suisei] Phony: 4M",
+      "text": "12/23\n[Okayu] Animal: 750K\n[Polka] Cinderella: 500K\n[Kanata] Ashura-chan: 250K\n[Rushia] Hana Ni Bourei: 7M\n[Kiara/Ina] I~ya I~ya I~ya (Cover): 100K\n[Aruran/Rikka/Roberu/Shien/Oga] Pentas: 100K\n[Fubuki] Animal (Cover): 100K\n[HoloEN] The Twelve Days of Christmas (Cover): 500K",
       "bbox": {
-        "x": 0.3225,
-        "y": 0.296,
-        "width": 0.1631,
-        "height": 0.0135
+        "x": 0.5119,
+        "y": 0.2205,
+        "width": 0.4375,
+        "height": 0.158
       }
     },
     {
       "type": "paragraph",
-      "text": "[Noel] Homenobi: 1M",
+      "text": "12/24\n[Calliope] Red: 10M\n[Astel/Roberu] Hashire: 25K\n[Fubuki] Animal (Cover): 250K\n[Kanata/Ui] Campanella (Cover): 100K\n[Kiara/Ina] I~ya I~ya I~ya (Cover): 250K\n[Coco] Weather Hackers: 2M\n[Calliope] end of a life: 6M\n[Kiara] Vampire: 1M",
       "bbox": {
-        "x": 0.3006,
-        "y": 0.3138,
-        "width": 0.185,
-        "height": 0.0135
+        "x": 0.0506,
+        "y": 0.4332,
+        "width": 0.4375,
+        "height": 0.1402
       }
     },
     {
       "type": "paragraph",
-      "text": "[Botan] Animal (Cover): 100K",
+      "text": "12/25\n[Suisei] Bye Bye Rainy: 100K\n[Sora] Diamond Crevasse: 500K\n[Towa/Suisei] Haiiro to Ao (Cover): 500K\n[Calliope/BOOGEY VOXX] Graveyard Shift: 2M\nKoyori] Nh-Uh-Uh. (Cover): 100K\n[Suisei] Zenbu Anta No Sei: 1M",
       "bbox": {
-        "x": 0.2294,
-        "y": 0.3316,
-        "width": 0.2575,
-        "height": 0.0135
+        "x": 0.5119,
+        "y": 0.3976,
+        "width": 0.4375,
+        "height": 0.1042
       }
     },
     {
       "type": "paragraph",
-      "text": "[Watame] Phony (Cover): 100K",
+      "text": "12/26\n[La+] God-ish: 4M\n[Aqua] Kirakira: 500K\n[Suisei] melty world: 500K\n[Watame] Phony (Cover): 250K\n[Gura] Target For Love (Cover): 250K\n[Watame/Kanata] chocolate box: 750K\n[Ame] Deck The Halls (Cover): 100K\n[Lamy/Botan] Lion (Cover) 100K\n[IRyS] Sparks of Joy: 75K",
       "bbox": {
-        "x": 0.2106,
-        "y": 0.3494,
-        "width": 0.2763,
-        "height": 0.0135
+        "x": 0.0506,
+        "y": 0.5929,
+        "width": 0.4375,
+        "height": 0.1571
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Aqua] Hokori Takaki Idol (Cover): 100K [Polka] Tondemo Wonders: 500K [Sora] Hot Limit (Short): 500K",
+      "type": "other",
+      "text": "CHANSON ORIGINALE",
       "bbox": {
-        "x": 0.1363,
-        "y": 0.3672,
-        "width": 0.3506,
-        "height": 0.049
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Calliope] Red: 10M [Astel/Roberu] Hashire: 25K",
-      "bbox": {
-        "x": 0.2413,
-        "y": 0.4366,
-        "width": 0.2456,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Fubuki] Animal (Cover): 250K [Kanata/Ui] Campanella (Cover): 100K [Kiara/Ina] I~ya I~ya I~ya (Cover): 250K [Coco] Weather Hackers: 2M",
-      "bbox": {
-        "x": 0.1375,
-        "y": 0.4722,
-        "width": 0.3494,
-        "height": 0.0668
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Calliope] end of a life: 6M",
-      "bbox": {
-        "x": 0.2594,
-        "y": 0.5434,
-        "width": 0.2263,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Kiara] Vampire: 1M",
-      "bbox": {
-        "x": 0.3125,
-        "y": 0.5612,
-        "width": 0.1731,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[La+] God-ish: 4M [Aqua] Kirakira: 500K",
-      "bbox": {
-        "x": 0.3006,
-        "y": 0.5951,
-        "width": 0.1869,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Suisei] melty world: 500K",
-      "bbox": {
-        "x": 0.26,
-        "y": 0.6306,
-        "width": 0.2275,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Watame] Phony (Cover): 250K",
-      "bbox": {
-        "x": 0.2113,
-        "y": 0.6484,
-        "width": 0.2763,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Gura] Target For Love (Cover): 250K [Watame/Kanata] chocolate box: 750K [Ame] Deck The Halls (Cover): 100K [Lamy/Botan] Lion (Cover) 100K [IRyS] Sparks of Joy: 75K",
-      "bbox": {
-        "x": 0.1481,
-        "y": 0.6662,
-        "width": 0.3394,
-        "height": 0.0846
+        "x": 0.0387,
+        "y": 0.7322,
+        "width": 0.0856,
+        "height": 0.0182
       }
     },
     {
       "type": "heading",
-      "text": "SORTIES MUSICALE",
+      "text": "10 MILLION VIEWS!",
+      "bbox": {
+        "x": 0.5156,
+        "y": 0.7122,
+        "width": 0.4288,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "heading",
+      "text": "SORTIES MUSICALES",
       "bbox": {
         "x": 0.0288,
         "y": 0.8164,
@@ -187,122 +127,32 @@
     },
     {
       "type": "paragraph",
-      "text": "ORIGINALE NOUVEAU [Okayu] Animal: 500K 12/21 [Polka] S'il Vous President: 100K [Suisei/lzuru/Astel] Cinema: 500K [Ollie/Etc] Utattemita No Uta: 100K [Fubuki] S'il Vous President: 750K [Okayu] Animal: 750K 12/23",
+      "text": "Le rêve de YAGOO perdure, alors veuillez lire la page suivante s’il vous plaît",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.0512,
-        "width": 0.4394,
-        "height": 0.1866
+        "x": 0.0588,
+        "y": 0.9141,
+        "width": 0.3619,
+        "height": 0.0473
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Polka] Cinderella: 500K",
+      "type": "other",
+      "text": "CHANSON ORIGINALE",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.2422,
-        "width": 0.2119,
-        "height": 0.0135
+        "x": 0.4581,
+        "y": 0.7743,
+        "width": 0.0862,
+        "height": 0.0187
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Kanata] Ashura-chan: 250K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.26,
-        "width": 0.2494,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Rushia] Hana Ni Bourei: 7M",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2778,
-        "width": 0.25,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Kiara/Ina] I~ya I~ya I~ya (Cover): 100K [Aruran/Rikka/Roberu/Shien/Oga] Pentas: 100K [Fubuki] Animal (Cover): 100K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2956,
-        "width": 0.4213,
-        "height": 0.049
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[HoloEN] The Twelve Days of",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.349,
-        "width": 0.2631,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Christmas (Cover): 500K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.3668,
-        "width": 0.2181,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Suisei] Bye Bye Rainy: 100K [Sora] Diamond Crevasse: 500K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.401,
-        "width": 0.2856,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Towa/Suisei] Haiiro to Ao (Cover): 500K [Calliope/BOOGEY VOXX] Graveyard Shift: 2M Koyori] Nh-Uh-Uh. (Cover): 100K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.4366,
-        "width": 0.4175,
-        "height": 0.049
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Suisei] Zenbu Anta No Sei: 1M",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.49,
-        "width": 0.2756,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "heading",
+      "type": "other",
       "text": "Holostars",
       "bbox": {
         "x": 0.48,
         "y": 0.895,
         "width": 0.1313,
         "height": 0.0165
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Le réve de YAGOO perdure, alors veuillez lire la page suivante s'il vous plait",
-      "bbox": {
-        "x": 0.0588,
-        "y": 0.9141,
-        "width": 0.3619,
-        "height": 0.0473
       }
     },
     {

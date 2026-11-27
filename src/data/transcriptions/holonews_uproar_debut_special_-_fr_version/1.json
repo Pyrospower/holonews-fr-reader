@@ -3,11 +3,11 @@
   "issueId": "holonews_uproar_debut_special_-_fr_version",
   "page": 1,
   "lang": "fr",
-  "status": "unavailable",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Edition sp le début:",
+      "type": "other",
+      "text": "Édition spéciale débuts.",
       "bbox": {
         "x": 0.0263,
         "y": 0.1341,
@@ -16,7 +16,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "Illustration par : Mochizuki Kei",
       "bbox": {
         "x": 0.7363,
@@ -26,8 +26,48 @@
       }
     },
     {
+      "type": "other",
+      "text": "Minase Rio",
+      "bbox": {
+        "x": 0.2788,
+        "y": 0.2925,
+        "width": 0.1963,
+        "height": 0.1163
+      }
+    },
+    {
+      "type": "other",
+      "text": "Utsugi Uyu",
+      "bbox": {
+        "x": 0.7306,
+        "y": 0.3125,
+        "width": 0.185,
+        "height": 0.141
+      }
+    },
+    {
+      "type": "other",
+      "text": "Hizaki Gamma",
+      "bbox": {
+        "x": 0.0575,
+        "y": 0.5946,
+        "width": 0.22,
+        "height": 0.1623
+      }
+    },
+    {
+      "type": "other",
+      "text": "Yatogami Fuma",
+      "bbox": {
+        "x": 0.7006,
+        "y": 0.7083,
+        "width": 0.2644,
+        "height": 0.1302
+      }
+    },
+    {
       "type": "heading",
-      "text": "SPECIALD",
+      "text": "SPÉCIAL DÉBUTS",
       "bbox": {
         "x": 0.0169,
         "y": 0.9123,

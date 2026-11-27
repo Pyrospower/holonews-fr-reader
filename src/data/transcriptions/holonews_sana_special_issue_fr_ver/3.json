@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 3,
-  "lang": "fr",
-  "status": "auto",
+  "lang": "en",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -47,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: |t would get big enough that could headplant into it. Also recommend doing it away from the Earth otherwise it would soak up the planet like a sponge.",
+      "text": "Answer: It would get big enough that I could headplant into it. Also I recommend doing it away from the Earth otherwise it would soak up the planet like a sponge.",
       "bbox": {
         "x": 0.0688,
         "y": 0.2496,
@@ -67,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: Why do we have to fight? Let's play instead!",
+      "text": "Answer: Why do we have to fight? Let’s play instead!",
       "bbox": {
         "x": 0.0694,
         "y": 0.395,
@@ -87,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: I hear he's a senpai for some male talents now... But lately he’s just flying his big rocket out in space somewhere. I think he’s doing fine.",
+      "text": "Answer: I hear he’s a senpai for some male talents now… But lately he’s just flying his big rocket out in space somewhere. I think he’s doing fine.",
       "bbox": {
         "x": 0.0688,
         "y": 0.4805,
@@ -107,32 +107,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: Well, it seems you were certainly able to find that in the Sanallites! What were your first thoughts after your audition and after",
+      "text": "Answer: I think the talents at hololive are really cute! When I first got interested in Vtubers I was mainly watching Fubuki.",
       "bbox": {
-        "x": 0.5213,
-        "y": 0.6072,
-        "width": 0.4063,
-        "height": 0.0421
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "you got accepted to hololive? Answer: I think the talents at hololive are really cute! When I first got interested in",
-      "bbox": {
-        "x": 0.0688,
-        "y": 0.6502,
-        "width": 0.71,
-        "height": 0.0443
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Vtubers I was mainly watching Fubuki.",
-      "bbox": {
-        "x": 0.0688,
-        "y": 0.6931,
-        "width": 0.3369,
-        "height": 0.0135
+        "x": 0.0686,
+        "y": 0.6637,
+        "width": 0.3643,
+        "height": 0.0437
       }
     },
     {
@@ -157,7 +137,17 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: I thought to myself, “I've gotten this far but I gotta work really hard from here on out, and I'm so excited to meet other amazing talents from different walks of life.",
+      "text": "Question: Well, it seems you were certainly able to find that in the Sanallites! What were your first thoughts after your audition and after you got accepted to hololive?",
+      "bbox": {
+        "x": 0.5214,
+        "y": 0.6071,
+        "width": 0.4071,
+        "height": 0.0546
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: I thought to myself, “I’ve gotten this far but I gotta work really hard from here on out, and I’m so excited to meet other amazing talents from different walks of life.",
       "bbox": {
         "x": 0.5213,
         "y": 0.6788,
@@ -167,7 +157,7 @@
     },
     {
       "type": "paragraph",
-      "text": "\"Also, as the Speaker of Space, I was excited to finally be able to come to Earth!",
+      "text": "”Also, as the Speaker of Space, I was excited to finally be able to come to Earth!",
       "bbox": {
         "x": 0.5213,
         "y": 0.7504,

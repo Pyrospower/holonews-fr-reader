@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0205_-_0805",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,23 +16,73 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "ll \"The Hololive Simp Meeting\" ©",
+      "type": "heading",
+      "text": "Podcast holoSIMP",
       "bbox": {
-        "x": 0.6044,
-        "y": 0.2383,
-        "width": 0.2381,
-        "height": 0.0217
+        "x": 0.1673,
+        "y": 0.2336,
+        "width": 0.2873,
+        "height": 0.0253
       }
     },
     {
       "type": "paragraph",
-      "text": ". + Ps Vous ne vous étes jamais demandé ere) ] : / A pourquoi les Chumbuds avaient une + æ @ x, obsession bizarre pour les pieds ? Ou si le Op i Se Sk. Tentacult était réellement un culte ? Alors erm écoutez le premier épisode du podcast vs : 4 Q + e holoSIMP centré autour des talents d'holoEN sur la chaîne YouTube HEFS dont le lien est dans la liste des sources. ' - Let's play À LET'S PLAY TERMINÉS",
+      "text": "Vous ne vous êtes jamais demandé pourquoi les Chumbuds avaient une obsession bizarre pour les pieds ? Ou si le Tentacult était réellement un culte ? Alors écoutez le premier épisode du podcast holoSIMP centré autour des talents d'holoEN sur la chaîne YouTube HEFS dont le lien est dans la liste des sources.",
       "bbox": {
-        "x": 0.0663,
-        "y": 0.263,
-        "width": 0.8806,
-        "height": 0.1879
+        "x": 0.0636,
+        "y": 0.2727,
+        "width": 0.4,
+        "height": 0.1212
+      }
+    },
+    {
+      "type": "other",
+      "text": "\"The Hololive Simp Meeting\"\nDead Beats · KFP · Tentacult · Chumbuds · Teamates · HEFS",
+      "bbox": {
+        "x": 0.5527,
+        "y": 0.2348,
+        "width": 0.4073,
+        "height": 0.0972
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4036,
+        "y": 0.4217,
+        "width": 0.1927,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.7491,
+        "y": 0.4293,
+        "width": 0.2018,
+        "height": 0.0189
+      }
+    },
+    {
+      "type": "other",
+      "text": "PORTAL\nPLANTS VS. ZOMBIES\nTUNIC\nPotion Craft\nLEGO STAR WARS THE SKYWALKER SAGA\nEARTH DEFENSE FORCE 5\nunpacking",
+      "bbox": {
+        "x": 0.1909,
+        "y": 0.4672,
+        "width": 0.2636,
+        "height": 0.5126
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ SONIC ADVENTURE 2\nSPYRO REIGNITED TRILOGY\nGORN\nRESIDENT EVIL 2\nWWE 2K22\neBASEBALL 2022\nPORTAL 2",
+      "bbox": {
+        "x": 0.6055,
+        "y": 0.4672,
+        "width": 0.3109,
+        "height": 0.5126
       }
     }
   ],

@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_1107_-_1707",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0174,
         "width": 0.1131,
         "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Robocosan",
+      "bbox": {
+        "x": 0.1708,
+        "y": 0.1774,
+        "width": 0.1754,
+        "height": 0.0235
       }
     },
     {
@@ -37,27 +47,27 @@
     },
     {
       "type": "other",
-      "text": "MC Daisuke Shiozawa",
+      "text": "MC Daisuke Shiozawa (NHK announcer)",
       "bbox": {
         "x": 0.845,
         "y": 0.0877,
         "width": 0.0781,
-        "height": 0.0148
+        "height": 0.0264
       }
     },
     {
-      "type": "other",
-      "text": "(NHK announcer)",
+      "type": "heading",
+      "text": "Suisei",
       "bbox": {
-        "x": 0.845,
-        "y": 0.1089,
-        "width": 0.0663,
-        "height": 0.0052
+        "x": 0.6338,
+        "y": 0.2318,
+        "width": 0.1015,
+        "height": 0.0224
       }
     },
     {
       "type": "paragraph",
-      "text": "Suisei va co-animer « .3xUL\\d—2 » ! sur la radio NHK. II s'agit d'un programme spécial axé sur la musique des VTubeurs. Veuillez utiliser le hashtag #3{L\\#— pour vos demandes et questions. L'émission sera diffusée le 12 août.",
+      "text": "Suisei va co-animer « ぶいあーる » ! sur la radio NHK. Il s'agit d'un programme spécial axé sur la musique des VTubeurs. Veuillez utiliser le hashtag #ぶいあーる pour vos demandes et questions. L'émission sera diffusée le 12 août.",
       "bbox": {
         "x": 0.5387,
         "y": 0.2713,
@@ -67,7 +77,7 @@
     },
     {
       "type": "heading",
-      "text": "Gen1",
+      "text": "Gen 1",
       "bbox": {
         "x": 0.4463,
         "y": 0.3746,
@@ -76,8 +86,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.5353,
+        "width": 0.1292,
+        "height": 0.0246
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Matsuri est devenue le deuxième membre de HoloJP à atteindre la barre des trente minutes sur HoloCure ! Elle a utilisé Mumei pour y parvenir, mais a malheureusement été vaincue par l'essaim de YAGOOs qui s'est déclenché automatiquement au bout de trente minutes. Matsuri a également commenté qu'ils sont apparus pour la féliciter avant qu'il ne soit un PNJ. Félicitations, Matsuri !",
+      "text": "Matsuri est devenue le deuxième membre de HoloJP à atteindre la barre des trente minutes sur HoloCure ! Elle a utilisé Mumei pour y parvenir, mais a malheureusement été vaincue par l'essaim de YAGOOs qui s'est déclenché automatiquement au bout de trente minutes. Matsuri a également commenté qu’ils sont apparus pour la féliciter avant qu'il ne soit un PNJ. Félicitations, Matsuri !",
       "bbox": {
         "x": 0.0712,
         "y": 0.5755,
@@ -86,8 +106,38 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.8494,
+        "width": 0.1692,
+        "height": 0.0235
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Fubuki s'est proclamé « BURGER KING FOX » sur Twitter, ce qui a entrainé une réponse du compte japonais de Burger King, qui a posté une photo de son burger signature avec les traits de Fubuki. Quelques autres messages mignons ont ensuite été échangés.",
+      "text": "Haachama a organisé un stream consacré à une partie de Yahtzee avec ses spectateurs sur 51 Worldwide Games. Elle a montré que la chance était de son côté en obtenant trois yachts et a gagné trois des cinq matchs. Cependant, lors de son dernier match, elle a manqué de chance et a perdu. Après le match, elle a fait un mini stream discussion.",
+      "bbox": {
+        "x": 0.075,
+        "y": 0.8898,
+        "width": 0.3713,
+        "height": 0.0968
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.6308,
+        "y": 0.5353,
+        "width": 0.1185,
+        "height": 0.0224
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki s'est proclamé « BURGER KING FOX » sur Twitter, ce qui a entraîné une réponse du compte japonais de Burger King, qui a posté une photo de son burger signature avec les traits de Fubuki. Quelques autres messages mignons ont ensuite été échangés.",
       "bbox": {
         "x": 0.5363,
         "y": 0.576,
@@ -106,13 +156,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Haachama a organisé un stream consacré à une partie de Yahtzee avec ses spectateurs sur 51 Worldwide Games. Elle a montré que la chance était de son côté en obtenant trois yachts et a gagné trois des cinq matchs. Cependant, lors de son dernier match, elle a manqué de chance et a perdu. Après le match, elle a fait un mini stream discussion.",
+      "type": "heading",
+      "text": "Okayu",
       "bbox": {
-        "x": 0.075,
-        "y": 0.8898,
-        "width": 0.3713,
-        "height": 0.0968
+        "x": 0.6338,
+        "y": 0.8472,
+        "width": 0.1062,
+        "height": 0.0235
       }
     },
     {

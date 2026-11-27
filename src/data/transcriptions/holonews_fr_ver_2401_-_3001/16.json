@@ -3,16 +3,56 @@
   "issueId": "holonews_fr_ver_2401_-_3001",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "HOLOCOUNCIL",
+      "bbox": {
+        "x": 0.063,
+        "y": 0.074,
+        "width": 0.41,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Baelz",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.247,
+        "width": 0.129,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Bae a joué à Outlast la semaine dernière, et le stream n'a duré qu’un peu moins d'une heure. Le rat n'aime vraiment pas les jeux d'horreur, au point que son rythme cardiaque dépassait les 100 battements par minute avant même de commencer à jouer, et a atteint les 150 durant la partie. Calli et Fauna étaient là pour la soutenir et lui donner d’éventuels conseils. En fin de compte, elle n'a joué qu'environ 50 minutes, en comptant les 5 minutes passées sur le menu principal.",
+      "text": "Bae a joué à Outlast la semaine dernière, et le stream n’a duré qu’un peu moins d’une heure. Le rat n’aime vraiment pas les jeux d’horreur, au point que son rythme cardiaque dépassait les 100 battements par minute avant même de commencer à jouer, et a atteint les 150 durant la partie. Calli et Fauna étaient là pour la soutenir et lui donner d’éventuels conseils. En fin de compte, elle n’a joué qu’environ 50 minutes, en comptant les 5 minutes passées sur le menu principal.",
       "bbox": {
         "x": 0.0544,
         "y": 0.2873,
         "width": 0.4219,
         "height": 0.1923
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kronii & Gura",
+      "bbox": {
+        "x": 0.657,
+        "y": 0.247,
+        "width": 0.28,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce week-end, le duo bleu d’holoEN (Gura et Kronii) a joué au jeu de réflexion Escape Simulator. En trois heures, les deux amies ont fini deux épisodes : Le Labyrinthe d’Égypte et La Coopérative Omega. Le stream était rempli d’éclairs de génies et de taquineries amicales. Parmi les moments les plus drôles : Kronii oubliant l’anniversaire de Gura, Gura fixant intensément l’arrière-train de Kronii, ou encore leur débat pour décider de laquelle des deux est la plus bleue.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2578,
+        "width": 0.4281,
+        "height": 0.2218
       }
     },
     {
@@ -26,6 +66,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Korone",
+      "bbox": {
+        "x": 0.161,
+        "y": 0.689,
+        "width": 0.169,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Korone est revenue sur le classique de la N64, Banjo-Kazooie. Comme par le passé, elle a répété la fameuse expression « Eekum Bokum » à de nombreuses reprises. Fidèle à elle-même, Korone a streamé sur le jeu pendant plus de 7 heures. Marine était également parmi les spectateurs : on pouvait la voir dans le tchat, donnant des conseils à Korone. Senchou s’est même souvenue des combinaisons de boutons.",
       "bbox": {
@@ -36,18 +86,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Ne 2 Ce week-end, le duo bleu d’holoEN (Gura et Kronii) a joué au jeu de réflexion Escape Simulator. En trois heures, les deux amies ont fini deux épisodes : Le Labyrinthe d'Egypte et La Coopérative Omega. Le stream était rempli d’éclairs de génies et de taquineries amicales. Parmi les moments les plus drôles : Kronii oubliant l’anniversaire de Gura, Gura fixant intensément l’arrière-train de Kronii, ou encore leur débat pour décider de laquelle des deux est la plus bleue.",
+      "type": "heading",
+      "text": "Mio",
       "bbox": {
-        "x": 0.5219,
-        "y": 0.2578,
-        "width": 0.4281,
-        "height": 0.2218
+        "x": 0.632,
+        "y": 0.689,
+        "width": 0.087,
+        "height": 0.024
       }
     },
     {
       "type": "paragraph",
-      "text": "Mio s'est montrée plutôt conflictuelle durant sa partie de Légendes Pokémon : Arceus. Peu importe la demande des PNJ, elle répondait « non » à chaque fois qu’elle en avait l’occasion. Malheureusement, le PNJ finissait toujours par répéter la question jusqu'à ce qu'elle abandonne et réponde « oui ».",
+      "text": "Mio s’est montrée plutôt conflictuelle durant sa partie de Légendes Pokémon : Arceus. Peu importe la demande des PNJ, elle répondait « non » à chaque fois qu’elle en avait l’occasion. Malheureusement, le PNJ finissait toujours par répéter la question jusqu’à ce qu’elle abandonne et réponde « oui ».",
       "bbox": {
         "x": 0.5206,
         "y": 0.7335,

@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2401_-_3001",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.092,
+        "y": 0.112,
+        "width": 0.354,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.169,
+        "y": 0.314,
+        "width": 0.13,
+        "height": 0.024
+      }
+    },
     {
       "type": "paragraph",
       "text": "Shien est de retour après une semaine sans stream ! Il était absent car une de ses dents devait récupérer après un rendez-vous chez le dentiste. Cette semaine-là, il a annulé tous ses streams, mais était présent dans les collabs sur Gartic Phone et Among Us. Il n’a pas totalement récupéré, comme le montre sa difficulté à prononcer certaines syllabes.",
@@ -17,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Dans son stream discussion, il a parlé de tout ce qu'il avait fait durant sa pause, comme les activités en lien avec holoStars en dehors du stream, regarder des animés, lire des mangas et jouer à Yu-Gi-Oh! Master Duel. || a aussi regardé le stream d'autres holoStars et a vu que ses fans le laissaient tomber. Cela a déclenché une vague de Super Chats d’excuse de ses fans, qui niaient avoir fait quelque chose du genre.",
+      "text": "Dans son stream discussion, il a parlé de tout ce qu’il avait fait durant sa pause, comme les activités en lien avec holoStars en dehors du stream, regarder des animés, lire des mangas et jouer à Yu-Gi-Oh! Master Duel. Il a aussi regardé le stream d'autres holoStars et a vu que ses fans le laissaient tomber. Cela a déclenché une vague de Super Chats d’excuse de ses fans, qui niaient avoir fait quelque chose du genre.",
       "bbox": {
         "x": 0.0588,
         "y": 0.5122,
@@ -36,6 +56,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.284,
+        "width": 0.159,
+        "height": 0.029
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Miyabi est de retour après une semaine de pause pendant laquelle il a déménagé ! Il est revenu avec un stream sur Légendes Pokémon : Arceus, et il est déterminé à terminer le jeu avec une équipe entièrement composé uniquement de Pokémon de type plante.",
       "bbox": {
@@ -46,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel & Izuru",
+      "bbox": {
+        "x": 0.651,
+        "y": 0.569,
+        "width": 0.291,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Astel et Izuru ont atteint le rang de Maître sur APEX ensemble en stream ! C’est la 4e fois qu’Astel passe Maître et la 3e fois d'Izuru. Avant le stream, Astel a perdu quelques points pour qu’ils puissent passer Maître ensemble. Ils ont remporté la première partie du stream, atteignant le rang de Champion et de Maître. Après avoir réalisé que le stream allaient être trop court, ils ont tous deux décidé de jouer en mode Arène car ils n'avaient pas spécialement envie de jouer dans des parties de Maître.",
+      "text": "Astel et Izuru ont atteint le rang de Maître sur APEX ensemble en stream ! C’est la 4e fois qu’Astel passe Maître et la 3e fois d’Izuru. Avant le stream, Astel a perdu quelques points pour qu’ils puissent passer Maître ensemble. Ils ont remporté la première partie du stream, atteignant le rang de Champion et de Maître. Après avoir réalisé que le stream allaient être trop court, ils ont tous deux décidé de jouer en mode Arène car ils n’avaient pas spécialement envie de jouer dans des parties de Maître.",
       "bbox": {
         "x": 0.5238,
         "y": 0.6107,

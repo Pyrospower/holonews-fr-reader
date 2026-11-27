@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2401_-_3001",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,18 +16,18 @@
       }
     },
     {
-      "type": "other",
-      "text": "Datsuryoku News Network",
+      "type": "heading",
+      "text": "Aqua",
       "bbox": {
-        "x": 0.1781,
-        "y": 0.2127,
-        "width": 0.1713,
-        "height": 0.0078
+        "x": 0.1625,
+        "y": 0.2635,
+        "width": 0.116,
+        "height": 0.025
       }
     },
     {
       "type": "paragraph",
-      "text": "Hololive a publié sur Twitter les annonces faites lors du concert d'Aqua, Aqua-iro in Wonderland. Son nouvel EP, Vaquatime select), sera disponible en streaming et pourra être acheté en physique à partir du 28 janvier. L'une des chansons de l'album, « I wanna », a été jouée en direct pour la remière fois et sera le générique de fin de émission japonaise Datsuryoku News Network en février et mars. Hololive a également annoncé la première réunion de fans d'Aqua, qui réunira les gagnants d'une tombola pour les acheteurs de l'EP. La tombola est réservée aux résidents japonais.",
+      "text": "Hololive a publié sur Twitter les annonces faites lors du concert d'Aqua, Aqua-iro in Wonderland. Son nouvel EP, ♡aquatime select♡, sera disponible en streaming et pourra être acheté en physique à partir du 28 janvier. L'une des chansons de l'album, « I wanna », a été jouée en direct pour la première fois et sera le générique de fin de l'émission japonaise Datsuryoku News Network en février et mars. Hololive a également annoncé la première réunion de fans d'Aqua, qui réunira les gagnants d'une tombola pour les acheteurs de l'EP. La tombola est réservée aux résidents japonais.",
       "bbox": {
         "x": 0.0525,
         "y": 0.2995,
@@ -43,16 +43,6 @@
         "y": 0.5386,
         "width": 0.4231,
         "height": 0.0608
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Le let's play de Fubuki sur Légendes Pokémon : Arceus s’est bien déroulé, et lors de son dernier stream, elle a obtenu un Lixy chromatique ! Elle l'a appelé « Colin », et Fubuki l’a capturé en moins de 2 heures.",
-      "bbox": {
-        "x": 0.0531,
-        "y": 0.7813,
-        "width": 0.3969,
-        "height": 0.0924
       }
     },
     {
@@ -86,8 +76,38 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.161,
+        "y": 0.7395,
+        "width": 0.16,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Fubuki a fait 2 streams sponsorisés sur Counter:Side, dans lesquels elle a raconté quelques histoire du jeu et a fait des tirages. La chance était de son côté, puisgu’elle a obtenu 4 personnages SSR sur les 2 streams : Esterosa De Chevalier, Chu Shiyong, Lee Yumi et Hilde Eveillée.",
+      "text": "Le let’s play de Fubuki sur Légendes Pokémon : Arceus s’est bien déroulé, et lors de son dernier stream, elle a obtenu un Lixy chromatique ! Elle l’a appelé « Colin », et Fubuki l’a capturé en moins de 2 heures.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.7813,
+        "width": 0.3969,
+        "height": 0.0924
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.7395,
+        "width": 0.16,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki a fait 2 streams sponsorisés sur Counter:Side, dans lesquels elle a raconté quelques histoire du jeu et a fait des tirages. La chance était de son côté, puisqu’elle a obtenu 4 personnages SSR sur les 2 streams : Esterosa De Chevalier, Chu Shiyong, Lee Yumi et Hilde Éveillée.",
       "bbox": {
         "x": 0.5238,
         "y": 0.7799,

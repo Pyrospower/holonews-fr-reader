@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gamers",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.2854,
+        "width": 0.1236,
+        "height": 0.0202
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "N'oubliez pas de précommander Earth Defense Force 6 pour obtenir le DLC hololive incluant Mio, Fubuki et Ayame. Elles peuvent étre utilisées comme leurre, distrayant les ennemis en chantant et en dansant.",
+      "text": "N’oubliez pas de précommander Earth Defense Force 6 pour obtenir le DLC hololive incluant Mio, Fubuki et Ayame. Elles peuvent être utilisées comme leurre, distrayant les ennemis en chantant et en dansant.",
       "bbox": {
         "x": 0.0694,
         "y": 0.3247,
@@ -26,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Korone",
+      "bbox": {
+        "x": 0.1691,
+        "y": 0.5669,
+        "width": 0.1182,
+        "height": 0.0202
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après un stream Dragon Quest 6, Korone a remercié ses spectateurs sur Twitter pour l'avoir accompagnée pendant cette aventure. Elle a même réalisé des chapeaux Bisbave pour elle-même et Listener-kun (la mascotte de Korone). On peut y trouver un côté mignon si on y pense très fort.",
+      "text": "Après un stream Dragon Quest 6, Korone a remercié ses spectateurs sur Twitter pour l’avoir accompagnée pendant cette aventure. Elle a même réalisé des chapeaux Bisbave pour elle-même et Listener-kun (la mascotte de Korone). On peut y trouver un côté mignon si on y pense très fort.",
       "bbox": {
         "x": 0.0706,
         "y": 0.605,
@@ -47,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Okayu s’est isolée depuis le 23 août apres avoir été en contact avec Mel, qui a été testée positive au COVID-19. Elle n'a donc pas pu se Joindre à l'anniversaire de Mio, mais a malgré tout passé un appel. Nous attendrons patiemment le retour d’Okayu !",
+      "text": "Okayu s’est isolée depuis le 23 août après avoir été en contact avec Mel, qui a été testée positive au COVID-19. Elle n’a donc pas pu se joindre à l’anniversaire de Mio, mais a malgré tout passé un appel. Nous attendrons patiemment le retour d’Okayu !",
       "bbox": {
         "x": 0.0706,
         "y": 0.8932,
@@ -56,8 +76,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gen 4",
+      "bbox": {
+        "x": 0.6745,
+        "y": 0.0379,
+        "width": 0.1182,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Towa",
+      "bbox": {
+        "x": 0.6382,
+        "y": 0.2008,
+        "width": 0.0855,
+        "height": 0.0189
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Towa a invité Mumei sur sa chaîne pour qu’elles s'apprennent mutuellement des phrases japonaises et anglaises. Parmi les moments les plus mémorables, on retrouve Towa apprenant à Mumei comment se présenter en japonais ainsi que les mots Japonais pour « civilisation » et « conseil ». Elle ui a également appris comment donner la date en lui donnant comme exemple sa date de début et son anniversaire. De son côté, Mumei a appris à Towa comment prononcer les nombres ordinaux en anglais et en quoi ils sont différents, contrairement en japonais où ils ont tous un système commun.",
+      "text": "Towa a invité Mumei sur sa chaîne pour qu’elles s’apprennent mutuellement des phrases japonaises et anglaises. Parmi les moments les plus mémorables, on retrouve Towa apprenant à Mumei comment se présenter en japonais ainsi que les mots japonais pour « civilisation » et « conseil ». Elle lui a également appris comment donner la date en lui donnant comme exemple sa date de début et son anniversaire. De son côté, Mumei a appris à Towa comment prononcer les nombres ordinaux en anglais et en quoi ils sont différents, contrairement en japonais où ils ont tous un système commun.",
       "bbox": {
         "x": 0.5394,
         "y": 0.2387,
@@ -76,16 +116,6 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "t to see it anymore @",
-      "bbox": {
-        "x": 0.615,
-        "y": 0.5434,
-        "width": 0.185,
-        "height": 0.0161
-      }
-    },
-    {
       "type": "heading",
       "text": "Koyori",
       "bbox": {
@@ -97,7 +127,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Koyori a joué au jeu de Marine lors d’un stream. Celui-ci a été créé quand Marine était au lycée et a été dévoilé lors d’un stream de Fubuki et Subaru le mois dernier. Koyori a doublé la totalité des dialogues. Marine a tweeté qu'elle ne voulait plus voir son jeu !",
+      "text": "Koyori a joué au jeu de Marine lors d’un stream. Celui-ci a été créé quand Marine était au lycée et a été dévoilé lors d’un stream de Fubuki et Subaru le mois dernier. Koyori a doublé la totalité des dialogues. Marine a tweeté qu’elle ne voulait plus voir son jeu !",
       "bbox": {
         "x": 0.5356,
         "y": 0.6085,
@@ -127,7 +157,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Polka a partagé sur sa chaîne une courte vidéo demandant à ses spectateurs : « Qu'est-ce qui est plus beau, moi ou les feux d'artifices ? » Alors, que choisirez-vous ?",
+      "text": "Polka a partagé sur sa chaîne une courte vidéo demandant à ses spectateurs : « Qu’est-ce qui est plus beau, moi ou les feux d’artifices ? » Alors, que choisirez-vous ?",
       "bbox": {
         "x": 0.5356,
         "y": 0.9336,

@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2103_-_2703",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -36,6 +36,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.1815,
+        "width": 0.168,
+        "height": 0.0204
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Haachama organise un concours de tenue pour Yagoo. Les fans peuvent lui envoyer une photo de Yagoo dans un costume qu'ils aimeraient le voir porter. Les photos seront acceptées jusqu'au 24 avril.",
       "bbox": {
@@ -46,23 +56,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Haachama était trop effrayée pour jouer seule à The Closing Shift, elle a donc appelé Hoshikawa Sara de Nijisanji pour qu'elle l'aide. Bien que Sara elle-même n'ait terminé le jeu qu'un jour auparavant, elle taquinait",
+      "type": "heading",
+      "text": "Haachama",
       "bbox": {
-        "x": 0.3444,
-        "y": 0.3559,
-        "width": 0.6131,
-        "height": 0.0434
+        "x": 0.164,
+        "y": 0.3722,
+        "width": 0.1693,
+        "height": 0.0204
       }
     },
     {
       "type": "paragraph",
-      "text": "8 Haachama Haachama à chaque fois qu'il y avait un moment effrayant dans le jeu.",
+      "text": "Haachama était trop effrayée pour jouer seule à The Closing Shift, elle a donc appelé Hoshikawa Sara de Nijisanji pour qu'elle l'aide. Bien que Sara elle-même n'ait terminé le jeu qu'un jour auparavant, elle taquinait Haachama à chaque fois qu'il y avait un moment effrayant dans le jeu.",
       "bbox": {
-        "x": 0.1438,
-        "y": 0.3728,
-        "width": 0.7963,
-        "height": 0.0412
+        "x": 0.3444,
+        "y": 0.3559,
+        "width": 0.6131,
+        "height": 0.0581
       }
     },
     {
@@ -106,6 +116,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.5676,
+        "width": 0.168,
+        "height": 0.0204
+      }
+    },
+    {
       "type": "paragraph",
       "text": "La revue de shitpost Reddit d'Haachama est encore une fois de retour. Cette fois, le format était légèrement différent : elle a préfacé ses réflexions et traduit les memes en japonais pour que les spectateurs japonais puissent comprendre. Elle a terminé le stream en déclarant une guerre d'étudiantes à Mumei, et l'a mangée.",
       "bbox": {
@@ -113,6 +133,16 @@
         "y": 0.605,
         "width": 0.3881,
         "height": 0.1107
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.8528,
+        "width": 0.168,
+        "height": 0.0204
       }
     },
     {

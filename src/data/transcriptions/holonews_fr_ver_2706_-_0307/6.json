@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2706_-_0307",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,28 +16,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "The release has been postponed ... (® ! n ! )! Please wait a little longer ;; (n “w™ n) ;: NY",
+      "type": "heading",
+      "text": "Sora",
       "bbox": {
-        "x": 0.0581,
-        "y": 0.105,
-        "width": 0.385,
-        "height": 0.026
+        "x": 0.1675,
+        "y": 0.1793,
+        "width": 0.0719,
+        "height": 0.02
       }
     },
     {
       "type": "paragraph",
-      "text": "is 9/7! !! It's the 5th anniversary * °. +, (* O",
-      "bbox": {
-        "x": 0.1556,
-        "y": 0.1484,
-        "width": 0.3131,
-        "height": 0.0109
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "La sortie du quatrième album de Sora, « Sign », a été reportée du 20 juillet au 7 septembre. Sora nous a rassurés sur ce report, car maintenant elle coincide également avec le cinquième anniversaire de ses débuts.",
+      "text": "La sortie du quatrième album de Sora, « Sign », a été reportée du 20 juillet au 7 septembre. Sora nous a rassurés sur ce report, car maintenant elle coïncide également avec le cinquième anniversaire de ses débuts.",
       "bbox": {
         "x": 0.0712,
         "y": 0.2183,
@@ -46,33 +36,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Fubuki a dessiné plus de timbres et de badges de membres tout en parlant de sa récente performance au xR ARTISTS SUPER FES 2022 en tant que AyaFubuMi. Fubuki mentionne que son groupe a dévoilé sa nouvelle chanson, Tsubaki, pour la première fois et pense qu'elles ont montré leur côté d'idole parfaite. Elle a dessiné ses badges de 3e et 4e année, car elle les a récemment débloqués. Elle a également créé un nouveau timbre pour les magnats du pétrole qui la suivent, car quelques membres de son chat offraient jusqu'à 50 membres à l'époque.",
+      "type": "heading",
+      "text": "Suisei",
       "bbox": {
-        "x": 0.0712,
-        "y": 0.5234,
-        "width": 0.3844,
-        "height": 0.1693
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Après une très longue période, la tenue détente d'Aki est de retour, mise à jour et améliorée en tant que modèle 2.0 !",
-      "bbox": {
-        "x": 0.0712,
-        "y": 0.8681,
-        "width": 0.3413,
-        "height": 0.0391
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Elle fait remarquer que sa tenue est parfaite pour hololive Summer, et Erolive est de retour en vue de la surface de peau à découvert. Elle a ensuite commencé à montrer ses cuisses et sa poitrine, pour le plus grand bonheur des spectateurs.",
-      "bbox": {
-        "x": 0.0719,
-        "y": 0.9071,
-        "width": 0.3863,
-        "height": 0.0781
+        "x": 0.6331,
+        "y": 0.1793,
+        "width": 0.0963,
+        "height": 0.02
       }
     },
     {
@@ -83,6 +53,66 @@
         "y": 0.2183,
         "width": 0.3925,
         "height": 0.0668
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 1",
+      "bbox": {
+        "x": 0.4406,
+        "y": 0.319,
+        "width": 0.1156,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.4844,
+        "width": 0.1131,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki a dessiné plus de timbres et de badges de membres tout en parlant de sa récente performance au xR ARTISTS SUPER FES 2022 en tant que AyaFubuMi. Fubuki mentionne que son groupe a dévoilé sa nouvelle chanson, Tsubaki, pour la première fois et pense qu'elles ont montré leur côté d’idole parfaite. Elle a dessiné ses badges de 3e et 4e année, car elle les a récemment débloqués. Elle a également créé un nouveau timbre pour les magnats du pétrole qui la suivent, car quelques membres de son chat offraient jusqu'à 50 membres à l'époque.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.5234,
+        "width": 0.3844,
+        "height": 0.1693
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aki",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.829,
+        "width": 0.0544,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après une très longue période, la tenue détente d'Aki est de retour, mise à jour et améliorée en tant que modèle 2.0 ! Elle fait remarquer que sa tenue est parfaite pour hololive Summer, et Erolive est de retour en vue de la surface de peau à découvert. Elle a ensuite commencé à montrer ses cuisses et sa poitrine, pour le plus grand bonheur des spectateurs.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8681,
+        "width": 0.387,
+        "height": 0.1171
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.6325,
+        "y": 0.4844,
+        "width": 0.1688,
+        "height": 0.0208
       }
     },
     {
@@ -97,7 +127,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Au cours de cette dernière, Ironmouse a posé à Haachama les questions qu'elle avait préparées pour ce stream. Parmi les questions posées, citons le genre de musique qu'elle aime, ses passe-temps, la cuisine, les voyages, des idées de stream, et bien d'autres encore, qui ont permis aux spectateurs de mieux connaître Haachama. Elle a même appris l'existence des memes de Morbius, même si elle l'a confondu avec Morpheus de Matrix. Elles ont également parlé des futures collaborations qu'elles pourraient avoir dans le domaine du jeu ou de la chanson. Une collaboration à ne pas manquer !",
+      "text": "Au cours de cette dernière, Ironmouse a posé à Haachama les questions qu'elle avait préparées pour ce stream. Parmi les questions posées, citons le genre de musique qu'elle aime, ses passe-temps, la cuisine, les voyages, des idées de stream, et bien d'autres encore, qui ont permis aux spectateurs de mieux connaître Haachama. Elle a même appris l’existence des memes de Morbius, même si elle l'a confondu avec Morpheus de Matrix. Elles ont également parlé des futures collaborations qu'elles pourraient avoir dans le domaine du jeu ou de la chanson. Une collaboration à ne pas manquer !",
       "bbox": {
         "x": 0.5356,
         "y": 0.6988,

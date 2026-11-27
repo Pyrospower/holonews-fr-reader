@@ -3,8 +3,18 @@
   "issueId": "holonews_uproar_debut_special_-_fr_version",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Utsugi Uyu",
+      "bbox": {
+        "x": 0.0188,
+        "y": 0.0087,
+        "width": 0.3438,
+        "height": 0.1606
+      }
+    },
     {
       "type": "paragraph",
       "text": "Le même jour que Fuma, Uyu a fait ses débuts juste après lui ! Contrairement à Fuma, qui a tout de suite commencé à se présenter, Uyu a passé 20 minutes à discuter avec le tchat avant de nous montrer ses diapositives.",

@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_0612_-_1212",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Reine",
+      "bbox": {
+        "x": 0.0275,
+        "y": 0.033,
+        "width": 0.1938,
+        "height": 0.0373
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Reine a passé son premier anniversaire à se remémorer ses débuts. Elle a d'abord montré sa nouvelle animation de donation « tonjok » (coup de poing). Puis elle s'est mise à railler son ancienne version d'elle-même, lui destinant de nombreux tonjok. Elle a révélé que la version courte de « Gate Open: Start! » a été enregistrée chez elle et que MERAKyats a failli perdre contre PlumePals qui aurait été inévitablement abrégé en PP (Pee-Pee).",
+      "text": "Reine a passé son premier anniversaire à se remémorer ses débuts. Elle a d'abord montré sa nouvelle animation de donation « tonjok » (coup de poing). Puis elle s’est mise à railler son ancienne version d’elle-même, lui destinant de nombreux tonjok. Elle a révélé que la version courte de « Gate Open: Start! » a été enregistrée chez elle et que MERAKyats a failli perdre contre PlumePals qui aurait été inévitablement abrégé en PP (Pee-Pee).",
       "bbox": {
         "x": 0.0275,
         "y": 0.0994,
@@ -26,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Anniversaire de notre talent préféré",
+      "bbox": {
+        "x": 0.0344,
+        "y": 0.5569,
+        "width": 0.3225,
+        "height": 0.0807
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Joyeux anniversaire à notre talent préféré Yagoo, dont l'anniversaire a été célébré le 10 décembre ! Parallèlement au post de T-chan sur Reddit, beaucoup d'œuvres d'art et de messages de félicitations ont inondé Twitter avec le hashtag #YAGOO“ ER. De nombreux membres d'hololive ont répondu à l'appel, notamment Nene qui a chanté « Joyeux anniversaire ! »",
+      "text": "Joyeux anniversaire à notre talent préféré Yagoo, dont l'anniversaire a été célébré le 10 décembre ! Parallèlement au post de T-chan sur Reddit, beaucoup d’œuvres d'art et de messages de félicitations ont inondé Twitter avec le hashtag #YAGOO生誕祭. De nombreux membres d'hololive ont répondu à l'appel, notamment Nene qui a chanté « Joyeux anniversaire ! »",
       "bbox": {
         "x": 0.0419,
         "y": 0.6697,

@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_1701_-_2301",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "YAGOO",
+      "bbox": {
+        "x": 0.0869,
+        "y": 0.1615,
+        "width": 0.1056,
+        "height": 0.0148
+      }
+    },
     {
       "type": "paragraph",
       "text": "Yagoo a été invité sur Holotalk",
@@ -13,6 +23,16 @@
         "y": 0.2027,
         "width": 0.1756,
         "height": 0.0278
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Big Collab",
+      "bbox": {
+        "x": 0.075,
+        "y": 0.2574,
+        "width": 0.13,
+        "height": 0.0191
       }
     },
     {
@@ -26,13 +46,43 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Le fanbook de Marine",
       "bbox": {
         "x": 0.0669,
         "y": 0.3676,
         "width": 0.1412,
         "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Précommandes du fanbook de Marine",
+      "bbox": {
+        "x": 0.0425,
+        "y": 0.4197,
+        "width": 0.1838,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "other",
+      "text": "Uruha Rushia",
+      "bbox": {
+        "x": 0.4113,
+        "y": 0.6476,
+        "width": 0.5638,
+        "height": 0.2582
+      }
+    },
+    {
+      "type": "other",
+      "text": "Nous recherchons des traducteurs JP, PL et ID !",
+      "bbox": {
+        "x": 0.3575,
+        "y": 0.9679,
+        "width": 0.5013,
+        "height": 0.0156
       }
     }
   ],

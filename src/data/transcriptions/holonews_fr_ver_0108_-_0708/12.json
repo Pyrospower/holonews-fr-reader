@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0108_-_0708",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0174,
         "width": 0.2606,
         "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.285,
+        "width": 0.23,
+        "height": 0.026
       }
     },
     {
@@ -26,6 +36,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.56,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Aruran a organisé une collaboration avec Marna Popri du groupe de VTuber World Connect Project. Ils ont joué ensemble au jeu de plateforme Super Bunny Man pendant environ une heure et demie.",
       "bbox": {
@@ -36,6 +56,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.875,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Rikka a montré son étagère qui contient sa collection de produits dérivés de lui-même. Il a mentionné que son étagère est pleine.",
       "bbox": {
@@ -43,6 +73,16 @@
         "y": 0.9141,
         "width": 0.385,
         "height": 0.0399
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.18,
+        "width": 0.23,
+        "height": 0.026
       }
     },
     {
@@ -57,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après qu'Aruran soit rentré chez lui, Oga a rejoint le vocal pour le gronder d'avoir quitté sa maison alors qu'il était en stream. Pour pardonner l'abandon de son stream, il a demandé à Aruran de donner une critique de son repas. Après son stream, il a tweeté",
+      "text": "Après qu'Aruran soit rentré chez lui, Oga a rejoint le vocal pour le gronder d'avoir quitté sa maison alors qu'il était en stream. Pour pardonner l'abandon de son stream, il a demandé à Aruran de donner une critique de son repas. Après son stream, il a tweeté « Delicious!!!!!!!! ». On dirait qu'il a satisfait son envie de manger.",
       "bbox": {
         "x": 0.5375,
         "y": 0.4084,
@@ -66,33 +106,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Suite à l'ajout d'une fonctionnalité pour tous les modèles des membres d'holopro, ils peuvent maintenant attacher une ou plusieurs images PNG sur leur modèle L2D. De nombreux fans ont EIR des images intéressantes, dont les",
+      "type": "heading",
+      "text": "Astel",
       "bbox": {
-        "x": 0.5387,
-        "y": 0.8299,
-        "width": 0.3894,
-        "height": 0.0729
+        "x": 0.635,
+        "y": 0.792,
+        "width": 0.23,
+        "height": 0.026
       }
     },
     {
       "type": "paragraph",
-      "text": "Astella. Cependant, Astel s'est excuse sur Twitter, car il ne savait pas comment utiliser cette fonctionnalité et avait abandonné. Peu de temps apres, Astel a posté une superbe photo e lui-même utilisant une moustache",
+      "text": "Suite à l'ajout d'une fonctionnalité pour tous les modèles des membres d'holopro, ils peuvent maintenant attacher une ou plusieurs images PNG sur leur modèle L2D. De nombreux fans ont envoyé des images intéressantes, dont les Astella. Cependant, Astel s'est excusé sur Twitter, car il ne savait pas comment utiliser cette fonctionnalité et avait abandonné. Peu de temps après, Astel a posté une superbe photo de lui-même utilisant une moustache bleue assortie à ses cheveux. Merci quand même, Astel.",
       "bbox": {
         "x": 0.5381,
-        "y": 0.8928,
-        "width": 0.3644,
-        "height": 0.0729
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "leue assortie à ses cheveux. Merci quand même, Astel.",
-      "bbox": {
-        "x": 0.5394,
-        "y": 0.9557,
-        "width": 0.3544,
-        "height": 0.0243
+        "y": 0.8299,
+        "width": 0.39,
+        "height": 0.1501
       }
     }
   ],

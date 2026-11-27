@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1807_-_2407",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0174,
         "width": 0.2594,
         "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.267,
+        "width": 0.124,
+        "height": 0.02
       }
     },
     {
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Cette semaine, Temma a organisé un tournoi HOLOSTARS sur Mario Kart 8 Deluxe. Tous les membres d’'HOLOSTARS et UPROAR! ont participé, à l'exception d'Aruran qui n'a pas pu se joindre au tournoi. Le tournoi a divisé les participants en trois équipes : l'équipe A, dirigée par Temma, était composée de Shien, Uyu et Oga ; l'équipe B, dirigée par Roberu, était composée de Miyabi, Izuru et Rio ; et l'équipe C, dirigée par Fuma, était composée de Astel, Rikka et Gamma. Toutes les équipes, à l'exception de l'équipe C, se sont entraînées dur avant le tournoi. Le tournoi se composait de six tours d'entraînement et de trente-six tours de tournoi. Le résultat de chaque tour était ensuite calculé et l'équipe ayant le score le plus élevé gagnait.",
+      "text": "Cette semaine, Temma a organisé un tournoi HOLOSTARS sur Mario Kart 8 Deluxe. Tous les membres d’HOLOSTARS et UPROAR!! ont participé, à l'exception d'Aruran qui n'a pas pu se joindre au tournoi. Le tournoi a divisé les participants en trois équipes : l'équipe A, dirigée par Temma, était composée de Shien, Uyu et Oga ; l'équipe B, dirigée par Roberu, était composée de Miyabi, Izuru et Rio ; et l'équipe C, dirigée par Fuma, était composée de Astel, Rikka et Gamma. Toutes les équipes, à l'exception de l'équipe C, se sont entraînées dur avant le tournoi. Le tournoi se composait de six tours d'entraînement et de trente-six tours de tournoi. Le résultat de chaque tour était ensuite calculé et l'équipe ayant le score le plus élevé gagnait.",
       "bbox": {
         "x": 0.0712,
         "y": 0.605,
@@ -47,12 +57,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Ce jour-ci, il y a eu tellement de moments amusants et intéressants, comme quand lzuru a réussi à battre tous les joueurs sérieux et à remporter la première place, la complicité de SunTempo, se chamaillant souvent et se battant pour des places serrées. L'équipe C, qui était la plus bruyante, a réussi à remporter la première place au classement général, même s'ils ne se sont pas entraînés avant. Astel, qui est secrètement le plus fort, a déclaré que cela prouvait que l'entraînement était inutile. Ils ont conclu que le MVP de ce tournoi est Temma puisqu'il a réussi à l'organiser. Merci Temma !",
+      "text": "Ce jour-ci, il y a eu tellement de moments amusants et intéressants, comme quand Izuru a réussi à battre tous les joueurs sérieux et à remporter la première place, la complicité de SunTempo, se chamaillant souvent et se battant pour des places serrées. L'équipe C, qui était la plus bruyante, a réussi à remporter la première place au classement général, même s’ils ne se sont pas entraînés avant. Astel, qui est secrètement le plus fort, a déclaré que cela prouvait que l'entraînement était inutile. Ils ont conclu que le MVP de ce tournoi est Temma puisqu'il a réussi à l'organiser. Merci Temma !",
       "bbox": {
         "x": 0.0719,
         "y": 0.8203,
         "width": 0.385,
         "height": 0.158
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.335,
+        "width": 0.124,
+        "height": 0.02
       }
     },
     {
@@ -66,8 +86,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.599,
+        "width": 0.079,
+        "height": 0.02
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après les débuts d'Altare et Dezmond, Astel a fait un stream pour parler de leurs débuts. Astel s'est un peu énervé lorsqu'ils ont parlé de leur taille, et plus particulièrement quand Altare a dit qu’il était un petit roi, alors qu’en fait, il est beaucoup plus grand qu'Astel. Il était également jaloux de la voix douce d’Altare et essayait de l'imiter. Pendant qu'il le faisait, Altare est venu lui rendre visite et l'a pris en flagrant délit.",
+      "text": "Après les débuts d'Altare et Dezmond, Astel a fait un stream pour parler de leurs débuts. Astel s’est un peu énervé lorsqu’ils ont parlé de leur taille, et plus particulièrement quand Altare a dit qu’il était un petit roi, alors qu’en fait, il est beaucoup plus grand qu’Astel. Il était également jaloux de la voix douce d’Altare et essayait de l’imiter. Pendant qu’il le faisait, Altare est venu lui rendre visite et l’a pris en flagrant délit.",
       "bbox": {
         "x": 0.5356,
         "y": 0.6393,

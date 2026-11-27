@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2211_-_2811",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.1114,
+        "y": 0.0381,
+        "width": 0.3076,
+        "height": 0.0276
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.1614,
+        "y": 0.2076,
+        "width": 0.1299,
+        "height": 0.0238
+      }
+    },
     {
       "type": "paragraph",
       "text": "Dans l'épisode de cette semaine de la Légende de Polka, Mlle Isutzu s'est questionnée sur la popularité de Polka à l'international, cette dernière approchant le million d'abonnés. Afin de répondre à la question, l'équipe et son animatrice, Aya, se sont rendus à Ypao Beach sur l'île de Guam et ont montré la photo de Polka à des passants en leur demandant s'ils la connaissaient. Leurs réponses ont laissé Polka sans voix. La plupart n'ont pas su répondre correctement, mais lors du quatrième sondage, alors que l'homme ne connaissait pas son nom, son ami autoproclamé « pro en anime » a donné la bonne réponse, indiquant qu'il la connaissait en tant que streamer. L'excitation de Polka à la mention de son nom a été coupée court lorsqu'il a ajouté qu'il ne la regardait pas très souvent.",
@@ -26,23 +46,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "BREATHS, WILD",
+      "type": "heading",
+      "text": "Botan",
       "bbox": {
-        "x": 0.1744,
-        "y": 0.77,
-        "width": 0.1575,
-        "height": 0.0148
-      }
-    },
-    {
-      "type": "other",
-      "text": "THE LEGEND OF ZELDA",
-      "bbox": {
-        "x": 0.0569,
-        "y": 0.77,
-        "width": 0.0944,
-        "height": 0.0048
+        "x": 0.6326,
+        "y": 0.2087,
+        "width": 0.1364,
+        "height": 0.0223
       }
     },
     {
@@ -56,6 +66,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.6326,
+        "y": 0.4863,
+        "width": 0.1293,
+        "height": 0.0257
+      }
+    },
+    {
       "type": "paragraph",
       "text": "La nouvelle et sixième génération JP, holoX, n'a pas manqué d'évoquer surprise et enthousiasme chez Lamy. Durant son stream discussion habituel, elle a interviewé Polka et Botan sur leur ressenti quant au fait de devenir des aînées, ainsi que sur les membres ayant attiré leur attention. Lamy, pour sa part, a été très impressionnée par la vidéo promotionnelle. Elle a également montré des photos de ses produits dérivés d'anniversaire, la peluche Daifuku et sa propre peluche Don Quijote côte à côte.",
       "bbox": {
@@ -63,6 +83,16 @@
         "y": 0.5347,
         "width": 0.4294,
         "height": 0.1571
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.1614,
+        "y": 0.8311,
+        "width": 0.1293,
+        "height": 0.0264
       }
     },
     {

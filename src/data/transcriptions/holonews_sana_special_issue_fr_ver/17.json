@@ -3,46 +3,36 @@
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 17,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "©2016 COVER Garp.",
+      "type": "heading",
+      "text": "L’AMOUR PATERNEL",
       "bbox": {
-        "x": 0.375,
-        "y": 0.4384,
-        "width": 0.1569,
-        "height": 0.0087
+        "x": 0.0431,
+        "y": 0.0577,
+        "width": 0.6046,
+        "height": 0.0363
       }
     },
     {
       "type": "paragraph",
-      "text": "Qu'il s'agisse de regarder ses streams",
+      "text": "Qu'il s'agisse de regarder ses streams ou de la dessiner, Sana n'était pas seulement aimée par ses spectateurs. Elle était aussi aimée par son illustrateur, Pako.",
       "bbox": {
         "x": 0.6637,
         "y": 0.0469,
-        "width": 0.2913,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "ou de la dessiner, Sana n'était pas seulement aimée par ses spectateurs. Elle était aussi aimée par son",
-      "bbox": {
-        "x": 0.6637,
-        "y": 0.0582,
         "width": 0.2938,
-        "height": 0.0347
+        "height": 0.056
       }
     },
     {
-      "type": "paragraph",
-      "text": "illustrateur, Pako.",
+      "type": "other",
+      "text": "TNT\nTNT\nTNT",
       "bbox": {
-        "x": 0.6644,
-        "y": 0.092,
-        "width": 0.1338,
-        "height": 0.0109
+        "x": 0.2723,
+        "y": 0.6143,
+        "width": 0.0385,
+        "height": 0.0556
       }
     }
   ],

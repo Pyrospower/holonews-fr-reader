@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_2410_-_3010",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Rio",
+      "bbox": {
+        "x": 0.14,
+        "y": 0.207,
+        "width": 0.065,
+        "height": 0.029
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Lors d'un stream de chant, Rio a annoncé qu'il allait révéler son modèle 3D ! Il fera ses débuts en 3D le samedi 5 novembre 2022 à 20h00 (JST). Rio va tout donner, alors assurez vous d'y jeter un œil !",
+      "text": "Lors d’un stream de chant, Rio a annoncé qu’il allait révéler son modèle 3D ! Il fera ses débuts en 3D le samedi 5 novembre 2022 à 20h00 (JST). Rio va tout donner, alors assurez vous d’y jeter un œil !",
       "bbox": {
         "x": 0.04,
         "y": 0.2517,
@@ -37,7 +47,7 @@
     },
     {
       "type": "heading",
-      "text": "() HOLOSTARS",
+      "text": "HOLOSTARS",
       "bbox": {
         "x": 0.0363,
         "y": 0.503,
@@ -47,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le 24 octobre, des images clés d’Aruran, Temma et Oga pour l'événement AGF qui arrive ce 5 et 6 novembre ont été publiées. Cela complète les membres d'HOLOSTARS et d'UPROARI. Ils ont également annoncé le menu du café durant ces jours avec les produits dérivés du café.",
+      "text": "Le 24 octobre, des images clés d’Aruran, Temma et Oga pour l’événement AGF qui arrive ce 5 et 6 novembre ont été publiées. Cela complète les membres d’HOLOSTARS et d’UPROAR!!. Ils ont également annoncé le menu du café durant ces jours avec les produits dérivés du café.",
       "bbox": {
         "x": 0.0369,
         "y": 0.5543,
@@ -56,28 +66,38 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "animate girls festival",
+      "type": "other",
+      "text": "AGF2022\nanimate girls festival\n2022.11.5 SAT - 6 SUN in IKEBUKURO",
       "bbox": {
-        "x": 0.2206,
-        "y": 0.7578,
-        "width": 0.13,
-        "height": 0.0056
+        "x": 0.1563,
+        "y": 0.7292,
+        "width": 0.2,
+        "height": 0.0499
+      }
+    },
+    {
+      "type": "other",
+      "text": "Food & Drink Menu\nビリヤニ風 ホロスタピラフ　1,300円(税込)\nUPROAR!!の 大騒ぎケバブサラダ　1,300円(税込)\nホロスターズの プリンアラモード　1,200円(税込)\nUPROAR!!の カラフルひとくちドーナツ　1,000円(税込)",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.8203,
+        "width": 0.4313,
+        "height": 0.1159
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.61,
+        "y": 0.382,
+        "width": 0.22,
+        "height": 0.029
       }
     },
     {
       "type": "paragraph",
-      "text": "1,200 meen)",
-      "bbox": {
-        "x": 0.2725,
-        "y": 0.9223,
-        "width": 0.0806,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "En guise de cadeau pour Shinove, Gamma a décidé de le dessiner dans un costume de féte en tenant un verre de bière. Après cela, Gamma a publié le dessin complet sur Twitter.",
+      "text": "En guise de cadeau pour Shinove, Gamma a décidé de le dessiner dans un costume de fête en tenant un verre de bière. Après cela, Gamma a publié le dessin complet sur Twitter.",
       "bbox": {
         "x": 0.5113,
         "y": 0.4271,
@@ -87,7 +107,7 @@
     },
     {
       "type": "heading",
-      "text": "621) UPROAR!",
+      "text": "UPROAR!!",
       "bbox": {
         "x": 0.5163,
         "y": 0.5022,
@@ -97,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "UPROAR! ont décidé de combattre l'Ender Dragon en guise de dédicace pour les adieux de Shinove. Ils ont construit un temple Shinove juste devant le portail UPROARI! vers le Village de Temma. L'œuf de l’Ender Dragon a été placé sur la main de Shinove, comme s'il le tenait. La collab était remplie d’espiègleries mais ils se sont amusés à construire le temple.",
+      "text": "UPROAR!! ont décidé de combattre l’Ender Dragon en guise de dédicace pour les adieux de Shinove. Ils ont construit un temple Shinove juste devant le portail UPROAR!! vers le Village de Temma. L'œuf de l’Ender Dragon a été placé sur la main de Shinove, comme s’il le tenait. La collab était remplie d’espiègleries mais ils se sont amusés à construire le temple.",
       "bbox": {
         "x": 0.5144,
         "y": 0.5516,

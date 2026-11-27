@@ -3,26 +3,56 @@
   "issueId": "holonews_fr_ver_2208_-_2808",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "UMISEA, un groupe composé de Marine, Aqua,",
+      "type": "heading",
+      "text": "UMISEA",
       "bbox": {
-        "x": 0.0544,
-        "y": 0.2487,
-        "width": 0.4425,
-        "height": 0.013
+        "x": 0.1681,
+        "y": 0.2092,
+        "width": 0.1512,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen2,3 MYTH",
+      "bbox": {
+        "x": 0.335,
+        "y": 0.2092,
+        "width": 0.155,
+        "height": 0.0226
       }
     },
     {
       "type": "paragraph",
-      "text": "Ina et Gura, a été relancée dans le dernier épisode de Holo no Graffiti, qui mettaient en vedette eux-mêmes et Chloé. Cela marque également la toute première apparition d'un membre holoEN dans hologra ! Après l'épisode, elles ont sorti une nouvelle musique, « It Comes Ryuuu And It Goes Kyuuu », produite par Camelia, et avec Chloé en tant que nouveau membre ! Le clip est disponible sur la chaîne officielle (depuis le 29 août).",
+      "text": "UMISEA, un groupe composé de Marine, Aqua, Ina et Gura, a été relancée dans le dernier épisode de Holo no Graffiti, qui mettaient en vedette eux-mêmes et Chloé. Cela marque également la toute première apparition d'un membre holoEN dans hologra ! Après l'épisode, elles ont sorti une nouvelle musique, « It Comes Ryuuu And It Goes Kyuuu », produite par Camelia, et avec Chloé en tant que nouveau membre ! Le clip est disponible sur la chaîne officielle (depuis le 29 août).",
       "bbox": {
         "x": 0.0531,
-        "y": 0.263,
+        "y": 0.2487,
         "width": 0.445,
-        "height": 0.1276
+        "height": 0.1419
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PSO2",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.2873,
+        "width": 0.1006,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1 STARS MYTH",
+      "bbox": {
+        "x": 0.74,
+        "y": 0.2865,
+        "width": 0.2206,
+        "height": 0.0221
       }
     },
     {
@@ -36,13 +66,63 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "I'meon Observation Duty",
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.3919,
+        "y": 0.4167,
+        "width": 0.28,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ Let's play terminés",
+      "bbox": {
+        "x": 0.7044,
+        "y": 0.4236,
+        "width": 0.2288,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "other",
+      "text": "Super Auto Pets\nOxide Room 104\n★ TUNIC\nEND OF ZOE\nArcade Paradise\nCult of the Lamb\nPAYDAY 2",
+      "bbox": {
+        "x": 0.1719,
+        "y": 0.4644,
+        "width": 0.2963,
+        "height": 0.513
+      }
+    },
+    {
+      "type": "other",
+      "text": "Big Brain Academy\nWilmot’s Warehouse\nHITMAN 2",
+      "bbox": {
+        "x": 0.6719,
+        "y": 0.4644,
+        "width": 0.26,
+        "height": 0.2144
+      }
+    },
+    {
+      "type": "other",
+      "text": "I'm on Observation Duty",
       "bbox": {
         "x": 0.7331,
         "y": 0.7079,
         "width": 0.1338,
         "height": 0.0278
+      }
+    },
+    {
+      "type": "other",
+      "text": "STRAY\nOccult\nKirby’s Dream Buffet",
+      "bbox": {
+        "x": 0.6713,
+        "y": 0.7682,
+        "width": 0.26,
+        "height": 0.2101
       }
     }
   ],

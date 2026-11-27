@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0174,
         "width": 0.26,
         "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.2866,
+        "width": 0.0909,
+        "height": 0.0202
       }
     },
     {
@@ -26,13 +36,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Temma",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.5644,
+        "width": 0.1182,
+        "height": 0.0202
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Temma a eu envie de jouer à Mario Kart, mais avec une légère différence, il n'arrêtait pas de jouer tant qu'il n'aurait pas obtenu la première place dix fois. Ce défi était totalement faisable pour lui, puisque c'est l'un des meilleurs Joueurs d'HOLSTARS. Temma a prouvé son talent tout en luttant contre les stream snipers en obtenant dix victoires en environ deux heures et demie.",
+      "text": "Temma a eu envie de jouer à Mario Kart, mais avec une légère différence, il n'arrêtait pas de jouer tant qu'il n'aurait pas obtenu la première place dix fois. Ce défi était totalement faisable pour lui, puisque c'est l'un des meilleurs joueurs d'HOLSTARS. Temma a prouvé son talent tout en luttant contre les stream snipers en obtenant dix victoires en environ deux heures et demie.",
       "bbox": {
         "x": 0.07,
         "y": 0.602,
         "width": 0.3875,
         "height": 0.1176
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.8169,
+        "width": 0.1255,
+        "height": 0.0202
       }
     },
     {
@@ -46,6 +76,36 @@
       }
     },
     {
+      "type": "other",
+      "text": "On Sale\nAugust 18",
+      "bbox": {
+        "x": 0.8855,
+        "y": 0.0732,
+        "width": 0.06,
+        "height": 0.0404
+      }
+    },
+    {
+      "type": "other",
+      "text": "“Dancing with the flowers.”\n2023 Calendar",
+      "bbox": {
+        "x": 0.5818,
+        "y": 0.1768,
+        "width": 0.3091,
+        "height": 0.0455
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.6345,
+        "y": 0.2462,
+        "width": 0.08,
+        "height": 0.0202
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Astel a annoncé qu'il allait sortir plus de produits dérivés de lui-même ! Par exemple, « Dancing with the flowers », un calendrier pour 2023 qui comprend des illustrations qui étaient auparavant réservées aux membres de sa chaîne. Chaque illustration est basée sur une fleur différente et est illustrée par un artiste différent. Le calendrier coûte 2 500 yens et est en vente du 18 août au 19 septembre.",
       "bbox": {
@@ -56,8 +116,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.6345,
+        "y": 0.4722,
+        "width": 0.0855,
+        "height": 0.0202
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "lzuru s'est demandé sur Twitter si une bouteille en plastique vide exploserait s'il la passait au micro-ondes avec son bouchon.",
+      "text": "Izuru s'est demandé sur Twitter si une bouteille en plastique vide exploserait s'il la passait au micro-ondes avec son bouchon.",
       "bbox": {
         "x": 0.54,
         "y": 0.5091,
@@ -66,8 +136,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.6345,
+        "y": 0.7639,
+        "width": 0.0855,
+        "height": 0.0202
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le stream Apex d'Izuru s'est transformé en collaboration lorsque Rikka et Astel l'ont rejoint. Au début, les fans ont été surpris lorsque Rikka a rejoint lzuru au début de son stream. Peu de temps après, Astel a rejoint leur appel Discord pour jouer avec eux. Ils ont très bien joué et ont gagné beaucoup de RP, et lzuru a réussi à atteindre le rang Platine. Izuru a réussi à passer de Or Il à Platine IV en deux heures.",
+      "text": "Le stream Apex d'Izuru s'est transformé en collaboration lorsque Rikka et Astel l'ont rejoint. Au début, les fans ont été surpris lorsque Rikka a rejoint Izuru au début de son stream. Peu de temps après, Astel a rejoint leur appel Discord pour jouer avec eux. Ils ont très bien joué et ont gagné beaucoup de RP, et Izuru a réussi à atteindre le rang Platine. Izuru a réussi à passer de Or II à Platine IV en deux heures.",
       "bbox": {
         "x": 0.5381,
         "y": 0.8012,

@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_3101_-_0602",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.1433,
+        "y": 0.0347,
+        "width": 0.2467,
+        "height": 0.0301
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mio",
+      "bbox": {
+        "x": 0.1617,
+        "y": 0.206,
+        "width": 0.09,
+        "height": 0.0289
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 31 janvier dernier, c'était au tour de Mio d'avoir une panne d'oreiller et de ne pas se réveiller à l'heure pour son stream AsaMio. Elle n’a, selon elle, pas entendu son réveil sonner. Mais le mystère reste entier quant à la raison : son réveil est-il cassé, ou l’a-t-elle éteint machinalement dans son sommeil ? Quoi qu'il en soit, Mio a continué son stream d’une voix molle et fatiguée.",
+      "text": "Le 31 janvier dernier, c’était au tour de Mio d’avoir une panne d’oreiller et de ne pas se réveiller à l’heure pour son stream AsaMio. Elle n’a, selon elle, pas entendu son réveil sonner. Mais le mystère reste entier quant à la raison : son réveil est-il cassé, ou l’a-t-elle éteint machinalement dans son sommeil ? Quoi qu’il en soit, Mio a continué son stream d’une voix molle et fatiguée.",
       "bbox": {
         "x": 0.0506,
         "y": 0.2539,
@@ -16,8 +36,58 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.206,
+        "width": 0.1467,
+        "height": 0.0313
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Korone, Miko, Lamy et Botan ont participé à une collaboration sur Dying Light 2. Le groupe a joué à la campagne du mode coopération, hébergée par Miko. En arrivant sur le jeu, les amies se sont présentées mais ont immédiatement remarqué les surprenants noms d'utilisateur de Botan et Korone, respectivement « cover 001 » et « drowsy_bet9 ». Botan a expliqué qu'elle avait emprunté la PS5 de COVER, tandis que Korone streamait depuis les bureaux de l’entreprise.",
+      "text": "Satisfaisant la demande de ses fans lors de son stream alcoolisé, Okayu a brièvement imité une enseignante. Équipée de ses lunettes et armée de sa voix douce, elle a essayé d’apprendre à ses fans les rudiments de la cantine scolaire. Ces derniers ont ensuite commenté qu’ils voyaient Okayu comme une « enseignante érotique », ce qu’elle a contesté. Elle a également dit que, bien qu’elle n’en portait pas dans ce stream, elle porterait sûrement un pantalon ou une jupe si elle devenait enseignante.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2522,
+        "width": 0.4269,
+        "height": 0.1814
+      }
+    },
+    {
+      "type": "heading",
+      "text": "MISC",
+      "bbox": {
+        "x": 0.185,
+        "y": 0.4549,
+        "width": 0.1617,
+        "height": 0.0301
+      }
+    },
+    {
+      "type": "other",
+      "text": "Korone, Miko,\nLamy & Botan",
+      "bbox": {
+        "x": 0.3533,
+        "y": 0.5347,
+        "width": 0.135,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.3517,
+        "y": 0.6262,
+        "width": 0.1267,
+        "height": 0.0231
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Korone, Miko, Lamy et Botan ont participé à une collaboration sur Dying Light 2. Le groupe a joué à la campagne du mode coopération, hébergée par Miko. En arrivant sur le jeu, les amies se sont présentées mais ont immédiatement remarqué les surprenants noms d’utilisateur de Botan et Korone, respectivement « cover_001 » et « drowsy_bet9 ». Botan a expliqué qu’elle avait emprunté la PS5 de COVER, tandis que Korone streamait depuis les bureaux de l’entreprise.",
       "bbox": {
         "x": 0.0538,
         "y": 0.6823,
@@ -27,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Peu après, le groupe a rencontré des difficultés les empêchant d'avancer dans l’histoire, en les forçant à redémarrer le jeu et à réinviter tout le monde.",
+      "text": "Peu après, le groupe a rencontré des difficultés les empêchant d’avancer dans l’histoire, en les forçant à redémarrer le jeu et à réinviter tout le monde.",
       "bbox": {
         "x": 0.0538,
         "y": 0.8854,
@@ -37,17 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Satisfaisant la demande de ses fans lors de son stream alcoolisé, Okayu a brièvement imité une enseignante. Equipée de ses lunettes et armée de sa voix douce, elle a essayé d'apprendre à ses fans les rudiments de la cantine scolaire. Ces derniers ont ensuite commenté qu’ils voyaient Okayu comme une « enseignante érotique », ce qu’elle a contesté. Elle a également dit que, bien qu'elle n’en portait pas dans ce stream, elle porterait sûrement un pantalon ou une jupe si elle devenait enseignante.",
-      "bbox": {
-        "x": 0.5219,
-        "y": 0.2522,
-        "width": 0.4269,
-        "height": 0.1814
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Après avoir résolu le problème, elles se sont attaquées à leur première mission, recommandée par Botan. Miko est morte à deux reprises durant celle-ci, étant la seule qui n'avait pas préalablement joué au tutoriel. Korone a fait face à autant de difficultés que Miko, ratant certains de ses sauts et tombant dans une horde de zombies avant d’être sauvée in extremis par ses camarades.",
+      "text": "Après avoir résolu le problème, elles se sont attaquées à leur première mission, recommandée par Botan. Miko est morte à deux reprises durant celle-ci, étant la seule qui n’avait pas préalablement joué au tutoriel. Korone a fait face à autant de difficultés que Miko, ratant certains de ses sauts et tombant dans une horde de zombies avant d’être sauvée in extremis par ses camarades.",
       "bbox": {
         "x": 0.5231,
         "y": 0.5152,
@@ -57,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Cependant, Korone était étonnamment douée pour tirer sur tout ce qui bougeait, PNJ compris. Le groupe a également croisé la route d’un énorme zombie durant une de leurs missions, mais à la surprise générale, les filles ont réussi à en venir à bout. On peut également mentionner les moments comiques où Botan s'est amusée à fermer la porte du refuge devant le nez de ses amies, comme elle l'avait fait sur Left 4 Dead 2.",
+      "text": "Cependant, Korone était étonnamment douée pour tirer sur tout ce qui bougeait, PNJ compris. Le groupe a également croisé la route d’un énorme zombie durant une de leurs missions, mais à la surprise générale, les filles ont réussi à en venir à bout. On peut également mentionner les moments comiques où Botan s’est amusée à fermer la porte du refuge devant le nez de ses amies, comme elle l’avait fait sur Left 4 Dead 2.",
       "bbox": {
         "x": 0.5238,
         "y": 0.6918,

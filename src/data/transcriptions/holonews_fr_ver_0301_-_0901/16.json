@@ -3,71 +3,41 @@
   "issueId": "holonews_fr_ver_0301_-_0901",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Le serveur Discord Hoshiyomi EN a un projet en cours pour célébrer les nombreuses étapes que Suisei a franchies tout au long de sa carrière de VTubeuse.",
+      "type": "heading",
+      "text": "Projets de fans",
       "bbox": {
-        "x": 0.0556,
+        "x": 0.04,
+        "y": 0.0502,
+        "width": 0.2969,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le serveur Discord Hoshiyomi EN a un projet en cours pour célébrer les nombreuses étapes que Suisei a franchies tout au long de sa carrière de VTubeuse. Pour montrer leur reconnaissance, ils tentent de réaliser une animation pour célébrer ses exploits, et font appel à tous les animateurs et illustrateurs intéressés pour aider à ce projet volontaire. Le projet a une date limite indéterminée pour s'adapter à l'emploi du temps chargé de ses participants, mais si tout se passe bien, il pourrait être publié à temps pour le prochain palier d’abonnés de Suisei.",
+      "bbox": {
+        "x": 0.0554,
         "y": 0.1068,
-        "width": 0.4063,
-        "height": 0.0612
-      }
-    },
-    {
-      "type": "other",
-      "text": "de réaliser une animation pour célébrerses § . A - ’",
-      "bbox": {
-        "x": 0.0563,
-        "y": 0.1849,
-        "width": 0.47,
-        "height": 0.0178
+        "width": 0.4292,
+        "height": 0.2158
       }
     },
     {
       "type": "paragraph",
-      "text": "exploits, et font appel a tous les animateurs et illustrateurs intéressés pour aider à ce ( projet volontaire. Le projet a une date limite",
+      "text": "Toute personne intéressée peut s'inscrire via le formulaire dans les sources. N'hésitez pas à rejoindre le serveur Discord des Hoshiyomi EN si vous avez des questions !",
       "bbox": {
-        "x": 0.0563,
-        "y": 0.2005,
-        "width": 0.4475,
-        "height": 0.0456
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "indéterminée pour s'adapter à l'emploi du Toute personne intéressée peut s'inscrire",
-      "bbox": {
-        "x": 0.0569,
-        "y": 0.2457,
-        "width": 0.8506,
-        "height": 0.0169
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "temps chargé de ses participants, mais si via le formulaire dans les sources.",
-      "bbox": {
-        "x": 0.0556,
-        "y": 0.2613,
-        "width": 0.7788,
-        "height": 0.0161
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "tout se passe bien, il pourrait être publié à N'hésitez pas à rejoindre le serveur temps pour le prochain palier d'abonnés de Discord des Hoshiyomi EN si vous avez Suisei. des questions !",
-      "bbox": {
-        "x": 0.0556,
-        "y": 0.2773,
-        "width": 0.8388,
-        "height": 0.0473
+        "x": 0.5,
+        "y": 0.2447,
+        "width": 0.4138,
+        "height": 0.078
       }
     },
     {
       "type": "heading",
-      "text": "• LET'S PLAY +",
+      "text": "LET’S PLAY",
       "bbox": {
         "x": 0.1756,
         "y": 0.3563,
@@ -77,12 +47,22 @@
     },
     {
       "type": "other",
-      "text": "THE LONG NIGHT COLLECTION",
+      "text": "LET'S PLAY TERMINÉS",
       "bbox": {
-        "x": 0.7594,
-        "y": 0.5191,
-        "width": 0.1838,
-        "height": 0.0074
+        "x": 0.8385,
+        "y": 0.3547,
+        "width": 0.1015,
+        "height": 0.0331
+      }
+    },
+    {
+      "type": "other",
+      "text": "METAL WOLF CHAOS XD | PLANET ZOO | Ao Oni\nEMILY WANTS TO PLAY | Jump King | YOMAWARI THE LONG NIGHT COLLECTION\n“DEATHLOOP” | Phoenix Wright Ace Attorney TRILOGY | ARAGAMI 2\nPHASMOPHOBIA | MASAGORO | HATSUNE MIKU COLORFUL STAGE!\nUNO | WORMS W.M.D | ERROR",
+      "bbox": {
+        "x": 0.0385,
+        "y": 0.4135,
+        "width": 0.9215,
+        "height": 0.3419
       }
     }
   ],

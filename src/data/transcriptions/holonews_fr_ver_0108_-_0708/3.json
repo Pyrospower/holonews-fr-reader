@@ -3,16 +3,16 @@
   "issueId": "holonews_fr_ver_0108_-_0708",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "Sa Mi",
+      "text": "Sakura Miko",
       "bbox": {
         "x": 0.02,
-        "y": 0.027,
-        "width": 0.2983,
-        "height": 0.3052
+        "y": 0.025,
+        "width": 0.9,
+        "height": 0.31
       }
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Miko a interprété 13 chansons, avec des changements de tenues, de scénes et méme des apparitions d'elle-même du passé grâce à un hologramme ! Haachama, Mio, Suisei, Polka, Noel et Flare étaient les invitées de son concert.",
+      "text": "Miko a interprété 13 chansons, avec des changements de tenues, de scènes et même des apparitions d'elle-même du passé grâce à un hologramme ! Haachama, Mio, Suisei, Polka, Noel et Flare étaient les invitées de son concert.",
       "bbox": {
         "x": 0.0478,
         "y": 0.7407,
@@ -67,42 +67,12 @@
     },
     {
       "type": "paragraph",
-      "text": "• Une tapisserie B2, illustrée par Ordan.",
+      "text": "• Une tapisserie B2, illustrée par Ordan.\n• Un coussin illustré par Namori.\n• Un certificat d'assurance de sécurité 35P, avec une illustration de Namori.\n• Un sweat à capuche 35P élite à taille unique.",
       "bbox": {
         "x": 0.5433,
         "y": 0.6208,
         "width": 0.3806,
-        "height": 0.0131
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un coussin illustré par Namori.",
-      "bbox": {
-        "x": 0.5433,
-        "y": 0.6362,
-        "width": 0.3139,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un certificat d'assurance de sécurité 35P, avec une illustration de Namori.",
-      "bbox": {
-        "x": 0.5433,
-        "y": 0.6516,
-        "width": 0.3694,
-        "height": 0.0274
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un sweat à capuche 35P élite à taille unique.",
-      "bbox": {
-        "x": 0.5433,
-        "y": 0.6829,
-        "width": 0.3644,
-        "height": 0.0289
+        "height": 0.091
       }
     },
     {

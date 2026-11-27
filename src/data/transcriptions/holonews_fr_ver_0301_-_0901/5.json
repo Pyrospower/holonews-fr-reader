@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_0301_-_0901",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "MARIOKART",
+      "bbox": {
+        "x": 0.0354,
+        "y": 0.3568,
+        "width": 0.6046,
+        "height": 0.0353
+      }
+    },
     {
       "type": "paragraph",
       "text": "Le 7 janvier 2022 s'est tenue la Coupe Mario Kart hololive du Nouvel An. Les trois branches d'hololive se sont réunies pour le tournoi, à l'exception de Sora, AZKi, Haachama, Korone, Rushia, Botan, Shion et la 1ère génération d'hololive ID qui étaient absents.",
@@ -47,32 +57,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Okayu a remporté le tournoi, suivie de",
+      "text": "Okayu a remporté le tournoi, suivie de Suisei à la 2e place et de Marine à la 3e place. Mio, qui avait déclaré forfait suite à de malencontreux problèmes techniques, a réussi à se rattraper en gagnant la Zako Cup.",
       "bbox": {
         "x": 0.5428,
         "y": 0.8592,
-        "width": 0.3744,
-        "height": 0.0154
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Suisei à la 2e place et de Marine à la 3e place. Mio, qui avait déclaré forfait suite à de malencontreux problèmes techniques,",
-      "bbox": {
-        "x": 0.5428,
-        "y": 0.8754,
-        "width": 0.4072,
-        "height": 0.0475
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "5 réussi à se rattraper en gagnant la Zako up.",
-      "bbox": {
-        "x": 0.5428,
-        "y": 0.9236,
         "width": 0.4122,
-        "height": 0.0305
+        "height": 0.0949
       }
     }
   ],

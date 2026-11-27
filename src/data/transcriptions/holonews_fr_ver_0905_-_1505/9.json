@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0905_-_1505",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,16 +13,6 @@
         "y": 0.0174,
         "width": 0.2606,
         "height": 0.0208
-      }
-    },
-    {
-      "type": "other",
-      "text": "Translate Tyeet",
-      "bbox": {
-        "x": 0.065,
-        "y": 0.1454,
-        "width": 0.0638,
-        "height": 0.0048
       }
     },
     {
@@ -36,8 +26,38 @@
       }
     },
     {
+      "type": "paragraph",
+      "text": "Plus tôt cette semaine, Izuru a tweeté qu’en une journée, il a réalisé ses enregistrements, est parti remplacer son téléphone (qu’il a cassé en le jetant dans la mer), et a pris rendez-vous dans un salon de beauté. Izuru est un bon garçon, n’est-ce pas ?",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2183,
+        "width": 0.3713,
+        "height": 0.0803
+      }
+    },
+    {
       "type": "heading",
-      "text": "Astel & Fuma A",
+      "text": "Miyabi & Temma",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.439,
+        "width": 0.264,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’épisode de HanaKishi Radio de cette semaine était différent des autres car cette fois-ci, Ikemane, l’un des manager de HOLOSTARS est en vacances. Le problème étant qu’il était le seul avec l’accès au Google Sheets, ce qui finit par rendre Temma et Miyabi incapable de parler du sujet qu’ils avaient planifiés pour la semaine. Mais le show doit continuer, ils ont alors décidé de faire de la discussion libre. L’un des sujets était « Pourquoi Ikemane est en pause » et c’est parce que c’était son anniversaire. Temma a ensuite ajouté qu’il lui avait déjà envoyé un cadeau, ce qui n’est pas le cas de Miyabi. Ils ont aussi discuté de la possibilité d’une collab avec UPROAR!!, sujet sur lequel Temma a rapidement dit « Non ! » et ont essayé de se pousser l’un et l’autre à initier une collaboration.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.479,
+        "width": 0.397,
+        "height": 0.2563
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel & Fuma",
       "bbox": {
         "x": 0.6606,
         "y": 0.1732,
@@ -47,17 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Plus tôt cette semaine, Izuru a tweeté qu’en une journée, il a réalisé ses enregistrements, est parti remplacer son téléphone (qu'il a cassé en le jetant dans la mer), et a pris rendez-vous dans un salon de beauté. Izuru",
-      "bbox": {
-        "x": 0.0719,
-        "y": 0.2183,
-        "width": 0.3713,
-        "height": 0.0638
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Fuma a invité Astel pour essayer la nouvelle saison d'Apex ensemble. Leurs streams ont commencé juste après qu'ils aient fini de télécharger et d'installer la mise à jour. Dans ce stream, ils ont discuté du nouveau héros et du nouveau système de classement. Ils ont également regarder le passe de combat et les cosmétiques. Cependant, Astel a terminé son passe de combat en dépensant son argent pour tout débloquer, en ajoutant que le jeu est trop facile.",
+      "text": "Fuma a invité Astel pour essayer la nouvelle saison d’Apex ensemble. Leurs streams ont commencé juste après qu’ils aient fini de télécharger et d’installer la mise à jour. Dans ce stream, ils ont discuté du nouveau héros et du nouveau système de classement. Ils ont également regarder le passe de combat et les cosmétiques. Cependant, Astel a terminé son passe de combat en dépensant son argent pour tout débloquer, en ajoutant que le jeu est trop facile.",
       "bbox": {
         "x": 0.5381,
         "y": 0.2183,
@@ -67,47 +77,17 @@
     },
     {
       "type": "paragraph",
-      "text": "est un bon garçon, n'est-ce pas ?",
-      "bbox": {
-        "x": 0.0719,
-        "y": 0.2856,
-        "width": 0.2769,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Après avoir envoyé une notification sur leur serveur afin de trouver une troisième personne pour compléter l'équipe, Rikka a décidé de se Joindre à eux. Izuru a également rejoint l'appel.",
+      "text": "Après avoir envoyé une notification sur leur serveur afin de trouver une troisième personne pour compléter l’équipe, Rikka a décidé de se joindre à eux. Izuru a également rejoint l’appel. Après avoir essayé le nouveau héros et le nouveau système de classement, ils se sont mis d’accord que ce nouveau système est bien plus difficile. Astel et Izuru espèrent que ce système va réduire ou même réinitialiser leur points de tournois, pour que la composition d’équipe soit plus facile pour des futurs tournois.",
       "bbox": {
         "x": 0.5375,
         "y": 0.362,
         "width": 0.3894,
-        "height": 0.0495
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Après avoir essayé le nouveau héros et le nouveau système de classement, ils se sont mis d'accord que ce nouveau système est bien plus difficile, Astel et Izuru espèrent que = FELICE réduire ou méme cuisse eur points de tournois, pour que la composition d'équipe ait Shi facile pour des futurs tournois.",
-      "bbox": {
-        "x": 0.5381,
-        "y": 0.4106,
-        "width": 0.3769,
-        "height": 0.0951
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "fois-ci, Ikemane, l'un des manager de HOLOSTARS est en vacances. Le problème étant qu'il était le seul avec l'accès au Google Sheets, ce qui finit par rendre Temma et Miyabi incapable de parler du sujet qu’ils avaient planifiés pour la semaine. Mais le show doit continuer, ils ont alors décidé de",
-      "bbox": {
-        "x": 0.0712,
-        "y": 0.5065,
-        "width": 0.3781,
-        "height": 0.0924
+        "height": 0.1437
       }
     },
     {
       "type": "heading",
-      "text": ") Collab",
+      "text": "Collab",
       "bbox": {
         "x": 0.7269,
         "y": 0.5543,
@@ -117,67 +97,27 @@
     },
     {
       "type": "paragraph",
-      "text": "faire de la discussion libre. L'un des sujets était",
-      "bbox": {
-        "x": 0.0712,
-        "y": 0.6007,
-        "width": 0.3913,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Le Groupe de Survivants composé d'Izuru,",
-      "bbox": {
-        "x": 0.5444,
-        "y": 0.5985,
-        "width": 0.3425,
-        "height": 0.0156
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "« Pourquoi Ikemane est en pause » et c'est parce que c'était son anniversaire. Temma a ensuite ajouté qu'il lui avait déjà envoyé un cadeau, ce qui n'est pas le cas de Miyabi. Ils ont aussi discuté de la possibilité d’une collab avec UPROAR! sujet sur lequel Temma a",
-      "bbox": {
-        "x": 0.0719,
-        "y": 0.6141,
-        "width": 0.3769,
-        "height": 0.0803
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Temma, et Roberu ont commencé une partie sur un nouveau jeu de survie, Grounded. C'est un jeu où ils sont rétrécis et doivent combattre des insectes pour survivre dans la nature. De ce que l’on a pu voir, on dirait qu'ils essayaient de se débarrasser de toutes les peurs de Roberu.",
+      "text": "Le Groupe de Survivants composé d’Izuru, Temma, et Roberu ont commencé une partie sur un nouveau jeu de survie, Grounded. C’est un jeu où ils sont rétrécis et doivent combattre des insectes pour survivre dans la nature. De ce que l’on a pu voir, on dirait qu’ils essayaient de se débarrasser de toutes les peurs de Roberu. Heureusement, il y avait un mode pour arachnophobe qui permet de modifier l'apparence des araignées, allant de blob à réaliste.",
       "bbox": {
         "x": 0.5381,
-        "y": 0.612,
-        "width": 0.3944,
-        "height": 0.0803
+        "y": 0.5985,
+        "width": 0.3962,
+        "height": 0.1341
       }
     },
     {
-      "type": "paragraph",
-      "text": "rapidement dit « Non ! » et ont essayé de se pousser l’un et l'autre à initier une 3 collaboration.",
+      "type": "heading",
+      "text": "Aruran",
       "bbox": {
-        "x": 0.0719,
-        "y": 0.6949,
-        "width": 0.3963,
-        "height": 0.0404
+        "x": 0.529,
+        "y": 0.803,
+        "width": 0.115,
+        "height": 0.02
       }
     },
     {
       "type": "paragraph",
-      "text": "Heureusement, il y avait un mode pour arachnophobe qui permet de modifier l'apparence des araignées, allant de blob à réaliste.",
-      "bbox": {
-        "x": 0.5387,
-        "y": 0.6927,
-        "width": 0.3956,
-        "height": 0.0399
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Aruran a fini un autre projet sur Minecraft. Réputé pour ses projets long et gigantesque, celui-ci était l’un des plus simples. Malgré cela, c'est tout aussi important. Aruran a réalisé un pixel art de la tête de tous les membres d'HOLOSTARS et d'UPROAR. Papa voulait faire en sorte que le pixel art soit de face pour qu'il soit visible sur la carte. Le 13 Mai, Papa l'a enfin fini et l'a publié sur Twitter. Il est satisfait du résultat. Merci, Aru-Papa !",
+      "text": "Aruran a fini un autre projet sur Minecraft. Réputé pour ses projets long et gigantesque, celui-ci était l’un des plus simples. Malgré cela, c’est tout aussi important. Aruran a réalisé un pixel art de la tête de tous les membres d’HOLOSTARS et d’UPROAR. Papa voulait faire en sorte que le pixel art soit de face pour qu’il soit visible sur la carte. Le 13 Mai, Papa l’a enfin fini et l’a publié sur Twitter. Il est satisfait du résultat. Merci, Aru-Papa !",
       "bbox": {
         "x": 0.4319,
         "y": 0.8464,

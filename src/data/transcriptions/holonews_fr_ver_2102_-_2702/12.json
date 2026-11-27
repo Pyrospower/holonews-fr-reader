@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2102_-_2702",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -26,8 +26,28 @@
       }
     },
     {
+      "type": "other",
+      "text": "Thankyou",
+      "bbox": {
+        "x": 0.1767,
+        "y": 0.2778,
+        "width": 0.1883,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.3206,
+        "width": 0.1567,
+        "height": 0.0255
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 22 février (JST), Moona a atteint un million d'abonnés sur YouTube, faisant d'elle le 24e membre d'hololive, le premier membre d'hololD et le premier VTuber SEA à atteindre cette étape. Moona, comme le veut la tradition, a également dormi pendant que A-chan, sa maman Nyori et les Moonafics la félicitaient sur Twitter. Après qu'elle a été totalement réveillée, Moona a organisé un stream de célébration, où elle a présenté deux cadeaux d'anniversaire de Moonafics, dont une peinture murale dessinée à la main par plusieurs Moonas, et la vidéo de célébration du serveur Discord Crescent Luminaries.",
+      "text": "Le 22 février (JST), Moona a atteint un million d'abonnés sur YouTube, faisant d'elle le 24e membre d'hololive, le premier membre d'holoID et le premier VTuber SEA à atteindre cette étape. Moona, comme le veut la tradition, a également dormi pendant que A-chan, sa maman Nyori et les Moonafics la félicitaient sur Twitter. Après qu’elle a été totalement réveillée, Moona a organisé un stream de célébration, où elle a présenté deux cadeaux d'anniversaire de Moonafics, dont une peinture murale dessinée à la main par plusieurs Moonas, et la vidéo de célébration du serveur Discord Crescent Luminaries.",
       "bbox": {
         "x": 0.05,
         "y": 0.3607,
@@ -76,8 +96,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Risu",
+      "bbox": {
+        "x": 0.6317,
+        "y": 0.2384,
+        "width": 0.1033,
+        "height": 0.0255
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Risu a organisé un stream de revues de memes pour fêter ses 600 000 abonnés. Elle a rassemblé les memes déposés sur le tag « #RisuMemeReview » et les a divisés en trois catégories (sûrs/libres de droits, classiques/mêmes-modèles, maudits/références évidentes/ éventuellement soumis à des droits d'auteur). Ollie a également rejoint le stream en tant qu'invitée surprise après avoir reçu des lunettes bien sympathiques. Elles ont passé en revue les memes pendant près de deux heures, prouvant ainsi leur compétence et leur culture en la matière. Ollie a cependant dû partir tôt. À la fin du stream, Risu a révélé qu'elle était rête à faire plus de revues de memes à avenir, si suffisamment de memes étaient soumis.",
+      "text": "Risu a organisé un stream de revues de memes pour fêter ses 600 000 abonnés. Elle a rassemblé les memes déposés sur le tag « #RisuMemeReview » et les a divisés en trois catégories (sûrs/libres de droits, classiques/mêmes-modèles, maudits/références évidentes/éventuellement soumis à des droits d'auteur). Ollie a également rejoint le stream en tant qu'invitée surprise après avoir reçu des lunettes bien sympathiques. Elles ont passé en revue les memes pendant près de deux heures, prouvant ainsi leur compétence et leur culture en la matière. Ollie a cependant dû partir tôt. À la fin du stream, Risu a révélé qu'elle était prête à faire plus de revues de memes à l'avenir, si suffisamment de memes étaient soumis.",
       "bbox": {
         "x": 0.5313,
         "y": 0.2765,
@@ -86,13 +116,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "« Les memes unissent les frères » - Ayunda Risu, 2022",
+      "type": "other",
+      "text": "« Les memes unissent les frères »\n- Ayunda Risu, 2022",
       "bbox": {
         "x": 0.5319,
         "y": 0.559,
         "width": 0.4025,
         "height": 0.0291
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.7222,
+        "width": 0.0817,
+        "height": 0.0266
       }
     },
     {

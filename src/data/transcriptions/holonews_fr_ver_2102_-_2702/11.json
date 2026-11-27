@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2102_-_2702",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0499,
         "width": 0.3525,
         "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.2211,
+        "width": 0.1367,
+        "height": 0.0243
       }
     },
     {
@@ -36,8 +46,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.6574,
+        "width": 0.1283,
+        "height": 0.0255
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "En lisant les Super Chats de sa fête d'anniversaire, Shien a dit qu'il pouvait lire et parler un peu de coréen. ll n'est pas en mesure de comprendre pleinement ce qu'il lit, mais il peut saisir le sens. Il a également précisé qu'il était autodidacte et que sa prononciation et sa grammaire pouvaient donc être médiocres.",
+      "text": "En lisant les Super Chats de sa fête d'anniversaire, Shien a dit qu'il pouvait lire et parler un peu de coréen. Il n'est pas en mesure de comprendre pleinement ce qu'il lit, mais il peut saisir le sens. Il a également précisé qu'il était autodidacte et que sa prononciation et sa grammaire pouvaient donc être médiocres.",
       "bbox": {
         "x": 0.0588,
         "y": 0.7005,
@@ -56,43 +76,43 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.75,
+        "y": 0.2222,
+        "width": 0.1433,
+        "height": 0.0243
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Izuru, Temma et Roberu ont poursuivi leur voyage a la recherche d'indices pour résoudre les mystères de Raft. Comme d'habitude, ils ont commencé le stream par une introduction trés énergique alors qu'ils rassemblaient les objets nécessaires pour explorer une fle. Alors sl se séparaient tous, a la recherche",
+      "text": "Izuru, Temma et Roberu ont poursuivi leur voyage à la recherche d'indices pour résoudre les mystères de Raft. Comme d'habitude, ils ont commencé le stream par une introduction très énergique alors qu'ils rassemblaient les objets nécessaires pour explorer une île. Alors qu'ils se séparaient tous, à la recherche d'indices, Izuru a failli mourir après avoir été confronté à un ours. Heureusement, il a battu l'ours et a survécu avec peu de vie. Pendant ce temps, Temma et Roberu se disputaient pour savoir comment activer le levier du pont.",
       "bbox": {
         "x": 0.5306,
         "y": 0.2609,
         "width": 0.4181,
-        "height": 0.1298
+        "height": 0.207
       }
     },
     {
       "type": "paragraph",
-      "text": "‘indices, Izuru a failli mourir après avoir été confronté à un ours. Heureusement, il a battu l'ours et a survécu avec peu de vie. Pendant ce temps, Temma et Roberu se disputaient pour savoir comment activer le levier du pont.",
-      "bbox": {
-        "x": 0.5306,
-        "y": 0.3789,
-        "width": 0.4131,
-        "height": 0.089
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Après avoir débarqué sur la nouvelle île, Roberu et Izuru ont décidé de jouer a un jeu de rôle romantique.",
+      "text": "Après avoir débarqué sur la nouvelle île, Roberu et Izuru ont décidé de jouer à un jeu de rôle romantique. Malheureusement, un requin a tué Temma, ruinant ainsi leur rendez-vous. Après avoir ramené Temma, Izuru a essayé de le poignarder dans son sommeil. Après tout cette histoire, ils ont finalement exploré toute l'île et trouvé de nombreux indices. Alors qu'ils se dirigeaient vers la prochaine île, ils ont découvert que leur prochain stream Raft ensemble serait probablement leur dernier avant la mise à jour du jeu. Ils l'ont tous nié, surtout Izuru, car il adore le jeu.",
       "bbox": {
         "x": 0.53,
         "y": 0.4779,
-        "width": 0.3988,
-        "height": 0.056
+        "width": 0.42,
+        "height": 0.2217
       }
     },
     {
-      "type": "paragraph",
-      "text": "alheureusement, un requin a tué Temma, ruinant ainsi leur rendez-vous. Apres avoir ramené Temma, lzuru a essayé de le poignarder dans son sommeil. Après tout cette histoire, ils ont finalement exploré toute l'île et trouvé de nombreux indices. Alors qu'ils se dirigeaient vers la prochaine île, ils ont découvert que leur prochain stream Raft ensemble serait probablement leur dernier avant la mise à jour du jeu. Ils l'ont tous nié, surtout lzuru, car il adore le jeu.",
+      "type": "heading",
+      "text": "Rikka",
       "bbox": {
-        "x": 0.5306,
-        "y": 0.5221,
-        "width": 0.4194,
-        "height": 0.1775
+        "x": 0.6317,
+        "y": 0.8218,
+        "width": 0.135,
+        "height": 0.0243
       }
     },
     {

@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Gen 0",
+      "bbox": {
+        "x": 0.45,
+        "y": 0.0163,
+        "width": 0.1172,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei & Koyori",
+      "bbox": {
+        "x": 0.1797,
+        "y": 0.179,
+        "width": 0.2375,
+        "height": 0.0206
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Suisei et Koyori ont traumatisé une serveuse lorsqu'elles ont parlé de Rust durant un repas dans un restaurant. La pauvre hôtesse a dû grillé de la viande pour elles, pendant que Suicopath commençait à parler de cannibalisme, à dire qu’elle s'est elle-même manger et qu’elle a réussi à assouvir sa faim. Koyori, comme à son habitude, fût émerveillé par ça, donnant lieu à une réaction de dégoût de la part de la serveuse. Fort heureusement, ce quiproquo a été réglé juste avant que les deux talents ne partent du restaurant.",
+      "text": "Suisei et Koyori ont traumatisé une serveuse lorsqu’elles ont parlé de Rust durant un repas dans un restaurant. La pauvre hôtesse a dû grillé de la viande pour elles, pendant que Suicopath commençait à parler de cannibalisme, à dire qu’elle s’est elle-même manger et qu’elle a réussi à assouvir sa faim. Koyori, comme à son habitude, fût émerveillé par ça, donnant lieu à une réaction de dégoût de la part de la serveuse. Fort heureusement, ce quiproquo a été réglé juste avant que les deux talents ne partent du restaurant.",
       "bbox": {
         "x": 0.07,
         "y": 0.2183,
@@ -16,23 +36,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Sora a présenté son yukata d'été en stream. Elle a alterné entre différentes couleurs et designs, donnant son opinion sur les différents coloris, tout en demandant I'avis de ses spectateurs pour chacune d'entre elles.",
+      "type": "heading",
+      "text": "Sora",
       "bbox": {
-        "x": 0.0694,
-        "y": 0.5668,
-        "width": 0.3863,
-        "height": 0.0668
+        "x": 0.1672,
+        "y": 0.5282,
+        "width": 0.0719,
+        "height": 0.0206
       }
     },
     {
       "type": "paragraph",
-      "text": "Avec des feux-artifices derrière elle, elle s’est émerveillée de la beauté des feux-artifices et a dit qu’elle aimerait manger une pomme d'amour. Sora était mignonne, comme toujours !",
+      "text": "Sora a présenté son yukata d’été en stream. Elle a alterné entre différentes couleurs et designs, donnant son opinion sur les différents coloris, tout en demandant l’avis de ses spectateurs pour chacune d'entre elles. Avec des feux-artifices derrière elle, elle s’est émerveillée de la beauté des feux-artifices et a dit qu’elle aimerait manger une pomme d’amour. Sora était mignonne, comme toujours !",
       "bbox": {
         "x": 0.0688,
-        "y": 0.6341,
+        "y": 0.5668,
         "width": 0.4,
-        "height": 0.0534
+        "height": 0.1207
       }
     },
     {
@@ -47,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le stream de Roboco sur Rust a été décalé à cause d’un problème d’OBS et de connexion. Roboco a commencé à crier « JE NE T'OUBLIERAI PAS » en parlant d'OBS. Elle a fait un stream le lendemain, après avoir réglé ses problèmes.",
+      "text": "Le stream de Roboco sur Rust a été décalé à cause d’un problème d’OBS et de connexion. Roboco a commencé à crier « JE NE T’OUBLIERAI PAS » en parlant d’OBS. Elle a fait un stream le lendemain, après avoir réglé ses problèmes.",
       "bbox": {
         "x": 0.0694,
         "y": 0.7925,
@@ -56,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.6375,
+        "y": 0.1551,
+        "width": 0.0797,
+        "height": 0.0206
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Miko à reçu une série d'appels téléphoniques étranges de Mary sur Rust, après avoir annoncé ses services de vol. Mary est une légende urbaine japonaise d'une fille qui reçoit des appels inquiétants voir terrifiants de sa poupée abandonnée. En réalité, c'était Suisei qui a interprété la voix de Mary et qui a piégé Miko. Cela a terrifié Miko qui s'est caché dans sa maison après que Mary l'ait appelé, suivi d'un rire de psychopathe. Suisei est une vraie psychopathe.",
+      "text": "Miko à reçu une série d’appels téléphoniques étranges de Mary sur Rust, après avoir annoncé ses services de vol. Mary est une légende urbaine japonaise d’une fille qui reçoit des appels inquiétants voir terrifiants de sa poupée abandonnée. En réalité, c’était Suisei qui a interprété la voix de Mary et qui a piégé Miko. Cela a terrifié Miko qui s’est caché dans sa maison après que Mary l'ait appelé, suivi d’un rire de psychopathe. Suisei est une vraie psychopathe.",
       "bbox": {
         "x": 0.5394,
         "y": 0.1949,
@@ -77,12 +107,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Miko a rencontré Anemachi (la grande sœur de Suisei) pour la première fois et a adoré sa cuisine. Elle a tellement apprécié sa cuisine qu'elle voulait être adoptée par la famille Hoshimachi, déclarant que les prouesses d’Anemachi étaient supérieures aux siennes et qu'elle ferait une mere formidable. Par ailleurs, Miko a dit qu’elle ferait une meilleure petite sœur que Suisei, vu que cette dernière critique énormément la cuisine de sa grande sœur. Le tchat de Miko a dit qu’elle pourrait être la petite sœur d'Anemachi si elle se mariait à Suisei.",
+      "text": "Miko a rencontré Anemachi (la grande sœur de Suisei) pour la première fois et a adoré sa cuisine. Elle a tellement apprécié sa cuisine qu’elle voulait être adoptée par la famille Hoshimachi, déclarant que les prouesses d’Anemachi étaient supérieures aux siennes et qu’elle ferait une mère formidable. Par ailleurs, Miko a dit qu’elle ferait une meilleure petite sœur que Suisei, vu que cette dernière critique énormément la cuisine de sa grande sœur. Le tchat de Miko a dit qu’elle pourrait être la petite sœur d’Anemachi si elle se mariait à Suisei.",
       "bbox": {
         "x": 0.5387,
         "y": 0.4336,
         "width": 0.39,
         "height": 0.158
+      }
+    },
+    {
+      "type": "heading",
+      "text": "AZKi",
+      "bbox": {
+        "x": 0.6359,
+        "y": 0.7668,
+        "width": 0.0797,
+        "height": 0.0206
       }
     },
     {
@@ -96,16 +136,6 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "AZKi a demandé à ses abonnés sur Twitter s'ils voulaient voir son maillot de bain et son yukata. La réponse était un grand oui.",
-      "bbox": {
-        "x": 0.2788,
-        "y": 0.9336,
-        "width": 0.6325,
-        "height": 0.0265
-      }
-    },
-    {
       "type": "heading",
       "text": "AZKi",
       "bbox": {
@@ -113,6 +143,16 @@
         "y": 0.9388,
         "width": 0.0775,
         "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AZKi a demandé à ses abonnés sur Twitter s’ils voulaient voir son maillot de bain et son yukata. La réponse était un grand oui.",
+      "bbox": {
+        "x": 0.2788,
+        "y": 0.9336,
+        "width": 0.6325,
+        "height": 0.0265
       }
     }
   ],

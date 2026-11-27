@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Merci !",
+      "bbox": {
+        "x": 0.3707,
+        "y": 0.0556,
+        "width": 0.252,
+        "height": 0.0398
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Merci d'avoir lu notre numéro spécial sur les débuts d'holoxX !",
+      "text": "Merci d'avoir lu notre numéro spécial sur les débuts d'holoX !",
       "bbox": {
         "x": 0.1125,
         "y": 0.1454,
@@ -33,16 +43,6 @@
         "y": 0.3494,
         "width": 0.7669,
         "height": 0.0994
-      }
-    },
-    {
-      "type": "other",
-      "text": "HoloNews | 10/11-10/17 issue out now",
-      "bbox": {
-        "x": 0.3494,
-        "y": 0.5972,
-        "width": 0.2088,
-        "height": 0.0078
       }
     },
     {

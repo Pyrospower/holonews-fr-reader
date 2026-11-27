@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_2211_-_2811",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.0619,
+        "width": 0.2125,
+        "height": 0.0355
+      }
+    },
     {
       "type": "heading",
       "text": "Subaru",
@@ -26,6 +36,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.1614,
+        "y": 0.5377,
+        "width": 0.1147,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Pour la première fois en plus d'un an, Aqua a publié un planning de ses streams sur Twitter. En plus de cela, l'anniversaire d'Aqua aura lieu le 1er décembre. Attendez donc avec impatience de voir ce qu'elle vous réserve !",
       "bbox": {
@@ -33,6 +53,16 @@
         "y": 0.5807,
         "width": 0.3925,
         "height": 0.1172
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.6315,
+        "y": 0.2366,
+        "width": 0.1158,
+        "height": 0.0272
       }
     },
     {
@@ -46,6 +76,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.6348,
+        "y": 0.5785,
+        "width": 0.1364,
+        "height": 0.0242
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Choco-sensei nous a montré ses statistiques sur Minecraft, révélant qu'elle a tué plus de 397 000 Endermen au cours de sa carrière.",
       "bbox": {
@@ -53,6 +93,16 @@
         "y": 0.625,
         "width": 0.4206,
         "height": 0.0651
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.8406,
+        "width": 0.1679,
+        "height": 0.0242
       }
     },
     {

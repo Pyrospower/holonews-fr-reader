@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2006_-_2606",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.47,
+        "y": 0.015,
+        "width": 0.06,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gura",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.179,
+        "width": 0.08,
+        "height": 0.025
+      }
+    },
     {
       "type": "paragraph",
       "text": "Gura a donné le coup d'envoi de la célébration de son anniversaire avec un stream d'appel téléphonique accompagné de cadeaux, de manigances et de fraises. Elle a reçu un artbook numérique de la part des Chumbuds, et a exprimé sa gratitude envers ses fans pour s'être réunis afin de créer quelque chose de si spécial. Les cadeaux des filles qui n'ont pas appelé étaient un bouquet de poissons morts dessiné à la main par Korone, une bague de Shion (que Gura a pris pour une pierre) et un message de Mel.",
@@ -17,52 +37,42 @@
     },
     {
       "type": "paragraph",
-      "text": "Pendant les appels, les filles JP ont fait de leur mieux pour parler anglais, tandis que Gura a",
+      "text": "Pendant les appels, les filles JP ont fait de leur mieux pour parler anglais, tandis que Gura a prononcé quelques phrases en japonais. Koyori a dit qu'elle voulait jouer à Mario Party avec Gura, mais qu'elle n’en avait pas le courage à cause de son anglais. Ina a prononcé une chanson d'anniversaire d’une voix rauque sur son Otamatone. Gura pensait qu'il fallait utiliser sa bouche pour en jouer et a donc pensé qu'Ina riait en jouant. Pendant ce temps, Calli, endormie, mais fière, a fait semblant d'être Sora avant que la vraie Sora ne l'appelle. Ne manquez pas de regarder le stream complet pour voir les amusantes interactions de chacune avec Gura !",
       "bbox": {
-        "x": 0.0725,
-        "y": 0.3694,
-        "width": 0.3856,
-        "height": 0.0343
+        "x": 0.071,
+        "y": 0.37,
+        "width": 0.398,
+        "height": 0.18
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.687,
+        "width": 0.08,
+        "height": 0.025
       }
     },
     {
       "type": "paragraph",
-      "text": "rononcé quelques phrases en japonais.",
-      "bbox": {
-        "x": 0.0831,
-        "y": 0.3919,
-        "width": 0.3256,
-        "height": 0.0256
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "oyori a dit qu'elle voulait jouer à Mario Party avec Gura, mais qu'elle n’en avait pas le courage à cause de son anglais. Ina a prononcé une chanson d'anniversaire d’une Voix rauque sur son Otamatone. Gura pensait qui fallait utiliser sa bouche pour en jouer et a",
-      "bbox": {
-        "x": 0.0712,
-        "y": 0.4058,
-        "width": 0.3838,
-        "height": 0.0829
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "onc pensé qu'Ina riait en jouant. Pendant ce temps, Calli, endormie, mais fière, a fait semblant d'être Sora avant que la vraie Sora ne l'appelle. Ne manquez pas de regarder le stream complet pour voir les amusantes interactions de chacune avec Gura !",
-      "bbox": {
-        "x": 0.0712,
-        "y": 0.4787,
-        "width": 0.3756,
-        "height": 0.0707
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Calli a révélé dans son stream de lecture de manga qu'elle étudiait les moyens de retourner aux Etats-Unis. Elle a révélé que la principale raison de cette décision était que 80 % de ses revenus étaient consacrés aux impôts, puisqu'elle est citoyenne américaine et vit au Japon, tout en étant dans la tranche de taux d'imposition la plus élevée.",
+      "text": "Calli a révélé dans son stream de lecture de manga qu'elle étudiait les moyens de retourner aux États-Unis. Elle a révélé que la principale raison de cette décision était que 80 % de ses revenus étaient consacrés aux impôts, puisqu'elle est citoyenne américaine et vit au Japon, tout en étant dans la tranche de taux d’imposition la plus élevée.",
       "bbox": {
         "x": 0.0712,
         "y": 0.7287,
         "width": 0.3738,
         "height": 0.0942
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.639,
+        "y": 0.179,
+        "width": 0.08,
+        "height": 0.025
       }
     },
     {
@@ -83,6 +93,16 @@
         "y": 0.3155,
         "width": 0.3844,
         "height": 0.1267
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.75,
+        "y": 0.58,
+        "width": 0.11,
+        "height": 0.025
       }
     },
     {

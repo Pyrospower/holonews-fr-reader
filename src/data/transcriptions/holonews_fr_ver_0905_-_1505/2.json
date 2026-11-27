@@ -3,16 +3,36 @@
   "issueId": "holonews_fr_ver_0905_-_1505",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Le 15 mai, Sora a fété son anniversaire et a regu une nouvelle tenue ! La veille, elle a organisé un compte à rebours en stream. Le compte à rebours a commencé juste avant minuit, donc elle a pu",
+      "text": "Le 15 mai, Sora a fêté son anniversaire et a reçu une nouvelle tenue ! La veille, elle a organisé un compte à rebours en stream. Le compte à rebours a commencé juste avant minuit, donc elle a pu discuter avec ses spectateurs.",
       "bbox": {
         "x": 0.0583,
         "y": 0.3908,
-        "width": 0.2728,
+        "width": 0.4712,
         "height": 0.1273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une fois minuit passé, A-chan a été la première à l’appeler. Puis Lamy, Okayu, Watame, Iofi, Subaru, Polka, Koyori, Chloe et Miko ont appelé.",
+      "bbox": {
+        "x": 0.3589,
+        "y": 0.4232,
+        "width": 0.2828,
+        "height": 0.0787
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko a obtenu la permission de créer le personnage de Sora dans WWE 2K22, et Iofi n'a cessé de parler de Sora comme de sa grande sœur, ce qui l'a rendue très heureuse.",
+      "bbox": {
+        "x": 0.6594,
+        "y": 0.3908,
+        "width": 0.275,
+        "height": 0.108
       }
     },
     {
@@ -27,12 +47,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Après avoir interprété la chanson, Sora",
+      "text": "Après avoir interprété la chanson, Sora a chanté en duo avec Lui avant d'enfiler ses oreilles et sa queue de chat pour interpréter une chanson mémorable pour fêter son anniversaire, « Happy Meowthday !! » ! Puis Sora a chanté « Onegai Darling » avec la VTubeuse Dennou Shojo Siro, avant d'être rejointe par la VTubeuse Tenjin Kotone. Peu après l'apparition de Kotone, Sora a enfilé sa nouvelle tenue.",
       "bbox": {
         "x": 0.0578,
-        "y": 0.6119,
-        "width": 0.2267,
-        "height": 0.027
+        "y": 0.5367,
+        "width": 0.8739,
+        "height": 0.1068
       }
     },
     {
@@ -47,92 +67,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Un concert est organisé le 18 mai pour les membres du fan-club, avec Seima Kondo et Ryota Tomaru d'Elements Garden. Les membres du fan-club ayant une adresse au Japon pourront également recevoir une médaille commémorative s'ils s'inscrivent avant le 31 mai. Comme produits dérivés pour son anniversaire, il y aura une tapisserie B2 dessiné par",
-      "bbox": {
-        "x": 0.0578,
-        "y": 0.7635,
-        "width": 0.2828,
-        "height": 0.1906
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "discuter avec ses spectateurs.",
-      "bbox": {
-        "x": 0.3589,
-        "y": 0.3908,
-        "width": 0.1706,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Une fois minuit passé, A-chan a été la première à l'appeler. Puis Lamy, a Watame, lofi, Subaru, Polka, Koyori, Chloe et Miko ont appelé.",
-      "bbox": {
-        "x": 0.3589,
-        "y": 0.4232,
-        "width": 0.2828,
-        "height": 0.0787
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "a chanté en duo avec Lui avant d'enfiler ses oreilles et sa queue de chat pour interpréter une chanson mémorable pour fêter son anniversaire, « Happy Meowthday !! » ! Puis",
-      "bbox": {
-        "x": 0.3589,
-        "y": 0.5367,
-        "width": 0.2772,
-        "height": 0.1061
-      }
-    },
-    {
-      "type": "paragraph",
       "text": "Une fois « Happy Synthesizer » chanté, ils ont retrouvé Siro et ont bavardé un moment, après quoi Kotone et Siro sont parties.",
       "bbox": {
         "x": 0.3594,
         "y": 0.6605,
         "width": 0.2756,
         "height": 0.0791
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Ordan ainsi qu'un masque avec étui. Si vous achetez l'édition limitée, vous pouvez obtenir un enregistrement de voix supplémentaire et une carte signée.",
-      "bbox": {
-        "x": 0.3589,
-        "y": 0.7631,
-        "width": 0.2794,
-        "height": 0.0949
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Une fois les annonces terminées, Sora a fait monter Ankimo sur scène et a révélé un modèle 3D de la mascotte des ses fans,",
-      "bbox": {
-        "x": 0.3583,
-        "y": 0.8592,
-        "width": 0.2783,
-        "height": 0.0775
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Miko a obtenu la permission de créer le personnage de Sora dans WWE 2K22, et lofi n'a cessé de parler de Sora comme de sa grande sœur, ce qui l'a rendue très heureuse.",
-      "bbox": {
-        "x": 0.6594,
-        "y": 0.3908,
-        "width": 0.275,
-        "height": 0.108
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Sora a chanté « Onegai Darling » avec la VTubeuse Dennou Shojo Siro, avant d'être rejointe par la VTubeuse Tenjin Kotone. Peu après l'apparition de Kotone, Sora a enfilé sa nouvelle tenue.",
-      "bbox": {
-        "x": 0.6589,
-        "y": 0.5374,
-        "width": 0.2728,
-        "height": 0.1061
       }
     },
     {
@@ -147,11 +87,21 @@
     },
     {
       "type": "paragraph",
-      "text": "Nunnun. Elle a également annoncé une nouvelle chanson originale, « Sora wo Koteyu ». Elle l'a interprétée aux côtés dE et Nunnun, qui ont fait de leur mieux pour imiter Sora. Avant de conclure le stream, Sora a annoncé que son quatrième album, Sign, sortira le 20 juillet.",
+      "text": "Un concert est organisé le 18 mai pour les membres du fan-club, avec Seima Kondo et Ryota Tomaru d'Elements Garden. Les membres du fan-club ayant une adresse au Japon pourront également recevoir une médaille commémorative s'ils s'inscrivent avant le 31 mai. Comme produits dérivés pour son anniversaire, il y aura une tapisserie B2 dessiné par Ordan ainsi qu'un masque avec étui. Si vous achetez l'édition limitée, vous pouvez obtenir un enregistrement de voix supplémentaire et une carte signée.",
       "bbox": {
-        "x": 0.6589,
+        "x": 0.0578,
+        "y": 0.7631,
+        "width": 0.5805,
+        "height": 0.191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une fois les annonces terminées, Sora a fait monter Ankimo sur scène et a révélé un modèle 3D de la mascotte des ses fans, Nunnun. Elle a également annoncé une nouvelle chanson originale, « Sora wo Koteyu ». Elle l'a interprétée aux côtés d'Ankimo et Nunnun, qui ont fait de leur mieux pour imiter Sora. Avant de conclure le stream, Sora a annoncé que son quatrième album, Sign, sortira le 20 juillet.",
+      "bbox": {
+        "x": 0.3583,
         "y": 0.7627,
-        "width": 0.2806,
+        "width": 0.5812,
         "height": 0.1759
       }
     }

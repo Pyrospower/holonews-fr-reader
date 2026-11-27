@@ -3,8 +3,38 @@
   "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Hakui Koyori",
+      "bbox": {
+        "x": 0.6238,
+        "y": 0.0933,
+        "width": 0.2156,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hakui Koyori a été placée dans la Twitter Jail seulement 10 minutes après l’annonce d’holoX, et elle a eu l’idée de communiquer via son nom d’utilisateur plutôt que par des tweets. Koyori s’est donc amusée à se renommer « la fille qui s’est fait geler en 10 minutes » et a lancé le hashtag #溶けるこより (« Dégelez Koyori ») pour les fans.",
+      "bbox": {
+        "x": 0.5319,
+        "y": 0.1402,
+        "width": 0.43,
+        "height": 0.1328
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Même lorsqu’il fut temps pour elle de faire ses débuts, elle demeurait toujours dans la Twitter Jail ! Elle a démarré son stream avec une courte vidéo de son passé montrant comment elle s’est retrouvée dans notre civilisation, quand soudain, une erreur est survenue ! Elle a eu besoin de l’aide du chat pour remplir l’écran de flammes et propulser le tag de son stream en tendances Twitter dans le but de continuer sa présentation. Grâce à la coopération du chat, celle-ci a pu reprendre son cours.",
+      "bbox": {
+        "x": 0.5319,
+        "y": 0.2925,
+        "width": 0.4369,
+        "height": 0.2005
+      }
+    },
     {
       "type": "paragraph",
       "text": "Koyori commença alors par préciser explicitement qu’elle n’était ni un chat, ni un renard, mais bien un coyote ! Elle a alors passé le reste du stream à vitesse grand V, parlant de son identité, son apparence, sa maman et son papa, ses points forts, ses points faibles, ses goûts, ses projets de stream, ses tags Twitter, et enfin ses objectifs.",
@@ -33,36 +63,6 @@
         "y": 0.8351,
         "width": 0.4319,
         "height": 0.099
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Hakui Koyori a été placée dans la Twitter Jail seulement 10 minutes après l’annonce d’holoX, et elle a eu l’idée de communiquer via son nom d'utilisateur plutôt que par des tweets. Koyori s’est donc amusée à se renommer « la fille qui s’est fait geler en 10 minutes » et a lancé le hashtag #78173 € & N (« Dégelez Koyori ») pour les fans.",
-      "bbox": {
-        "x": 0.5319,
-        "y": 0.1402,
-        "width": 0.43,
-        "height": 0.1328
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Même lorsqu'il fut temps pour elle de faire ses débuts, elle demeurait toujours dans la Twitter Jail ! Elle a démarré son stream avec une courte vidéo de son passé montrant comment elle s’est retrouvée dans notre civilisation, quand soudain, une erreur est survenue ! Elle a eu besoin de l’aide du chat pour remplir l’écran de flammes et propulser le tag de son stream en tendances Twitter dans le but de continuer sa présentation. Grâce à la coopération du chat, celle-ci a pu reprendre son cours.",
-      "bbox": {
-        "x": 0.5319,
-        "y": 0.2925,
-        "width": 0.4369,
-        "height": 0.2005
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Æ] My Profile!",
-      "bbox": {
-        "x": 0.5175,
-        "y": 0.5764,
-        "width": 0.1613,
-        "height": 0.0135
       }
     }
   ],

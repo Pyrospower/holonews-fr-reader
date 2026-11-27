@@ -3,18 +3,8 @@
   "issueId": "holonews_fr_ver_0612_-_1212",
   "page": 19,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
-    {
-      "type": "paragraph",
-      "text": "REPRISE",
-      "bbox": {
-        "x": 0.8481,
-        "y": 0.066,
-        "width": 0.095,
-        "height": 0.01
-      }
-    },
     {
       "type": "heading",
       "text": "STATS ET SORTIES",
@@ -26,353 +16,173 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "12/06 [Watame] Fansa: 500K [Polka/Nene/Haachama] Surprise Paradise: 250K",
+      "type": "other",
+      "text": "REPRISE\nORIGINALE\nNOUVEAU",
+      "bbox": {
+        "x": 0.835,
+        "y": 0.065,
+        "width": 0.122,
+        "height": 0.043
+      }
+    },
+    {
+      "type": "other",
+      "text": "12/06\n[Watame] Fansa: 500K\n[Polka/Nene/Haachama] Surprise Paradise: 250K",
+      "bbox": {
+        "x": 0.049,
+        "y": 0.145,
+        "width": 0.44,
+        "height": 0.031
+      }
+    },
+    {
+      "type": "other",
+      "text": "12/07\n[Risu/Fonzi] Gurenge: 50K\n[Kiara] Hinotori Redshift Remix: 100K",
+      "bbox": {
+        "x": 0.512,
+        "y": 0.145,
+        "width": 0.437,
+        "height": 0.031
+      }
+    },
+    {
+      "type": "other",
+      "text": "12/08\n[Astel] Mirai Ginga to Kiteki no Melody: 25K",
       "bbox": {
         "x": 0.05,
-        "y": 0.1445,
-        "width": 0.4369,
-        "height": 0.0343
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Astel] Mirai Ginga to Kiteki no Melody: 25K",
-      "bbox": {
-        "x": 0.295,
-        "y": 0.1984,
-        "width": 0.1919,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Suisei] King: 7M",
-      "bbox": {
-        "x": 0.3394,
-        "y": 0.2487,
-        "width": 0.1463,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Suisei] Shoujo Rei: 3M [Watame] Chikuwa Rap: 75K [Kanata] Ghost Rule: 6M",
-      "bbox": {
-        "x": 0.2313,
-        "y": 0.2665,
-        "width": 0.2556,
-        "height": 0.049
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Shien] Mafia: 750K [Moona/Suisei] Saikai: 750K [Flare] Mental Chainsaw: 750K [Fubuki] S'il Vous President: 500K [Moona/Risu/Calliope/Reine] The Baddest: 1M [AZKi] Gamen No Nakano Kimi Ga Suki: 10K [AZKi] Nonbiri To (Animation): 50K [Reine/Nene] Ai Dee: 1M",
-      "bbox": {
-        "x": 0.0781,
-        "y": 0.3351,
-        "width": 0.4088,
-        "height": 0.138
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Anya] Phony: 250K",
-      "bbox": {
-        "x": 0.3119,
-        "y": 0.4774,
-        "width": 0.175,
-        "height": 0.0135
+        "y": 0.198,
+        "width": 0.436,
+        "height": 0.03
       }
     },
     {
       "type": "other",
-      "text": "CHANSON ORIGINALE",
+      "text": "12/09\n[AZKi] Miracle Step: 50K\n[Reine] Envy Baby: 250K\n[Mio] Wanwanwaon/Sashimio: 500K\n[AZKi/Wataru Sena] Koi No Takuhaibin: 100K\n[Akirose/Ashino] Mawaru Sekai to Tsumi no Kajitsu: 25K",
       "bbox": {
-        "x": 0.0456,
-        "y": 0.6402,
-        "width": 0.07,
-        "height": 0.0143
+        "x": 0.512,
+        "y": 0.194,
+        "width": 0.437,
+        "height": 0.105
       }
     },
     {
       "type": "other",
-      "text": "NSON SRIGINALE",
+      "text": "12/10\n[Suisei] King: 7M\n[Suisei] Shoujo Rei: 3M\n[Watame] Chikuwa Rap: 75K\n[Kanata] Ghost Rule: 6M",
       "bbox": {
-        "x": 0.2763,
-        "y": 0.6419,
-        "width": 0.07,
-        "height": 0.0126
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Fubuki & Mio WAKU WAKU EVERYDAY",
-      "bbox": {
-        "x": 0.2775,
-        "y": 0.6901,
-        "width": 0.1269,
-        "height": 0.0304
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Reine ANO AOZORA NO SEI DA",
-      "bbox": {
-        "x": 0.045,
-        "y": 0.6918,
-        "width": 0.1656,
-        "height": 0.0286
+        "x": 0.05,
+        "y": 0.248,
+        "width": 0.438,
+        "height": 0.063
       }
     },
     {
       "type": "other",
-      "text": "CHANSON ORIGINALE",
+      "text": "12/11\n[Shion] God-ish: 1M\n[Fubuki] Say Fanfare!: 9M\n[Ayame] Hana Ni Bourei: 2M\n[Reine] Ano Aozora No Sei Da: 75K\n[AZKi] Chiisana Kokoro Ga Kimeta Koto: 75K\n[Aruran/Rikka/Roberu/Shien/Oga] Pentas: 25K\n[Nene] Nenenenenenenene Daibakusou: 250K\n[Suisei/Toko] Tonight in this Moonlit Mansion: 5M\n[Calliope/Taku Inoue] Yona Yona Journey: 25K\n[Calliope/Milky Queen] Usseewa: 1M\n[Ollie/Etc] Utattemita No Uta: 75K\n[AZKi] Nonbiri To (Album): 75K\n[Ina] Tabi no Tochuu: 750K\n[Astel/Miyabi] Booo!: 25K\n[Flare] Colorful: 250K\n[Shion] Phony: 250K",
       "bbox": {
-        "x": 0.0456,
-        "y": 0.7313,
-        "width": 0.07,
-        "height": 0.0126
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "AZKi",
-      "bbox": {
-        "x": 0.0456,
-        "y": 0.7808,
-        "width": 0.03,
-        "height": 0.0074
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "GAMEN NO NAKANO KIMI GA SUKI",
-      "bbox": {
-        "x": 0.0456,
-        "y": 0.7925,
-        "width": 0.1969,
-        "height": 0.0174
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "SISxLOVE",
-      "bbox": {
-        "x": 0.2775,
-        "y": 0.7934,
-        "width": 0.1675,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Pavolia Reine",
-      "bbox": {
-        "x": 0.2225,
-        "y": 0.8568,
-        "width": 0.1775,
-        "height": 0.0156
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "ORIGINALE NOUVEAU [Risu/Fonzi] Gurenge: 50K 12/07 [Kiara] Hinotori Redshift Remix: 100K [AZKi] Miracle Step: 50K 12/09",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.082,
-        "width": 0.4419,
-        "height": 0.1298
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Reine] Envy Baby: 250K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2161,
-        "width": 0.2206,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Mio] Wanwanwaon/Sashimio: 500K [AZKi/Wataru Sena] Koi No Takuhaibin: 100K [Akirose/Ashino] Mawaru Sekai to Tsumi no Kajitsu: 25K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2339,
-        "width": 0.4013,
-        "height": 0.0668
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Shion] God-ish: 1M [Fubuki] Say Fanfare!: 9M",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.3238,
-        "width": 0.2269,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Ayame] Hana Ni Bourei: 2M",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.3594,
-        "width": 0.2506,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Reine] Ano Aozora No Sei Da: 75K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.3772,
-        "width": 0.315,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[AZKi] Chiisana Kokoro Ga Kimeta Koto: 75K [Aruran/Rikka/Roberu/Shien/Oga] Pentas: 25K [Nene] Nenenenenenenene Daibakusou: 250K [Suisei/Toko] Tonight in this Moonlit Mansion: 5M [Calliope/Taku Inoue] Yona Yona Journey: 25K [Calliope/Milky Queen] Usseewa: 1M",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.395,
-        "width": 0.4306,
-        "height": 0.1024
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Ollie/Etc] Utattemita No Uta: 75K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.5017,
-        "width": 0.2931,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[AZKi] Nonbiri To (Album): 75K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.5195,
-        "width": 0.2719,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Ina] Tabi no Tochuu: 750K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.5373,
-        "width": 0.2388,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Astel/Miyabi] Booo!: 25K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.5551,
-        "width": 0.2206,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Flare] Colorful: 250K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.5729,
-        "width": 0.1863,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Shion] Phony: 250K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.5907,
-        "width": 0.1806,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Astel MIRAI GINGA TO KITEKI NO MELODY",
-      "bbox": {
-        "x": 0.5075,
-        "y": 0.6918,
-        "width": 0.185,
-        "height": 0.0286
+        "x": 0.512,
+        "y": 0.321,
+        "width": 0.437,
+        "height": 0.282
       }
     },
     {
       "type": "other",
-      "text": "CHANSON ORIGINALE:",
+      "text": "12/12\n[Shien] Mafia: 750K\n[Moona/Suisei] Saikai: 750K\n[Flare] Mental Chainsaw: 750K\n[Fubuki] S'il Vous President: 500K\n[Moona/Risu/Calliope/Reine] The Baddest: 1M\n[AZKi] Gamen No Nakano Kimi Ga Suki: 10K\n[AZKi] Nonbiri To (Animation): 50K\n[Reine/Nene] Ai Dee: 1M\n[Anya] Phony: 250K",
       "bbox": {
-        "x": 0.7381,
-        "y": 0.7309,
-        "width": 0.07,
-        "height": 0.0126
+        "x": 0.049,
+        "y": 0.333,
+        "width": 0.439,
+        "height": 0.158
       }
     },
     {
-      "type": "paragraph",
-      "text": "Yona Yona Journey Calli & Taku Inoue",
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nReine\nANO AOZORA NO SEI DA",
       "bbox": {
-        "x": 0.74,
-        "y": 0.7678,
-        "width": 0.1519,
-        "height": 0.0208
+        "x": 0.04,
+        "y": 0.64,
+        "width": 0.228,
+        "height": 0.087
       }
     },
     {
-      "type": "paragraph",
-      "text": "Shion",
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nFubuki & Mio\nWAKU WAKU EVERYDAY",
       "bbox": {
-        "x": 0.5081,
-        "y": 0.7821,
-        "width": 0.0356,
-        "height": 0.0074
+        "x": 0.27,
+        "y": 0.64,
+        "width": 0.228,
+        "height": 0.087
       }
     },
     {
-      "type": "paragraph",
-      "text": "YONA YONA JORNEY",
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nAstel\nMIRAI GINGA TO KITEKI NO MELODY",
       "bbox": {
-        "x": 0.7388,
-        "y": 0.7917,
-        "width": 0.1175,
-        "height": 0.0169
+        "x": 0.5,
+        "y": 0.64,
+        "width": 0.228,
+        "height": 0.087
       }
     },
     {
-      "type": "paragraph",
-      "text": "PHONY",
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nHolostars\nPENTAS",
       "bbox": {
-        "x": 0.51,
-        "y": 0.7934,
-        "width": 0.1244,
-        "height": 0.0143
+        "x": 0.73,
+        "y": 0.64,
+        "width": 0.228,
+        "height": 0.087
       }
     },
     {
-      "type": "heading",
-      "text": "ANO AOZORA NO SEI DA/ LOVE ME LOVE ME",
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nAZKi\nGAMEN NO NAKANO KIMI GA SUKI",
       "bbox": {
-        "x": 0.2,
-        "y": 0.8694,
-        "width": 0.6944,
-        "height": 0.0582
+        "x": 0.04,
+        "y": 0.728,
+        "width": 0.228,
+        "height": 0.087
+      }
+    },
+    {
+      "type": "other",
+      "text": "COVER\nAZKi & Senjou Aria\nSIS×LOVE",
+      "bbox": {
+        "x": 0.27,
+        "y": 0.728,
+        "width": 0.228,
+        "height": 0.087
+      }
+    },
+    {
+      "type": "other",
+      "text": "COVER\nShion\nPHONY",
+      "bbox": {
+        "x": 0.5,
+        "y": 0.728,
+        "width": 0.228,
+        "height": 0.087
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nCalli & Taku Inoue\nYONA YONA JORNEY",
+      "bbox": {
+        "x": 0.73,
+        "y": 0.728,
+        "width": 0.228,
+        "height": 0.087
+      }
+    },
+    {
+      "type": "other",
+      "text": "NOUVEL ALBUM\nPavolia Reine\nANO AOZORA NO SEI DA/ LOVE ME LOVE ME",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.824,
+        "width": 0.855,
+        "height": 0.101
       }
     }
   ],

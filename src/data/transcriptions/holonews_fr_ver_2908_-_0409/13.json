@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2908_-_0409",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.1957,
+        "y": 0.1508,
+        "width": 0.1229,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS   TEMPUS",
+      "bbox": {
+        "x": 0.3286,
+        "y": 0.1538,
+        "width": 0.1557,
+        "height": 0.0188
+      }
+    },
     {
       "type": "paragraph",
       "text": "Astel et Altare ont organisé une grande collab HOLOSTARS avec toutes les branches pour jouer à Left 4 Dead 2 en mode Versus, JP vs EN. Les JP avaient Astel, Shien, Gamma et Rio, tandis que pour les EN avaient les quatre membres de TEMPUS. Pour rendre les choses intéressantes, avant le stream, ils ont décidé que les perdants auraient une punition. La punition consistait à poster une photo de ses sous-vêtements sur Twitter.",
@@ -27,22 +47,32 @@
     },
     {
       "type": "paragraph",
-      "text": "En tant que perdants, les membres de TEMPUS ont commencé à poster leurs sous-vêtements sur",
+      "text": "En tant que perdants, les membres de TEMPUS ont commencé à poster leurs sous-vêtements sur Twitter, certains avec des rires et d'autres sans le vouloir. Peu de temps après, même s'ils ont gagné, l'équipe JP a fini par poster ses propres sous-vêtements par solidarité avec ses frères. Sasuga HOLOSTARS.",
       "bbox": {
-        "x": 0.0438,
+        "x": 0.0431,
         "y": 0.464,
-        "width": 0.445,
-        "height": 0.0265
+        "width": 0.4457,
+        "height": 0.0954
       }
     },
     {
-      "type": "paragraph",
-      "text": "Twitter, certains avec des rires et d'autres sans le vouloir. Peu de temps après, même s'ils ont gagné, l'équipe JP a fini par poster ses propres sous-vêtements par solidarité avec ses frères. Sasuga HOLOSTARS.",
+      "type": "heading",
+      "text": "Aruran",
       "bbox": {
-        "x": 0.0431,
-        "y": 0.4926,
-        "width": 0.4456,
-        "height": 0.0668
+        "x": 0.6314,
+        "y": 0.1567,
+        "width": 0.14,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.78,
+        "y": 0.1597,
+        "width": 0.07,
+        "height": 0.0188
       }
     },
     {
@@ -66,8 +96,18 @@
       }
     },
     {
+      "type": "other",
+      "text": "STARS   UPROAR!!",
+      "bbox": {
+        "x": 0.7714,
+        "y": 0.4266,
+        "width": 0.1757,
+        "height": 0.0188
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "De nouvelles informations ont été publiées pour HOLOSTARS et UPROAR! qui se produiront à l'AGF ou Animate Girl Festival les 5 et 6 novembre prochains. Le thème de cette année est « Arabian Nights » et ils ont dévoilé le visuel clé pour Hanasaki Miyabi. Ils ont également publié des informations sur le merchandising qui comprend un stand acrylique sur le thème des Nuits d'Arabie et des badges pour les boîtes aveugles.",
+      "text": "De nouvelles informations ont été publiées pour HOLOSTARS et UPROAR!! qui se produiront à l'AGF ou Animate Girl Festival les 5 et 6 novembre prochains. Le thème de cette année est « Arabian Nights » et ils ont dévoilé le visuel clé pour Hanasaki Miyabi. Ils ont également publié des informations sur le merchandising qui comprend un stand acrylique sur le thème des Nuits d'Arabie et des badges pour les boîtes aveugles.",
       "bbox": {
         "x": 0.5119,
         "y": 0.4618,

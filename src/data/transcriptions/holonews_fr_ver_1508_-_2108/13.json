@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.1691,
+        "y": 0.2146,
+        "width": 0.0818,
+        "height": 0.0202
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Astel nous a tous pris de court lorsqu'il a posté une capture d'écran de l'un de ses écrans de fin de matchs Apex montrant qu'il a réussi à gagner 1015 PR en une seule partie, en ayant tué 13 personnes et eu 8 assistances. Ce tweet a entraîné des réactions non seulement de ses fans mais aussi de Ollie, Hayun de Nijisanji, dtto de SCARZ, et de ses amis.",
+      "text": "Astel nous a tous pris de court lorsqu’il a posté une capture d’écran de l’un de ses écrans de fin de matchs Apex montrant qu’il a réussi à gagner 1015 PR en une seule partie, en ayant tué 13 personnes et eu 8 assistances. Ce tweet a entraîné des réactions non seulement de ses fans mais aussi de Ollie, Hayun de Nijisanji, dtto de SCARZ, et de ses amis.",
       "bbox": {
         "x": 0.0738,
         "y": 0.2517,
@@ -27,7 +37,7 @@
     },
     {
       "type": "heading",
-      "text": "STARS",
+      "text": "HOLOSTARS",
       "bbox": {
         "x": 0.27,
         "y": 0.5486,
@@ -37,22 +47,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Lors du dernier épisode de WachaSTARS, Miyabi et Oga ont fait ce qu’ils appellent du « Backseat chef cooking », où ils ont invité un chef, Koda Okada, pour cuisiner en suivant leurs directives. Après cela, ils ont demandé à l'équipe de tournage de goûter et de donner un score aux plats. Ils ont donné une note basée sur la présentation, les instructions données et le goût. Le plat de Miyabi était du Kyomu Suzume omurice tandis que celui d’Oga était un Parfait. Vous pouvez voir leur dernière émission pour en apprendre plus!",
+      "text": "Lors du dernier épisode de WachaSTARS, Miyabi et Oga ont fait ce qu’ils appellent du « Backseat chef cooking », où ils ont invité un chef, Koda Okada, pour cuisiner en suivant leurs directives. Après cela, ils ont demandé à l’équipe de tournage de goûter et de donner un score aux plats. Ils ont donné une note basée sur la présentation, les instructions données et le goût. Le plat de Miyabi était du Kyomu Suzume omurice tandis que celui d’Oga était un Parfait. Vous pouvez voir leur dernière émission pour en apprendre plus!",
       "bbox": {
         "x": 0.0712,
         "y": 0.599,
         "width": 0.3819,
         "height": 0.161
-      }
-    },
-    {
-      "type": "other",
-      "text": "vou ONLINE",
-      "bbox": {
-        "x": 0.8463,
-        "y": 0.0959,
-        "width": 0.025,
-        "height": 0.0095
       }
     },
     {
@@ -67,27 +67,27 @@
     },
     {
       "type": "paragraph",
-      "text": "UPROAR! Est le prochain groupe de talents à collaborer avec Molly Online pour des articles exclusifs. Vous pouvez gagner des portes clés en acrylique, des figurines en acrylique, des coussins et de la tapisserie aux couleurs des membres en jouant avec différentes machines à pinces. Les illustrations ont été faites par les membres du groupe eux-mêmes, Hizaki Gamma et Tousaki Leo. Des produits dérivés",
-      "bbox": {
-        "x": 0.5387,
-        "y": 0.2839,
-        "width": 0.3863,
-        "height": 0.1102
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "sont disponibles du 18 Août au 9 septembre sur le site de Molly. En l'honneur de cette collaboration, UPROAR!! a essayé d'obtenir leurs propres articles lors d’un stream sur la chaîne de Fuma.",
+      "text": "UPROAR!! Est le prochain groupe de talents à collaborer avec Molly Online pour des articles exclusifs. Vous pouvez gagner des portes clés en acrylique, des figurines en acrylique, des coussins et de la tapisserie aux couleurs des membres en jouant avec différentes machines à pinces. Les illustrations ont été faites par les membres du groupe eux-mêmes, Hizaki Gamma et Tousaki Leo. Des produits dérivés sont disponibles du 18 Août au 9 septembre sur le site de Molly. En l’honneur de cette collaboration, UPROAR!! a essayé d’obtenir leurs propres articles lors d’un stream sur la chaîne de Fuma.",
       "bbox": {
         "x": 0.5381,
-        "y": 0.3932,
-        "width": 0.3663,
-        "height": 0.0586
+        "y": 0.2839,
+        "width": 0.3869,
+        "height": 0.1679
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.6345,
+        "y": 0.7576,
+        "width": 0.1236,
+        "height": 0.0202
       }
     },
     {
       "type": "paragraph",
-      "text": "Pendant sa pause, Gamma a posté un Short sur YouTube dans lequel il dessinait Kobo. Il a posté le dessin sur son twitter après l'avoir terminé.",
+      "text": "Pendant sa pause, Gamma a posté un Short sur YouTube dans lequel il dessinait Kobo. Il a posté le dessin sur son twitter après l’avoir terminé.",
       "bbox": {
         "x": 0.5381,
         "y": 0.7951,

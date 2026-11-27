@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_3005_-_0506",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Aki Rosenthal",
+      "bbox": {
+        "x": 0.479,
+        "y": 0.262,
+        "width": 0.495,
+        "height": 0.115
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour le 4e anniversaire de ses débuts, Aki a donné un concert éclatant en direct intitulé ROSE of the LAMP. Avec des chansons classiques et des nouveautés, une variété de décors, et l'apparition de divers invités de tout hololive, Aki nous a montré que le rêve de YAGOO, un groupe d’idol et belle est bien possible.",
+      "text": "Pour le 4e anniversaire de ses débuts, Aki a donné un concert éclatant en direct intitulé ROSE of the LAMP. Avec des chansons classiques et des nouveautés, une variété de décors, et l’apparition de divers invités de tout hololive, Aki nous a montré que le rêve de YAGOO, un groupe d’idol et belle est bien possible.",
       "bbox": {
         "x": 0.0278,
         "y": 0.4163,
@@ -17,57 +27,27 @@
     },
     {
       "type": "paragraph",
-      "text": "Les produits dérivés pour l'occasion sont les suivants:",
-      "bbox": {
-        "x": 0.0389,
-        "y": 0.8669,
-        "width": 0.2583,
-        "height": 0.0262
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Une couverture Aki qui réchauffe le coeur",
-      "bbox": {
-        "x": 0.0389,
-        "y": 0.9043,
-        "width": 0.2322,
-        "height": 0.0266
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un porte clé du logo en néon en acrylique",
-      "bbox": {
-        "x": 0.0394,
-        "y": 0.9348,
-        "width": 0.2361,
-        "height": 0.0289
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un sticker du logo en néon",
-      "bbox": {
-        "x": 0.0389,
-        "y": 0.9649,
-        "width": 0.27,
-        "height": 0.0143
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Elle a interprété plusieurs chansons sur une scène de concert high-tech ainsi qu’une ville pluvieuse en pleine nuit. Plusieurs invités ont fait leur apparition : Korone, Okayu, Lamy, Flare, Watame, Polka, Mel, Fubuki, Matsuri, Haato, Mio et AZKi. L'un des moments marquant du concert est la performance sur la chanson originale de la 1ère génération d'hololive JP,",
+      "text": "Elle a interprété plusieurs chansons sur une scène de concert high-tech ainsi qu’une ville pluvieuse en pleine nuit. Plusieurs invités ont fait leur apparition : Korone, Okayu, Lamy, Flare, Watame, Polka, Mel, Fubuki, Matsuri, Haato, Mio et AZKi. L’un des moments marquant du concert est la performance sur la chanson originale de la 1ère génération d’hololive JP, « Plasmagic Seasons! », d’Aki et ses camarades de génération. Aki a également enfilé une nouvelle tenue pour sa nouvelle chanson qui se nomme aussi « ROSE of the LAMP ». Aki a mis fin au concert en remerciant tous ses spectateurs pour leurs encouragements et leurs soutiens et a invité les membres de sa chaîne de la rejoindre pour un stream spécial membre.",
       "bbox": {
         "x": 0.3489,
         "y": 0.4028,
-        "width": 0.3011,
+        "width": 0.6417,
         "height": 0.196
       }
     },
     {
       "type": "paragraph",
-      "text": "Une carte postale avec son autographe sur un timbre ainsi qu'un message venant d’elle sont en bonus pour ceux ayant acheté l’ensemble complet. Ils seront disponibles à partir du 4 Juillet.",
+      "text": "Les produits dérivés pour l'occasion sont les suivants:\n• Une couverture Aki qui réchauffe le coeur\n• Un porte clé du logo en néon en acrylique\n• Un sticker du logo en néon",
+      "bbox": {
+        "x": 0.0389,
+        "y": 0.8669,
+        "width": 0.27,
+        "height": 0.1123
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une carte postale avec son autographe sur un timbre ainsi qu’un message venant d’elle sont en bonus pour ceux ayant acheté l’ensemble complet. Ils seront disponibles à partir du 4 Juillet.",
       "bbox": {
         "x": 0.3411,
         "y": 0.8665,
@@ -77,17 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "« Plasmagic Seasons! », d'Aki et ses camarades de génération. Aki a également enfilé une nouvelle tenue pour sa nouvelle chanson qui se nomme aussi « ROSE of the LAMP ». Aki a mis fin au concert en remerciant tous ses spectateurs pour leurs encouragements et leurs soutiens et a invité les membres de sa chaîne de la rejoindre pour un stream spécial membre.",
-      "bbox": {
-        "x": 0.6706,
-        "y": 0.4028,
-        "width": 0.32,
-        "height": 0.196
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Puisque YouTube a bloqué l'archive du concert pour les spectateurs au Japon, Aki a publié une vidéo de chaque musique pour que chaque fan puisse apprécier le concert. L'archive est redevenu disponible lors de l'écriture de cet article.",
+      "text": "Puisque YouTube a bloqué l’archive du concert pour les spectateurs au Japon, Aki a publié une vidéo de chaque musique pour que chaque fan puisse apprécier le concert. L’archive est redevenu disponible lors de l’écriture de cet article.",
       "bbox": {
         "x": 0.6583,
         "y": 0.8665,

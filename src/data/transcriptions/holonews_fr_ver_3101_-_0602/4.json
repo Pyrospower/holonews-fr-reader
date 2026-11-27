@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_3101_-_0602",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "GEN 0",
+      "bbox": {
+        "x": 0.1862,
+        "y": 0.0363,
+        "width": 0.1631,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.1585,
+        "y": 0.187,
+        "width": 0.1138,
+        "height": 0.0224
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Miko a récemment obtenu la permission de faire des streams sur Uncharted 4. Pour ceux qui ne seraient pas au courant, Miko est connue pour aimer cette série. Elle a décidé de faire plusieurs streams sur Uncharted 4 tout au long de la semaine, et elle compte en faire sur d’autres jeux uniquement le week-end. Attendez-vous à voir toute une collection de let's play d’Uncharted 4 de notre Miko d’élite !",
+      "text": "Miko a récemment obtenu la permission de faire des streams sur Uncharted 4. Pour ceux qui ne seraient pas au courant, Miko est connue pour aimer cette série. Elle a décidé de faire plusieurs streams sur Uncharted 4 tout au long de la semaine, et elle compte en faire sur d’autres jeux uniquement le week-end. Attendez-vous à voir toute une collection de let’s play d’Uncharted 4 de notre Miko d’élite !",
       "bbox": {
         "x": 0.0506,
         "y": 0.2266,
@@ -16,33 +36,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1585,
+        "y": 0.485,
+        "width": 0.1385,
+        "height": 0.0235
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Suisei est de retour ! Elle a expliqué qu’elle a fait une pause parce qu'elle voulait se",
+      "text": "Suisei est de retour ! Elle a expliqué qu’elle a fait une pause parce qu’elle voulait se reposer un peu et rendre visite à ses parents. Suisei n’a donc pas annoncé la raison de sa pause car elle voulait leur faire une surprise lors de sa visite. Elle nous a également raconté quelques histoires, comme la fois où son père a reçu l’aide d’un ami lorsqu’il était pauvre, ou la fois où deux de ses amies ont reçu des messages d'escroquerie sur LINE et que Suisei a essayé d'envoyer un message à cet escroc.",
       "bbox": {
         "x": 0.0506,
         "y": 0.5252,
-        "width": 0.4213,
-        "height": 0.0308
+        "width": 0.4251,
+        "height": 0.1827
       }
     },
     {
-      "type": "paragraph",
-      "text": "reposer un peu et rendre visite à ses parents.",
+      "type": "heading",
+      "text": "Roboco",
       "bbox": {
-        "x": 0.0519,
-        "y": 0.5556,
-        "width": 0.4238,
-        "height": 0.0169
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Suisei n’a donc pas annoncé la raison de sa ause car elle voulait leur faire une surprise ors de sa visite. Elle nous a également raconté quelques histoires, comme la fois où son père a reçu l'aide d’un ami lorsqu'il était pauvre, ou la fois où deux de ses amies ont reçu des messages d'escroquerie sur LINE et que Suisei a essayé d'envoyer un message à cet escroc.",
-      "bbox": {
-        "x": 0.0513,
-        "y": 0.5707,
-        "width": 0.4188,
-        "height": 0.1372
+        "x": 0.1585,
+        "y": 0.7874,
+        "width": 0.1646,
+        "height": 0.0235
       }
     },
     {
@@ -56,6 +76,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "AZKi",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.2532,
+        "width": 0.1123,
+        "height": 0.0224
+      }
+    },
+    {
       "type": "paragraph",
       "text": "En raison du transfert d'AZKi à hololive et de la fermeture d'INoNaKa Music, le site officiel d'AZKi sera fermé le 1er avril et la boutique officielle sera fermée le 28 février. Le site web a cessé d'être mis à jour le jour de cette annonce. AZKi a ensuite tweeté que les articles de sa boutique ne seront pas vendus sur la boutique officielle d'hololive et devront être achetés avant le 28, alors achetez-les tant que vous le pouvez encore.",
       "bbox": {
@@ -63,6 +93,26 @@
         "y": 0.2951,
         "width": 0.425,
         "height": 0.1762
+      }
+    },
+    {
+      "type": "other",
+      "text": "TOKINO SORA\nOFFICIAL ◆☆◆ FANCLUB",
+      "bbox": {
+        "x": 0.6846,
+        "y": 0.5385,
+        "width": 0.16,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.6346,
+        "width": 0.1062,
+        "height": 0.0235
       }
     },
     {

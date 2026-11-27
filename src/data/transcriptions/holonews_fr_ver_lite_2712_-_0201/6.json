@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_lite_2712_-_0201",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.0762,
+        "y": 0.0317,
+        "width": 0.3869,
+        "height": 0.0291
+      }
+    },
     {
       "type": "heading",
       "text": "Holostars",
@@ -26,13 +36,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "ap Roberu, Miyabi, & Oga",
+      "type": "heading",
+      "text": "Roberu, Miyabi,\nAruran & Oga",
       "bbox": {
-        "x": 0.1494,
-        "y": 0.4401,
-        "width": 0.3019,
-        "height": 0.0751
+        "x": 0.1487,
+        "y": 0.4735,
+        "width": 0.3038,
+        "height": 0.0425
       }
     },
     {
@@ -46,23 +56,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "@ [DTN] LEIA 19H23",
+      "type": "heading",
+      "text": "Astel",
       "bbox": {
-        "x": 0.515,
-        "y": 0.0868,
-        "width": 0.1725,
-        "height": 0.026
-      }
-    },
-    {
-      "type": "other",
-      "text": "@astelleda",
-      "bbox": {
-        "x": 0.5775,
-        "y": 0.1246,
-        "width": 0.0569,
-        "height": 0.0069
+        "x": 0.6294,
+        "y": 0.2036,
+        "width": 0.1163,
+        "height": 0.023
       }
     },
     {
@@ -77,12 +77,22 @@
     },
     {
       "type": "paragraph",
-      "text": "À la suite de son stream ASMR, Astel a été taquiné par ses amis à ce sujet. Son amie d'APEX, Leia (DTN), l'a taquiné sur Twitter, et Kamaneko, l'entraîneur de l'équipe APEX de RAG (lzuru, Aruran et Astel), a également dit lors de leurs match d’APEX pendant le stream d'endurance de 24 heures d'Aruran qu'il a regardé l'ASMR d'Astel. Ensemble, ils ont taquiné Astel.",
+      "text": "À la suite de son stream ASMR, Astel a été taquiné par ses amis à ce sujet. Son amie d'APEX, Leia (DTN), l'a taquiné sur Twitter, et Kamaneko, l'entraîneur de l'équipe APEX de RAG (Izuru, Aruran et Astel), a également dit lors de leurs match d’APEX pendant le stream d'endurance de 24 heures d'Aruran qu'il a regardé l'ASMR d'Astel. Ensemble, ils ont taquiné Astel.",
       "bbox": {
         "x": 0.5194,
         "y": 0.5399,
         "width": 0.4281,
         "height": 0.1641
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Temma",
+      "bbox": {
+        "x": 0.1519,
+        "y": 0.9236,
+        "width": 0.1656,
+        "height": 0.0217
       }
     },
     {

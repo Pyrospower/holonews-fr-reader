@@ -3,21 +3,41 @@
   "issueId": "holonews_fr_ver_2911_-_0512",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "AND CHESS. ALSO AM A MEMBER OF",
+      "type": "heading",
+      "text": "Holo ID",
       "bbox": {
-        "x": 0.1463,
-        "y": 0.1654,
-        "width": 0.3244,
-        "height": 0.0095
+        "x": 0.1373,
+        "y": 0.0278,
+        "width": 0.2507,
+        "height": 0.0333
+      }
+    },
+    {
+      "type": "other",
+      "text": "id:entity voices",
+      "bbox": {
+        "x": 0.5933,
+        "y": 0.013,
+        "width": 0.276,
+        "height": 0.0315
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.1972,
+        "width": 0.1027,
+        "height": 0.025
       }
     },
     {
       "type": "paragraph",
-      "text": "Notre énergique idole Zombie a découvert a son réveil son propre badge de vérification Twitter. Ollie est donc la 2e membre d’holoRo à être certifiée sur Twitter, et la 14e au total avant Fubuki.",
+      "text": "Notre énergique idole Zombie a découvert à son réveil son propre badge de vérification Twitter. Ollie est donc la 2e membre d’holoRo à être certifiée sur Twitter, et la 14e au total avant Fubuki.",
       "bbox": {
         "x": 0.0506,
         "y": 0.2418,
@@ -26,13 +46,63 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Le « «Lundi productif » de cette semaine a eu le droit à une Reine en « Tenue de combat et Armes » dans une « tenue des combats » très",
+      "type": "other",
+      "text": "holoID Week\n2021\n12/18 - 12/24",
       "bbox": {
-        "x": 0.0488,
-        "y": 0.4466,
-        "width": 0.4125,
-        "height": 0.0503
+        "x": 0.564,
+        "y": 0.0907,
+        "width": 0.3467,
+        "height": 0.0954
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloID",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.2009,
+        "width": 0.1587,
+        "height": 0.0222
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "HoloID a annoncé « holoID week 2021 », des streams allant du 18 au 24 décembre où les filles d’holoID diffuseront du contenu spécial. Le contenu et le programme seront annoncés dans peu de jours.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2422,
+        "width": 0.4244,
+        "height": 0.0777
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.4185,
+        "width": 0.084,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le « Lundi productif » de cette semaine a eu le droit à une Reine en « Tenue de combat et Armes » dans une « tenue des combats » très spéciale…",
+      "bbox": {
+        "x": 0.048,
+        "y": 0.4565,
+        "width": 0.4213,
+        "height": 0.0565
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le « Youtube Music Weekend », Moona a révélé de stupéfiantes versions acoustiques au piano des chansons d’hololive « Blue Clapper », « Shijoshugi Adtruck », « Ai no Chiisana Uta » et « id:entity voices (arr. Kota Hatamiya) ».",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.355,
+        "width": 0.2563,
+        "height": 0.1554
       }
     },
     {
@@ -57,7 +127,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le jour suivant, Risu et I'écureuil de Twitch Sif Avellana ont partagé un stream noiseté pour célébrer le NNN, dans lequel elles ont prévu de faire encore plus de « Nonstop Nut November » avec encore plus de « Ecureuil-VTuber ». Voici leur raisonnement, si vous privez un écureuil de noix pendant un mois, va-t-il survivre ?",
+      "text": "Le jour suivant, Risu et l’écureuil de Twitch Sif Avellana ont partagé un stream noiseté pour célébrer le NNN, dans lequel elles ont prévu de faire encore plus de « Nonstop Nut November » avec encore plus de « Ecureuil-VTuber ». Voici leur raisonnement, si vous privez un écureuil de noix pendant un mois, va-t-il survivre ?",
       "bbox": {
         "x": 0.0513,
         "y": 0.786,
@@ -76,23 +146,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "HololD a annoncé « holoID week 2021 », des streams allant du 18 au 24 décembre où les filles d’hololD diffuseront du contenu spécial. Le contenu et le programme seront annoncés dans peu de jours.",
+      "type": "other",
+      "text": "...WHAT'S\nWUJU??",
       "bbox": {
-        "x": 0.5225,
-        "y": 0.2422,
-        "width": 0.4244,
-        "height": 0.0777
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Pour le « Youtube Music Weekend », Moona a révélé de stupéfiantes versions acoustiques au piano des chansons d'hololive « Blue Clapper », « Shijoshugi Adtruck », « Ai no Chiisana Uta » et « id:entity voices (arr. 4 Kota Hatamiya) ».",
-      "bbox": {
-        "x": 0.5219,
-        "y": 0.355,
-        "width": 0.2563,
-        "height": 0.1554
+        "x": 0.8627,
+        "y": 0.6204,
+        "width": 0.088,
+        "height": 0.0306
       }
     },
     {
@@ -107,7 +167,7 @@
     },
     {
       "type": "paragraph",
-      "text": "L’ addiction de Risu a Minecraft ne s'est jamais autant révélée que cette semaine. Elle a stream rien que pour se vanter de ses constructions. A ce stade, on peut dire sans hésiter que la plupart des batiments viennent delle.",
+      "text": "L’addiction de Risu à Minecraft ne s’est jamais autant révélée que cette semaine. Elle a stream rien que pour se vanter de ses constructions. À ce stade, on peut dire sans hésiter que la plupart des bâtiments viennent d’elle.",
       "bbox": {
         "x": 0.5231,
         "y": 0.8785,

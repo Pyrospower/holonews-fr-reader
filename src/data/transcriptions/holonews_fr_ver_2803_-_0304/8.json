@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2803_-_0304",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Babu ID",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.1806,
+        "width": 0.1263,
+        "height": 0.0195
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour le 1er avril de cette année, les membres d'hololD ne sont pas devenues de magnifiques jeunes hommes, mais des bébés. Elles ont parlé toute la journée comme des bébés.",
+      "text": "Pour le 1er avril de cette année, les membres d'holoID ne sont pas devenues de magnifiques jeunes hommes, mais des bébés. Elles ont parlé toute la journée comme des bébés.",
       "bbox": {
         "x": 0.0706,
         "y": 0.2183,
@@ -26,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Sana",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.4375,
+        "width": 0.0781,
+        "height": 0.0187
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 1er avril, San a pris le contrôle de la chaîne de Sana et a joué à Kirby et le Monde Oublié. || est passé par plusieurs niveaux au cours du jeu. À cause de cela, un étang de pêche s'est débloqué et San y a passé beaucoup de temps, attrapant beaucoup de poissons, dont un poisson rouge géant. En continuant à jouer, il a vaincu le roi Dadidou et l'a fait frire (littéralement). Après cela, San a terminé le stream en remerciant encore une fois ses fans.",
+      "text": "Le 1er avril, San a pris le contrôle de la chaîne de Sana et a joué à Kirby et le Monde Oublié. Il est passé par plusieurs niveaux au cours du jeu. À cause de cela, un étang de pêche s'est débloqué et San y a passé beaucoup de temps, attrapant beaucoup de poissons, dont un poisson rouge géant. En continuant à jouer, il a vaincu le roi Dadidou et l'a fait frire (littéralement). Après cela, San a terminé le stream en remerciant encore une fois ses fans.",
       "bbox": {
         "x": 0.0706,
         "y": 0.4722,
@@ -47,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Cette année, le Council et IRyS ont échangé leurs modèles et leurs chaînes pour célébrer le Premier Avril | Bae a joué le rôle de Mumei, Kronii a pris la place de Sana, Fauna a joué le rôle de Bae, Mumei est brièvement devenue IRyS, Sana est devenue Fauna et le rôle de Kronii est passé à IRyS. Chacune d'entre elles a fait de son mieux pour être crédible. Elles ont imité leurs rires et leurs expressions, leurs phrases types et leur voix.",
+      "text": "Cette année, le Council et IRyS ont échangé leurs modèles et leurs chaînes pour célébrer le Premier Avril ! Bae a joué le rôle de Mumei, Kronii a pris la place de Sana, Fauna a joué le rôle de Bae, Mumei est brièvement devenue IRyS, Sana est devenue Fauna et le rôle de Kronii est passé à IRyS. Chacune d’entre elles a fait de son mieux pour être crédible. Elles ont imité leurs rires et leurs expressions, leurs phrases types et leur voix.",
       "bbox": {
         "x": 0.0706,
         "y": 0.8155,
@@ -56,13 +76,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "HoloMyth",
+      "bbox": {
+        "x": 0.6394,
+        "y": 0.1806,
+        "width": 0.1594,
+        "height": 0.02
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 1er avril, les filles d'holoMyth avaient l'air un peu... différentes. Une collaboration en 3D a eu lieu sur la chaîne de Gura, rassemblant toutes les filles portant les vêtements et les cheveux des autres. Nous étions accompagnés par : GWatson, Inawa, Dangerikii, Takanashi Calliara et Guraiope pour une heure et demie de pur chaos, de plaisir et de rire. Le spectacle a commencé par les présentations de chacune, puis elles ont joué au Twister en 3D, réalisant ainsi l'un des rêves que Gura avait depuis ses débuts. Elles ont ensuite fait une bataille de janken. Il y avait même un trailer épique réalisé par Kanauru. La gloire était pour le gagnant, et la roue était la punition « OH NYO » pour le perdant, qui les habillait avec divers accessoires étranges. Après quelques rounds de janken les membres de Myth avaient l'air considérablement plus bizarres qu'avant. Les filles ont finalement clôturé le stream avec Kiara essayant de tourner la roue pour obtenir des oreilles de chat mais au lieu de cela a fini par se transformer en clown encore et encore. honk HONK !",
+      "text": "Le 1er avril, les filles d’holoMyth avaient l'air un peu... différentes. Une collaboration en 3D a eu lieu sur la chaîne de Gura, rassemblant toutes les filles portant les vêtements et les cheveux des autres. Nous étions accompagnés par : GWatson, Inawa, Dangerikii, Takanashi Calliara et Guraiope pour une heure et demie de pur chaos, de plaisir et de rire. Le spectacle a commencé par les présentations de chacune, puis elles ont joué au Twister en 3D, réalisant ainsi l'un des rêves que Gura avait depuis ses débuts. Elles ont ensuite fait une bataille de janken. Il y avait même un trailer épique réalisé par Kanauru. La gloire était pour le gagnant, et la roue était la punition « OH NYO » pour le perdant, qui les habillait avec divers accessoires étranges. Après quelques rounds de janken les membres de Myth avaient l'air considérablement plus bizarres qu'avant. Les filles ont finalement clôturé le stream avec Kiara essayant de tourner la roue pour obtenir des oreilles de chat mais au lieu de cela a fini par se transformer en clown encore et encore. honk HONK !",
       "bbox": {
         "x": 0.5406,
         "y": 0.2179,
         "width": 0.3881,
         "height": 0.3438
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.6362,
+        "y": 0.714,
+        "width": 0.0537,
+        "height": 0.0187
       }
     },
     {

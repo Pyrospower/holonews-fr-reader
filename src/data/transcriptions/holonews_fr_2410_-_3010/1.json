@@ -3,18 +3,8 @@
   "issueId": "holonews_fr_2410_-_3010",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
-    {
-      "type": "heading",
-      "text": "HOLONEWS",
-      "bbox": {
-        "x": 0.0356,
-        "y": 0.013,
-        "width": 0.9331,
-        "height": 0.1124
-      }
-    },
     {
       "type": "heading",
       "text": "Rikka",
@@ -27,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "3e anniversaire de debut",
+      "text": "3e anniversaire de début",
       "bbox": {
         "x": 0.025,
         "y": 0.2934,
@@ -36,8 +26,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Area15",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.375,
+        "width": 0.277,
+        "height": 0.055
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "a dévoilé de nouvelles ten",
+      "text": "a dévoilé de nouvelles tenues",
       "bbox": {
         "x": 0.0244,
         "y": 0.4444,
@@ -46,23 +46,93 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "64 a quitte COVER corporation",
+      "type": "heading",
+      "text": "Lui",
       "bbox": {
-        "x": 0.4763,
-        "y": 0.3615,
-        "width": 0.5,
-        "height": 0.0872
+        "x": 0.025,
+        "y": 0.542,
+        "width": 0.112,
+        "height": 0.057
       }
     },
     {
       "type": "paragraph",
-      "text": "lab 3D Rio once son modele 3D",
+      "text": "stream « hôtesse de club »",
       "bbox": {
-        "x": 0.7906,
-        "y": 0.5486,
-        "width": 0.185,
-        "height": 0.1871
+        "x": 0.024,
+        "y": 0.618,
+        "width": 0.226,
+        "height": 0.08
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shinove",
+      "bbox": {
+        "x": 0.656,
+        "y": 0.315,
+        "width": 0.32,
+        "height": 0.058
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a quitté COVER corporation",
+      "bbox": {
+        "x": 0.705,
+        "y": 0.388,
+        "width": 0.271,
+        "height": 0.06
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 0",
+      "bbox": {
+        "x": 0.757,
+        "y": 0.478,
+        "width": 0.218,
+        "height": 0.055
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "collab 3D",
+      "bbox": {
+        "x": 0.811,
+        "y": 0.548,
+        "width": 0.164,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rio",
+      "bbox": {
+        "x": 0.85,
+        "y": 0.607,
+        "width": 0.126,
+        "height": 0.059
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "a annoncé son modèle 3D",
+      "bbox": {
+        "x": 0.724,
+        "y": 0.681,
+        "width": 0.252,
+        "height": 0.056
+      }
+    },
+    {
+      "type": "other",
+      "text": "FR\nVol 7",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.827,
+        "width": 0.344,
+        "height": 0.151
       }
     }
   ],

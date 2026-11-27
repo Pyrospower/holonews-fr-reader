@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_2911_-_0512",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "AragamiOga",
+      "text": "Aragami Oga",
       "bbox": {
         "x": 0.0613,
         "y": 0.0269,
@@ -57,22 +57,12 @@
     },
     {
       "type": "paragraph",
-      "text": "• Une figurine en acrylique de la nouvelle tenue",
+      "text": "• Une figurine en acrylique de la nouvelle tenue\n• Un badge à épingle",
       "bbox": {
         "x": 0.05,
         "y": 0.395,
         "width": 0.3419,
-        "height": 0.0299
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un badge à épingle",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.4466,
-        "width": 0.2263,
-        "height": 0.0165
+        "height": 0.0681
       }
     },
     {
@@ -87,22 +77,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Shion a aussi reçu une nouvelle tenue le 4 Décembre. Il semblerait qu’elle et",
-      "bbox": {
-        "x": 0.52,
-        "y": 0.615,
-        "width": 0.4575,
-        "height": 0.0356
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Aqua ont échangé leurs rôles, car Shion a maintenant une tenue de domestique !",
+      "text": "Shion a aussi reçu une nouvelle tenue le 4 Décembre. Il semblerait qu’elle et Aqua ont échangé leurs rôles, car Shion a maintenant une tenue de domestique !",
       "bbox": {
         "x": 0.5194,
-        "y": 0.6515,
-        "width": 0.455,
-        "height": 0.0356
+        "y": 0.615,
+        "width": 0.4581,
+        "height": 0.0721
       }
     },
     {
@@ -117,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Shion a aussi annoncé qu'elle aurait un live 3D pour célébrer son anniversaire le 8 décembre. Rushia, Okayu, Pekora, et Marine ont confirmé qu'elles seraient des invitées de l'événement.",
+      "text": "Shion a aussi annoncé qu’elle aurait un live 3D pour célébrer son anniversaire le 8 décembre. Rushia, Okayu, Pekora, et Marine ont confirmé qu'elles seraient des invitées de l'événement.",
       "bbox": {
         "x": 0.5206,
         "y": 0.8698,

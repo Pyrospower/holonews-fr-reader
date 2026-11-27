@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_0205_-_0805",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.4709,
+        "y": 0.0152,
+        "width": 0.0582,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Amelia",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.1806,
+        "width": 0.1145,
+        "height": 0.0303
+      }
+    },
     {
       "type": "paragraph",
       "text": "Amelia a enfin fait ce qu'elle a toujours voulu faire avec son modèle 3D : sauter sur un trampoline ! Étonnamment, beaucoup de choses se sont passées lors de ce stream bien qu'elle ait sauté sur un trampoline tout le long : elle a notamment discuté à propos de jeux vidéo et dansé sur le trampoline. Kiara est aussi passée sur le stream en plein milieu, puis Walfie a fait un autre croquis d'Ame.",
@@ -37,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Il'y a eu plein de moments drôles et mignons lors du stream, comme quand Kiara a salué la mère de Kobo, quand Kobo a répondu en français après que Kiara ait dit qu'elle parle allemand, le moment où Kobo a mal entendu le mot « Europe », le « moe moe kyun » de la petite chamane, et le moment où elle a failli mourir dans le jeu après avoir entendu Tenchou dire « ara ara ». Kobo a aussi appris à Kiara que « CD » voulait dire « culotte » en indonésien.",
+      "text": "Il y a eu plein de moments drôles et mignons lors du stream, comme quand Kiara a salué la mère de Kobo, quand Kobo a répondu en français après que Kiara ait dit qu'elle parle allemand, le moment où Kobo a mal entendu le mot « Europe », le « moe moe kyun » de la petite chamane, et le moment où elle a failli mourir dans le jeu après avoir entendu Tenchou dire « ara ara ». Kobo a aussi appris à Kiara que « CD » voulait dire « culotte » en indonésien.",
       "bbox": {
         "x": 0.0712,
         "y": 0.5699,
@@ -66,6 +86,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.6382,
+        "y": 0.1768,
+        "width": 0.0582,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Notre prêtresse bien aimée à créé un Espace Twitter dans lequel son auditoire pouvait l'entendre cuisiner des nouilles pour le déjeuner. C'était plutôt rare de sa part puisqu'elle a dit que Mama'nis l'empêchait de cuisiner, car la cuisine était son « territoire ». Les Takodachis ont demandé à Ina de mettre des cookies dans ses nouilles, mais elle a refusé. Un grincement suspect a également été entendu lorsqu'elle a coupé des « oignons nouveaux ». Elle a assuré qu'aucun Takodachi n'a été blessé pendant qu'elle préparait son repas, bien que ces derniers se soient portés volontaires pour être mangés.",
       "bbox": {
@@ -76,6 +106,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gura",
+      "bbox": {
+        "x": 0.6364,
+        "y": 0.5404,
+        "width": 0.0855,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Gura a envoyé une vidéo sur Twitter dans laquelle la main de son modèle 3D se tend vers une crevette nerveuse, accompagnée d'une musique menaçante. Courez.",
       "bbox": {
@@ -83,6 +123,16 @@
         "y": 0.5803,
         "width": 0.355,
         "height": 0.0534
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.6364,
+        "y": 0.7664,
+        "width": 0.08,
+        "height": 0.0303
       }
     },
     {

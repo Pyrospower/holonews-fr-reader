@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1701_-_2301",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -36,16 +36,6 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Family Mart et hololive collaborent pour la 6e fois dans le cadre du projet « Hololive X Family Mart vol. 6, Happy Happy Valentine, », qui se déroule du 25 janvier au 14 février. Le set de marchandises comprend des figurines en acrylique d'Ayame, Subaru, Mel, Choco et Aki, un poster B2, du chocolat blanc CRUNKY décoré sur le thème d'Hololive, et des cartes postales avec des messages des filles. Les cartes seront publiées par lots : le premier comprendra les cartes Ayame, Subaru et Mel, et le second, qui sera publié le 8 fervent, comprendra Akwa, Choco et Aki.",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.6441,
-        "width": 0.4338,
-        "height": 0.217
-      }
-    },
-    {
       "type": "heading",
       "text": "Wow, c'est un peu vide",
       "bbox": {
@@ -73,6 +63,26 @@
         "y": 0.3455,
         "width": 0.3956,
         "height": 0.0299
+      }
+    },
+    {
+      "type": "other",
+      "text": "---------> discord.gg/Holonews <----------",
+      "bbox": {
+        "x": 0.524,
+        "y": 0.448,
+        "width": 0.413,
+        "height": 0.018
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Family Mart et hololive collaborent pour la 6e fois dans le cadre du projet « Hololive X Family Mart vol. 6, Happy Happy Valentine, », qui se déroule du 25 janvier au 14 février. Le set de marchandises comprend des figurines en acrylique d'Ayame, Subaru, Mel, Choco et Aki, un poster B2, du chocolat blanc CRUNKY décoré sur le thème d'Hololive, et des cartes postales avec des messages des filles. Les cartes seront publiées par lots : le premier comprendra les cartes Ayame, Subaru et Mel, et le second, qui sera publié le 8 fervent, comprendra Akwa, Choco et Aki.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.6441,
+        "width": 0.4338,
+        "height": 0.217
       }
     }
   ],

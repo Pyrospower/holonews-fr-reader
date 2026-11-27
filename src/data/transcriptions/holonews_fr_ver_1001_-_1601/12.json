@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_1001_-_1601",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.146,
+        "y": 0.044,
+        "width": 0.246,
+        "height": 0.026
+      }
+    },
     {
       "type": "heading",
       "text": "Gamers",
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Faites l'expérience d’un rendez-vous galant avec hololive Gamers ! Les participants peuvent jouer un scénario avec l’une des filles : rencontre, visite d’un zoo et dégustation d’un en-cas fait maison, le thème dépend d'avec qui vous passez le rendez-vous. L'événement s'accompagne de produits dérivés souvenirs spéciaux comme des t-shirts, des peluches, des figurines en acrylique et bien plus encore. || se tiendra du 14 janvier au 22 février à Yokohama, puis du 28 mars au 24 avril à Hakata.",
+      "text": "Faites l’expérience d’un rendez-vous galant avec hololive Gamers ! Les participants peuvent jouer un scénario avec l’une des filles : rencontre, visite d’un zoo et dégustation d’un en-cas fait maison, le thème dépend d’avec qui vous passez le rendez-vous. L’événement s’accompagne de produits dérivés souvenirs spéciaux comme des t-shirts, des peluches, des figurines en acrylique et bien plus encore. Il se tiendra du 14 janvier au 22 février à Yokohama, puis du 28 mars au 24 avril à Hakata.",
       "bbox": {
         "x": 0.0513,
         "y": 0.2578,
@@ -26,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Mio & Miko",
+      "bbox": {
+        "x": 0.188,
+        "y": 0.498,
+        "width": 0.252,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Menée par Miko, Mio a fait sa première expérience de GTA V. Les deux complices ont acheté une maison ensemble, au prix de la corruption graduelle de notre mère louve habituellement irréprochable. Sous l'influence du roi démon Miko, Mio s’est adonnée (entre autres) au vol de voiture, au cambriolage et à la pyromanie.",
+      "text": "Menée par Miko, Mio a fait sa première expérience de GTA V. Les deux complices ont acheté une maison ensemble, au prix de la corruption graduelle de notre mère louve habituellement irréprochable. Sous l’influence du roi démon Miko, Mio s’est adonnée (entre autres) au vol de voiture, au cambriolage et à la pyromanie.",
       "bbox": {
         "x": 0.0513,
         "y": 0.5391,
@@ -36,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.499,
+        "width": 0.141,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Les produits dérivés commémoratifs du million d'abonnés atteint par Okayu sont maintenant disponibles sur GeekJack ainsi que la boutique officielle d’hololive. Faisant partie de la collaboration /kinari! Steak, on retrouve une figurine en acrylique, un ensemble de couverts, ainsi qu’un scénario audio « Rendez-vous galant à /kinari! Steak ». Chacun des produits dérivés est vendu séparément.",
+      "text": "Les produits dérivés commémoratifs du million d’abonnés atteint par Okayu sont maintenant disponibles sur GeekJack ainsi que la boutique officielle d’hololive. Faisant partie de la collaboration Ikinari! Steak, on retrouve une figurine en acrylique, un ensemble de couverts, ainsi qu’un scénario audio « Rendez-vous galant à Ikinari! Steak ». Chacun des produits dérivés est vendu séparément.",
       "bbox": {
         "x": 0.5225,
         "y": 0.5391,
@@ -46,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Korone",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.714,
+        "width": 0.167,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Avec la complétion de l’histoire de Fuse, qui n’est disponible que dans la version remasterisée, Korone a terminé chacune des histoires des huit personnages principaux de Saga Frontier. Fidèle à elle-même, elle a fini chacune des histoires en un seul stream, à l'exception de celle de Red qui dure plus de 18 heures. Pour chaque miniature, Korone a reproduit la pose du protagoniste.",
+      "text": "Avec la complétion de l’histoire de Fuse, qui n’est disponible que dans la version remasterisée, Korone a terminé chacune des histoires des huit personnages principaux de Saga Frontier. Fidèle à elle-même, elle a fini chacune des histoires en un seul stream, à l’exception de celle de Red qui dure plus de 18 heures. Pour chaque miniature, Korone a reproduit la pose du protagoniste.",
       "bbox": {
         "x": 0.5225,
         "y": 0.7548,

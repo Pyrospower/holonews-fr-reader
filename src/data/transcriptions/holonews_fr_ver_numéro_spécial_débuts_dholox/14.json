@@ -3,10 +3,10 @@
   "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
   "page": 14,
   "lang": "fr",
-  "status": "unavailable",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Programme de Laplus",
       "bbox": {
         "x": 0.0525,
@@ -16,7 +16,27 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
+      "text": "ラプ様の侵略活動すけじゅーる\n12月1日 21:00〜 神っぽいな とーこー\n12月2日 19:00〜 どうがとーこー 夜なんかやるー\n12月3日 19:00〜 どうがとーこー\n12月4日 21:00〜 はかせと かんぶとコラボ",
+      "bbox": {
+        "x": 0.0373,
+        "y": 0.1204,
+        "width": 0.3333,
+        "height": 0.1694
+      }
+    },
+    {
+      "type": "other",
+      "text": "イラスト:Benjamin4679",
+      "bbox": {
+        "x": 0.3867,
+        "y": 0.2843,
+        "width": 0.104,
+        "height": 0.0111
+      }
+    },
+    {
+      "type": "heading",
       "text": "Programme de Lui",
       "bbox": {
         "x": 0.5631,
@@ -26,33 +46,133 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Programme de Koyori | Programme de Chloe",
+      "type": "other",
+      "text": "Schedule (JST)\nMon 11/29 Done\nTue 11/30 Done\nWed 12/01 13:00 Lunch Time雑談 / 22:00 どきどき文芸部\nThu 12/02 20:00 叫んだら即終了！OUTLAST\nFri 12/03 23:00 ゲーム\nSat 12/04 15:00 はじめての歌枠 / 21:00 こよりとラプラスとマリパコラボ\nSun 12/05 23:00 晩酌配信",
       "bbox": {
-        "x": 0.0531,
-        "y": 0.5812,
-        "width": 0.89,
-        "height": 0.0234
+        "x": 0.6947,
+        "y": 0.1426,
+        "width": 0.2707,
+        "height": 0.1231
       }
     },
     {
       "type": "other",
-      "text": "A 12/02 23:00- IEUBTORE !",
+      "text": "配信は予定ですので、直前で変更になったりお休みになる可能性もございますのでご了承ください。\n※この予定以外にもゲリラで配信する可能性もございます。",
       "bbox": {
-        "x": 0.5125,
-        "y": 0.7513,
-        "width": 0.1769,
-        "height": 0.0078
+        "x": 0.5347,
+        "y": 0.2204,
+        "width": 0.148,
+        "height": 0.0361
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
+      "text": "イラスト：みたらしねこ様（@mitarashi_neko）",
+      "bbox": {
+        "x": 0.808,
+        "y": 0.2824,
+        "width": 0.1547,
+        "height": 0.0111
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Koyori",
+      "bbox": {
+        "x": 0.0507,
+        "y": 0.5778,
+        "width": 0.428,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "other",
+      "text": "Free Chat\nみんな仲良くねっ\n11/29〜12/5 Schedule",
+      "bbox": {
+        "x": 0.3347,
+        "y": 0.3926,
+        "width": 0.1467,
+        "height": 0.1426
+      }
+    },
+    {
+      "type": "other",
+      "text": "29 Mon. 24:00 クロヱCh振り返り\n30 Tue. 22:00 holoXコラボ\n1 Wed. 12:00 初雑談 19:30 空気読み3\n2 Thu. 7:00 朝こよ 24:00 ASMR\n3 Fri. 20:00 ポケモン縛り有\n4 Sat. 12:00 ドラゴンの島 21:00 マリパ\n5 Sun. 18:00 耐久歌枠",
+      "bbox": {
+        "x": 0.0493,
+        "y": 0.4009,
+        "width": 0.2693,
+        "height": 0.1435
+      }
+    },
+    {
+      "type": "other",
+      "text": "イラスト：Ririさん @Ri0177\n#こよりすけっち ありがとう！",
+      "bbox": {
+        "x": 0.352,
+        "y": 0.5407,
+        "width": 0.136,
+        "height": 0.0176
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Chloe",
+      "bbox": {
+        "x": 0.536,
+        "y": 0.5778,
+        "width": 0.416,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "other",
+      "text": "起床予定\n3日 7時 朝活\n4日 1時 歌枠 / 7時 Englishlearn / 8時 雑談 / 22時 UNDERTALE\n5日 10時 English song singing / 21時 なにかやる〜！",
+      "bbox": {
+        "x": 0.508,
+        "y": 0.387,
+        "width": 0.456,
+        "height": 0.1731
+      }
+    },
+    {
+      "type": "other",
+      "text": "イラスト 朝音うるは様",
+      "bbox": {
+        "x": 0.768,
+        "y": 0.5444,
+        "width": 0.1973,
+        "height": 0.0157
+      }
+    },
+    {
+      "type": "heading",
       "text": "Programme d'Iroha",
       "bbox": {
         "x": 0.3256,
         "y": 0.8511,
         "width": 0.3694,
         "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "配信すけじゅーる\n月 11/29 デビュー前作業絶望のかざま\n火 11/30 21:00〜 初配信でござる！\n水 12/01 23:00〜 初配信振り返り凸待ち\n木 12/02 23:00〜 はじめての歌枠！\n金 12/03 08:00〜 朝活！リングフィット / 17:00〜 JumpKing\n土 12/04 10:00〜 朝活！リングフィット / 18:00〜 なにかやるでござる〜！\n日 12/05 09:00〜 朝活！雑談配信！（作業しながらかも） / 24:00〜 ASMR（練習中でござる）",
+      "bbox": {
+        "x": 0.504,
+        "y": 0.6648,
+        "width": 0.2173,
+        "height": 0.1583
+      }
+    },
+    {
+      "type": "other",
+      "text": "イラスト：暁月あかる様 @akaru0_0",
+      "bbox": {
+        "x": 0.288,
+        "y": 0.8157,
+        "width": 0.1493,
+        "height": 0.0139
       }
     }
   ],

@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_holostars_-tempus-_debut_special",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le 15 juillet, le compte Twitter officiel d'hololive EN a publié un tweet avec marqué « Coming soon... » (Prochainement...), et un lien vers un site web inconnu. Puis, le 18 juillet, les fans ont recu des nouvelles concernant #holoTEMPUS",
+      "text": "Le 15 juillet, le compte Twitter officiel d'hololive EN a publié un tweet avec marqué « Coming soon... » (Prochainement...), et un lien vers un site web inconnu. Puis, le 18 juillet, les fans ont reçu des nouvelles concernant #holoTEMPUS",
       "bbox": {
         "x": 0.0338,
         "y": 0.0924,
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "hololive production a annoncé que HOLOSTARS English -TEMPUS- serait leur prochain groupe de VTubeur anglophone et qu'il débutera le 23 et 24 juillet !",
+      "text": "hololive production a annoncé que HOLOSTARS English -TEMPUS- serait leur prochain groupe de VTubeur anglophone et qu’il débutera le 23 et 24 juillet !",
       "bbox": {
         "x": 0.0331,
         "y": 0.3108,

@@ -3,16 +3,26 @@
   "issueId": "holonews_fr_ver_0404_-_1004",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "other",
-      "text": "@saka",
+      "type": "heading",
+      "text": "GEN 6",
       "bbox": {
-        "x": 0.1056,
-        "y": 0.0833,
-        "width": 0.0244,
-        "height": 0.0056
+        "x": 0.437,
+        "y": 0.016,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chloe",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.18,
+        "width": 0.18,
+        "height": 0.026
       }
     },
     {
@@ -26,6 +36,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.172,
+        "y": 0.39,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Avec l'aide de Mio, Koyori a finalement réussi à finir le jeu Getting Over It pour la première fois. Cependant, elle a ensuite voulu essayer de le faire sans aide. Le dimanche, elle a tenté sa chance et a réussi en deux heures.",
       "bbox": {
@@ -36,13 +56,13 @@
       }
     },
     {
-      "type": "other",
-      "text": "takaneluilui",
+      "type": "heading",
+      "text": "Lui",
       "bbox": {
-        "x": 0.6556,
-        "y": 0.0768,
-        "width": 0.0656,
-        "height": 0.0074
+        "x": 0.634,
+        "y": 0.18,
+        "width": 0.18,
+        "height": 0.026
       }
     },
     {
@@ -67,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après avoir vaincu Radagon, Koyori s'est lancée dans un voyage pour vaincre Renalla, la sorcière de la lune. Cependant, Renalla s'est avérée être trop difficile pour elle. Après six heures de tentatives infructueuses, elle décida de faire une pause, d'explorer les Terres intermédiaires et d'améliorer son équipement et gagner de l'expérience avant d'affronter à nouveau Renalla. Lorsque le moment est venu de défier Renalla, il lui a fallu moins d'une heure pour la vaincre. Elle a finalement appris qu'au lieu d'essayer de battre le boss encore et encore avec la même configuration, elle peut simplement faire une pause, explorer la carte et monter en niveau ou améliorer son équipement pour rendre les choses plus faciles.",
+      "text": "Après avoir vaincu Radagon, Koyori s'est lancée dans un voyage pour vaincre Renalla, la sorcière de la lune. Cependant, Renalla s'est avérée être trop difficile pour elle. Après six heures de tentatives infructueuses, elle décida de faire une pause, d'explorer les Terres intermédiaires et d'améliorer son équipement et gagner de l’expérience avant d'affronter à nouveau Renalla. Lorsque le moment est venu de défier Renalla, il lui a fallu moins d'une heure pour la vaincre. Elle a finalement appris qu'au lieu d'essayer de battre le boss encore et encore avec la même configuration, elle peut simplement faire une pause, explorer la carte et monter en niveau ou améliorer son équipement pour rendre les choses plus faciles.",
       "bbox": {
         "x": 0.5369,
         "y": 0.3533,
@@ -86,8 +106,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Korone",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.782,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "6 Jeudi, Korone a streamé dans sa tenue d'arbre de Noël. Lors de ses parties sur Apex, elle s'est classée 5e, 9e, 17e et 14e avant de remporter la victoire au bout de la cinquième partie. Lors du dernier match, elle a joué avec un coéquipier qui s'est rendu compte qu'elle était en stream après qu'un ami lui ait parlé d'elle. Ce coéquipier a également laissé un commentaire sur la VOD pour la féliciter de sa victoire.",
+      "text": "Jeudi, Korone a streamé dans sa tenue d’arbre de Noël. Lors de ses parties sur Apex, elle s’est classée 5e, 9e, 17e et 14e avant de remporter la victoire au bout de la cinquième partie. Lors du dernier match, elle a joué avec un coéquipier qui s'est rendu compte qu'elle était en stream après qu'un ami lui ait parlé d'elle. Ce coéquipier a également laissé un commentaire sur la VOD pour la féliciter de sa victoire.",
       "bbox": {
         "x": 0.0712,
         "y": 0.7561,
@@ -96,13 +126,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Hololive and Vtubers]",
+      "type": "other",
+      "text": "by Sushi [Hololive and Vtubers]",
       "bbox": {
-        "x": 0.7906,
-        "y": 0.7574,
-        "width": 0.1669,
-        "height": 0.0117
+        "x": 0.706,
+        "y": 0.753,
+        "width": 0.262,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.642,
+        "y": 0.785,
+        "width": 0.18,
+        "height": 0.026
       }
     },
     {

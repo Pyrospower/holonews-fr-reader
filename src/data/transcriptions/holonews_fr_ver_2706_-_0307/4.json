@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_2706_-_0307",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "AZKi",
+      "bbox": {
+        "x": 0.6278,
+        "y": 0.341,
+        "width": 0.2689,
+        "height": 0.0625
+      }
+    },
     {
       "type": "paragraph",
       "text": "Le concert du quatrième anniversaire d'AZKi a eu lieu le 3 juillet, avec Sora et Suisei comme invités. Elle a commencé par chantées « Over Light » et « Existlog », suivies de « Gamen no Naka no Kimi ga Suki », qu'elle n'avait pas interprétées en public depuis le troisième hololive fes.",
@@ -47,52 +57,12 @@
     },
     {
       "type": "paragraph",
-      "text": "• Une tapisserie B2 illustré par Miwano Rag",
+      "text": "• Une tapisserie B2 illustré par Miwano Rag\n• Un porte-clés en acrylique aléatoire parmis une sélection dessiné par Sameanko\n• Un verre et sous-verre\n• Un enregistrement situationnel « Dans une ville côtière avec vous »",
       "bbox": {
         "x": 0.0733,
         "y": 0.6339,
-        "width": 0.3711,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "» Un porte-clés en acrylique aléatoire parmis une sélection dessiné par Sameanko",
-      "bbox": {
-        "x": 0.0739,
-        "y": 0.6462,
-        "width": 0.3939,
-        "height": 0.0247
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un verre et sous-verre",
-      "bbox": {
-        "x": 0.0739,
-        "y": 0.6721,
-        "width": 0.2044,
-        "height": 0.0089
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un enregistrement situationnel « Dans une",
-      "bbox": {
-        "x": 0.0739,
-        "y": 0.6844,
-        "width": 0.3939,
-        "height": 0.0131
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "ville côtière avec vous »",
-      "bbox": {
-        "x": 0.0894,
-        "y": 0.6964,
-        "width": 0.2017,
-        "height": 0.0096
+        "width": 0.3945,
+        "height": 0.0721
       }
     },
     {
@@ -107,22 +77,22 @@
     },
     {
       "type": "paragraph",
-      "text": "« Un enregistrement situationnel « On se voit dans I'holo »",
+      "text": "• Un enregistrement situationnel « On se voit dans l'holo »\n• Une arte postale avec un double de l'autographe d'AZKi en relief.",
       "bbox": {
         "x": 0.5489,
         "y": 0.6478,
         "width": 0.3817,
-        "height": 0.0239
+        "height": 0.0547
       }
     },
     {
-      "type": "paragraph",
-      "text": "• Une arte postale avec un double de l'autographe d'AZKi en relief.",
+      "type": "other",
+      "text": "Birthday Celebration 2022",
       "bbox": {
-        "x": 0.5489,
-        "y": 0.6767,
-        "width": 0.3167,
-        "height": 0.0258
+        "x": 0.0811,
+        "y": 0.8742,
+        "width": 0.51,
+        "height": 0.0455
       }
     }
   ],

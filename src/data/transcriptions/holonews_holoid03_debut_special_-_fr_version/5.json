@@ -3,11 +3,21 @@
   "issueId": "holonews_holoid03_debut_special_-_fr_version",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Kaela Kovalskia",
+      "bbox": {
+        "x": 0.0435,
+        "y": 0.0204,
+        "width": 0.46,
+        "height": 0.1364
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Kaela Kovalskia est la deuxième membre de la 3e génération d’holoID à faire ses débuts. Elle a commencé son stream en racontant son extraordinaire histoire. Kaela était dans une quête pour trouver un matériel rare et lors de son voyage, elle a fini par se faire prendre pour une des candidates pour l'ID3. Après son histoire, Kaela a immédiatement réprimandé ses spectateurs pour l'avoir appelée un pingouin et les a forcés à lui promettre d'être une communauté positive.",
+      "text": "Kaela Kovalskia est la deuxième membre de la 3e génération d’holoID à faire ses débuts. Elle a commencé son stream en racontant son extraordinaire histoire. Kaela était dans une quête pour trouver un matériel rare et lors de son voyage, elle a fini par se faire prendre pour une des candidates pour l’ID3. Après son histoire, Kaela a immédiatement réprimandé ses spectateurs pour l’avoir appelée un pingouin et les a forcés à lui promettre d’être une communauté positive.",
       "bbox": {
         "x": 0.0256,
         "y": 0.2044,
@@ -17,12 +27,42 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle s'est ensuite présentée et à déclarer qu’elle était d'accord pour qu’on l'appelle Kael ou Ela mais surtout pas « pingouin ».",
+      "text": "Elle s’est ensuite présentée et à déclarer qu’elle était d'accord pour qu’on l'appelle Kael ou Ela mais surtout pas « pingouin ».",
       "bbox": {
         "x": 0.0263,
         "y": 0.4761,
         "width": 0.4656,
         "height": 0.0647
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a continué en parlant des choses qu’elle aime, dont la nourriture amer ainsi que le jus de courge amère font étonnamment partie. Elle est passée à la présentation de ses jeux préférés, ce qui a révélé que Kaela est une grande fan de League of Legends. Elle a avoué qu’elle était fan de la franchise, mais plus récemment, elle s’est mise à essayer plusieurs types de jeux tels que Diablo II, des jeux de cuisine, des party games, des jeux de détente (surtout Getting Over It), et bien plus encore.",
+      "bbox": {
+        "x": 0.0306,
+        "y": 0.6078,
+        "width": 0.9329,
+        "height": 0.1389
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a clôturé son stream avec une vidéo de son combat avant de rejoindre hololive : une bataille… de mots ! Les candidates étaient Skia (la championne avec 13 ans de règne) contre Kaela (la nouvelle challengeuse), et leur ressemblance parfaite portait à confusion. Ce duel était semblable au jeu japonais shiritori (où les joueurs se doivent de dire un mot dont la première syllabe commence avec la dernière syllabe du mot précédent) et s’est terminé avec une surprise lorsque Kaela a lâché un « hi honey ».",
+      "bbox": {
+        "x": 0.0306,
+        "y": 0.7778,
+        "width": 0.9329,
+        "height": 0.1397
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Supportons cette forgeronne dans sa quête pour trouver le minerai le plus rare qu’il soit !",
+      "bbox": {
+        "x": 0.0306,
+        "y": 0.9493,
+        "width": 0.9141,
+        "height": 0.0172
       }
     }
   ],

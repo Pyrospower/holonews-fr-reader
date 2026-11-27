@@ -3,10 +3,20 @@
   "issueId": "holonews_fr_ver_1403_-_2003",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
+      "text": "GEN 3",
+      "bbox": {
+        "x": 0.4369,
+        "y": 0.0156,
+        "width": 0.1263,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "heading",
       "text": "Pekora",
       "bbox": {
         "x": 0.1644,
@@ -26,13 +36,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Pekora",
+      "type": "heading",
+      "text": "Flare",
       "bbox": {
-        "x": 0.1669,
-        "y": 0.4575,
-        "width": 0.1081,
-        "height": 0.0174
+        "x": 0.6488,
+        "y": 0.1797,
+        "width": 0.0831,
+        "height": 0.02
       }
     },
     {
@@ -43,6 +53,16 @@
         "y": 0.2179,
         "width": 0.4081,
         "height": 0.194
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1669,
+        "y": 0.4575,
+        "width": 0.1081,
+        "height": 0.0174
       }
     },
     {
@@ -86,8 +106,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.6312,
+        "y": 0.7014,
+        "width": 0.1125,
+        "height": 0.0195
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après sa performance au jour 1 du concert Link Your Wish, Kanata a posté un message intime dans un post communautaire sur YouTube dans lequel elle nous a remerciés pour nos encouragements. Elle a parlé brievement d'un accident qu'elle a eu avant un précédent concert, et du fait qu’elle a attrapé la Covid cette année. Kanata était heureuse d'avoir un moment sur scène où elle a pu chanter sa précieuse chanson en solo. À la fin de son message, elle a dit qu'elle voulait reprendre les streams et elle veut qu'on l'attende encore un peu.",
+      "text": "Après sa performance au jour 1 du concert Link Your Wish, Kanata a posté un message intime dans un post communautaire sur YouTube dans lequel elle nous a remerciés pour nos encouragements. Elle a parlé brièvement d'un accident qu'elle a eu avant un précédent concert, et du fait qu’elle a attrapé la Covid cette année. Kanata était heureuse d'avoir un moment sur scène où elle a pu chanter sa précieuse chanson en solo. À la fin de son message, elle a dit qu'elle voulait reprendre les streams et elle veut qu'on l'attende encore un peu.",
       "bbox": {
         "x": 0.5381,
         "y": 0.7444,

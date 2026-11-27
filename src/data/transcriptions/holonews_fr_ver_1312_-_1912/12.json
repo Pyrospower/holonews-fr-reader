@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_1312_-_1912",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "HOLO ID",
+      "bbox": {
+        "x": 0.147,
+        "y": 0.071,
+        "width": 0.233,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.314,
+        "y": 0.157,
+        "width": 0.081,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "For this Pour le « Lundi Productif » de cette semaine, lofi a dessiné Amelia sous la pluie.",
+      "text": "For this Pour le « Lundi Productif » de cette semaine, Iofi a dessiné Amelia sous la pluie.",
       "bbox": {
         "x": 0.3131,
         "y": 0.1992,
@@ -17,12 +37,52 @@
     },
     {
       "type": "paragraph",
-      "text": "lofi a annoncé qu'elle sortira une nouvelle musique originale pour le « White Day » (14 mars). Cette musique est produite par Junky, qui a aussi fait « Aimai Chocolate » de Watame et « Aqua-iro Palette » d’Aqua. Il s’agit de la premiere chanson originale complète de lofi (sa première chanson « Bersama loforia », en collaboration avec Rikka, était au format court.",
+      "text": "Iofi a annoncé qu’elle sortira une nouvelle musique originale pour le « White Day » (14 mars). Cette musique est produite par Junky, qui a aussi fait « Aimai Chocolate » de Watame et « Aqua-iro Palette » d’Aqua. Il s’agit de la première chanson originale complète de Iofi (sa première chanson « Bersama Ioforia », en collaboration avec Rikka, était au format court.",
       "bbox": {
         "x": 0.0531,
         "y": 0.3351,
         "width": 0.4225,
         "height": 0.1428
+      }
+    },
+    {
+      "type": "other",
+      "text": "ORIGINAL SONG\nBy JUNKY\nMARCH 14\nWHITE DAY 2022",
+      "bbox": {
+        "x": 0.053,
+        "y": 0.489,
+        "width": 0.437,
+        "height": 0.13
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour l’Area15 de ce mois-ci, Risu, Moona et Iofi ont joué à Gartic Phone avec leurs fans, ce qui a ajouté encore un peu plus de chaos à leurs espiègleries habituelles.",
+      "bbox": {
+        "x": 0.5038,
+        "y": 0.2461,
+        "width": 0.4175,
+        "height": 0.0616
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.446,
+        "width": 0.1,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie est de retour de sa pause et à de nouvelles alertes pour les donations et les nouveaux membres. Comme Risu, elle a des messages d’alertes secrets pour certaines sommes d’argent données, comme pour le don de 69$ via Streamlabs, pour lequel elle vous appellera « Onii-chan ».",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4878,
+        "width": 0.4269,
+        "height": 0.1055
       }
     },
     {
@@ -37,72 +97,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Risu a joué au non-jeu There Is No Game. Au début, Risu s'est amusée à harceler le programme et l'a même menacé de l'envoyer dans sa salle des oies. Plus tard dans le jeu, notamment dans le chapitre « Free2Pay », Risu était tellement confuse qu'elle s'est plainte de maux de tête. On peut dire avec certitude que ce stream était éprouvant .",
+      "text": "Risu a joué au non-jeu There Is No Game. Au début, Risu s'est amusée à harceler le programme et l'a même menacé de l’envoyer dans sa salle des oies. Plus tard dans le jeu, notamment dans le chapitre « Free2Pay », Risu était tellement confuse qu’elle s’est plainte de maux de tête. On peut dire avec certitude que ce stream était éprouvant .",
       "bbox": {
         "x": 0.0513,
         "y": 0.7869,
         "width": 0.4181,
         "height": 0.1476
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Pour l’Area15 de ce mois-ci, Risu, Moonafé et lofi ont joué à Gartic Phone avec leurs fans, ce qui a ajouté encore un peu plus de chaos à leurs espiegleries habituelles.",
-      "bbox": {
-        "x": 0.5038,
-        "y": 0.2461,
-        "width": 0.4175,
-        "height": 0.0616
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Ollie est de retour de sa pause et à de nouvelles alertes pour les donations et les nouveaux membres. Comme Risu, elle a des messages d'alertes secrets pour certaines sommes d'argent données, comme pour le don de 693% via Streamlabs, pour lequel elle vous appellera « Onii-chan ».",
-      "bbox": {
-        "x": 0.5225,
-        "y": 0.4878,
-        "width": 0.4269,
-        "height": 0.1055
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Moona Hoshinova (4—#) @ @ 0 54 71D",
-      "bbox": {
-        "x": 0.5875,
-        "y": 0.628,
-        "width": 0.3288,
-        "height": 0.0117
-      }
-    },
-    {
-      "type": "other",
-      "text": "@moonahoshinova",
-      "bbox": {
-        "x": 0.5881,
-        "y": 0.6454,
-        "width": 0.1331,
-        "height": 0.0091
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "My pc arrive... but the case broken...",
-      "bbox": {
-        "x": 0.5244,
-        "y": 0.6762,
-        "width": 0.3888,
-        "height": 0.0152
-      }
-    },
-    {
-      "type": "other",
-      "text": "- Dec 19, 2021 - Twitter for iPhone",
-      "bbox": {
-        "x": 0.5975,
-        "y": 0.7079,
-        "width": 0.2394,
-        "height": 0.0078
       }
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "L’ordinateur de Moona est enfin arrivé chez elle, mais le boîtier était cassé. Heureusement, tous les composants étaient intacts, et il sera réparé d'ici la semaine prochaine. En attendant, elle utilise son ordinateur portable de secours.",
+      "text": "L’ordinateur de Moona est enfin arrivé chez elle, mais le boîtier était cassé. Heureusement, tous les composants étaient intacts, et il sera réparé d’ici la semaine prochaine. En attendant, elle utilise son ordinateur portable de secours.",
       "bbox": {
         "x": 0.5238,
         "y": 0.7865,

@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0108_-_0708",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Koyori a visité le serveur Minecraft d’hololD. Après s'être un peu baladée, elle est tombée sur Moona, qui l’a guidée. Pendant la visite, elles ont rencontré Kobo, qui a défié Koyori à un duel. Malheureusement, Koyori a perdu et a dû l'appeler « Kobo-hime » par la suite. Après cet échange, Moona a demandé à Koyori ce qu’elle a construit dans le serveur JP. Koyori lui a ensuite montré sa maison et une statue d'elle-même, où on pouvait voir sa culotte. Les deux ont ensuite discuté de la couleur de leur sous-vêtement, ce qui a confus Kobo et Ollie.",
+      "text": "Koyori a visité le serveur Minecraft d’holoID. Après s’être un peu baladée, elle est tombée sur Moona, qui l’a guidée. Pendant la visite, elles ont rencontré Kobo, qui a défié Koyori à un duel. Malheureusement, Koyori a perdu et a dû l’appeler « Kobo-hime » par la suite. Après cet échange, Moona a demandé à Koyori ce qu’elle a construit dans le serveur JP. Koyori lui a ensuite montré sa maison et une statue d’elle-même, où on pouvait voir sa culotte. Les deux ont ensuite discuté de la couleur de leur sous-vêtement, ce qui a confus Kobo et Ollie.",
       "bbox": {
         "x": 0.52,
         "y": 0.1406,
@@ -46,8 +46,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.613,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour le Lundi Productif de cette semaine, lofi a essayé de faire un meme pour attirer I'attention d'Ollie et prendre sa revanche pour le dessin de maillot de bain de cette dernière d'il y a quelques semaines. Le thème choisi, « tablier », était bien trop tape-à-l’oeil. lofi a donc dessiné une fille inconnue, qui portait seulement un tablier. Si vous pensez que cette fille ressemble étrangement à un certaine personne, ce n’est que votre imagination, d'accord ?",
+      "text": "Pour le Lundi Productif de cette semaine, Iofi a essayé de faire un meme pour attirer l’attention d’Ollie et prendre sa revanche pour le dessin de maillot de bain de cette dernière d’il y a quelques semaines. Le thème choisi, « tablier », était bien trop tape-à-l’oeil. Iofi a donc dessiné une fille inconnue, qui portait seulement un tablier. Si vous pensez que cette fille ressemble étrangement à un certaine personne, ce n’est que votre imagination, d’accord ?",
       "bbox": {
         "x": 0.0719,
         "y": 0.6523,
@@ -56,38 +66,28 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Are you ready for tonight's karaoke?! '® I want to celebrate because I'm GRADUATE (well not officially, but I finish my college degree with a nice (, N Apres des années de travail assidu, Moona est enfin diplômée de l’université.",
+      "type": "heading",
+      "text": "Moona",
       "bbox": {
-        "x": 0.0631,
-        "y": 0.8351,
-        "width": 0.3863,
-        "height": 0.1385
+        "x": 0.17,
+        "y": 0.908,
+        "width": 0.23,
+        "height": 0.026
       }
     },
     {
       "type": "paragraph",
-      "text": "GUYS",
+      "text": "Après des années de travail assidu, Moona est enfin diplômée de l’université.",
       "bbox": {
-        "x": 0.5231,
-        "y": 0.4145,
-        "width": 0.0431,
-        "height": 0.0082
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "THERE'S ACTUALLY SOMEONE BRINGS A TENGA TO MY MEET AND GREET",
-      "bbox": {
-        "x": 0.5225,
-        "y": 0.4431,
-        "width": 0.4069,
-        "height": 0.0226
+        "x": 0.07,
+        "y": 0.946,
+        "width": 0.367,
+        "height": 0.027
       }
     },
     {
       "type": "heading",
-      "text": "lofi",
+      "text": "Iofi",
       "bbox": {
         "x": 0.6369,
         "y": 0.5825,
@@ -97,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pendant les rencontres avec ses fans à la Crunchyroll EXPO, l’un d’eux a apporté un accessoire Tenga pour le montrer à lofi. Sa réaction est explicite.",
+      "text": "Pendant les rencontres avec ses fans à la Crunchyroll EXPO, l’un d’eux a apporté un accessoire Tenga pour le montrer à Iofi. Sa réaction est explicite.",
       "bbox": {
         "x": 0.54,
         "y": 0.6211,
@@ -106,33 +106,23 @@
       }
     },
     {
-      "type": "other",
-      "text": "> wou",
+      "type": "heading",
+      "text": "Kobo & Pekora",
       "bbox": {
-        "x": 0.5638,
-        "y": 0.7782,
-        "width": 0.0231,
-        "height": 0.0043
+        "x": 0.637,
+        "y": 0.812,
+        "width": 0.23,
+        "height": 0.026
       }
     },
     {
       "type": "paragraph",
-      "text": "Pekora a rencontré Kobo pour la première fois sur le serveur Minecraft d’hololD et elle a été émerveillée par la grande collection d'animaux de Kobo. Kobo a commencé une chasse au lapin en lâchant ses chiens sur Pekora, ce qui a amené cette dernière à se venger en volant le cheval préféré de Kobo. La criminelle de querre a même fait semblant de ne pas savoir",
+      "text": "Pekora a rencontré Kobo pour la première fois sur le serveur Minecraft d’holoID et elle a été émerveillée par la grande collection d’animaux de Kobo. Kobo a commencé une chasse au lapin en lâchant ses chiens sur Pekora, ce qui a amené cette dernière à se venger en volant le cheval préféré de Kobo. La criminelle de guerre a même fait semblant de ne pas savoir de quel cheval il s’agissait, tout en le chevauchant. Sacrée Pekora.",
       "bbox": {
         "x": 0.5387,
         "y": 0.8529,
         "width": 0.385,
-        "height": 0.1107
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "e quel cheval il s'agissait, tout en le chevauchant. Sacrée Pekora.",
-      "bbox": {
-        "x": 0.5387,
-        "y": 0.9536,
-        "width": 0.3025,
-        "height": 0.0226
+        "height": 0.1233
       }
     }
   ],

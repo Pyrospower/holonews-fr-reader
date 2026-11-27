@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_0702_-_1302",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.082,
+        "y": 0.339,
+        "width": 0.384,
+        "height": 0.151
+      }
+    },
     {
       "type": "paragraph",
       "text": "Astel a reçu sa nouvelle tenue, une version 2D de son modèle 3D ! Cette tenue est aussi une célébration pour ses 100 000 abonnés. La première célébration date d'octobre 2021, lorsque Astel avait changé ses assets de stream, rajouté une vidéo d'ouverture et de fermeture du stream, et vendu des produits dérivés commémoratifs.",
@@ -27,22 +37,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Le stream a commencé par sa musique de fond habituelle, avant de se transformer en une performance solo de « Just Follow Stars ». Astel a ensuite chanté « Hitori de Ikiteita",
-      "bbox": {
-        "x": 0.0544,
-        "y": 0.6671,
-        "width": 0.8611,
-        "height": 0.0301
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Naraba », suivi de sa chanson originale « Future Galaxy and Whistle Melody ». Enfin, il a dévoilé sa nouvelle tenue, révélant qu'il peut enlever sa veste et sa casquette. De plus, sa tenue est ornée de lumières mobiles sur ses vêtements et de paillettes chatoyantes dans ses cheveux. Même sa mascotte, Polneu, a reçu une mise à jour.",
+      "text": "Le stream a commencé par sa musique de fond habituelle, avant de se transformer en une performance solo de « Just Follow Stars ». Astel a ensuite chanté « Hitori de Ikiteita Naraba », suivi de sa chanson originale « Future Galaxy and Whistle Melody ». Enfin, il a dévoilé sa nouvelle tenue, révélant qu'il peut enlever sa veste et sa casquette. De plus, sa tenue est ornée de lumières mobiles sur ses vêtements et de paillettes chatoyantes dans ses cheveux. Même sa mascotte, Polneu, a reçu une mise à jour.",
       "bbox": {
         "x": 0.0533,
-        "y": 0.6971,
+        "y": 0.6671,
         "width": 0.8822,
-        "height": 0.0602
+        "height": 0.0902
       }
     },
     {
@@ -57,32 +57,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Astel a annoncé que des produits dérivés commémoratifs seraient encore une fois disponible : - Une figurine en acrylique",
+      "text": "Astel a annoncé que des produits dérivés commémoratifs seraient encore une fois disponible :\n- Une figurine en acrylique\n- Set de badges STARLight\n- Un porte-monnaie",
       "bbox": {
         "x": 0.0533,
         "y": 0.863,
         "width": 0.8933,
-        "height": 0.0432
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- Set de badges STARLight",
-      "bbox": {
-        "x": 0.0539,
-        "y": 0.907,
-        "width": 0.2611,
-        "height": 0.0147
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- Un porte-monnaie",
-      "bbox": {
-        "x": 0.0539,
-        "y": 0.9225,
-        "width": 0.1839,
-        "height": 0.0147
+        "height": 0.0742
       }
     },
     {

@@ -3,10 +3,40 @@
   "issueId": "holonews_fr_holostars_-tempus-_debut_special",
   "page": 11,
   "lang": "fr",
-  "status": "unavailable",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
+      "text": "Noir Vesper",
+      "bbox": {
+        "x": 0.1,
+        "y": 0.0747,
+        "width": 0.3652,
+        "height": 0.0947
+      }
+    },
+    {
+      "type": "other",
+      "text": "« L'Érudit »",
+      "bbox": {
+        "x": 0.3061,
+        "y": 0.2253,
+        "width": 0.2515,
+        "height": 0.0305
+      }
+    },
+    {
+      "type": "other",
+      "text": "Avec lunettes",
+      "bbox": {
+        "x": 0.3197,
+        "y": 0.3589,
+        "width": 0.1985,
+        "height": 0.0242
+      }
+    },
+    {
+      "type": "other",
       "text": "Sans lunettes",
       "bbox": {
         "x": 0.04,

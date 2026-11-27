@@ -3,16 +3,56 @@
   "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
   "page": 7,
   "lang": "fr",
-  "status": "unavailable",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "~~ AHakui Koyoria",
+      "type": "other",
+      "text": "Hakui Koyori",
+      "bbox": {
+        "x": 0.0467,
+        "y": 0.0478,
+        "width": 0.1244,
+        "height": 0.0131
+      }
+    },
+    {
+      "type": "other",
+      "text": "Birthday 3/15",
+      "bbox": {
+        "x": 0.4767,
+        "y": 0.0231,
+        "width": 0.1722,
+        "height": 0.0231
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hakui Koyori",
       "bbox": {
         "x": 0.0778,
         "y": 0.3488,
         "width": 0.3017,
         "height": 0.0255
+      }
+    },
+    {
+      "type": "other",
+      "text": "Joyeuse",
+      "bbox": {
+        "x": 0.2922,
+        "y": 0.4792,
+        "width": 0.14,
+        "height": 0.0193
+      }
+    },
+    {
+      "type": "other",
+      "text": "Triste",
+      "bbox": {
+        "x": 0.1189,
+        "y": 0.6373,
+        "width": 0.0889,
+        "height": 0.0193
       }
     }
   ],

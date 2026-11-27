@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0905_-_1505",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,217 +17,77 @@
     },
     {
       "type": "paragraph",
-      "text": "[Suisei/Inoue] SOS: 250K [Kanata] Ashura-chan: 1M [AZKi] Fake Fake Fake: 1M [Suisei/Nene/MaiR/Ruri/Saki] Absolute 5: 1M [Watame] Midnight Watamedley: 50K [Choco] ChocoLove: 250K",
+      "text": "05/09\n[Suisei/Inoue] SOS: 250K\n[Kanata] Ashura-chan: 1M\n[AZKi] Fake Fake Fake: 1M\n[Suisei/Nene/MaiR/Ruri/Saki] Absolute 5: 1M\n[Watame] Midnight Watamedley: 50K\n[Choco] ChocoLove: 250K\n[Risu] ALiCE&u: 750K",
       "bbox": {
-        "x": 0.1094,
-        "y": 0.0833,
-        "width": 0.3781,
-        "height": 0.0998
+        "x": 0.05,
+        "y": 0.078,
+        "width": 0.439,
+        "height": 0.122
       }
     },
     {
       "type": "paragraph",
-      "text": "[Risu] ALICE&u: 750K",
+      "text": "05/10\n[IRyS] Ghost: 1M\n[Gura] Reflect (Animated): 3M\n[Shion/Hoshikawa] Magical Girl and Chocolate: 1M\n[Okayu] Nani Yatte Mo Umaku Ikanai: 750K\n[Watame] Ohayo No Uta: 750K",
       "bbox": {
-        "x": 0.3013,
-        "y": 0.1875,
-        "width": 0.1863,
-        "height": 0.013
+        "x": 0.512,
+        "y": 0.078,
+        "width": 0.435,
+        "height": 0.09
       }
     },
     {
       "type": "paragraph",
-      "text": "[La+] Life: 500K [Shion] Animal: 500K",
+      "text": "05/11\n[La+] Life: 500K\n[Shion] Animal: 500K\n[Aruran/Miyabi/Temma] Nice Holiday: 50K\n[Aqua/Suisei/Towa] Asu no Yozora Shoukaihan: 3M\n[Kanata/Towa (ORIO)] Over Time: 100K\n[HoloEN 1/2/Hope] Ochame Kinou: 7M\n[Lui] Phony: 500K",
       "bbox": {
-        "x": 0.31,
-        "y": 0.2196,
-        "width": 0.1775,
-        "height": 0.0304
+        "x": 0.045,
+        "y": 0.214,
+        "width": 0.444,
+        "height": 0.123
       }
     },
     {
       "type": "paragraph",
-      "text": "[Aruran/Miyabi/Temma] Nice Holiday: 50K [Aqua/Suisei/Towa] Asu no Yozora Shoukaihan: 3M [Kanata/Towa (ORIO)] Over Time: 100K",
+      "text": "05/12\n[Kiara] Sparks: 4M\n[Koyori] S'il Vous President: 750K\n[Iofi] Q&A=E | Kyawaii: 250K\n[Sora/Aoi] Lion: 4M",
       "bbox": {
-        "x": 0.0481,
-        "y": 0.2543,
-        "width": 0.4394,
-        "height": 0.0477
+        "x": 0.512,
+        "y": 0.18,
+        "width": 0.434,
+        "height": 0.07
       }
     },
     {
       "type": "paragraph",
-      "text": "[HoloEN 1/2/Hope] Ochame Kinou: 7M",
+      "text": "05/13\n[Marine] Unison: 7M\n[Towa/Suisei] Haiiro to Ao: 4M\n[AZKi/Else] Turing Love (Cover): 10K\n[Fubuki/Shien] Roki: 500K",
       "bbox": {
-        "x": 0.1588,
-        "y": 0.3064,
-        "width": 0.3275,
-        "height": 0.013
+        "x": 0.056,
+        "y": 0.35,
+        "width": 0.433,
+        "height": 0.07
       }
     },
     {
       "type": "paragraph",
-      "text": "[Lui] Phony: 500K",
+      "text": "05/14\n[Ayame] Yoi No Yo Yoi: 3M\n[Polka] Internet Overdose (Cover): 100K\n[Nene] Nenenenenenenene Daibakusou: 1M\n[AZKi/Fubuki/Marine] Maware Setsugetsuka: 1M\n[AZKi] Sekai Wa Meguri, Yagate Kimi No Mono Ni Naru: 75K",
       "bbox": {
-        "x": 0.3375,
-        "y": 0.3238,
-        "width": 0.15,
-        "height": 0.013
+        "x": 0.512,
+        "y": 0.265,
+        "width": 0.434,
+        "height": 0.104
       }
     },
     {
       "type": "paragraph",
-      "text": "[Marine] Unison: TM [Towa/Suisei] Haiiro to Ao: 4M",
+      "text": "05/15\n[Suisei] Stellar Stellar: 10M\n[Fauna] Let Me Stay Here: 100K\n[Shion] Yoidore Shirazu (Cover): 50K\n[Astel/Nana] Yukoku Yume To Mimagau: 75K\n[Kanata/Mel/Akirose/Subaru/Nene] Tondemo Wonders (Live Cover): 25K\n[Ollie] Jollie Jollie: 250K",
       "bbox": {
-        "x": 0.2319,
-        "y": 0.3559,
-        "width": 0.2544,
-        "height": 0.0304
+        "x": 0.056,
+        "y": 0.434,
+        "width": 0.433,
+        "height": 0.122
       }
     },
     {
-      "type": "paragraph",
-      "text": "[AZKi/Else] Turing Love (Cover): 10K [Fubuki/Shien] Roki: 500K",
-      "bbox": {
-        "x": 0.1744,
-        "y": 0.3906,
-        "width": 0.3131,
-        "height": 0.0304
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Suisei] Stellar Stellar: 10M",
-      "bbox": {
-        "x": 0.26,
-        "y": 0.4405,
-        "width": 0.2263,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Fauna] Let Me Stay Here: 100K",
-      "bbox": {
-        "x": 0.2144,
-        "y": 0.4579,
-        "width": 0.2731,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Shion] Yoidore Shirazu (Cover): 50K [Astel/Nana] Yukoku Yume To Mimagau: 75K [Kanata/Mel/Akirose/Subaru/Nene] Tondemo Wonders (Live Cover): 25K",
-      "bbox": {
-        "x": 0.1025,
-        "y": 0.4753,
-        "width": 0.385,
-        "height": 0.0651
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Ollie] Jollie Jollie: 250K",
-      "bbox": {
-        "x": 0.2881,
-        "y": 0.5447,
-        "width": 0.1994,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "ORIO (Kanata & Towa)",
-      "bbox": {
-        "x": 0.3569,
-        "y": 0.7088,
-        "width": 0.1869,
-        "height": 0.0126
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[IRyS] Ghost: 1M 05/10 [Gura] Reflect (Animated): 3M",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.0786,
-        "width": 0.4319,
-        "height": 0.0352
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Shion/Hoshikawa] Magical Girl and Chocolate: 1M [Okayu] Nani Yatte Mo Umaku Ikanai: 750K [Watame] Ohayo No Uta: 750K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.1181,
-        "width": 0.4281,
-        "height": 0.0477
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Kiara] Sparks: 4M 05/ 12 [Koyori] S'il Vous President: 750K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.1801,
-        "width": 0.4319,
-        "height": 0.0356
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[lofi] QRA=E | Kyawaii: 250K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2201,
-        "width": 0.2406,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Sora/Aoi] Lion: 4M",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2374,
-        "width": 0.16,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Ayame] Yoi No Yo Yoi: 3M",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.27,
-        "width": 0.2294,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Polka] Internet Overdose (Cover): 100K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2873,
-        "width": 0.3394,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Nene] Nenenenenenenene Daibakusou: 1M [AZKi/Fubuki/Marine] Maware Setsugetsuka: 1M [AZKi] Sekai Wa Meguri, Yagate Kimi No Mono Ni Naru: 75K",
-      "bbox": {
-        "x": 0.5131,
-        "y": 0.3047,
-        "width": 0.4094,
-        "height": 0.0621
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "REPRISE ORIGINALE NOUVEAU",
+      "type": "other",
+      "text": "REPRISE | ORIGINALE | NOUVEAU",
       "bbox": {
         "x": 0.5238,
         "y": 0.3932,
@@ -236,73 +96,73 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Fauna LET ME STAY HERE",
+      "type": "heading",
+      "text": "Nouvelles sorties",
       "bbox": {
-        "x": 0.0431,
-        "y": 0.7088,
-        "width": 0.1381,
-        "height": 0.0373
+        "x": 0.317,
+        "y": 0.582,
+        "width": 0.367,
+        "height": 0.026
       }
     },
     {
-      "type": "paragraph",
-      "text": "OVER TI M =",
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nFauna\nLET ME STAY HERE",
       "bbox": {
-        "x": 0.3556,
-        "y": 0.7257,
-        "width": 0.2456,
-        "height": 0.0178
+        "x": 0.033,
+        "y": 0.635,
+        "width": 0.31,
+        "height": 0.121
       }
     },
     {
-      "type": "paragraph",
-      "text": "Mel CARAMEL DEVIL",
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nORIO (Kanata & Towa)\nOVER TIME",
       "bbox": {
-        "x": 0.6681,
-        "y": 0.7088,
-        "width": 0.1231,
-        "height": 0.0373
+        "x": 0.345,
+        "y": 0.635,
+        "width": 0.31,
+        "height": 0.121
       }
     },
     {
-      "type": "paragraph",
-      "text": "Shion YOIDORE SHIRAZU",
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nMel\nCARAMEL DEVIL",
       "bbox": {
-        "x": 0.0425,
-        "y": 0.8312,
-        "width": 0.1106,
-        "height": 0.0373
+        "x": 0.657,
+        "y": 0.635,
+        "width": 0.31,
+        "height": 0.121
       }
     },
     {
-      "type": "paragraph",
-      "text": "AZKi& Else TURING LOVE",
+      "type": "other",
+      "text": "REPRISE\nShion\nYOIDORE SHIRAZU",
       "bbox": {
-        "x": 0.3563,
-        "y": 0.8312,
-        "width": 0.0938,
-        "height": 0.0378
+        "x": 0.033,
+        "y": 0.757,
+        "width": 0.31,
+        "height": 0.121
       }
     },
     {
-      "type": "paragraph",
-      "text": "Polka",
+      "type": "other",
+      "text": "REPRISE\nAZKi & Else\nTURING LOVE",
       "bbox": {
-        "x": 0.67,
-        "y": 0.8312,
-        "width": 0.0431,
-        "height": 0.01
+        "x": 0.345,
+        "y": 0.757,
+        "width": 0.31,
+        "height": 0.121
       }
     },
     {
-      "type": "paragraph",
-      "text": "INTERNET OVERDOSE",
+      "type": "other",
+      "text": "REPRISE\nPolka\nINTERNET OVERDOSE",
       "bbox": {
-        "x": 0.6681,
-        "y": 0.8468,
-        "width": 0.1356,
-        "height": 0.0221
+        "x": 0.657,
+        "y": 0.757,
+        "width": 0.31,
+        "height": 0.121
       }
     }
   ],

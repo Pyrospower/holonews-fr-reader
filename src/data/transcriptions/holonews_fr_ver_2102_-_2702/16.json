@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_2102_-_2702",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "MISC",
+      "bbox": {
+        "x": 0.1923,
+        "y": 0.0788,
+        "width": 0.1538,
+        "height": 0.0307
+      }
+    },
     {
       "type": "heading",
       "text": "Hololive",
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les vedettes sont Watame, Gura, Ollie, Towa, et Nene dans les préfectures d'Hokkaido et Tohoku ; Roboco, IRyS, Moi, Kanata, Sora (avec holoX), Miko, et Aqua sont à Kanto ; Lamy, Okayu, Shien et Oga, Akirose, Calli, Suisei, Risu, Botan, et Matsuri a Shubu ; Moona, Mel, Ayame, Luna, Ina, Polka, et Kiara sont a Kinki ; Pekora, Amelia, Subaru, Fubuki, Anya, lofi, AZKI, et Shion, ensemble avec Rikka, Izuru, Arurandeisu, et Miyabi sont à Chugoku et Shikoku ; et Korone, Reine, Flare, Noel, Haachama, et Marine aux côtés d’holoCouncil et Astel, Roberu, et Temma sont à Kyushu et Okinawa.",
+      "text": "Les vedettes sont Watame, Gura, Ollie, Towa, et Nene dans les préfectures d'Hokkaido et Tohoku ; Roboco, IRyS, Moi, Kanata, Sora (avec holoX), Miko, et Aqua sont à Kanto ; Lamy, Okayu, Shien et Oga, Akirose, Calli, Suisei, Risu, Botan, et Matsuri à Shubu ; Moona, Mel, Ayame, Luna, Ina, Polka, et Kiara sont à Kinki ; Pekora, Amelia, Subaru, Fubuki, Anya, Iofi, AZKI, et Shion, ensemble avec Rikka, Izuru, Arurandeisu, et Miyabi sont à Chugoku et Shikoku ; et Korone, Reine, Flare, Noel, Haachama, et Marine aux côtés d’holoCouncil et Astel, Roberu, et Temma sont à Kyushu et Okinawa.",
       "bbox": {
         "x": 0.0581,
         "y": 0.4275,
@@ -57,12 +67,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Le deuxième épisode 2D d’hololive ERROR disponible depuis le 26 février. Pendant que le protagoniste se promène dans le parc avec Inari (Fubuki) et Touka (Lamy), Inari nous apprend que beaucoup d'élèves dans la classe voisine étaient absents. Touka a obstinément accusé une grippe d’été, mais le protagoniste croit qu’il y avait autre chose. Le jour suivant, en classe, Suzune (Nene) demande aux protagonistes et à Hanabi (Matsuri) de les accompagner au festival, alors qu’lnari raconte une rumeur qui dit que « l’élève transféré doit être bien traiter, ou de mauvaise chose arriverons ».",
+      "text": "Le deuxième épisode 2D d’hololive ERROR disponible depuis le 26 février. Pendant que le protagoniste se promène dans le parc avec Inari (Fubuki) et Touka (Lamy), Inari nous apprend que beaucoup d'élèves dans la classe voisine étaient absents. Touka a obstinément accusé une grippe d’été, mais le protagoniste croit qu’il y avait autre chose. Le jour suivant, en classe, Suzune (Nene) demande aux protagonistes et à Hanabi (Matsuri) de les accompagner au festival, alors qu’Inari raconte une rumeur qui dit que « l’élève transféré doit être bien traiter, ou de mauvaise chose arriverons ».",
       "bbox": {
         "x": 0.525,
         "y": 0.3281,
         "width": 0.4188,
         "height": 0.217
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.7942,
+        "y": 0.6382,
+        "width": 0.1442,
+        "height": 0.024
       }
     },
     {

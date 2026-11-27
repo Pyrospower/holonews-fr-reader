@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_1701_-_2301",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "GEN 1",
+      "bbox": {
+        "x": 0.191,
+        "y": 0.061,
+        "width": 0.151,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.155,
+        "y": 0.234,
+        "width": 0.239,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Haachama s’est plainte que YouTube ne l’ait toujours pas démonétisée après tout ce qu'elle a fait, alors elle a décidé de s'imposer une pénalité d'un mois. Elle a désactivé les Super Chats et les publicités de toutes ses vidéos, mais pas les abonnements payants, parce qu’elle n'a pas trouvé comment les désactiver. Pendant cette période d'auto-restriction, elle doit terminer chaque phrase par « -chama ».",
+      "text": "Haachama s’est plainte que YouTube ne l’ait toujours pas démonétisée après tout ce qu’elle a fait, alors elle a décidé de s’imposer une pénalité d’un mois. Elle a désactivé les Super Chats et les publicités de toutes ses vidéos, mais pas les abonnements payants, parce qu’elle n’a pas trouvé comment les désactiver. Pendant cette période d’auto-restriction, elle doit terminer chaque phrase par « -chama ».",
       "bbox": {
         "x": 0.0513,
         "y": 0.2773,
@@ -17,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Haachama a organisé des funérailles en stream pour son micro ASMR binaural cassé, qu'elle possède depuis qu’elle était en Australie. Elle était désespérée de ne plus pouvoir tenir le bras du micro et agir comme si c’était son petit ami. Suite à cette tragédie, elle a décidé de sceller son érotisme.",
+      "text": "Haachama a organisé des funérailles en stream pour son micro ASMR binaural cassé, qu’elle possède depuis qu’elle était en Australie. Elle était désespérée de ne plus pouvoir tenir le bras du micro et agir comme si c’était son petit ami. Suite à cette tragédie, elle a décidé de sceller son érotisme.",
       "bbox": {
         "x": 0.0488,
         "y": 0.4618,
@@ -27,7 +47,7 @@
     },
     {
       "type": "other",
-      "text": "GARIBENGER",
+      "text": "GARIBENGER V",
       "bbox": {
         "x": 0.0388,
         "y": 0.5977,
@@ -36,13 +56,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Aki",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.727,
+        "width": 0.076,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Akirose a révélé sa participation à l'émission télévisée « Gariben Girl V », en compagnie de Kizuna Ai et de Mirai Akari. Restez à l'écoute.",
+      "text": "Akirose a révélé sa participation à l’émission télévisée « Gariben Girl V », en compagnie de Kizuna Ai et de Mirai Akari. Restez à l'écoute.",
       "bbox": {
         "x": 0.0513,
         "y": 0.7609,
         "width": 0.4125,
         "height": 0.0599
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mel & Lui",
+      "bbox": {
+        "x": 0.646,
+        "y": 0.234,
+        "width": 0.205,
+        "height": 0.024
       }
     },
     {
@@ -67,7 +107,7 @@
     },
     {
       "type": "heading",
-      "text": "= Haachama",
+      "text": "Haachama",
       "bbox": {
         "x": 0.5444,
         "y": 0.5642,

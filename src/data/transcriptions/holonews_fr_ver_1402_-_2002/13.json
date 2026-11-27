@@ -3,56 +3,106 @@
   "issueId": "holonews_fr_ver_1402_-_2002",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "9 Hol",
+      "text": "HOLOSTARS",
       "bbox": {
-        "x": 0.0675,
-        "y": 0.2131,
-        "width": 0.1731,
-        "height": 0.0308
+        "x": 0.0925,
+        "y": 0.0472,
+        "width": 0.3547,
+        "height": 0.0288
       }
     },
     {
       "type": "heading",
-      "text": "Shi",
+      "text": "Holostars",
       "bbox": {
-        "x": 0.6319,
-        "y": 0.2214,
-        "width": 0.0756,
-        "height": 0.0217
+        "x": 0.1585,
+        "y": 0.2202,
+        "width": 0.2264,
+        "height": 0.0262
       }
     },
     {
       "type": "paragraph",
-      "text": "Pour célébrer les débuts en 3D de tous les Cette année, en l'honneur de la Saint-holoStars, leurs figurines en acrylique sont Valentin, Shien a organisé un stream en vente dès maintenant. Ils seront en « Mission », où les téléspectateurs devaient vente jusqu'au 22 août au prix de 1 500 ¥ épeler « Valentine » (XL ~ 2% — - 1 unités. Toutefois, les quantités sont >) dans le tchat. S'ils réussissent, il limitées, donc achetez-les rapidement ! terminera le stream. Il a fixé une limite de",
+      "text": "Pour célébrer les débuts en 3D de tous les holoStars, leurs figurines en acrylique sont en vente dès maintenant. Ils seront en vente jusqu'au 22 août au prix de 1 500 ¥ unités. Toutefois, les quantités sont limitées, donc achetez-les rapidement !",
       "bbox": {
-        "x": 0.0506,
-        "y": 0.2622,
-        "width": 0.8938,
-        "height": 0.0977
+        "x": 0.0491,
+        "y": 0.2634,
+        "width": 0.4245,
+        "height": 0.0944
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.1585,
+        "y": 0.5125,
+        "width": 0.1585,
+        "height": 0.0236
       }
     },
     {
       "type": "paragraph",
-      "text": "temps d'une heure. Ce n'était pas facile à faire : trop de personnes envoyaient la même lettre ou les omettaient. Selon Shien, les téléspectateurs auraient besoin d'une chance équivalente a celle de faire tomber trois SSR en un seul tour pour y parvenir. Finalement, après 38 minutes, le salon de discussion a réussi. En guise de récompense, Shien a offert un cadeau à ses téléspectateurs : il a dessiné un cœur en chocolat avec des muscles. Après avoir présenté le cadeau, Shien a immédiatement mis fin au stream.",
+      "text": "Miyabi a organisé une stream de planification, pour préparer son prochain anniversaire le 3 mars. Il a souhaité que ses spectateurs participent aux préparatifs et leur a demandé de réaliser des illustrations avec lui. En ce qui concerne la taille des illustrations, il a dit que la taille pouvait être n'importe quoi, mais qu'il préfère le Full HD, 16:9 ou 1920x1080 pixels, et que le type de fichier soit JPEG ou PNG. Il a également dit qu'il était possible d'ajouter les habitants de la forêt d'Hanasaki avec lui. Les œuvres peuvent être postées avec le hashtag #花咲みやび誕生日イラスト2022 jusqu'au 24 février. Il a prévenu que toutes les illustrations ne pourront pas être utilisées, mais qu'il essaiera d'en ajouter autant que possible.",
       "bbox": {
-        "x": 0.5244,
-        "y": 0.3559,
-        "width": 0.4219,
-        "height": 0.1992
+        "x": 0.0491,
+        "y": 0.5557,
+        "width": 0.4283,
+        "height": 0.2647
       }
     },
     {
       "type": "paragraph",
-      "text": "Miyabi a organisé une stream de planification, pour préparer son prochain anniversaire le 3 mars. Il a souhaité que ses spectateurs participent aux préparatifs et leur a demandé de réaliser des illustrations avec lui. En ce qui concerne la taille des illustrations, il a dit que la taille pouvait être n'importe quoi, mais qu'il préfère le Full HD, 16:9 ou 1920x1080 pixels, et que le type de fichier soit JPEG ou PNG. Il a également dit qu'il était possible d'ajouter les habitants de la forêt d'Hanasaki avec lui. Les œuvres peuvent être postées avec le hashtag #1È1X APUÏLE ET ZA +2022 jusqu'au 24 ; LL ; février. Il a prévenu que toutes les illustrations | Pour la Saint-Valentin, Rikka a emmené ne pourront pas être utilisées, mais qu'il ses fans à l'école. Pour cela, il a utilisé son essaiera d'en ajouter autant que possible. modèle 3D à la maison. Il a commencé par jouer divers sketchs comme un lycéen : il a donné du chocolat aux fans et les a même Aruran a joué à 51 Worldwide plaqués contre le mur. Il a ensuite invité le Games en stream et a enlevé public à manger du chocolat ensemble et un vêtement pour chaque l'a fait si près du micro que le stream s'est match perdu. Finalement, il transformé en un ASMR. Après cela, Rikka s'est déshabillé jusqu'aux os a terminé l'émission avec un court et est devenu un squelette. karaoké.",
+      "text": "Aruran a joué à 51 Worldwide Games en stream et a enlevé un vêtement pour chaque match perdu. Finalement, il s'est déshabillé jusqu'aux os et est devenu un squelette.",
       "bbox": {
-        "x": 0.0506,
-        "y": 0.556,
-        "width": 0.895,
-        "height": 0.3906
+        "x": 0.1943,
+        "y": 0.8493,
+        "width": 0.2925,
+        "height": 0.0957
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.6245,
+        "y": 0.2202,
+        "width": 0.1321,
+        "height": 0.0262
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette année, en l'honneur de la Saint-Valentin, Shien a organisé un stream « Mission », où les téléspectateurs devaient épeler « Valentine » (バ → レ → ンタ → → イ → ン) dans le tchat. S'ils réussissent, il terminera le stream. Il a fixé une limite de temps d'une heure. Ce n'était pas facile à faire : trop de personnes envoyaient la même lettre ou les omettaient. Selon Shien, les téléspectateurs auraient besoin d'une chance équivalente à celle de faire tomber trois SSR en un seul tour pour y parvenir. Finalement, après 38 minutes, le salon de discussion a réussi. En guise de récompense, Shien a offert un cadeau à ses téléspectateurs : il a dessiné un cœur en chocolat avec des muscles. Après avoir présenté le cadeau, Shien a immédiatement mis fin au stream.",
+      "bbox": {
+        "x": 0.5226,
+        "y": 0.2621,
+        "width": 0.434,
+        "height": 0.2949
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.6226,
+        "y": 0.7274,
+        "width": 0.1358,
+        "height": 0.0262
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la Saint-Valentin, Rikka a emmené ses fans à l'école. Pour cela, il a utilisé son modèle 3D à la maison. Il a commencé par jouer divers sketchs comme un lycéen : il a donné du chocolat aux fans et les a même plaqués contre le mur. Il a ensuite invité le public à manger du chocolat ensemble et l'a fait si près du micro que le stream s'est transformé en un ASMR. Après cela, Rikka a terminé l'émission avec un court karaoké.",
+      "bbox": {
+        "x": 0.5189,
+        "y": 0.7706,
+        "width": 0.434,
+        "height": 0.1743
       }
     }
   ],

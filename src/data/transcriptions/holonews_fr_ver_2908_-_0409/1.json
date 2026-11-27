@@ -3,30 +3,30 @@
   "issueId": "holonews_fr_ver_2908_-_0409",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "other",
+      "text": "2 ans d’HoloNews",
+      "bbox": {
+        "x": 0.0781,
+        "y": 0.1428,
+        "width": 0.215,
+        "height": 0.0178
+      }
+    },
+    {
       "type": "heading",
-      "text": "HOLONEWS",
+      "text": "Ayame",
       "bbox": {
-        "x": 0.0356,
-        "y": 0.013,
-        "width": 0.9331,
-        "height": 0.1793
+        "x": 0.6563,
+        "y": 0.2062,
+        "width": 0.325,
+        "height": 0.0629
       }
     },
     {
-      "type": "paragraph",
-      "text": "a fête son,",
-      "bbox": {
-        "x": 0.02,
-        "y": 0.3377,
-        "width": 0.1513,
-        "height": 0.026
-      }
-    },
-    {
-      "type": "paragraph",
+      "type": "other",
       "text": "a fêté son 4e anniversaire",
       "bbox": {
         "x": 0.7925,
@@ -36,33 +36,93 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "_— révélé sa",
+      "type": "heading",
+      "text": "Kaela",
       "bbox": {
-        "x": 0.7513,
-        "y": 0.4019,
-        "width": 0.2281,
-        "height": 0.0412
+        "x": 0.0219,
+        "y": 0.2795,
+        "width": 0.1844,
+        "height": 0.0495
       }
     },
     {
       "type": "other",
-      "text": ": org anise par",
+      "text": "a fêté son anniversaire",
       "bbox": {
-        "x": 0.7575,
-        "y": 0.6766,
-        "width": 0.2231,
-        "height": 0.0213
+        "x": 0.0188,
+        "y": 0.3377,
+        "width": 0.1844,
+        "height": 0.0443
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.7844,
+        "y": 0.3602,
+        "width": 0.1969,
+        "height": 0.0477
       }
     },
     {
       "type": "other",
-      "text": "saken",
+      "text": "a révélé sa nouvelle tenue",
       "bbox": {
-        "x": 0.6044,
-        "y": 0.6992,
-        "width": 0.375,
-        "height": 0.0156
+        "x": 0.7625,
+        "y": 0.4206,
+        "width": 0.2188,
+        "height": 0.0452
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.0187,
+        "y": 0.4123,
+        "width": 0.1906,
+        "height": 0.0499
+      }
+    },
+    {
+      "type": "other",
+      "text": "a fêté son 4e anniversaire",
+      "bbox": {
+        "x": 0.0188,
+        "y": 0.4753,
+        "width": 0.1894,
+        "height": 0.0447
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holo Summer",
+      "bbox": {
+        "x": 0.545,
+        "y": 0.5838,
+        "width": 0.4375,
+        "height": 0.0499
+      }
+    },
+    {
+      "type": "other",
+      "text": "le Festival organisé par Usaken",
+      "bbox": {
+        "x": 0.7969,
+        "y": 0.6476,
+        "width": 0.1844,
+        "height": 0.0673
+      }
+    },
+    {
+      "type": "other",
+      "text": "FR\nVol 2\n6 Sep 2022",
+      "bbox": {
+        "x": 0.7,
+        "y": 0.816,
+        "width": 0.2813,
+        "height": 0.1671
       }
     }
   ],

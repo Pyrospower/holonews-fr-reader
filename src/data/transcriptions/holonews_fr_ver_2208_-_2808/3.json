@@ -3,36 +3,36 @@
   "issueId": "holonews_fr_ver_2208_-_2808",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "hololive En",
+      "text": "hololive English -Council-",
       "bbox": {
-        "x": 0.2406,
-        "y": 0.0799,
-        "width": 0.2217,
-        "height": 0.0455
+        "x": 0.2344,
+        "y": 0.0934,
+        "width": 0.53,
+        "height": 0.0301
       }
     },
     {
       "type": "heading",
-      "text": "-Council-",
-      "bbox": {
-        "x": 0.5733,
-        "y": 0.0799,
-        "width": 0.1861,
-        "height": 0.0467
-      }
-    },
-    {
-      "type": "heading",
-      "text": "ler anniversaire",
+      "text": "1er anniversaire",
       "bbox": {
         "x": 0.1722,
         "y": 0.13,
         "width": 0.6522,
         "height": 0.0498
+      }
+    },
+    {
+      "type": "other",
+      "text": "Produits dérivés, chansons originales et plus encore!",
+      "bbox": {
+        "x": 0.0967,
+        "y": 0.189,
+        "width": 0.8044,
+        "height": 0.0231
       }
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Lorsque Kronii a suggéré d'aller à la piscine, Baelz a imité un Vloggeur et a pris la sortie comme un viog quotidien. Une fois arrivées au jacuzzi, elles ont partagé les premières impressions qu'elles avaient vis-à-vis des unes et des autres avant d'aller à la table de billard. Mumei a décidé d'abandonner son match contre Kronii à cause des contrôles, et Bae en a profité pour annoncer les produits dérivés : des peluches des mascottes des 5 membres (dont Yatagarasu), toutes conçues par Sana.",
+      "text": "Lorsque Kronii a suggéré d'aller à la piscine, Baelz a imité un Vloggeur et a pris la sortie comme un vlog quotidien. Une fois arrivées au jacuzzi, elles ont partagé les premières impressions qu'elles avaient vis-à-vis des unes et des autres avant d'aller à la table de billard. Mumei a décidé d'abandonner son match contre Kronii à cause des contrôles, et Bae en a profité pour annoncer les produits dérivés : des peluches des mascottes des 5 membres (dont Yatagarasu), toutes conçues par Sana.",
       "bbox": {
         "x": 0.0789,
         "y": 0.3005,
@@ -63,6 +63,16 @@
         "y": 0.5895,
         "width": 0.8439,
         "height": 0.0586
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les festivités ne se sont pas arrêtées là ! Le Council est ensuite monté sur scène pour chanter toutes leurs chansons originales, « Daydream », « Let Me Stay Here », « A new start », et « Play Dice! », en terminant avec une version orchestrale d'« Astrogirl » (faites par WHUNDR) à la mémoire de Sana, qui a arrêté sa carrière avant son anniversaire.",
+      "bbox": {
+        "x": 0.5222,
+        "y": 0.6667,
+        "width": 0.4022,
+        "height": 0.1181
       }
     },
     {
@@ -86,33 +96,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "+ councilThefirst",
+      "type": "other",
+      "text": "✦ councilThefirst",
       "bbox": {
         "x": 0.0244,
         "y": 0.9657,
         "width": 0.1472,
         "height": 0.0127
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Les festivités ne se sont pas arrêtées là !",
-      "bbox": {
-        "x": 0.525,
-        "y": 0.6663,
-        "width": 0.3956,
-        "height": 0.0147
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Le Council est ensuite monté sur scéne pour chanter toutes leurs chansons originales, « Daydream », « Let Me Stay Here », « A new start », et « Play Dice! », en terminant avec une version orchestrale d'« Astrogirl » (faites par WHUNDR) à la mémoire de Sana, qui a arrêté sa carrière avant son anniversaire.",
-      "bbox": {
-        "x": 0.5239,
-        "y": 0.6802,
-        "width": 0.3983,
-        "height": 0.1088
       }
     }
   ],

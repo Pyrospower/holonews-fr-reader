@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2911_-_0512",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après avoir expliqué qu’elle n’était pas une lolicon, Kanata a demandé à ses spectateurs s'ils la voyaient comme une loli. Ils ont répondu que non, et l'ont à la place qualifiée de « Gori » (-lle); faisant d’eux des Goricons. SUSSTLZON/1M",
+      "text": "Après avoir expliqué qu’elle n’était pas une lolicon, Kanata a demandé à ses spectateurs s’ils la voyaient comme une loli. Ils ont répondu que non, et l’ont à la place qualifiée de « Gori » (-lle); faisant d’eux des Goricons.",
       "bbox": {
         "x": 0.045,
         "y": 0.2687,
@@ -36,28 +36,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "La chance de Kanata s'est une fois de plus volatilisée après qu'elle a dépensé 240 000¥ (environ 1 900€) durant son dernier stream Uma Musume. Lorsque quelqu'un lui a demandé combien elle avait dépensé, elle l’a maudit en lui transférant sa malchance pour lui faire payer de lui avoir demandé.",
+      "type": "heading",
+      "text": "Towa",
       "bbox": {
-        "x": 0.05,
-        "y": 0.5104,
-        "width": 0.4131,
-        "height": 0.1024
+        "x": 0.6333,
+        "y": 0.2287,
+        "width": 0.1227,
+        "height": 0.0231
       }
     },
     {
       "type": "paragraph",
-      "text": "Watame est dans le pétrin, car Ul-mama l’a surprise deux fois cette semaine en train de faire des « Ui-beams » ! Durant à la fois son stream Pokémon DEPS et son stream 3D lecture de Super Chats, Ui-mama est apparue dans le tchat juste après pour envoyer des messages comme « Je te vois. ». À noter que Ui-mama a dit qu’elle autorise Watame à en faire durant ses streams lecture de Super Chats.",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.7878,
-        "width": 0.4263,
-        "height": 0.1597
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Towa a été impressionnée par les débuts de la nouvelle génération. Elle a regardé avec Subaru la présentation de La+, et les deux se sont retrouvées à crier « Yes My Dark! » sans même comprendre ce qui se passait sur le stream. Elle a ensuite tenté de faire pression en tant qu'aînée.",
+      "text": "Towa a été impressionnée par les débuts de la nouvelle génération. Elle a regardé avec Subaru la présentation de La+, et les deux se sont retrouvées à crier « Yes My Dark! » sans même comprendre ce qui se passait sur le stream. Elle a ensuite tenté de faire pression en tant qu’aînée.",
       "bbox": {
         "x": 0.5219,
         "y": 0.2691,
@@ -67,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "S’attaquant d'abord à La+, Towa l’a reprise pour avoir utilisé le suffixe -sama, utilisation qui était jusqu’alors exclusive a Towa.",
+      "text": "S’attaquant d’abord à La+, Towa l’a reprise pour avoir utilisé le suffixe -sama, utilisation qui était jusqu’alors exclusive à Towa.",
       "bbox": {
         "x": 0.5219,
         "y": 0.3941,
@@ -77,12 +67,62 @@
     },
     {
       "type": "paragraph",
-      "text": "Sa cible suivante a été Lui, pour laquelle elle a dû réfléchir a une approche ne discréditant pas son image d’aînée. Towa a plus tard posté sur Twitter son interaction sur Discord avec Lui. Elle a « exigé » son respect, faisant même appel à NePoLaBo pour « éduquer » sa cadette. Malheureusement pour Towa, les membres de NePoLaBo se sont rangés du côté de Lui.",
+      "text": "Sa cible suivante a été Lui, pour laquelle elle a dû réfléchir à une approche ne discréditant pas son image d’aînée. Towa a plus tard posté sur Twitter son interaction sur Discord avec Lui. Elle a « exigé » son respect, faisant même appel à NePoLaBo pour « éduquer » sa cadette. Malheureusement pour Towa, les membres de NePoLaBo se sont rangés du côté de Lui.",
       "bbox": {
         "x": 0.5213,
         "y": 0.4566,
         "width": 0.425,
         "height": 0.1398
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.4704,
+        "width": 0.1653,
+        "height": 0.0241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La chance de Kanata s’est une fois de plus volatilisée après qu’elle a dépensé 240 000¥ (environ 1 900€) durant son dernier stream Uma Musume. Lorsque quelqu’un lui a demandé combien elle avait dépensé, elle l’a maudit en lui transférant sa malchance pour lui faire payer de lui avoir demandé.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5104,
+        "width": 0.4131,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.7472,
+        "width": 0.188,
+        "height": 0.0241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame est dans le pétrin, car UI-mama l’a surprise deux fois cette semaine en train de faire des « Ui-beams » ! Durant à la fois son stream Pokémon DEPS et son stream 3D lecture de Super Chats, Ui-mama est apparue dans le tchat juste après pour envoyer des messages comme « Je te vois. ». À noter que Ui-mama a dit qu’elle autorise Watame à en faire durant ses streams lecture de Super Chats.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7878,
+        "width": 0.4263,
+        "height": 0.1597
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Luna",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.7472,
+        "width": 0.1147,
+        "height": 0.0241
       }
     },
     {

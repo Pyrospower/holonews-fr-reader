@@ -3,11 +3,61 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "SECOND ANNIV.",
+      "bbox": {
+        "x": 0.0391,
+        "y": 0,
+        "width": 0.9609,
+        "height": 0.1974
+      }
+    },
+    {
+      "type": "heading",
+      "text": "POLKA",
+      "bbox": {
+        "x": 0,
+        "y": 0.8829,
+        "width": 1,
+        "height": 0.1171
+      }
+    },
+    {
+      "type": "other",
+      "text": "IDOL Musical",
+      "bbox": {
+        "x": 0.0453,
+        "y": 0.128,
+        "width": 0.0266,
+        "height": 0.1345
+      }
+    },
+    {
+      "type": "other",
+      "text": "Merch",
+      "bbox": {
+        "x": 0.0453,
+        "y": 0.4534,
+        "width": 0.0266,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "other",
+      "text": "first EP",
+      "bbox": {
+        "x": 0.0453,
+        "y": 0.7809,
+        "width": 0.0281,
+        "height": 0.0846
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le live 3d du second Polka a été une comédie commencé avec «Hokori i idol», mais Polka a rapidement eu affaire à la police d'Oozora —car dans cet univers, les idols n’ont pas le droit de sourire. Une fois leur avoir échappée, Polka s'est mise a se demander ce qu'est réellement une idol dans ce monde, avec la chanson « Loser girl ». Peu après, elle est tombée sur un concert de Miko et Luna, les deux plus grandes idols au monde. Alors qu'elle les confrontait, Polka a repéré un Zain (une mascotte de fan). Il l'a menée dans une zone abandonnée. Elle s'est ensuite de nouveau posée des questions sur ce qu'est une idol et a fantasmée en s'imaginant chantant devant une foule, ce qui a mené a la chanson « Persona ».",
+      "text": "Le live 3d du second anniversaire de Polka a été une comédie musicale! Il a été commencé avec «Hokori takai idol», mais Polka a rapidement eu affaire à la police d’Oozora –car dans cet univers, les idols n’ont pas le droit de sourire. Une fois leur avoir échappée, Polka s’est mise à se demander ce qu’est réellement une idol dans ce monde, avec la chanson « Loser girl ». Peu après, elle est tombée sur un concert de Miko et Luna, les deux plus grandes idols au monde. Alors qu’elle les confrontait, Polka a repéré un Zain (une mascotte de fan). Il l’a menée dans une zone abandonnée. Elle s’est ensuite de nouveau posée des questions sur ce qu’est une idol et a fantasmée en s’imaginant chantant devant une foule, ce qui a mené à la chanson « Persona ».",
       "bbox": {
         "x": 0.1011,
         "y": 0.2157,
@@ -17,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après cela, elle s'est mise à penser à ses amies, Lamy et Koyori, et a fait la promesse de changer la manière dont le monde voit les idols. À la suite de sa performance d'« Everblue », il a été révélé que Polka avait réussi à devenir la nouvelle meilleure idol ! Elle est alors montée sur scène et a présenté une toute nouvelle chanson originale « Saikyou tic Polka », réalisée par Kodama Saori et Tanaka Hidekazu. Enfin, son spectacle s'est terminé sur une une deuxième nouvelle chanson, « Attic Epilogue », réalisée par OSTER project. Le clip pour « Saikyou tic Polka » est sortie à la fin du spectacle.",
+      "text": "Après cela, elle s’est mise à penser à ses amies, Lamy et Koyori, et a fait la promesse de changer la manière dont le monde voit les idols. À la suite de sa performance d’« Everblue », il a été révélé que Polka avait réussi à devenir la nouvelle meilleure idol ! Elle est alors montée sur scène et a présenté une toute nouvelle chanson originale « Saikyou tic Polka », réalisée par Kodama Saori et Tanaka Hidekazu. Enfin, son spectacle s’est terminé sur une une deuxième nouvelle chanson, « Attic Epilogue », réalisée par OSTER project. Le clip pour « Saikyou tic Polka » est sortie à la fin du spectacle.",
       "bbox": {
         "x": 0.0956,
         "y": 0.6443,
@@ -67,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "= Un happi taille unique de la Troupe Omaru (un happi est un manteau porté durant les festivals japonais)",
+      "text": "• Un happi taille unique de la Troupe Omaru (un happi est un manteau porté durant les festivals japonais)",
       "bbox": {
         "x": 0.5606,
         "y": 0.5583,
@@ -77,26 +127,16 @@
     },
     {
       "type": "paragraph",
-      "text": "Un bonus est inclus pour les personnes qui achètent la totalité de la collection :",
+      "text": "Un bonus est inclus pour les personnes qui achètent la totalité de la collection : une copie d’une lettre écrite à la main par Polka et un enregistrement situationnelle.",
       "bbox": {
         "x": 0.5433,
         "y": 0.6177,
-        "width": 0.3622,
-        "height": 0.0305
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "une copie d’une lettre écrite à la main par, Polka et un enregistrement situationnelle.",
-      "bbox": {
-        "x": 0.5433,
-        "y": 0.6497,
         "width": 0.4567,
-        "height": 0.0328
+        "height": 0.0648
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "Le clip de « Saikyou tic Polka » a été diffusé après le concert.",
       "bbox": {
         "x": 0.5433,

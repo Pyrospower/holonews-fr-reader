@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_2802_-_0603",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "GEN 0",
+      "bbox": {
+        "x": 0.184,
+        "y": 0.036,
+        "width": 0.169,
+        "height": 0.03
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.153,
+        "y": 0.208,
+        "width": 0.119,
+        "height": 0.025
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Lors de son stream Within Skerry, Miko a essayé d'envoyer un message aux membres de Shiraken pour leur demander de l'aide, mais aucune d'entre elles ne l'a vraiment aidée. Polka a posé la question à Suisei et lui a demandé d'aider Miko, mais Suisei a répondu qu'elle était en train de dîner. Polka a alors demandé si elles n'étaient pas associées, mais Suisei a répondu « Le dîner est important nyee- ». Finalement, Miko a terminé le jeu seule.",
+      "text": "Lors de son stream Within Skerry, Miko a essayé d'envoyer un message aux membres de Shiraken pour leur demander de l'aide, mais aucune d'entre elles ne l'a vraiment aidée. Polka a posé la question à Suisei et lui a demandé d'aider Miko, mais Suisei a répondu qu'elle était en train de dîner. Polka a alors demandé si elles n'étaient pas associées, mais Suisei a répondu « Le dîner est important nyee~ ». Finalement, Miko a terminé le jeu seule.",
       "bbox": {
         "x": 0.05,
         "y": 0.2522,
@@ -16,13 +36,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.155,
+        "y": 0.544,
+        "width": 0.143,
+        "height": 0.028
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Lors d'un récent stream de Vampire Survivors, Suisei est morte a peine 9 secondes avant la fin des 30 minutes. Elle a exprimé sa frustration sur Twitter tout en laissant s'échapper un peu de sel.",
+      "text": "Lors d'un récent stream de Vampire Survivors, Suisei est morte à peine 9 secondes avant la fin des 30 minutes. Elle a exprimé sa frustration sur Twitter tout en laissant s’échapper un peu de sel.",
       "bbox": {
         "x": 0.0506,
         "y": 0.5859,
         "width": 0.4194,
         "height": 0.0725
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.155,
+        "y": 0.79,
+        "width": 0.111,
+        "height": 0.027
       }
     },
     {
@@ -33,6 +73,16 @@
         "y": 0.8359,
         "width": 0.4181,
         "height": 0.1328
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roboco",
+      "bbox": {
+        "x": 0.622,
+        "y": 0.209,
+        "width": 0.17,
+        "height": 0.024
       }
     },
     {
@@ -67,22 +117,12 @@
     },
     {
       "type": "paragraph",
-      "text": "- Une affiche au format B2 - Un set de couverts - Une assiette",
+      "text": "- Une affiche au format B2\n- Un set de couverts\n- Une assiette\n- Un porte-clés en acrylique avec 4 styles différents",
       "bbox": {
         "x": 0.5225,
         "y": 0.569,
-        "width": 0.2494,
-        "height": 0.0738
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- Un porte-clés en acrylique avec 4 styles différents",
-      "bbox": {
-        "x": 0.5225,
-        "y": 0.6623,
         "width": 0.3919,
-        "height": 0.0273
+        "height": 0.1206
       }
     },
     {

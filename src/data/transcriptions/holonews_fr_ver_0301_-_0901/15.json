@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_0301_-_0901",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "HOLOCOUNCIL",
+      "bbox": {
+        "x": 0.0585,
+        "y": 0.094,
+        "width": 0.4077,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana",
+      "bbox": {
+        "x": 0.1615,
+        "y": 0.2286,
+        "width": 0.1154,
+        "height": 0.0246
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Apres seulement 738 resets, Sana a enfin capturé un Rayquaza chromatique, et l’a appelé Yatagarasu ! En plus, elle l'a attrapé avec la toute première Luxe Ball qu’elle a lancé ! Elle a également rempli le Pokédex dans le même stream !",
+      "text": "Après seulement 738 resets, Sana a enfin capturé un Rayquaza chromatique, et l’a appelé Yatagarasu ! En plus, elle l'a attrapé avec la toute première Luxe Ball qu’elle a lancé ! Elle a également rempli le Pokédex dans le même stream !",
       "bbox": {
         "x": 0.05,
         "y": 0.27,
@@ -16,13 +36,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Mumei",
+      "bbox": {
+        "x": 0.1585,
+        "y": 0.4797,
+        "width": 0.1631,
+        "height": 0.0256
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Mumei a fait un stream de 5 minutes tout a fait normal, en partie parce que les gens dans la pré-tchat lui ont dit de faire un « stream », sans autre précision. Elle nous a emmenés au sommet d'une montagne isolée, puis sur une plage avec des mouettes, et enfin dans un bassin de méduses. Elle a commencé un stream Mario Kart presque immédiatement après, comme si de rien n'était.",
+      "text": "Mumei a fait un stream de 5 minutes tout à fait normal, en partie parce que les gens dans la pré-tchat lui ont dit de faire un « stream », sans autre précision. Elle nous a emmenés au sommet d'une montagne isolée, puis sur une plage avec des mouettes, et enfin dans un bassin de méduses. Elle a commencé un stream Mario Kart presque immédiatement après, comme si de rien n'était.",
       "bbox": {
         "x": 0.0506,
         "y": 0.5217,
         "width": 0.425,
         "height": 0.1324
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fauna",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.7553,
+        "width": 0.1446,
+        "height": 0.0246
       }
     },
     {
@@ -36,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "DIVERS",
+      "bbox": {
+        "x": 0.6262,
+        "y": 0.094,
+        "width": 0.2215,
+        "height": 0.0288
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Hololive a annoncé qu'ils offrent la livraison internationale pour les commandes aux Etats-Unis, au Canada et au Mexique. Pour fêter ça, certains anciens produits et marchandises sont de nouveau en stock !",
+      "text": "Hololive a annoncé qu'ils offrent la livraison internationale pour les commandes aux États-Unis, au Canada et au Mexique. Pour fêter ça, certains anciens produits et marchandises sont de nouveau en stock !",
       "bbox": {
         "x": 0.5231,
         "y": 0.286,
@@ -57,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Une démo gratuite du jeu d'horreur hololive ERROR est désormais disponible à partir du 7 janvier. Vous pouvez la télécharger sur le site officiel d'ERROR, en japonais uniquement.",
+      "text": "Une démo gratuite du jeu d’horreur hololive ERROR est désormais disponible à partir du 7 janvier. Vous pouvez la télécharger sur le site officiel d'ERROR, en japonais uniquement.",
       "bbox": {
         "x": 0.5219,
         "y": 0.8607,

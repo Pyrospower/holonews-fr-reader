@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_1402_-_2002",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Anniversaire de Moona",
+      "bbox": {
+        "x": 0.1144,
+        "y": 0.3305,
+        "width": 0.7244,
+        "height": 0.135
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour célébrer son anniversaire le 15 février, Moona a fait un compte à rebours la nuit juste avant son anniversaire. Le jour suivant, elle a fait un stream durant lequel elle a reçu des appels. De nombreux VTubers, venant d’hololive ou bien d'ailleurs, ont appelé Moona pour lui souhaiter un joyeux anniversaire et lui offrir des cadeaux. Quelques membres de la chaîne de Moona ont aussi été invités pour lui souhaiter un bon anniversaire. Dans le même stream, Moona a regardé le clip de sa chanson originale, « High Tide ». Pour finir son stream anniversaire, Moona a répondu à des questions sur marshmallows et a regardé des illustrations de ses fans avec Risu et lofi dans le stream mensuel d'Area 15.",
+      "text": "Pour célébrer son anniversaire le 15 février, Moona a fait un compte à rebours la nuit juste avant son anniversaire. Le jour suivant, elle a fait un stream durant lequel elle a reçu des appels. De nombreux VTubers, venant d’hololive ou bien d’ailleurs, ont appelé Moona pour lui souhaiter un joyeux anniversaire et lui offrir des cadeaux. Quelques membres de la chaîne de Moona ont aussi été invités pour lui souhaiter un bon anniversaire. Dans le même stream, Moona a regardé le clip de sa chanson originale, « High Tide ». Pour finir son stream anniversaire, Moona a répondu à des questions sur marshmallows et a regardé des illustrations de ses fans avec Risu et lofi dans le stream mensuel d'Area 15.",
       "bbox": {
         "x": 0.0306,
         "y": 0.4715,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour son anniversaire, elle a annoncé l'arrivée de nouvelles marchandises en édition limité incluant :",
+      "text": "Pour son anniversaire, elle a annoncé l’arrivée de nouvelles marchandises en édition limité incluant :",
       "bbox": {
         "x": 0.0328,
         "y": 0.6462,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "- Un traversin - Une tasse avec une marque de rouge à lèvres. - Une illustration autographiée",
+      "text": "- Un traversin\n- Une tasse avec une marque de rouge à lèvres.\n- Une illustration autographiée",
       "bbox": {
         "x": 0.0322,
         "y": 0.691,

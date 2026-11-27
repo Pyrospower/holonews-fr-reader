@@ -3,61 +3,41 @@
   "issueId": "holonews_fr_ver_2803_-_0304",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Kureiji Ollie",
+      "bbox": {
+        "x": 0.2733,
+        "y": 0.037,
+        "width": 0.6256,
+        "height": 0.081
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour célébrer les 1 millions d'abonnés atteint la semaine dernière, Ollie a publié une chanson sur le thème d'Hololive intitulé « Medllie » le 29 mars (JST), arrangé par Farhan Sarasin. Le clip a été monté par Rubxy et les illustrations sont de Chroneco. Le clip commence par « Shiny Smily Story » et fini avec « id:entity voices », dure au total 19 minutes, et inclut 36 chansons originals de toutes les branches d'hololive et d'holostars, notamment « Mage of Violet » de Shion, « W.l.M » de Aruran et « Saikyo x",
+      "text": "Pour célébrer les 1 millions d’abonnés atteint la semaine dernière, Ollie a publié une chanson sur le thème d’Hololive intitulé « Medllie » le 29 mars (JST), arrangé par Farhan Sarasin. Le clip a été monté par Rubxy et les illustrations sont de Chroneco. Le clip commence par « Shiny Smily Story » et fini avec « id:entity voices », dure au total 19 minutes, et inclut 36 chansons originals de toutes les branches d’hololive et d’holostars, notamment « Mage of Violet » de Shion, « W.I.M » de Aruran et « Saikyo x Saijaku » Girl de AZKi.",
       "bbox": {
         "x": 0.2006,
         "y": 0.5633,
         "width": 0.4206,
-        "height": 0.2068
+        "height": 0.2225
       }
     },
     {
       "type": "paragraph",
-      "text": "Saijaku » Girl de AZKi.",
-      "bbox": {
-        "x": 0.2017,
-        "y": 0.7708,
-        "width": 0.2189,
-        "height": 0.015
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Juste apres la première, elle a fait un stream de célébration durant lequel elle a réagit au projet du serveur discord de ses fans, une chanson originale nommée « One Million Things | Love » et une animation dans le style visual novel appelé",
+      "text": "Juste après la première, elle a fait un stream de célébration durant lequel elle a réagit au projet du serveur discord de ses fans, une chanson originale nommée « One Million Things I Love » et une animation dans le style visual novel appelé Thank You. Elle a aussi joué à DreamBound Zombie, un petit jeu de plateforme créé par Altersky.",
       "bbox": {
         "x": 0.2006,
         "y": 0.8017,
         "width": 0.4178,
-        "height": 0.0953
+        "height": 0.144
       }
     },
     {
       "type": "paragraph",
-      "text": "Thank You. Elle a aussi joué à",
-      "bbox": {
-        "x": 0.2028,
-        "y": 0.8981,
-        "width": 0.2967,
-        "height": 0.015
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "DreamBound Zombie, un petit jeu de plateforme créé par Altersky.",
-      "bbox": {
-        "x": 0.2011,
-        "y": 0.9144,
-        "width": 0.3606,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Quelques jours plus tard, le 31 mars, elle s'est mise au défi de chanter Medllie en entier. Elle a dit que c'était un défi parfait puisqu'elle doit mémoriser les paroles, savoir chanter dans 3 langues différentes et pouvoir tenir le chant pendant 19 minutes. Elle a même défié plusieurs membres d'hololive a relevé ce défi en stream !",
+      "text": "Quelques jours plus tard, le 31 mars, elle s’est mise au défi de chanter Medllie en entier. Elle a dit que c’était un défi parfait puisqu’elle doit mémoriser les paroles, savoir chanter dans 3 langues différentes et pouvoir tenir le chant pendant 19 minutes. Elle a même défié plusieurs membres d’hololive a relevé ce défi en stream !",
       "bbox": {
         "x": 0.6439,
         "y": 0.5625,
@@ -67,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Ollie a exprimé sa gratitude envers ses zomrades ainsi qu'envers hololive. Elle a dit qu'elle ne savait pas de quoi sera fait le futur mais que, quoiqu'il en soit, les zomrades seront dans son cceur...et qu'il faudrait s'inquiéter d'Ollie si elle arrête d’un seul coup de retweet ses fan-arts.",
+      "text": "Ollie a exprimé sa gratitude envers ses zomrades ainsi qu'envers hololive. Elle a dit qu’elle ne savait pas de quoi sera fait le futur mais que, quoiqu’il en soit, les zomrades seront dans son cœur…et qu'il faudrait s’inquiéter d’Ollie si elle arrête d’un seul coup de retweet ses fan-arts.",
       "bbox": {
         "x": 0.6411,
         "y": 0.7859,

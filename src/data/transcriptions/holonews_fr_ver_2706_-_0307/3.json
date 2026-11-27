@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_2706_-_0307",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "holoX",
+      "bbox": {
+        "x": 0.4256,
+        "y": 0.2477,
+        "width": 0.1489,
+        "height": 0.0432
+      }
+    },
     {
       "type": "paragraph",
       "text": "Suite aux débuts de La+, les membres d’holoX se sont rassemblées sur la chaîne principale d'hololive pour leur première collab en 3D ! Elles ont commencé par révéler leur cachette secrète, et elles ont montré une illustration complète de la pièce. Elles ont regardé les moments forts de leurs débuts en 3D, y compris le combat à l'épée d'Iroha, la promenade de Koyori dans le bar, et la promenade en moto de Lui.",
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elles ont ensuite joué à plusieurs jeux, dont un où elles devaient deviner l'objet qu'elles tenaient dans leurs mains, les yeux bandés. Dans le deuxième jeu, elles devaient se glisser dans différentes = silhouettes découpées.",
+      "text": "Elles ont ensuite joué à plusieurs jeux, dont un où elles devaient deviner l'objet qu'elles tenaient dans leurs mains, les yeux bandés. Dans le deuxième jeu, elles devaient se glisser dans différentes silhouettes découpées.",
       "bbox": {
         "x": 0.0944,
         "y": 0.7828,
@@ -36,43 +46,13 @@
       }
     },
     {
-      "type": "other",
-      "text": "SECRET",
-      "bbox": {
-        "x": 0.4244,
-        "y": 0.9599,
-        "width": 0.0711,
-        "height": 0.0046
-      }
-    },
-    {
-      "type": "other",
-      "text": "sociery",
-      "bbox": {
-        "x": 0.505,
-        "y": 0.2955,
-        "width": 0.0672,
-        "height": 0.0039
-      }
-    },
-    {
       "type": "paragraph",
-      "text": "Tout le monde a été éjecté dans les airs après avoir échoué à rentrer dans les lettres de « holoX » (en lettres extrêmement fines), bien que La+ ait miraculeusement survécu. Les membres d'holoX ont ensuite été transférées sur la scène des idols pour chanter « ROKI » et « Law-Evading Rock » avant de révéler quelques produits commémoratifs, dont :",
+      "text": "Tout le monde a été éjecté dans les airs après avoir échoué à rentrer dans les lettres de « holoX » (en lettres extrêmement fines), bien que La+ ait miraculeusement survécu. Les membres d'holoX ont ensuite été transférées sur la scène des idols pour chanter « ROKI » et « Law-Evading Rock » avant de révéler quelques produits dérivés commémoratifs, dont :",
       "bbox": {
         "x": 0.5356,
         "y": 0.5251,
         "width": 0.37,
         "height": 0.1362
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "dérivés",
-      "bbox": {
-        "x": 0.8422,
-        "y": 0.6358,
-        "width": 0.0628,
-        "height": 0.0104
       }
     },
     {
@@ -97,12 +77,12 @@
     },
     {
       "type": "other",
-      "text": "SOCIETY",
+      "text": "SECRET SOCIETY",
       "bbox": {
-        "x": 0.5167,
-        "y": 0.9599,
-        "width": 0.0811,
-        "height": 0.0046
+        "x": 0.4222,
+        "y": 0.9576,
+        "width": 0.1811,
+        "height": 0.01
       }
     }
   ],

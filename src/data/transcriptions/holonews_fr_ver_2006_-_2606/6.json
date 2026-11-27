@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_2006_-_2606",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Shirogane Noel",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.26,
+        "width": 0.9,
+        "height": 0.08
+      }
+    },
     {
       "type": "paragraph",
       "text": "Le 26 Juin, Noel à réaliser un concert en 3D ! Elle a interprété plusieurs chansons notamment « Yowanehaki », « No Logic » et « Nemuru Sakana ». Elle a également chanté deux chansons en duo avec Watame.",
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Même si ça avait l'air d’un concert 3D basique, Noel nous a surpris quand elle a chanté « YONA YONA DANCE » car elle avait une nouvelle tenue ! Elle a maintenant un chemisier blanc à épaule nu, une jupe asymmétrique (plus long sur un côté), et une cravate bleue. Noel a porté cette tenue pendant le reste de « YONA YONA DANCE » ainsi que pendant « Ego Rock ».",
+      "text": "Même si ça avait l’air d’un concert 3D basique, Noel nous a surpris quand elle a chanté « YONA YONA DANCE » car elle avait une nouvelle tenue ! Elle a maintenant un chemisier blanc à épaule nu, une jupe asymmétrique (plus long sur un côté), et une cravate bleue. Noel a porté cette tenue pendant le reste de « YONA YONA DANCE » ainsi que pendant « Ego Rock ».",
       "bbox": {
         "x": 0.4039,
         "y": 0.4811,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après cela, elle a invité Korone, Marine et Lamy pour venir profiter de sa nouvelle tenue, portant un regard... particulier sur les parties un peu osées au cours de l'événement. Elle a aussi imité les poses des découpes en carton de ses invités.",
+      "text": "Après cela, elle a invité Korone, Marine et Lamy pour venir profiter de sa nouvelle tenue, portant un regard… particulier sur les parties un peu osées au cours de l’événement. Elle a aussi imité les poses des découpes en carton de ses invités.",
       "bbox": {
         "x": 0.4033,
         "y": 0.6073,
@@ -67,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "» Une épingle de col",
+      "text": "• Une épingle de col",
       "bbox": {
         "x": 0.4233,
         "y": 0.8121,
@@ -77,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le bonus pour l'achat de l'ensemble est une carte style polaroid avec l'autographe de Noel.",
+      "text": "Le bonus pour l'achat de l’ensemble est une carte style polaroid avec l’autographe de Noel.",
       "bbox": {
         "x": 0.4044,
         "y": 0.8453,
@@ -87,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Enfin, elle a dévoilé et interprété sa deuxième chanson originale, « Lyrical Monster », produite par Kota Morita et le groupe HANO, et a fait l'annonce d’une collection de vingt-quatre stickers LINE.",
+      "text": "Enfin, elle a dévoilé et interprété sa deuxième chanson originale, « Lyrical Monster », produite par Kota Morita et le groupe HANO, et a fait l’annonce d’une collection de vingt-quatre stickers LINE.",
       "bbox": {
         "x": 0.4039,
         "y": 0.8943,

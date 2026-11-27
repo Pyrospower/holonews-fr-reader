@@ -3,16 +3,46 @@
   "issueId": "holonews_fr_1107_-_1707",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "EN2",
+      "bbox": {
+        "x": 0.4585,
+        "y": 0.015,
+        "width": 0.0831,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mumei",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.2874,
+        "width": 0.1169,
+        "height": 0.0224
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "L'artiste Mumei est de retour avec ses merveilleux dessins d'horreur ! Cette fois, elle a dessiné notre éternel jeune capitaine de 17 ans avec une tenue d'été, après avoir obtenu l'autorisation de cette dernière.",
+      "text": "L’artiste Mumei est de retour avec ses merveilleux dessins d’horreur ! Cette fois, elle a dessiné notre éternel jeune capitaine de 17 ans avec une tenue d’été, après avoir obtenu l’autorisation de cette dernière.",
       "bbox": {
         "x": 0.07,
         "y": 0.3294,
         "width": 0.3931,
         "height": 0.0638
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.6354,
+        "y": 0.2468,
+        "width": 0.0785,
+        "height": 0.0235
       }
     },
     {
@@ -36,8 +66,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Calli & Kobo",
+      "bbox": {
+        "x": 0.1723,
+        "y": 0.6421,
+        "width": 0.1985,
+        "height": 0.0256
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Notre papa faucheuse préféré, Calli, a amené son « fils » Kobo faire du golf sur GOLF IT. Comme à son habitude, la petite shamane de la pluie a immédiatement adopté Calli comme son père. Le stream était rempli de bêtises familiales, comme par exemple Calli qui apprend des gros mots à Kobo et celle-ci qui demande pourquoi un père et un fils ne peuvent pas s'embrasser. Calli a aussi menacé de jeter Kobo par-dessus une montagne, après que cette dernière ait demandé un tweet de défaite ainsi qu’un cadeau de la part du perdant. Kobo a répondu à la menace en disant que ça ne la dérangeait pas puisque maman « Kiwara » allait la rattraper. Cependant, Calli a révélé à Kobo qu'elle était adoptée, ce qui a engendré de la moquerie envers Kobo et des pleures exagérées de Kobo. Les larmes de Kobo se sont calmées quand Calli a dit que Kiara était toujours la mère de Kobo et qu'elle avait maintenant un « papa oncle ». L'arbre généalogique d’hololive s'agrandit encore.",
+      "text": "Notre papa faucheuse préféré, Calli, a amené son « fils » Kobo faire du golf sur GOLF IT. Comme à son habitude, la petite shamane de la pluie a immédiatement adopté Calli comme son père. Le stream était rempli de bêtises familiales, comme par exemple Calli qui apprend des gros mots à Kobo et celle-ci qui demande pourquoi un père et un fils ne peuvent pas s’embrasser. Calli a aussi menacé de jeter Kobo par-dessus une montagne, après que cette dernière ait demandé un tweet de défaite ainsi qu’un cadeau de la part du perdant. Kobo a répondu à la menace en disant que ça ne la dérangeait pas puisque maman « Kiwara » allait la rattraper. Cependant, Calli a révélé à Kobo qu’elle était adoptée, ce qui a engendré de la moquerie envers Kobo et des pleures exagérées de Kobo. Les larmes de Kobo se sont calmées quand Calli a dit que Kiara était toujours la mère de Kobo et qu’elle avait maintenant un « papa oncle ». L’arbre généalogique d’hololive s'agrandit encore.",
       "bbox": {
         "x": 0.0712,
         "y": 0.684,
@@ -46,43 +86,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Ah, Takanashi Kiara à © WEDDING BELLS RINGALING",
+      "type": "heading",
+      "text": "Kiara & Reine",
       "bbox": {
-        "x": 0.53,
-        "y": 0.5803,
-        "width": 0.1844,
-        "height": 0.0187
+        "x": 0.6385,
+        "y": 0.7105,
+        "width": 0.22,
+        "height": 0.0224
       }
     },
     {
       "type": "paragraph",
-      "text": "2) Kic L'arbre généalogique d'hololive ne cesse de i",
+      "text": "L’arbre généalogique d’hololive ne cesse de s'agrandir, avec le mariage de Kiara et Reine durant leur let’s play sur Untitled Goose Game, où elles ont organisé un mariage et se sont embrassées (en tant qu’oies). Kiara s’est aussi dit intéressé pour adopter la « fille » de Reine, Subaru, et emménager avec toute la famille. Les deux mariées ont fini le stream en disant qu’elles « allaient faire des choses privées derrière les rideaux » et ont annoncé leur fiançailles sur Twitter. Le tchat a noté qu’elles ont fait de nombreuses choses après le stream, elles ont eu leur lune de miel, Kiara a mis son statut en « mariée » avec sa nouvelle tenue et ceux, avant même que les deux ne le soient. Ce mariage était un challenge de Amelia, qui la défiait d'être mariée la première. Bravo Kiara !",
       "bbox": {
-        "x": 0.5375,
-        "y": 0.7109,
-        "width": 0.3644,
-        "height": 0.0616
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "s'agrandir, avec le mariage de Kiara et Reine durant leur let's play sur Untitled Goose Game, ou elles ont organisé un mariage et se sont embrassées (en tant qu’oies). Kiara s'est aussi dit intéressé pour adopter la « fille » de Reine, Subaru, et emménager avec toute la famille. Les deux mariées ont fini le stream en disant qu'elles « allaient faire des choses privés",
-      "bbox": {
-        "x": 0.5363,
-        "y": 0.7626,
-        "width": 0.3881,
-        "height": 0.1141
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "errière les rideaux » et ont annoncé leur fiançailles sur Twitter. Le tchat a noté qu'elles ont fait de nombreuses choses après le stream, elles ont eu leur lune de miel, Kiara a mis son statut en « mariée » avec sa nouvelle tenue et ceux, avant même que les deux ne le soient. Ce mariage était un challenge de Amelia, qui la défiait d'être mariée la première. Bravo Kiara !",
-      "bbox": {
-        "x": 0.5356,
-        "y": 0.8668,
-        "width": 0.3844,
-        "height": 0.1141
+        "x": 0.5338,
+        "y": 0.7479,
+        "width": 0.4,
+        "height": 0.2361
       }
     }
   ],

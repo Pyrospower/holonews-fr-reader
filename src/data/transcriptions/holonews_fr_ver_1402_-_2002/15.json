@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1402_-_2002",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0977,
         "width": 0.225,
         "height": 0.0278
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ame",
+      "bbox": {
+        "x": 0.1585,
+        "y": 0.2818,
+        "width": 0.0943,
+        "height": 0.0262
       }
     },
     {
@@ -46,23 +56,13 @@
       }
     },
     {
-      "type": "other",
-      "text": "()) PowerWash Simulator @",
+      "type": "heading",
+      "text": "IRyS",
       "bbox": {
-        "x": 0.0444,
-        "y": 0.6541,
-        "width": 0.1813,
-        "height": 0.0252
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Sorry, we saw tweets about powerwash on the #IRySpace and were curious! (=) We guess cleaning is",
-      "bbox": {
-        "x": 0.0394,
-        "y": 0.7101,
-        "width": 0.4406,
-        "height": 0.0273
+        "x": 0.1604,
+        "y": 0.7733,
+        "width": 0.1094,
+        "height": 0.0262
       }
     },
     {
@@ -77,22 +77,12 @@
     },
     {
       "type": "heading",
-      "text": "hololive",
+      "text": "Ame & Kiara",
       "bbox": {
-        "x": 0.6494,
-        "y": 0.0838,
-        "width": 0.2463,
-        "height": 0.0365
-      }
-    },
-    {
-      "type": "heading",
-      "text": "ENGLISH",
-      "bbox": {
-        "x": 0.6869,
-        "y": 0.1272,
-        "width": 0.1713,
-        "height": 0.0174
+        "x": 0.6509,
+        "y": 0.2805,
+        "width": 0.2792,
+        "height": 0.0275
       }
     },
     {
@@ -103,6 +93,26 @@
         "y": 0.326,
         "width": 0.4275,
         "height": 0.24
+      }
+    },
+    {
+      "type": "other",
+      "text": "I may be a phoenix,\nbut I couldn't live\nwithout you.\nI love you.",
+      "bbox": {
+        "x": 0.5245,
+        "y": 0.5976,
+        "width": 0.2679,
+        "height": 0.0983
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.6321,
+        "y": 0.7248,
+        "width": 0.134,
+        "height": 0.0288
       }
     },
     {

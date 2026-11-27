@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_1701_-_2301",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.185,
+        "y": 0.128,
+        "width": 0.164,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.301,
+        "width": 0.137,
+        "height": 0.023
+      }
+    },
     {
       "type": "paragraph",
       "text": "Choco a fait un Space Twitter où elle dormait et il est devenu premier des tendances au Japon. Après quelques heures, Matsuri a lancé son propre Space, où elle a fait de même, et elles ont toutes deux dormi ensemble sur Twitter.",
@@ -37,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "- \"Le sentiment de culpabilité qu'on ressent en retirant l'emoji d'un VTuber que je ne regarde plus”",
+      "text": "- ”Le sentiment de culpabilité qu'on ressent en retirant l'emoji d'un VTuber que je ne regarde plus”",
       "bbox": {
         "x": 0.0519,
         "y": 0.6931,
@@ -47,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "- \"Je n'arrive pas à trouver quelque chose a écrire sur mes Super Chats. Je peux l'envoyer sans message ?”",
+      "text": "- ”Je n'arrive pas à trouver quelque chose à écrire sur mes Super Chats. Je peux l'envoyer sans message ?”",
       "bbox": {
         "x": 0.0519,
         "y": 0.7413,
@@ -57,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle a souligné que ses réponses étaient purement subjectives et n’a pas autorisé les clips sur ce stream afin d'éviter que ces dires soient utilisés hors contexte.",
+      "text": "Elle a souligné que ses réponses étaient purement subjectives et n’a pas autorisé les clips sur ce stream afin d’éviter que ces dires soient utilisés hors contexte.",
       "bbox": {
         "x": 0.0519,
         "y": 0.8056,
@@ -66,13 +86,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.3,
+        "width": 0.114,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Des camions publicitaires pour le dernier spectacle d'Aqua, Aqua Iro in WonderysLand», pouvaient être vus circulant dans les quartiers de Shinjuku, Shibuya et Akihabara entre 12h00 et 20h00 JST. Ils étaient présents jusqu'à la date de son spectacle, soit le 28 janvier.",
+      "text": "Des camions publicitaires pour le dernier spectacle d'Aqua, Aqua Iro in Wonder☆Land♪, pouvaient être vus circulant dans les quartiers de Shinjuku, Shibuya et Akihabara entre 12h00 et 20h00 JST. Ils étaient présents jusqu'à la date de son spectacle, soit le 28 janvier.",
       "bbox": {
         "x": 0.5225,
         "y": 0.3411,
         "width": 0.4269,
         "height": 0.1115
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.591,
+        "width": 0.114,
+        "height": 0.027
       }
     },
     {

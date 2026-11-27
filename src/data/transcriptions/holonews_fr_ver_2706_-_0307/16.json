@@ -3,8 +3,48 @@
   "issueId": "holonews_fr_ver_2706_-_0307",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Divers",
+      "bbox": {
+        "x": 0.4344,
+        "y": 0.0182,
+        "width": 0.13,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "JAKUNIKU\nKYOSYOKU",
+      "bbox": {
+        "x": 0.3194,
+        "y": 0.1311,
+        "width": 0.0688,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "other",
+      "text": "A new set of T-shirts from hololive’s official anime series holo no graffiti!\nholo no graffiti\nGreatest Moments T-Shirt\nCHECK! Available from Amazon\nSearch for “hololive production”\nMore merch will soon be available!\n※Please refer to the product page for the details　© 2016 COVER Corp.",
+      "bbox": {
+        "x": 0.42,
+        "y": 0.0933,
+        "width": 0.5212,
+        "height": 0.1141
+      }
+    },
+    {
+      "type": "heading",
+      "text": "hololive",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.2201,
+        "width": 0.1281,
+        "height": 0.0191
+      }
+    },
     {
       "type": "paragraph",
       "text": "A new set of t-shirts from",
@@ -17,12 +57,72 @@
     },
     {
       "type": "paragraph",
-      "text": "Une nouvelle série de t-shirts tirés de holo no grafitti est sortie le 1er juillet ! Cette série présente des designs avec la Gen 2 et les GAMERS ! Ces produits sont disponibles uniquement sur Merch by Amazon et peuvent être expédiés aux clients en France, en Allemagne, en Italie, au Japon, en Espagne, au Royaume- Uni, aux Etats-Unis et plus encore.",
+      "text": "Une nouvelle série de t-shirts tirés de holo no grafitti est sortie le 1er juillet ! Cette série présente des designs avec la Gen 2 et les GAMERS ! Ces produits sont disponibles uniquement sur Merch by Amazon et peuvent être expédiés aux clients en France, en Allemagne, en Italie, au Japon, en Espagne, au Royaume-Uni, aux Etats-Unis et plus encore.",
       "bbox": {
         "x": 0.07,
         "y": 0.2726,
         "width": 0.2931,
         "height": 0.1293
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4063,
+        "y": 0.4232,
+        "width": 0.1888,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.735,
+        "y": 0.4262,
+        "width": 0.2137,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "other",
+      "text": "EURO TRUCK SIMULATOR 2\nNINTENDO SWITCH Sports\nNSR NO STRAIGHT ROADS\nTHE STANLEY PARABLE ULTRA DELUXE\nThe Closing Shift\nSILT",
+      "bbox": {
+        "x": 0.1906,
+        "y": 0.467,
+        "width": 0.26,
+        "height": 0.4297
+      }
+    },
+    {
+      "type": "other",
+      "text": "UNDERTALE",
+      "bbox": {
+        "x": 0.6813,
+        "y": 0.4865,
+        "width": 0.2031,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "other",
+      "text": "R-TYPE DIMENSIONS EX\nTiny Tina's WONDERLANDS\nOVERWATCH 2\nROCK SIMULATOR",
+      "bbox": {
+        "x": 0.655,
+        "y": 0.5425,
+        "width": 0.26,
+        "height": 0.2882
+      }
+    },
+    {
+      "type": "other",
+      "text": "FOREWARNED",
+      "bbox": {
+        "x": 0.6781,
+        "y": 0.8659,
+        "width": 0.2219,
+        "height": 0.0182
       }
     },
     {
@@ -36,33 +136,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "oe = Greatest Moments T-Shirt &# Available from Amazon ; Search for “hololive production” More merch will soon be available! on",
+      "type": "other",
+      "text": "HoloCure\n-Save the Fans!-",
       "bbox": {
-        "x": 0.4206,
-        "y": 0.1332,
-        "width": 0.5181,
-        "height": 0.0525
+        "x": 0.2681,
+        "y": 0.9323,
+        "width": 0.1656,
+        "height": 0.0391
       }
     },
     {
-      "type": "heading",
-      "text": "UNDERTALE",
+      "type": "other",
+      "text": "DREAD HUNGER",
       "bbox": {
-        "x": 0.6813,
-        "y": 0.4865,
-        "width": 0.2031,
-        "height": 0.0152
-      }
-    },
-    {
-      "type": "heading",
-      "text": "@ FOREWARNED",
-      "bbox": {
-        "x": 0.6781,
-        "y": 0.8659,
-        "width": 0.2219,
-        "height": 0.0182
+        "x": 0.7375,
+        "y": 0.9323,
+        "width": 0.1663,
+        "height": 0.0391
       }
     }
   ],

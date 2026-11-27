@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0612_-_1212",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0308,
         "width": 0.4413,
         "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Marine & Fubuki",
+      "bbox": {
+        "x": 0.189,
+        "y": 0.207,
+        "width": 0.299,
+        "height": 0.024
       }
     },
     {
@@ -36,6 +46,56 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.204,
+        "width": 0.16,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un spectateur a demandé à Pekora de reproduire son rire caractéristique, mais malheureusement, elle a dit ne pas pouvoir le faire. Même s'il est écrit dans un script, elle n'est pas capable de le faire consciemment.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2491,
+        "width": 0.4169,
+        "height": 0.0734
+      }
+    },
+    {
+      "type": "other",
+      "text": "HA ↑ HA ↓ HA ↑ HA ↓",
+      "bbox": {
+        "x": 0.524,
+        "y": 0.324,
+        "width": 0.414,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora était en train de visiter les îles de ses fans, quand elle est tombée sur une île très bien faite. À cause de cela, Pekora a paniqué et s'est mise à se soucier de la tenue qu'elle portait sur cette île. Le fan lui a donné de meilleurs accessoires pour y remédier.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.3733,
+        "width": 0.4244,
+        "height": 0.1089
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rushia",
+      "bbox": {
+        "x": 0.161,
+        "y": 0.621,
+        "width": 0.158,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Rushia a reçu un message du staff disant que son cou avait été arrangé. Ensuite, Rushia a remarqué que sa poitrine avait gagné en élasticité. Cependant, plusieurs personnes l'ont nié, mais elle était très convaincue d'avoir reçu une amélioration. Rushia était tellement convaincue que sa poitrine était devenue rebondissante qu'elle a posté le lendemain une courte vidéo à ce propos.",
       "bbox": {
@@ -56,23 +116,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Un spectateur a demandé à Pekora de reproduire son rire caractéristique, mais malheureusement, elle a dit ne pas pouvoir le faire. Même s'il est écrit dans un script, elle n'est pas capable de le faire consciemment.",
+      "type": "heading",
+      "text": "Flare",
       "bbox": {
-        "x": 0.5219,
-        "y": 0.2491,
-        "width": 0.4169,
-        "height": 0.0734
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Pekora était en train de visiter les îles de ses fans, quand elle est tombée sur une Île très bien faite. À cause de cela, Pekora a paniqué et s'est mise à se soucier de la tenue qu'elle portait sur cette île. Le fan lui a donné de meilleurs accessoires pour y remédier.",
-      "bbox": {
-        "x": 0.5219,
-        "y": 0.3733,
-        "width": 0.4244,
-        "height": 0.1089
+        "x": 0.633,
+        "y": 0.626,
+        "width": 0.12,
+        "height": 0.024
       }
     },
     {

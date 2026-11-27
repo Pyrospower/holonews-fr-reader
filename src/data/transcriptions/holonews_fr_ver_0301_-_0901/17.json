@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0301_-_0901",
   "page": 17,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,213 +16,123 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "[Marine] Death By Glamour: 2M",
+      "type": "other",
+      "text": "REPRISE\nORIGINAL\nNOUVEAU",
       "bbox": {
-        "x": 0.21,
-        "y": 0.1311,
-        "width": 0.2781,
-        "height": 0.0135
+        "x": 0.8431,
+        "y": 0.0513,
+        "width": 0.1031,
+        "height": 0.0438
       }
     },
     {
       "type": "paragraph",
-      "text": "[Suisei] Phony: 5M",
+      "text": "01/03\n[Marine] Death By Glamour: 2M",
       "bbox": {
-        "x": 0.3219,
-        "y": 0.1645,
-        "width": 0.1638,
-        "height": 0.0135
+        "x": 0.0508,
+        "y": 0.1261,
+        "width": 0.44,
+        "height": 0.0203
       }
     },
     {
       "type": "paragraph",
-      "text": "[Risu/Fonzi] Gurenge: 75K",
+      "text": "01/04\n[Moona] Again: 250K\n[Lamy/Botan] Lion: 500K\n[AZKi] Where Fate Takes Us: 75K\n[Aqua] Indoor Kei Nara Trackmaker: 7M\n[Polka] Kaikaikitan: 500K",
       "bbox": {
-        "x": 0.2531,
-        "y": 0.1823,
-        "width": 0.2331,
-        "height": 0.0135
+        "x": 0.5108,
+        "y": 0.1261,
+        "width": 0.4369,
+        "height": 0.0887
       }
     },
     {
       "type": "paragraph",
-      "text": "[Fubuki] S'il Vous President: 1M [Temma] 1.15man Kilo No Film: 50K [Suisei/lzuru/Astel] Cinema: 750K [AZKi] Nekonarabaikeru: 100K [Gura] Target For Love: 1M",
+      "text": "01/05\n[Suisei] Phony: 5M\n[Risu/Fonzi] Gurenge: 75K\n[Fubuki] S'il Vous President: 1M\n[Temma] 1.15man Kilo No Film: 50K\n[Suisei/Izuru/Astel] Cinema: 750K\n[AZKi] Nekonarabaikeru: 100K\n[Gura] Target For Love: 1M\n[Botan] Animal: 500K",
       "bbox": {
-        "x": 0.1663,
-        "y": 0.2001,
-        "width": 0.3206,
-        "height": 0.0846
+        "x": 0.0508,
+        "y": 0.1624,
+        "width": 0.44,
+        "height": 0.1389
       }
     },
     {
       "type": "paragraph",
-      "text": "[Botan] Animal: 500K",
+      "text": "01/06\n[AZKi] Midnight Song: 75K\n[Calliope/Inoue] Yona Yona Journey: 250K",
       "bbox": {
-        "x": 0.3006,
-        "y": 0.2891,
-        "width": 0.1856,
-        "height": 0.0135
+        "x": 0.5108,
+        "y": 0.2308,
+        "width": 0.4369,
+        "height": 0.0363
       }
     },
     {
       "type": "paragraph",
-      "text": "[La+] God-ish: 5M [Lui] Rabuka: 500K [Toko/Suisei] Easter Carnival: 500K",
+      "text": "01/07\n[La+] God-ish: 5M\n[Lui] Rabuka: 500K\n[Toko/Suisei] Easter Carnival: 500K\n[Watame/Botan] Shishiwata Cooking: 250K\n[Watame] My Song: 250K",
       "bbox": {
-        "x": 0.1737,
-        "y": 0.3225,
-        "width": 0.3125,
-        "height": 0.049
+        "x": 0.0508,
+        "y": 0.3194,
+        "width": 0.44,
+        "height": 0.0876
       }
     },
     {
       "type": "paragraph",
-      "text": "[Astel/Oga] Airhead: 50K [HoloEN 1/2/Hope] Ochame Kinou: 2M",
+      "text": "01/08\n[Reine] Usseewa: 750K\n[Kiara/Ina] I~ya I~ya I~ya: 1M\n[Kiara] Hinotori (Lone Alpha Remix): 100K",
       "bbox": {
-        "x": 0.145,
-        "y": 0.4453,
-        "width": 0.3419,
-        "height": 0.0313
+        "x": 0.5108,
+        "y": 0.2831,
+        "width": 0.4369,
+        "height": 0.0524
       }
     },
     {
       "type": "paragraph",
-      "text": "[Ollie/Astel] Okochama Sensou: 500K [Suisei/Taku Inoue] 3:12: 2M [Fubuki] Animal: 750K",
+      "text": "01/09\n[Towa] FACT: 500K\n[Astel/Oga] Airhead: 50K\n[HoloEN 1/2/Hope] Ochame Kinou: 2M\n[EN1] Journey Like A Thousand Years: 250K\n[Ollie/Astel] Okochama Sensou: 500K\n[Suisei/Taku Inoue] 3:12: 2M\n[Fubuki] Animal: 750K",
       "bbox": {
-        "x": 0.1544,
-        "y": 0.4987,
-        "width": 0.3325,
-        "height": 0.049
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "v CHANSON",
-      "bbox": {
-        "x": 0.3206,
-        "y": 0.5803,
-        "width": 0.0994,
-        "height": 0.0078
+        "x": 0.0508,
+        "y": 0.4241,
+        "width": 0.44,
+        "height": 0.1229
       }
     },
     {
       "type": "other",
-      "text": "CHANSON",
+      "text": "5 MILLIONS DE VUES !",
       "bbox": {
-        "x": 0.0481,
-        "y": 0.5799,
-        "width": 0.065,
-        "height": 0.0122
+        "x": 0.5585,
+        "y": 0.5321,
+        "width": 0.3385,
+        "height": 0.0182
       }
     },
     {
       "type": "other",
-      "text": "Te ORIGINALE",
+      "text": "CHANSON ORIGINALE\nTowa\nFACT",
       "bbox": {
-        "x": 0.3531,
-        "y": 0.5859,
-        "width": 0.1056,
-        "height": 0.0091
+        "x": 0.04,
+        "y": 0.5801,
+        "width": 0.3,
+        "height": 0.1154
       }
     },
     {
       "type": "other",
-      "text": "ORIGINALE",
+      "text": "CHANSON ORIGINALE\nHololive English -Myth-\nJOURNEY LIKE A THOUSAND YEARS",
       "bbox": {
-        "x": 0.0456,
-        "y": 0.5894,
-        "width": 0.07,
-        "height": 0.0056
+        "x": 0.3462,
+        "y": 0.5801,
+        "width": 0.3062,
+        "height": 0.1154
       }
     },
     {
-      "type": "paragraph",
-      "text": "REPRISE ORIGINAL",
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nWatame\nMY SONG",
       "bbox": {
-        "x": 0.845,
-        "y": 0.053,
-        "width": 0.1,
-        "height": 0.0252
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Moona] Again: 250K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.1311,
-        "width": 0.185,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Lamy/Botan] Lion: 500K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.1489,
-        "width": 0.2169,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[AZKi] Where Fate Takes Us: 75K [Aqua] Indoor Kei Nara Trackmaker: TM [Polka] Kaikaikitan: 500K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.1667,
-        "width": 0.35,
-        "height": 0.049
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[AZKi] Midnight Song: 75K [Calliope/Inoue] Yona Yona Journey: 250K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2357,
-        "width": 0.3756,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[Reine] Usseewa: 750K [Kiara/Ina] I~ya I~ya I~ya: 1M [Kiara] Hinotori (Lone Alpha Remix): 100K",
-      "bbox": {
-        "x": 0.5138,
-        "y": 0.2869,
-        "width": 0.3694,
-        "height": 0.049
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Towa FACT",
-      "bbox": {
-        "x": 0.0531,
-        "y": 0.6502,
-        "width": 0.1181,
-        "height": 0.0334
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "JOURNEY LIKE A THOUSAND YEARS",
-      "bbox": {
-        "x": 0.3581,
-        "y": 0.6641,
-        "width": 0.2288,
-        "height": 0.0221
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Watame MY SONG",
-      "bbox": {
-        "x": 0.6637,
-        "y": 0.6497,
-        "width": 0.21,
-        "height": 0.0343
+        "x": 0.6523,
+        "y": 0.5801,
+        "width": 0.3062,
+        "height": 0.1154
       }
     },
     {
@@ -233,6 +143,26 @@
         "y": 0.7227,
         "width": 0.5375,
         "height": 0.0343
+      }
+    },
+    {
+      "type": "other",
+      "text": "Role:Play\nTOKINO SORA THEATRICAL COVER LIVE\n2022.1.22",
+      "bbox": {
+        "x": 0.2692,
+        "y": 0.8932,
+        "width": 0.2277,
+        "height": 0.0641
+      }
+    },
+    {
+      "type": "other",
+      "text": "MINATO AQUA ONEMAN LIVE 2022\nAQUA IRO IN WONDERLAND\n2022.1.28 FRI. 豊洲PIT",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.8333,
+        "width": 0.1308,
+        "height": 0.0214
       }
     }
   ],

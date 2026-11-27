@@ -3,16 +3,46 @@
   "issueId": "holonews_french_1710_-_2310",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "other",
+      "text": "WOW!!!",
+      "bbox": {
+        "x": 0.2625,
+        "y": 0.171,
+        "width": 0.2156,
+        "height": 0.0768
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Luna",
+      "bbox": {
+        "x": 0.1412,
+        "y": 0.3207,
+        "width": 0.0975,
+        "height": 0.0234
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "La partiton de la chanson originale de Luna, « Absolute Loyalty Ÿ Nanonanora! » et celle de « Kiseki Musubi » de la 4ème génération d’hololive ont été publiées dans le magazine Monthly Electone.",
+      "text": "La partition de la chanson originale de Luna, « Absolute Loyalty ♡ Nanonanora! » et celle de « Kiseki Musubi » de la 4ème génération d’hololive ont été publiées dans le magazine Monthly Electone.",
       "bbox": {
         "x": 0.0444,
         "y": 0.3611,
         "width": 0.445,
         "height": 0.0512
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.1212,
+        "y": 0.4266,
+        "width": 0.1425,
+        "height": 0.0217
       }
     },
     {
@@ -26,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.6088,
+        "y": 0.1992,
+        "width": 0.1425,
+        "height": 0.0239
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Marine a révélé que son équipage était semblable a un travail au noir lorsque ses fans ont demandé leur salaire pour faire partie de son équipage. La pirate cosplayeuse a répondu d’un air suffisant que leur récompense était de pouvoir « voir son joli visage et de petits aperçus de sa culotte de temps en temps », alors comment osent-ils demander un salaire ? Ses fans ont alors menacé de démissionner et d'aller au ministère du Travail, mais Marine s'est moquée d'eux en leur faisant remarquer que puisqu'ils étaient des pirates, le ministère du Travail ne les aiderait pas, et que c'était grâce à elle qu'ils avaient réussi à s'en sortir jusqu'à présent. Son équipage n'est vraiment pas une secte.",
+      "text": "Marine a révélé que son équipage était semblable à un travail au noir lorsque ses fans ont demandé leur salaire pour faire partie de son équipage. La pirate cosplayeuse a répondu d’un air suffisant que leur récompense était de pouvoir « voir son joli visage et de petits aperçus de sa culotte de temps en temps », alors comment osent-ils demander un salaire ? Ses fans ont alors menacé de démissionner et d'aller au ministère du Travail, mais Marine s'est moquée d'eux en leur faisant remarquer que puisqu'ils étaient des pirates, le ministère du Travail ne les aiderait pas, et que c'était grâce à elle qu'ils avaient réussi à s'en sortir jusqu'à présent. Son équipage n’est vraiment pas une secte.",
       "bbox": {
         "x": 0.51,
         "y": 0.2357,
@@ -36,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.5875,
+        "y": 0.6111,
+        "width": 0.1419,
+        "height": 0.0226
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Notre chère pirate Marine a été trahie par le tchat : ils l'ont dénoncée à Pekora à propos de ses plans pour leur prochaine collab chez elle. Après qu’elle ait dit clairement au tchat de ne pas le faire, le tchat a dit a Pekora que Marine « était impatiente à l’idée que Pekora resterait peut-être chez elle ». Pekora a alors juré qu'elle allait fuir dès que le stream prendrait fin, même si elle devait prendre un taxi. Plus tard, Marine, furieuse, a demandé au tchat de s'excuser en s'agenouillant, sinon elle n'arrêterait jamais de sautiller. Pauvre Marine. _",
+      "text": "Notre chère pirate Marine a été trahie par le tchat : ils l’ont dénoncée à Pekora à propos de ses plans pour leur prochaine collab chez elle. Après qu’elle ait dit clairement au tchat de ne pas le faire, le tchat a dit a Pekora que Marine « était impatiente à l’idée que Pekora resterait peut-être chez elle ». Pekora a alors juré qu’elle allait fuir dès que le stream prendrait fin, même si elle devait prendre un taxi. Plus tard, Marine, furieuse, a demandé au tchat de s’excuser en s’agenouillant, sinon elle n'arrêterait jamais de sautiller. Pauvre Marine.",
       "bbox": {
         "x": 0.51,
         "y": 0.6523,

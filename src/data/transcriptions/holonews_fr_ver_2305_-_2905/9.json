@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2305_-_2905",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.3846,
+        "width": 0.1246,
+        "height": 0.0235
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour l'ilustration de cette semaine, Gammaa fini de dessiner Miyabi. Il a également publié le processus de son illustration.",
+      "text": "Pour l’illustration de cette semaine, Gamma a fini de dessiner Miyabi. Il a également publié le processus de son illustration.",
       "bbox": {
         "x": 0.0712,
         "y": 0.4245,
@@ -26,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.1662,
+        "y": 0.6239,
+        "width": 0.0862,
+        "height": 0.0224
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Dans la dernière discussion libre d’Izuru, il a partagé qu'il avait du mal à trouver un nouvel endroit où se loger. Avec l'emploi du temps actuel d'HOLOSTARS, il voulait rester proche de Tokyo où il n'aurait pas besoin de changer de train chaque fois qu'il veut y aller. Izuru est connu comme étant un garçon de la campagne qui adore aller à la mer, ne pouvant pas s'en passer.ll devra peut-être sacrifier son amour de la nature, de la natation ou de la pêche, mais Izuru a déclaré qu'il ferait un compromis si cela pouvait l'aider à trouver un logement plus proche de la ville",
+      "text": "Dans la dernière discussion libre d’Izuru, il a partagé qu’il avait du mal à trouver un nouvel endroit où se loger. Avec l’emploi du temps actuel d’HOLOSTARS, il voulait rester proche de Tokyo où il n’aurait pas besoin de changer de train chaque fois qu’il veut y aller. Izuru est connu comme étant un garçon de la campagne qui adore aller à la mer, ne pouvant pas s’en passer.Il devra peut-être sacrifier son amour de la nature, de la natation ou de la pêche, mais Izuru a déclaré qu'il ferait un compromis si cela pouvait l'aider à trouver un logement plus proche de la ville",
       "bbox": {
         "x": 0.0706,
         "y": 0.6606,
@@ -37,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Il a dit qu’il n'avait qu’une seule condition pour son nouveau logement : avoir une pièce insonorisée. Il est déjà passé par plusieurs agents mais chaque proposition qu'il a reçue ne convenait pas à sa condition. Ses spectateurs lui ont également suggéré plusieurs choses, mais soit c'était trop cher, soit Izuru y avait déjà pensé.",
+      "text": "Il a dit qu’il n’avait qu’une seule condition pour son nouveau logement : avoir une pièce insonorisée. Il est déjà passé par plusieurs agents mais chaque proposition qu’il a reçue ne convenait pas à sa condition. Ses spectateurs lui ont également suggéré plusieurs choses, mais soit c’était trop cher, soit Izuru y avait déjà pensé.",
       "bbox": {
         "x": 0.07,
         "y": 0.849,
@@ -46,8 +66,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Fuma & Rio",
+      "bbox": {
+        "x": 0.6569,
+        "y": 0.172,
+        "width": 0.1815,
+        "height": 0.0224
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Fuma a fait une deuxième visite du serveur Minecraft d'HOLOSTARS avec Rio comme guide. Ils ont premièrement parcouru à pieds, en partant du village d'UPROAR, pour aller au village de Temma, ils ont dû traverser environ 5 biomes. Puis, ils sont retournés au village d'UPROAR en utilisant cette fois-ci un portail du Nether qu'Astel à construit pour un accès facile. Rio a donné des conseils à Fuma pour ce qu'il faut faire et ne pas faire à l'intérieur du portail comme ouvrir un coffre de l'Ender. Après un peu de temps, Gamma a rejoint l'appel vocal pour aider les deux à développer leur village.",
+      "text": "Fuma a fait une deuxième visite du serveur Minecraft d’HOLOSTARS avec Rio comme guide. Ils ont premièrement parcouru à pieds, en partant du village d’UPROAR, pour aller au village de Temma, ils ont dû traverser environ 5 biomes. Puis, ils sont retournés au village d’UPROAR en utilisant cette fois-ci un portail du Nether qu’Astel à construit pour un accès facile. Rio a donné des conseils à Fuma pour ce qu’il faut faire et ne pas faire à l’intérieur du portail comme ouvrir un coffre de l’Ender. Après un peu de temps, Gamma a rejoint l’appel vocal pour aider les deux à développer leur village.",
       "bbox": {
         "x": 0.5369,
         "y": 0.2144,
@@ -56,78 +86,28 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Rikka a donné une sérénade à son public en",
+      "type": "heading",
+      "text": "Rikka",
       "bbox": {
-        "x": 0.5381,
+        "x": 0.6338,
+        "y": 0.5064,
+        "width": 0.0892,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka a donné une sérénade à son public en s'accompagnant lui-même, mais avec une particularité. Il a chanté avec son micro d’ASMR. Il a mentionné le fait que c’était dur de choisir des chansons pour chanter avec car il ne peut pas être trop bruyant. Les quelques chansons qu’il a chanté sont : « Mikazuki » d’Ayaka, « Homura » de LiSA, ainsi que « LOVE » et « Kimi ga Ita Natsu » par Mr. Children.",
+      "bbox": {
+        "x": 0.5375,
         "y": 0.543,
-        "width": 0.3544,
-        "height": 0.013
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "s'accompagnant lui-même, mais avec une articularité. Il a chanté avec son micro d’ASMR. I a mentionné le fait que c’était dur de choisir",
-      "bbox": {
-        "x": 0.5375,
-        "y": 0.5547,
         "width": 0.3856,
-        "height": 0.0356
+        "height": 0.1059
       }
     },
     {
       "type": "paragraph",
-      "text": "des chansons pour chanter avec car il ne peut",
-      "bbox": {
-        "x": 0.5375,
-        "y": 0.5898,
-        "width": 0.3675,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "pas être trop bruyant. Les quelques chansons",
-      "bbox": {
-        "x": 0.5381,
-        "y": 0.6016,
-        "width": 0.3638,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "qu'il a chanté sont : « Mikazuki » d’Ayaka,",
-      "bbox": {
-        "x": 0.5375,
-        "y": 0.6133,
-        "width": 0.3313,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "« Homura » de LiSA, ainsi que « LOVE » et",
-      "bbox": {
-        "x": 0.5425,
-        "y": 0.625,
-        "width": 0.3469,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "« Kimi ga Ita Natsu » par Mr. Children.",
-      "bbox": {
-        "x": 0.5375,
-        "y": 0.6367,
-        "width": 0.3031,
-        "height": 0.0122
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Il y a eu quelques annonces durant le stream concernant des nouvelles choses pour les membres ainsi que ses produits dérivés d'anniversaire se sont bien vendues. Il a d’ailleurs remercié ses fans pour lui avoir envoyé des lettres, il en est très content et a ressentis plus de vigueur après les avoir lus. ernierement, il a annoncé que son clip pour sa dernière chanson « Mizugiwa Endroll » sera publié la semaine prochaine alors gardez un œil dessus !",
+      "text": "Il y a eu quelques annonces durant le stream concernant des nouvelles choses pour les membres ainsi que ses produits dérivés d’anniversaire se sont bien vendues. Il a d’ailleurs remercié ses fans pour lui avoir envoyé des lettres, il en est très content et a ressentis plus de vigueur après les avoir lus. Dernièrement, il a annoncé que son clip pour sa dernière chanson « Mizugiwa Endroll » sera publié la semaine prochaine alors gardez un œil dessus !",
       "bbox": {
         "x": 0.5375,
         "y": 0.6602,

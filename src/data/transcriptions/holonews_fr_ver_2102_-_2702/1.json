@@ -3,21 +3,61 @@
   "issueId": "holonews_fr_ver_2102_-_2702",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Botan de retour de son séjour d'une semaine a l'hôpital HoloID ont fini leur navire",
+      "type": "heading",
+      "text": "L’anniversaire d’Okayu",
       "bbox": {
-        "x": 0.0413,
-        "y": 0.2227,
-        "width": 0.2413,
-        "height": 0.145
+        "x": 0.04,
+        "y": 0.1697,
+        "width": 0.2062,
+        "height": 0.0438
       }
     },
     {
-      "type": "paragraph",
-      "text": "IEEE Assurez-vous de ne manquer aucune sortie en rejoignant r/HoloNews",
+      "type": "heading",
+      "text": "Botan de retour de son séjour d’une semaine à l’hôpital",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.2218,
+        "width": 0.2475,
+        "height": 0.089
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloID ont fini leur navire",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.3255,
+        "width": 0.215,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "heading",
+      "text": "L’anniversaire de Shien",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.3819,
+        "width": 0.2519,
+        "height": 0.0425
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La nouvelle tenue d’Izuru",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.4384,
+        "width": 0.2606,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "other",
+      "text": "Assurez-vous de ne manquer aucune sortie en rejoignant r/HoloNews",
       "bbox": {
         "x": 0.0163,
         "y": 0.9657,

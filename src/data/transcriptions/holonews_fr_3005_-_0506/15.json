@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_3005_-_0506",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.471,
+        "y": 0.014,
+        "width": 0.059,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "other",
+      "text": "PICKLE BREAR\nTIME.",
+      "bbox": {
+        "x": 0.072,
+        "y": 0.075,
+        "width": 0.37,
+        "height": 0.087
+      }
+    },
     {
       "type": "heading",
       "text": "Baelz",
@@ -17,12 +37,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Le tchat de Bae s'est moqué de son écriture durant un stream où elle apprenait le coréen. Tout a commencé lorsque Bae a écrit « PICKLE BREAK TIME » sur son stream. Cependant, à cause de la façon plutôt unique dont elle a écrit son « K », ont aurait plus dit un « R » à la place. Le tchat a commencé à spammer « BREAR » et a appelé Bae « HAROS ». Par conséquent, elle a oublié comment écrire son propre nom, l’écrivant ainsi « HAROS ». Autre bizarreries : son « P » ressemblait à un « D » et son « h » ressemblait lui à UN « N », donnant ainsi « mahway » au lieu de « highway ».",
+      "text": "Le tchat de Bae s’est moqué de son écriture durant un stream où elle apprenait le coréen. Tout a commencé lorsque Bae a écrit « PICKLE BREAK TIME » sur son stream. Cependant, à cause de la façon plutôt unique dont elle a écrit son « K », ont aurait plus dit un « R » à la place. Le tchat a commencé à spammer « BREAR » et a appelé Bae « HAROS ». Par conséquent, elle a oublié comment écrire son propre nom, l’écrivant ainsi « HAROS ». Autre bizarreries : son « P » ressemblait à un « D » et son « h » ressemblait lui à un « n », donnant ainsi « mqhway » au lieu de « highway ».",
       "bbox": {
         "x": 0.0712,
         "y": 0.2179,
         "width": 0.3888,
         "height": 0.1823
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kronii",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.458,
+        "width": 0.102,
+        "height": 0.027
       }
     },
     {
@@ -36,28 +66,38 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kronii",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.69,
+        "width": 0.102,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Kronii a organisé un stream discussion pendant lequel elle a discuté de son experience pendant l’Anime Boston. Elle a été impressionné par les cosplays et a noté qu'il y avait de nombreuses Kroniis. Elle était si éblouie par une cosplayeuse de Mumei qu'elle a crié « OMG KRONMEI », quand elles ont pris une photo ensemble. Durant la rencontre avec ses spectateurs, elle a expliqué à quel point elle était nerveuse mais qu'elle s'est énormément amusé en interagissant avec ses fans. Le reste du stream était porté sur une miriade de sujet différents : des différents variétés de thé, au meme « Morbing », en passant par le fim live-action de « Dragon",
+      "text": "Kronii a organisé un stream discussion pendant lequel elle a discuté de son experience pendant l’Anime Boston. Elle a été impressionné par les cosplays et a noté qu'il y avait de nombreuses Kroniis. Elle était si éblouie par une cosplayeuse de Mumei qu'elle a crié « OMG KRONMEI », quand elles ont pris une photo ensemble. Durant la rencontre avec ses spectateurs, elle a expliqué à quel point elle était nerveuse mais qu'elle s'est énormément amusé en interagissant avec ses fans. Le reste du stream était porté sur une miriade de sujet différents : des différents variétés de thé, au meme « Morbing », en passant par le fim live-action de « Dragon Ball » et même du fait que le Canada n’existe pas ! N’hésitez pas à regarder les stream de Kronii.",
       "bbox": {
         "x": 0.0725,
         "y": 0.7287,
         "width": 0.3863,
-        "height": 0.2014
+        "height": 0.2388
       }
     },
     {
-      "type": "paragraph",
-      "text": "Ball » et même du fait que le Canada n’existe pas ! N'hésitez pas à regarder les stream de Kronii.",
+      "type": "heading",
+      "text": "Kiara & IRyS",
       "bbox": {
-        "x": 0.0738,
-        "y": 0.9306,
-        "width": 0.3762,
-        "height": 0.0369
+        "x": 0.655,
+        "y": 0.098,
+        "width": 0.196,
+        "height": 0.028
       }
     },
     {
       "type": "paragraph",
-      "text": "Kikkeriki ! Kiara a donné une leçon d’allemand à IRyS pour la préparer à sa première participation à la DoKomi, une convention d'animé en Allemagne. Toutes les deux font leur apparition séparément.",
+      "text": "Kikkeriki ! Kiara a donné une leçon d’allemand à IRyS pour la préparer à sa première participation à la DoKomi, une convention d’animé en Allemagne. Toutes les deux font leur apparition séparément.",
       "bbox": {
         "x": 0.5375,
         "y": 0.138,
@@ -67,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Kiara n'avait qu’une heure pour apprendre les bases à IRyS, qui avait son vol pour l'Allemagne juste après. Cependant, elles ont réussit à voir les bases d’une conversation en allemand et, le plus important, elle a appris à IRyS comment dire « J'aime les grosses fesses et je ne peux pas le nier ». Apparemment, les « grosses fesses » sont vraiment importantes dans la culture Allemande. YabalRyS a aussi fait son apparition, quand elle a demandé à Kiara comment dire « seins » en Allemand. Danke schon, Kiara !",
+      "text": "Kiara n’avait qu’une heure pour apprendre les bases à IRyS, qui avait son vol pour l’Allemagne juste après. Cependant, elles ont réussit à voir les bases d’une conversation en allemand et, le plus important, elle a appris à IRyS comment dire « J'aime les grosses fesses et je ne peux pas le nier ». Apparemment, les « grosses fesses » sont vraiment importantes dans la culture Allemande. YabalRyS a aussi fait son apparition, quand elle a demandé à Kiara comment dire « seins » en Allemand. Danke schön, Kiara !",
       "bbox": {
         "x": 0.5375,
         "y": 0.214,
@@ -76,8 +116,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.505,
+        "width": 0.073,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 31 mai, IRyS a publié une reprise de « INTERNET OVERDOSE » par d'Aioban, la chanson originale de Needy Streamer Overload. Le reprise du clip vidéo original a été fait par Riguruma avec l'aide de lzumikei pour les illustrations, animé par Akashibag et ’image de fond dessinés par RenPC. Dans un stream juste après la diffusion en première de la reprise, IRyS a montré en détails l'illustration de fond de RenPC, incluant ses produits dérivés d'anniversaire. On a aussi pu écouter une version a cappella de la reprise, qui embarassait IRyS. Tout le long du stream, elle a fait un peu de karaoke, avec l’une de ses nouvelles chansons originals, « Till the end of me » (« Shinzou ga Tomaru Made »).",
+      "text": "Le 31 mai, IRyS a publié une reprise de « INTERNET OVERDOSE » par d'Aioban, la chanson originale de Needy Streamer Overload. Le reprise du clip vidéo original a été fait par Riguruma avec l’aide de Izumikei pour les illustrations, animé par Akashibag et l’image de fond dessinés par RenPC. Dans un stream juste après la diffusion en première de la reprise, IRyS a montré en détails l’illustration de fond de RenPC, incluant ses produits dérivés d’anniversaire. On a aussi pu écouter une version a cappella de la reprise, qui embarassait IRyS. Tout le long du stream, elle a fait un peu de karaoke, avec l’une de ses nouvelles chansons originals, « Till the end of me » (« Shinzou ga Tomaru Made »).",
       "bbox": {
         "x": 0.5387,
         "y": 0.5443,
@@ -86,8 +136,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.804,
+        "width": 0.073,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Lors de son stream d'apprentissage de l'allemand, Kiara a appris à IRyS à dire « J'aime les grosses fesses et je ne peux pas le nier », et IRyS a réutilisé cette phrase à Dokomi. Elle a exprimé sa préférence pour les seins et a demandé à ses spectateurs s'il préférait les fesses ou les seins.",
+      "text": "Lors de son stream d’apprentissage de l’allemand, Kiara a appris à IRyS à dire « J’aime les grosses fesses et je ne peux pas le nier », et IRyS a réutilisé cette phrase à Dokomi. Elle a exprimé sa préférence pour les seins et a demandé à ses spectateurs s'il préférait les fesses ou les seins.",
       "bbox": {
         "x": 0.5387,
         "y": 0.8438,

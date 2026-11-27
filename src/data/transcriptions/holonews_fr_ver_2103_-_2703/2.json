@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_2103_-_2703",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Ceres Fauna",
+      "bbox": {
+        "x": 0.033,
+        "y": 0.031,
+        "width": 0.421,
+        "height": 0.093
+      }
+    },
     {
       "type": "paragraph",
       "text": "Fauna a fêté son anniversaire avec un court karaoké et en recevant des appels la semaine dernière ! Beaucoup de membres des branches EN et ID d'hololive ont fait leur apparition dans son stream « Fanjoubi » spécial anniversaire. Lui et Polka sont également passées, tandis que Watame a envoyé une vidéo en promettant une collaboration. Chaque visiteur a eu la possibilité de faire tourner une roue pour obtenir des punitions ou des récompenses.",
@@ -13,6 +23,56 @@
         "y": 0.7458,
         "width": 0.3589,
         "height": 0.1906
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les horaires habituels de stream de Fauna ont donné l'opportunité de profiter des voix matinales de beaucoup d'interlocutrices, et plusieurs ont également apporté des cadeaux sous forme de dessins.",
+      "bbox": {
+        "x": 0.572,
+        "y": 0.519,
+        "width": 0.399,
+        "height": 0.069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les produits dérivés de l'anniversaire de Fauna consistent en un ensemble basé sur le thème « normale et yandere ». On y retrouve les articles suivants :",
+      "bbox": {
+        "x": 0.572,
+        "y": 0.599,
+        "width": 0.398,
+        "height": 0.055
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- Un sweat-shirt en coton de taille XXL arborant une illustration par Asagi\n- Un porte-clés en acrylique à deux faces avec des dessins de Tanukii\n- Un set de tasses et soucoupes Qilin en porcelaine\n- Un ensemble de voix ASMR douces et yandere\n- Un ensemble de voix d'alarme",
+      "bbox": {
+        "x": 0.572,
+        "y": 0.667,
+        "width": 0.383,
+        "height": 0.124
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’achat de l’ensemble complet donne droit à une carte postale avec une illustration dessinée par Fauna elle-même.",
+      "bbox": {
+        "x": 0.572,
+        "y": 0.802,
+        "width": 0.393,
+        "height": 0.041
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a terminé le stream en regardant une compilation de clips choisis par ses fans et a annoncé sa première chanson originale qui sortira fin avril, en collaboration avec Shibayan Records, dont elle est une grande fan ! Elle a remercié sa communauté pour tout le soutien apporté à la réalisation de tant de ses rêves. Joyeux anniversaire, Fauna !",
+      "bbox": {
+        "x": 0.572,
+        "y": 0.855,
+        "width": 0.401,
+        "height": 0.125
       }
     }
   ],

@@ -3,11 +3,41 @@
   "issueId": "holonews_holoid03_debut_special_-_fr_version",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Vestia Zeta",
+      "bbox": {
+        "x": 0.0746,
+        "y": 0.2315,
+        "width": 0.0778,
+        "height": 0.0364
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kaela Kovalskia",
+      "bbox": {
+        "x": 0.3571,
+        "y": 0.2315,
+        "width": 0.0968,
+        "height": 0.0364
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kobo Kanaeru",
+      "bbox": {
+        "x": 0.6571,
+        "y": 0.2315,
+        "width": 0.0905,
+        "height": 0.0364
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après chaque début, les nouveaux membres d'holoIDO3 se sont réunis pour parler de leurs débuts et montrer leurs liens.",
+      "text": "Après chaque début, les nouveaux membres d'holoID03 se sont réunis pour parler de leurs débuts et montrer leurs liens.",
       "bbox": {
         "x": 0.0269,
         "y": 0.352,

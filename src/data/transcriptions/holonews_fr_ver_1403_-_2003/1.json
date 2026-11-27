@@ -3,16 +3,26 @@
   "issueId": "holonews_fr_ver_1403_-_2003",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Anniversaire de Koyori * Hololive Expo",
+      "type": "other",
+      "text": "Anniversaire de Koyori • Hololive Expo",
       "bbox": {
         "x": 0.0638,
         "y": 0.0087,
         "width": 0.5175,
         "height": 0.02
+      }
+    },
+    {
+      "type": "other",
+      "text": "Anniversaire de Kronii",
+      "bbox": {
+        "x": 0.6713,
+        "y": 0.0087,
+        "width": 0.2631,
+        "height": 0.0135
       }
     },
     {
@@ -26,13 +36,63 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Anniversaire de Kronii",
+      "type": "heading",
+      "text": "Hololive 3rd Fest",
       "bbox": {
-        "x": 0.6713,
-        "y": 0.0087,
-        "width": 0.2631,
-        "height": 0.0135
+        "x": 0.025,
+        "y": 0.1866,
+        "width": 0.3156,
+        "height": 0.0946
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru canard",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.2951,
+        "width": 0.2025,
+        "height": 0.0712
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Live2D 3.0",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.3832,
+        "width": 0.21,
+        "height": 0.0734
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nouvelle marchandise",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.7413,
+        "width": 0.3663,
+        "height": 0.0712
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nouvelle génération d’holostars",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.8303,
+        "width": 0.3063,
+        "height": 0.1111
+      }
+    },
+    {
+      "type": "heading",
+      "text": "De retour avec un nouveau design",
+      "bbox": {
+        "x": 0.7544,
+        "y": 0.77,
+        "width": 0.23,
+        "height": 0.1806
       }
     }
   ],

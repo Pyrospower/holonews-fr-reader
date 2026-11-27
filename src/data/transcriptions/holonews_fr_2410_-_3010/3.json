@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_2410_-_3010",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "AYUNDA RISU",
+      "bbox": {
+        "x": 0.023,
+        "y": 0.095,
+        "width": 0.365,
+        "height": 0.296
+      }
+    },
     {
       "type": "paragraph",
       "text": "La nouvelle tenue de Risu a une esthétique cyberpunk, avec du vert clair, du magenta, du rose et du gris clair comme couleurs principales.",
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle a également présenté une coupe de cheveux légèrement = différente que d'habitude, avec des nuances rose, des épingles à cheveux, ainsi qu'une longue mèche sur un côté.",
+      "text": "Elle a également présenté une coupe de cheveux légèrement différente que d’habitude, avec des nuances rose, des épingles à cheveux, ainsi qu'une longue mèche sur un côté.",
       "bbox": {
         "x": 0.0744,
         "y": 0.7109,

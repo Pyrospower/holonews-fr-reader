@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_lite_2712_-_0201",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -26,13 +26,73 @@
       }
     },
     {
+      "type": "other",
+      "text": "COMING SOON",
+      "bbox": {
+        "x": 0.1369,
+        "y": 0.1528,
+        "width": 0.095,
+        "height": 0.0078
+      }
+    },
+    {
+      "type": "other",
+      "text": "Mori Calliope • Takanashi Kiara • Ninomae Ina’nis",
+      "bbox": {
+        "x": 0.0788,
+        "y": 0.2786,
+        "width": 0.38,
+        "height": 0.0082
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Les filles d’holoMyth viendront bientôt s'ajouter au catalogue des figurines de la gamme POP UP PARADE produites par Good Smile Company, créateurs des renommées figurines Nendoroid.",
+      "text": "Les filles d’holoMyth viendront bientôt s’ajouter au catalogue des figurines de la gamme POP UP PARADE produites par Good Smile Company, créateurs des renommées figurines Nendoroid.",
       "bbox": {
         "x": 0.0506,
         "y": 0.3438,
         "width": 0.4044,
         "height": 0.0794
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holo EN",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.3008,
+        "width": 0.1756,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "other",
+      "text": "VIRTUAL TALENT AUDITION\nHOLOLIVE PRODUCTION",
+      "bbox": {
+        "x": 0.51,
+        "y": 0.1758,
+        "width": 0.3831,
+        "height": 0.0825
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hololive Production a annoncé l’ouverture d’auditions permanentes pour Hololive English (la branche anglaise), ce qui signifie que vous pouvez maintenant soumettre votre candidature à tout instant !",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3446,
+        "width": 0.42,
+        "height": 0.076
+      }
+    },
+    {
+      "type": "heading",
+      "text": "AFM",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.7361,
+        "width": 0.1056,
+        "height": 0.0213
       }
     },
     {
@@ -47,26 +107,6 @@
     },
     {
       "type": "heading",
-      "text": "Holo EN",
-      "bbox": {
-        "x": 0.5219,
-        "y": 0.3008,
-        "width": 0.1756,
-        "height": 0.0217
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Hololive Production a annoncé l’ouverture d'auditions permanentes pour Hololive English (la branche anglaise), ce qui signifie que vous pouvez maintenant soumettre votre candidature à tout instant !",
-      "bbox": {
-        "x": 0.5225,
-        "y": 0.3446,
-        "width": 0.42,
-        "height": 0.076
-      }
-    },
-    {
-      "type": "heading",
       "text": "AFM-Radio",
       "bbox": {
         "x": 0.5213,
@@ -77,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La nouvelle émission radio d’hololive « Emission radio routière des idols d’hololive - écoutez nos chansons ! » sera diffusée sur la station Nippon Cultural Broadcasting Super! A&G+ chaque dimanche à 17:30 JST ! L'émission sera animée par les membres de « Irohanihohetto Ayafubumi » le 9 janvier 2022.",
+      "text": "La nouvelle émission radio d’hololive « Émission radio routière des idols d’hololive - écoutez nos chansons ! » sera diffusée sur la station Nippon Cultural Broadcasting Super! A&G+ chaque dimanche à 17:30 JST ! L’émission sera animée par les membres de « Irohanihohetto Ayafubumi » le 9 janvier 2022.",
       "bbox": {
         "x": 0.5219,
         "y": 0.7773,

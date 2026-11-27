@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_2208_-_2808",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "#faunaversary",
+      "bbox": {
+        "x": 0.0778,
+        "y": 0.0671,
+        "width": 0.6222,
+        "height": 0.0733
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Fauna a célébré l'anniversaire de ses débuts (trois jours après la vraie date) avec un stream endurance de douze heures présentant un contenu varié.",
+      "text": "Fauna a célébré l’anniversaire de ses débuts (trois jours après la vraie date) avec un stream endurance de douze heures présentant un contenu varié.",
       "bbox": {
         "x": 0.0783,
         "y": 0.2257,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle a joué a plusieurs jeux, dont Getting Over It (deux fois), Skyrim et Fall Guys, ainsi qu'UNO avec Calli, Ina et Gura. Elle a également joué a quelques jeux de The Jackbox Party Pack 8 en compagnie de Gura, Bae, Kronii et Ame.",
+      "text": "Elle a joué à plusieurs jeux, dont Getting Over It (deux fois), Skyrim et Fall Guys, ainsi qu’UNO avec Calli, Ina et Gura. Elle a également joué à quelques jeux de The Jackbox Party Pack 8 en compagnie de Gura, Bae, Kronii et Ame.",
       "bbox": {
         "x": 0.0778,
         "y": 0.2998,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle a également réagi a son premier stream, a fait plusieurs tier lists concernant les filles d'holoEN, et a fait une courte FAQ avec les Saplings.",
+      "text": "Elle a également réagi à son premier stream, a fait plusieurs tier lists concernant les filles d’holoEN, et a fait une courte FAQ avec les Saplings.",
       "bbox": {
         "x": 0.0789,
         "y": 0.4028,
@@ -37,7 +47,27 @@
     },
     {
       "type": "paragraph",
-      "text": "L'anniversaire du début de Bae le 26 août (PST) a commencé avec cette dernière jetant un œil à un livre digital réalisé par les membres de Bae's Sewer Rats (un serveur de fans sur Discord) et incluant des dessins et des messages de la part de Baerats du monde entier.",
+      "text": "Avant de lancer Outlast, Fauna a expliqué à ceux qui regarderaient la rediffusion que le stream dure onze heures et non douze puisque celui-ci se termine par un karaoké non archivé d’une heure",
+      "bbox": {
+        "x": 0.5233,
+        "y": 0.3881,
+        "width": 0.3983,
+        "height": 0.071
+      }
+    },
+    {
+      "type": "heading",
+      "text": "#ONERATYEAR",
+      "bbox": {
+        "x": 0.0756,
+        "y": 0.5525,
+        "width": 0.6578,
+        "height": 0.0532
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’anniversaire du début de Bae le 26 août (PST) a commencé avec cette dernière jetant un œil à un livre digital réalisé par les membres de Bae's Sewer Rats (un serveur de fans sur Discord) et incluant des dessins et des messages de la part de Baerats du monde entier.",
       "bbox": {
         "x": 0.0778,
         "y": 0.6501,
@@ -47,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La reprise de Bae de « A Million Miles Away » du film BELLE est sortie pendant le stream. Elle est illustrée et animée Alice Magic et le refrain contient les voix de plusieurs holomems telles que Sora, Risu et Ame, mais aussi celles de Miyabi, Astel et Shien d'HOLOSTARS. Bae a aussi regardé son premier stream et a 5 = La la Bae du passé de couper l'écho. Elle était également embarr par la qualité de son micro et choquée de voir qu'une des réponses au quiz sur son âge était « 12 ans en âge rat ».",
+      "text": "La reprise de Bae de « A Million Miles Away » du film BELLE est sortie pendant le stream. Elle est illustrée et animée par Alice Magic et le refrain contient les voix de plusieurs holomems telles que Sora, Risu et Ame, mais aussi celles de Miyabi, Astel et Shien d’HOLOSTARS. Bae a aussi regardé son premier stream et a supplié la Bae du passé de couper l’écho. Elle était également embarrassée par la qualité de son micro et choquée de voir qu’une des réponses au quiz sur son âge était « 12 ans en âge rat ».",
       "bbox": {
         "x": 0.0783,
         "y": 0.7623,
@@ -57,32 +87,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Avant de lancer Outlast, Fauna a expliqué a ceux qui regarderaient la rediffusion que le stream dure onze heures et non douze puisque celui-ci se termine par un karaoké non archivé d'une heure",
+      "text": "Elle fut suite à cela morte d'embrassement en écoutant Bae du passé chanter « Fuwa Fuwa Time » et a décidé de chanter cette chanson à nouveau, un an après. Elle a achevé le stream en chantant « A Million Miles Away » et nous a demandé de montrer tout notre amour pour sa reprise !",
       "bbox": {
         "x": 0.5233,
-        "y": 0.3881,
-        "width": 0.3983,
-        "height": 0.071
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Elle fut suite à cela morte dembrassement",
-      "bbox": {
-        "x": 0.5244,
         "y": 0.8422,
-        "width": 0.4733,
-        "height": 0.0154
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "en écoutant Bae du passé chanter « Fuwa Fuwa Time » et a décidé de chanter cette chanson à nouveau, un an après. Elle a achevé le stream en chantant « A Million Miles Away » et nous a demandé de montrer tout notre amour pour sa reprise !",
-      "bbox": {
-        "x": 0.5233,
-        "y": 0.8565,
-        "width": 0.3989,
-        "height": 0.0891
+        "width": 0.4744,
+        "height": 0.1034
       }
     }
   ],

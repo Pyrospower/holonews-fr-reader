@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_1312_-_1912",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "GEN 0",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.039,
+        "width": 0.22,
+        "height": 0.035
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.161,
+        "y": 0.212,
+        "width": 0.14,
+        "height": 0.025
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Dans son stream discussion de mercredi, Suisei a mis en avant ses collaborations du moment. Cependant, ses Hoshiyomis ont dû lui rappeler dans le tchat sa collaboration avec Skytree qu'elle avait totalement oubliée.",
+      "text": "Dans son stream discussion de mercredi, Suisei a mis en avant ses collaborations du moment. Cependant, ses Hoshiyomis ont dû lui rappeler dans le tchat sa collaboration avec Skytree qu’elle avait totalement oubliée.",
       "bbox": {
         "x": 0.0513,
         "y": 0.2552,
@@ -37,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Miko s’est plainte de l’air sec de sa piece malgré qu’elle possède deux humidificateurs et il s'est avéré qu’elle n’avait pas mis d’eau à l’intérieur. Elle a retenu l’attention du compte Twitter de la marque SHARP qui a répondu à un de ses clips en disant :",
+      "text": "Miko s’est plainte de l’air sec de sa pièce malgré qu’elle possède deux humidificateurs et il s’est avéré qu’elle n’avait pas mis d’eau à l’intérieur. Elle a retenu l’attention du compte Twitter de la marque SHARP qui a répondu à un de ses clips en disant :",
       "bbox": {
         "x": 0.0506,
         "y": 0.5981,
@@ -47,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "• SHARP n’est pas magicien. (Merci pour votre soutien, mais s’il vous plaît, remplissez le réservoir d’eau.) »",
+      "text": "« SHARP n’est pas magicien. (Merci pour votre soutien, mais s’il vous plaît, remplissez le réservoir d’eau.) »",
       "bbox": {
         "x": 0.05,
         "y": 0.7079,
@@ -66,8 +86,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.212,
+        "width": 0.14,
+        "height": 0.025
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "De la collaboration Suisei x Converse Tokyo est née une collection de vétements constituée d’un t-shirt blanc, d’un pull noir et d'un porte-clés. Elle sera disponible pour une durée limitée du 16 au 24 décembre.",
+      "text": "De la collaboration Suisei x Converse Tokyo est née une collection de vêtements constituée d’un t-shirt blanc, d’un pull noir et d’un porte-clés. Elle sera disponible pour une durée limitée du 16 au 24 décembre.",
       "bbox": {
         "x": 0.5231,
         "y": 0.2556,
@@ -76,13 +106,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Roboco",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.48,
+        "width": 0.17,
+        "height": 0.025
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Roboco a cuisiné un pot-au-feu pour le dîner et même des accompagnements allant avec le plat principal. Elle a également partagé l'histoire de sa visite à l'hôpital pour se faire retirer du verre de la jambe. Elle a expliqué que la partie la plus douloureuse avait été I'anesthésie locale. Son rétablissement se passe bien et elle prend des médicaments pour accélérer le processus.",
+      "text": "Roboco a cuisiné un pot-au-feu pour le dîner et même des accompagnements allant avec le plat principal. Elle a également partagé l'histoire de sa visite à l’hôpital pour se faire retirer du verre de la jambe. Elle a expliqué que la partie la plus douloureuse avait été l’anesthésie locale. Son rétablissement se passe bien et elle prend des médicaments pour accélérer le processus.",
       "bbox": {
         "x": 0.5231,
         "y": 0.5191,
         "width": 0.4088,
         "height": 0.1324
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.791,
+        "width": 0.108,
+        "height": 0.024
       }
     },
     {

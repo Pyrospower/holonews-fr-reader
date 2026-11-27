@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_3005_-_0506",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 4",
+      "bbox": {
+        "x": 0.441,
+        "y": 0.014,
+        "width": 0.118,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.179,
+        "width": 0.135,
+        "height": 0.027
+      }
+    },
     {
       "type": "paragraph",
       "text": "Watame a trahi les Watamates sur DEEEER Simulator, un jeu dans lequel le joueur incarne un cerf « moyen » qui sème le chaos dans la ville. Watame s'est lancée dans une fusillade et a fini par être poursuivie par la police des moutons (qu'elle surnomme Watamates). Elle s'est alors mise à secouer la tête aux côtés de la police des moutons lorsqu'ils sont apparus, mais elle a fini par leur tirer dessus. Tout en s'excusant et en les déclarant comme ses ennemis, elle a essayé d'expier ses péchés. Elle a dit aux Watamates qu'elle les emmènerait avec elle, alors qu'elle commençait à traîner l'un des moutons. Finalement, Watame en a eu assez et a fini par jeter le mouton au loin. Watame n'a pratiquement rien fait de mal.",
@@ -16,6 +36,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.596,
+        "width": 0.128,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Dans son stream Minecraft, Kanata a révélé qu'AZKi lui avait envoyé un message sur LINE après avoir reçu la confession « amoureuse » d'Haachama. AZKi craignait de blesser Haachama au cas où elle serait sérieuse, mais Kanata lui a assuré qu'Haachama était juste en train de faire une de ses manigances habituelles. Sous la direction de Kanata, AZKi a fini par répondre « Je suis déjà amoureuse d'une holomem », et quand on leur a demandé plus, le duo Kana/AZKi a simultanément accepté d'envoyer « Cette personne est Kanata ».",
       "bbox": {
@@ -23,6 +53,16 @@
         "y": 0.6345,
         "width": 0.3888,
         "height": 0.1714
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.179,
+        "width": 0.135,
+        "height": 0.027
       }
     },
     {
@@ -37,32 +77,12 @@
     },
     {
       "type": "paragraph",
-      "text": "• Un stream d'anniversaire en 3D à 20h00 JST le 6 juin, avec six invités et d'autres annonces.",
+      "text": "• Un stream d'anniversaire en 3D à 20h00 JST le 6 juin, avec six invités et d'autres annonces.\n• Un stream 3D post-membres en direct immédiatement après celui de l'anniversaire.\n• Un stream compte à rebours d'anniversaire le soir du 5 juin.",
       "bbox": {
         "x": 0.555,
         "y": 0.273,
         "width": 0.3531,
-        "height": 0.0369
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un stream 3D post-membres en direct immédiatement après celui de l'anniversaire.",
-      "bbox": {
-        "x": 0.555,
-        "y": 0.3134,
-        "width": 0.3356,
-        "height": 0.0369
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un stream compte à rebours d'anniversaire le soir du 5 juin.",
-      "bbox": {
-        "x": 0.555,
-        "y": 0.3537,
-        "width": 0.2669,
-        "height": 0.0265
+        "height": 0.1072
       }
     },
     {
@@ -76,6 +96,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Towa",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.568,
+        "width": 0.085,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Entre deux sessions d'entraînements sur Apex, Towa a pris le temps de se détendre et de rejoindre ses amis pour une collab sur Fall Guys et Golf It! Pendant la partie de Golf It!, elle a été impressionnée par la célèbre actrice japonaise Honda Tsubasa, plus connue sous le nom de Bassa par ses fans. Non seulement Bassa s'est adressée à Towa en l'appelant « Towa-sama », mais elle l'a également qualifiée de mignonne lorsque Towa a piqué une colère après un coup raté.",
       "bbox": {
@@ -83,6 +113,16 @@
         "y": 0.6076,
         "width": 0.3856,
         "height": 0.1476
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kanata, Luna & Haachama",
+      "bbox": {
+        "x": 0.267,
+        "y": 0.887,
+        "width": 0.215,
+        "height": 0.044
       }
     },
     {

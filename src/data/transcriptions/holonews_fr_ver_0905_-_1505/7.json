@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_0905_-_1505",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 3",
+      "bbox": {
+        "x": 0.444,
+        "y": 0.017,
+        "width": 0.112,
+        "height": 0.024
+      }
+    },
     {
       "type": "heading",
       "text": "Marine",
@@ -37,12 +47,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Pekora va faire une pause car elle a des nodules aux cordes vocales. Elle l'a expliqué en faisant des dessins sur Paint. Suisel fait actuellement une pause pour les mêmes raisons médicales. Le médecin de Pekora lui a dit qu'il lui faudrait peut-être environ deux mois pour se rétablir et qu'elle devait se reposer. Cependant, comme Pekora s'inquiète pour ses fans, elle a promis de publier des Shorts pendant sa pause pour qu'elle ne nous manque pas trop.",
+      "text": "Pekora va faire une pause car elle a des nodules aux cordes vocales. Elle l'a expliqué en faisant des dessins sur Paint. Suisei fait actuellement une pause pour les mêmes raisons médicales. Le médecin de Pekora lui a dit qu'il lui faudrait peut-être environ deux mois pour se rétablir et qu'elle devait se reposer. Cependant, comme Pekora s'inquiète pour ses fans, elle a promis de publier des Shorts pendant sa pause pour qu'elle ne nous manque pas trop.",
       "bbox": {
         "x": 0.0719,
         "y": 0.4093,
         "width": 0.3888,
         "height": 0.1476
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Flare",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.178,
+        "width": 0.084,
+        "height": 0.02
       }
     },
     {
@@ -103,6 +123,16 @@
         "y": 0.8359,
         "width": 0.3913,
         "height": 0.1042
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kanata & Iroha",
+      "bbox": {
+        "x": 0.651,
+        "y": 0.798,
+        "width": 0.234,
+        "height": 0.02
       }
     },
     {

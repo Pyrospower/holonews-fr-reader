@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_2908_-_0409",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "4ème anniversaire des débuts de Nakiri Ayame ~ Happiness to you © ~",
+      "text": "4ème anniversaire des débuts de Nakiri Ayame ~ Happiness to you ♡ ~",
       "bbox": {
         "x": 0.0467,
         "y": 0.3071,
@@ -27,22 +27,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Le concert était rempli de retrouvailles saines et de scènes d'humour entre chaque performance. La scène était décorée d'un énorme torii, de fleurs de cerisier et de poyoyo géants, reflétant le style d'Ayame. La performance d'AyaFubuMio a été le point culminant du spectacle, où elles ont chanté ensemble leur dernière chanson, « Renjou",
+      "text": "Le concert était rempli de retrouvailles saines et de scènes d'humour entre chaque performance. La scène était décorée d'un énorme torii, de fleurs de cerisier et de poyoyo géants, reflétant le style d'Ayame. La performance d'AyaFubuMio a été le point culminant du spectacle, où elles ont chanté ensemble leur dernière chanson, « Renjou Shiika ».",
       "bbox": {
         "x": 0.0794,
         "y": 0.4815,
         "width": 0.8417,
-        "height": 0.0675
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Shiika ».",
-      "bbox": {
-        "x": 0.08,
-        "y": 0.5529,
-        "width": 0.08,
-        "height": 0.0112
+        "height": 0.0826
       }
     },
     {
@@ -56,7 +46,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Répertoire :",
       "bbox": {
         "x": 0.2128,
@@ -67,52 +57,32 @@
     },
     {
       "type": "paragraph",
-      "text": "« Byomei Koiwazurai » « ODDS&ENDS » « Ready Steady Go! » « Zankyosanka » w/ Mio « Future Sky » « Renjou Shiika » as AyaFubuMio « Tsubaki » as AyaFubuMio « Daishikyu Daisyuk »i w/ Chloe « Identity » w/ Lui « Internet Overdose » w/ Polka « Poppin' CandyyrFever! » w/ Miko",
+      "text": "« Byomei Koiwazurai »\n« ODDS&ENDS »\n« Ready Steady Go! »\n« Zankyosanka » w/ Mio\n« Future Sky »\n« Renjou Shiika » as AyaFubuMio\n« Tsubaki » as AyaFubuMio\n« Daishikyu Daisyuk »i w/ Chloe\n« Identity » w/ Lui\n« Internet Overdose » w/ Polka\n« Poppin' Candy☆Fever! » w/ Miko\n« Watashino Ichiban Kawaii Tokoro » w/ Marine, Pekora, Kanata, Lamy",
       "bbox": {
-        "x": 0.1039,
-        "y": 0.7037,
-        "width": 0.3233,
-        "height": 0.2218
+        "x": 0.0889,
+        "y": 0.7022,
+        "width": 0.3467,
+        "height": 0.2546
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Produits dérivés d'anniversaire :",
+      "bbox": {
+        "x": 0.5844,
+        "y": 0.6713,
+        "width": 0.3,
+        "height": 0.0154
       }
     },
     {
       "type": "paragraph",
-      "text": "Produits dérivés d'anniversaire : Un tapis en caoutchouc, illustré par Hina",
+      "text": "Un tapis en caoutchouc, illustré par Hina\nUn support de diorama en acrylique,illustré par Sencha\nUn gobelet en acier inoxydable,illustré par Sencha\nUne boîte à mouchoirs Poyoyo\nEnregistrement situationnelle « Célébration avec toi sous les cerisiers en fleurs ».",
       "bbox": {
-        "x": 0.5494,
-        "y": 0.6725,
-        "width": 0.3711,
-        "height": 0.0386
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Un support de diorama en acrylique,illustré par Sencha",
-      "bbox": {
-        "x": 0.6044,
-        "y": 0.723,
-        "width": 0.26,
-        "height": 0.0262
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Un gobelet en acier inoxydable,illustré par Sencha",
-      "bbox": {
-        "x": 0.56,
-        "y": 0.76,
-        "width": 0.3494,
-        "height": 0.0266
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Une boîte à mouchoirs Poyoyo Enregistrement situationnelle = « Célébration avec toi sous les cerisiers en fleurs ».",
-      "bbox": {
-        "x": 0.5522,
-        "y": 0.7978,
-        "width": 0.3644,
-        "height": 0.0613
+        "x": 0.5444,
+        "y": 0.696,
+        "width": 0.3778,
+        "height": 0.1651
       }
     },
     {

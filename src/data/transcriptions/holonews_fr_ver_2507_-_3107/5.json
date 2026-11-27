@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_2507_-_3107",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "Sana a officiellement quitté hololive le 31 juiliék",
+      "text": "SANA IS NOT ALONE",
+      "bbox": {
+        "x": 0.1818,
+        "y": 0.062,
+        "width": 0.6336,
+        "height": 0.109
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana a officiellement quitté hololive le 31 juillet.",
       "bbox": {
         "x": 0.1611,
         "y": 0.1944,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour son stream de départ, elle était équipée d'une variété d'accessoires et a sorti un GRAND ordinateur portable (beaucoup plus grand qu Le etalu des messages d'adieu de nombréuses holomems, y compris A-chan, Nodoka, et les membres de TEMPUS. Certains membres, dont Calli;-Marine et lofi, ont ajouté des dessins de notre australienne de l'espace préféré à leurs messages.",
+      "text": "Pour son stream de départ, elle était équipée d'une variété d'accessoires et a sorti un GRAND ordinateur portable (beaucoup plus grand qu'elle) et a lu des messages d'adieu de nombreuses holomems, y compris A-chan, Nodoka, et les membres de TEMPUS. Certains membres, dont Calli, Marine et Iofi, ont ajouté des dessins de notre australienne de l'espace préféré à leurs messages.",
       "bbox": {
         "x": 0.0878,
         "y": 0.262,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après avoir lu leurs messages, Sana a retiré son limiteur de taille et l'a envoyé sur Terre, enespérant'qu'il atterrisse dans un endroit sûr. Elle nous a ensuite dit que nous sommes les seuls exemplaires de nous-mêmes dans l'univers, et que, d'une certaine manière, nous sommes éternels, tout comme elle !",
+      "text": "Après avoir lu leurs messages, Sana a retiré son limiteur de taille et l'a envoyé sur Terre, en espérant qu'il atterrisse dans un endroit sûr. Elle nous a ensuite dit que nous sommes les seuls exemplaires de nous-mêmes dans l'univers, et que, d'une certaine manière, nous sommes éternels, tout comme elle !",
       "bbox": {
         "x": 0.0939,
         "y": 0.4259,
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "+ Elle nous a ensuite montré un mini-concert surprise en 3D produit par holoEN et Kanauru. Elles ont chantées « Pure Pure Heart », « Catch You Catch Me », « Ochame Kinou », et plus encore. Pour le final du concert, CounciRyS a chanté la chanson originale de Sana, « Astrogirl ». +",
+      "text": "Elle nous a ensuite montré un mini-concert surprise en 3D produit par holoEN et Kanauru. Elles ont chantées « Pure Pure Heart », « Catch You Catch Me », « Ochame Kinou », et plus encore. Pour le final du concert, CounclRyS a chanté la chanson originale de Sana, « Astrogirl ».",
       "bbox": {
         "x": 0.0911,
         "y": 0.4931,
@@ -47,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après la fin du concert, Sana nous a offert son dernier cadeau d'adieu, une vidéo réalisée en partie par la.chaine de clips Holocrumb, dans laquelle elle parle du peu d'estime qu'elle avait d'elle-même avant de rejoindre hololive, et comment hololive l'a aidée a découvrir qu'elle polvait être elle-même. +",
+      "text": "Après la fin du concert, Sana nous a offert son dernier cadeau d'adieu, une vidéo réalisée en partie par la chaîne de clips Holocrumb, dans laquelle elle parle du peu d'estime qu'elle avait d'elle-même avant de rejoindre hololive, et comment hololive l'a aidée à découvrir qu'elle pouvait être elle-même.",
       "bbox": {
         "x": 0.0939,
         "y": 0.5729,
@@ -57,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle voulait également que nous sachions qu'il est important qu'on soutienne les autres membres d'holopro, afiñ qu'ils puissent également connaître la joie que les Sanallites lui ont donnée.",
+      "text": "Elle voulait également que nous sachions qu'il est important qu'on soutienne les autres membres d'holopro, afin qu'ils puissent également connaître la joie que les Sanallites lui ont donnée.",
       "bbox": {
         "x": 0.0944,
         "y": 0.8225,
@@ -67,12 +77,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Sana, merci pour tout. Sananara- !",
+      "text": "Sana, merci pour tout. Sananara~ !",
       "bbox": {
         "x": 0.095,
         "y": 0.8889,
         "width": 0.335,
         "height": 0.0143
+      }
+    },
+    {
+      "type": "other",
+      "text": "...AND NEITHER ARE YOU!",
+      "bbox": {
+        "x": 0.0609,
+        "y": 0.931,
+        "width": 0.88,
+        "height": 0.032
       }
     }
   ],

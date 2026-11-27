@@ -3,11 +3,11 @@
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "ee Tsukumo Sana Special Issue 4",
+      "type": "other",
+      "text": "Tsukumo Sana Special Issue",
       "bbox": {
         "x": 0.0794,
         "y": 0.0213,
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "En guise de cinquième collaboration, Sana a joué a Minecraft avec Watame. Elles ont surtout discuté en japonais et ont construit une boulangerie sur le serveur JP qu'elles ont nommé « La boulangerie de Sana et Watame ». Le stream n'a pas duré longtemps, mais elles ont apprécié le temps passé ensemble, et la boulangerie en sera le souvenir. Plus tard, Sana a joué une dernière fois à Tsunomaki Janken et a laissé un message disant qu'elle s'était beaucoup amusée avec Watame. Elles ont mis fin au stream après avoir fait des captures d'écran devant leur boulangerie.",
+      "text": "En guise de cinquième collaboration, Sana a joué à Minecraft avec Watame. Elles ont surtout discuté en japonais et ont construit une boulangerie sur le serveur JP qu'elles ont nommé « La boulangerie de Sana et Watame ». Le stream n'a pas duré longtemps, mais elles ont apprécié le temps passé ensemble, et la boulangerie en sera le souvenir. Plus tard, Sana a joué une dernière fois à Tsunomaki Janken et a laissé un message disant qu'elle s'était beaucoup amusée avec Watame. Elles ont mis fin au stream après avoir fait des captures d'écran devant leur boulangerie.",
       "bbox": {
         "x": 0.0944,
         "y": 0.2891,
@@ -47,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Deux australiennes, une australien honoraire et une ancienne australienne se sont battues sur Mario Party pour savoir qui sera la véritable australienne. Ce stream était la sixième collaboration de Sana avant sa graduation. Bae était Yoshi, Sana Harmonie, Kiara Daisy et Haachama était Birdo. Kiara a conservé l'avantage au début, en remportant la panels es mini-jeux, mais elle a inalement été surclassée par Bae gagnant le dernier mini-jeu, Les deux vraies australiennes ont défendu leur nationalité en prenant la première et la deuxième place. Haachama s'est faite déconnecter à la dernière minute et n'a be pu revenir, mais ama est resté ort dans les mini-jeux. El beaucoup d'argot austr« 7 ~ _ stream, et Kiara a déclaré q prévu ce stream depuis lo qu'elle-était heureuse qu'il EN",
+      "text": "Deux australiennes, une australien honoraire et une ancienne australienne se sont battues sur Mario Party pour savoir qui sera la véritable australienne. Ce stream était la sixième collaboration de Sana avant sa graduation. Bae était Yoshi, Sana Harmonie, Kiara Daisy et Haachama était Birdo. Kiara a conservé l'avantage au début, en remportant la plupart des mini-jeux, mais elle a finalement été surclassée par Bae gagnant le dernier mini-jeu. Les deux vraies australiennes ont défendu leur nationalité en prenant la première et la deuxième place. Haachama s'est faite déconnecter à la dernière minute et n'a pas pu revenir, mais Botchama est resté fort dans les mini-jeux. Elles ont appris beaucoup d'argot australien pendant le stream, et Kiara a déclaré qu'elle avait prévu ce stream depuis longtemps et qu'elle était heureuse qu'il ait enfin lieu.",
       "bbox": {
         "x": 0.0538,
         "y": 0.6645,
@@ -57,7 +57,7 @@
     },
     {
       "type": "heading",
-      "text": "#7 Sana & —c",
+      "text": "#7 Sana & Bae",
       "bbox": {
         "x": 0.54,
         "y": 0.0725,
@@ -67,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Lors de la septième collaboration avant sa graduation, Sana et Bae ont classé des Collations australiennes. Elles ont commencé le stream juste après leur retour du festival SMASH! et nous ont accueillis avec leur nouvelle salutation. Bae aimait beaucoup de collations, tandis que Sana était plus difficile. Leurs opinions sur les collations salées étaient pratiquement les mêmes, mais parmi les collations sucrées, elles n'étaient d'accord que sur les Tim Tams.",
+      "text": "Lors de la septième collaboration avant sa graduation, Sana et Bae ont classé des collations australiennes. Elles ont commencé le stream juste après leur retour du festival SMASH! et nous ont accueillis avec leur nouvelle salutation. Bae aimait beaucoup de collations, tandis que Sana était plus difficile. Leurs opinions sur les collations salées étaient pratiquement les mêmes, mais parmi les collations sucrées, elles n'étaient d'accord que sur les Tim Tams.",
       "bbox": {
         "x": 0.5394,
         "y": 0.27,
@@ -83,6 +83,16 @@
         "y": 0.4275,
         "width": 0.365,
         "height": 0.1224
+      }
+    },
+    {
+      "type": "other",
+      "text": "Collaborations : Page 2",
+      "bbox": {
+        "x": 0.4122,
+        "y": 0.9606,
+        "width": 0.1767,
+        "height": 0.0139
       }
     }
   ],

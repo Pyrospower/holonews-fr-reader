@@ -3,26 +3,16 @@
   "issueId": "holonews_fr_ver_0905_-_1505",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Pour son 4e anniversaire, Mel a appelé plusieurs personnes en stream au lieu d'attendre de recevoir des appels. Elle a d'abord appelé Choco, et elles ont convenu d'aller à un rendez-vous quelque part. Mel à ensuite appelé Haachama, Aki, Iroha et Nene, puis les blondes d’'hololive. Mel a aussi appelé Sora, Matsuri, Koyori, Ayamy,",
+      "text": "Pour son 4e anniversaire, Mel a appelé plusieurs personnes en stream au lieu d'attendre de recevoir des appels. Elle a d’abord appelé Choco, et elles ont convenu d'aller à un rendez-vous quelque part. Mel a ensuite appelé Haachama, Aki, Iroha et Nene, puis les blondes d’hololive. Mel a aussi appelé Sora, Matsuri, Koyori, Ayamy, et la VTubeuse Saeki Yahiro. Pendant qu'elle appelait des gens, Mel a reçu un message privé et une vidéo surprise de sa manageuse. La vidéo était un message d'anniversaire de YAGOO. Il a même reproduit les salutations de Mel dans la vidéo, ce qui lui a beaucoup plu.",
       "bbox": {
         "x": 0.0572,
         "y": 0.4838,
-        "width": 0.2806,
+        "width": 0.5723,
         "height": 0.2083
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "et la VTubeuse Saeki Yahiro. Pendant qu'elle appelait des gens, Mel a reçu un message privé et une vidéo surprise de sa manageuse. La vidéo était un message d'anniversaire de YAGOO. Il a même reproduit les salutations de Mel dans la vidéo, ce qui lui a beaucoup plu.",
-      "bbox": {
-        "x": 0.3589,
-        "y": 0.4838,
-        "width": 0.2706,
-        "height": 0.1767
       }
     },
     {
@@ -37,22 +27,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Tout d'abord, elle a obtenu une nouvelle bannière et un nouveau logo pour sa",
+      "text": "Tout d'abord, elle a obtenu une nouvelle bannière et un nouveau logo pour sa chaîne. Pour sa deuxième annonce, Mel a expliqué pourquoi elle n'a fait qu'un stream d’appels pour son anniversaire. Selon elle, il y avait beaucoup de problèmes à ce moment-là et le studio était très occupé, donc le concert pour son 4e anniversaire a dû être reporté au 18 juillet. Enfin, Mel a également annoncé la sortie de sa nouvelle chanson originale, « Caramel Devil ». Ne manquez pas de l'écouter !",
       "bbox": {
         "x": 0.3583,
-        "y": 0.7091,
-        "width": 0.2733,
-        "height": 0.0475
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "chaîne. Pour sa deuxième annonce, Mel a expliqué pourquoi elle n'a fait qu'un stream d'appels pour son anniversaire. Selon elle, il y avait beaucoup de problèmes à ce moment-là et le studio était très occupé, donc le concert pour son 4e anniversaire a dû être reporté au 18 juillet. Enfin, Mel a également annoncé la sortie de sa nouvelle chanson originale, « Caramel Devil ». Ne manquez pas de l'écouter !",
-      "bbox": {
-        "x": 0.6589,
         "y": 0.4838,
-        "width": 0.2806,
-        "height": 0.2566
+        "width": 0.5812,
+        "height": 0.2728
       }
     }
   ],

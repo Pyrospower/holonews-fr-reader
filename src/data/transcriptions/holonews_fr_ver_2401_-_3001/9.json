@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_2401_-_3001",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.114,
+        "y": 0.085,
+        "width": 0.306,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "heading",
+      "text": "NPLB",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.26,
+        "width": 0.12,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "NePoLaBo ont réalisé leur première collaboration officielle sur ARK. L'opération «recherche d'un œuf de vouivre » était menée par Polka. En tant que joueuse la plus invétérée du groupe, elle a dirigé ses amies Lz ly nid de la vouivre et leur a méme ourni des ptéranodons pour leur permettre de voyager par les airs. Aprés avoir eté poursuivies et être mortes à plusieurs reprises, chacune a réussi à mettre la main sur les œufs de vouivre tant convoités.",
+      "text": "NePoLaBo ont réalisé leur première collaboration officielle sur ARK. L’opération « recherche d’un œuf de vouivre » était menée par Polka. En tant que joueuse la plus invétérée du groupe, elle a dirigé ses amies jusqu’au nid de la vouivre et leur a même fourni des ptéranodons pour leur permettre de voyager par les airs. Après avoir été poursuivies et être mortes à plusieurs reprises, chacune a réussi à mettre la main sur les œufs de vouivre tant convoités.",
       "bbox": {
         "x": 0.0519,
         "y": 0.2982,
@@ -17,57 +37,27 @@
     },
     {
       "type": "paragraph",
-      "text": "De retour à leurs bases, Nene et Lamy ont",
+      "text": "De retour à leurs bases, Nene et Lamy ont chacune fait éclore un œuf avec succès. L'œuf de Polka a été volé par un oiseau. Quant à celui de Botan, il a curieusement donné naissance à des triplés !",
       "bbox": {
-        "x": 0.0544,
+        "x": 0.0531,
         "y": 0.4661,
-        "width": 0.3906,
-        "height": 0.0169
+        "width": 0.3919,
+        "height": 0.073
       }
     },
     {
-      "type": "paragraph",
-      "text": "chacune fait éclore un œuf avec succès.",
+      "type": "heading",
+      "text": "Botan",
       "bbox": {
-        "x": 0.0531,
-        "y": 0.4805,
-        "width": 0.37,
-        "height": 0.0122
+        "x": 0.634,
+        "y": 0.316,
+        "width": 0.137,
+        "height": 0.021
       }
     },
     {
       "type": "paragraph",
-      "text": "L'œuf de Polka a été volé par un oiseau.",
-      "bbox": {
-        "x": 0.0544,
-        "y": 0.4948,
-        "width": 0.3681,
-        "height": 0.0156
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Quant à celui de Botan, il a curieusement onné naissance à des triplés !",
-      "bbox": {
-        "x": 0.0531,
-        "y": 0.5078,
-        "width": 0.3787,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Lamy a joué à Raft pour la première fois et a beaucoup apprécié les mécaniques du jeu de survie. En l'espace de quatre heures, elle a repoussé des requins, mangé par erreur un champignon toxique et réalisé des constructions sur son radeau. Ces quelques heures lui ont suffi pour transformer sa planche de bois en une embarcation lui permettant de subsister. Lamy aimerait organiser une collaboration sur Raft avec le reste de NePoLaBo à l'avenir.",
-      "bbox": {
-        "x": 0.0456,
-        "y": 0.7157,
-        "width": 0.4219,
-        "height": 0.1888
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Korone et Botan sont devenues ambassadrices pour le nouveau jeu « Dying Lights 2 ». Quatre streams ont été programmés dans le cadre de la promotion du jeu. Botan a joué à la préquelle pour comprendre les mécaniques du jeu et le contexte de l’histoire. Fidèle à sa réputation, LaLion s’est vite adaptée, maîtrisant rapidement les systèmes d'endurance et de parkour. Elle a brutalement envoyé valser les zombies qui se mettaient en travers de son chemin, et en a distrait d’autres avec des pétards pour les éloigner des objectifs. Le crochetage de serrure lui a cependant posé des difficultés, Botan finissant souvent par briser ses outils.",
+      "text": "Korone et Botan sont devenues ambassadrices pour le nouveau jeu « Dying Lights 2 ». Quatre streams ont été programmés dans le cadre de la promotion du jeu. Botan a joué à la préquelle pour comprendre les mécaniques du jeu et le contexte de l’histoire. Fidèle à sa réputation, LaLion s’est vite adaptée, maîtrisant rapidement les systèmes d’endurance et de parkour. Elle a brutalement envoyé valser les zombies qui se mettaient en travers de son chemin, et en a distrait d’autres avec des pétards pour les éloigner des objectifs. Le crochetage de serrure lui a cependant posé des difficultés, Botan finissant souvent par briser ses outils.",
       "bbox": {
         "x": 0.525,
         "y": 0.355,
@@ -87,12 +77,32 @@
     },
     {
       "type": "paragraph",
-      "text": "En plus d'être calme et impitoyable, Botan est également adorable. Les occasions où elle parle anglais suffisent à le confirmer. Des mots disgracieux voire vulgaires tels que « ambassador », « kick » ou encore « son of a b*tch » deviennent tout de suite bien plus mignons quand ils sont prononcés par notre LaLion.",
+      "text": "En plus d’être calme et impitoyable, Botan est également adorable. Les occasions où elle parle anglais suffisent à le confirmer. Des mots disgracieux voire vulgaires tels que « ambassador », « kick » ou encore « son of a b*tch » deviennent tout de suite bien plus mignons quand ils sont prononcés par notre LaLion.",
       "bbox": {
         "x": 0.5238,
         "y": 0.7578,
         "width": 0.4244,
         "height": 0.1445
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.149,
+        "y": 0.677,
+        "width": 0.127,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy a joué à Raft pour la première fois et a beaucoup apprécié les mécaniques du jeu de survie. En l’espace de quatre heures, elle a repoussé des requins, mangé par erreur un champignon toxique et réalisé des constructions sur son radeau. Ces quelques heures lui ont suffi pour transformer sa planche de bois en une embarcation lui permettant de subsister. Lamy aimerait organiser une collaboration sur Raft avec le reste de NePoLaBo à l’avenir.",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.7157,
+        "width": 0.4219,
+        "height": 0.1888
       }
     }
   ],

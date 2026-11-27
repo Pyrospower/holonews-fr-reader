@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_2102_-_2702",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.1483,
+        "y": 0.0463,
+        "width": 0.2467,
+        "height": 0.0289
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Korone",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.2199,
+        "width": 0.17,
+        "height": 0.0231
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Korone a essayé de finir Battletoads d’une seule traite. Malgré 15 heures passées sur le jeu, elle s'est retrouvée bloquée sur un niveau en particulier et a été dans l'incapacité de progresser plus loin. Elle a dû arrêter de jouer, car ses doigts commencaient à enfler. Elle retentera sa chance après avoir obtenu une nouvelle manette.",
+      "text": "Korone a essayé de finir Battletoads d’une seule traite. Malgré 15 heures passées sur le jeu, elle s’est retrouvée bloquée sur un niveau en particulier et a été dans l’incapacité de progresser plus loin. Elle a dû arrêter de jouer, car ses doigts commençaient à enfler. Elle retentera sa chance après avoir obtenu une nouvelle manette.",
       "bbox": {
         "x": 0.0594,
         "y": 0.2582,
@@ -16,23 +36,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Koyori a économisé ses joyaux sur Uma Musume pour le gacha du 1er anniversaire du jeu, qui voit l'apparition d’un nouveau cheval : Kitasean Black, surnommée « Kita-chan » par Koyori. Elle avait accumulé environ 23 000 joyaux et 19 tickets dans le but de l'obtenir, mais même après avoir utilisé toutes ses économies dans de nombreuses invocations, Kita-chan lui est passée entre les doigts. Koyori a dû se résigner à acheter des joyaux et a enfin obtenu le cheval tant convoité après 199 tirages, à un cheveu du tirage garantissant une SSR.",
+      "type": "heading",
+      "text": "Okayu",
       "bbox": {
-        "x": 0.0581,
-        "y": 0.6267,
-        "width": 0.4194,
-        "height": 0.1975
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Koyori a réveillé son personnage de princesse et s’est lancé le défi de jouer à Getting Over It jusqu’à ce qu’elle abandonne. Après un peu plus d’une heure, et être retombée quatre fois au tout début du jeu, Koyori a jeté l'éponge et perdu le défi.",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.8424,
-        "width": 0.4188,
-        "height": 0.112
+        "x": 0.63,
+        "y": 0.2188,
+        "width": 0.1433,
+        "height": 0.0278
       }
     },
     {
@@ -46,8 +56,58 @@
       }
     },
     {
+      "type": "heading",
+      "text": "KOYORI",
+      "bbox": {
+        "x": 0.115,
+        "y": 0.39,
+        "width": 0.29,
+        "height": 0.0741
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.5868,
+        "width": 0.1583,
+        "height": 0.0289
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Koyori va mettre son activité en pause le temps de son déménagement prévu pour le 2 mars. Cela ne devrait prendre qu’un jour, mais éventuellement plus en fonction du temps nécessaire à l'installation de son matériel et au raccordement à internet. Elle aimerait atteindre les 540 000 abonnés (54, en japonais, peut se lire « Koyo ») avant sa pause. Elle a rappelé à ses fans que plus de 400 heures de vidéos étaient disponibles pour les occuper durant son absence.",
+      "text": "Koyori a économisé ses joyaux sur Uma Musume pour le gacha du 1er anniversaire du jeu, qui voit l’apparition d’un nouveau cheval : Kitasean Black, surnommée « Kita-chan » par Koyori. Elle avait accumulé environ 23 000 joyaux et 19 tickets dans le but de l’obtenir, mais même après avoir utilisé toutes ses économies dans de nombreuses invocations, Kita-chan lui est passée entre les doigts. Koyori a dû se résigner à acheter des joyaux et a enfin obtenu le cheval tant convoité après 199 tirages, à un cheveu du tirage garantissant une SSR.",
+      "bbox": {
+        "x": 0.0581,
+        "y": 0.6267,
+        "width": 0.4194,
+        "height": 0.1975
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori a réveillé son personnage de princesse et s’est lancé le défi de jouer à Getting Over It jusqu’à ce qu’elle abandonne. Après un peu plus d’une heure, et être retombée quatre fois au tout début du jeu, Koyori a jeté l’éponge et perdu le défi.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.8424,
+        "width": 0.4188,
+        "height": 0.112
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.5868,
+        "width": 0.1583,
+        "height": 0.0289
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori va mettre son activité en pause le temps de son déménagement prévu pour le 2 mars. Cela ne devrait prendre qu’un jour, mais éventuellement plus en fonction du temps nécessaire à l’installation de son matériel et au raccordement à internet. Elle aimerait atteindre les 540 000 abonnés (54, en japonais, peut se lire « Koyo ») avant sa pause. Elle a rappelé à ses fans que plus de 400 heures de vidéos étaient disponibles pour les occuper durant son absence.",
       "bbox": {
         "x": 0.5313,
         "y": 0.6267,
@@ -57,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "AsaKoyo Radio est une émission radio présentée par Koyori et diffusée chaque mardi et vendredi, qui comporte une section dans laquelle elle lit des répliques parmi celles proposées sur Twitter. De par son désir d'apprendre l'anglais, Koyori accepte maintenant des propositions dans la langue de Shakespeare avec le #AsaKoyoLines.",
+      "text": "AsaKoyo Radio est une émission radio présentée par Koyori et diffusée chaque mardi et vendredi, qui comporte une section dans laquelle elle lit des répliques parmi celles proposées sur Twitter. De par son désir d’apprendre l’anglais, Koyori accepte maintenant des propositions dans la langue de Shakespeare avec le #AsaKoyoLines.",
       "bbox": {
         "x": 0.5213,
         "y": 0.8103,

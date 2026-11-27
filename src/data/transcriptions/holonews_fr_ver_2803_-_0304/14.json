@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2803_-_0304",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.4769,
+        "y": 0.0165,
+        "width": 0.0469,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Reine",
+      "bbox": {
+        "x": 0.1663,
+        "y": 0.1849,
+        "width": 0.0906,
+        "height": 0.02
+      }
+    },
     {
       "type": "paragraph",
       "text": "Après avoir essayé différentes approches pendant environ trois heures et demie, Reine a atteint l'illustre « bonne fin » de Bad End Theater. Insatisfaite, elle a décidé de passer par toutes les mauvaises fin du jeu afin de les découvrir. Elle a sangloté devant la vraie fin qu'elle a atteint grâce à son dévouement.",
@@ -16,33 +36,13 @@
       }
     },
     {
-      "type": "other",
-      "text": "@kaelakovalskia",
+      "type": "heading",
+      "text": "Kaela",
       "bbox": {
-        "x": 0.1106,
-        "y": 0.3924,
-        "width": 0.0725,
-        "height": 0.0048
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "oh. KRONII-SENPAI'S GIGGLE!!!! I just can't.... ok ty 4eva",
-      "bbox": {
-        "x": 0.0669,
-        "y": 0.4123,
-        "width": 0.3731,
-        "height": 0.0217
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "weets 7,328 Likes",
-      "bbox": {
-        "x": 0.2,
-        "y": 0.4722,
-        "width": 0.0931,
-        "height": 0.0061
+        "x": 0.1675,
+        "y": 0.4978,
+        "width": 0.0887,
+        "height": 0.02
       }
     },
     {
@@ -56,6 +56,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Zeta",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.1849,
+        "width": 0.0688,
+        "height": 0.0195
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Pour son premier stream sur un jeu d'horreur, Zeta a joué à Outlast 2 avec une particularité : elle mettrait fin au stream si elle criait. Bien que son tchat ait compté de nombreux cris tout au long du stream, elle a affirmé qu'il ne s'agissait pas de cris de peur mais de quelque chose qui rendait le stream plus intéressant à regarder. Le stream s'est terminé en un peu moins de deux heures, et Zeta a promis de continuer Outlast 2 à une date ultérieure.",
       "bbox": {
@@ -63,6 +73,16 @@
         "y": 0.2192,
         "width": 0.4088,
         "height": 0.1354
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Reine",
+      "bbox": {
+        "x": 0.6256,
+        "y": 0.4149,
+        "width": 0.0919,
+        "height": 0.02
       }
     },
     {
@@ -76,6 +96,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Anya",
+      "bbox": {
+        "x": 0.15,
+        "y": 0.7665,
+        "width": 0.0825,
+        "height": 0.0217
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Après plus de deux mois d'absence, Anya est revenue sur ARK pour se préparer avant une collaboration avec Mumei et Iroha. Sa première pensée en se connectant a été de féliciter sa propre maison d'être encore debout, car elle s'attendait à se réveiller au milieu de tas de décombres.",
       "bbox": {
@@ -86,7 +116,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "HoloH3roes",
       "bbox": {
         "x": 0.2744,
@@ -97,7 +127,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les Holoh3roes (la 3e génération d’hololD) ont réussi à être monétisées moins d'une semaine après leurs débuts respectifs.",
+      "text": "Les Holoh3roes (la 3e génération d’holoID) ont réussi à être monétisées moins d'une semaine après leurs débuts respectifs.",
       "bbox": {
         "x": 0.0744,
         "y": 0.924,

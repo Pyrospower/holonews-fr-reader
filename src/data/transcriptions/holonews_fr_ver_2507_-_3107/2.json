@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_ver_2507_-_3107",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "1 MINASE RIO BIRTHDAY CELEBRATION",
+      "type": "heading",
+      "text": "MINASE RIO BIRTHDAY CELEBRATION",
       "bbox": {
         "x": 0.2794,
         "y": 0.0617,
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Il a ensuite annoncé officiellement l'ouverture des souscriptions a sa chaîne et a montré les avantages des membres :",
+      "text": "Il a ensuite annoncé officiellement l'ouverture des souscriptions à sa chaîne et a montré les avantages des membres :",
       "bbox": {
         "x": 0.095,
         "y": 0.3746,
@@ -37,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "• Les membres de niveau 1 auront des streams exclusifs et à des messages manuscrits lorsqu'il",
+      "text": "• Les membres de niveau 1 auront des streams exclusifs et à des messages manuscrits lorsqu'il sort une reprise",
       "bbox": {
         "x": 0.0944,
         "y": 0.4255,
@@ -47,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "» Les membres de niveau 2 auront des karaokés en jouant de la guitare, des illustrations cuisine et de chat et les avantages du niveau 1",
+      "text": "• Les membres de niveau 2 auront des karaokés en jouant de la guitare, des illustrations saisonnières, des vidéos de cuisine et de chat et les avantages du niveau 1",
       "bbox": {
         "x": 0.5206,
         "y": 0.4252,
@@ -77,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour finir, Rio a annoncé une reprise de « CHANGE » de Giga, qui a été diffusée juste après le stream.",
+      "text": "Pour finir, Rio a annoncé une reprise de « CH4NGE » de Giga, qui a été diffusée juste après le stream.",
       "bbox": {
         "x": 0.0956,
         "y": 0.8804,

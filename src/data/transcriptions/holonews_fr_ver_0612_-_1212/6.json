@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_0612_-_1212",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 1",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.039,
+        "width": 0.195,
+        "height": 0.0329
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.1625,
+        "y": 0.2122,
+        "width": 0.1838,
+        "height": 0.0226
+      }
+    },
     {
       "type": "paragraph",
       "text": "Matsuri a organisé un concert 3D hivernal pour que ses fans aient un événement à célébrer puisque ses débuts et son anniversaire ont lieu en été. Avec des invitées telles qu’Aki, Fubuki, Mel, Subaru, Marine, Kanata, Towa, Nene, la VTubeuse indépendante Tenjin Kotone, et Huma Wat de VApArt, Matsuri a donné à voir un spectacle animé.",
@@ -26,8 +46,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1613,
+        "y": 0.6393,
+        "width": 0.2394,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après avoir vu à quel point les membres d'holoX se sont amusées lors de leur collab Gartic Phone, Haachama a décidé de jouer à Gartic Phone seule, avec pour nom de groupe « SoloX ». Ça s’est passé aussi bien qu’on pouvait s'y attendre.",
+      "text": "Après avoir vu à quel point les membres d'holoX se sont amusées lors de leur collab Gartic Phone, Haachama a décidé de jouer à Gartic Phone seule, avec pour nom de groupe « SoloX ». Ça s’est passé aussi bien qu’on pouvait s’y attendre.",
       "bbox": {
         "x": 0.0506,
         "y": 0.6823,
@@ -37,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Haachama a essayé Jump King cette semaine, et Calli était là pour la soutenir dans le tchat. Sa stratégie était de changer de musique tout en faisant des bruits bizarres jusqu’à en trouver une qui l’aide. Après 4 heures de stream et aucun progres, elle s'est laissée tomber jusqu’au point de départ et a mis fin au stream, en disant qu’elle essaierait de recommencer du début dans le futur.",
+      "text": "Haachama a essayé Jump King cette semaine, et Calli était là pour la soutenir dans le tchat. Sa stratégie était de changer de musique tout en faisant des bruits bizarres jusqu’à en trouver une qui l’aide. Après 4 heures de stream et aucun progrès, elle s’est laissée tomber jusqu’au point de départ et a mis fin au stream, en disant qu’elle essaierait de recommencer du début dans le futur.",
       "bbox": {
         "x": 0.0494,
         "y": 0.7956,
@@ -46,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Aki",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.213,
+        "width": 0.0775,
+        "height": 0.0226
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Aki Rosenthal a fait un stream inopiné sur Getting Over It, dans lequel elle est allée assez loin par rapport aux tentatives précédentes et elle est tombée après avoir à peine dépassé la zone des boîtes. Elle a fait des bruits mignons, s’est mise en colère contre le jeu, et a réalisé plusieurs « actions de pro gamer ». Malheureusement, malgré qu'elle « aille à son rythme » et qu’elle prenne son temps, elle a fini par glisser et retomber jusqu'au point de départ avant la fin du stream. Ensuite, elle a visionné, avec les Rosetai, la partie gratuite du concert « Cinderella Switch », dans lequel elle a chanté avec Mel.",
+      "text": "Aki Rosenthal a fait un stream inopiné sur Getting Over It, dans lequel elle est allée assez loin par rapport aux tentatives précédentes et elle est tombée après avoir à peine dépassé la zone des boîtes. Elle a fait des bruits mignons, s’est mise en colère contre le jeu, et a réalisé plusieurs « actions de pro gamer ». Malheureusement, malgré qu’elle « aille à son rythme » et qu’elle prenne son temps, elle a fini par glisser et retomber jusqu’au point de départ avant la fin du stream. Ensuite, elle a visionné, avec les Rosetai, la partie gratuite du concert « Cinderella Switch », dans lequel elle a chanté avec Mel.",
       "bbox": {
         "x": 0.5219,
         "y": 0.2587,
@@ -57,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Aki a fait une série de streams de æ cuisine/alcoolisés au cours des deux dermédset 2 semaines, pour I'« #AkiroseBeerFEST » afit de célébrer I'Oktoberfest. Elle a cuisiné des karaage, des escalopes, du dakgalbi au fromage, de la salade à base d'avocats, du saumon, des filets de poulet et des umeboshi, du ragoût de porc, et plus encore. Elle a pris une photo de chaque plat fini sur Twitter, alors n'oubliez pas d'aller y jeter un coup d'œil !",
+      "text": "Aki a fait une série de streams de cuisine/alcoolisés au cours des deux dernières semaines, pour l’« #AkiroseBeerFEST » afin de célébrer l’Oktoberfest. Elle a cuisiné des karaage, des escalopes, du dakgalbi au fromage, de la salade à base d'avocats, du saumon, des filets de poulet et des umeboshi, du ragoût de porc, et plus encore. Elle a pris une photo de chaque plat fini sur Twitter, alors n’oubliez pas d’aller y jeter un coup d'œil !",
       "bbox": {
         "x": 0.5225,
         "y": 0.497,
@@ -67,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Lors de la fête de la bière, elle a incité les Rosetai à envoyer des anecdotes arrosées et des vidéos d’eux en train de cuisiner, et elle les a regardées sur son stream. Des Rosetai du monde entier ont envoyé des vidéos d'eux-mêmes en train de cuisiner des plats locaux, et celui qui a cuisiné le meilleur repas a gagné un trophée … très spécial.",
+      "text": "Lors de la fête de la bière, elle a incité les Rosetai à envoyer des anecdotes arrosées et des vidéos d’eux en train de cuisiner, et elle les a regardées sur son stream. Des Rosetai du monde entier ont envoyé des vidéos d'eux-mêmes en train de cuisiner des plats locaux, et celui qui a cuisiné le meilleur repas a gagné un trophée… très spécial.",
       "bbox": {
         "x": 0.5231,
         "y": 0.6589,
@@ -76,8 +116,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.539,
+        "y": 0.8216,
+        "width": 0.2394,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "La fièvre du rap d’'Haachama bat son plein. Elle a sorti quatre autres raps cette semaine : «| Love You », « Failing Grade Rap », « Stinky Feet Rap », et « DIS RAP », avec beaucoup d'autres à venir après qu'elle demande des idées auprès de ses fans.",
+      "text": "La fièvre du rap d’Haachama bat son plein. Elle a sorti quatre autres raps cette semaine : « I Love You », « Failing Grade Rap », « Stinky Feet Rap », et « DIS RAP », avec beaucoup d’autres à venir après qu’elle demande des idées auprès de ses fans.",
       "bbox": {
         "x": 0.5213,
         "y": 0.8702,

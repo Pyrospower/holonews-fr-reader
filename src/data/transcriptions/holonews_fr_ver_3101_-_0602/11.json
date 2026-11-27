@@ -3,16 +3,26 @@
   "issueId": "holonews_fr_ver_3101_-_0602",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "HOL os TARS",
+      "text": "HOLOSTARS",
       "bbox": {
         "x": 0.0931,
         "y": 0.0955,
         "width": 0.3525,
         "height": 0.0495
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.1582,
+        "y": 0.2664,
+        "width": 0.1182,
+        "height": 0.0253
       }
     },
     {
@@ -46,6 +56,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Oga",
+      "bbox": {
+        "x": 0.6273,
+        "y": 0.2702,
+        "width": 0.0891,
+        "height": 0.0265
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Oga a partagé sur Twitter une photo de Suica (carte électronique de train), vieille de 20 ans, pour montrer à quel point elle était utilisée. Le tweet est devenu viral de manière inattendue et a reçu 100 000 likes, 14 000 retweets et 400 citations au moment de la rédaction de cet article. Oga a ensuite précisé que la carte avait 15 ans, et non 20.",
       "bbox": {
@@ -66,8 +86,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Temma",
+      "bbox": {
+        "x": 0.6309,
+        "y": 0.6818,
+        "width": 0.1655,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Etonnamment, Temma a fait sa première collaboration solo en deux ans avec quelqu'un en dehors d’holoPro ! Cela a même surpris Shinove, le directeur d'holostars. Le partenaire de Temma pour ce stream était Junohara Izumi d'Animare. Izumi a kidnappé la mascotte de Temma, Hiyamaru, et l'a défié dans un duel de maître sur Yu-Gi-Oh ! Ils ont joué sept rounds avec un score total de 4-3 en faveur de Temma. Le stream a eu lieu sur la chaîne d'Izumi.",
+      "text": "Étonnamment, Temma a fait sa première collaboration solo en deux ans avec quelqu'un en dehors d’holoPro ! Cela a même surpris Shinove, le directeur d'holostars. Le partenaire de Temma pour ce stream était Junohara Izumi d'Animare. Izumi a kidnappé la mascotte de Temma, Hiyamaru, et l'a défié dans un duel de maître sur Yu-Gi-Oh ! Ils ont joué sept rounds avec un score total de 4-3 en faveur de Temma. Le stream a eu lieu sur la chaîne d'Izumi.",
       "bbox": {
         "x": 0.5225,
         "y": 0.7248,

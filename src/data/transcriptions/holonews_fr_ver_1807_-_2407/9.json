@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1807_-_2407",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,7 +16,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Kanata",
       "bbox": {
         "x": 0.1706,
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Resolve ont publié des photos d'une figurine prototype de Kanata à échelle 1/7. Aux alentours de 260 mm de haut, avec le piédestal pris en compte. A part les grands détails, un échantillon de couleurs est actuellement en cours de réalisation.",
+      "text": "Resolve ont publié des photos d’une figurine prototype de Kanata à échelle 1/7. Aux alentours de 260 mm de haut, avec le piédestal pris en compte. A part les grands détails, un échantillon de couleurs est actuellement en cours de réalisation.",
       "bbox": {
         "x": 0.0719,
         "y": 0.1354,
@@ -37,17 +37,27 @@
     },
     {
       "type": "heading",
-      "text": "Shishiro Botan Remembering when summer is approaching",
+      "text": "Gen 5",
       "bbox": {
-        "x": 0.0656,
-        "y": 0.2964,
-        "width": 0.3481,
-        "height": 0.0686
+        "x": 0.442,
+        "y": 0.239,
+        "width": 0.116,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.402,
+        "width": 0.093,
+        "height": 0.023
       }
     },
     {
       "type": "paragraph",
-      "text": "Shishiron a été inclus dans la troisième colonne du site de Red Bull. Le sujet de ce mois est I'été et l'enthousiasme que provoque les événements en direct ! Shishiron est plus particulièrement impatiente pour le Tokyo Game Show 2022, ayant participé à celui de 2019. L'article a aussi révélé la réponse au lion caché dans la colonne de Juin. Le prochain sera publié vers mi-Août.",
+      "text": "Shishiron a été inclus dans la troisième colonne du site de Red Bull. Le sujet de ce mois est l’été et l’enthousiasme que provoque les événements en direct ! Shishiron est plus particulièrement impatiente pour le Tokyo Game Show 2022, ayant participé à celui de 2019. L’article a aussi révélé la réponse au lion caché dans la colonne de Juin. Le prochain sera publié vers mi-Août.",
       "bbox": {
         "x": 0.0669,
         "y": 0.4418,
@@ -56,43 +66,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "[news]",
+      "type": "heading",
+      "text": "Nene",
       "bbox": {
-        "x": 0.5294,
-        "y": 0.3281,
-        "width": 0.0531,
-        "height": 0.0109
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "In\" #4: % % \" belonging to our company \" ## 0 7 47\"",
-      "bbox": {
-        "x": 0.53,
-        "y": 0.3433,
-        "width": 0.4113,
-        "height": 0.0252
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Positive for the new coronavirus was confirmed.",
-      "bbox": {
-        "x": 0.5319,
-        "y": 0.3741,
-        "width": 0.3731,
-        "height": 0.0091
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "From now on, we will treat you according to the",
-      "bbox": {
-        "x": 0.5319,
-        "y": 0.4041,
-        "width": 0.3688,
-        "height": 0.0109
+        "x": 0.634,
+        "y": 0.443,
+        "width": 0.085,
+        "height": 0.023
       }
     },
     {
@@ -116,8 +96,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.8,
+        "width": 0.106,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Koyori a pu négocier un traité de paix avec Micomet sur Rust avec succès. C’est arrivé lorsqu'elle a été assassiné et pillé Suisei tout en ayant été abandonné par Miko. Suicopathe a aussi attiré Koyori en lui rendant ses armes, pour au final la tuer de manière sadique au moment où Koyori à récupérer ses armes. Finalement, Micomet se sont mis d'accord d'avoir la paix entre elles et Koyori, mais seulement en extorquant leur coyote cadette. Sasuga Micomet.",
+      "text": "Koyori a pu négocier un traité de paix avec Micomet sur Rust avec succès. C’est arrivé lorsqu’elle a été assassiné et pillé Suisei tout en ayant été abandonné par Miko. Suicopathe a aussi attiré Koyori en lui rendant ses armes, pour au final la tuer de manière sadique au moment où Koyori à récupérer ses armes. Finalement, Micomet se sont mis d’accord d’avoir la paix entre elles et Koyori, mais seulement en extorquant leur coyote cadette. Sasuga Micomet.",
       "bbox": {
         "x": 0.0719,
         "y": 0.8394,
@@ -126,8 +116,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "holoX",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.881,
+        "width": 0.096,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "La Société Secrète holoX est en vedette sur la couverture du numéro d’Août de VTuber Style. Ils ont également un article d'interview dans le numéro.",
+      "text": "La Société Secrète holoX est en vedette sur la couverture du numéro d’Août de VTuber Style. Ils ont également un article d’interview dans le numéro.",
       "bbox": {
         "x": 0.5387,
         "y": 0.9206,

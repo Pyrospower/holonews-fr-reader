@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1312_-_1912",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après avoir dévoilé leurs nouvelles tenues, les 5 membres d’holoMyth ont célébré en jouant a Jackbox. Elles se sont échauffées avec une partie de Quiplash. Elles ont chacune eu leurs chances de briller, comme lorsqu’Ame s'est moquée de la production de la reprise de « Country Roads » par holoMyth. Calli a gagné cette manche avec des blagues simples, mais efficaces, qui l'ont elle-même mise dans l'embarras.",
+      "text": "Après avoir dévoilé leurs nouvelles tenues, les 5 membres d’holoMyth ont célébré en jouant à Jackbox. Elles se sont échauffées avec une partie de Quiplash. Elles ont chacune eu leurs chances de briller, comme lorsqu’Ame s’est moquée de la production de la reprise de « Country Roads » par holoMyth. Calli a gagné cette manche avec des blagues simples, mais efficaces, qui l'ont elle-même mise dans l'embarras.",
       "bbox": {
         "x": 0.0506,
         "y": 0.2083,
@@ -37,12 +37,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Heureusement, aucun bug n’est survenu durant la partie de Champ’d qui a suivi, dans laquelle les membres d’holoMyth ont dessiné leurs champions et challengeurs pour s'affronter dans différentes catégories. Ina a gagné cette manche avec divers Takodachis et un personnage original « volé » à Calli. Elles ont fini en faisant une autre manche de Quiplash où Calli a encore été couronnée meilleure humoriste malgré elle.",
+      "text": "Heureusement, aucun bug n’est survenu durant la partie de Champ’d qui a suivi, dans laquelle les membres d’holoMyth ont dessiné leurs champions et challengeurs pour s’affronter dans différentes catégories. Ina a gagné cette manche avec divers Takodachis et un personnage original « volé » à Calli. Elles ont fini en faisant une autre manche de Quiplash où Calli a encore été couronnée meilleure humoriste malgré elle.",
       "bbox": {
         "x": 0.0513,
         "y": 0.4523,
         "width": 0.4256,
         "height": 0.1424
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gura",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.735,
+        "width": 0.108,
+        "height": 0.022
       }
     },
     {
@@ -56,8 +66,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.207,
+        "width": 0.106,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Calli a fait un stream « Calli au bar » pendant lequel elle a tenté de nous apprendre du vocabulaire anglais lié à la boisson. Elle a réussi à convertir ses Deadbeats au culte de l'OBC (« Only Bar Calli »), et ses tentatives d'expliquer pourquoi appeller une femme « Milady » (Mademoiselle) était une phrase d'accroche génante ont mené le tchat à l’appeller Milady.",
+      "text": "Calli a fait un stream « Calli au bar » pendant lequel elle a tenté de nous apprendre du vocabulaire anglais lié à la boisson. Elle a réussi à convertir ses Deadbeats au culte de l’OBC (« Only Bar Calli »), et ses tentatives d’expliquer pourquoi appeller une femme « Milady » (Mademoiselle) était une phrase d'accroche génante ont mené le tchat à l’appeller Milady.",
       "bbox": {
         "x": 0.5219,
         "y": 0.2483,
@@ -67,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Ensuite, Calli a fait une série de sondages qui ont permis au tchat de créer et de nommer un cocktail. Le résultat était un cocktail fait de vodka, tequila, rhum, jus de citron, glace et Coca Cola, servi secoué et baptisé « Bog Water » (Eau de Tourbiere). Elle a préparé le cocktail et l'a bu en stream. Après ça, elle a annoncé qu’elle comptait faire de « Calli au bar » une série régulière avec différents cocktails personnalisés préparés en stream. Elle lancera également une nouvelle série de cours d'anglais avec les talents d'holoJP, comme annoncé dans un tweet plus tôt dans la journée.",
+      "text": "Ensuite, Calli a fait une série de sondages qui ont permis au tchat de créer et de nommer un cocktail. Le résultat était un cocktail fait de vodka, tequila, rhum, jus de citron, glace et Coca Cola, servi secoué et baptisé « Bog Water » (Eau de Tourbière). Elle a préparé le cocktail et l'a bu en stream. Après ça, elle a annoncé qu’elle comptait faire de « Calli au bar » une série régulière avec différents cocktails personnalisés préparés en stream. Elle lancera également une nouvelle série de cours d'anglais avec les talents d'holoJP, comme annoncé dans un tweet plus tôt dans la journée.",
       "bbox": {
         "x": 0.5219,
         "y": 0.3911,

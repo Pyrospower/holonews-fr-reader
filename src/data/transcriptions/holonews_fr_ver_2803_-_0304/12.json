@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_2803_-_0304",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.4325,
+        "y": 0.0165,
+        "width": 0.1369,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.1814,
+        "width": 0.1062,
+        "height": 0.0217
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Miyabi a lancé un projet visant à organiser un championnat Hololy où la créativité des spectateurs sera mise à l'épreuve. L'application Hololy est une application de caméra AR de Cover qui vous permet de transposer vos talents hololive préférés dans le monde réel. Miyabi fera une sélection parmi les œuvres et choisira les gagnants par catégorie. Parmi ces catégories, citons le prix « Hanasaki Miyabi », le prix du printemps, le prix du plus attendrissant , le prix du plus ingénieux , le prix du plus émouvant , etc. Pour participer, poste votre contribution sur Twitter avec le hashtag #ROZ27RO1) —ETFE. La date de soumission est du 31 mars au 8 avril. I n'y a pas de limite au nombre de soumissions qu'une personne peut faire, alors profitez-en et amusez-vous !",
+      "text": "Miyabi a lancé un projet visant à organiser un championnat Hololy où la créativité des spectateurs sera mise à l'épreuve. L'application Hololy est une application de caméra AR de Cover qui vous permet de transposer vos talents hololive préférés dans le monde réel. Miyabi fera une sélection parmi les œuvres et choisira les gagnants par catégorie. Parmi ces catégories, citons le prix « Hanasaki Miyabi », le prix du printemps, le prix du plus attendrissant , le prix du plus ingénieux , le prix du plus émouvant , etc. Pour participer, poste votre contribution sur Twitter avec le hashtag #ホロスタホロリー選手権. La date de soumission est du 31 mars au 8 avril. Il n'y a pas de limite au nombre de soumissions qu'une personne peut faire, alors profitez-en et amusez-vous !",
       "bbox": {
         "x": 0.07,
         "y": 0.2174,
@@ -17,72 +37,42 @@
     },
     {
       "type": "paragraph",
-      "text": "Les règles sont les suivantes :",
+      "text": "Les règles sont les suivantes :\n- Tout membre d'holostars\n- Aucun personnage protégé par le droit d'auteur ne doit figurer sur la photo\n- Respectez les bonnes manières lorsque vous prenez des photos\n- Soyez attentif à ce qui vous entoure lorsque vous prenez une photo",
       "bbox": {
-        "x": 0.0712,
+        "x": 0.07,
         "y": 0.4952,
-        "width": 0.26,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- Tout membre d'holostars",
-      "bbox": {
-        "x": 0.0706,
-        "y": 0.5091,
-        "width": 0.2281,
-        "height": 0.0104
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- Aucun personnage protégé par le droit d'auteur ne doit figurer sur la photo",
-      "bbox": {
-        "x": 0.0706,
-        "y": 0.523,
-        "width": 0.3469,
-        "height": 0.0273
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- Respectez les bonnes manières lorsque vous prenez des photos",
-      "bbox": {
-        "x": 0.07,
-        "y": 0.5508,
-        "width": 0.3619,
-        "height": 0.0273
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- Soyez attentif à ce qui vous entoure lorsque vous prenez une photo",
-      "bbox": {
-        "x": 0.07,
-        "y": 0.5786,
         "width": 0.3931,
-        "height": 0.0273
+        "height": 0.1107
       }
     },
     {
-      "type": "other",
-      "text": "Translate Tweet",
+      "type": "heading",
+      "text": "Izuru",
       "bbox": {
-        "x": 0.0638,
-        "y": 0.7014,
-        "width": 0.0638,
-        "height": 0.0048
+        "x": 0.1663,
+        "y": 0.7439,
+        "width": 0.0869,
+        "height": 0.0191
       }
     },
     {
       "type": "paragraph",
-      "text": "lzuru a tweeté qu'il était retourné chez ses parents. Pour cette raison, il ne sera pas en mesure de streamer sur YouTube pendant un certain temps. En attendant, il reste connecté à ses auditeurs en faisant des Twitcast. Twitcast est une communauté de streaming en direct qui permet à une personne de diffuser ses émissions en utilisant son téléphone portable. Assurez-vous d'activer les notifications pour Izuru si vous voulez suivre ces Twitcast discussion!",
+      "text": "Izuru a tweeté qu'il était retourné chez ses parents. Pour cette raison, il ne sera pas en mesure de streamer sur YouTube pendant un certain temps. En attendant, il reste connecté à ses auditeurs en faisant des Twitcast. Twitcast est une communauté de streaming en direct qui permet à une personne de diffuser ses émissions en utilisant son téléphone portable. Assurez-vous d'activer les notifications pour Izuru si vous voulez suivre ces Twitcast discussion!",
       "bbox": {
         "x": 0.0694,
         "y": 0.7791,
         "width": 0.3806,
         "height": 0.1732
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka & Shien",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.1814,
+        "width": 0.2194,
+        "height": 0.0204
       }
     },
     {
@@ -106,13 +96,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.6369,
+        "y": 0.6871,
+        "width": 0.08,
+        "height": 0.0191
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après avoir vu la miniature de la première collaboration d'UPROAR!! après leurs débuts, Astel s'est rendu sur Twitter pour la complimenter, mais aussi pour se moquer de la miniature de la première collab de la Gen1 d'holostars. Il a déclaré que les temps évoluent. À cela, Aruran a répondu que c'était lui qui avait fait cette vignette et a retweeté un vieux tweet montrant que tout le monde, et surtout lzuru, avait dit que sa vignette était bonne.",
+      "text": "Après avoir vu la miniature de la première collaboration d'UPROAR!! après leurs débuts, Astel s'est rendu sur Twitter pour la complimenter, mais aussi pour se moquer de la miniature de la première collab de la Gen1 d'holostars. Il a déclaré que les temps évoluent. À cela, Aruran a répondu que c'était lui qui avait fait cette vignette et a retweeté un vieux tweet montrant que tout le monde, et surtout Izuru, avait dit que sa vignette était bonne.",
       "bbox": {
         "x": 0.5369,
         "y": 0.7222,
         "width": 0.3863,
         "height": 0.1393
+      }
+    },
+    {
+      "type": "other",
+      "text": "zzZ",
+      "bbox": {
+        "x": 0.8794,
+        "y": 0.8728,
+        "width": 0.0519,
+        "height": 0.0321
       }
     }
   ],

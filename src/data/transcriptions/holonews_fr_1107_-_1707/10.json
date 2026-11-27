@@ -3,16 +3,46 @@
   "issueId": "holonews_fr_1107_-_1707",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "EN1",
+      "bbox": {
+        "x": 0.4585,
+        "y": 0.015,
+        "width": 0.0831,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.344,
+        "width": 0.0554,
+        "height": 0.0224
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Un extrait du stream Minecraft d'Ina la montrait émue lors de la visite de la maison de Sana. Etant donné l'annonce de la graduation de Sana, on a cru à tort que Ina pleurait, mais elle a précisé, lors d'un stream Elden Ring ultérieur, qu'elle riait en fait silencieusement d’une blague de Sana dans le chat. Elle a également demandé aux clippeurs d'être plus prudents et de faire attention au contexte lorsqu'il s'agit de sujets sérieux. Elle espère que tout le monde se souviendra des moments où Sana nous a fait rire et sourire plutôt que des moments tristes. Ina était au courant de la graduation de Sana depuis un certain temps et a déclaré qu'il était important de terminer les choses sur une note positive et heureuse.",
+      "text": "Un extrait du stream Minecraft d'Ina la montrait émue lors de la visite de la maison de Sana. Étant donné l'annonce de la graduation de Sana, on a cru à tort que Ina pleurait, mais elle a précisé, lors d'un stream Elden Ring ultérieur, qu'elle riait en fait silencieusement d’une blague de Sana dans le chat. Elle a également demandé aux clippeurs d'être plus prudents et de faire attention au contexte lorsqu'il s'agit de sujets sérieux. Elle espère que tout le monde se souviendra des moments où Sana nous a fait rire et sourire plutôt que des moments tristes. Ina était au courant de la graduation de Sana depuis un certain temps et a déclaré qu'il était important de terminer les choses sur une note positive et heureuse.",
       "bbox": {
         "x": 0.0719,
         "y": 0.3841,
         "width": 0.3869,
         "height": 0.2075
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.1662,
+        "y": 0.7991,
+        "width": 0.0892,
+        "height": 0.0224
       }
     },
     {
@@ -26,13 +56,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ame",
+      "bbox": {
+        "x": 0.6308,
+        "y": 0.1795,
+        "width": 0.0769,
+        "height": 0.0214
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Ame s'est connectée a Minecraft pour rechercher les grenouilles fraîchement ajoutées. Heureusement pour elle, elle a trouvé un couple de têtards dans un coffre de sa maison venant d'un certain « #1 Ame Gosling » (Gosling est un terme désignant une personne étant amoureuse d'un VTubeur). Cette personne n'était autre que Kiara, qui avait attrapé et élevé ses propres grenouilles dans un stream précédent. Malgré ce cadeau, Ame est partie à la recherche de grenouilles, mais n’en a croisé qu’une seule. Heureusement, elle a encore les deux tétards que Kiara lui a offerts, afin d'en élever d'autres pour le futur terrarium qu'elle a prévu. Bon courage, Watson !",
+      "text": "Ame s'est connectée à Minecraft pour rechercher les grenouilles fraîchement ajoutées. Heureusement pour elle, elle a trouvé un couple de têtards dans un coffre de sa maison venant d'un certain « #1 Ame Gosling » (Gosling est un terme désignant une personne étant amoureuse d'un VTubeur). Cette personne n'était autre que Kiara, qui avait attrapé et élevé ses propres grenouilles dans un stream précédent. Malgré ce cadeau, Ame est partie à la recherche de grenouilles, mais n’en a croisé qu’une seule. Heureusement, elle a encore les deux têtards que Kiara lui a offerts, afin d'en élever d'autres pour le futur terrarium qu'elle a prévu. Bon courage, Watson !",
       "bbox": {
         "x": 0.5356,
         "y": 0.2196,
         "width": 0.3931,
         "height": 0.1823
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.5427,
+        "width": 0.0769,
+        "height": 0.0224
       }
     },
     {

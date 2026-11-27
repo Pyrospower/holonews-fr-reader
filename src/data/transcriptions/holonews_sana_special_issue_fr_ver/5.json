@@ -2,42 +2,32 @@
   "schemaVersion": 1,
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 5,
-  "lang": "fr",
-  "status": "auto",
+  "lang": "en",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "*- ‘a bit more about your streams. - -",
+      "type": "heading",
+      "text": "SANA INTERVIEW PAGE 4",
       "bbox": {
-        "x": 0.0094,
-        "y": 0.2431,
-        "width": 0.305,
-        "height": 0.0161
+        "x": 0.0386,
+        "y": 0.0456,
+        "width": 0.9214,
+        "height": 0.1448
       }
     },
     {
       "type": "paragraph",
-      "text": "Firstly, the movie you put out for",
+      "text": "Question: Solid advice! Let’s talk a bit more about your streams. Firstly, the movie you put out for your debut stream was all kinds of crazy. How long did it take to develop and create it?",
       "bbox": {
-        "x": 0.0388,
-        "y": 0.2591,
-        "width": 0.2806,
-        "height": 0.0135
+        "x": 0.0371,
+        "y": 0.2312,
+        "width": 0.2914,
+        "height": 0.0804
       }
     },
     {
       "type": "paragraph",
-      "text": "E your debut stream was all kinds of crazy. How long did it take to develop and create it?",
-      "bbox": {
-        "x": 0.0088,
-        "y": 0.2682,
-        "width": 0.3175,
-        "height": 0.0447
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "\"Answer: Around three days think.",
+      "text": "Answer: Around three days I think.",
       "bbox": {
         "x": 0.0069,
         "y": 0.3186,
@@ -57,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: There are too many memorable moments to count! Like the time we gave birth to a horse and showed it to Yagoo, the time I caught a shiny Rayquaza, the longest collab in the history of hololive until then, the time on Opposite Day where I had a strange lapse in my memory for some reason, the time I became a worm... But the most memorable one for me has to be the Beegsmol stream. It took so much time and effort behind the scenes to set it up but seeing everything come together and everybody having fun with my cute and round designs is something I definitely won't ever forget.",
+      "text": "Answer: There are too many memorable moments to count! Like the time we gave birth to a horse and showed it to Yagoo, the time I caught a shiny Rayquaza, the longest collab in the history of hololive until then, the time on Opposite Day where I had a strange lapse in my memory for some reason, the time I became a worm… But the most memorable one for me has to be the Beegsmol stream. It took so much time and effort behind the scenes to set it up but seeing everything come together and everybody having fun with my cute and round designs is something I definitely won’t ever forget.",
       "bbox": {
         "x": 0.0375,
         "y": 0.4102,
@@ -87,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "On my very first superchat-enabled stream I didn't think I was gonna get a whole lot of superchats so I bought a ton of party poppers to pop every time somebody did. I didn't expect the number that I eventually got, and became so inundated by them that I couldn't keep up and I ended up with a room full of confetti.",
+      "text": "On my very first superchat-enabled stream I didn’t think I was gonna get a whole lot of superchats so I bought a ton of party poppers to pop every time somebody did. I didn’t expect the number that I eventually got, and became so inundated by them that I couldn’t keep up and I ended up with a room full of confetti.",
       "bbox": {
         "x": 0.0375,
         "y": 0.8611,
@@ -97,27 +87,17 @@
     },
     {
       "type": "paragraph",
-      "text": "Questio That was I s pretty ë azy, yes! The'Sanallités were out in",
+      "text": "Question: That was pretty crazy, yes! The Sanallites were out in full force to shower you with love and support that day. Was there any other viewer interaction that has always stayed in your mind or stuck out to you?",
       "bbox": {
-        "x": 0.3625,
-        "y": 0.2161,
-        "width": 0.2963,
-        "height": 0.0417
+        "x": 0.3657,
+        "y": 0.2282,
+        "width": 0.2971,
+        "height": 0.0992
       }
     },
     {
       "type": "paragraph",
-      "text": "I fll force to shower you with love . “and support that day. Was there any other viewer interaction that ‘ has always stayed I in your mind ‘or. stuck out to you? ;",
-      "bbox": {
-        "x": 0.3456,
-        "y": 0.2569,
-        "width": 0.3194,
-        "height": 0.0725
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Answer: In general, every single* time. l’‘want to do something there will always be people around to keep me company. That's what made streaming so fun for me. Whenever I say something strange on stream I'd look at chat and they'd never fail to make it even weirder. I love that.",
+      "text": "Answer: In general, every single time I want to do something there will always be people around to keep me company. That’s what made streaming so fun for me. Whenever I say something strange on stream I’d look at chat and they’d never fail to make it even weirder. I love that.",
       "bbox": {
         "x": 0.3656,
         "y": 0.3446,
@@ -157,22 +137,42 @@
     },
     {
       "type": "paragraph",
-      "text": "O-okay! What streams were you particularly satisfied with?",
+      "text": "Answer: ´•ᴗ•`",
+      "bbox": {
+        "x": 0.3657,
+        "y": 0.6101,
+        "width": 0.2729,
+        "height": 0.0248
+      }
+    },
+    {
+      "type": "other",
+      "text": "Cut",
+      "bbox": {
+        "x": 0.4357,
+        "y": 0.7242,
+        "width": 0.0257,
+        "height": 0.0129
+      }
+    },
+    {
+      "type": "other",
+      "text": "Neighbula",
+      "bbox": {
+        "x": 0.5029,
+        "y": 0.7321,
+        "width": 0.0443,
+        "height": 0.0089
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: …O-okay! What streams were you particularly satisfied with?",
       "bbox": {
         "x": 0.3656,
         "y": 0.7591,
         "width": 0.2581,
         "height": 0.0391
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Question: …",
-      "bbox": {
-        "x": 0.3656,
-        "y": 0.7591,
-        "width": 0.1163,
-        "height": 0.0135
       }
     },
     {
@@ -187,7 +187,7 @@
     },
     {
       "type": "paragraph",
-      "text": "I was also really proud of the CouncilRys April Fools stream relay as well because I built up the system to pull it off and the result was hilarious! All the effort put in was worth it.",
+      "text": "I was also really proud of the CouncilRys April Fools stream relay as well because I built up the system to pull it off and the result was hilarious! All the effort I put in was worth it.",
       "bbox": {
         "x": 0.365,
         "y": 0.888,
@@ -197,27 +197,17 @@
     },
     {
       "type": "paragraph",
-      "text": "what would you say was the “craziest collab you've gote (if not",
+      "text": "Question: We think so too! Regarding collabs, the Ender Dragon collab was crazy - but what would you say was the craziest collab you've done (if not that one)?",
       "bbox": {
-        "x": 0.6881,
-        "y": 0.2678,
-        "width": 0.2988,
-        "height": 0.033
+        "x": 0.6929,
+        "y": 0.2282,
+        "width": 0.2986,
+        "height": 0.0853
       }
     },
     {
       "type": "paragraph",
-      "text": "“that one)?",
-      "bbox": {
-        "x": 0.6831,
-        "y": 0.2982,
-        "width": 0.1006,
-        "height": 0.0234
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Answer: I like the April Fool's Si relay! t like HoloMinistry, but currently the craziest one yet has to be the Beegsmol 3D collab.",
+      "text": "Answer: I like the April Fool’s relay! I like HoloMinistry, but currently the craziest one yet has to be the Beegsmol 3D collab.",
       "bbox": {
         "x": 0.6938,
         "y": 0.3173,
@@ -227,7 +217,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: We can't think of a single collab of yours that wasn’t interesting, but the Beegsmol VRC stream definitely has to be the best of them all! Besides your creative off-the-wall content, one of the other things you're known for are incredibly long streams, how do you do it?",
+      "text": "Question: We can’t think of a single collab of yours that wasn’t interesting, but the Beegsmol VRC stream definitely has to be the best of them all! Besides your creative off-the-wall content, one of the other things you’re known for are incredibly long streams, how do you do it?",
       "bbox": {
         "x": 0.6938,
         "y": 0.4028,
@@ -237,7 +227,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: It's just fun! It's fun when you're around people who want to be around you.",
+      "text": "Answer: It’s just fun! It’s fun when you’re around people who want to be around you.",
       "bbox": {
         "x": 0.6938,
         "y": 0.546,
@@ -257,7 +247,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: I just have fun! I like to talk with chat and do activities together. I don't expect anything more or anything less and always hit my mark.",
+      "text": "Answer: I just have fun! I like to talk with chat and do activities together. I don’t expect anything more or anything less and always hit my mark.",
       "bbox": {
         "x": 0.6931,
         "y": 0.6719,
@@ -267,7 +257,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: That's a great hassle-free approach. You play a variety of games from Kirby to Metroid, but were there any games that you grew to like more as you played them on stream?",
+      "text": "Question: That’s a great hassle-free approach. You play a variety of games from Kirby to Metroid, but were there any games that you grew to like more as you played them on stream?",
       "bbox": {
         "x": 0.6931,
         "y": 0.7569,

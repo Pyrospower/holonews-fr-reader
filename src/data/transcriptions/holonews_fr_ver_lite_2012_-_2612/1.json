@@ -3,10 +3,20 @@
   "issueId": "holonews_fr_ver_lite_2012_-_2612",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
+      "text": "Édition allégée !",
+      "bbox": {
+        "x": 0.0313,
+        "y": 0.1727,
+        "width": 0.3,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "heading",
       "text": "Dans ce numéro :",
       "bbox": {
         "x": 0.0344,
@@ -16,8 +26,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Le miracle de Noél de Fubuki",
+      "type": "other",
+      "text": "Le miracle de Noël de Fubuki",
       "bbox": {
         "x": 0.035,
         "y": 0.2912,
@@ -26,7 +36,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "HoloTree ! Désormais alimenté par Yagoo !",
       "bbox": {
         "x": 0.0344,
@@ -36,7 +46,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "Concert holostars",
       "bbox": {
         "x": 0.0338,

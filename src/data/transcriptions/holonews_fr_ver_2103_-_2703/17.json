@@ -3,10 +3,10 @@
   "issueId": "holonews_fr_ver_2103_-_2703",
   "page": 17,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Projet de fans",
       "bbox": {
         "x": 0.3688,
@@ -27,12 +27,42 @@
     },
     {
       "type": "paragraph",
-      "text": "Si vous trouvez quelque chose pour la semaine prochaine, faites- le nous savoir !",
+      "text": "Si vous trouvez quelque chose pour la semaine prochaine, faites-le nous savoir !",
       "bbox": {
         "x": 0.1919,
         "y": 0.2105,
         "width": 0.6231,
         "height": 0.0755
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4088,
+        "y": 0.4223,
+        "width": 0.185,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "★ LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.7363,
+        "y": 0.4284,
+        "width": 0.2094,
+        "height": 0.0156
+      }
+    },
+    {
+      "type": "other",
+      "text": "DEATH STRANDING ★\nGROOVE COASTER WAI WAI PARTY!!!!\nBloodborne\nYAKUZA KIWAMI\nCooking Simulator CAKES & COOKIES\nKirby and the Forgotten Land",
+      "bbox": {
+        "x": 0.1877,
+        "y": 0.4679,
+        "width": 0.2969,
+        "height": 0.4338
       }
     },
     {
@@ -47,22 +77,12 @@
     },
     {
       "type": "other",
-      "text": "this game",
+      "text": "19 talents streamed this game",
       "bbox": {
-        "x": 0.1825,
-        "y": 0.9631,
-        "width": 0.0712,
-        "height": 0.0109
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Let's play",
-      "bbox": {
-        "x": 0.4088,
-        "y": 0.4223,
-        "width": 0.185,
-        "height": 0.0291
+        "x": 0.1769,
+        "y": 0.9263,
+        "width": 0.0923,
+        "height": 0.0491
       }
     },
     {
@@ -76,13 +96,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "À LET'S PLAY TERMINÉS",
+      "type": "other",
+      "text": "Cyberpunk 2077\nSEKIRO SHADOWS DIE TWICE\nBAD END THEATER\nTactical Leaping Adventure\nJump King\nTHERE IS A SMOKING HOT BABE AT THE TOP!\nPORTAL\nKEEP TALKING and NOBODY EXPLODES\nOPERATION: TANGO",
       "bbox": {
-        "x": 0.7363,
-        "y": 0.4284,
-        "width": 0.2094,
-        "height": 0.0156
+        "x": 0.6662,
+        "y": 0.4669,
+        "width": 0.2631,
+        "height": 0.5107
       }
     }
   ],

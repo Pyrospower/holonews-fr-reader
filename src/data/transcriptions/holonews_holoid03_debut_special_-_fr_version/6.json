@@ -3,11 +3,11 @@
   "issueId": "holonews_holoid03_debut_special_-_fr_version",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "is / Kanaeru",
+      "text": "Kobo Kanaeru",
       "bbox": {
         "x": 0.0333,
         "y": 0.0463,
@@ -16,8 +16,8 @@
       }
     },
     {
-      "type": "other",
-      "text": "Bokobokobo- Kobo Kanaeru à votre service ! Votre / 4 / chamane des pluies de la 3e génération d'hololD est là ;)",
+      "type": "paragraph",
+      "text": "Bokobokobo- Kobo Kanaeru à votre service ! Votre chamane des pluies de la 3e génération d'holoID est là ;)",
       "bbox": {
         "x": 0.1444,
         "y": 0.1593,
@@ -26,13 +26,23 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "En colère",
       "bbox": {
         "x": 0.7278,
         "y": 0.3256,
         "width": 0.2072,
         "height": 0.0278
+      }
+    },
+    {
+      "type": "other",
+      "text": "Heureuse",
+      "bbox": {
+        "x": 0.5165,
+        "y": 0.531,
+        "width": 0.2129,
+        "height": 0.031
       }
     }
   ],

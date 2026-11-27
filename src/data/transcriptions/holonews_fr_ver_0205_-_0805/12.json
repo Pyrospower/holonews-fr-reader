@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0205_-_0805",
   "page": 12,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,7 +17,7 @@
     },
     {
       "type": "heading",
-      "text": "hien & Oga",
+      "text": "Shien & Oga",
       "bbox": {
         "x": 0.2075,
         "y": 0.1801,
@@ -33,46 +33,6 @@
         "y": 0.2188,
         "width": 0.38,
         "height": 0.0907
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "I-I CAN EXPLAIN",
-      "bbox": {
-        "x": 0.0719,
-        "y": 0.4375,
-        "width": 0.1656,
-        "height": 0.0113
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "lofi a dénoncé Ollie pour avoir dessiné une illustration obscène d'elle par ennui. La preuve qu'elle a présentée était une capture d'écran de leur conversation sur Discord. Elle a évidemment dû censurer le dessin. lofi a ensuite révélé qu'Ollie avait également dessiné une illustration obscène de Reine.",
-      "bbox": {
-        "x": 0.0719,
-        "y": 0.5321,
-        "width": 0.385,
-        "height": 0.0907
-      }
-    },
-    {
-      "type": "heading",
-      "text": "Tofi",
-      "bbox": {
-        "x": 0.1706,
-        "y": 0.7656,
-        "width": 0.0513,
-        "height": 0.0174
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "lofi a joué au remake du jeu d'horreur Ib. Alors qu'elle était effrayée par les jumpscares quasi constants et les créatures effrayantes, son intérêt est monté en flèche lorsqu'elle a découvert que le jeu comportait un PNJ représentant un très beau garçon.",
-      "bbox": {
-        "x": 0.0719,
-        "y": 0.8051,
-        "width": 0.3838,
-        "height": 0.0803
       }
     },
     {
@@ -93,6 +53,66 @@
         "y": 0.1628,
         "width": 0.39,
         "height": 0.1532
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.4727,
+        "y": 0.3308,
+        "width": 0.0564,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi & Ollie",
+      "bbox": {
+        "x": 0.1909,
+        "y": 0.4975,
+        "width": 0.1745,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Iofi a dénoncé Ollie pour avoir dessiné une illustration obscène d'elle par ennui. La preuve qu'elle a présentée était une capture d'écran de leur conversation sur Discord. Elle a évidemment dû censurer le dessin. Iofi a ensuite révélé qu'Ollie avait également dessiné une illustration obscène de Reine.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.5321,
+        "width": 0.385,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.1706,
+        "y": 0.7656,
+        "width": 0.0513,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Iofi a joué au remake du jeu d'horreur Ib. Alors qu'elle était effrayée par les jumpscares quasi constants et les créatures effrayantes, son intérêt est monté en flèche lorsqu'elle a découvert que le jeu comportait un PNJ représentant un très beau garçon.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.8051,
+        "width": 0.3838,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Reine & Zeta",
+      "bbox": {
+        "x": 0.6655,
+        "y": 0.4924,
+        "width": 0.2018,
+        "height": 0.0303
       }
     },
     {

@@ -3,21 +3,31 @@
   "issueId": "holonews_fr_ver_2802_-_0603",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "2022.2.28 OA A-chan",
+      "type": "heading",
+      "text": "DIVERS",
       "bbox": {
-        "x": 0.1431,
-        "y": 0.2096,
-        "width": 0.1725,
-        "height": 0.0473
+        "x": 0.16,
+        "y": 0.068,
+        "width": 0.217,
+        "height": 0.03
+      }
+    },
+    {
+      "type": "heading",
+      "text": "A-chan",
+      "bbox": {
+        "x": 0.152,
+        "y": 0.235,
+        "width": 0.165,
+        "height": 0.024
       }
     },
     {
       "type": "paragraph",
-      "text": "Le 28 février (JST), A-chan a fêté son cinquième anniversaire en tant que membre du personnel d'hololive. Elle a publié une vidéo sur le subreddit dans laquelle elle parlait en anglais et remerciait les fans d'outre-mer de soutenir hololive avec leurs messages amusants sur Reddit.",
+      "text": "Le 28 février (JST), A-chan a fêté son cinquième anniversaire en tant que membre du personnel d’hololive. Elle a publié une vidéo sur le subreddit dans laquelle elle parlait en anglais et remerciait les fans d’outre-mer de soutenir hololive avec leurs messages amusants sur Reddit.",
       "bbox": {
         "x": 0.05,
         "y": 0.2782,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Plus tard, elle a mentionné dans son stream d'actualité mensuel sur la chaîne hololive, holoFM, qu'elle a été interrogée pour le numéro de mars de VTuber Style. Cependant, la plus grande annonce était qu'un nouveau membre du personnel, Harusaki Nodoka, va rejoindre COVER le 1er avril.",
+      "text": "Plus tard, elle a mentionné dans son stream d’actualité mensuel sur la chaîne hololive, holoFM, qu’elle a été interrogée pour le numéro de mars de VTuber Style. Cependant, la plus grande annonce était qu’un nouveau membre du personnel, Harusaki Nodoka, va rejoindre COVER le 1er avril.",
       "bbox": {
         "x": 0.05,
         "y": 0.3837,
@@ -37,12 +47,22 @@
     },
     {
       "type": "paragraph",
-      "text": "(Veuillez noter que le 1er avril est tout simplement le début de l'année fiscaleffinanciere au Japon et n'a rien avoir avec le Poisson d'avril.)",
+      "text": "(Veuillez noter que le 1er avril est tout simplement le début de l’année fiscale/financière au Japon et n’a rien avoir avec le Poisson d’avril.)",
       "bbox": {
         "x": 0.0513,
         "y": 0.5052,
         "width": 0.4163,
         "height": 0.0473
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive",
+      "bbox": {
+        "x": 0.154,
+        "y": 0.743,
+        "width": 0.187,
+        "height": 0.025
       }
     },
     {
@@ -56,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Hololive",
+      "bbox": {
+        "x": 0.625,
+        "y": 0.237,
+        "width": 0.186,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 1er mars, une collaboration entre hololive et le j jeu mobile Tokyo 7th Sisters a été annoncée. On va pouvoir retrouver Sora, AZKi et Suisei comme personnages a ui pourront être gagnés dans le tirage du a. Le jeu aura également une ep eh de certaines de leurs chansons telles que « GHOST », « The Last Frontier » et « Miren Records » par Hoshikage Ai et Tsukiyo Yui, deux personnages originaux du jeu. Cette collaboration est d’une durée limitée, prévu d'être disponible à partir du 8 mars à 18h00 jusqu’au 22 mars à 14h59.",
+      "text": "Le 1er mars, une collaboration entre hololive et le jeu mobile Tokyo 7th Sisters a été annoncée. On va pouvoir retrouver Sora, AZKi et Suisei comme personnages qui pourront être gagnés dans le tirage du gacha. Le jeu aura également une interprétation de certaines de leurs chansons telles que « GHOST », « The Last Frontier » et « Miren Records » par Hoshikage Ai et Tsukiyo Yui, deux personnages originaux du jeu. Cette collaboration est d’une durée limitée, prévu d’être disponible à partir du 8 mars à 18h00 jusqu’au 22 mars à 14h59.",
       "bbox": {
         "x": 0.5231,
         "y": 0.2791,
@@ -66,13 +96,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "a été mis en ligne le 5 mars (JST). Suzune (Nene) s'est excusée auprès du protagoniste pour l’avoir frappé dans l'épisode précédent, croyant que la rumeur circulant à propos de l'étudiant transféré soit vraie, tandis que Touka (Lamy) n’y croit pas du tout. Presque immédiatement après que le protagoniste l’ait pardonné, un tremblement de terre a fait s'effondrer la pièce sur elle-même, et le protagoniste est laissé seul dans un couloir intact. C’est ensuite qu’il a rencontré Misora Shino (Sora), cette dernière le reconnaissant.",
+      "type": "heading",
+      "text": "HoloERROR",
       "bbox": {
-        "x": 0.5219,
-        "y": 0.737,
-        "width": 0.4263,
-        "height": 0.2079
+        "x": 0.626,
+        "y": 0.682,
+        "width": 0.261,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 3e épisode de la série 2D d’holoERROR a été mis en ligne le 5 mars (JST). Suzune (Nene) s’est excusée auprès du protagoniste pour l’avoir frappé dans l’épisode précédent, croyant que la rumeur circulant à propos de l’étudiant transféré soit vraie, tandis que Touka (Lamy) n’y croit pas du tout. Presque immédiatement après que le protagoniste l’ait pardonné, un tremblement de terre a fait s’effondrer la pièce sur elle-même, et le protagoniste est laissé seul dans un couloir intact. C’est ensuite qu’il a rencontré Misora Shino (Sora), cette dernière le reconnaissant.",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.72,
+        "width": 0.427,
+        "height": 0.225
       }
     }
   ],

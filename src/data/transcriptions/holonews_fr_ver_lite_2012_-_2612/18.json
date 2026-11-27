@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_lite_2012_-_2612",
   "page": 18,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,222 +17,212 @@
     },
     {
       "type": "paragraph",
-      "text": "REPRISE",
+      "text": "REPRISE · Fubuki · ANIMAL",
       "bbox": {
-        "x": 0.0494,
-        "y": 0.1146,
-        "width": 0.0663,
-        "height": 0.0069
+        "x": 0.04,
+        "y": 0.1128,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "Fubuki",
+      "text": "REPRISE · Watame · PHONY",
       "bbox": {
-        "x": 0.0544,
-        "y": 0.1849,
-        "width": 0.0556,
-        "height": 0.0095
+        "x": 0.3469,
+        "y": 0.1128,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "CHANSON",
+      "text": "REPRISE · Botan · ANIMAL",
       "bbox": {
-        "x": 0.0488,
-        "y": 0.3589,
-        "width": 0.0644,
-        "height": 0.0052
+        "x": 0.6544,
+        "y": 0.1128,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "ORIGINALE Suisei RAINY.",
+      "text": "CHANSON ORIGINALE · Roberu · POP-TALK",
       "bbox": {
-        "x": 0.0469,
-        "y": 0.3663,
-        "width": 0.0875,
-        "height": 0.0985
+        "x": 0.04,
+        "y": 0.2352,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "REPRISE",
+      "text": "CHANSON ORIGINALE · Holostars · MAGIC WORD ORCHESTRA",
       "bbox": {
-        "x": 0.0494,
-        "y": 0.4805,
-        "width": 0.0663,
-        "height": 0.0069
+        "x": 0.3469,
+        "y": 0.2352,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "2) & ; Lamy & Botan LION",
+      "text": "REPRISE · Shien · SHANTI",
       "bbox": {
-        "x": 0.0544,
-        "y": 0.5265,
-        "width": 0.1506,
-        "height": 0.0582
+        "x": 0.6544,
+        "y": 0.2352,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "REPRISE eww Amelia DECK THE HALLS",
+      "text": "CHANSON ORIGINALE · Suisei · BYE BYE RAINY",
       "bbox": {
-        "x": 0.05,
-        "y": 0.7244,
-        "width": 0.1919,
-        "height": 0.1068
+        "x": 0.04,
+        "y": 0.3568,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "JING",
+      "text": "CHANSON ORIGINALE · MelKiss · CHOCO MELTY",
       "bbox": {
-        "x": 0.045,
-        "y": 0.8459,
-        "width": 0.0706,
-        "height": 0.0217
+        "x": 0.3469,
+        "y": 0.3568,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "Watame",
+      "text": "REPRISE · Koyori · NH-UH-UH",
       "bbox": {
-        "x": 0.3563,
-        "y": 0.1849,
-        "width": 0.0706,
-        "height": 0.0095
+        "x": 0.6544,
+        "y": 0.3568,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "CHANSON",
+      "text": "REPRISE · Lamy & Botan · LION",
       "bbox": {
-        "x": 0.355,
-        "y": 0.3589,
-        "width": 0.0644,
-        "height": 0.0052
+        "x": 0.04,
+        "y": 0.4787,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "ROCK: CHANSON 0 | 1 E 0",
+      "text": "REPRISE · Towa & Suisei · HAIIRO TO AO",
       "bbox": {
-        "x": 0.2519,
-        "y": 0.8429,
-        "width": 0.3031,
-        "height": 0.0395
+        "x": 0.3469,
+        "y": 0.4787,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "Suisei & Natsushiro Takaaki Al YORI",
+      "text": "REPRISE · Kanata & Shigure Ui · CAMPANELLA",
       "bbox": {
-        "x": 0.3569,
-        "y": 0.9162,
-        "width": 0.2238,
-        "height": 0.0252
+        "x": 0.6544,
+        "y": 0.4787,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "GUNJOU",
+      "text": "REPRISE · Aqua · HOKORI TAKAKI IDOL",
       "bbox": {
-        "x": 0.3569,
-        "y": 0.9436,
-        "width": 0.1,
-        "height": 0.01
+        "x": 0.04,
+        "y": 0.6007,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "REPRISE",
+      "text": "REPRISE · Kiara & Ina · IIYA IIYA IIYA",
       "bbox": {
-        "x": 0.6637,
-        "y": 0.1146,
-        "width": 0.0663,
-        "height": 0.0069
+        "x": 0.3469,
+        "y": 0.6007,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "Botan",
+      "text": "IRyS · SPARKS OF JOY",
       "bbox": {
-        "x": 0.6644,
-        "y": 0.1849,
-        "width": 0.0481,
-        "height": 0.0091
-      }
-    },
-    {
-      "type": "heading",
-      "text": "ANIMAL — 4 Chant Shien",
-      "bbox": {
-        "x": 0.6006,
-        "y": 0.2018,
-        "width": 0.29,
-        "height": 0.1141
-      }
-    },
-    {
-      "type": "heading",
-      "text": "SHANTI",
-      "bbox": {
-        "x": 0.6644,
-        "y": 0.3229,
-        "width": 0.1725,
-        "height": 0.0187
-      }
-    },
-    {
-      "type": "heading",
-      "text": "Koÿ©ri NH-UH-UH",
-      "bbox": {
-        "x": 0.6656,
-        "y": 0.428,
-        "width": 0.245,
-        "height": 0.0356
+        "x": 0.6544,
+        "y": 0.6615,
+        "width": 0.305,
+        "height": 0.0547
       }
     },
     {
       "type": "paragraph",
-      "text": "REPRISE",
+      "text": "REPRISE · Amelia · DECK THE HALLS",
       "bbox": {
-        "x": 0.6637,
-        "y": 0.48,
-        "width": 0.0663,
-        "height": 0.0069
+        "x": 0.04,
+        "y": 0.7227,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "REPRISE",
+      "text": "REPRISE · Hololive English · THE TWELVE DAYS OF CHRISTMAS",
       "bbox": {
-        "x": 0.6637,
-        "y": 0.8459,
-        "width": 0.0663,
-        "height": 0.0113
+        "x": 0.3469,
+        "y": 0.7227,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "Haachama & Kanauru AVERY HAACHAMA",
+      "text": "REPRISE · Gura · TARGET FOR LOVE",
       "bbox": {
-        "x": 0.6637,
-        "y": 0.9158,
-        "width": 0.2463,
-        "height": 0.0252
+        "x": 0.6544,
+        "y": 0.7227,
+        "width": 0.305,
+        "height": 0.1155
       }
     },
     {
       "type": "paragraph",
-      "text": "CHRISTMAS",
+      "text": "REPRISE · Kiara & Kanauru · JINGLEBELL ROCK",
       "bbox": {
-        "x": 0.6637,
-        "y": 0.9431,
-        "width": 0.145,
-        "height": 0.01
+        "x": 0.04,
+        "y": 0.8442,
+        "width": 0.305,
+        "height": 0.1155
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "CHANSON ORIGINALE · Suisei & Natsushiro Takaaki · AI YORI GUNJOU",
+      "bbox": {
+        "x": 0.3469,
+        "y": 0.8442,
+        "width": 0.305,
+        "height": 0.1155
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "REPRISE · Haachama & Kanauru · A VERY HAACHAMA CHRISTMAS",
+      "bbox": {
+        "x": 0.6544,
+        "y": 0.8442,
+        "width": 0.305,
+        "height": 0.1155
       }
     }
   ],

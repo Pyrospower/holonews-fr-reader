@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2102_-_2702",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0365,
         "width": 0.2256,
         "height": 0.0278
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloEN",
+      "bbox": {
+        "x": 0.3217,
+        "y": 0.2118,
+        "width": 0.14,
+        "height": 0.0208
       }
     },
     {
@@ -26,13 +36,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Fauna",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.4907,
+        "width": 0.1417,
+        "height": 0.0243
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 22 février, Fauna a présenté sa mascotte, Nemu, dessinée par Asagi ! Nemu est une gilin, comme Fauna, elle aime dormir et est un peu égoïste. Ses fans ont également reçu 17 nouveaux émojis dessinés par Maeriette, dont 4 émojis de Nemu, un bâton lumineux rose et un vert, ainsi que Fauna chauve.",
+      "text": "Le 22 février, Fauna a présenté sa mascotte, Nemu, dessinée par Asagi ! Nemu est une qilin, comme Fauna, elle aime dormir et est un peu égoïste. Ses fans ont également reçu 17 nouveaux émojis dessinés par Maeriette, dont 4 émojis de Nemu, un bâton lumineux rose et un vert, ainsi que Fauna chauve.",
       "bbox": {
         "x": 0.0563,
         "y": 0.5343,
         "width": 0.4106,
         "height": 0.1029
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Council",
+      "bbox": {
+        "x": 0.3117,
+        "y": 0.7813,
+        "width": 0.1717,
+        "height": 0.0266
       }
     },
     {
@@ -46,6 +76,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kiara & Calli",
+      "bbox": {
+        "x": 0.665,
+        "y": 0.2095,
+        "width": 0.2833,
+        "height": 0.0266
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Kiara, Calli et OMOCAT passeront en revue des photos de fans portant les vêtements holoEN x OMOCAT. Le stream aura lieu sur la chaîne de Kiara le 1er mars à 16h00 JST. Il y aura également une « annonce et des récompenses » ! Vous pouvez soumettre votre tenue en la tweetant avec le hashtag #HoloxOmoFashionPolice 12 heures avant la diffusion.",
       "bbox": {
@@ -53,6 +93,16 @@
         "y": 0.2556,
         "width": 0.4175,
         "height": 0.1289
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Baelz & IRyS",
+      "bbox": {
+        "x": 0.665,
+        "y": 0.5243,
+        "width": 0.2833,
+        "height": 0.0278
       }
     },
     {
@@ -67,32 +117,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Dans le troisième épisode de",
-      "bbox": {
-        "x": 0.5188,
-        "y": 0.7734,
-        "width": 0.275,
-        "height": 0.0148
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Baewatch, les filles ont célébré l'anniversaire du « Directeur ». La première partie de l'épisode était en |i japonais, et les vœux d'anniversaj£&",
+      "text": "Dans le troisième épisode de Baewatch, les filles ont célébré l'anniversaire du « Directeur ». La première partie de l'épisode était en japonais, et les vœux d'anniversaire étaient en anglais avec des sous-titres japonais. Hatsuna a admiré la voix douce d'Itsuka, et Murasaki a remercié le directeur pour son appel de Noël. Hatsuna a dit qu'elle avait hâte de voir ce que le directeur allait créer ensuite !",
       "bbox": {
         "x": 0.5163,
-        "y": 0.7891,
+        "y": 0.7734,
         "width": 0.3738,
-        "height": 0.0629
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "étaient en anglais avec des sous-titres japonais. Hatsuna a admiré la voix douce d'ltsuka, et Murasaki a remercié le directeur pour son appel de Noël. Hatsuna a dit qu'elle avait hâte de voir ce que le directeur allait créer ensuite !",
-      "bbox": {
-        "x": 0.5175,
-        "y": 0.8516,
-        "width": 0.3288,
-        "height": 0.1055
+        "height": 0.1837
       }
     }
   ],

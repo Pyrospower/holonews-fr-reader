@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_3005_-_0506",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -37,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle a montré de nombreuses réponses intéressantes de la part des Haatons, comme lorsque quelqu'un a imprimé le message et l'a encadré dans sa chambre. Une personne l'a laissée en « vu » pendant une journée entière uniquement pour lui demander si elle avait besoin de quelque chose. Une autre personne a réagi par un « pouce levé » sans aucune réponse et a laissé un « otsurouge- » lorsqu'elle a menacé de quitter YouTube.",
+      "text": "Elle a montré de nombreuses réponses intéressantes de la part des Haatons, comme lorsque quelqu'un a imprimé le message et l'a encadré dans sa chambre. Une personne l'a laissée en « vu » pendant une journée entière uniquement pour lui demander si elle avait besoin de quelque chose. Une autre personne a réagi par un « pouce levé » sans aucune réponse et a laissé un « otsurouge~ » lorsqu'elle a menacé de quitter YouTube.",
       "bbox": {
         "x": 0.0719,
         "y": 0.2769,
@@ -53,6 +53,16 @@
         "y": 0.408,
         "width": 0.3894,
         "height": 0.0829
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.628,
+        "width": 0.173,
+        "height": 0.027
       }
     },
     {
@@ -123,6 +133,16 @@
         "y": 0.4332,
         "width": 0.3875,
         "height": 0.1515
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.723,
+        "width": 0.174,
+        "height": 0.027
       }
     },
     {

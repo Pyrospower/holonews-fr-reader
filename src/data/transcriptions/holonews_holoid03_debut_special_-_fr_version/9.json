@@ -3,10 +3,10 @@
   "issueId": "holonews_holoid03_debut_special_-_fr_version",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Présentation des papas et mamans",
       "bbox": {
         "x": 0.0456,
@@ -16,7 +16,27 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "heading",
+      "text": "AruTera",
+      "bbox": {
+        "x": 0.146,
+        "y": 0.129,
+        "width": 0.1444,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "other",
+      "text": "@TeraAru6262",
+      "bbox": {
+        "x": 0.146,
+        "y": 0.1566,
+        "width": 0.1508,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "heading",
       "text": "Yasuda Suzuhito",
       "bbox": {
         "x": 0.6206,
@@ -36,6 +56,26 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ponkan",
+      "bbox": {
+        "x": 0.1429,
+        "y": 0.3186,
+        "width": 0.1397,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "other",
+      "text": "@ponkan_8",
+      "bbox": {
+        "x": 0.1444,
+        "y": 0.3462,
+        "width": 0.1143,
+        "height": 0.0165
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Suivez et soutenez tous ces merveilleux artistes et riggers !",
       "bbox": {
@@ -43,6 +83,16 @@
         "y": 0.3426,
         "width": 0.3389,
         "height": 0.103
+      }
+    },
+    {
+      "type": "other",
+      "text": "@tou_ilie",
+      "bbox": {
+        "x": 0.0508,
+        "y": 0.6593,
+        "width": 0.0984,
+        "height": 0.0165
       }
     },
     {

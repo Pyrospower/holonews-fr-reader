@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_1807_-_2407",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Airani Iofifteen",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.263,
+        "width": 0.895,
+        "height": 0.073
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "lofi a célébré son anniversaire le 22 juillet (qui était prévu le 15 juillet mais a été reporté parce qu'elle était malade). Elle a commencé son stream en remerciant les fans qu'ils l'ont soutenu et l'ont aidé à franchir la barre des 1 million d'abonnés (la domination du monde).",
+      "text": "Iofi a célébré son anniversaire le 22 juillet (qui était prévu le 15 juillet mais a été reporté parce qu’elle était malade). Elle a commencé son stream en remerciant les fans qu’ils l’ont soutenu et l’ont aidé à franchir la barre des 1 million d’abonnés (la domination du monde).",
       "bbox": {
         "x": 0.3906,
         "y": 0.3661,
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle a ensuite montré sa nouvelle tenue: un sweat à capuche rouge très large, avec des oreilles de chat. La conception originale a été faites par lofi elle-même, le modèle a été dessiné par Mitsuki-sensei (la maman d'Iofi) et rig par Nokoyama-sensei.",
+      "text": "Elle a ensuite montré sa nouvelle tenue: un sweat à capuche rouge très large, avec des oreilles de chat. La conception originale a été faites par Iofi elle-même, le modèle a été dessiné par Mitsuki-sensei (la maman d’Iofi) et rig par Nokoyama-sensei.",
       "bbox": {
         "x": 0.39,
         "y": 0.4545,
@@ -27,27 +37,17 @@
     },
     {
       "type": "paragraph",
-      "text": "Ensuite, lofi a lu une lettre à l'attention de ses spectateurs, puis elle a regardé une vidéo nommé",
-      "bbox": {
-        "x": 0.3906,
-        "y": 0.5502,
-        "width": 0.4789,
-        "height": 0.0297
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "« Goresan Warna », réalisé par l'Atelier loforia, qui inclut un long message pour elle, avec des « joyeux anniversaire » dans plusieurs langues et une chanson originale chantée par des amis VTubers. Tous ses efforts ont ému lofi. (Bon travail, loforia)",
+      "text": "Ensuite, Iofi a lu une lettre à l’attention de ses spectateurs, puis elle a regardé une vidéo nommé « Goresan Warna », réalisé par l’Atelier loforia, qui inclut un long message pour elle, avec des « joyeux anniversaire » dans plusieurs langues et une chanson originale chantée par des amis VTubers. Tous ses efforts ont ému Iofi. (Bon travail, loforia)",
       "bbox": {
         "x": 0.39,
-        "y": 0.5795,
+        "y": 0.5502,
         "width": 0.5161,
-        "height": 0.0737
+        "height": 0.103
       }
     },
     {
       "type": "paragraph",
-      "text": "Après ce moment d'émotion, elle a révélé ses produits dérivés pour son anniversaire :",
+      "text": "Après ce moment d’émotion, elle a révélé ses produits dérivés pour son anniversaire :",
       "bbox": {
         "x": 0.39,
         "y": 0.659,
@@ -57,37 +57,17 @@
     },
     {
       "type": "paragraph",
-      "text": "• Un diorama en acrylique, illustrée par Yano Mitsuki",
+      "text": "• Un diorama en acrylique, illustrée par Yano Mitsuki\n• Une sacoche\n• Trois enregistrements situationnels, en japonais, indonésien et anglais.",
       "bbox": {
         "x": 0.4094,
         "y": 0.7025,
         "width": 0.5044,
-        "height": 0.0147
+        "height": 0.0641
       }
     },
     {
       "type": "paragraph",
-      "text": "• Une sacoche",
-      "bbox": {
-        "x": 0.4094,
-        "y": 0.7195,
-        "width": 0.1428,
-        "height": 0.0116
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Trois enregistrements situationnels, en japonais, indonésien et anglais.",
-      "bbox": {
-        "x": 0.4094,
-        "y": 0.7353,
-        "width": 0.48,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Le pack complet inclut en bonus une illustration avec un autographe fait à la main ainsi qu'un message de la part de lofi. Le pack était déjà en rupture de stock partout, après seulement quelques heures.",
+      "text": "Le pack complet inclut en bonus une illustration avec un autographe fait à la main ainsi qu’un message de la part de Iofi. Le pack était déjà en rupture de stock partout, après seulement quelques heures.",
       "bbox": {
         "x": 0.3906,
         "y": 0.7951,
@@ -97,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Enfin, lofi a fait un stream à l’improviste d'appel avec les autres membres d'holoID dans une rencontre à la fois chaotique et adorable. Même si c'était tard la nuit, Baelz a aussi souhaité un bon anniversaire juste avant qu'lofi aille se coucher et remercie ses fans.",
+      "text": "Enfin, Iofi a fait un stream à l’improviste d’appel avec les autres membres d’holoID dans une rencontre à la fois chaotique et adorable. Même si c’était tard la nuit, Baelz a aussi souhaité un bon anniversaire juste avant qu’Iofi aille se coucher et remercie ses fans.",
       "bbox": {
         "x": 0.39,
         "y": 0.8657,

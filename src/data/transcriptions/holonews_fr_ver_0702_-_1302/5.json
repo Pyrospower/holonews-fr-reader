@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_0702_-_1302",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "HAACHAMA",
+      "bbox": {
+        "x": 0.096,
+        "y": 0.039,
+        "width": 0.336,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.157,
+        "y": 0.212,
+        "width": 0.24,
+        "height": 0.024
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Haachama a organisé un concours de photo et de musique durant sa pause. Le concours de photo s’est rapidement transformé en concours d'animaux de compagnie, étant donné que tout le monde a envoyé leurs adorables compagnons à Haachama. Cela a finalement donné un projet de fan en Mars quand elle a pris sa pause : « Le guide du tour du monde d'Haachama », montrant des images d'Haaton aux quatres coins du monde. Et Haachama était impressionnée par le nombre de musiques envoyées pour le concours, incluant du rap, des reprises, des remixs et même des longs clips vidéos.",
+      "text": "Haachama a organisé un concours de photo et de musique durant sa pause. Le concours de photo s’est rapidement transformé en concours d’animaux de compagnie, étant donné que tout le monde a envoyé leurs adorables compagnons à Haachama. Cela a finalement donné un projet de fan en Mars quand elle a pris sa pause : « Le guide du tour du monde d’Haachama », montrant des images d’Haaton aux quatres coins du monde. Et Haachama était impressionnée par le nombre de musiques envoyées pour le concours, incluant du rap, des reprises, des remixs et même des longs clips vidéos.",
       "bbox": {
         "x": 0.0506,
         "y": 0.2539,
@@ -16,13 +36,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Juste avant que la saison 11 de APEX se termine, Aqua a fait chauffer sa carte bleue et a fait un stream gacha pour célébrer son passage au rang Master. Elle n'arrêtait pas le stream tant qu’elle n'avait pas eu l'Heirloom, un cosmétique ultra rare sur APEX. Plus de 60 000 personnes l'ont regardée espérer en vain avoir le tant désiré Heirloom, alors qu’elle atteignait un nombre à trois chiffres de packs ouvert. Aqua a tout de même réussi à avoir un fragment de Heirloom avant d'atteindre la garantie. Au total, c'est plus de 494 packs APEX ouverts. La chance n’a pas été du côté de Aqua cette fois-ci.",
+      "type": "heading",
+      "text": "Haachama",
       "bbox": {
-        "x": 0.0494,
-        "y": 0.7335,
-        "width": 0.4263,
-        "height": 0.23
+        "x": 0.628,
+        "y": 0.212,
+        "width": 0.241,
+        "height": 0.024
       }
     },
     {
@@ -37,12 +57,52 @@
     },
     {
       "type": "heading",
-      "text": "AIN SUPER [1] Haachama montre une fois de plus qu’elle",
+      "text": "Haachama montre une fois de plus qu’elle",
       "bbox": {
         "x": 0.5213,
         "y": 0.375,
         "width": 0.4488,
         "height": 0.1115
+      }
+    },
+    {
+      "type": "heading",
+      "text": "MANJIGUMI",
+      "bbox": {
+        "x": 0.092,
+        "y": 0.518,
+        "width": 0.35,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.158,
+        "y": 0.694,
+        "width": 0.113,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Juste avant que la saison 11 de APEX se termine, Aqua a fait chauffer sa carte bleue et a fait un stream gacha pour célébrer son passage au rang Master. Elle n'arrêtait pas le stream tant qu’elle n'avait pas eu l’Heirloom, un cosmétique ultra rare sur APEX. Plus de 60 000 personnes l’ont regardée espérer en vain avoir le tant désiré Heirloom, alors qu’elle atteignait un nombre à trois chiffres de packs ouvert. Aqua a tout de même réussi à avoir un fragment de Heirloom avant d’atteindre la garantie. Au total, c’est plus de 494 packs APEX ouverts. La chance n’a pas été du côté de Aqua cette fois-ci.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.7335,
+        "width": 0.4263,
+        "height": 0.23
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shion & Ayame",
+      "bbox": {
+        "x": 0.654,
+        "y": 0.724,
+        "width": 0.3,
+        "height": 0.026
       }
     },
     {
@@ -57,22 +117,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Ayame et Shion sont de retour en stream après deux semaines de pause. Ayame a fait un stream karaoké et lecture de Super Chats pour son retour, tant dis que Shion a repris là où elle s'était arrêtée sur Légendes Pokémon : Arceus.",
+      "text": "Ayame et Shion sont de retour en stream après deux semaines de pause. Ayame a fait un stream karaoké et lecture de Super Chats pour son retour, tant dis que Shion a repris là où elle s’était arrêtée sur Légendes Pokémon : Arceus.",
       "bbox": {
         "x": 0.5163,
         "y": 0.7643,
         "width": 0.4169,
         "height": 0.0894
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Ayama a aussi expliqué qu’elle souhaitait réapprendre l'anglais en partant du niveau collège, pour pouvoir communiquer et faire des futures collaborations avec les membres EN avec aisance, ainsi que d’en savoir plus sur ses fans d'outre-mer.",
-      "bbox": {
-        "x": 0.5163,
-        "y": 0.872,
-        "width": 0.425,
-        "height": 0.0898
       }
     }
   ],

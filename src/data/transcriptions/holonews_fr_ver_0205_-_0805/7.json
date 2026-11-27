@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_0205_-_0805",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 3",
+      "bbox": {
+        "x": 0.4418,
+        "y": 0.0152,
+        "width": 0.1182,
+        "height": 0.0303
+      }
+    },
     {
       "type": "heading",
       "text": "Pekora",
@@ -46,6 +56,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Noel",
+      "bbox": {
+        "x": 0.1636,
+        "y": 0.5189,
+        "width": 0.0782,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Noel a fait un stream discussion pour célébrer son 1 000e stream après ses débuts. Elle a changé de tenue plusieurs fois pour se remémorer un peu tout en racontant les difficultés rencontrées depuis son enfance jusqu'à ses débuts.",
       "bbox": {
@@ -57,16 +77,56 @@
     },
     {
       "type": "heading",
-      "text": "Gen",
+      "text": "Marine",
       "bbox": {
-        "x": 0.4438,
-        "y": 0.6519,
-        "width": 0.0794,
-        "height": 0.0208
+        "x": 0.6344,
+        "y": 0.178,
+        "width": 0.1106,
+        "height": 0.0169
       }
     },
     {
       "type": "paragraph",
+      "text": "La légendaire pirate Marine a une fois de plus volé le cœur de son public en publiant une vidéo à la première personne d’un placage au mur intitulée « You became a woman… <3. » Dans la vidéo, Marine a plaqué son public contre un mur, puis a remonté leur menton et leur a donné un baiser avant de s’éloigner. Merci, Senchou.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.2135,
+        "width": 0.3919,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Noel",
+      "bbox": {
+        "x": 0.6345,
+        "y": 0.4369,
+        "width": 0.0855,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La monétisation du deuxième stream Dragon Quest 8 de Danchou a été limitée ! Elle n'en revenait pas, mais un spectateur lui a fait remarquer que c'était peut-être parce que Noel montrait la « physique » de la poitrine d'un des personnages du jeu. Elle a conclu que quatre seins à l'écran, c'était trop pour YouTube, les deux autres étant ceux d'elle-même bien sûr.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.4766,
+        "width": 0.3888,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 4",
+      "bbox": {
+        "x": 0.4418,
+        "y": 0.6503,
+        "width": 0.1182,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "heading",
       "text": "Kanata",
       "bbox": {
         "x": 0.1631,
@@ -87,7 +147,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Un des personnages qu'elle devait interpréter était une petite amie en manque d'affection. Tout en jouant ce rôle, elle a demandé à ses spectateurs si elle était leur préférée. Quelqu'un a répondu « 5e favorite », ce qui l’a fait sortir de son personnage. Les réponses de ses spectateurs l’ont rendue si « déprimée » qu'elle a dit qu’elle allait mourir. Après avoir perdu ce round, elle a déplacé son modèle pour montrer que son corps était « déchiré en deux » et que c'était la faute des spectateurs.",
+      "text": "Un des personnages qu’elle devait interpréter était une petite amie en manque d’affection. Tout en jouant ce rôle, elle a demandé à ses spectateurs si elle était leur préférée. Quelqu’un a répondu « 5e favorite », ce qui l’a fait sortir de son personnage. Les réponses de ses spectateurs l’ont rendue si « déprimée » qu’elle a dit qu’elle allait mourir. Après avoir perdu ce round, elle a déplacé son modèle pour montrer que son corps était « déchiré en deux » et que c'était la faute des spectateurs.",
       "bbox": {
         "x": 0.0519,
         "y": 0.8494,
@@ -97,42 +157,12 @@
     },
     {
       "type": "heading",
-      "text": "Marine",
+      "text": "Watame",
       "bbox": {
-        "x": 0.6344,
-        "y": 0.178,
-        "width": 0.1106,
-        "height": 0.0169
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "La légendaire pirate Marine a une fois de plus volé le cœur de son public en publiant une vidéo à la première personne d'un placage au mur intitulée « You became a woman... <3. » Dans la vidéo, Marine a plaqué son public contre un mur, puis a remonté leur menton et leur a donné un baiser avant de s'éloigner. Merci, Senchou.",
-      "bbox": {
-        "x": 0.535,
-        "y": 0.2135,
-        "width": 0.3919,
-        "height": 0.0907
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "La monétisation du deuxième stream Dragon Quest 8 de Danchou a été limitée ! Elle n'en revenait pas, mais un spectateur lui a fait remarquer que c'était peut-être parce que Noel montrait la « physique » de la poitrine d'un des personnages du jeu. Elle a conclu que quatre seins à l'écran, c'était trop pour YouTube, les deux autres étant ceux d'elle-même bien sûr.",
-      "bbox": {
-        "x": 0.535,
-        "y": 0.4766,
-        "width": 0.3888,
-        "height": 0.1042
-      }
-    },
-    {
-      "type": "heading",
-      "text": "4 @ Watame",
-      "bbox": {
-        "x": 0.5337,
-        "y": 0.6541,
-        "width": 0.2269,
-        "height": 0.0955
+        "x": 0.6327,
+        "y": 0.7184,
+        "width": 0.1418,
+        "height": 0.0303
       }
     },
     {
@@ -147,7 +177,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Mais l’histoire ne s'arrête pas là, car quelques jours plus tard, lors de sa collab avec Flare, Watame a posé la même question à cette dernière. Watame s'attendait à ce qu’elle réponde aussi 18. À sa surprise, Flare s'est rappelée des règles de priorité et a bien répondu 12. Tu l’auras la prochaine fois, Watame !",
+      "text": "Mais l’histoire ne s’arrête pas là, car quelques jours plus tard, lors de sa collab avec Flare, Watame a posé la même question à cette dernière. Watame s’attendait à ce qu’elle réponde aussi 18. À sa surprise, Flare s’est rappelée des règles de priorité et a bien répondu 12. Tu l’auras la prochaine fois, Watame !",
       "bbox": {
         "x": 0.535,
         "y": 0.8529,

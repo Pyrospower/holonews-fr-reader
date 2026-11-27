@@ -3,11 +3,31 @@
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "SES DEBUTS",
+      "bbox": {
+        "x": 0.0533,
+        "y": 0.0802,
+        "width": 0.4944,
+        "height": 0.0424
+      }
+    },
+    {
+      "type": "other",
+      "text": "PAGE 2",
+      "bbox": {
+        "x": 0.6433,
+        "y": 0.0949,
+        "width": 0.1111,
+        "height": 0.017
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "• Sana aime les pâtes, les macarons et les objets ronds, mais n'aime pas éternuer, car il y a » un risque que son limiteur fonctionne mal et déclenche tous les volcans de la planète. Elle aime les jeux mignons comme Animal Crossing, les kusoge et ceux qui provoquent des crises existentielles. Pour les anime, elle recommande Kyousougiga, Uchouten Kazoku et Katanagatari. Elle est fan d'artistes EDM, comme Camellia et Snail's House. Ses passe-temps sont l'astronomie, l'astrologie, le dessin et les voyages. Elle fait également du graphisme et a réalisé elle-même le décor du stream !",
+      "text": "Sana aime les pâtes, les macarons et les objets ronds, mais n'aime pas éternuer, car il y a un risque que son limiteur fonctionne mal et déclenche tous les volcans de la planète. Elle aime les jeux mignons comme Animal Crossing, les kusoge et ceux qui provoquent des crises existentielles. Pour les anime, elle recommande Kyousougiga, Uchouten Kazoku et Katanagatari. Elle est fan d'artistes EDM, comme Camellia et Snail's House. Ses passe-temps sont l'astronomie, l'astrologie, le dessin et les voyages. Elle fait également du graphisme et a réalisé elle-même le décor du stream !",
       "bbox": {
         "x": 0.0428,
         "y": 0.3708,
@@ -17,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Ensuite, Sana a présenté son illustrateur, Pako (@pakosun), qui a travaillé sur Fate/Grand Order, et son rigger Live2D, tou_ilie, qui a déjà rig 12 autres holomems avant elle. Sana a également révélé son emoji (planet) et le nom de ses fans, les Sanallites",
+      "text": "Ensuite, Sana a présenté son illustrateur, Pako (@pakosun), qui a travaillé sur Fate/Grand Order, et son rigger Live2D, tou_ilie, qui a déjà rig 12 autres holomems avant elle. Sana a également révélé son emoji (planet□) et le nom de ses fans, les Sanallites !",
       "bbox": {
         "x": 0.0561,
         "y": 0.5266,
@@ -33,6 +53,16 @@
         "y": 0.6528,
         "width": 0.4444,
         "height": 0.0968
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Acheter un télescope et essayer l'astrophotographie\n• Voir Yatagarasu en 3D\n• Faire rire et sourire tout le monde\n• Rester un an sans détruire la terre",
+      "bbox": {
+        "x": 0.5211,
+        "y": 0.6682,
+        "width": 0.4244,
+        "height": 0.0795
       }
     },
     {

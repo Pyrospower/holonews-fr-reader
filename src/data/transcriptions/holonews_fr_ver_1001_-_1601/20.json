@@ -3,16 +3,16 @@
   "issueId": "holonews_fr_ver_1001_-_1601",
   "page": 20,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "ÉVÉNEMENT PALIERS À VENIR D’ABONNÉS",
+      "text": "ÉVÉNEMENT À VENIR",
       "bbox": {
-        "x": 0.08,
+        "x": 0.0794,
         "y": 0.0326,
-        "width": 0.8269,
-        "height": 0.0729
+        "width": 0.3713,
+        "height": 0.0725
       }
     },
     {
@@ -36,8 +36,28 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Merci!",
+      "type": "heading",
+      "text": "PALIERS D’ABONNÉS",
+      "bbox": {
+        "x": 0.57,
+        "y": 0.0408,
+        "width": 0.3363,
+        "height": 0.0642
+      }
+    },
+    {
+      "type": "other",
+      "text": "LUI 400K\nMARINE 1,8 M\nSUBARU 1,25 M\nGURA 3,75 M",
+      "bbox": {
+        "x": 0.625,
+        "y": 0.1597,
+        "width": 0.225,
+        "height": 0.1892
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci !",
       "bbox": {
         "x": 0.3913,
         "y": 0.6081,
@@ -47,27 +67,17 @@
     },
     {
       "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester a jour sur tout ce qui se rapporte a hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
-        "x": 0.0675,
+        "x": 0.0663,
         "y": 0.6628,
-        "width": 0.8588,
-        "height": 0.1063
+        "width": 0.8606,
+        "height": 0.128
       }
     },
     {
       "type": "paragraph",
-      "text": "coup de main a la création d’HoloNews !",
-      "bbox": {
-        "x": 0.1631,
-        "y": 0.7704,
-        "width": 0.6663,
-        "height": 0.0256
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Merci d'avoir lu et à la semaine prochaine !",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
       "bbox": {
         "x": 0.3231,
         "y": 0.8112,
@@ -77,7 +87,7 @@
     },
     {
       "type": "other",
-      "text": "Et joyeux anniversaire à notre traducteur Pyrospower ! v",
+      "text": "Et joyeux anniversaire à notre traducteur Pyrospower ! ♥",
       "bbox": {
         "x": 0.3094,
         "y": 0.9557,

@@ -3,31 +3,51 @@
   "issueId": "holonews_fr_ver_2305_-_2905",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Kobo a annoncé son retour après que YouTube ait suspendu sa chaîne à de multiples reprises, essayant de rassurer les fans les plus inquiets en blaguant sur le fait qu’elle aurait besoin d'un manteau et d’une couronne pour faire son ce en tant que « roi démon » pour son 3e début. El",
+      "type": "heading",
+      "text": "ID",
       "bbox": {
-        "x": 0.07,
-        "y": 0.2135,
-        "width": 0.3906,
-        "height": 0.0686
+        "x": 0.4769,
+        "y": 0.0165,
+        "width": 0.0481,
+        "height": 0.0217
       }
     },
     {
-      "type": "paragraph",
-      "text": "organisé un stream nommé « Kobo Tempest he Demon Lord » avec un nouvel écran de chargement. Elle a passé en revue ses fanarts pour fêter le palier des 500 000 abonnés et elle a aussi regardé une reprise de sa chanson originale, «Mantra Hujan », faite par l'un de ses fans. La fonctionnalité pour devenir membre est disponible sur sa chaîne et elle a montré un trailer ressemblant à une vidéo de lancement de marque.",
+      "type": "other",
+      "text": "50万 SUBSCRIBER",
       "bbox": {
-        "x": 0.07,
-        "y": 0.2704,
-        "width": 0.3856,
-        "height": 0.1133
+        "x": 0.0575,
+        "y": 0.0625,
+        "width": 0.1281,
+        "height": 0.0629
       }
     },
     {
       "type": "heading",
-      "text": "Tofi",
+      "text": "Kobo",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.1736,
+        "width": 0.0831,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kobo a annoncé son retour après que YouTube ait suspendu sa chaîne à de multiples reprises, essayant de rassurer les fans les plus inquiets en blaguant sur le fait qu’elle aurait besoin d’un manteau et d’une couronne pour faire son retour en tant que « roi démon » pour son 3e début. Elle a organisé un stream nommé « Kobo Tempest, the Demon Lord » avec un nouvel écran de chargement. Elle a passé en revue ses fanarts pour fêter le palier des 500 000 abonnés et elle a aussi regardé une reprise de sa chanson originale, « Mantra Hujan », faite par l’un de ses fans. La fonctionnalité pour devenir membre est disponible sur sa chaîne et elle a montré un trailer ressemblant à une vidéo de lancement de marque.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.2135,
+        "width": 0.3906,
+        "height": 0.1702
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
       "bbox": {
         "x": 0.1631,
         "y": 0.5169,
@@ -37,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Ce lundi, lofi, tout comme Kobo, a été attaquée par une armée de bot spam et sa chaine a été suspendue. Cependant, sa réaction placide a été de regarder des anime et d'aller se coucher tôt. Tout est revenu à la normale le lendemain matin.",
+      "text": "Ce lundi, Iofi, tout comme Kobo, a été attaquée par une armée de bot spam et sa chaîne a été suspendue. Cependant, sa réaction placide a été de regarder des anime et d’aller se coucher tôt. Tout est revenu à la normale le lendemain matin.",
       "bbox": {
         "x": 0.0675,
         "y": 0.556,
@@ -46,8 +66,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.1706,
+        "y": 0.7656,
+        "width": 0.055,
+        "height": 0.0182
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Une semaine après sa revue des pires plats de ses spectateurs, lofi a fait un ASMR avec des bonbons lyophilisés. Elle n'a arrêté de manger des bonbons, après les avoir examinés un à un.",
+      "text": "Une semaine après sa revue des pires plats de ses spectateurs, Iofi a fait un ASMR avec des bonbons lyophilisés. Elle n’a arrêté de manger des bonbons, après les avoir examinés un à un.",
       "bbox": {
         "x": 0.0744,
         "y": 0.8047,
@@ -56,8 +86,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Zeta",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.1736,
+        "width": 0.0706,
+        "height": 0.0204
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Zeta s'est faite avoir par une « deez nuts » joke déguisée en virelangue dans un Super Chat. Elle a su qu'elle était tombée dans le panneau après avoir répété lentement, une deuxième fois, les phrases, rigolant de bon cœur et de façon adorable, et en disant « puck you » à ses spectateurs.",
+      "text": "Zeta s’est faite avoir par une « deez nuts » joke déguisée en virelangue dans un Super Chat. Elle a su qu’elle était tombée dans le panneau après avoir répété lentement, une deuxième fois, les phrases, rigolant de bon cœur et de façon adorable, et en disant « puck you » à ses spectateurs.",
       "bbox": {
         "x": 0.5375,
         "y": 0.2144,
@@ -67,7 +107,7 @@
     },
     {
       "type": "heading",
-      "text": "Kaela, V Moona, Kobo",
+      "text": "Kaela, Moona, Kobo",
       "bbox": {
         "x": 0.6325,
         "y": 0.4258,
@@ -77,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le stream Wild Rift de Kaela est soudainement devenu une collab avec Moona et Kobo qui l'ont rejoint en cours de route. Le trio ont joué 4 parties ensemble. Kaela a fini son stream avec sur une victoire, la promouvant Emeraude 3 et elle à fait, comme promis, une partie ARAM (All Random All Mid sur League) avec ses spectateurs.",
+      "text": "Le stream Wild Rift de Kaela est soudainement devenu une collab avec Moona et Kobo qui l’ont rejoint en cours de route. Le trio ont joué 4 parties ensemble. Kaela a fini son stream avec sur une victoire, la promouvant Émeraude 3 et elle a fait, comme promis, une partie ARAM (All Random All Mid sur League) avec ses spectateurs.",
       "bbox": {
         "x": 0.5369,
         "y": 0.467,
@@ -97,7 +137,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les hololD ont enfin réussi à se réunir pour tuer 'Ender Dragon. Cette collaboration était placée sous le signe des morts et de la perte de leurs équipements, qui a donné une collaboration très comique. Elles ont réussi à accomplir le plus grand challenge de Minecraft, emmené une équipe de 9 personne dans I'End. Elles ont combattu le Dragon, récupéré I'Oeuf et ont inauguré le nouveau portail, qui donne accès aux serveurs des autres holopros. Il y a eu au total 41 morts. (9 pour lofi, 7 pour Zeta, 6 pour Ollie, 5 pour Anya, Kaela et Kobo, 4 pour Reine et enfin aucune mort pour Risu et Moona.), dont un peu moins de la moitié sont dus à leur combat contre le Dragon.",
+      "text": "Les holoID ont enfin réussi à se réunir pour tuer l’Ender Dragon. Cette collaboration était placée sous le signe des morts et de la perte de leurs équipements, qui a donné une collaboration très comique. Elles ont réussi à accomplir le plus grand challenge de Minecraft, emmené une équipe de 9 personne dans l’End. Elles ont combattu le Dragon, récupéré l’Oeuf et ont inauguré le nouveau portail, qui donne accès aux serveurs des autres holopros. Il y a eu au total 41 morts. (9 pour Iofi, 7 pour Zeta, 6 pour Ollie, 5 pour Anya, Kaela et Kobo, 4 pour Reine et enfin aucune mort pour Risu et Moona.), dont un peu moins de la moitié sont dus à leur combat contre le Dragon.",
       "bbox": {
         "x": 0.5325,
         "y": 0.7556,

@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_0404_-_1004",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.057,
+        "y": 0.05,
+        "width": 0.54,
+        "height": 0.121
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pour son stream d'anniversaire, Okay a reçu des appels. Avant d'y répondre, Subaru et Korone l'ont aidée. Pour pimenter les choses, ces dernières ont établi des règles et choisi des phrases qu'Okayu devait dire pendant ses conversations.",
+      "text": "Pour son stream d’anniversaire, Okay a reçu des appels. Avant d'y répondre, Subaru et Korone l'ont aidée. Pour pimenter les choses, ces dernières ont établi des règles et choisi des phrases qu'Okayu devait dire pendant ses conversations.",
       "bbox": {
         "x": 0.0578,
         "y": 0.4398,
@@ -17,12 +27,32 @@
     },
     {
       "type": "paragraph",
-      "text": "Okayu a reçu les appels de Watame, Polka, Nene, Chloe et Sora. Polka s'est faite passer pour un beau gosse pour tenter de gagner le cœur d'Okayu, mais elle a été repoussée grâce à des bouteilles d'eau. Sora en a fait de même plus tard et a taquiné Okayu avec sa voix de jeune garçon.",
+      "text": "Okayu a reçu les appels de Watame, Polka, Nene, Chloe et Sora. Polka s’est faite passer pour un beau gosse pour tenter de gagner le cœur d'Okayu, mais elle a été repoussée grâce à des bouteilles d’eau. Sora en a fait de même plus tard et a taquiné Okayu avec sa voix de jeune garçon.",
       "bbox": {
         "x": 0.3572,
         "y": 0.4398,
         "width": 0.2822,
         "height": 0.1609
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[In the second segment], Okayu a perdu son sang-froid habituel après avoir vu ses célébrités préférées. Elle a reçu les félicitations de Yagoo, Matsusawa Chiaki et Hiyama Nobuyuki, pour n'en citer que quelques-uns.",
+      "bbox": {
+        "x": 0.6589,
+        "y": 0.439,
+        "width": 0.2717,
+        "height": 0.1439
+      }
+    },
+    {
+      "type": "other",
+      "text": "2022.4.6",
+      "bbox": {
+        "x": 0.694,
+        "y": 0.38,
+        "width": 0.176,
+        "height": 0.027
       }
     },
     {
@@ -47,72 +77,32 @@
     },
     {
       "type": "paragraph",
-      "text": "• Un tapis de souris",
+      "text": "• Un tapis de souris\n• Une statue en acrylique avec porteur en verre\n• Un certificat d’Onigirya avec un cordon",
       "bbox": {
-        "x": 0.3672,
+        "x": 0.3589,
         "y": 0.6836,
-        "width": 0.1911,
-        "height": 0.015
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Une statue en acrylique avec porteur en verre",
-      "bbox": {
-        "x": 0.3589,
-        "y": 0.6987,
         "width": 0.255,
-        "height": 0.0313
+        "height": 0.0757
       }
     },
     {
       "type": "paragraph",
-      "text": "Un certificat d'Onigirya avec un cordon",
-      "bbox": {
-        "x": 0.3589,
-        "y": 0.7311,
-        "width": 0.245,
-        "height": 0.0282
-      }
-    },
-    {
-      "type": "other",
-      "text": "ostourd with",
-      "bbox": {
-        "x": 0.3539,
-        "y": 0.9325,
-        "width": 0.0561,
-        "height": 0.0042
-      }
-    },
-    {
-      "type": "other",
-      "text": "» x duplicated foil-stamped outogroph",
-      "bbox": {
-        "x": 0.3028,
-        "y": 0.9325,
-        "width": 0.1578,
-        "height": 0.012
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "[In the second segment], Okayu a perdu son sang-froid habituel après avoir vu ses célébrités préférées. Elle a reçu les félicitations de Yagoo, Matsusawa Chiaki et Hiyama Nobuyuki, pour n'en citer que quelques-uns.",
-      "bbox": {
-        "x": 0.6589,
-        "y": 0.439,
-        "width": 0.2717,
-        "height": 0.1439
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "L'achat de l'ensemble complet donne droit à une carte postale avec un autographe d'Okayu elle-même. Elle a également publié une reprise de « Nani Yatte Mo Umaku lkanai ». La Première a eu lieu alors qu'elle se remettait du choc provoqué par l'apparition d'Hikakin !",
+      "text": "L’achat de l’ensemble complet donne droit à une carte postale avec un autographe d'Okayu elle-même. Elle a également publié une reprise de « Nani Yatte Mo Umaku Ikanai ». La Première a eu lieu alors qu'elle se remettait du choc provoqué par l’apparition d’Hikakin !",
       "bbox": {
         "x": 0.6594,
         "y": 0.6192,
         "width": 0.2778,
         "height": 0.1439
+      }
+    },
+    {
+      "type": "other",
+      "text": "Nekomata Okayu\n3rd Anniversary Celebration\nOn Sale April 6\n3rd Anniversary Celebration Merch Complete Set\n3 Anniversary Merch Items\nRubber Mat\nBIG Acrylic Eyeglass Stand\nLanyard & Certificate of Onigiris\nBonus for 3rd Anniversary Celebration Merch Complete Set\nPostcard with duplicated foil-stamped autograph",
+      "bbox": {
+        "x": 0.27,
+        "y": 0.79,
+        "width": 0.2,
+        "height": 0.156
       }
     }
   ],

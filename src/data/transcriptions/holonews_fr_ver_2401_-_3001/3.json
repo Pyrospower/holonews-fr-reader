@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_2401_-_3001",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Omaru Polka",
+      "bbox": {
+        "x": 0.0378,
+        "y": 0.355,
+        "width": 0.5233,
+        "height": 0.1389
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Polka a célébré son anniversaire le 30 janvier avec un concert qu'elle a produit elle-méme, comprenant de nombreux invités ainsi que des … bruits d'ambiance simulant la présence d'un public ! Contrairement à d'autres concerts d'anniversaire, Polka n'était pas le centre d'intérêt de chaque numéro. Au lieu de cela, elle a donné à ses invitées (Flare, Miko, Aqua, Towa et Watame) une chance de briller en les encourageant depuis la foule ou en faisant office de DJ et en mettant l'ambiance. A la fin, le groupe au complet a interprété la première chanson originale de Polka, « HOLOGRAM CIRCUS ».",
+      "text": "Polka a célébré son anniversaire le 30 janvier avec un concert qu'elle a produit elle-même, comprenant de nombreux invités ainsi que des bruits d'ambiance simulant la présence d'un public ! Contrairement à d'autres concerts d'anniversaire, Polka n'était pas le centre d’intérêt de chaque numéro. Au lieu de cela, elle a donné à ses invitées (Flare, Miko, Aqua, Towa et Watame) une chance de briller en les encourageant depuis la foule ou en faisant office de DJ et en mettant l’ambiance. A la fin, le groupe au complet a interprété la première chanson originale de Polka, « HOLOGRAM CIRCUS ».",
       "bbox": {
         "x": 0.0383,
         "y": 0.4931,
@@ -27,47 +37,17 @@
     },
     {
       "type": "paragraph",
-      "text": "• Un tapis en caoutchouc",
+      "text": "• Un tapis en caoutchouc\n• Un sac à dos de fan\n• Un bandeau à hélice (statique)\n• Un fichier audio d'ASMR, qui se déroule après un rendez-vous avec Polka",
       "bbox": {
         "x": 0.0617,
         "y": 0.7797,
-        "width": 0.27,
-        "height": 0.0162
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "» Un sac à dos de fan",
-      "bbox": {
-        "x": 0.0617,
-        "y": 0.8002,
-        "width": 0.2322,
-        "height": 0.0127
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un bandeau à hélice (statique)",
-      "bbox": {
-        "x": 0.0617,
-        "y": 0.821,
-        "width": 0.2394,
-        "height": 0.0324
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Un fichier audio d'ASMR, qui se déroule après un rendez-vous avec Polka",
-      "bbox": {
-        "x": 0.0617,
-        "y": 0.8607,
         "width": 0.325,
-        "height": 0.0444
+        "height": 0.1254
       }
     },
     {
       "type": "paragraph",
-      "text": "Le bonus pour l'achat de l’ensemble complet est une carte style polaroïd en revêtement laminé dessinée par Kinako, avec un autographe manuscrit de Polka.",
+      "text": "Le bonus pour l’achat de l’ensemble complet est une carte style polaroïd en revêtement laminé dessinée par Kinako, avec un autographe manuscrit de Polka.",
       "bbox": {
         "x": 0.0389,
         "y": 0.9151,

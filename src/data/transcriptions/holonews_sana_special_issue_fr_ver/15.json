@@ -3,8 +3,18 @@
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "other",
+      "text": "Tsukumo Sana Special Issue",
+      "bbox": {
+        "x": 0.3954,
+        "y": 0.0256,
+        "width": 0.2077,
+        "height": 0.0139
+      }
+    },
     {
       "type": "heading",
       "text": "#12 CouncilRyS",
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Il était enfin temps pour holoCouncil et IRyS de se rassemb Er pouf tuer l'Ender Dragon sur Minecraft. C'était la douzième collaboration présracueton de Sana. Chaque membre a streamé son point de vue dans cette collaboration. chaotique. L'agitation qui régnait dès le début a étonné Fauna, qui essayait de diriger le qe en tant que capitaine d'équipe. ien qu'elles aient réclamé des lits pendant une quarantaine de minutes, la moitié n'ont même pas dormi dedans.",
+      "text": "Il était enfin temps pour holoCouncil et IRyS de se rassembler pour tuer l'Ender Dragon sur Minecraft. C'était la douzième collaboration pré-graduation de Sana. Chaque membre a streamé son point de vue dans cette collaboration... chaotique. L'agitation qui régnait dès le début a étonné Fauna, qui essayait de diriger le groupe en tant que capitaine d'équipe. Bien qu'elles aient réclamé des lits pendant une quarantaine de minutes, la moitié n'ont même pas dormi dedans.",
       "bbox": {
         "x": 0.0944,
         "y": 0.2418,
@@ -27,22 +37,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Puisque l'Ender Dragon oréinal a ététué il y a longtemps, elles l'ont fait réapparaître grâce aux Cristaux de l'End. Encouragées par le discours de Fauna, elles ont immédiatement oublié qu'elles devaient détruire les cristaux présents sur les tours. Fauna a abattu la plupart d'entre eux avant d'attaquer le dragon. Après quelques tirs sur ses compagnons, Bae a tué le dragon en plein vol ! Elles ont fait quelques captures d'écran pour célébrer l'événement, mais certaines ont été gachées par des Endermen. Elles sont retournées dans leur monde pour continuer leurs manigances et ont évoqué la mystérieuse collaboration entre le Council et IRyS.",
+      "text": "Puisque l'Ender Dragon original a été tué il y a longtemps, elles l'ont fait réapparaître grâce aux Cristaux de l'End. Encouragées par le discours de Fauna, elles ont immédiatement oublié qu'elles devaient détruire les cristaux présents sur les tours. Fauna a abattu la plupart d'entre eux avant d'attaquer le dragon. Après quelques tirs sur ses compagnons, Bae a tué le dragon en plein vol ! Elles ont fait quelques captures d'écran pour célébrer l'événement, mais certaines ont été gâchées par des Endermen. Elles sont retournées dans leur monde pour continuer leurs manigances et ont évoqué la mystérieuse collaboration entre le Council et IRyS.",
       "bbox": {
         "x": 0.0944,
         "y": 0.411,
         "width": 0.3644,
         "height": 0.2227
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Collaborations : Page 4",
-      "bbox": {
-        "x": 0.4131,
-        "y": 0.9622,
-        "width": 0.1744,
-        "height": 0.0126
       }
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Sana a rejoint une autre artiste reconnue au sein d'hololive, Zeta, pour sa treizième collaboration pré-graduation. Elles ont gribouillé sur une toile qu'elles partageaient et ont discuté de divers sujets comme de leurs mascottes, de nourriture et de vieilles histoires de leur enfance. Zeta a dit que Sana avait l'air d'un canard ivre très mignon. La toile s'est rapidement remplie de dessins des différents sujets de conversation qu'elles ont abordés. Sana a dit qu'elle veillerait à ce que tous les talents grandissent au fil du temps. Zeta n'a pas voulu mettre fin au stream car c'était sa dernière chance d'être avec Sana. Avec cette collaboration, Sana a fini de collaborer avec toutes ses cadettes, y compris celles d'hololD 3ème génération.",
+      "text": "Sana a rejoint une autre artiste reconnue au sein d'hololive, Zeta, pour sa treizième collaboration pré-graduation. Elles ont gribouillé sur une toile qu'elles partageaient et ont discuté de divers sujets comme de leurs mascottes, de nourriture et de vieilles histoires de leur enfance. Zeta a dit que Sana avait l'air d'un canard ivre très mignon. La toile s'est rapidement remplie de dessins des différents sujets de conversation qu'elles ont abordés. Sana a dit qu'elle veillerait à ce que tous les talents grandissent au fil du temps. Zeta n'a pas voulu mettre fin au stream car c'était sa dernière chance d'être avec Sana. Avec cette collaboration, Sana a fini de collaborer avec toutes ses cadettes, y compris celles d'holoID 3ème génération.",
       "bbox": {
         "x": 0.5394,
         "y": 0.2396,
@@ -77,42 +77,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Mel a invité Sana sur sa chaîne gu a Nintendo Switch Sports, ce qui en fait la CES collaboration pré-graduation",
-      "bbox": {
-        "x": 0.54,
-        "y": 0.6892,
-        "width": 0.3531,
-        "height": 0.0451
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Sana. Pour pimenter les choses, elles ont mis en place des punitions : si Sana perdait, elle devait dire des phrases très embarrassantes en japonais, et si Mel perdait, elle devait parler un anglais australien. Sana a remporté après une égalité, mais a quand même voulu les punitions. Sana a lu la phrase « Ne touche pas ma fille. Allez, fais moi un bisous, petit chaton. », et Mel a appris à dire « sun on the beach » et « crikey », qui lui a semblé très mignon. Mel a dif qu'elle était très triste que Sana parte et qu'elle voulait passer du temps avec elle, même si ce n'était qu'une",
-      "bbox": {
-        "x": 0.5394,
-        "y": 0.7248,
-        "width": 0.3588,
-        "height": 0.1662
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- fois. Malgré son départ,",
+      "text": "Mel a invité Sana sur sa chaîne pour jouer à Nintendo Switch Sports, ce qui en fait la quatorzième collaboration pré-graduation de Sana. Pour pimenter les choses, elles ont mis en place des punitions : si Sana perdait, elle devait dire des phrases très embarrassantes en japonais, et si Mel perdait, elle devait parler un anglais australien. Sana a remporté après une égalité, mais a quand même voulu les punitions. Sana a lu la phrase « Ne touche pas ma fille. Allez, fais moi un bisous, petit chaton. », et Mel a appris à dire « sun on the beach » et « crikey », qui lui a semblé très mignon. Mel a dit qu'elle était très triste que Sana parte et qu'elle voulait passer du temps avec elle, même si ce n'était qu'une fois. Malgré son départ, Sana ne disparaîtra pas, et son souvenir ne s'effacera pas non plus, alors Mel a dit qu'elle s'accrocherait à ce moment agréable et a souhaité le meilleur pour Sana.",
       "bbox": {
         "x": 0.5263,
-        "y": 0.8885,
-        "width": 0.205,
-        "height": 0.0139
+        "y": 0.6892,
+        "width": 0.3719,
+        "height": 0.2592
       }
     },
     {
-      "type": "paragraph",
-      "text": "pas, et son souvenir-ne. plus, alors Mel a di € ce moment agré meilleur pour",
+      "type": "other",
+      "text": "Collaborations : Page 4",
       "bbox": {
-        "x": 0.54,
-        "y": 0.9015,
-        "width": 0.1919,
-        "height": 0.0469
+        "x": 0.4131,
+        "y": 0.9622,
+        "width": 0.1744,
+        "height": 0.0126
       }
     }
   ],

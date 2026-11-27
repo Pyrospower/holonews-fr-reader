@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2706_-_0307",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,23 +16,53 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Baelz collabore avec iBUYPOWER et HYTE pour vous proposer un boîtier PC personnalisé ! Le boîtier en édition limitée est accompagné d'un tapis de bureau, tous deux illustrés par Rosuuri. Les précommandes ont commencé sur le site de HYTE. Un PC pré-construit sera également disponible dans le courant de l'année, et une maquette sera dévoilée sur le stand diBUYPOWER à l'Anime Expo 2022. Les commandes de boîtiers et de tapis de bureau au",
+      "type": "heading",
+      "text": "iBUYPOWER and HYTE",
       "bbox": {
-        "x": 0.0719,
-        "y": 0.2782,
-        "width": 0.385,
-        "height": 0.1215
+        "x": 0.1694,
+        "y": 0.2396,
+        "width": 0.3025,
+        "height": 0.0169
       }
     },
     {
       "type": "paragraph",
-      "text": "Japon devraient être disponibles prochainement, mais le PC pré-construit sera uniquement disponible en Amérique du Nord.",
+      "text": "Baelz collabore avec iBUYPOWER et HYTE pour vous proposer un boîtier PC personnalisé ! Le boîtier en édition limitée est accompagné d'un tapis de bureau, tous deux illustrés par Rosuuri. Les précommandes ont commencé sur le site de HYTE. Un PC pré-construit sera également disponible dans le courant de l'année, et une maquette sera dévoilée sur le stand d'iBUYPOWER à l'Anime Expo 2022. Les commandes de boîtiers et de tapis de bureau au Japon devraient être disponibles prochainement, mais le PC pré-construit sera uniquement disponible en Amérique du Nord.",
       "bbox": {
         "x": 0.0712,
-        "y": 0.3997,
+        "y": 0.2782,
         "width": 0.3869,
-        "height": 0.0365
+        "height": 0.158
+      }
+    },
+    {
+      "type": "other",
+      "text": "Special Edition\nTAKE FREE",
+      "bbox": {
+        "x": 0.5525,
+        "y": 0.2426,
+        "width": 0.0638,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "other",
+      "text": "VTuber × Rapper × Reaper",
+      "bbox": {
+        "x": 0.5756,
+        "y": 0.3837,
+        "width": 0.3125,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.4631,
+        "width": 0.075,
+        "height": 0.0182
       }
     },
     {
@@ -43,6 +73,16 @@
         "y": 0.5017,
         "width": 0.3906,
         "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora & Moona",
+      "bbox": {
+        "x": 0.6563,
+        "y": 0.7635,
+        "width": 0.2562,
+        "height": 0.0195
       }
     },
     {

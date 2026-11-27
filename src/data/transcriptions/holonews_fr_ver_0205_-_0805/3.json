@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "issueId": "holonews_fr_ver_0205_-_0805",
   "page": 3,
-  "lang": "fr",
-  "status": "auto",
+  "lang": "en",
+  "status": "corrected",
   "blocks": [
     {
       "type": "paragraph",
@@ -17,57 +17,17 @@
     },
     {
       "type": "paragraph",
-      "text": "As her first performance for this event, Reine got the party started on April 6 with",
+      "text": "As her first performance for this event, Reine got the party started on April 6 with a 43-minute DJ set in VRChat with a 3D model by Priichu. She demonstrated skillful transitions between songs across all hololive branches (including her own), simultaneously singing throughout! Afterwards came Ollie, who sang holopro songs- translated to Indonesian by herself.",
       "bbox": {
         "x": 0.0572,
-        "y": 0.5363,
-        "width": 0.2689,
-        "height": 0.0475
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Mori Calliope",
-      "bbox": {
-        "x": 0.0594,
-        "y": 0.961,
-        "width": 0.1567,
-        "height": 0.0185
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "a 43-minute DJ set in",
-      "bbox": {
-        "x": 0.3589,
         "y": 0.4244,
-        "width": 0.2083,
-        "height": 0.012
+        "width": 0.8684,
+        "height": 0.1594
       }
     },
     {
       "type": "paragraph",
-      "text": "translated to Indonesian by",
-      "bbox": {
-        "x": 0.6589,
-        "y": 0.4244,
-        "width": 0.2667,
-        "height": 0.015
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "VRChat with a 3D model by herself.",
-      "bbox": {
-        "x": 0.3583,
-        "y": 0.4406,
-        "width": 0.3711,
-        "height": 0.015
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "The next day, April 7, featured Risu doing karaoke with her lé home 3D model, then Calli sang her greatest hits in her party outfit and promoted her upcoming major debut EP, SHINIGAMI NOTE.",
+      "text": "The next day, April 7, featured Risu doing karaoke with her (official) home 3D model, then Calli sang her greatest hits in her party outfit and promoted her upcoming major debut EP, SHINIGAMI NOTE.",
       "bbox": {
         "x": 0.6583,
         "y": 0.4564,
@@ -76,13 +36,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Priichu. She demonstrated skillful transitions between songs across all hololive branches (including her own), simultaneously singing throughout! Afterwards came Ollie, who sang holopro songs-",
+      "type": "other",
+      "text": "Mori Calliope",
       "bbox": {
-        "x": 0.3583,
-        "y": 0.4568,
-        "width": 0.27,
-        "height": 0.1269
+        "x": 0.0594,
+        "y": 0.961,
+        "width": 0.1567,
+        "height": 0.0185
       }
     },
     {
@@ -96,23 +56,13 @@
       }
     },
     {
-      "type": "heading",
-      "text": "5/7 SAT 24:45 -",
+      "type": "other",
+      "text": "5/7 SAT\n24:45 -",
       "bbox": {
         "x": 0.7056,
         "y": 0.8383,
         "width": 0.21,
         "height": 0.0818
-      }
-    },
-    {
-      "type": "heading",
-      "text": "• YouTube Music",
-      "bbox": {
-        "x": 0.6672,
-        "y": 0.9595,
-        "width": 0.265,
-        "height": 0.0266
       }
     }
   ],

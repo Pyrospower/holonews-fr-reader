@@ -3,11 +3,11 @@
   "issueId": "holonews_french_1710_-_2310",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "e Magmites",
+      "type": "heading",
+      "text": "Magmites",
       "bbox": {
         "x": 0.1244,
         "y": 0.0473,
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour fêter l'anniversaire de Magni, plus de 200 Magmites ont réalisé un livre contenant des illustrations et des messages écrits. Ce livre a été créé par les membres du serveur Discord TEMPUS Project Server, et a été publié sur leur compte Twitter.",
+      "text": "Pour fêter l’anniversaire de Magni, plus de 200 Magmites ont réalisé un livre contenant des illustrations et des messages écrits. Ce livre a été créé par les membres du serveur Discord TEMPUS Project Server, et a été publié sur leur compte Twitter.",
       "bbox": {
         "x": 0.0438,
         "y": 0.092,
@@ -26,13 +26,163 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "TABLE OF CONTENTS",
+      "type": "heading",
+      "text": "Let's play",
       "bbox": {
-        "x": 0.5825,
-        "y": 0.1966,
-        "width": 0.105,
-        "height": 0.0074
+        "x": 0.3912,
+        "y": 0.4175,
+        "width": 0.2188,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ Let's play terminés",
+      "bbox": {
+        "x": 0.6475,
+        "y": 0.4227,
+        "width": 0.2425,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "other",
+      "text": "VAMPIRE SURVIVORS",
+      "bbox": {
+        "x": 0.2075,
+        "y": 0.4653,
+        "width": 0.26,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "other",
+      "text": "DUNGEON MUNCHIES",
+      "bbox": {
+        "x": 0.6412,
+        "y": 0.4653,
+        "width": 0.26,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "other",
+      "text": "LITTLE NIGHTMARES\nSECRETS OF THE MAW",
+      "bbox": {
+        "x": 0.2075,
+        "y": 0.5417,
+        "width": 0.26,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "other",
+      "text": "SHERLOCK HOLMES\nChapter One",
+      "bbox": {
+        "x": 0.6412,
+        "y": 0.5417,
+        "width": 0.26,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "other",
+      "text": "ShadowCorridor",
+      "bbox": {
+        "x": 0.2075,
+        "y": 0.6181,
+        "width": 0.26,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "other",
+      "text": "Here comes Niko!",
+      "bbox": {
+        "x": 0.6412,
+        "y": 0.6181,
+        "width": 0.26,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "other",
+      "text": "OUTLAST",
+      "bbox": {
+        "x": 0.2075,
+        "y": 0.6936,
+        "width": 0.26,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "other",
+      "text": "DRAGON QUEST V\nHand of the Heavenly Bride",
+      "bbox": {
+        "x": 0.6412,
+        "y": 0.6936,
+        "width": 0.26,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "other",
+      "text": "CULT OF THE LAMB",
+      "bbox": {
+        "x": 0.2075,
+        "y": 0.7691,
+        "width": 0.26,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "other",
+      "text": "Potion Craft",
+      "bbox": {
+        "x": 0.6412,
+        "y": 0.7691,
+        "width": 0.26,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "other",
+      "text": "Wobbly Life",
+      "bbox": {
+        "x": 0.2925,
+        "y": 0.8498,
+        "width": 0.1663,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "other",
+      "text": "RUKIMIN’s Disappointing Adventure!",
+      "bbox": {
+        "x": 0.725,
+        "y": 0.8498,
+        "width": 0.1663,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ FALL GUYS\nULTIMATE KNOCKOUT",
+      "bbox": {
+        "x": 0.2925,
+        "y": 0.9253,
+        "width": 0.1663,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "other",
+      "text": "ASTRONEER",
+      "bbox": {
+        "x": 0.725,
+        "y": 0.9253,
+        "width": 0.1663,
+        "height": 0.0599
       }
     }
   ],

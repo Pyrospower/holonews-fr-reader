@@ -3,26 +3,56 @@
   "issueId": "holonews_fr_ver_2102_-_2702",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Le 26 février, Subaru a commencé sa pause de deux semaines pour laisser sa gorge se reposer. C’est une mesure de prévention pour protéger ses cordes vocales d'autres tensions.",
+      "type": "heading",
+      "text": "GEN 2",
       "bbox": {
-        "x": 0.0513,
-        "y": 0.2808,
-        "width": 0.4231,
-        "height": 0.0586
+        "x": 0.1865,
+        "y": 0.0628,
+        "width": 0.1635,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.1596,
+        "y": 0.2377,
+        "width": 0.1712,
+        "height": 0.0227
       }
     },
     {
       "type": "paragraph",
-      "text": "Subaru est connue pour avoir peur de faire des pauses, c'est donc un acte courageux de sa part. Pendant cette période, elle rendra visite à ses grands-parents, ce qu'elle ne pouvait pas faire auparavant en raison de son emploi du temps chargé.",
+      "text": "Le 26 février, Subaru a commencé sa pause de deux semaines pour laisser sa gorge se reposer. C’est une mesure de prévention pour protéger ses cordes vocales d'autres tensions. Subaru est connue pour avoir peur de faire des pauses, c'est donc un acte courageux de sa part. Pendant cette période, elle rendra visite à ses grands-parents, ce qu'elle ne pouvait pas faire auparavant en raison de son emploi du temps chargé.",
       "bbox": {
         "x": 0.0506,
-        "y": 0.3403,
-        "width": 0.4188,
-        "height": 0.0877
+        "y": 0.2808,
+        "width": 0.4238,
+        "height": 0.1472
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.2363,
+        "width": 0.1404,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a parlé du clip de sa dernière chanson, « Secret Class », lors d'un stream discussion. Elle a parlé de sa conception, des décisions artistiques et, en général, a montré à quel point elle aimait le clip. Sa version humaine était, comme l'a dit Choco: « vraiment mignonne ». Choco a également montré les illustrations complètes de toutes les scènes colorées, y compris la plus osée. N'oubliez pas de regarder le clip si vous ne l'avez pas déjà vu !",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2808,
+        "width": 0.42,
+        "height": 0.1619
       }
     },
     {
@@ -33,6 +63,16 @@
         "y": 0.4674,
         "width": 0.2775,
         "height": 0.0629
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.1596,
+        "y": 0.6716,
+        "width": 0.1635,
+        "height": 0.0227
       }
     },
     {
@@ -56,13 +96,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Choco a parlé du clip de sa dernière chanson, « Secret Class », lors d'un stream discussion. Elle a parlé de sa conception, des décisions artistiques et, en général, a montré à quel point elle aimait le clip. Sa version humaine était, comme l'a dit Choco: « vraiment mignonne ». Choco a également montré les illustrations complètes de toutes les scènes colorées, y compris la plus osée. N'oubliez pas de regarder le clip si vous ne l'avez pas déjà vu !",
+      "type": "heading",
+      "text": "Noel",
       "bbox": {
-        "x": 0.5231,
-        "y": 0.2808,
-        "width": 0.42,
-        "height": 0.1619
+        "x": 0.6327,
+        "y": 0.6716,
+        "width": 0.1,
+        "height": 0.0227
       }
     },
     {

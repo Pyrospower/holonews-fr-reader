@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_lite_2012_-_2612",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "MISC",
+      "bbox": {
+        "x": 0.1881,
+        "y": 0.0282,
+        "width": 0.1563,
+        "height": 0.0273
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Rapidement devenu une tradition annuelle, plusieurs membres de hololive se sont réunis sous la bannière de Mio pour un karaoké de Noël en relais ! 27 membres ont chacune chanté pendant 20 minutes sur leurs chaînes respectives, faisant un total de 9 heures de karaoké pour le plaisir des fans d'hololive. Vous trouverez une playlist dans les sources avec les streams de chaque membre!",
+      "text": "Rapidement devenu une tradition annuelle, plusieurs membres de hololive se sont réunis sous la bannière de Mio pour un karaoké de Noël en relais ! 27 membres ont chacune chanté pendant 20 minutes sur leurs chaînes respectives, faisant un total de 9 heures de karaoké pour le plaisir des fans d’hololive. Vous trouverez une playlist dans les sources avec les streams de chaque membre!",
       "bbox": {
         "x": 0.0506,
         "y": 0.2018,
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le troisième jour du stream, un autre stream fut diffusé qui a révélé que tout ce temps, un membre du personnel d’hololive était à l’origine de l'alimentation du sapin ! Ayant fait du vélo pendant trois jours, ce membre était bien trop fatigué, ce qui fut le moment parfait pour l'apparition surprise de YAGOO pour sauver la mise ! Le seul et unique PDG de Cover, encouragé par tout le monde, était aux manettes et a pu redonner vie à l’arbre et sauver Noël !",
+      "text": "Le troisième jour du stream, un autre stream fut diffusé qui a révélé que tout ce temps, un membre du personnel d’hololive était à l’origine de l’alimentation du sapin ! Ayant fait du vélo pendant trois jours, ce membre était bien trop fatigué, ce qui fut le moment parfait pour l’apparition surprise de YAGOO pour sauver la mise ! Le seul et unique PDG de Cover, encouragé par tout le monde, était aux manettes et à pu redonner vie à l’arbre et sauver Noël !",
       "bbox": {
         "x": 0.05,
         "y": 0.6102,
@@ -47,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour fêter la saison de Noël avec y leur Tenchou, certains poulets de -q KFP se sont réunis ensemble pour donner à Tenchou et à tout le reste de KFP quelques cadeaux:",
+      "text": "Pour fêter la saison de Noël avec leur Tenchou, certains poulets de KFP se sont réunis ensemble pour donner à Tenchou et à tout le reste de KFP quelques cadeaux:",
       "bbox": {
         "x": 0.0481,
         "y": 0.7383,
@@ -57,42 +67,22 @@
     },
     {
       "type": "paragraph",
-      "text": "• 4 parodies de chansons de Noël",
+      "text": "• 4 parodies de chansons de Noël\n• Une vidéo de célébration Minecraft dans une ville sur le thème de Noël\n• Une collection de cookies fait par KFP\n• La lecture d’une histoire originale de Noël",
       "bbox": {
         "x": 0.0681,
         "y": 0.8442,
-        "width": 0.3381,
-        "height": 0.0152
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Une vidéo de célébration Minecraft dans une ville sur le thème de Noël",
-      "bbox": {
-        "x": 0.0681,
-        "y": 0.8598,
-        "width": 0.3119,
-        "height": 0.0443
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• Une collection de cookies fait par KFP",
-      "bbox": {
-        "x": 0.0681,
-        "y": 0.9084,
         "width": 0.345,
-        "height": 0.0278
+        "height": 0.1241
       }
     },
     {
-      "type": "paragraph",
-      "text": "• La lecture d’une histoire originale de Noël",
+      "type": "other",
+      "text": "Art: SoraNana / commissioned by KFP",
       "bbox": {
-        "x": 0.0681,
-        "y": 0.9405,
-        "width": 0.3438,
-        "height": 0.0278
+        "x": 0.9425,
+        "y": 0.7639,
+        "width": 0.0181,
+        "height": 0.191
       }
     }
   ],

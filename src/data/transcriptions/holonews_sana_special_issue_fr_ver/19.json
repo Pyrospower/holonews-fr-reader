@@ -2,117 +2,237 @@
   "schemaVersion": 1,
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 19,
-  "lang": "fr",
-  "status": "unavailable",
+  "lang": "en",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "@moonal",
+      "type": "other",
+      "text": "@tsunomakiwatame\nSana is always our companion.\nI will always love you💛",
       "bbox": {
-        "x": 0.12,
-        "y": 0.4214,
-        "width": 0.06,
-        "height": 0.0087
+        "x": 0.0338,
+        "y": 0.0278,
+        "width": 0.4354,
+        "height": 0.0951
       }
     },
     {
-      "type": "paragraph",
-      "text": "Replying to @tsukumosana",
+      "type": "other",
+      "text": "@oozorasubaru\nme too!!\nThe time we spent together talking about Fairy Bread with you was a wonderful dream come true for me.\nI will miss you but wish Sana well!\nI love you forever!❤️❤️❤️\nThanks Sana!",
       "bbox": {
-        "x": 0.0481,
-        "y": 0.5512,
-        "width": 0.1906,
-        "height": 0.01
+        "x": 0.4754,
+        "y": 0.0256,
+        "width": 0.4908,
+        "height": 0.1645
       }
     },
     {
-      "type": "heading",
-      "text": "Love U forever... Thank U for everything!!",
+      "type": "other",
+      "text": "@tsunomakiwatame\nI love you forever!!!!!!!!!!!!!!!!!!",
       "bbox": {
-        "x": 0.0463,
-        "y": 0.5751,
-        "width": 0.2638,
-        "height": 0.0369
+        "x": 0.0431,
+        "y": 0.1261,
+        "width": 0.4231,
+        "height": 0.0887
       }
     },
     {
-      "type": "paragraph",
-      "text": "Pavolia Reine (L 1 #)@#A 7 1 71D @pavoliareine",
+      "type": "other",
+      "text": "@tokoyamitowa\nLove you Sana!!!🥹❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️",
       "bbox": {
-        "x": 0.0994,
-        "y": 0.6254,
-        "width": 0.215,
-        "height": 0.0182
+        "x": 0.4769,
+        "y": 0.1934,
+        "width": 0.4908,
+        "height": 0.0823
       }
     },
     {
-      "type": "paragraph",
-      "text": "Replying to @tsukumosana",
+      "type": "other",
+      "text": "@airaniiofifteen\nLove you lots too!",
       "bbox": {
-        "x": 0.0519,
-        "y": 0.6606,
-        "width": 0.1425,
-        "height": 0.0078
+        "x": 0.0462,
+        "y": 0.2169,
+        "width": 0.4231,
+        "height": 0.1026
       }
     },
     {
-      "type": "paragraph",
-      "text": "Until the end, make lots of happy memories! @",
+      "type": "other",
+      "text": "@shiroganenoel\nI love Sana!!!\n卒業しちゃうのは寂しいけど...サナちゃんの人生を陰ながら応援してます！！\nホロライブでの素敵な活動、本当にありがとう...！！\nずっと忘れないよ<3",
       "bbox": {
-        "x": 0.0538,
-        "y": 0.9492,
-        "width": 0.2713,
-        "height": 0.0143
+        "x": 0.4862,
+        "y": 0.2788,
+        "width": 0.48,
+        "height": 0.141
       }
     },
     {
-      "type": "paragraph",
-      "text": "@shishirobotan",
+      "type": "other",
+      "text": "@ayunda_risu\nI love you too, Sana 🥺🫂🫂🫂🫂🫂🫂🫂🫂",
       "bbox": {
-        "x": 0.5488,
-        "y": 0.4462,
-        "width": 0.0763,
-        "height": 0.0056
+        "x": 0.0431,
+        "y": 0.3259,
+        "width": 0.4231,
+        "height": 0.0748
       }
     },
     {
-      "type": "paragraph",
-      "text": "Replying to @tsukumosana",
+      "type": "other",
+      "text": "@moonahoshinova\nI love you sana!!!",
       "bbox": {
-        "x": 0.5769,
-        "y": 0.5681,
-        "width": 0.1306,
-        "height": 0.0069
+        "x": 0.0462,
+        "y": 0.3996,
+        "width": 0.4231,
+        "height": 0.0908
       }
     },
     {
-      "type": "paragraph",
-      "text": "I will always wish you happiness and good health9 NENEXxSANA = BIG BIG LOVE! TSUKUNE!",
+      "type": "other",
+      "text": "@shishirobotan\nマイクラのen鯖に初めて遊びに行った時、サナちゃんがいっぱい案内してくれて楽しかったよ！I❤️SANA！",
       "bbox": {
-        "x": 0.5731,
-        "y": 0.5842,
-        "width": 0.3856,
-        "height": 0.0243
+        "x": 0.4846,
+        "y": 0.422,
+        "width": 0.4831,
+        "height": 0.0962
       }
     },
     {
-      "type": "paragraph",
-      "text": "Kaela Kovalskia (h I 7) À @HA 7 4 71D kaelakovalskia",
+      "type": "other",
+      "text": "@kobokanaeru\nSpace is beeg",
       "bbox": {
-        "x": 0.6444,
-        "y": 0.6298,
-        "width": 0.3063,
-        "height": 0.023
+        "x": 0.3185,
+        "y": 0.4893,
+        "width": 0.2369,
+        "height": 0.0331
       }
     },
     {
-      "type": "paragraph",
-      "text": "Replying to @tsukumosana",
+      "type": "other",
+      "text": "@takanelui\nLove U forever...\nThank U for everything!!",
       "bbox": {
-        "x": 0.5838,
-        "y": 0.674,
-        "width": 0.1813,
-        "height": 0.0091
+        "x": 0.0415,
+        "y": 0.4979,
+        "width": 0.2738,
+        "height": 0.1122
+      }
+    },
+    {
+      "type": "other",
+      "text": "@momosuzunene\nI will always wish you happiness and good health♡\nNENE×SANA = BIG BIG LOVE! TSUKUNE!",
+      "bbox": {
+        "x": 0.5708,
+        "y": 0.5267,
+        "width": 0.3938,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "@pavoliareine\nLove you 💙💙💙",
+      "bbox": {
+        "x": 0.0477,
+        "y": 0.6197,
+        "width": 0.2692,
+        "height": 0.0737
+      }
+    },
+    {
+      "type": "other",
+      "text": "@kaelakovalskia\nwe love you sana senpai!! 💕💛",
+      "bbox": {
+        "x": 0.5815,
+        "y": 0.6229,
+        "width": 0.3754,
+        "height": 0.0919
+      }
+    },
+    {
+      "type": "other",
+      "text": "@vestiazeta\nwe love you sana senpai💖",
+      "bbox": {
+        "x": 0.3354,
+        "y": 0.6902,
+        "width": 0.2354,
+        "height": 0.063
+      }
+    },
+    {
+      "type": "other",
+      "text": "@kureijiollie\nBEEGest love❤️🪐",
+      "bbox": {
+        "x": 0.0477,
+        "y": 0.7041,
+        "width": 0.2769,
+        "height": 0.0737
+      }
+    },
+    {
+      "type": "other",
+      "text": "@lizhi3\nWe will never forget our days with you and wish you a wonderful future🍞🌌✨LOVE YOU💛",
+      "bbox": {
+        "x": 0.5831,
+        "y": 0.7297,
+        "width": 0.38,
+        "height": 0.0609
+      }
+    },
+    {
+      "type": "other",
+      "text": "@hakuikoyori\nSana senpai !!\nSorry I didn't have a chance to talk to you.\nI will always love you!!!!",
+      "bbox": {
+        "x": 0.0462,
+        "y": 0.797,
+        "width": 0.3154,
+        "height": 0.0887
+      }
+    },
+    {
+      "type": "other",
+      "text": "@anyamelfissa\nI'll always support and love you, as far as the universe goes🍞🚀💛",
+      "bbox": {
+        "x": 0.2369,
+        "y": 0.8013,
+        "width": 0.38,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "other",
+      "text": "@harusakinodoka\nThank you , too .\nI hope your future will be happy and wonderful ... !!\nサナさんがこれから歩む道が、いっそうすてきなものでありますように...！\n最後まで全力で応援します！",
+      "bbox": {
+        "x": 0.66,
+        "y": 0.7906,
+        "width": 0.3092,
+        "height": 0.0919
+      }
+    },
+    {
+      "type": "other",
+      "text": "@tsubuanfes\nI miss you so much and I feel so precious to have met you Sana.\nMay all your future be glorious.\nThank you.",
+      "bbox": {
+        "x": 0.3662,
+        "y": 0.8515,
+        "width": 0.3385,
+        "height": 0.0737
+      }
+    },
+    {
+      "type": "other",
+      "text": "@MikaPikaZo\nI love your cheerful appearance. Thank you!👏\nUntil the end, make lots of happy memories!❤️",
+      "bbox": {
+        "x": 0.0492,
+        "y": 0.9017,
+        "width": 0.2754,
+        "height": 0.0609
+      }
+    },
+    {
+      "type": "other",
+      "text": "@astelleda\nうちゅうのなかまは、いつだってこのうちゅうでつながってるってこと",
+      "bbox": {
+        "x": 0.5385,
+        "y": 0.9038,
+        "width": 0.4292,
+        "height": 0.0641
       }
     }
   ],

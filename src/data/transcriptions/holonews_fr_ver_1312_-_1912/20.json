@@ -3,56 +3,316 @@
   "issueId": "holonews_fr_ver_1312_-_1912",
   "page": 20,
   "lang": "fr",
-  "status": "unavailable",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "Un grand merci a notre équipe",
+      "text": "Un grand merci à notre équipe pour son travail cette année",
       "bbox": {
-        "x": 0.235,
-        "y": 0.0964,
-        "width": 0.5288,
-        "height": 0.0247
+        "x": 0.233,
+        "y": 0.096,
+        "width": 0.533,
+        "height": 0.054
       }
     },
     {
-      "type": "paragraph",
-      "text": "pour son travail cette année Shifty Equipe éditoriale Equipe de traduction Rédacteurs en chef JP ES sleepygirl Saralia Jakes57 Fulli Saginomiya fransuke-sama Ryokhan ID Macf kingofpikon minyaksayur Yagato TheBigMD Millie BadGrammar PhantomZamber Soyash Frappu Chefs d'édition = losfroger : Joestar san KnifyMan Leviathong A : smallrain Zephias [= ; Terence PL REE] BE [Arashi] sanena Rédacteurs RU KapiWilq Absolute Zero Elvendan koxiu Elvendan DarellaTheZ# 3 anxs Fineko kkkkkk EnaxTM ggggxxxx kakain-pon4ukette FR Smoked Pancakes' House infernail Wel jiget Développeur Chilluno! AyaVirus Toothless Pyrospower fransuke-sama Nickatak Sebas1509",
+      "type": "other",
+      "text": "Sh1fty",
       "bbox": {
-        "x": 0.1663,
-        "y": 0.1302,
-        "width": 0.6694,
-        "height": 0.5729
+        "x": 0.446,
+        "y": 0.173,
+        "width": 0.088,
+        "height": 0.017
       }
     },
     {
-      "type": "paragraph",
-      "text": "RealNicheMarket Consultant en graphisme Whenever Niklas AllBaito Yayaka Modérateur dutchat Piexlll DonL Drad",
+      "type": "heading",
+      "text": "Équipe éditoriale",
       "bbox": {
-        "x": 0.2131,
-        "y": 0.7088,
-        "width": 0.5931,
-        "height": 0.0816
+        "x": 0.174,
+        "y": 0.204,
+        "width": 0.278,
+        "height": 0.021
       }
     },
     {
-      "type": "paragraph",
-      "text": "Journalistes sur Discord et Reddit Gabin Andmeuths, Atrophius, Bomber, KyouMoKawaii, mattscout007, Sasuga!, Zahder, Irystocrat, Kirill,",
+      "type": "other",
+      "text": "Rédacteurs en chef\nsleepygirl\nFulli\nRyokhan\nkingofpikon\nTheBigMD\nPhantomZamber",
       "bbox": {
-        "x": 0.2188,
-        "y": 0.8008,
-        "width": 0.5613,
-        "height": 0.066
+        "x": 0.2,
+        "y": 0.236,
+        "width": 0.225,
+        "height": 0.149
       }
     },
     {
-      "type": "paragraph",
-      "text": "Bling, Cannongerbil, NurseT, Jellyjelly, ET BIEN PLUS",
+      "type": "heading",
+      "text": "Chefs d’édition",
       "bbox": {
-        "x": 0.2775,
-        "y": 0.8733,
-        "width": 0.4375,
-        "height": 0.0347
+        "x": 0.225,
+        "y": 0.406,
+        "width": 0.175,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "Leviathong\nTKB\nVersessli",
+      "bbox": {
+        "x": 0.247,
+        "y": 0.429,
+        "width": 0.13,
+        "height": 0.06
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rédacteurs",
+      "bbox": {
+        "x": 0.246,
+        "y": 0.505,
+        "width": 0.134,
+        "height": 0.016
+      }
+    },
+    {
+      "type": "other",
+      "text": "Absolute Zero\nElvendan\nFineko\nggggxxxx\nSmoked Pancakes' House\njiget\nAyaVirus\nfransuke-sama\nRealNicheMarket\nNiklas",
+      "bbox": {
+        "x": 0.164,
+        "y": 0.528,
+        "width": 0.298,
+        "height": 0.218
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Équipe de traduction",
+      "bbox": {
+        "x": 0.487,
+        "y": 0.204,
+        "width": 0.341,
+        "height": 0.021
+      }
+    },
+    {
+      "type": "heading",
+      "text": "JP",
+      "bbox": {
+        "x": 0.545,
+        "y": 0.236,
+        "width": 0.022,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "Saralia\nSaginomiya",
+      "bbox": {
+        "x": 0.487,
+        "y": 0.258,
+        "width": 0.136,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.542,
+        "y": 0.304,
+        "width": 0.025,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "minyaksayur\nMillie\nSoyash",
+      "bbox": {
+        "x": 0.478,
+        "y": 0.326,
+        "width": 0.156,
+        "height": 0.058
+      }
+    },
+    {
+      "type": "heading",
+      "text": "CN",
+      "bbox": {
+        "x": 0.538,
+        "y": 0.394,
+        "width": 0.035,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "Joestar san\nsmallrain\nTerence\n月嵐[Arashi]",
+      "bbox": {
+        "x": 0.485,
+        "y": 0.416,
+        "width": 0.137,
+        "height": 0.082
+      }
+    },
+    {
+      "type": "heading",
+      "text": "RU",
+      "bbox": {
+        "x": 0.538,
+        "y": 0.506,
+        "width": 0.033,
+        "height": 0.016
+      }
+    },
+    {
+      "type": "other",
+      "text": "Elvendan\nDarellaThe愛する\nkkkkkk\nkakain-pon4ukette\ninferna1l",
+      "bbox": {
+        "x": 0.447,
+        "y": 0.528,
+        "width": 0.223,
+        "height": 0.105
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ES",
+      "bbox": {
+        "x": 0.734,
+        "y": 0.236,
+        "width": 0.027,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "Jakes57\nfransuke-sama\nMacf\nYagato\nBadGrammar\nFrappu\nlosfroger\nKnifyMan\nZephias",
+      "bbox": {
+        "x": 0.663,
+        "y": 0.258,
+        "width": 0.174,
+        "height": 0.195
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PL",
+      "bbox": {
+        "x": 0.734,
+        "y": 0.462,
+        "width": 0.029,
+        "height": 0.016
+      }
+    },
+    {
+      "type": "other",
+      "text": "sanena\nKapiWilq\nkoxiu\nanxs\nEnaxTM",
+      "bbox": {
+        "x": 0.696,
+        "y": 0.485,
+        "width": 0.103,
+        "height": 0.105
+      }
+    },
+    {
+      "type": "heading",
+      "text": "FR",
+      "bbox": {
+        "x": 0.733,
+        "y": 0.598,
+        "width": 0.029,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "Wel\nChilluno!\nPyrospower\nSebas1509\nWhenever\nYayaka\nPiex_III\nDrad\nGabin",
+      "bbox": {
+        "x": 0.678,
+        "y": 0.621,
+        "width": 0.14,
+        "height": 0.194
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Développeur",
+      "bbox": {
+        "x": 0.473,
+        "y": 0.646,
+        "width": 0.151,
+        "height": 0.018
+      }
+    },
+    {
+      "type": "other",
+      "text": "Toothless\nNickatak",
+      "bbox": {
+        "x": 0.493,
+        "y": 0.668,
+        "width": 0.111,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Consultant en graphisme",
+      "bbox": {
+        "x": 0.422,
+        "y": 0.712,
+        "width": 0.253,
+        "height": 0.014
+      }
+    },
+    {
+      "type": "other",
+      "text": "AllBaito",
+      "bbox": {
+        "x": 0.502,
+        "y": 0.732,
+        "width": 0.093,
+        "height": 0.014
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Modérateur du tchat",
+      "bbox": {
+        "x": 0.426,
+        "y": 0.754,
+        "width": 0.247,
+        "height": 0.016
+      }
+    },
+    {
+      "type": "other",
+      "text": "DonL",
+      "bbox": {
+        "x": 0.519,
+        "y": 0.778,
+        "width": 0.061,
+        "height": 0.014
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Journalistes sur Discord et Reddit",
+      "bbox": {
+        "x": 0.303,
+        "y": 0.805,
+        "width": 0.392,
+        "height": 0.016
+      }
+    },
+    {
+      "type": "other",
+      "text": "Andmeuths, Atrophius, Bomber, KyouMoKawaii,\nmattscout007, Sasuga!, Zahder, Irystocrat, Kirill,\nBling, Cannongerbil, NurseT, Jellyjelly,\nET BIEN PLUS",
+      "bbox": {
+        "x": 0.218,
+        "y": 0.827,
+        "width": 0.563,
+        "height": 0.082
       }
     }
   ],

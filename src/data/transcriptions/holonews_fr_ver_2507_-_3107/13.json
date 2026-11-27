@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2507_-_3107",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0174,
         "width": 0.33,
         "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Vesper",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.2,
+        "width": 0.109,
+        "height": 0.023
       }
     },
     {
@@ -26,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Vesper",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.441,
+        "width": 0.109,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Dans l'un de ses streams de discussion, ; Vesper a expliqué à ses spectateurs pourquoi il ne jouerait pas à Among Us. Il a dit que c'était parce qu'il n'aime pas mentir et accuser les gens. Vesper a dit que dès qu'il obtiendrait un rôle d'imposteur, il avouerait i immédiatement et demanderait à être éjecté.",
+      "text": "Dans l'un de ses streams de discussion, Vesper a expliqué à ses spectateurs pourquoi il ne jouerait pas à Among Us. Il a dit que c'était parce qu'il n'aime pas mentir et accuser les gens. Vesper a dit que dès qu'il obtiendrait un rôle d'imposteur, il avouerait immédiatement et demanderait à être éjecté.",
       "bbox": {
         "x": 0.0712,
         "y": 0.4796,
@@ -46,6 +66,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Vesper",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.791,
+        "width": 0.109,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Vesper a organisé un stream en collaboration avec Altare où ils ont tous deux joué à Hunt : Showdown, un jeu de tir à la première personne de type Joueur contre Joueur contre Environnement. Bien qu'ils débutaient, ils ont démontré qu'ils apprenaient rapidement de nouvelles compétences. Ils ont réussi à remporter quelques matchs en une heure de streaming.",
       "bbox": {
@@ -53,6 +83,16 @@
         "y": 0.8312,
         "width": 0.3856,
         "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Vesper & Axel",
+      "bbox": {
+        "x": 0.653,
+        "y": 0.197,
+        "width": 0.217,
+        "height": 0.023
       }
     },
     {
@@ -66,13 +106,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "StarsEN",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.396,
+        "width": 0.128,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Les membres d'HOLOSTARS EN TEMPUS apparaîtront en tant qu'invités à la CR Expo de Crunchyroll. lls apparaîtront dans la « holoMeet Experience Zone » , mais ne participeront pas aux panels ou aux rencontres",
+      "text": "Les membres d’HOLOSTARS EN TEMPUS apparaîtront en tant qu'invités à la CR Expo de Crunchyroll. Ils apparaîtront dans la « holoMeet Experience Zone » , mais ne participeront pas aux panels ou aux rencontres",
       "bbox": {
         "x": 0.5363,
         "y": 0.4349,
         "width": 0.3894,
         "height": 0.0668
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Altare & Dezmond",
+      "bbox": {
+        "x": 0.655,
+        "y": 0.687,
+        "width": 0.285,
+        "height": 0.023
       }
     },
     {

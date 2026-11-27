@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_1403_-_2003",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 5",
+      "bbox": {
+        "x": 0.4375,
+        "y": 0.0161,
+        "width": 0.125,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.1663,
+        "y": 0.1819,
+        "width": 0.0938,
+        "height": 0.0195
+      }
+    },
     {
       "type": "paragraph",
       "text": "Lors d'un stream dans lequel elle passait en revue des tenues d'idol, Botan a exprimé son envie de révéler un modèle 3D pour les SSRB : c'est principalement pour cette raison qu'elle a fait des cookies en forme de SSRB. Elle a loué un studio de cuisine pour en faire une vidéo, mais comme l'ont fait remarquer certains spectateurs attentifs, le studio est célèbre pour une certaine publicité pour l'huile d'olive. Botan a également sorti des produits dérivés SSRB pour fêter son million d'abonnés. Pour réduire les coûts, elle a dû réduire le nombre de variantes et supprimer certains détails des peluches.",
@@ -26,13 +46,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.1606,
+        "y": 0.7739,
+        "width": 0.09,
+        "height": 0.0208
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Dans le dernier épisode de La légende de Polka, lzutsu a pris la forme de la mascotte de Sora, Ankimo. Polka et elle se sont affrontées sur les mini-jeux de 1-2-Switch, dont /mite ma pose !, Zen et Duel au Far West. lzutsu se vantait à chaque petite victoire. Les rires et la joie étaient abondants dans cet épisode.",
+      "text": "Dans le dernier épisode de La légende de Polka, Izutsu a pris la forme de la mascotte de Sora, Ankimo. Polka et elle se sont affrontées sur les mini-jeux de 1-2-Switch, dont Imite ma pose !, Zen et Duel au Far West. Izutsu se vantait à chaque petite victoire. Les rires et la joie étaient abondants dans cet épisode.",
       "bbox": {
         "x": 0.0675,
         "y": 0.8138,
         "width": 0.3894,
         "height": 0.1172
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene & Iroha",
+      "bbox": {
+        "x": 0.6481,
+        "y": 0.1823,
+        "width": 0.2081,
+        "height": 0.02
       }
     },
     {
@@ -46,8 +86,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.6294,
+        "y": 0.5182,
+        "width": 0.0875,
+        "height": 0.0234
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Lamy a vaincu Godrick le Greffé sur Elden Ring. Elle a élaboré une stratégie intelligente en utilisant un arc et des flèches pour se battre à distance, et son partenaire guerrier, Nepheli Loux, qui s'est battu en première ligne. Bien que ses tentatives aient été proches et qu'elle ait même renversé le dragon une fois, Lamy n'a malheureusement pas réussi à tuer le Dragon de Pierre d’Eclat. Elle a remis son let's play à plus tard après avoir déverrouillé la porte de l'académie.",
+      "text": "Lamy a vaincu Godrick le Greffé sur Elden Ring. Elle a élaboré une stratégie intelligente en utilisant un arc et des flèches pour se battre à distance, et son partenaire guerrier, Nepheli Loux, qui s’est battu en première ligne. Bien que ses tentatives aient été proches et qu'elle ait même renversé le dragon une fois, Lamy n'a malheureusement pas réussi à tuer le Dragon de Pierre d’Éclat. Elle a remis son let’s play à plus tard après avoir déverrouillé la porte de l'académie.",
       "bbox": {
         "x": 0.535,
         "y": 0.5577,

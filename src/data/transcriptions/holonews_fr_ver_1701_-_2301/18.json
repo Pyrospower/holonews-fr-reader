@@ -2,17 +2,37 @@
   "schemaVersion": 1,
   "issueId": "holonews_fr_ver_1701_-_2301",
   "page": 18,
-  "lang": "fr",
-  "status": "unavailable",
+  "lang": "en",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "LET'S PLAY",
+      "type": "heading",
+      "text": "LET’S PLAY",
       "bbox": {
         "x": 0.2213,
         "y": 0.2227,
         "width": 0.3394,
         "height": 0.0269
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ COMPLETED PLAYTHROUGH",
+      "bbox": {
+        "x": 0.764,
+        "y": 0.221,
+        "width": 0.186,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "other",
+      "text": "Ring Fit Adventure | OMORI | Animal Crossing: New Horizons — Happy Home Paradise\nThe Radio Station | Donut County | Jump King\nCounter:Side | Raft | ★ Lost in Random\nFlowering Abyss | SUPERHOT | RETRO\nTom Clancy’s Rainbow Six Extraction | The Legend of Zelda: Ocarina of Time | The Watchers\nMetal Slug Attack | ERROR | ARK Lost Island\nHeave Ho | Apex Legends | Pummel Party",
+      "bbox": {
+        "x": 0.035,
+        "y": 0.276,
+        "width": 0.93,
+        "height": 0.489
       }
     }
   ],

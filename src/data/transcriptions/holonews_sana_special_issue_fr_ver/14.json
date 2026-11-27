@@ -3,8 +3,18 @@
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "other",
+      "text": "Tsukumo Sana Special Issue",
+      "bbox": {
+        "x": 0.3967,
+        "y": 0.0262,
+        "width": 0.2078,
+        "height": 0.0131
+      }
+    },
     {
       "type": "heading",
       "text": "#8 Sana & Polka",
@@ -67,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La dixième collaboration de Sana pré-graduation était sur 57 Worldwide Games avec Kaela. Même s'il s'agissait de leur première collaboration ensemble, leur alchimie était évidente dès la première partie de bowling, où elles riaient de leur mauvaise performance. À la surprise générale, Sana a réussi à faire rire Kaela à gorge déployée ! Son accent australien fait ressembler « Kaela » à « Koala », qui est devenu son nouveau surnom. Kaela a dit u'elle voulait vraiment rencontrer Sana ans la vraie vie et l'a couronnée « Reine des Erreurs ». Sana a annoncé qu'elle aurait cinq collabs en un jour plus tard avant de terminer le stream.",
+      "text": "La dixième collaboration de Sana pré-graduation était sur 51 Worldwide Games avec Kaela. Même s'il s'agissait de leur première collaboration ensemble, leur alchimie était évidente dès la première partie de bowling, où elles riaient de leur mauvaise performance. À la surprise générale, Sana a réussi à faire rire Kaela à gorge déployée ! Son accent australien fait ressembler « Kaela » à « Koala », qui est devenu son nouveau surnom. Kaela a dit qu'elle voulait vraiment rencontrer Sana dans la vraie vie et l'a couronnée « Reine des Erreurs ». Sana a annoncé qu'elle aurait cinq collabs en un jour plus tard avant de terminer le stream.",
       "bbox": {
         "x": 0.5394,
         "y": 0.2105,
@@ -87,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le 19 juillet, le trio composé de Sana, Calli et Mumei s'est réuni pour faire une revue d'« anatomie » pour la onzieme collab pré-graduation de Sana. L'« histoire » du, Stream était qu'elles se sont retrouvées toutes les trois dans un musée d'art où elles ont passé en revue les illustrations des fans posté avec #anatoMei.",
+      "text": "Le 19 juillet, le trio composé de Sana, Calli et Mumei s'est réuni pour faire une revue d'« anatomie » pour la onzième collab pré-graduation de Sana. L'« histoire » du stream était qu'elles se sont retrouvées toutes les trois dans un musée d'art où elles ont passé en revue les illustrations des fans posté avec #anatoMei.",
       "bbox": {
         "x": 0.5394,
         "y": 0.6115,
@@ -107,12 +117,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Le stream s'est terminé en parlant du prochain stream de Sana, le combat d'Ender ae Calli a souhaité que Sana tue l'Ender Dragon avec du pain",
+      "text": "Le stream s'est terminé en parlant du prochain stream de Sana, le combat d'Ender Dragon. Calli a souhaité que Sana tue l'Ender Dragon avec du pain",
       "bbox": {
         "x": 0.5394,
         "y": 0.8989,
         "width": 0.3556,
         "height": 0.0499
+      }
+    },
+    {
+      "type": "other",
+      "text": "Collaborations : Page 3",
+      "bbox": {
+        "x": 0.4122,
+        "y": 0.9606,
+        "width": 0.1767,
+        "height": 0.0139
       }
     }
   ],

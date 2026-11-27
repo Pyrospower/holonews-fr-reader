@@ -3,31 +3,11 @@
   "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Malgré tout cela, I'adorable orque masquée s'était correctement présentée. Deux des moments marquants du stream ont été celui où elle a retiré son masque, mettant à genoux les spectateurs par son charme, ainsi que le moment où elle a démontré une vaste tessiture en chantant deux chansons différentes, l'une avec une voix mignonne et l’autre avec une voix plus grave et douce.",
-      "bbox": {
-        "x": 0.0381,
-        "y": 0.6437,
-        "width": 0.4281,
-        "height": 0.2101
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Elle a clôturé son stream en remerciant les spectateurs pour leurs encouragements et a montré son programme pour la semaine.",
-      "bbox": {
-        "x": 0.0388,
-        "y": 0.8819,
-        "width": 0.425,
-        "height": 0.0586
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "+: SAMAMATA CHLOE::",
+      "type": "heading",
+      "text": "SAKAMATA CHLOE",
       "bbox": {
         "x": 0.6375,
         "y": 0.0738,
@@ -47,12 +27,32 @@
     },
     {
       "type": "paragraph",
-      "text": "Au cours de sa présentation, elle est partie dans plusieurs digressions, s’est faite légèrement réprimander par l’équipe de management et a fait d’adorables boulettes, comme lorsqu'elle n’a pas réussi à afficher un Tweet, a négligé de couper son micro, a fait appel à nouveau au tonnerre de Zeus par erreur, et plus encore.",
+      "text": "Au cours de sa présentation, elle est partie dans plusieurs digressions, s’est faite légèrement réprimander par l’équipe de management et a fait d’adorables boulettes, comme lorsqu’elle n’a pas réussi à afficher un Tweet, a négligé de couper son micro, a fait appel à nouveau au tonnerre de Zeus par erreur, et plus encore.",
       "bbox": {
         "x": 0.56,
         "y": 0.3672,
         "width": 0.4094,
         "height": 0.1849
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Malgré tout cela, l’adorable orque masquée s’était correctement présentée. Deux des moments marquants du stream ont été celui où elle a retiré son masque, mettant à genoux les spectateurs par son charme, ainsi que le moment où elle a démontré une vaste tessiture en chantant deux chansons différentes, l'une avec une voix mignonne et l’autre avec une voix plus grave et douce.",
+      "bbox": {
+        "x": 0.0381,
+        "y": 0.6437,
+        "width": 0.4281,
+        "height": 0.2101
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a clôturé son stream en remerciant les spectateurs pour leurs encouragements et a montré son programme pour la semaine.",
+      "bbox": {
+        "x": 0.0388,
+        "y": 0.8819,
+        "width": 0.425,
+        "height": 0.0586
       }
     }
   ],

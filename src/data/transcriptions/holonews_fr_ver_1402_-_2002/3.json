@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1402_-_2002",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le concert d'Akirose du 18 février était une comédie musicale {poanegsos) basée sur « Alice in Musicland », une chanson d'OSTER Project. La comédie musicale mettait en scéne Aki dans le rôle d'Alice, Pekora dans celui du lapin, et Towa dans celui du chanteur heureux. Il y avait également Subaru dans le rôle du Chapelier fou, Roboco et Luna dans celui des sœurs jumelles, Kanata dans celui du « Chat du Cheshire », et Suisei dans celui de la maîtresse. Après avoir rencontré le Chat, Roboco et Luna ont rendu visite à Aki pour pe à Kuromaki Quiz : Aki devait trouver 'intrus dans une grande image, mais en ne voyant qu'une petite partie de l'image.",
+      "text": "Le concert d'Akirose du 18 février était une comédie musicale (préenregistrée) basée sur « Alice in Musicland », une chanson d'OSTER Project. La comédie musicale mettait en scène Aki dans le rôle d'Alice, Pekora dans celui du lapin, et Towa dans celui du chanteur heureux. Il y avait également Subaru dans le rôle du Chapelier fou, Roboco et Luna dans celui des sœurs jumelles, Kanata dans celui du « Chat du Cheshire », et Suisei dans celui de la maîtresse. Après avoir rencontré le Chat, Roboco et Luna ont rendu visite à Aki pour jouer à Kuromaki Quiz : Aki devait trouver l'intrus dans une grande image, mais en ne voyant qu'une petite partie de l'image.",
       "bbox": {
         "x": 0.0261,
         "y": 0.0748,
@@ -37,57 +37,17 @@
     },
     {
       "type": "paragraph",
-      "text": "- Un certificat, un badge, et une boite de rangement Rose Knight",
+      "text": "- Un certificat, un badge, et une boite de rangement Rose Knight\n- Une peluche Rose Knight\n- Un masque de nuit Rose Knight\n- Une peluche Jobz\n- Trois packs de voix ASMR situationnelles",
       "bbox": {
         "x": 0.0272,
         "y": 0.341,
-        "width": 0.3839,
-        "height": 0.0301
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- Une peluche Rose Knight",
-      "bbox": {
-        "x": 0.0272,
-        "y": 0.3696,
-        "width": 0.2894,
-        "height": 0.0154
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- Un masque de nuit Rose Knight",
-      "bbox": {
-        "x": 0.0272,
-        "y": 0.3835,
-        "width": 0.3211,
-        "height": 0.015
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- Une peluche Jobz",
-      "bbox": {
-        "x": 0.0272,
-        "y": 0.3981,
-        "width": 0.1867,
-        "height": 0.0154
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "- Trois packs de voix ASMR situationnelles",
-      "bbox": {
-        "x": 0.0272,
-        "y": 0.412,
         "width": 0.4111,
-        "height": 0.015
+        "height": 0.086
       }
     },
     {
       "type": "paragraph",
-      "text": "Les bonus pour l'achat de l'ensemble complet sont une carte postale dédicacée et un fichier audio ASMR.",
+      "text": "Les bonus pour l’achat de l’ensemble complet sont une carte postale dédicacée et un fichier audio ASMR.",
       "bbox": {
         "x": 0.0272,
         "y": 0.4367,
@@ -137,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "-Untraversin … ; - Un bol de riz diabolique ; : - Deux packs de voix ASMR d'anniversaire",
+      "text": "- Un traversin\n- Un bol de riz diabolique\n- Deux packs de voix ASMR d’anniversaire",
       "bbox": {
         "x": 0.5478,
         "y": 0.2334,
@@ -147,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "En achetant l'ensemble complet, vous obtiendrez un pack de voix et une carte postale dédicacée en bonus. Choco a également annoncé la sortie de sa deuxième chanson originale, « Secret Class », qu'elle a interprétée pour la première fois lors de son concert.",
+      "text": "En achetant l’ensemble complet, vous obtiendrez un pack de voix et une carte postale dédicacée en bonus. Choco a également annoncé la sortie de sa deuxième chanson originale, « Secret Class », qu’elle a interprétée pour la première fois lors de son concert.",
       "bbox": {
         "x": 0.5472,
         "y": 0.287,

@@ -3,16 +3,46 @@
   "issueId": "holonews_fr_ver_0404_-_1004",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.475,
+        "y": 0.016,
+        "width": 0.05,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Anya",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.183,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Anya s'est embarquée dans une nouvelle aventure, étant donné qu'elle en a fini avec Black Mesa. Après 6 streams, elle a rencontré le G-Man. Qui sait, elle pourra peut-être jouer à Half-Life 2 ou bien Alyx par la suite !",
+      "text": "Anya s’est embarquée dans une nouvelle aventure, étant donné qu’elle en a fini avec Black Mesa. Après 6 streams, elle a rencontré le G-Man. Qui sait, elle pourra peut-être jouer à Half-Life 2 ou bien Alyx par la suite !",
       "bbox": {
         "x": 0.0712,
         "y": 0.2352,
         "width": 0.4069,
         "height": 0.0712
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Risu",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.46,
+        "width": 0.18,
+        "height": 0.026
       }
     },
     {
@@ -26,8 +56,28 @@
       }
     },
     {
+      "type": "other",
+      "text": "ART BY @DOKURODX",
+      "bbox": {
+        "x": 0.8109,
+        "y": 0.1063,
+        "width": 0.071,
+        "height": 0.0048
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.183,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Ollie a joué à Apex, encore une fois. Cette fois-ci, elle a joué s’essayant de rester concentrée sur le jeu. Durant le stream, elle s'est concentrée sur sa visée, en évitant de rater des tires pendant qu’elle visait notamment, et s'est aussi concentrée sur ces ennemies autour d'elle, afin d'éviter d’être surprise par l’un d’entre eux.",
+      "text": "Ollie a joué à Apex, encore une fois. Cette fois-ci, elle a joué s’essayant de rester concentrée sur le jeu. Durant le stream, elle s’est concentrée sur sa visée, en évitant de rater des tires pendant qu’elle visait notamment, et s’est aussi concentrée sur ces ennemies autour d’elle, afin d’éviter d’être surprise par l’un d’entre eux.",
       "bbox": {
         "x": 0.535,
         "y": 0.2248,
@@ -37,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle était fière d'elle, et c'est félicitée quand elle réussissait à retourner des combats à son avantage, et a exprimé son mépris pour le fusil à charge et le fusil triple. Après ça, elle a lu des donations faites via Streamlabs, pendant qu'elle regardait ces coéquipiers restant se battre pour la première place.",
+      "text": "Elle était fière d’elle, et c’est félicitée quand elle réussissait à retourner des combats à son avantage, et a exprimé son mépris pour le fusil à charge et le fusil triple. Après ça, elle a lu des donations faites via Streamlabs, pendant qu’elle regardait ces coéquipiers restant se battre pour la première place.",
       "bbox": {
         "x": 0.535,
         "y": 0.3498,
@@ -47,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le jour du second anniversaire de hololive Indonésie (le 6 avril), le ban d’un mois de la gen 3 d’'holoIlD a été suspendu pour les laisser rejoindre le serveur minecraft pour cette occasion. Les nouvelles arrivantes ont été guidées individuellement pour faire visiter le serveur. (Et Kobo a construit à n’en plus finir).",
+      "text": "Le jour du second anniversaire de hololive Indonésie (le 6 avril), le ban d’un mois de la gen 3 d’holoID a été suspendu pour les laisser rejoindre le serveur minecraft pour cette occasion. Les nouvelles arrivantes ont été guidées individuellement pour faire visiter le serveur. (Et Kobo a construit à n’en plus finir).",
       "bbox": {
         "x": 0.5463,
         "y": 0.6593,
@@ -67,7 +117,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elles ont fini leur collaboration avec une photo de groupe (après que Kobo ait réussi à faire promettre à ses aînées qu'elle aurait un cheval à la fin de l'empêchement des collaborations)",
+      "text": "Elles ont fini leur collaboration avec une photo de groupe (après que Kobo ait réussi à faire promettre à ses aînées qu’elle aurait un cheval à la fin de l'empêchement des collaborations)",
       "bbox": {
         "x": 0.5463,
         "y": 0.9028,

@@ -3,20 +3,20 @@
   "issueId": "holonews_fr_ver_2102_-_2702",
   "page": 20,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "ÉVÉNEMENTS PALIERS À VENIR D’ABONNÉS",
+      "text": "ÉVÉNEMENTS À VENIR",
       "bbox": {
         "x": 0.0538,
-        "y": 0.0326,
-        "width": 0.8531,
-        "height": 0.0729
+        "y": 0.0347,
+        "width": 0.4135,
+        "height": 0.0721
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "(Du 1er au 7 Mars)",
       "bbox": {
         "x": 0.1931,
@@ -26,67 +26,67 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "• 2 mars : Anniversaire de Nene et concert",
+      "type": "other",
+      "text": "• 2 mars : Anniversaire de Nene et concert\n• 3 mars : Anniversaire de Miyabi\n• 4 mars : 4e début d'anniversaire de Roboco\n• 5 mars : Anniversaire de Miko\n• 5 mars : Holotalk avec Noel\n• 7 mars : Anniversaire d'IRyS",
       "bbox": {
         "x": 0.1019,
         "y": 0.1484,
-        "width": 0.325,
-        "height": 0.0278
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 3 mars : Anniversaire de Miyabi",
-      "bbox": {
-        "x": 0.1019,
-        "y": 0.1966,
-        "width": 0.3294,
-        "height": 0.0152
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 4 mars : 4e début d'anniversaire de Roboco",
-      "bbox": {
-        "x": 0.1019,
-        "y": 0.2283,
         "width": 0.335,
-        "height": 0.0282
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 5 mars : Anniversaire de Miko\n• 5 mars : Holotalk avec Noel",
-      "bbox": {
-        "x": 0.1019,
-        "y": 0.2769,
-        "width": 0.3125,
-        "height": 0.0438
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 7 mars : Anniversaire d'IRyS",
-      "bbox": {
-        "x": 0.1019,
-        "y": 0.3411,
-        "width": 0.2994,
-        "height": 0.0152
+        "height": 0.2079
       }
     },
     {
       "type": "heading",
-      "text": "© Merci! Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n'hésitez pas à rejoindre notre subreddit ou",
+      "text": "PALIERS D’ABONNÉS",
       "bbox": {
-        "x": 0.0669,
-        "y": 0.5985,
-        "width": 0.8588,
-        "height": 0.1185
+        "x": 0.5692,
+        "y": 0.0387,
+        "width": 0.3423,
+        "height": 0.0694
+      }
+    },
+    {
+      "type": "other",
+      "text": "MOONA\n1 M",
+      "bbox": {
+        "x": 0.625,
+        "y": 0.1429,
+        "width": 0.1058,
+        "height": 0.0427
+      }
+    },
+    {
+      "type": "other",
+      "text": "LUI\n450K",
+      "bbox": {
+        "x": 0.7615,
+        "y": 0.1936,
+        "width": 0.0865,
+        "height": 0.0441
       }
     },
     {
       "type": "heading",
+      "text": "Merci !",
+      "bbox": {
+        "x": 0.3885,
+        "y": 0.5995,
+        "width": 0.225,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0635,
+        "y": 0.6368,
+        "width": 0.8692,
+        "height": 0.1322
+      }
+    },
+    {
+      "type": "paragraph",
       "text": "Merci d’avoir lu et à la semaine prochaine !",
       "bbox": {
         "x": 0.31,

@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2305_-_2905",
   "page": 8,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -13,6 +13,16 @@
         "y": 0.0169,
         "width": 0.26,
         "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.1708,
+        "y": 0.1731,
+        "width": 0.1169,
+        "height": 0.0224
       }
     },
     {
@@ -37,32 +47,22 @@
     },
     {
       "type": "paragraph",
-      "text": "HOLOSTARS et UPROARI!! ont organisé un événement de rencontre et d'accueil des fans à harevutai où les fans pouvaient parler à leurs fers en tête à tête pendant 2 minutes. ‘événement a commencé à 10h00 JST et s'est terminé à 19h30 JST. Le compte Twitter officiel de HOLOSTARS a parta SOIT) photos de la scène et des produits dérivés de l'événement. Certains membres ont également partagé un selfie, et un tweet vocal pour ceux qui n'ont pas 2 se rendre à l'événement. Si vous voulez lire es rapports et les selfies des fans, vous pouvez",
+      "text": "HOLOSTARS et UPROAR!! ont organisé un événement de rencontre et d'accueil des fans à harevutai où les fans pouvaient parler à leurs préférés en tête à tête pendant 2 minutes. L’événement a commencé à 10h00 JST et s’est terminé à 19h30 JST. Le compte Twitter officiel de HOLOSTARS a partagé quelques photos de la scène et des produits dérivés de l'événement. Certains membres ont également partagé un selfie, et un tweet vocal pour ceux qui n'ont pas pu se rendre à l'événement. Si vous voulez lire les rapports et les selfies des fans, vous pouvez consulter le tag #イチ推しトーク",
       "bbox": {
         "x": 0.0569,
         "y": 0.5056,
         "width": 0.3994,
-        "height": 0.151
+        "height": 0.1537
       }
     },
     {
-      "type": "paragraph",
-      "text": "consulter le tag #1 F",
+      "type": "heading",
+      "text": "Astel",
       "bbox": {
-        "x": 0.0575,
-        "y": 0.6458,
-        "width": 0.1794,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "UPROAR! a fait sa première off-collab en studio. Le stream a commencé avec leur bande-annonce d'introduction, mais maintenant avec leurs applaudissements bruyants pour les membres. Ils ont mentionné que l'équipe ne leur avait rien dit au sujet de l'off-collab mais qu'ils devaient préparer leur intro et se préparer pour un stream d'une heure et qu'ils n'avaient reçu qu'une page de script. L'équipe a montré une série de questions auxquelles UPROAR!! devait répondre sur place.",
-      "bbox": {
-        "x": 0.0638,
-        "y": 0.8364,
-        "width": 0.4175,
-        "height": 0.1341
+        "x": 0.6338,
+        "y": 0.1731,
+        "width": 0.08,
+        "height": 0.0235
       }
     },
     {
@@ -73,6 +73,16 @@
         "y": 0.2192,
         "width": 0.3825,
         "height": 0.1315
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.4049,
+        "width": 0.08,
+        "height": 0.0235
       }
     },
     {
@@ -87,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Il s'agissait d'allusions aux célébrations de son prochain anniversaire, le 6 juin. Astel à laissé de nombreux indices lors de la diffusion et dans son pseudo Twitter.",
+      "text": "Il s'agissait d'allusions aux célébrations de son prochain anniversaire, le 6 juin. Astel a laissé de nombreux indices lors de la diffusion et dans son pseudo Twitter.",
       "bbox": {
         "x": 0.5381,
         "y": 0.5946,
@@ -96,8 +106,28 @@
       }
     },
     {
+      "type": "heading",
+      "text": "UPROAR!!",
+      "bbox": {
+        "x": 0.1662,
+        "y": 0.7981,
+        "width": 0.1646,
+        "height": 0.0224
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Une question portait sur la signification de leur unité « UPROAR! » et Uyu a répondu qu'ils venaient pour faire du grabuge et faire du bruit à tout le monde. Une autre question qui leur a été posée était de donner une de leur spécialité dans le streaming à laquelle Fuma a répondu le jeu, Uyu était fier de ses streams d'endurance, Gamma à ses dessins, et Rio qui ne répondra pas.",
+      "text": "UPROAR!! a fait sa première off-collab en studio. Le stream a commencé avec leur bande-annonce d'introduction, mais maintenant avec leurs applaudissements bruyants pour les membres. Ils ont mentionné que l'équipe ne leur avait rien dit au sujet de l'off-collab mais qu'ils devaient préparer leur intro et se préparer pour un stream d'une heure et qu'ils n'avaient reçu qu'une page de script. L'équipe a montré une série de questions auxquelles UPROAR!! devait répondre sur place.",
+      "bbox": {
+        "x": 0.0638,
+        "y": 0.8364,
+        "width": 0.4175,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une question portait sur la signification de leur unité « UPROAR!! » et Uyu a répondu qu'ils venaient pour faire du grabuge et faire du bruit à tout le monde. Une autre question qui leur a été posée était de donner une de leur spécialité dans le streaming à laquelle Fuma a répondu le jeu, Uyu était fier de ses streams d'endurance, Gamma à ses dessins, et Rio qui ne répondra pas.",
       "bbox": {
         "x": 0.4944,
         "y": 0.6875,
@@ -107,12 +137,22 @@
     },
     {
       "type": "paragraph",
-      "text": "À la fin du stream, ils ont annoncé que leurs premiers produits seront revendus le 24 mai et qu'UPROARI! aura un show officiel pour eux. La date du spectacle est encore indéterminée mais le spectacle est confirmé. Pour plus de mise à jour de leur marchandise et de nouvelles, suivez le Twitter officiel d'HOLOSTARS. ARI) Pa ue",
+      "text": "À la fin du stream, ils ont annoncé que leurs premiers produits seront revendus le 24 mai et qu'UPROAR!! aura un show officiel pour eux. La date du spectacle est encore indéterminée mais le spectacle est confirmé. Pour plus de mise à jour de leur marchandise et de nouvelles, suivez le Twitter officiel d'HOLOSTARS.",
       "bbox": {
         "x": 0.4938,
         "y": 0.799,
         "width": 0.4631,
         "height": 0.1007
+      }
+    },
+    {
+      "type": "other",
+      "text": "Happy Birth Day Uyu\nCongrats! First\noffline collab!",
+      "bbox": {
+        "x": 0.8462,
+        "y": 0.9338,
+        "width": 0.1077,
+        "height": 0.0427
       }
     }
   ],

@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_0301_-_0901",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.1846,
+        "y": 0.1068,
+        "width": 0.1662,
+        "height": 0.031
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.1615,
+        "y": 0.2821,
+        "width": 0.1185,
+        "height": 0.0288
+      }
+    },
     {
       "type": "paragraph",
       "text": "Aqua s'est rendu compte que les gens la prenaient pour cible lorsqu'elle jouait Roy sur Mario Kart, alors elle a décidé de jouer Waluigi à la place. Elle a tout de même perdu beaucoup de courses, mais elle a remarqué qu'elle se débrouillait de mieux en mieux et a même réussi à se classer 2e et 3e à plusieurs reprises.",
@@ -16,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.5748,
+        "width": 0.1385,
+        "height": 0.0256
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après un mois de génocide d'Endermen, Choco a enfin atteint le niveau 510 sur Minecraft. Malheureusement, la fête n'a pas duré longtemps car elle a raté son saut dans l'entrée magmatique de Roboco et n'a pas réussi à atteindre l'autre côté. Elle est morte",
+      "text": "Après un mois de génocide d'Endermen, Choco a enfin atteint le niveau 510 sur Minecraft. Malheureusement, la fête n'a pas duré longtemps car elle a raté son saut dans l'entrée magmatique de Roboco et n'a pas réussi à atteindre l’autre côté. Elle est morte en criant « ROBOCOOOOOOOOOO!!!!!!!!!! »",
       "bbox": {
         "x": 0.0494,
         "y": 0.6159,
@@ -26,13 +56,43 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.1615,
+        "y": 0.8376,
+        "width": 0.1677,
+        "height": 0.0246
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Subaru a été prise d'une telle excitation en attrapant le Pokémon légendaire Dialga qu'elle s'est mise à saigner du nez. Il lui a fallu plusieurs Hyper Balls, mais elle a finalement réussi à le capturer.",
+      "text": "Subaru a été prise d’une telle excitation en attrapant le Pokémon légendaire Dialga qu'elle s'est mise à saigner du nez. Il lui a fallu plusieurs Hyper Balls, mais elle a finalement réussi à le capturer.",
       "bbox": {
         "x": 0.0544,
         "y": 0.8785,
         "width": 0.4188,
         "height": 0.0794
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLO FANTASY",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.1068,
+        "width": 0.4431,
+        "height": 0.031
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.281,
+        "width": 0.1692,
+        "height": 0.0246
       }
     },
     {
@@ -46,18 +106,28 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Google Thank you monetization, goodbye monetization",
+      "type": "heading",
+      "text": "HOLOX",
       "bbox": {
-        "x": 0.5138,
-        "y": 0.6393,
-        "width": 0.3787,
-        "height": 0.0256
+        "x": 0.6354,
+        "y": 0.5267,
+        "width": 0.2092,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.7041,
+        "width": 0.0862,
+        "height": 0.0235
       }
     },
     {
       "type": "paragraph",
-      "text": "Près de deux semaines après l'ouverture des abonnements payants , La+ a découvert gue sa chaine avait été démonétisée. Elle a tweeté « Merci et au revoir la monétisation » en réponse. Heureusement, sa monétisation et ses abonnements payants ont été restauré peu de temps apres.",
+      "text": "Près de deux semaines après l'ouverture des abonnements payants , La+ a découvert que sa chaîne avait été démonétisée. Elle a tweeté « Merci et au revoir la monétisation » en réponse. Heureusement, sa monétisation et ses abonnements payants ont été restauré peu de temps après.",
       "bbox": {
         "x": 0.5225,
         "y": 0.7444,

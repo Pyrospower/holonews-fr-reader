@@ -3,10 +3,20 @@
   "issueId": "holonews_fr_ver_0404_-_1004",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
+      "text": "EN 1",
+      "bbox": {
+        "x": 0.457,
+        "y": 0.014,
+        "width": 0.09,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
       "text": "Kiara",
       "bbox": {
         "x": 0.1681,
@@ -36,13 +46,13 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Sana est revenue sur Kirby et le Monde Oublié pour libérer d'autres amis, récupérer son compagnon et améliorer son arsenal. Elle s'est beaucoup amusée à parcourir les niveaux, à changer de pouvoir car le pouvoir de feu était « trop puissant », et a vaincu à nouveau le roi Dedede. Sana a passé un moment difficile lorsqu'elle a rencontré un ennemi visqueux qui l'a dégoûtée et qu'elle a dû aller chercher de l'eau. Après s'être occupée du slime, elle a affronté le dernier boss, l'a vaincu et a terminé le stream pendant que Kirby s'assoupissait.",
+      "type": "heading",
+      "text": "Calli",
       "bbox": {
-        "x": 0.0694,
-        "y": 0.7405,
-        "width": 0.3919,
-        "height": 0.2057
+        "x": 0.634,
+        "y": 0.178,
+        "width": 0.18,
+        "height": 0.026
       }
     },
     {
@@ -63,6 +73,46 @@
         "y": 0.2856,
         "width": 0.3906,
         "height": 0.2218
+      }
+    },
+    {
+      "type": "heading",
+      "text": "EN 2",
+      "bbox": {
+        "x": 0.458,
+        "y": 0.537,
+        "width": 0.09,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.701,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sana est revenue sur Kirby et le Monde Oublié pour libérer d'autres amis, récupérer son compagnon et améliorer son arsenal. Elle s'est beaucoup amusée à parcourir les niveaux, à changer de pouvoir car le pouvoir de feu était « trop puissant », et a vaincu à nouveau le roi Dedede. Sana a passé un moment difficile lorsqu'elle a rencontré un ennemi visqueux qui l'a dégoûtée et qu'elle a dû aller chercher de l'eau. Après s'être occupée du slime, elle a affronté le dernier boss, l'a vaincu et a terminé le stream pendant que Kirby s'assoupissait.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.7405,
+        "width": 0.3919,
+        "height": 0.2057
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fauna & Reine",
+      "bbox": {
+        "x": 0.664,
+        "y": 0.699,
+        "width": 0.23,
+        "height": 0.026
       }
     },
     {

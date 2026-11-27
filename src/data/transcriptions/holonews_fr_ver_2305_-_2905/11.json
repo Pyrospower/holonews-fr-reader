@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2305_-_2905",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.4713,
+        "y": 0.0169,
+        "width": 0.0587,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.1663,
+        "y": 0.1784,
+        "width": 0.0881,
+        "height": 0.0195
+      }
+    },
     {
       "type": "paragraph",
       "text": "Dans le dernier épisode de sa série « am zoo », Kiara s'est transformée en dauphin... en 3D.",
@@ -16,13 +36,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.3928,
+        "width": 0.0537,
+        "height": 0.0187
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Ina a parlé des vacances de Kiara avec Reine et a dit qu'elle aimerait partir aussi au lieu de passer son temps a dessiner. Elle a noté qu'elle regrettait de ne pas l'avoir fait et qu'elle aurait aimé se couper d'internet et se reposer dans un endroit isolé. La prêtresse a exprimé en plaisantant son désir de gifler l'Ina du passé pour avoir été trop occupée pour prendre des congés. Les Takodachi se sont immédiatement précipités pour défendre l'Ina du passé, affirmant qu'elle était leur préférée et qu'ils voulaient plutôt une gifle. Ina, cependant, a rejeté leur idée, disant qu'elle giflerait plutôt YuuYuu (son tako en peluche).",
+      "text": "Ina a parlé des vacances de Kiara avec Reine et a dit qu'elle aimerait partir aussi au lieu de passer son temps à dessiner. Elle a noté qu'elle regrettait de ne pas l'avoir fait et qu'elle aurait aimé se couper d'internet et se reposer dans un endroit isolé. La prêtresse a exprimé en plaisantant son désir de gifler l'Ina du passé pour avoir été trop occupée pour prendre des congés. Les Takodachi se sont immédiatement précipités pour défendre l'Ina du passé, affirmant qu'elle était leur préférée et qu'ils voulaient plutôt une gifle. Ina, cependant, a rejeté leur idée, disant qu'elle giflerait plutôt YuuYuu (son tako en peluche).",
       "bbox": {
         "x": 0.0719,
         "y": 0.4323,
         "width": 0.39,
         "height": 0.1879
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Baelz",
+      "bbox": {
+        "x": 0.1694,
+        "y": 0.7569,
+        "width": 0.0856,
+        "height": 0.02
       }
     },
     {
@@ -36,6 +76,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.181,
+        "width": 0.0737,
+        "height": 0.0187
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Le 18 mai, Calli a sorti un clip pour « MERA MERA », la deuxième chanson de son nouveau mini-album, SHINIGAMI NOTE. La musique a été composée par Giga, les paroles ont été écrite par Calli et JUTH, et le clip, réalisé par maxila, avec le modèle 3D de Calli. Avant la première, Calli a animé un compte à rebours au cours duquel elle a présenté aux spectateurs des séquences de la vidéo et parlé de la création de la chanson et de sa collaboration avec Giga. Sur une note plus sérieuse, Calli ne se sent pas bien ces derniers temps, elle ne streamera pas de jeu pendant un moment. Écoutons « MERA MERA » et attendons son retour !",
       "bbox": {
@@ -43,6 +93,16 @@
         "y": 0.2188,
         "width": 0.3888,
         "height": 0.1984
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Baelz",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.5582,
+        "width": 0.0862,
+        "height": 0.02
       }
     },
     {

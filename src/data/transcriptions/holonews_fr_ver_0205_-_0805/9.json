@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_0205_-_0805",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Gen 6",
+      "bbox": {
+        "x": 0.4418,
+        "y": 0.0152,
+        "width": 0.1182,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chloe",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.1692,
+        "width": 0.1,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Chloe était l’invitée du stream cuisine de Roboco. Elles avaient prévu de faire du Chichimi ou Buchimgae, un plat coréen savoureux ressemblant a des crépes. Apres avoir fini leur repas, Roboco et Chloe ont fait une soirée pyjama. Le lendemain matin, Mio a appelé Roboco pour son émission matinale spéciale Golden Week. Chloe a répondu a sa place, et a parlé des difficultés qu’elles ont rencontré la veille. Chloe a aussi dit à Mio qu'elle avait eu peur quand elle a appelé et u'elle se sentait mal d'avoir oublié son émission matinale. Ensuite, Chloe et Roboco ont partagé un court clip audio sur le compte de Chloe pour souhaiter le bonjour à tout le monde. Elles se sont ensuite rendormies.",
+      "text": "Chloe était l’invitée du stream cuisine de Roboco. Elles avaient prévu de faire du Chichimi ou Buchimgae, un plat coréen savoureux ressemblant à des crêpes. Après avoir fini leur repas, Roboco et Chloe ont fait une soirée pyjama. Le lendemain matin, Mio a appelé Roboco pour son émission matinale spéciale Golden Week. Chloe a répondu à sa place, et a parlé des difficultés qu’elles ont rencontré la veille. Chloe a aussi dit à Mio qu'elle avait eu peur quand elle a appelé et qu'elle se sentait mal d'avoir oublié son émission matinale. Ensuite, Chloe et Roboco ont partagé un court clip audio sur le compte de Chloe pour souhaiter le bonjour à tout le monde. Elles se sont ensuite rendormies.",
       "bbox": {
         "x": 0.07,
         "y": 0.2083,
@@ -16,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Iroha",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.5492,
+        "width": 0.0982,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Iroha a essayé de jouer à Taiko no Tatsujin avec des poids de 2 kg sur ses poignets. Étonnamment, elle a trouvé qu'il était plus simple de jouer de cette façon. Iroha est un samouraï coriace !",
+      "text": "Iroha a essayé de jouer à Taiko no Tatsujin avec des poids de 2 kg sur ses poignets. Étonnamment, elle a trouvé qu’il était plus simple de jouer de cette façon. Iroha est un samouraï coriace !",
       "bbox": {
         "x": 0.0688,
         "y": 0.5868,
@@ -26,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "La+",
+      "bbox": {
+        "x": 0.6309,
+        "y": 0.1692,
+        "width": 0.0655,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "La+ Darknesss a chanté pendant 3 heures et 45 minutes lors d’un stream karaoké endurance pour atteindre les 770k abonnés, en partant de 765k. Elle à atteint ce seuil en chantant « S'il Vous President ». Son public a essayé de la troller en se désabonnant délibérément après qu'elle ait atteint le cap, mais elle a brusquement mis fin au stream avant qu'ils ne puissent la faire redescendre sous les 770 000 abonnés.",
+      "text": "La+ Darknesss a chanté pendant 3 heures et 45 minutes lors d’un stream karaoké endurance pour atteindre les 770k abonnés, en partant de 765k. Elle a atteint ce seuil en chantant « S'il Vous President ». Son public a essayé de la troller en se désabonnant délibérément après qu'elle ait atteint le cap, mais elle a brusquement mis fin au stream avant qu'ils ne puissent la faire redescendre sous les 770 000 abonnés.",
       "bbox": {
         "x": 0.5356,
         "y": 0.2088,
@@ -56,8 +96,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "holoX",
+      "bbox": {
+        "x": 0.6309,
+        "y": 0.7033,
+        "width": 0.1,
+        "height": 0.0303
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Les membres d'holoX ont regardé ensemble les interviews de leurs débuts ainsi qu'un message s'adressant à leur personne d'il y a six mois. À la fin du stream, elles ont répondu à la question d’A-chan sur ce qu'elles seraient un an après leurs débuts.",
+      "text": "Les membres d'holoX ont regardé ensemble les interviews de leurs débuts ainsi qu'un message s’adressant à leur personne d'il y a six mois. À la fin du stream, elles ont répondu à la question d’A-chan sur ce qu'elles seraient un an après leurs débuts.",
       "bbox": {
         "x": 0.53,
         "y": 0.75,

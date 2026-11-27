@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2911_-_0512",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Dans le 3e épisode de la série de Kuku et Izumi intitulé « V's Night Gathering », Astel Leda était invité. lls ont parlé de ses passe-temps et de ses points forts comme le fait d'être le meilleur pour dépenser de l'argent, Disney, de mode et d'APEX.",
+      "text": "Dans le 3e épisode de la série de Kuku et Izumi intitulé « V's Night Gathering », Astel Leda était invité. Ils ont parlé de ses passe-temps et de ses points forts comme le fait d'être le meilleur pour dépenser de l'argent, Disney, de mode et d'APEX.",
       "bbox": {
         "x": 0.05,
         "y": 0.181,
@@ -36,48 +36,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Astel a finalement annoncé ses débuts en 3D pour le 7 décembre, date de son second anniversaire !",
+      "type": "heading",
+      "text": "Aruran & Roberu",
       "bbox": {
-        "x": 0.0494,
-        "y": 0.6571,
-        "width": 0.4138,
-        "height": 0.0443
+        "x": 0.6547,
+        "y": 0.1435,
+        "width": 0.2973,
+        "height": 0.0222
       }
     },
     {
       "type": "paragraph",
-      "text": "Il l’a annoncé depuis des mois, et après ça, tous les membres d’holostars auront leur modèle 3D. N'oubliez pas de regarder ses débuts !",
-      "bbox": {
-        "x": 0.05,
-        "y": 0.7214,
-        "width": 0.425,
-        "height": 0.0603
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Rikka avait demandé à ses fans de lui envoyer des photos de leurs étagères à produits dérivés, et il les a finalement regardées lors du stream du 4 décembre.",
-      "bbox": {
-        "x": 0.0506,
-        "y": 0.829,
-        "width": 0.4069,
-        "height": 0.0638
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Beaucoup d’étagères étaient remplies de produits dérivés de Rikka et d'autres membres d'holoStars, et certaines installations étaient intéressantes.",
-      "bbox": {
-        "x": 0.0513,
-        "y": 0.9093,
-        "width": 0.4038,
-        "height": 0.0603
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Aruran et Roberu ont fait un combat dans Pokémon DEPS. Pour le premier match, ils ont utilisé l’équipe avec laquelle ils ont battu la Ligue. Roberu a gagné grâce aux deux activations de la Vive Griffe de Pinkman, son Tritosor, qui ont permis d’éliminer le Drascore et l'Etouraptor d’Aruran.",
+      "text": "Aruran et Roberu ont fait un combat dans Pokémon DEPS. Pour le premier match, ils ont utilisé l’équipe avec laquelle ils ont battu la Ligue. Roberu a gagné grâce aux deux activations de la Vive Griffe de Pinkman, son Tritosor, qui ont permis d’éliminer le Drascore et l’Etouraptor d’Aruran.",
       "bbox": {
         "x": 0.5213,
         "y": 0.1814,
@@ -97,12 +67,52 @@
     },
     {
       "type": "paragraph",
-      "text": "Dans le dernier match, Aruran semblait avoir un avantage, puisqu'il avait une équipe complète avec un Carmache, contre l'équipe de quatre Pokémon de Roberu. Cependant, le Pachirisu de Roberu a éliminé les 4 derniers Pokémon d’Aruran, lui assurant la victoire. Cette victoire est un exploit à la hauteur de sa réputation de gagnant.",
+      "text": "Dans le dernier match, Aruran semblait avoir un avantage, puisqu’il avait une équipe complète avec un Carmache, contre l’équipe de quatre Pokémon de Roberu. Cependant, le Pachirisu de Roberu a éliminé les 4 derniers Pokémon d’Aruran, lui assurant la victoire. Cette victoire est un exploit à la hauteur de sa réputation de gagnant.",
       "bbox": {
         "x": 0.5219,
         "y": 0.3624,
         "width": 0.4169,
         "height": 0.1102
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.1613,
+        "y": 0.6157,
+        "width": 0.116,
+        "height": 0.0241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a finalement annoncé ses débuts en 3D pour le 7 décembre, date de son second anniversaire !",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.6571,
+        "width": 0.4138,
+        "height": 0.0443
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il l’a annoncé depuis des mois, et après ça, tous les membres d’holostars auront leur modèle 3D. N’oubliez pas de regarder ses débuts !",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7214,
+        "width": 0.425,
+        "height": 0.0603
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HanaKishi",
+      "bbox": {
+        "x": 0.6587,
+        "y": 0.6157,
+        "width": 0.244,
+        "height": 0.0241
       }
     },
     {
@@ -117,12 +127,32 @@
     },
     {
       "type": "paragraph",
-      "text": "Etonnamment, Temma pense que Miyabi est « facile » en se basant sur la description du stream. Ils ont fait du personnage de Miyabi un “senpai démoniaque\" du club de jardinage de l'école.",
+      "text": "Étonnamment, Temma pense que Miyabi est « facile » en se basant sur la description du stream. Ils ont fait du personnage de Miyabi un \"senpai démoniaque\" du club de jardinage de l'école.",
       "bbox": {
         "x": 0.5225,
         "y": 0.7292,
         "width": 0.4138,
         "height": 0.0677
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka avait demandé à ses fans de lui envoyer des photos de leurs étagères à produits dérivés, et il les a finalement regardées lors du stream du 4 décembre.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.829,
+        "width": 0.4069,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Beaucoup d’étagères étaient remplies de produits dérivés de Rikka et d'autres membres d’holoStars, et certaines installations étaient intéressantes.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.9093,
+        "width": 0.4038,
+        "height": 0.0603
       }
     }
   ],

@@ -3,66 +3,26 @@
   "issueId": "holonews_fr_ver_2211_-_2811",
   "page": 19,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "ÉVÉNEMENTS PALIERS A VENIR D'ABONNÉS",
+      "text": "ÉVÉNEMENTS À VENIR",
       "bbox": {
-        "x": 0.06,
-        "y": 0.0305,
-        "width": 0.8411,
-        "height": 0.0725
+        "x": 0.0582,
+        "y": 0.029,
+        "width": 0.4075,
+        "height": 0.0756
       }
     },
     {
       "type": "paragraph",
-      "text": "• 1er décembre : Anniversaire d’Aqua",
+      "text": "• 1er décembre : Anniversaire d’Aqua\n• 4 décembre : Anniversaire du début d’Ollie\n• 5 décembre : Anniversaire du début d’Anya\n• 6 décembre : Anniversaire du début de Reine\n• 7 décembre : Anniversaire du début de Mio et d’Astel",
       "bbox": {
         "x": 0.0672,
         "y": 0.1354,
         "width": 0.4017,
-        "height": 0.0166
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 4 décembre : Anniversaire du début d'Ollie",
-      "bbox": {
-        "x": 0.0672,
-        "y": 0.1701,
-        "width": 0.3989,
-        "height": 0.0301
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 5 décembre : Anniversaire du début d’Anya",
-      "bbox": {
-        "x": 0.0672,
-        "y": 0.2218,
-        "width": 0.3989,
-        "height": 0.0343
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 6 décembre : Anniversaire du début de Reine",
-      "bbox": {
-        "x": 0.0672,
-        "y": 0.2743,
-        "width": 0.3989,
-        "height": 0.0301
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "• 7 décembre : Anniversaire du début de Mio et d’Astel",
-      "bbox": {
-        "x": 0.0672,
-        "y": 0.326,
-        "width": 0.3989,
-        "height": 0.0309
+        "height": 0.2215
       }
     },
     {
@@ -77,7 +37,27 @@
     },
     {
       "type": "heading",
-      "text": "Merci!",
+      "text": "PALIERS D'ABONNÉS",
+      "bbox": {
+        "x": 0.5851,
+        "y": 0.028,
+        "width": 0.3194,
+        "height": 0.0674
+      }
+    },
+    {
+      "type": "other",
+      "text": "OMEGA 100K\nOLLIE 900K\nMUMEI 450K\nYAGOO 200K\nOKAYU 1,25 M",
+      "bbox": {
+        "x": 0.7358,
+        "y": 0.1295,
+        "width": 0.1209,
+        "height": 0.3845
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci !",
       "bbox": {
         "x": 0.3722,
         "y": 0.5802,
@@ -87,42 +67,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester a jour sur tout ce qui se rapporte a hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création de HoloNews !",
       "bbox": {
         "x": 0.0756,
         "y": 0.6323,
         "width": 0.8472,
-        "height": 0.0976
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "un coup de main à la création de HoloNews !",
-      "bbox": {
-        "x": 0.1367,
-        "y": 0.7311,
-        "width": 0.725,
-        "height": 0.0235
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Holonews 221 Online © 503 Members … © CG Following",
-      "bbox": {
-        "x": 0.5244,
-        "y": 0.7836,
-        "width": 0.3933,
-        "height": 0.0976
-      }
-    },
-    {
-      "type": "other",
-      "text": "HoloNews | 10/11-10/17 issue out now",
-      "bbox": {
-        "x": 0.3122,
-        "y": 0.8931,
-        "width": 0.2483,
-        "height": 0.0089
+        "height": 0.1223
       }
     },
     {

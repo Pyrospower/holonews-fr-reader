@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_2803_-_0304",
   "page": 15,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "EN 1",
+      "bbox": {
+        "x": 0.4575,
+        "y": 0.0143,
+        "width": 0.0887,
+        "height": 0.0217
+      }
+    },
     {
       "type": "heading",
       "text": "Ame",
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après une pause de deux semaines, Ame est de retour, ayant réussi à déménager et à s'installer dans son nouveau bureau. Elle a pu amener ses animaux domestiques, et ces derniers semblent satisfaits de l'endroit. Elle a également acheté un nouveau poisson pour son aquarium actuel et a dit vouloir installer un aquarium d'eau salée prochainement.",
+      "text": "Après une pause de deux semaines, Ame est de retour, ayant réussi à déménager et à s'installer dans son nouveau bureau. Elle a pu amener ses animaux domestiques, et ces derniers semblent satisfaits de l’endroit. Elle a également acheté un nouveau poisson pour son aquarium actuel et a dit vouloir installer un aquarium d'eau salée prochainement.",
       "bbox": {
         "x": 0.0694,
         "y": 0.2196,
@@ -36,8 +46,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.1669,
+        "y": 0.6185,
+        "width": 0.0525,
+        "height": 0.0182
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Pendant un stream de dessin, Ina s'est entraînée à dessiner différentes poses qu'un humain pouvait prendre, et a terminé ses dessins du Council et d'IRyS en Takodachis. Ces dessins peuvent tous êtres utilisés en tant qu’émojis de membres.",
+      "text": "Pendant un stream de dessin, Ina s’est entraînée à dessiner différentes poses qu’un humain pouvait prendre, et a terminé ses dessins du Council et d’IRyS en Takodachis. Ces dessins peuvent tous êtres utilisés en tant qu’émojis de membres.",
       "bbox": {
         "x": 0.0694,
         "y": 0.6528,
@@ -46,13 +66,13 @@
       }
     },
     {
-      "type": "other",
-      "text": "A Blue Archive Original Soundtrack ~Longing for the memorable",
+      "type": "heading",
+      "text": "Calli",
       "bbox": {
-        "x": 0.1388,
-        "y": 0.7448,
-        "width": 0.2556,
-        "height": 0.0056
+        "x": 0.1688,
+        "y": 0.8598,
+        "width": 0.0756,
+        "height": 0.0191
       }
     },
     {
@@ -66,8 +86,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ame",
+      "bbox": {
+        "x": 0.6306,
+        "y": 0.1849,
+        "width": 0.0712,
+        "height": 0.0191
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Ame a joué le rôle d'un détective dans son let's play sur Detective Grimoire. Elle a fait preuve de ruse, de perspicacité et de perception pour extraire des indices et des informations tout au long du jeu et a pu le terminer en un seul stream. Elle a ensuite remercié ses spectateurs pour leurs Super Chats pendant un court moment avant de devoir partir.",
+      "text": "Ame a joué le rôle d'un détective dans son let’s play sur Detective Grimoire. Elle a fait preuve de ruse, de perspicacité et de perception pour extraire des indices et des informations tout au long du jeu et a pu le terminer en un seul stream. Elle a ensuite remercié ses spectateurs pour leurs Super Chats pendant un court moment avant de devoir partir.",
       "bbox": {
         "x": 0.5325,
         "y": 0.2201,
@@ -76,13 +106,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.4214,
+        "width": 0.0537,
+        "height": 0.0195
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Ina a tweeté pour faire savoir aux Takodachis qu'il n'y aurait pas beaucoup de streams la semaine prochaine car elle doit aller voir plusieurs médecins et s'occuper de plusieurs projets. Elle a dit qu'elle reviendrait dès que possible, alors souhaitons bonne chance à notre prêtresse !",
+      "text": "Ina a tweeté pour faire savoir aux Takodachis qu’il n’y aurait pas beaucoup de streams la semaine prochaine car elle doit aller voir plusieurs médecins et s'occuper de plusieurs projets. Elle a dit qu'elle reviendrait dès que possible, alors souhaitons bonne chance à notre prêtresse !",
       "bbox": {
         "x": 0.5331,
         "y": 0.4549,
         "width": 0.3863,
         "height": 0.0968
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.6905,
+        "width": 0.0869,
+        "height": 0.0195
       }
     },
     {

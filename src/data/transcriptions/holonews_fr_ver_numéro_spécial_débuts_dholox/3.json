@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
   "page": 3,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "other",
@@ -16,7 +16,27 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
+      "text": "Birthday 5/25\nHeight 139 cm",
+      "bbox": {
+        "x": 0.7944,
+        "y": 0.0108,
+        "width": 0.1678,
+        "height": 0.0679
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+ Darknesss",
+      "bbox": {
+        "x": 0.5622,
+        "y": 0.24,
+        "width": 0.4244,
+        "height": 0.0255
+      }
+    },
+    {
+      "type": "other",
       "text": "Triste",
       "bbox": {
         "x": 0.8272,
@@ -26,73 +46,33 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "La+ incarne la",
+      "type": "other",
+      "text": "Heureuse",
       "bbox": {
-        "x": 0.8339,
-        "y": 0.5899,
-        "width": 0.1528,
-        "height": 0.0131
+        "x": 0.6111,
+        "y": 0.4792,
+        "width": 0.16,
+        "height": 0.0201
       }
     },
     {
       "type": "paragraph",
-      "text": "définition du violet. Sa",
-      "bbox": {
-        "x": 0.7489,
-        "y": 0.6073,
-        "width": 0.2378,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "\\\\ tenue est ornée de divers accessoires,",
+      "text": "La+ incarne la définition du violet. Sa tenue est ornée de divers accessoires, dont ses entraves au cou, aux poignets et aux chevilles.",
       "bbox": {
         "x": 0.7206,
-        "y": 0.625,
-        "width": 0.265,
-        "height": 0.0328
+        "y": 0.5899,
+        "width": 0.2661,
+        "height": 0.118
       }
     },
     {
       "type": "paragraph",
-      "text": "\\ I dont ses entraves au cou, aux poignets et",
-      "bbox": {
-        "x": 0.7328,
-        "y": 0.6586,
-        "width": 0.2539,
-        "height": 0.0428
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "aux chevilles.",
-      "bbox": {
-        "x": 0.8406,
-        "y": 0.6948,
-        "width": 0.1444,
-        "height": 0.0131
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Elle ne porte qu'une seule chaussette, soi-disant « pour le style ».",
+      "text": "Elle ne porte qu’une seule chaussette, soi-disant « pour le style ».",
       "bbox": {
         "x": 0.7367,
         "y": 0.7296,
         "width": 0.2494,
         "height": 0.0513
-      }
-    },
-    {
-      "type": "other",
-      "text": "#2016 COVER Corp.",
-      "bbox": {
-        "x": 0.9033,
-        "y": 0.9931,
-        "width": 0.0928,
-        "height": 0.0054
       }
     }
   ],

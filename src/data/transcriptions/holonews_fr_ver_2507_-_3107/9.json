@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_2507_-_3107",
   "page": 9,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Gen 5",
+      "bbox": {
+        "x": 0.209,
+        "y": 0.036,
+        "width": 0.115,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.169,
+        "y": 0.201,
+        "width": 0.085,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Yukimins, réjouissez-vous ! Après s'être absentée pendant un mois pour déménager, Lamy reprendra son rythme de stream habituel la semaine prochaine. Suite au stream de la semaine dernière, elle nous a donné un aperçu de l'amélioration de l'état de sa gorge.",
+      "text": "Yukimins, réjouissez-vous ! Après s’être absentée pendant un mois pour déménager, Lamy reprendra son rythme de stream habituel la semaine prochaine. Suite au stream de la semaine dernière, elle nous a donné un aperçu de l'amélioration de l'état de sa gorge.",
       "bbox": {
         "x": 0.0719,
         "y": 0.2391,
@@ -16,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.169,
+        "y": 0.481,
+        "width": 0.093,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Botan a joué à hololive ERROR en stream, avec son modèle 3D à domicile qu'on ne voit que très rarement. Lorsqu'elle y jouait, Shishiron s'est mise à chercher des armes instinctivement, bien qu'il n'y en ait pas dans le jeu. Connue pour son sang-froid et son rire face à l'horreur, Shishiron n'a cessé de s'excuser pour le manque de réactions typiques face aux jumpscares.",
+      "text": "Botan a joué à hololive ERROR en stream, avec son modèle 3D à domicile qu’on ne voit que très rarement. Lorsqu’elle y jouait, Shishiron s’est mise à chercher des armes instinctivement, bien qu’il n'y en ait pas dans le jeu. Connue pour son sang-froid et son rire face à l'horreur, Shishiron n'a cessé de s'excuser pour le manque de réactions typiques face aux jumpscares.",
       "bbox": {
         "x": 0.0706,
         "y": 0.5217,
@@ -46,6 +76,26 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gen6",
+      "bbox": {
+        "x": 0.678,
+        "y": 0.038,
+        "width": 0.105,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iroha",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.166,
+        "width": 0.085,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Lors de son stream sur Minecraft, Iroha a tenté de tuer le surpuissant Warden. Elle a creusé un trou avec une échelle pour attirer et piéger le Warden. Elle a ensuite tué au moins deux Warden par diverses méthodes : en leur tirant dessus avec un arc, en les frappant avec une épée et en réapparaissant dans un lit placé relativement près d'elle lorsqu'elle se faisait tuer par les Warden.",
       "bbox": {
@@ -56,13 +106,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.436,
+        "width": 0.109,
+        "height": 0.021
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après avoir vaincu le Malzeno, le voyage de Koyori dans Monster Hunter Rise: Sunbreak n'est pas terminé. Cette fois, elle a affronté l'un des célèbres monstres du jeu, le Rajang furieux. Ce dernier s'est avéré être un adversaire de taille pour Koyori, puisqu'elle a dû se replier vers le camp à plusieurs reprises car elle était à court de potions, et elle s’est même évanouie deux fois pendant le combat. Mais finalement, Koyori a réussi à maîtriser Rajang furieux.",
+      "text": "Après avoir vaincu le Malzeno, le voyage de Koyori dans Monster Hunter Rise: Sunbreak n'est pas terminé. Cette fois, elle a affronté l'un des célèbres monstres du jeu, le Rajang furieux. Ce dernier s’est avéré être un adversaire de taille pour Koyori, puisqu’elle a dû se replier vers le camp à plusieurs reprises car elle était à court de potions, et elle s’est même évanouie deux fois pendant le combat. Mais finalement, Koyori a réussi à maîtriser Rajang furieux.",
       "bbox": {
         "x": 0.5356,
         "y": 0.4753,
         "width": 0.3875,
         "height": 0.1476
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chloe",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.742,
+        "width": 0.093,
+        "height": 0.021
       }
     },
     {

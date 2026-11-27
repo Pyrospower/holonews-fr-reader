@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_2410_-_3010",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "other",
+      "text": "GOOD BYE!",
+      "bbox": {
+        "x": 0.015,
+        "y": 0.22,
+        "width": 0.251,
+        "height": 0.102
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Daidou Shinove",
+      "bbox": {
+        "x": 0.029,
+        "y": 0.294,
+        "width": 0.947,
+        "height": 0.063
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 24 octobre, Shinove a tweeté qu'il quittait officiellement COVER corp. Il a écrit 4 pages pour présenter ses excuses et exprimer ses objectifs futurs. En rétrospective, Daidou Shinove a fait son premier tweet le 1er août 2019, en tant qu'unique manageur des HOLOSTARS, en remplacement de YAGOO. A ce moment-là, il n'y avait encore que 3 membres : Miyabi, Kira et Izuru. Après un mois, on lui a donné un modéle 2D, un jour avant les débuts de la première génération.",
+      "text": "Le 24 octobre, Shinove a tweeté qu’il quittait officiellement COVER corp. Il a écrit 4 pages pour présenter ses excuses et exprimer ses objectifs futurs. En rétrospective, Daidou Shinove a fait son premier tweet le 1er août 2019, en tant qu’unique manageur des HOLOSTARS, en remplacement de YAGOO. À ce moment-là, il n’y avait encore que 3 membres : Miyabi, Kira et Izuru. Après un mois, on lui a donné un modèle 2D, un jour avant les débuts de la première génération.",
       "bbox": {
         "x": 0.0556,
         "y": 0.3806,
@@ -27,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Shinove a fait sa fête d'adieu ensemble avec son aînée A-chan et sa cadette Nodoka en buvant et en se remémorant les moments passés. Il a fait part du fait qu'il était un otaku et qu'il aimait beaucoup les VTubers de manière générale.",
+      "text": "Shinove a fait sa fête d’adieu ensemble avec son aînée A-chan et sa cadette Nodoka en buvant et en se remémorant les moments passés. Il a fait part du fait qu’il était un otaku et qu’il aimait beaucoup les VTubers de manière générale.",
       "bbox": {
         "x": 0.5581,
         "y": 0.3806,
@@ -37,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Il s'est remémoré du jour où il a visité le stand hololive alors que GAMERS était diffusé sur un grand écran. Il était surpris du fait qu'ils arrivaient a communiquer si bien à travers un écran. Après cela, il a décidé de postuler chez hololive production. Il a aussi partagé ses moments les plus marquants de chaque génération d'HOLOSTARS.",
+      "text": "Il s’est remémoré du jour où il a visité le stand hololive alors que GAMERS était diffusé sur un grand écran. Il était surpris du fait qu’ils arrivaient à communiquer si bien à travers un écran. Après cela, il a décidé de postuler chez hololive production. Il a aussi partagé ses moments les plus marquants de chaque génération d’HOLOSTARS.",
       "bbox": {
         "x": 0.5588,
         "y": 0.5056,
@@ -47,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après l'Espace Twitter consacré à sa fête d'adieu, il a fait un after dans un autre Espace, non archivé, qui a duré 6 heures. Il a parlé à différents membres d'HOLOSTARS de tout et n'importe quoi, comme de la manière dont ils ont de communiquer en personne. Il a exprimé de nouveau durant cet after qu'il continuerait de faire partie de la communauté, chose qu'il avait déjà dite dans son tweet. Donc si vous voyez quelqu'un qui lui ressemble dans le futur, n'hésitez pas à le saluer, peu importe le temps qui est passé.",
+      "text": "Après l’Espace Twitter consacré à sa fête d’adieu, il a fait un after dans un autre Espace, non archivé, qui a duré 6 heures. Il a parlé à différents membres d’HOLOSTARS de tout et n’importe quoi, comme de la manière dont ils ont de communiquer en personne. Il a exprimé de nouveau durant cet after qu’il continuerait de faire partie de la communauté, chose qu’il avait déjà dite dans son tweet. Donc si vous voyez quelqu’un qui lui ressemble dans le futur, n’hésitez pas à le saluer, peu importe le temps qui est passé.",
       "bbox": {
         "x": 0.5581,
         "y": 0.6806,

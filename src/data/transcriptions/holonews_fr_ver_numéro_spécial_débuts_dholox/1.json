@@ -3,10 +3,10 @@
   "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "HoloNews veut VOTRE avis. Un court sondage est disponible en commentaire !",
       "bbox": {
         "x": 0.78,
@@ -17,12 +17,32 @@
     },
     {
       "type": "heading",
-      "text": "Hololive 6e génération Edition spéciale débuts",
+      "text": "HOLOX",
+      "bbox": {
+        "x": 0.0775,
+        "y": 0.7049,
+        "width": 0.8031,
+        "height": 0.0977
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive 6e génération\nÉdition spéciale débuts",
       "bbox": {
         "x": 0.1756,
         "y": 0.8164,
         "width": 0.6813,
         "height": 0.079
+      }
+    },
+    {
+      "type": "other",
+      "text": "Illustration : Ninomae Ina'nis",
+      "bbox": {
+        "x": 0.5725,
+        "y": 0.9423,
+        "width": 0.4131,
+        "height": 0.0174
       }
     }
   ],

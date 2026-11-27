@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_3005_-_0506",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "hololive production ont enfin publié des modèles officiels MMD d’'HOLOSTARS. MMD, aussi connu sous le nom de MikuMikuDance, est un logiciel qui permet d'animer ou filmer des animations 3D. Originellement conçu pour Hatsune Miku. Il y a actuellement neuf modèles disponibles au téléchargement : Miyabi, Izuru, Aruran, Rikka, Astel, Temma, Roberu, Shien et Oga. N'oubliez pas de publier et de partager avec l’hashtag officiel #MMD7RO X #—Z. Pour rappel, regardez les règles du créateur avant de vous en servir et d'aller poster sur plusieurs plateformes de réseaux sociaux.",
+      "text": "hololive production ont enfin publié des modèles officiels MMD d’HOLOSTARS. MMD, aussi connu sous le nom de MikuMikuDance, est un logiciel qui permet d'animer ou filmer des animations 3D. Originellement conçu pour Hatsune Miku. Il y a actuellement neuf modèles disponibles au téléchargement : Miyabi, Izuru, Aruran, Rikka, Astel, Temma, Roberu, Shien et Oga. N’oubliez pas de publier et de partager avec l’hashtag officiel #MMDホロスターズ. Pour rappel, regardez les règles du créateur avant de vous en servir et d’aller poster sur plusieurs plateformes de réseaux sociaux.",
       "bbox": {
         "x": 0.075,
         "y": 0.2127,
@@ -36,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.548,
+        "width": 0.088,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Astel est de retour de son voyage en surprenant ses fans avec un stream inattendu le 31 mai à 11h30 JST. Il a raconté qu'il comptait revenir de Floride et était choqué de savoir que son tchat était déjà au courant de l'endroit où il a été. Et cela à cause d’un étrange tweet vocal qui a été publié récemment. Astel l'a écouté quelques fois et nie que c'est lui. Il a ensuite expliqué qu'il est revenu avec une personne qui n’est pas familier avec sa maison et avait besoin de directions pour atteindre les toilettes. Astel a rassuré tout le monde que ce n’était pas Pollneu, déclarant qu'il est en train de recharger tranquillement. Astel a mis fin au stream en lançant un enregistrement d’une histoire où il reste honnête avec lui-même. Celle-ci raconte ce qui c'est passé fin mai.",
+      "text": "Astel est de retour de son voyage en surprenant ses fans avec un stream inattendu le 31 mai à 11h30 JST. Il a raconté qu’il comptait revenir de Floride et était choqué de savoir que son tchat était déjà au courant de l’endroit où il a été. Et cela à cause d’un étrange tweet vocal qui a été publié récemment. Astel l’a écouté quelques fois et nie que c’est lui. Il a ensuite expliqué qu’il est revenu avec une personne qui n’est pas familier avec sa maison et avait besoin de directions pour atteindre les toilettes. Astel a rassuré tout le monde que ce n’était pas Pollneu, déclarant qu’il est en train de recharger tranquillement. Astel a mis fin au stream en lançant un enregistrement d’une histoire où il reste honnête avec lui-même. Celle-ci raconte ce qui c’est passé fin mai.",
       "bbox": {
         "x": 0.075,
         "y": 0.5881,
@@ -46,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Miyabi & Izuru",
+      "bbox": {
+        "x": 0.665,
+        "y": 0.173,
+        "width": 0.24,
+        "height": 0.029
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Les membres de la Gen 1 d'HOLOSTARS (Miyabi, Izuru, Aruran et Rikka) se sont rencontrés et ont dîné ensemble. Miyabi, qui faisait attention à son régime, avait commandé un repas plutôt léger mais avait aussi reçu une énorme portion de poulet frit et de char siu. C’est Izuru qui lui a donné, la même personne qui n'arrête pas de lui dire de perdre du poids. Izuru a tweeté pour se défendre qu'il voulait manger un repas léger mais a fini par en avoir un copieux, il aurait alors distribué cette grande portion aux autres tout en rappelant à Miyabi de perdre du poids. Izuru, qu'est-ce que tu veux que Miyabi fasse réellement ?",
+      "text": "Les membres de la Gen 1 d’HOLOSTARS (Miyabi, Izuru, Aruran et Rikka) se sont rencontrés et ont dîné ensemble. Miyabi, qui faisait attention à son régime, avait commandé un repas plutôt léger mais avait aussi reçu une énorme portion de poulet frit et de char siu. C’est Izuru qui lui a donné, la même personne qui n’arrête pas de lui dire de perdre du poids. Izuru a tweeté pour se défendre qu’il voulait manger un repas léger mais a fini par en avoir un copieux, il aurait alors distribué cette grande portion aux autres tout en rappelant à Miyabi de perdre du poids. Izuru, qu’est-ce que tu veux que Miyabi fasse réellement ?",
       "bbox": {
         "x": 0.5425,
         "y": 0.2122,
@@ -56,8 +76,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Shien & Rikka",
+      "bbox": {
+        "x": 0.662,
+        "y": 0.534,
+        "width": 0.231,
+        "height": 0.029
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Rikka et Shien, aussi connus sous le nom de Shadowgear, ont joué à Mario 64 avec une touche supplémentaire: Shien ne pouvait jouer qu'avec les yeux fermés. Rikka l’a guidé en lui donnant des instructions pour finir le jeu. Ce genre de playthrough a mis à l'épreuve leur travail d'équipe ainsi que leur capacité de communication.",
+      "text": "Rikka et Shien, aussi connus sous le nom de Shadowgear, ont joué à Mario 64 avec une touche supplémentaire: Shien ne pouvait jouer qu’avec les yeux fermés. Rikka l’a guidé en lui donnant des instructions pour finir le jeu. Ce genre de playthrough a mis à l’épreuve leur travail d’équipe ainsi que leur capacité de communication.",
       "bbox": {
         "x": 0.5425,
         "y": 0.5747,
@@ -66,8 +96,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.72,
+        "width": 0.088,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Trente minutes avant l’anniversaire d’Astel, ce dernier a décidé de faire un stream de compte à rebours et de chanter jusqu'à minuit. Parmi les quelques chansons qu'il a chanté on retrouve: « Karma » et « Acacia » de Bump of Chicken, « Flamingo » de Yonezu Kenshi, « Kisetsu wa Tsugitsugi Shindeiku » d’Amazarashii et « Chouchou Musubi » d’Aimer. Lorsqu'il était 12h30 le 6 Juin, il a de nouveau lancer un enregistrement a propos de décisions cruelles qu'il a été amené a faire et que ce monde est sans espoir.",
+      "text": "Trente minutes avant l’anniversaire d’Astel, ce dernier a décidé de faire un stream de compte à rebours et de chanter jusqu’à minuit. Parmi les quelques chansons qu’il a chanté on retrouve: « Karma » et « Acacia » de Bump of Chicken, « Flamingo » de Yonezu Kenshi, « Kisetsu wa Tsugitsugi Shindeiku » d’Amazarashii et « Chouchou Musubi » d’Aimer. Lorsqu’il était 12h30 le 6 Juin, il a de nouveau lancer un enregistrement a propos de décisions cruelles qu’il a été amené à faire et que ce monde est sans espoir.",
       "bbox": {
         "x": 0.5381,
         "y": 0.7595,

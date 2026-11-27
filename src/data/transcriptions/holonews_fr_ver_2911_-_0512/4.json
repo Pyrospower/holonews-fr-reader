@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2911_-_0512",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,7 +17,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Ce 4 décembre, Ollie a célébré son premier anniversaire depuis ses débuts en regardant son tout premier stream ! Nostalgique, elle a utilise à nouveau l'écran de chargement, l’overlay et la musique de fond qu'elle avait lors de ses débuts. Elle est allée jusqu'à rejouer le cri Pare qu'elle a poussé alors qu’elle rencontrait le tchat pour la première fois.",
+      "text": "Ce 4 décembre, Ollie a célébré son premier anniversaire depuis ses débuts en regardant son tout premier stream ! Nostalgique, elle a utilisé à nouveau l’écran de chargement, l’overlay et la musique de fond qu’elle avait lors de ses débuts. Elle est allée jusqu’à rejouer le cri légendaire qu’elle a poussé alors qu’elle rencontrait le tchat pour la première fois.",
       "bbox": {
         "x": 0.0178,
         "y": 0.1057,
@@ -27,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Durant sa réaction à ses débuts, elle n'a cessé de grimacer face à son ancienne personnalité, puis s'est mise à comparer son comportement et son activité actuels avec ceux de cette époque. Elle est même allée jusqu'à essayer de chanter à nouveau la chanson « Karakuri Pierrot » pour confirmer sa progression. Ollie a pu remarquer de nombreux messages de ses aînées dans le tchat de la rediffusion, comme des « STONKS » inopinés d'Aruran, la réaction d'Astel quand elle a évoqué son amour pour les films Disney, et Moona, exaltée devant ses débuts.",
+      "text": "Durant sa réaction à ses débuts, elle n’a cessé de grimacer face à son ancienne personnalité, puis s’est mise à comparer son comportement et son activité actuels avec ceux de cette époque. Elle est même allée jusqu’à essayer de chanter à nouveau la chanson « Karakuri Pierrot » pour confirmer sa progression. Ollie a pu remarquer de nombreux messages de ses aînées dans le tchat de la rediffusion, comme des « STONKS » inopinés d'Aruran, la réaction d’Astel quand elle a évoqué son amour pour les films Disney, et Moona, exaltée devant ses débuts.",
       "bbox": {
         "x": 0.0167,
         "y": 0.2199,
@@ -37,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "En second lieu, elle a réagi à un clip vidéo créé par des fans contenant des messages de Zomrades, Zomilies, clippeurs, et même d'amis. Elle fut tellement touchée qu'elle se mit à pleurer à chaudes larmes. Après s'être calmée, elle a continué à lire les lettres individuelles envoyées par des Zomrades sur Twitter.",
+      "text": "En second lieu, elle a réagi à un clip vidéo créé par des fans contenant des messages de Zomrades, Zomilies, clippeurs, et même d'amis. Elle fut tellement touchée qu’elle se mit à pleurer à chaudes larmes. Après s’être calmée, elle a continué à lire les lettres individuelles envoyées par des Zomrades sur Twitter.",
       "bbox": {
         "x": 0.0178,
         "y": 0.392,
@@ -47,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle a terminé en lisant une lettre qu'elle avait écrite elle-même afin de remercier tout le monde de l'avoir soutenue et aimée malgré ses travers.",
+      "text": "Elle a terminé en lisant une lettre qu’elle avait écrite elle-même afin de remercier tout le monde de l’avoir soutenue et aimée malgré ses travers.",
       "bbox": {
         "x": 0.0183,
         "y": 0.4923,
@@ -56,53 +56,43 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "(J Anya Melfissa Anya fête son 1er anniversaire ! Elle a commencé son stream en faisant une rétrospective de ses débuts. Elle a parlé de ses anciens Visual Novel qu'elle voulait montrer en entier, mais elle n'a pas pu",
-      "bbox": {
-        "x": 0.0244,
-        "y": 0.5934,
-        "width": 0.4806,
-        "height": 0.1146
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "/ / IE CA A er",
-      "bbox": {
-        "x": 0.5433,
-        "y": 0.6223,
-        "width": 0.3978,
-        "height": 0.0702
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "retrouver les fichiers, donc elle est finalement allée flans sh prs tov 2x sur son PowerPoint de l'époque. Anya a ensuite 1 bo ends wih every! demandé au tchat qu'elles avaient été leurs moments oath RE préférés de ses débuts. Les réponses allaient de son a Visual Novel a ses cris d'amour pour Fubuki. Anya Hpi» enchaîna avec une lecture de lettres de fan ainsi sd sy JE rn qu'un tour des différents fanarts, Reine et Astel en ont profité pour apparaitre dans le tchat.",
-      "bbox": {
-        "x": 0.0244,
-        "y": 0.7079,
-        "width": 0.6889,
-        "height": 0.1181
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "À l'approche de la fin du stream, Anya dit que plutôt que recevoir plus, elle donnerait plus a partir de maintenant. Elle annonça ensuite qu'elle comptait",
-      "bbox": {
-        "x": 0.0239,
-        "y": 0.8387,
-        "width": 0.4744,
-        "height": 0.0459
-      }
-    },
-    {
       "type": "heading",
-      "text": "12 HOURS",
+      "text": "Anya Melfissa",
       "bbox": {
-        "x": 0.6633,
-        "y": 0.8754,
-        "width": 0.2067,
-        "height": 0.0228
+        "x": 0.0582,
+        "y": 0.5934,
+        "width": 0.4091,
+        "height": 0.0366
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Anya fête son 1er anniversaire ! Elle a commencé son stream en faisant une rétrospective de ses débuts. Elle a parlé de ses anciens Visual Novel qu’elle voulait montrer en entier, mais elle n’a pas pu retrouver les fichiers, donc elle est finalement allée sur son PowerPoint de l’époque. Anya a ensuite demandé au tchat qu’elles avaient été leurs moments préférés de ses débuts. Les réponses allaient de son Visual Novel à ses cris d'amour pour Fubuki. Anya enchaîna avec une lecture de lettres de fan ainsi qu’un tour des différents fanarts, Reine et Astel en ont profité pour apparaître dans le tchat.",
+      "bbox": {
+        "x": 0.0236,
+        "y": 0.6477,
+        "width": 0.5018,
+        "height": 0.1768
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À l’approche de la fin du stream, Anya dit que plutôt que recevoir plus, elle donnerait plus à partir de maintenant. Elle annonça ensuite qu’elle comptait organiser 12 heures de stream en relais le 8 décembre pour le premier anniversaire d’holoRo. Le programme pourra être trouvé sur son Twitter. Elle a aussi annoncé l’apparition de produits dérivés holoRo spécial anniversaire. Elle a terminé en remerciant ses spectateurs et Melfriends d’être venus pour son stream Anyaversaire.",
+      "bbox": {
+        "x": 0.0236,
+        "y": 0.8396,
+        "width": 0.5018,
+        "height": 0.1465
+      }
+    },
+    {
+      "type": "other",
+      "text": "HoloLiveID 2nd Generation\nHOLORO\n1st Anniversary\n12 HOURS RELAY\n8th Dec. 2021\n10 AM-10 PM GMT+7",
+      "bbox": {
+        "x": 0.5709,
+        "y": 0.8119,
+        "width": 0.3527,
+        "height": 0.1578
       }
     }
   ],

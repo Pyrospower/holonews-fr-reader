@@ -2,37 +2,137 @@
   "schemaVersion": 1,
   "issueId": "holonews_fr_ver_2305_-_2905",
   "page": 1,
-  "lang": "fr",
-  "status": "unavailable",
+  "lang": "en",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Roi Démon Kobo * Revue de bonbon de lofi « Subaru est mignonne",
+      "type": "other",
+      "text": "Roi Démon Kobo",
       "bbox": {
-        "x": 0.0663,
-        "y": 0.0113,
-        "width": 0.8969,
-        "height": 0.0174
+        "x": 0.064,
+        "y": 0.011,
+        "width": 0.206,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "Revue de bonbon de Iofi",
+      "bbox": {
+        "x": 0.352,
+        "y": 0.011,
+        "width": 0.292,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "Subaru est mignonne",
+      "bbox": {
+        "x": 0.707,
+        "y": 0.011,
+        "width": 0.258,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "Weekly News Magazine.",
+      "bbox": {
+        "x": 0.024,
+        "y": 0.153,
+        "width": 0.193,
+        "height": 0.012
       }
     },
     {
       "type": "heading",
-      "text": "& VRChat",
+      "text": "Ina's Birthday & VRChat art World",
       "bbox": {
-        "x": 0.0175,
-        "y": 0.2726,
-        "width": 0.2388,
-        "height": 0.046
+        "x": 0.014,
+        "y": 0.187,
+        "width": 0.282,
+        "height": 0.153
       }
     },
     {
-      "type": "paragraph",
-      "text": "Vaca n",
+      "type": "heading",
+      "text": "Chloe's Birthday",
       "bbox": {
-        "x": 0.0144,
-        "y": 0.5803,
-        "width": 0.2094,
-        "height": 0.0269
+        "x": 0.014,
+        "y": 0.355,
+        "width": 0.23,
+        "height": 0.071
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Korone Taking a Break",
+      "bbox": {
+        "x": 0.712,
+        "y": 0.194,
+        "width": 0.276,
+        "height": 0.114
+      }
+    },
+    {
+      "type": "heading",
+      "text": "UPROAR!! fan meeting event",
+      "bbox": {
+        "x": 0.719,
+        "y": 0.326,
+        "width": 0.269,
+        "height": 0.087
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli's new original MV",
+      "bbox": {
+        "x": 0.72,
+        "y": 0.43,
+        "width": 0.266,
+        "height": 0.06
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara & Reine Vacation",
+      "bbox": {
+        "x": 0.013,
+        "y": 0.519,
+        "width": 0.2,
+        "height": 0.092
+      }
+    },
+    {
+      "type": "heading",
+      "text": "rpr's Pekora cosplay",
+      "bbox": {
+        "x": 0.015,
+        "y": 0.624,
+        "width": 0.28,
+        "height": 0.063
+      }
+    },
+    {
+      "type": "heading",
+      "text": "YouTube's spam issues",
+      "bbox": {
+        "x": 0.014,
+        "y": 0.699,
+        "width": 0.259,
+        "height": 0.063
+      }
+    },
+    {
+      "type": "other",
+      "text": "Want to help? Join our discord",
+      "bbox": {
+        "x": 0.584,
+        "y": 0.918,
+        "width": 0.397,
+        "height": 0.02
       }
     }
   ],

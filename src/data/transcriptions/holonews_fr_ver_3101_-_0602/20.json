@@ -3,16 +3,16 @@
   "issueId": "holonews_fr_ver_3101_-_0602",
   "page": 20,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "EVÉNEMENT PALIERS À VENIR D’ABONNÉS",
+      "text": "EVÉNEMENT À VENIR",
       "bbox": {
-        "x": 0.08,
-        "y": 0.0326,
-        "width": 0.8269,
-        "height": 0.0729
+        "x": 0.0783,
+        "y": 0.0324,
+        "width": 0.3717,
+        "height": 0.0752
       }
     },
     {
@@ -27,27 +27,67 @@
     },
     {
       "type": "other",
-      "text": "• 14 février : Anniversaire de Choco",
+      "text": "• 14 février : Anniversaire de Choco et un concert\n• 15 février : Anniversaire de Moona",
       "bbox": {
-        "x": 0.0869,
-        "y": 0.1667,
-        "width": 0.3544,
-        "height": 0.0117
+        "x": 0.0833,
+        "y": 0.1655,
+        "width": 0.365,
+        "height": 0.0625
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PALIERS D’ABONNÉS",
+      "bbox": {
+        "x": 0.5683,
+        "y": 0.0382,
+        "width": 0.3417,
+        "height": 0.0694
       }
     },
     {
       "type": "other",
-      "text": "et un concert A” 1.5M\n• 15 février : Anniversaire de Moona HOLOSTARS CH. 150K",
+      "text": "AQUA\n1,5M",
       "bbox": {
-        "x": 0.0869,
-        "y": 0.1827,
-        "width": 0.7563,
-        "height": 0.0664
+        "x": 0.63,
+        "y": 0.1586,
+        "width": 0.08,
+        "height": 0.0428
       }
     },
     {
-      "type": "paragraph",
-      "text": "Merci!",
+      "type": "other",
+      "text": "HOLOSTARS\nCH. 150K",
+      "bbox": {
+        "x": 0.6967,
+        "y": 0.206,
+        "width": 0.15,
+        "height": 0.044
+      }
+    },
+    {
+      "type": "other",
+      "text": "ALMOND\nMILK",
+      "bbox": {
+        "x": 0.5767,
+        "y": 0.3669,
+        "width": 0.115,
+        "height": 0.0613
+      }
+    },
+    {
+      "type": "other",
+      "text": "MISSING",
+      "bbox": {
+        "x": 0.7483,
+        "y": 0.3877,
+        "width": 0.1233,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci !",
       "bbox": {
         "x": 0.3913,
         "y": 0.6081,
@@ -57,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester a jour sur tout ce qui se rapporte a hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
         "x": 0.0706,
         "y": 0.6471,

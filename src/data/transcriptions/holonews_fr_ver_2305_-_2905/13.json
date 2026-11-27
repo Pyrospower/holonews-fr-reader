@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2305_-_2905",
   "page": 13,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,28 +16,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "@® Takanashi Kiara à NEW SONG COV... &@ There's only a lock on the outside of the bathroom for some reason so locked her in @@ © ©",
-      "bbox": {
-        "x": 0.1175,
-        "y": 0.1024,
-        "width": 0.3394,
-        "height": 0.0313
-      }
-    },
-    {
-      "type": "other",
-      "text": "Show this thread",
-      "bbox": {
-        "x": 0.1181,
-        "y": 0.1385,
-        "width": 0.0794,
-        "height": 0.0052
-      }
-    },
-    {
       "type": "heading",
-      "text": ") Kiara & Reine",
+      "text": "Kiara & Reine",
       "bbox": {
         "x": 0.1725,
         "y": 0.1849,
@@ -47,12 +27,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Kiara a piégé Reine en I'enfermant cette dernière dans la salle de bain. Les deux oiseaux sont actuellement en vacances ensemble dans les Maldives. Kiara a raconté sur Twitter que Reine chantait « HI-15 » sous la douche et qu'il y avait un verrou à I'extérieur de la salle de bain (alors qu'il est habituellement à l'intérieur). Elle a donc fait ce qu'elle devait en enfermant Reine à l'intérieur. Reine à plus tard annoncé qu'elle a réussi à se libérer et qu’elle est maintenant saine et sauve.",
+      "text": "Kiara a piégé Reine en l’enfermant cette dernière dans la salle de bain. Les deux oiseaux sont actuellement en vacances ensemble dans les Maldives. Kiara a raconté sur Twitter que Reine chantait « HI-15 » sous la douche et qu’il y avait un verrou à l’extérieur de la salle de bain (alors qu’il est habituellement à l'intérieur). Elle a donc fait ce qu’elle devait en enfermant Reine à l'intérieur. Reine à plus tard annoncé qu’elle a réussi à se libérer et qu’elle est maintenant saine et sauve.",
       "bbox": {
         "x": 0.0719,
         "y": 0.2183,
         "width": 0.3963,
         "height": 0.1445
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara & Reine",
+      "bbox": {
+        "x": 0.1894,
+        "y": 0.5113,
+        "width": 0.2137,
+        "height": 0.0195
       }
     },
     {
@@ -67,7 +57,7 @@
     },
     {
       "type": "heading",
-      "text": "4) Kiara & Reine",
+      "text": "Kiara & Reine",
       "bbox": {
         "x": 0.1338,
         "y": 0.7817,
@@ -77,12 +67,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Kiara et Reine ont fait un court stream de discussion lors de leurs vacances avec le son des vagues. Elles ont parlé de leurs interactions, du trajet en avion, de leurs premières impressions, etc. À la fin du stream, elles se sont échangées des cadeaux qu'elles avaient gardés secret. Kiara voulait acheter un bijou avec les initiales de Reine dessus mais il n’y en avait pas, alors elle lui a donné un Dirndl (une tenue traditionnelle allemande) à la place. Reine a elle aussi pensé à lui offrir une tenue traditionnelle indonésienne mais elle a fini par lui offrir un bracelet. Pour finir, elles ont partagé leurs plans pour leurs vacances.",
+      "text": "Kiara et Reine ont fait un court stream de discussion lors de leurs vacances avec le son des vagues. Elles ont parlé de leurs interactions, du trajet en avion, de leurs premières impressions, etc. À la fin du stream, elles se sont échangées des cadeaux qu’elles avaient gardés secret. Kiara voulait acheter un bijou avec les initiales de Reine dessus mais il n’y en avait pas, alors elle lui a donné un Dirndl (une tenue traditionnelle allemande) à la place. Reine a elle aussi pensé à lui offrir une tenue traditionnelle indonésienne mais elle a fini par lui offrir un bracelet. Pour finir, elles ont partagé leurs plans pour leurs vacances.",
       "bbox": {
         "x": 0.0712,
         "y": 0.819,
         "width": 0.3875,
         "height": 0.1628
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara & Reine",
+      "bbox": {
+        "x": 0.66,
+        "y": 0.1797,
+        "width": 0.2144,
+        "height": 0.02
       }
     },
     {
@@ -97,77 +97,17 @@
     },
     {
       "type": "paragraph",
-      "text": "Reine qui se cognait constamment contre des choses. Elle a aussi hurlé de surprise sur du tissu qui tombait.",
+      "text": "• Reine qui se cognait constamment contre des choses. Elle a aussi hurlé de surprise sur du tissu qui tombait.\n• Reine qui piquait le dos de Kiara pendant qu’elles dormaient.\n• Reine a influencé Kiara pour qu'elle décrive tout comme « épicé » en général.\n• Reine ne buvait que pendant les repas, ce qui est quelque chose de plutôt rare.\n• L’habitude qu'a Reine à chantonner tout le temps, même quand la femme de ménage était présente.\n• Reine en train de tourner en rond dans la chambre pendant que Kiara dort. (Elle s’est déjà réveillée devant ce spectacle).\n• Kiara qui était obsédé par un bernard l’hermite et un gecko.\n• Les deux oiseaux ont toutes les deux frôlé la mort. Pour Kiara, c’était lors du trajet d’avion qui a eu des turbulences importantes. Pour Reine, c’était quand de l’eau a inondé son tuba.\n• Kiara s’assoit sur ses genoux lorsqu’elle stream. Apparemment, elle trouve cela plutôt confortable.\n• Les deux se sont retrouvés sous la pluie et se sont fait conduire 5 mètres par un majordome dans un chariot de golf.",
       "bbox": {
         "x": 0.5756,
         "y": 0.326,
-        "width": 0.3456,
-        "height": 0.0399
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Reine qui piquait le dos de Kiara pendant qu'elles dormaient.",
-      "bbox": {
-        "x": 0.5763,
-        "y": 0.3663,
-        "width": 0.3425,
-        "height": 0.0265
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Reine a influencé Kiara pour qu'elle décrive tout comme « épicé » en général. Reine ne buvait que pendant les repas, ce qui est quelque chose de plutôt rare. L'habitude qu'a Reine à chantonner tout le temps, même quand la femme de ménage était présente.",
-      "bbox": {
-        "x": 0.5756,
-        "y": 0.3932,
-        "width": 0.3544,
-        "height": 0.0938
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Reine en train de tourner en rond dans la chambre pendant que Kiara dort. (Elle s'est déjà réveillée devant ce spectacle). Kiara qui était obsédé par un bernard I'hermite et un gecko.",
-      "bbox": {
-        "x": 0.5756,
-        "y": 0.4874,
-        "width": 0.3425,
-        "height": 0.0668
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Les deux oiseaux ont toutes les deux frôlé la mort. Pour Kiara, c'était lors du trajet d'avion qui a eu des turbulences importantes. Pour Reine, c'était quand de l'eau a inondé son tuba.",
-      "bbox": {
-        "x": 0.5763,
-        "y": 0.5547,
-        "width": 0.3494,
-        "height": 0.0638
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Kiara s'assoit sur ses genoux lorsqu'elle stream. Apparemment, elle trouve cela plutôt confortable.",
-      "bbox": {
-        "x": 0.5756,
-        "y": 0.622,
-        "width": 0.3325,
-        "height": 0.0399
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Les deux se sont retrouvés sous la pluie et se sont fait conduire 5 mètres par un majordome dans un chariot de golf.",
-      "bbox": {
-        "x": 0.5756,
-        "y": 0.6623,
         "width": 0.3556,
-        "height": 0.0399
+        "height": 0.3762
       }
     },
     {
       "type": "paragraph",
-      "text": "Reine a révélé qu'elle était fascinée par les documentaires animaliers et elle commentait souvent sur ce qu'il ce passait, saluant même les chiots qui apparaissait à l'écran. Kiara regrette aussi d’avoir laissé Reine boire de l'alcool car elle est bien plus agitée et bavarde après seulement un seul verre. Cette dernière a forcé Kiara a regarder des documentaires animaliers avec elle toute la nuit. Reine a également menacé de chatouiller Kiara si jamais elle essayait de s'endormir. Reine voit maintenant Kiara comme une ainé « sympa » plutôt qu’une ainé « cool ». Elle a aussi révélé sans le vouloir que Kiara allait prochainement publier deux chansons au lieu d’une seule. Elles sont toutes les deux d'accord pour partir une fois de plus en vacances ensemble.",
+      "text": "Reine a révélé qu’elle était fascinée par les documentaires animaliers et elle commentait souvent sur ce qu’il ce passait, saluant même les chiots qui apparaissait à l’écran. Kiara regrette aussi d’avoir laissé Reine boire de l’alcool car elle est bien plus agitée et bavarde après seulement un seul verre. Cette dernière a forcé Kiara a regarder des documentaires animaliers avec elle toute la nuit. Reine a également menacé de chatouiller Kiara si jamais elle essayait de s’endormir. Reine voit maintenant Kiara comme une ainé « sympa » plutôt qu’une ainé « cool ». Elle a aussi révélé sans le vouloir que Kiara allait prochainement publier deux chansons au lieu d’une seule. Elles sont toutes les deux d'accord pour partir une fois de plus en vacances ensemble.",
       "bbox": {
         "x": 0.5413,
         "y": 0.7161,

@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_0108_-_0708",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "StarsEN",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.218,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Puisque les garçons d'HOLOSTARS TEMPUS n'ont pas réussi à télécharger Mario Party, le jeu prévu à la base, ils ont décidé de jouer à Left 4 Dead 2 à la place. Ils ont joué à travers les niveaux de l'hôtel, des rues et de l’atrium. Parmi certains moments marquants, ils se sont tiré dessus accidentellement, le personnage de Dezmond se faisait constamment attrapé par la langue de Smoker, Vesper a cité la copypasta « | Studied the Blade » en tenant un katana dans le jeu, et ils ont réussi le niveau de l’atrium après trois essais à la dernière partie.",
+      "text": "Puisque les garçons d’HOLOSTARS TEMPUS n’ont pas réussi à télécharger Mario Party, le jeu prévu à la base, ils ont décidé de jouer à Left 4 Dead 2 à la place. Ils ont joué à travers les niveaux de l’hôtel, des rues et de l’atrium. Parmi certains moments marquants, ils se sont tiré dessus accidentellement, le personnage de Dezmond se faisait constamment attrapé par la langue de Smoker, Vesper a cité la copypasta « I Studied the Blade » en tenant un katana dans le jeu, et ils ont réussi le niveau de l’atrium après trois essais à la dernière partie.",
       "bbox": {
         "x": 0.0712,
         "y": 0.2574,
@@ -26,8 +36,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Vesper",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.502,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Vesper a avoué dans un de ses streams discussions qu'il a monté son PC tout nu dans le passé. Il a dit que la raison est due aux superstitions qui tournent autour du montage de PC. L'une d’entre elles était le fait que l'électricité statique est terrifiante et que ça pouvait facilement endommager les pièces. Afin d'éviter cela, il s'était mis tout nu dans sa cuisine pour monter son PC.",
+      "text": "Vesper a avoué dans un de ses streams discussions qu’il a monté son PC tout nu dans le passé. Il a dit que la raison est due aux superstitions qui tournent autour du montage de PC. L’une d’entre elles était le fait que l’électricité statique est terrifiante et que ça pouvait facilement endommager les pièces. Afin d’éviter cela, il s’était mis tout nu dans sa cuisine pour monter son PC.",
       "bbox": {
         "x": 0.0712,
         "y": 0.5417,
@@ -36,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Altare & Axel",
+      "bbox": {
+        "x": 0.246,
+        "y": 0.715,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Altare et Axel ont fait une collaboration ensemble où ils ont joué à SpyParty. Dans ce jeu, une personne joue un espion qui s’est infiltré dans une fête rempli de personnes riches, célèbres, ou des personnes avec de fortes influences tandis que l’autre joueur joue un sniper et doit trouver l’espion et 'assassiner en un seul tir. Il y a eu quelques moments marquants, comme le sniper Axel qui était sur I'espion Altare, mais Axel n'a pas tiré, ou I'espion Altare qui a esquivé sournoisement le sniper Axel. La collab était très amusante et s’est finie par la victoire d’Altare d’un point après plusieurs parties sur une heure de stream. Le gage d’Axel pour avoir perdu était de devoir aboyer comme un chien.",
+      "text": "Altare et Axel ont fait une collaboration ensemble où ils ont joué à SpyParty. Dans ce jeu, une personne joue un espion qui s’est infiltré dans une fête rempli de personnes riches, célèbres, ou des personnes avec de fortes influences tandis que l’autre joueur joue un sniper et doit trouver l’espion et l’assassiner en un seul tir. Il y a eu quelques moments marquants, comme le sniper Axel qui était sur l’espion Altare, mais Axel n’a pas tiré, ou l’espion Altare qui a esquivé sournoisement le sniper Axel. La collab était très amusante et s’est finie par la victoire d’Altare d’un point après plusieurs parties sur une heure de stream. Le gage d’Axel pour avoir perdu était de devoir aboyer comme un chien.",
       "bbox": {
         "x": 0.07,
         "y": 0.7535,
@@ -57,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les membres de TEMPUS sont maintenant monétisés, les fans peuvent enfin envoyer des Super Chats ! Chaque membre l’a célébré à sa manière. Altare et Axel ont fait un karaoké, Altare a chanté les chansons « Dreamy Night » de LilyPichu, « | Hate It » d'Ellegarden, « Dry Flower » de Yuuri et enfin « | Love You » de Chris Hart tandis que Axel a chanté« Single Bed » de SharanG, « JUDY AND MARY » de Sobakasu, « Donut Hole » de Hachi et plus encore.",
+      "text": "Les membres de TEMPUS sont maintenant monétisés, les fans peuvent enfin envoyer des Super Chats ! Chaque membre l’a célébré à sa manière. Altare et Axel ont fait un karaoké, Altare a chanté les chansons « Dreamy Night » de LilyPichu, « I Hate It » d’Ellegarden, « Dry Flower » de Yuuri et enfin « I Love You » de Chris Hart tandis que Axel a chanté« Single Bed » de SharanG, « JUDY AND MARY » de Sobakasu, « Donut Hole » de Hachi et plus encore.",
       "bbox": {
         "x": 0.5375,
         "y": 0.1354,
@@ -67,7 +97,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pendant ce temps, Dezmond a cuisiné des mini pancakes à l'effigie d'autres membres d’holopro, dont Gamma et Rio d'UPROAR!!, Smol Ame, et ses camarades de génération. Enfin Vesper a essayé plusieurs sauces piquantes avec des unités de scovilles croissantes et les a notées sur une échelle de chaleur allant de 1 à 5. Il a souffert dans les derniers tests, les Vesties s'inquiétant de plus en plus, mais lorsqu'il a essayé « The Last Dab », il a dit pouvoir « voir Calli ».",
+      "text": "Pendant ce temps, Dezmond a cuisiné des mini pancakes à l’effigie d’autres membres d’holopro, dont Gamma et Rio d’UPROAR!!, Smol Ame, et ses camarades de génération. Enfin Vesper a essayé plusieurs sauces piquantes avec des unités de scovilles croissantes et les a notées sur une échelle de chaleur allant de 1 à 5. Il a souffert dans les derniers tests, les Vesties s’inquiétant de plus en plus, mais lorsqu’il a essayé « The Last Dab », il a dit pouvoir « voir Calli ».",
       "bbox": {
         "x": 0.5387,
         "y": 0.2756,
@@ -77,7 +107,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après cela, les quatres ont annoncé que le cli pour leur première chanson originale, « Top of the world », sera publié le 11 Août à 9h00 (PST) ou le 12 Août à 1h00 (JST) !",
+      "text": "Après cela, les quatres ont annoncé que le clip pour leur première chanson originale, « Top of the world », sera publié le 11 Août à 9h00 (PST) ou le 12 Août à 1h00 (JST) !",
       "bbox": {
         "x": 0.5375,
         "y": 0.4158,
@@ -97,7 +127,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Quand Altare a joué à 60 Seconds! Reatomized, il a comparé la dynamique des quatres personnages du jeu à TEMPUS, il a comparé Vesper à Ted, le père épuisé, Dezmond à Dolores, la mère mature, Axel au petit Timmy, et lui-même à la fille Mary Jane. Plus tard dans le jeu, quand il a vu que Timmy était mort, Altare est resté assis en silence et a appelé Axel pour s'excuser et l’informer qu’il l'a peut-être tué. Axel n’était pas du tout surpris puisque qu'il meurt toujours dans n'importe quel jeu.",
+      "text": "Quand Altare a joué à 60 Seconds! Reatomized, il a comparé la dynamique des quatres personnages du jeu à TEMPUS, il a comparé Vesper à Ted, le père épuisé, Dezmond à Dolores, la mère mature, Axel au petit Timmy, et lui-même à la fille Mary Jane. Plus tard dans le jeu, quand il a vu que Timmy était mort, Altare est resté assis en silence et a appelé Axel pour s’excuser et l’informer qu’il l’a peut-être tué. Axel n’était pas du tout surpris puisque qu’il meurt toujours dans n’importe quel jeu.",
       "bbox": {
         "x": 0.5387,
         "y": 0.5621,
@@ -106,8 +136,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Vesper",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.792,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Dans son stream discussion, Vesper a passé en revue des « anciens memes », de 2000 à 2010, à l'époque de RealPlayer, Newgrounds, et Something Awful, parmi tant d'autres anciennes plateformes. Il a passé en revue « O RLY? », « LONGCAT », « Charlie The Unicorn », le « rickroll », « Card Crusher », « Peanut Butter Jelly Time », « Roflcopter », « Badger Badger Badger » et enfin « All your base are belong to us ».",
+      "text": "Dans son stream discussion, Vesper a passé en revue des « anciens memes », de 2000 à 2010, à l’époque de RealPlayer, Newgrounds, et Something Awful, parmi tant d’autres anciennes plateformes. Il a passé en revue « O RLY? », « LONGCAT », « Charlie The Unicorn », le « rickroll », « Card Crusher », « Peanut Butter Jelly Time », « Roflcopter », « Badger Badger Badger » et enfin « All your base are belong to us ».",
       "bbox": {
         "x": 0.5387,
         "y": 0.8294,

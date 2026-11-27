@@ -3,10 +3,20 @@
   "issueId": "holonews_fr_ver_2305_-_2905",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.4269,
+        "y": 0.0256,
+        "width": 0.1481,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "heading",
       "text": "Paliers",
       "bbox": {
         "x": 0.6625,
@@ -17,7 +27,27 @@
     },
     {
       "type": "paragraph",
-      "text": "Evénements a venir",
+      "text": "Aruran 160k\nLamy 1M\nAstel 200k",
+      "bbox": {
+        "x": 0.6019,
+        "y": 0.1476,
+        "width": 0.0956,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "hololive Indonesia 300k\nIzuru 180k",
+      "bbox": {
+        "x": 0.835,
+        "y": 0.1471,
+        "width": 0.1181,
+        "height": 0.0655
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Evénements à venir",
       "bbox": {
         "x": 0.535,
         "y": 0.4618,
@@ -46,8 +76,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte a hololive, n'hésitez pas à rejoindre notre subreddit ou notre serveur, @ Discord pour participer et donner un coup æ; de main à la création d’HoloNews !",
+      "type": "other",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
       "bbox": {
         "x": 0.0463,
         "y": 0.691,
@@ -56,7 +86,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "Merci d’avoir lu et à la semaine prochaine !",
       "bbox": {
         "x": 0.0463,

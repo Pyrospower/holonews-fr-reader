@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1403_-_2003",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -37,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Astel, Roberu et Matsuri joueront dans des équipes différentes avec des vtubers non-hololive. En revanche, Tova, Suisei et Aqua se sont retrouvés dans la même équipe. Aqua a reçu un total de 10 points ! Cette annonce a été une énorme surprise, car il s'agit du premier tournoi Apex pour Akwa et Suisel.",
+      "text": "Astel, Roberu et Matsuri joueront dans des équipes différentes avec des vtubers non-hololive. En revanche, Tova, Suisei et Aqua se sont retrouvés dans la même équipe. Aqua a reçu un total de 10 points ! Cette annonce a été une énorme surprise, car il s'agit du premier tournoi Apex pour Akwa et Suisei.",
       "bbox": {
         "x": 0.0706,
         "y": 0.3095,
@@ -96,16 +96,6 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "@ YAGOO / Motoaki Tanigo &",
-      "bbox": {
-        "x": 0.5263,
-        "y": 0.3303,
-        "width": 0.1875,
-        "height": 0.0243
-      }
-    },
-    {
       "type": "heading",
       "text": "Yagoo",
       "bbox": {
@@ -157,32 +147,12 @@
     },
     {
       "type": "paragraph",
-      "text": "À partir du 14 mars, vous pouvez vous",
+      "text": "À partir du 14 mars, vous pouvez vous préinscrire pour obtenir un compte sur Holoearth, le projet de métacommunauté Hololive. Les comptes Twitter, Google ou Apple ID peuvent être utilisés pour s'inscrire et accéder au lobby, où vous pouvez communiquer avec d'autres personnes par des messages et des autocollants. Le client du jeu n'est pour l'instant disponible qu'en japonais, tandis qu'une version anglaise est en cours de développement. Les tests ouverts se dérouleront jusqu'au 25 mars.",
       "bbox": {
         "x": 0.53,
         "y": 0.8346,
-        "width": 0.3231,
-        "height": 0.0148
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "réinscrire pour obtenir un compte sur",
-      "bbox": {
-        "x": 0.5425,
-        "y": 0.8481,
-        "width": 0.3063,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "oloearth, le projet de métacommunauté Hololive. Les comptes Twitter, Google ou Apple ID pei être utilisés pour s'inscrire et accéder au lobby, où vous pouvez communiquer avec d'autres personnes par des messages et des autocollants. Le client du jeu n'est pour l'instant disponible qu'en japonais, tandis qu'une version anglaise est en cours de développement. Les tests ouverts se dérouleront jusqu'au 25 mars.",
-      "bbox": {
-        "x": 0.53,
-        "y": 0.8615,
         "width": 0.4038,
-        "height": 0.1215
+        "height": 0.1484
       }
     }
   ],

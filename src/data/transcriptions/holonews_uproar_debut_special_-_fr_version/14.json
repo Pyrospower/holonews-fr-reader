@@ -3,10 +3,10 @@
   "issueId": "holonews_uproar_debut_special_-_fr_version",
   "page": 14,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Merci d’avoir lu l’édition spéciale sur les débuts d’UPROAR !",
       "bbox": {
         "x": 0.1819,
@@ -33,16 +33,6 @@
         "y": 0.3286,
         "width": 0.7863,
         "height": 0.1645
-      }
-    },
-    {
-      "type": "heading",
-      "text": "ses",
-      "bbox": {
-        "x": 0.3556,
-        "y": 0.5113,
-        "width": 0.2913,
-        "height": 0.069
       }
     },
     {

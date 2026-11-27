@@ -3,11 +3,31 @@
   "issueId": "holonews_fr_ver_2908_-_0409",
   "page": 11,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.1914,
+        "y": 0.1786,
+        "width": 0.1229,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "h3roes   STARS\nUPROAR!!   TEMPUS",
+      "bbox": {
+        "x": 0.3214,
+        "y": 0.1687,
+        "width": 0.1786,
+        "height": 0.0437
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Kobo et Fuma ont t fait ¢ équipe et ont joué ensemble à VALORANT. Contrairement à l'autre frère de Kobo chez HOLOSTARS EN, son frère dans UPROAR !! est plus « gentil » avec elle. Fuma a suggéré de dire « suki suki chu chu » à celui qui avait le moins d’éliminations. Mais après un seul match, Fuma n'a pas tenu parole et a perdu contre Kobo en disant « Ara-ara » en stream. Elle voulait que d'autres personnes se joignent à elle, alors elle a invité les membres de holopro à venir. Rio, Gamma, Axel et Astel ont fini par les rejoindre pour s'amuser.",
+      "text": "Kobo et Fuma ont fait équipe et ont joué ensemble à VALORANT. Contrairement à l'autre frère de Kobo chez HOLOSTARS EN, son frère dans UPROAR !! est plus « gentil » avec elle. Fuma a suggéré de dire « suki suki chu chu » à celui qui avait le moins d’éliminations. Mais après un seul match, Fuma n'a pas tenu parole et a perdu contre Kobo en disant « Ara-ara » en stream. Elle voulait que d'autres personnes se joignent à elle, alors elle a invité les membres de holopro à venir. Rio, Gamma, Axel et Astel ont fini par les rejoindre pour s'amuser.",
       "bbox": {
         "x": 0.0431,
         "y": 0.2036,
@@ -17,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "En dehors des matchs publics standards, ils ont également = joué avec quelques matchs personnalisés. lls ont mélangé et essayé différentes combinaisons d'équipes, y compris deux contre quatre entre Astel et Kobo contre Fuma, Gamma, Rio et Axel. Ils ont fait cela parce qu'Astel était trop fort pour eux. Fidèles à cette affirmation, Astel et Kobo ont réussi à gagner une partie sur les deux qu'ils ont jouées dans ce format.",
+      "text": "En dehors des matchs publics standards, ils ont également joué avec quelques matchs personnalisés. Ils ont mélangé et essayé différentes combinaisons d'équipes, y compris deux contre quatre entre Astel et Kobo contre Fuma, Gamma, Rio et Axel. Ils ont fait cela parce qu'Astel était trop fort pour eux. Fidèles à cette affirmation, Astel et Kobo ont réussi à gagner une partie sur les deux qu'ils ont jouées dans ce format.",
       "bbox": {
         "x": 0.0431,
         "y": 0.3854,
@@ -33,6 +53,26 @@
         "y": 0.5247,
         "width": 0.445,
         "height": 0.0716
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloID",
+      "bbox": {
+        "x": 0.1157,
+        "y": 0.6151,
+        "width": 0.1329,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "holoID",
+      "bbox": {
+        "x": 0.2657,
+        "y": 0.6151,
+        "width": 0.0786,
+        "height": 0.0188
       }
     },
     {
@@ -56,6 +96,26 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Kobo",
+      "bbox": {
+        "x": 0.1157,
+        "y": 0.7937,
+        "width": 0.0971,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "h3roes",
+      "bbox": {
+        "x": 0.2257,
+        "y": 0.7956,
+        "width": 0.0786,
+        "height": 0.0188
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Kobo a essayé de faire un round uniquement en anglais dans son stream Cuphead dans le cadre d'un défi de stream. Elle n'a tenu qu'une phrase avant de revenir à l'indonésien et n'a réalisé sa folie qu'en mettant fin à la partie. Typique de Kobo.",
       "bbox": {
@@ -67,17 +127,27 @@
     },
     {
       "type": "heading",
-      "text": "zakorant",
+      "text": "Valorant",
       "bbox": {
-        "x": 0.6369,
-        "y": 0.0877,
-        "width": 0.1931,
-        "height": 0.0234
+        "x": 0.6643,
+        "y": 0.1766,
+        "width": 0.1729,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS\nh3roes",
+      "bbox": {
+        "x": 0.8571,
+        "y": 0.1726,
+        "width": 0.0771,
+        "height": 0.0377
       }
     },
     {
       "type": "paragraph",
-      "text": "LD Astel jouait a VALORANT dans un lobby classé au milieu de la nuit pour passer le temps, car il avait un cours de danse le matin. Soudain, Kobo a débarqué de nulle part. Elle a dit qu'elle venait de se réveiller et qu'elle l'avait vu jouer, alors elle a décidé de le rejoindre.",
+      "text": "Astel jouait à VALORANT dans un lobby classé au milieu de la nuit pour passer le temps, car il avait un cours de danse le matin. Soudain, Kobo a débarqué de nulle part. Elle a dit qu'elle venait de se réveiller et qu'elle l'avait vu jouer, alors elle a décidé de le rejoindre.",
       "bbox": {
         "x": 0.5113,
         "y": 0.1966,
@@ -93,6 +163,26 @@
         "y": 0.3151,
         "width": 0.4456,
         "height": 0.1701
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloID",
+      "bbox": {
+        "x": 0.6529,
+        "y": 0.506,
+        "width": 0.1314,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "Area15",
+      "bbox": {
+        "x": 0.7929,
+        "y": 0.5069,
+        "width": 0.0814,
+        "height": 0.0188
       }
     },
     {

@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_1107_-_1707",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "YATOGAMI FUMA",
+      "bbox": {
+        "x": 0.4677,
+        "y": 0.2692,
+        "width": 0.0785,
+        "height": 0.4733
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Une heure avant le 13 juillet, Fuma a démarré un stream pour faire un compte a rebours avant son anniversaire. Au début du stream, il est arrivé en souriant et en étant extraordinairement musclé. Ses camarades d'UPROAR!! étaient présents dans le tchat, très confus face a cette version musclée de Fuma.",
+      "text": "Une heure avant le 13 juillet, Fuma a démarré un stream pour faire un compte à rebours avant son anniversaire. Au début du stream, il est arrivé en souriant et en étant extraordinairement musclé. Ses camarades d'UPROAR!! étaient présents dans le tchat, très confus face à cette version musclée de Fuma.",
       "bbox": {
         "x": 0.0956,
         "y": 0.1177,
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La célébration de son anniversaire s'est poursuivie plus tard dans la nuit avec un stream spécial anniversaire. La stream a commencé avec une page de pub, qui comportait Fuma, Fuma, Fuma et Fuma. Beaucoup de Fumas. Il est ensuite apparu a l'écran, entièrement préparé avec des gateaux, des . dorayaki, des boissons, ainsi qu'un grand couteau pour couper le gateau.",
+      "text": "La célébration de son anniversaire s'est poursuivie plus tard dans la nuit avec un stream spécial anniversaire. La stream a commencé avec une page de pub, qui comportait Fuma, Fuma, Fuma et Fuma. Beaucoup de Fumas. Il est ensuite apparu à l'écran, entièrement préparé avec des gâteaux, des dorayaki, des boissons, ainsi qu'un grand couteau pour couper le gâteau.",
       "bbox": {
         "x": 0.6417,
         "y": 0.3067,
@@ -57,22 +67,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Fuma a ensuite montré les cadeaux qu'il a reçus, comme les illustrations",
+      "text": "Fuma a ensuite montré les cadeaux qu'il a reçus, comme les illustrations de Gamma et d'Ollie.",
       "bbox": {
         "x": 0.2378,
         "y": 0.8117,
-        "width": 0.6611,
-        "height": 0.0123
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "de Gamma et d'Ollie.",
-      "bbox": {
-        "x": 0.7172,
-        "y": 0.8252,
-        "width": 0.1867,
-        "height": 0.01
+        "width": 0.6661,
+        "height": 0.0235
       }
     },
     {
@@ -87,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Joyeux anniversaire, Fuma",
+      "text": "Joyeux anniversaire, Fuma !",
       "bbox": {
         "x": 0.6478,
         "y": 0.8808,

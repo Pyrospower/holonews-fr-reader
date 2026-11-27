@@ -3,11 +3,11 @@
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 16,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "ee Tsukumo Sana Special Issue 4",
+      "type": "other",
+      "text": "Tsukumo Sana Special Issue",
       "bbox": {
         "x": 0.0794,
         "y": 0.0213,
@@ -27,122 +27,12 @@
     },
     {
       "type": "paragraph",
-      "text": "La lune, l'espace et le temps se sont réunis avec l'objectif de finir l'observatoire de Sana pour sa gui collaboration pré-graduation. endant la préparation, Kronil a pris les i",
+      "text": "La lune, l'espace et le temps se sont réunis avec l'objectif de finir l'observatoire de Sana pour sa quinzième collaboration pré-graduation. Pendant la préparation, Kronii a pris les fesses du Sanalite pour une référence à Among Us, ce qui a bien fait rire Sana. Après avoir rassemblé les ressources, elles ont lentement construit les murs de verre parsemés de pierres lumineuses pour représenter les étoiles du ciel nocturne. Après presque trois heures de construction, c'était enfin terminé. Elles ont pris des captures d'écran avec une éclipse lunaire et la tour de Sana en arrière-plan dans la nuit. Après le lever du soleil, Moona a emmené les deux autres dans le serveur ID. Tous deux ont été hypnotisés par les structures organisées, l'esthétique définie et la technologie étonnante de la ville. Sana les a remerciés de l'avoir aidée à terminer la tour et a souhaité rester sur le serveur ID. Son observatoire restera là pour toujours, brillant de la lumière toujours éclatante des étoiles.",
       "bbox": {
-        "x": 0.095,
+        "x": 0.0931,
         "y": 0.2422,
-        "width": 0.3588,
-        "height": 0.0755
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "fesses du Sanalite pour une référence a Among Us, ce qui a bien fait rire Sana. Apres avoir rassemblé les ressources, elles ont lentement construit les murs de verre parsemés de pierres lumineuses pour représenter les étoiles du ciel nocturne. Après presque trois heures de construction, c'était enfin terminé. Elles ont pris des captures d'écran avec une éclipse lunaire et la tour de Sana en arrière-plan dans la nuit. Après le lever du soleil, Moona a emmené les deux autres dans le serveur ID. Tous deux ont été hypnotisés par les structures organisées, l'esthétique définie et la technologie étonnante de la ville. Sana les a remerciés de l'avoir aidée à terminer la tour et a souhaité rester sur le serveur ID. Son observatoire restera là pour toujours, brillant de la lumière toujours éclatante des étoiles.",
-      "bbox": {
-        "x": 0.0931,
-        "y": 0.3069,
         "width": 0.3656,
-        "height": 0.2747
-      }
-    },
-    {
-      "type": "heading",
-      "text": "#17 Sana & Kanata",
-      "bbox": {
-        "x": 0.0931,
-        "y": 0.6011,
-        "width": 0.3831,
-        "height": 0.0213
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Sana et Kanata ont organisé un Space",
-      "bbox": {
-        "x": 0.095,
-        "y": 0.7157,
-        "width": 0.3213,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Twitter sur le compte de Kanata. C'était la",
-      "bbox": {
-        "x": 0.0944,
-        "y": 0.7287,
-        "width": 0.3531,
-        "height": 0.0135
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "dernière et dix-septième collaboration pré-graduation de Sana. Sana-a dit qu'elle lisait",
-      "bbox": {
-        "x": 0.0944,
-        "y": 0.7418,
-        "width": 0.3662,
-        "height": 0.0269
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "souvent le nom de Kanata comme « katana », et Kanata a révélé que la chaîne",
-      "bbox": {
-        "x": 0.095,
-        "y": 0.7682,
-        "width": 0.3644,
-        "height": 0.026
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "officielle d'hololive avait mal orthographié",
-      "bbox": {
-        "x": 0.095,
-        "y": 0.7938,
-        "width": 0.3544,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "son nom comme Amane Katana une fois.",
-      "bbox": {
-        "x": 0.095,
-        "y": 0.8073,
-        "width": 0.3513,
-        "height": 0.0104
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Elles ont parlé de chiens et de ce qu'elles",
-      "bbox": {
-        "x": 0.0956,
-        "y": 0.8199,
-        "width": 0.345,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "_ pensaient des différentes races et se sont ~~ promis de sortir ensemble pos manger du tonkatsu un jour. Après la fin de",
-      "bbox": {
-        "x": 0.0581,
-        "y": 0.8329,
-        "width": 0.3913,
-        "height": 0.0395
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "l'Espace, Kanata a tweeté en disant qu'elle répondrait immédiatement aux messages _ privées de Sana à l'avenir et a partagé u'elle aurait dû être plus courageuse et parler à Sana plus tôt.",
-      "bbox": {
-        "x": 0.0856,
-        "y": 0.872,
-        "width": 0.3675,
-        "height": 0.066
+        "height": 0.3394
       }
     },
     {
@@ -157,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le stream VRChat tant attendu, le « Beegsmol » CouncIRyS a eu lieu le 20 juillet, et était la seizième collaboration pré-graduation de Sana. Les modèles ont été conçus par Sana et modélisés par Seafoamboi, qui a également modélisé les modèles smol de Myth. Ils ont commencé le stream par une réunion du Council, qui tenaient un procès contre IRyS, accusé d'avoir assassiné le Père Noël. Après le procès, elles sont allées dehors, où il y avait un terrain de basket, une aire de jeux et une zone de rafraîchissement avec un jukebox ui jouait les versions instrumentales des chansons originales du Council.",
+      "text": "Le stream VRChat tant attendu, le « Beegsmol » CouncIRyS a eu lieu le 20 juillet, et était la seizième collaboration pré-graduation de Sana. Les modèles ont été conçus par Sana et modélisés par Seafoamboi, qui a également modélisé les modèles smol de Myth. Ils ont commencé le stream par une réunion du Council, qui tenaient un procès contre IRyS, accusé d'avoir assassiné le Père Noël. Après le procès, elles sont allées dehors, où il y avait un terrain de basket, une aire de jeux et une zone de rafraîchissement avec un jukebox qui jouait les versions instrumentales des chansons originales du Council.",
       "bbox": {
         "x": 0.5381,
         "y": 0.3056,
@@ -167,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elles ont joué un peu, puis ont été téléportées sur une scéne ressemblant a une piece de théatre scolaire, avec six étoiles représentant chaque membre dans le ciel. Elles ont commencé a chanter « Secret Base », une chanson qui parle de se souvenir des bons moments, quelque chose que les filles n'oublieront sûrement jamais. Une fois la chanson terminée, les filles ont organisé une séance de photos sur la scène, ont fait un dernier au revoir à Sana, et ont terminé le stream en annonçant la sortie de produits dérivés Smol dans le futur. Au générique, elles ont remercié Ame, Henma et les autres personnes qui ont fait de ce projet une réalité, avec une interprétation au piano d'« Astrogirl » comme musique de fond. Amelia Watson",
+      "text": "Elles ont joué un peu, puis ont été téléportées sur une scène ressemblant à une pièce de théâtre scolaire, avec six étoiles représentant chaque membre dans le ciel. Elles ont commencé à chanter « Secret Base », une chanson qui parle de se souvenir des bons moments, quelque chose que les filles n'oublieront sûrement jamais. Une fois la chanson terminée, les filles ont organisé une séance de photos sur la scène, ont fait un dernier au revoir à Sana, et ont terminé le stream en annonçant la sortie de produits dérivés Smol dans le futur. Au générique, elles ont remercié Ame, Henma et les autres personnes qui ont fait de ce projet une réalité, avec une interprétation au piano d'« Astrogirl » comme musique de fond.",
       "bbox": {
         "x": 0.5381,
         "y": 0.602,
@@ -176,33 +66,33 @@
       }
     },
     {
-      "type": "other",
-      "text": "Project Assistance",
+      "type": "heading",
+      "text": "#17 Sana & Kanata",
       "bbox": {
-        "x": 0.6363,
-        "y": 0.8589,
-        "width": 0.0738,
-        "height": 0.0061
+        "x": 0.0931,
+        "y": 0.6011,
+        "width": 0.3831,
+        "height": 0.0213
       }
     },
     {
       "type": "paragraph",
-      "text": "Project Manager | Henma",
+      "text": "Sana et Kanata ont organisé un Space Twitter sur le compte de Kanata. C'était la dernière et dix-septième collaboration pré-graduation de Sana. Sana a dit qu'elle lisait souvent le nom de Kanata comme « katana », et Kanata a révélé que la chaîne officielle d’hololive avait mal orthographié son nom comme Amane Katana une fois. Elles ont parlé de chiens et de ce qu'elles pensaient des différentes races et se sont promis de sortir ensemble pour manger du tonkatsu un jour. Après la fin de l’Espace, Kanata a tweeté en disant qu'elle répondrait immédiatement aux messages privées de Sana à l'avenir et a partagé qu'elle aurait dû être plus courageuse et parler à Sana plus tôt.",
       "bbox": {
-        "x": 0.645,
-        "y": 0.8876,
-        "width": 0.1113,
-        "height": 0.0061
+        "x": 0.0581,
+        "y": 0.7157,
+        "width": 0.4025,
+        "height": 0.2223
       }
     },
     {
       "type": "other",
-      "text": "Our Astrogirl Sana",
+      "text": "Collaborations : Page 5",
       "bbox": {
-        "x": 0.6725,
-        "y": 0.9314,
-        "width": 0.095,
-        "height": 0.0065
+        "x": 0.4108,
+        "y": 0.9594,
+        "width": 0.1769,
+        "height": 0.016
       }
     }
   ],

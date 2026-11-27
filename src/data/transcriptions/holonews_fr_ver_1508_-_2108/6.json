@@ -3,8 +3,48 @@
   "issueId": "holonews_fr_ver_1508_-_2108",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "other",
+      "text": "Attention : le bas de la chemise peut se détacher - risque d’étouffement.",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.0985,
+        "width": 0.0294,
+        "height": 0.666
+      }
+    },
+    {
+      "type": "other",
+      "text": "3 accessoires différents + Nouvelle coupe de cheveux \"bob\" !",
+      "bbox": {
+        "x": 0.9494,
+        "y": 0.0985,
+        "width": 0.025,
+        "height": 0.5885
+      }
+    },
+    {
+      "type": "other",
+      "text": "original illust sticker!",
+      "bbox": {
+        "x": 0.6213,
+        "y": 0.1788,
+        "width": 0.195,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "other",
+      "text": "003",
+      "bbox": {
+        "x": 0.0313,
+        "y": 0.7695,
+        "width": 0.3,
+        "height": 0.0833
+      }
+    },
     {
       "type": "heading",
       "text": "Shirogane Noel : Version étudiante",
@@ -16,7 +56,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "hololive gen3",
       "bbox": {
         "x": 0.0388,
@@ -26,8 +66,8 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Mama & Papa 5 fllustestion par Watao Animé par FELUCCA",
+      "type": "other",
+      "text": "Mama & Papa :\nIllustration par Watao\nAnimé par FELUCCA",
       "bbox": {
         "x": 0.055,
         "y": 0.9553,

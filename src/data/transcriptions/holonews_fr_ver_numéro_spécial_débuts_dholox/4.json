@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Takane Lui",
+      "bbox": {
+        "x": 0.1844,
+        "y": 0.0933,
+        "width": 0.1381,
+        "height": 0.0165
+      }
+    },
     {
       "type": "paragraph",
       "text": "Takane Lui a fait ses débuts ! Elle a fait quelques erreurs et ne s'en est pas tenue à son script, mais le reste s'est déroulé sans encombre. Lui s’est présentée comme la générale classe et compétente d’holoX, absolument pas une personne maladroite. Lui a révélé qu’elle pouvait parler un peu un peu anglais et thaï, provoquant l'apparition de nombreux fans thaïlandais dans le tchat.",
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Elle a aussi présenté son compagnon, Gamou. D'après sa description, « il veille sur 'empotée quest Lui ». Elle a précisé que cette description avait été écrite par Gamou.",
+      "text": "Elle a aussi présenté son compagnon, Gamou. D’après sa description, « il veille sur l’empotée qu’est Lui ». Elle a précisé que cette description avait été écrite par Gamou.",
       "bbox": {
         "x": 0.0394,
         "y": 0.3333,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Après ça, Lui a parlé de ses nombreux centres d'intérêt, tels que les romans policiers ou les jeux de drague. Elle a aussi parlé de sa passion pour les frères et sœurs, en particulier les jumeaux. Elle a ensuite fait la liste des choses qu’elle n'aime pas, parmi lesquelles les jeux d'horreur. Après ça, elle a parlé de sa maman Kakage-sensei et de son papa Rariemonn.",
+      "text": "Après ça, Lui a parlé de ses nombreux centres d'intérêt, tels que les romans policiers ou les jeux de drague. Elle a aussi parlé de sa passion pour les frères et sœurs, en particulier les jumeaux. Elle a ensuite fait la liste des choses qu’elle n'aime pas, parmi lesquelles les jeux d’horreur. Après ça, elle a parlé de sa maman Kakage-sensei et de son papa Rariemonn.",
       "bbox": {
         "x": 0.0381,
         "y": 0.4375,
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le nom officiel de ses fans est LuiTomo, et son émoji est une fleur fanée : 4",
+      "text": "Le nom officiel de ses fans est LuiTomo, et son émoji est une fleur fanée : 🥀",
       "bbox": {
         "x": 0.5375,
         "y": 0.6419,
@@ -47,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Plus tard, elle a décrit l’arbre généalogique d’holoX, notamment en plaçant La+ comme la benjamine. Lui a ensuite fait une séance photo de son modèle, révélant deux paires de lunettes ainsi qu’un mode « yeux de faucon ». Il y a aussi eu une séance photo pour Gamou, montrant qu’il était capable de faire des clins d'œil ! Pour finir, elle a chanté quelques chansons et a demandé à tout le monde d'aller voir sa reprise de « EYE », qui a été publiée quelques minutes après la fin du stream. Elle a terminé avec sa phrase d'au revoir, « OtsuLuiLui ».",
+      "text": "Plus tard, elle a décrit l’arbre généalogique d’holoX, notamment en plaçant La+ comme la benjamine. Lui a ensuite fait une séance photo de son modèle, révélant deux paires de lunettes ainsi qu’un mode « yeux de faucon ». Il y a aussi eu une séance photo pour Gamou, montrant qu’il était capable de faire des clins d'œil ! Pour finir, elle a chanté quelques chansons et a demandé à tout le monde d’aller voir sa reprise de « EYE », qui a été publiée quelques minutes après la fin du stream. Elle a terminé avec sa phrase d'au revoir, « OtsuLuiLui ».",
       "bbox": {
         "x": 0.5375,
         "y": 0.7114,

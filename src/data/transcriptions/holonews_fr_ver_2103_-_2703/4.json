@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_2103_-_2703",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Tsunomaki Watame",
+      "bbox": {
+        "x": 0.033,
+        "y": 0.025,
+        "width": 0.5,
+        "height": 0.091
+      }
+    },
     {
       "type": "paragraph",
       "text": "Watame est devenue encore plus douce !",
@@ -17,7 +27,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Dans sa nouvelle tenue décontractée, elle porte maintenant des chaussons en forme de mouton, une veste bleu ciel a froufrous, une robe blanche et un chignon rebondi !",
+      "text": "Dans sa nouvelle tenue décontractée, elle porte maintenant des chaussons en forme de mouton, une veste bleu ciel à froufrous, une robe blanche et un chignon rebondi !",
       "bbox": {
         "x": 0.0789,
         "y": 0.7932,
@@ -67,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Cette fois-ci, c'est une peluche « SUPER GRANDE » de 50x39x30 cm qui sera vendue. La peluche est à l'effigie de Watame dans sa nouvelle tenue, et elle possède même sa che dinosaure ! Bien sûr, il est tout à fait possible de retirer la capuche.",
+      "text": "Cette fois-ci, c'est une peluche « SUPER GRANDE » de 50x39x30 cm qui sera vendue. La peluche est à l'effigie de Watame dans sa nouvelle tenue, et elle possède même sa capuche dinosaure ! Bien sûr, il est tout à fait possible de retirer la capuche.",
       "bbox": {
         "x": 0.5761,
         "y": 0.7836,

@@ -3,20 +3,10 @@
   "issueId": "holonews_fr_holostars_-tempus-_debut_special",
   "page": 1,
   "lang": "fr",
-  "status": "unavailable",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "heading",
-      "text": "HOLONEWS",
-      "bbox": {
-        "x": 0.0238,
-        "y": 0.0208,
-        "width": 0.9525,
-        "height": 0.1415
-      }
-    },
-    {
-      "type": "paragraph",
+      "type": "other",
       "text": "Magazine hebdomadaire d'actualités",
       "bbox": {
         "x": 0.0263,
@@ -26,23 +16,53 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Illustrati",
+      "type": "other",
+      "text": "Illustration par : @Esojiros",
       "bbox": {
-        "x": 0.7581,
-        "y": 0.1359,
-        "width": 0.0638,
-        "height": 0.0091
+        "x": 0.7561,
+        "y": 0.1347,
+        "width": 0.2182,
+        "height": 0.0116
       }
     },
     {
-      "type": "paragraph",
-      "text": "on par : @Esojiros IT = Ÿ /",
+      "type": "heading",
+      "text": "Magni Dezmond",
       "bbox": {
-        "x": 0.8194,
-        "y": 0.1359,
-        "width": 0.1694,
-        "height": 0.0621
+        "x": 0.1121,
+        "y": 0.2989,
+        "width": 0.2394,
+        "height": 0.0653
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Regis Altare",
+      "bbox": {
+        "x": 0.503,
+        "y": 0.2821,
+        "width": 0.1636,
+        "height": 0.0853
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Axel Syrios",
+      "bbox": {
+        "x": 0.7712,
+        "y": 0.2463,
+        "width": 0.2227,
+        "height": 0.0968
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Noir Vesper",
+      "bbox": {
+        "x": 0.3485,
+        "y": 0.5726,
+        "width": 0.2242,
+        "height": 0.0979
       }
     },
     {

@@ -3,136 +3,136 @@
   "issueId": "holonews_fr_ver_1402_-_2002",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Pendant que certains membres d'hololive",
+      "type": "heading",
+      "text": "GEN 2",
       "bbox": {
-        "x": 0.0513,
-        "y": 0.2409,
-        "width": 0.3925,
-        "height": 0.0143
+        "x": 0.1809,
+        "y": 0.0337,
+        "width": 0.1706,
+        "height": 0.0347
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.1951,
+        "width": 0.1706,
+        "height": 0.0286
       }
     },
     {
       "type": "paragraph",
-      "text": "Ayame a invité Towa à jouer à Valorant avec",
+      "text": "Pendant que certains membres d'hololive diffusaient des streams ASMR, faisaient du chocolat ou chantaient à l'occasion de la Saint-Valentin, Subaru a étudié la voie de la saucisse et a essayé Sausage Legends 2, la suite d'un jeu mobile qu'elle adore. Elle a joué au mode campagne tout en découvrant l'histoire du jeu et en faisant quelques tirages au passage.",
       "bbox": {
-        "x": 0.5213,
+        "x": 0.0485,
+        "y": 0.239,
+        "width": 0.4353,
+        "height": 0.1236
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ayame",
+      "bbox": {
+        "x": 0.6294,
+        "y": 0.1961,
+        "width": 0.1544,
+        "height": 0.0296
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ayame a invité Towa à jouer à Valorant avec elle. Elle a avoué qu'elle avait de l’appréhension avant d'inviter Towa, mais après un mois, Ayame a finalement trouvé le courage de le faire. Towa a accepté l'invitation, bien que choquée que ce soit Ayame qui en soit à l'origine. Le stream était très mignon.",
+      "bbox": {
+        "x": 0.5206,
         "y": 0.237,
-        "width": 0.4269,
-        "height": 0.0182
+        "width": 0.4324,
+        "height": 0.1246
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.4995,
+        "width": 0.1221,
+        "height": 0.0306
       }
     },
     {
       "type": "paragraph",
-      "text": "diffusaient des streams ASMR, faisaient du elle. Elle a avoué qu'elle avait de chocolat ou chantaient à l'occasion de la l’appréhension avant d'inviter Towa, mais Saint-Valentin, Subaru a étudié la voie de la après un mois, Ayame a finalement trouvé le",
+      "text": "Aqua est de retour sur Minecraft pour reprendre son entreprise des mains de ses juniors Nene et Gura. Elle veut se vanter d'être le vrai PDG et les pousser à la capitulation. Soutenons le vrai PDG de l'Akukin Kensetsu !",
+      "bbox": {
+        "x": 0.0485,
+        "y": 0.5424,
+        "width": 0.4294,
+        "height": 0.097
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.6324,
+        "y": 0.4985,
+        "width": 0.1382,
+        "height": 0.0306
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a annoncé la sortie de son premier livre de recettes, Cooking With Choco ~Devilish Recipe Without Fire~, le 17 février. Les recettes présentées ont été vues pour la première fois sur ses streams de cuisine, et des commentaires de Subaru et Luna sont également inclus !",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.5444,
+        "width": 0.4338,
+        "height": 0.0991
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.7804,
+        "width": 0.1412,
+        "height": 0.0306
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a commissionné un dessin à Fumihiko et l'a montré en stream. Nous avons seulement vu la deuxième version du dessin car la direction a jugé l'original trop obscène et a poussé Fumihiko à le modifier. Choco a été époustouflée par les talents de Fumihiko. L'œuvre a été réalisée en quelques esquisses et la différence de qualité entre la dernière esquisse et la version finale était énorme.",
       "bbox": {
         "x": 0.0506,
-        "y": 0.2543,
-        "width": 0.8956,
-        "height": 0.046
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "saucisse et a essayé Sausage Legends 2, la ; 4 suite d'un jeu oi qu'elle adore. Elle a joué I courage de le faire. Towa a accepté",
-      "bbox": {
-        "x": 0.0506,
-        "y": 0.2943,
-        "width": 0.8494,
-        "height": 0.0282
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "au mode campagne tout en découvrant l'invitation, bien que choquée que ce soit l'histoire du jeu et en faisant quelques tirages | Ayame qui en soit à l'origine. Le stream était au passage. très mignon.",
-      "bbox": {
-        "x": 0.0506,
-        "y": 0.3173,
-        "width": 0.8925,
-        "height": 0.0456
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Aqua est de retour sur Minecraft pour Choco a annoncé la sortie de son premier reprendre son entreprise des mains de ses livre de recettes, Cooking With Choco =~ juniors Nene et Gura. Elle veut se vanter ~Devilish Recipe Without Fire~, le 17 février. d'étre le vrai PDG et les pousser a la Les recettes présentées ont été vues pour la",
-      "bbox": {
-        "x": 0.0494,
-        "y": 0.5438,
-        "width": 0.8969,
-        "height": 0.0634
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": ": ; : capitulation. Soutenons le vrai PDG de",
-      "bbox": {
-        "x": 0.0506,
-        "y": 0.6081,
-        "width": 0.3819,
-        "height": 0.0152
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "I'Akukin Kensetsu !",
-      "bbox": {
-        "x": 0.0513,
-        "y": 0.6241,
-        "width": 0.1844,
-        "height": 0.0117
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "a Choco a commissionné un dessin à Fumihiko et l'a montré en stream. Nous avons seulement vu la deuxième version du dessin car la direction a jugé l'original ey obscene et a poussé Fumihiko a le modifier Choco a été époustouflée par les talents de Fumihiko. L'œuvre a été réalisée en quelques esquisses et la différence de qualité entre la dernière esquisse et la",
-      "bbox": {
-        "x": 0.0513,
         "y": 0.7075,
-        "width": 0.4169,
-        "height": 0.2452
+        "width": 0.4176,
+        "height": 0.2565
       }
     },
     {
-      "type": "paragraph",
-      "text": "version finale était énorme.",
+      "type": "heading",
+      "text": "Aqua",
       "bbox": {
-        "x": 0.0506,
-        "y": 0.9523,
-        "width": 0.2556,
-        "height": 0.0117
+        "x": 0.6309,
+        "y": 0.7814,
+        "width": 0.1235,
+        "height": 0.0306
       }
     },
     {
       "type": "paragraph",
-      "text": "premiere fois sur ses streams de cuisine, et des commentaires de Subaru et Luna sont également inclus !",
-      "bbox": {
-        "x": 0.5225,
-        "y": 0.6016,
-        "width": 0.4138,
-        "height": 0.0425
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Lors d'un récent stream de cuisine, Aqua a réparé un gâteau au chocolat pour ‘anniversaire de Choco. Aqua a essayé de cuire le gateau aussi vite que possible en le faisant cuire a 300°C, car elle pensait que doubler la température accélérerait le rocessus. Le gâteau a fini par brûler à _ ‘extérieur, mais n'était toujours pas cuit à l'intérieur. Selon Aqua, il avait un goût de",
+      "text": "Lors d'un récent stream de cuisine, Aqua a préparé un gâteau au chocolat pour l'anniversaire de Choco. Aqua a essayé de cuire le gâteau aussi vite que possible en le faisant cuire à 300°C, car elle pensait que doubler la température accélérerait le processus. Le gâteau a fini par brûler à l'extérieur, mais n'était toujours pas cuit à l'intérieur. Selon Aqua, il avait un goût de « mélange de gâteaux crus ».",
       "bbox": {
         "x": 0.5219,
         "y": 0.8251,
         "width": 0.4138,
-        "height": 0.1276
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "« mélange de gâteaux crus ».",
-      "bbox": {
-        "x": 0.5225,
-        "y": 0.9505,
-        "width": 0.2813,
-        "height": 0.0143
+        "height": 0.1397
       }
     }
   ],

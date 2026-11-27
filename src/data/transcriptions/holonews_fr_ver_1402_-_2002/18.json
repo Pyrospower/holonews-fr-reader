@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_1402_-_2002",
   "page": 18,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "other",
+      "text": "Crescent Luminaries\nMoona Birthday Project 2022",
+      "bbox": {
+        "x": 0.0849,
+        "y": 0.1062,
+        "width": 0.3585,
+        "height": 0.0629
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le projet des fans pour l'anniversaire de Moona, Crescent Luminaries, a enfin publié les cadeaux d'anniversaire et ils l'ont montré sur Twitter. Ils ont aussi créé une video du projet sur leur chaîne Youtube, avec Moona elle-même présente durant la Première. Elle inclut la bande son de « You are the Moon » (Une chanson de fan dédié à Moona) et une cover d’« Ai no Chiisana Uta » par plus de vingt VTuber et de gros noms de la communauté. Ils avaient aussi des cadeaux de fans venant des quatre coins du monde, des lettres, des fanart, et même une peinture murale (qui a été envoyée par Cover). Les choses les plus farfelues qu’ils ont faites est de s'être procuré un message de joyeux anniversaire pour Moona de la part du comédien de doublage Indonésien de Bob l'éponge, de participer à un événement caritatif contre la faim, et d'adopter deux pingouins.",
+      "text": "Le projet des fans pour l’anniversaire de Moona, Crescent Luminaries, a enfin publié les cadeaux d’anniversaire et ils l’ont montré sur Twitter. Ils ont aussi créé une vidéo du projet sur leur chaîne Youtube, avec Moona elle-même présente durant la Première. Elle inclut la bande son de « You are the Moon » (Une chanson de fan dédié à Moona) et une cover d’« Ai no Chiisana Uta » par plus de vingt VTuber et de gros noms de la communauté. Ils avaient aussi des cadeaux de fans venant des quatre coins du monde, des lettres, des fanart, et même une peinture murale (qui a été envoyée par Cover). Les choses les plus farfelues qu’ils ont faites est de s’être procuré un message de joyeux anniversaire pour Moona de la part du comédien de doublage Indonésien de Bob l’éponge, de participer à un événement caritatif contre la faim, et d’adopter deux pingouins.",
       "bbox": {
         "x": 0.0556,
         "y": 0.2235,
@@ -27,7 +37,7 @@
     },
     {
       "type": "heading",
-      "text": "• LET'S PLAY *",
+      "text": "LET'S PLAY",
       "bbox": {
         "x": 0.1981,
         "y": 0.3989,
@@ -36,23 +46,23 @@
       }
     },
     {
-      "type": "heading",
-      "text": "4 ve LITTLE hie",
+      "type": "other",
+      "text": "LET'S PLAY TERMINÉS",
       "bbox": {
-        "x": 0.3525,
-        "y": 0.5117,
-        "width": 0.2669,
-        "height": 0.0747
+        "x": 0.8321,
+        "y": 0.3971,
+        "width": 0.1151,
+        "height": 0.0354
       }
     },
     {
       "type": "other",
-      "text": "HEAVEN BURNS RED",
+      "text": "Anime Studio Story | 2D Platformer GAME (Toy Factory) | GAME DEV STORY\nunpacking | LITTLE NIGHTMARES II | LIFE IS STRANGE\nMINECRAFT VR | it takes two | YASUHATI\nPOWERWASH SIMULATOR | DONKEY KONGA | ERROR\nTHE iDOLM@STER MILLION LIVE! THEATER DAYS | RAFT | Hatoful Boyfriend\nHUMAN Fall Flat | HOUSE FLIPPER | NEEDY STREAMER OVERLOAD\nMONOPOLY | hidden through time | HEAVEN BURNS RED",
       "bbox": {
-        "x": 0.8931,
-        "y": 0.9023,
-        "width": 0.0525,
-        "height": 0.0265
+        "x": 0.1358,
+        "y": 0.4587,
+        "width": 0.8264,
+        "height": 0.4784
       }
     }
   ],

@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_2803_-_0304",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 1",
+      "bbox": {
+        "x": 0.44,
+        "y": 0.0174,
+        "width": 0.1231,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mel",
+      "bbox": {
+        "x": 0.1625,
+        "y": 0.1788,
+        "width": 0.06,
+        "height": 0.0195
+      }
+    },
     {
       "type": "paragraph",
       "text": "Cette semaine, dans le segment MelMel News de son stream, Mel a publié une interview écrite d'Ollie sur le fait d'atteindre un million d'abonnés. Mel a demandé à Ollie quels étaient ses projets et ses objectifs futurs, ce à quoi elle a répondu qu'elle voulait chanter avec tous les membres d'holopro et qu'elle voulait se produire sur scène en 3D. Dans la partie suivante, Mel a improvisé des situations et lu des répliques suggérées par le public. À ce moment-là, YouTube a eu des problèmes pour charger le stream et Mel a improvisé une situation avec YouTube-kun. Ces segments font partie de la nouvelle série de stream de Mel, qu'on peut retrouver tous les jeudis.",
@@ -16,13 +36,33 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.1788,
+        "width": 0.11,
+        "height": 0.0195
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 31 mars, notre cher Fubuki a interviewé Jared Leto, l'acteur qui joue le rôle de Morbius dans le film du même nom, récemment sorti par Marvel Studios. Une Fubuki tendue a parlé pendant sept minutes, posant quatre questions à Leto. Il était manifestement intrigué par l'apparence inhabituelle de son interlocuteur, et Leto a fait plusieurs compliments à Fubuki. IN",
+      "text": "Le 31 mars, notre cher Fubuki a interviewé Jared Leto, l'acteur qui joue le rôle de Morbius dans le film du même nom, récemment sorti par Marvel Studios. Une Fubuki tendue a parlé pendant sept minutes, posant quatre questions à Leto. Il était manifestement intrigué par l'apparence inhabituelle de son interlocuteur, et Leto a fait plusieurs compliments à Fubuki.",
       "bbox": {
         "x": 0.5519,
         "y": 0.2161,
         "width": 0.3869,
         "height": 0.1541
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1638,
+        "y": 0.4844,
+        "width": 0.1713,
+        "height": 0.0187
       }
     },
     {
@@ -46,6 +86,16 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.1638,
+        "y": 0.7109,
+        "width": 0.0838,
+        "height": 0.0208
+      }
+    },
+    {
       "type": "paragraph",
       "text": "Aqua a publié la musique de fond qu'elle avait montré dans son dernier stream discussion. La vidéo est un animation en pixel d'elle même marchant au côté de son Neko. Si vous regardez assez longtemps, vous pouvez voir une armée de Neko arriver et marcher avec elle jusqu'à la fin.",
       "bbox": {
@@ -53,6 +103,16 @@
         "y": 0.7487,
         "width": 0.3875,
         "height": 0.1024
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.6425,
+        "y": 0.7109,
+        "width": 0.0838,
+        "height": 0.0208
       }
     },
     {

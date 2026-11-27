@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2211_-_2811",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.1611,
+        "y": 0.2431,
+        "width": 0.1167,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Astel a tenu un stream karaoké coupé en deux parties. La première partie était centrée sur des chansons énergiques et entraînantes, tandis que la seconde partie était composée de chansons émotionnelles. Durant la première partie, il a rappé sur « W.l.M. », un titre original d’Arurandeisu ; alors que dans la seconde partie, il a interprété un grand nombre de chansons de Vaundy et de Supercell.",
+      "text": "Astel a tenu un stream karaoké coupé en deux parties. La première partie était centrée sur des chansons énergiques et entraînantes, tandis que la seconde partie était composée de chansons émotionnelles. Durant la première partie, il a rappé sur « W.I.M. », un titre original d’Arurandeisu ; alors que dans la seconde partie, il a interprété un grand nombre de chansons de Vaundy et de Supercell.",
       "bbox": {
         "x": 0.05,
         "y": 0.2852,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Durant ce stream, il a mentionné avoir beaucoup pleuré pendant sa discussion avec l’équipe de management concernant ses futurs projets. Il a également ajouté qu'il allait prendre une pause pendant quelque temps après sa rencontre Apex avec lzuru et Odanobu (un VTuber indépendant).",
+      "text": "Durant ce stream, il a mentionné avoir beaucoup pleuré pendant sa discussion avec l’équipe de management concernant ses futurs projets. Il a également ajouté qu’il allait prendre une pause pendant quelque temps après sa rencontre Apex avec Izuru et Odanobu (un VTuber indépendant).",
       "bbox": {
         "x": 0.05,
         "y": 0.457,
@@ -36,18 +46,28 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Shien a fait de l'ASMR avec un micro conçu à cet effet, et a donné l’ancien à Miyabi. Pendant le stream, Shien se comportait pour une fois de façon appropriée, lorsqu'il s'est mis a donner des répliques de doublage et à jouer du kalimba. Il se mit ensuite à faire des bruits plus que douteux durant l'heure qui suivit.",
+      "type": "other",
+      "text": "zzz",
       "bbox": {
-        "x": 0.0531,
-        "y": 0.8255,
-        "width": 0.4163,
-        "height": 0.0998
+        "x": 0.7667,
+        "y": 0.1363,
+        "width": 0.1259,
+        "height": 0.0231
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Temma",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.2431,
+        "width": 0.1722,
+        "height": 0.027
       }
     },
     {
       "type": "paragraph",
-      "text": "Temma comptait faire une collab avec Miyabi de 14h à 18h JST, mais Miyabi ne s'étant pas réveillé à temps, Temma a lancé son stream seul et a demandé aux gens de venir I'encourager. Durant l'attente, il a appelé Miyabi « senpai » et « Hanasaki-san », chose qu'il ne fait pas souvent. Miyabi s’est enfin montré après 30 minutes d'attente et Temma a finalement eu sa collab avec lui.",
+      "text": "Temma comptait faire une collab avec Miyabi de 14h à 18h JST, mais Miyabi ne s'étant pas réveillé à temps, Temma a lancé son stream seul et a demandé aux gens de venir l’encourager. Durant l’attente, il a appelé Miyabi « senpai » et « Hanasaki-san », chose qu’il ne fait pas souvent. Miyabi s’est enfin montré après 30 minutes d’attente et Temma a finalement eu sa collab avec lui.",
       "bbox": {
         "x": 0.5219,
         "y": 0.2856,
@@ -66,8 +86,48 @@
       }
     },
     {
+      "type": "heading",
+      "text": "MAFIA",
+      "bbox": {
+        "x": 0.1426,
+        "y": 0.607,
+        "width": 0.187,
+        "height": 0.0296
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.1611,
+        "y": 0.7767,
+        "width": 0.1296,
+        "height": 0.027
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Oga a visionné Venom en stream avec ses spectateurs, tout en faisant de l'ASMR. On avait vraiment l'impression qui se trouvait derrière nous, et il a même évoqué des films Spiderman.",
+      "text": "Shien a fait de l’ASMR avec un micro conçu à cet effet, et a donné l’ancien à Miyabi. Pendant le stream, Shien se comportait pour une fois de façon appropriée, lorsqu’il s’est mis à donner des répliques de doublage et à jouer du kalimba. Il se mit ensuite à faire des bruits plus que douteux durant l’heure qui suivit.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.8255,
+        "width": 0.4163,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Oga",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.7793,
+        "width": 0.0833,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Oga a visionné Venom en stream avec ses spectateurs, tout en faisant de l’ASMR. On avait vraiment l’impression qui se trouvait derrière nous, et il a même évoqué des films Spiderman.",
       "bbox": {
         "x": 0.5256,
         "y": 0.8338,

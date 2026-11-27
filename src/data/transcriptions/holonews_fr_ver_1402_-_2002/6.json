@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_1402_-_2002",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 0",
+      "bbox": {
+        "x": 0.1853,
+        "y": 0.0296,
+        "width": 0.1706,
+        "height": 0.0327
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1618,
+        "y": 0.2033,
+        "width": 0.1426,
+        "height": 0.0286
+      }
+    },
     {
       "type": "paragraph",
       "text": "Pour la Saint-Valentin, Suisei s’est donnée à fond et a fait un gâteau au chocolat en forme de cœur pour ses fans dans Cooking Simulator. Mais sur le chemin du succès, elle a remué le chocolat fondu avec un couteau, brûlé deux gâteaux et fait exploser sa cuisine.",
@@ -13,6 +33,46 @@
         "y": 0.2439,
         "width": 0.4125,
         "height": 0.0864
+      }
+    },
+    {
+      "type": "heading",
+      "text": "AZKi",
+      "bbox": {
+        "x": 0.6309,
+        "y": 0.2022,
+        "width": 0.1191,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vendredi dernier, AZKi a fait le show en chantant 11 chansons, dont sa dernière reprise et ses deux dernières chansons originales. Elle a lu les Super Chats en zoomant sur son visage pour faire plaisir à ses fans.",
+      "bbox": {
+        "x": 0.5331,
+        "y": 0.2439,
+        "width": 0.4181,
+        "height": 0.0877
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GEN 1",
+      "bbox": {
+        "x": 0.1897,
+        "y": 0.3596,
+        "width": 0.1588,
+        "height": 0.0327
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.5312,
+        "width": 0.2456,
+        "height": 0.0306
       }
     },
     {
@@ -27,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Haachama a organisé un autre « Dirty Room Tour » et a demandé à ses fans d'envoyer les photos les plus sales de leurs chambres. La vedette de cet événement était un VTuber nommé « Nanashi no Zombie » ; (@SCP_30390_JP_J) dont la chambre était remplie d'une montagne dordures etde tellement de cartons que le sol n'était pas visible.",
+      "text": "Haachama a organisé un autre « Dirty Room Tour » et a demandé à ses fans d'envoyer les photos les plus sales de leurs chambres. La vedette de cet événement était un VTuber nommé « Nanashi no Zombie » (@SCP_30390_JP_J) dont la chambre était remplie d'une montagne d'ordures et de tellement de cartons que le sol n'était pas visible.",
       "bbox": {
         "x": 0.0519,
         "y": 0.6901,
@@ -46,18 +106,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Vendredi dernier, AZKi a fait le show en chantant 11 chansons, dont sa dernière reprise et ses deux dernières chansons originales. Elle a lu les Super Chats en zoomant sur son visage pour faire plaisir à ses fans.",
+      "type": "heading",
+      "text": "Haachama",
       "bbox": {
-        "x": 0.5331,
-        "y": 0.2439,
-        "width": 0.4181,
-        "height": 0.0877
+        "x": 0.6324,
+        "y": 0.5301,
+        "width": 0.25,
+        "height": 0.0317
       }
     },
     {
       "type": "paragraph",
-      "text": "Haachama a commencé son arc d'entraînement pour battre Hoe eemachi Suisei à Tetris. Elle est très déterminée à atteindre son objectif et ne réactivera pas sa monétisation tant qu'elle n'aura pas battu Hoeeemachi Suisei.",
+      "text": "Haachama a commencé son arc d'entraînement pour battre Ho●●●machi Suisei à Tetris. Elle est très déterminée à atteindre son objectif et ne réactivera pas sa monétisation tant qu'elle n'aura pas battu Ho●●●machi Suisei.",
       "bbox": {
         "x": 0.5256,
         "y": 0.5773,
@@ -66,8 +126,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.6324,
+        "y": 0.7865,
+        "width": 0.1912,
+        "height": 0.0286
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Dans un stream la veille d'une rencontre de fans, Matsuri a raconté ce qui s'est passe lors de sa derniere rencontre de fans. Elle a demandé a un certain fan de lui avouer son amour, mais malheureusement, ce dernier a dit qu'il préférait Shion. Matsuri espère que le contraire se produira lors de la prochaine rencontre de fans.",
+      "text": "Dans un stream la veille d'une rencontre de fans, Matsuri a raconté ce qui s'est passé lors de sa dernière rencontre de fans. Elle a demandé à un certain fan de lui avouer son amour, mais malheureusement, ce dernier a dit qu’il préférait Shion. Matsuri espère que le contraire se produira lors de la prochaine rencontre de fans.",
       "bbox": {
         "x": 0.5244,
         "y": 0.8273,

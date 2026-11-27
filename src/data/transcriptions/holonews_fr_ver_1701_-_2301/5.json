@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_1701_-_2301",
   "page": 5,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Yagoo sur Holotalk",
+      "bbox": {
+        "x": 0.068,
+        "y": 0.366,
+        "width": 0.595,
+        "height": 0.138
+      }
+    },
     {
       "type": "paragraph",
       "text": "Dans le très attendu 20e épisode d'Holotalk, Kiara a enfin interviewé nulle autre que notre fille préférée, le PDG de Cover Corp, YAGOO !",
@@ -17,32 +27,12 @@
     },
     {
       "type": "paragraph",
-      "text": "La majeure partie de l'interview a été raie pour ne pas perturber les",
+      "text": "La majeure partie de l’interview a été préenregistrée pour ne pas perturber les horaires de sommeil de YAGOO. Kiara a dit qu’elle avait reçu des milliers de questions des spectateurs à poser à YAGOO, et bien qu’elle ne pouvait évidemment pas toutes les poser, elle a essayé de couvrir les plus populaires.",
       "bbox": {
         "x": 0.0578,
         "y": 0.6084,
-        "width": 0.3894,
-        "height": 0.0421
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "oraires de sommeil de YAGOO. Kiara a dit qe avait reçu des milliers de questions",
-      "bbox": {
-        "x": 0.0578,
-        "y": 0.6389,
         "width": 0.4239,
-        "height": 0.0417
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "es spectateurs à poser à YAGOO, et bien qu'elle ne pouvait évidemment pas toutes les poser, elle a essayé de couvrir les plus populaires.",
-      "bbox": {
-        "x": 0.0578,
-        "y": 0.6686,
-        "width": 0.4144,
-        "height": 0.0606
+        "height": 0.1208
       }
     },
     {
@@ -57,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Poursuivant sur d'autres sujets, Kiara et YAGOO ont discuté des origines et de l'avenir d’hololive, en mentionnant des projets tels qu’hololive Alternative, hololive ERROR, et l'événement hololive 3rd Fes. N'hésitez pas à regarder le stream pour en savoir plus !",
+      "text": "Poursuivant sur d’autres sujets, Kiara et YAGOO ont discuté des origines et de l’avenir d’hololive, en mentionnant des projets tels qu’hololive Alternative, hololive ERROR, et l’événement hololive 3rd Fes. N’hésitez pas à regarder le stream pour en savoir plus !",
       "bbox": {
         "x": 0.5233,
         "y": 0.5363,
@@ -77,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pendant toute la durée de l'interview, Kiara a affiché un compteur de « sou desune » (« effectivement/n’est-ce pas »). Quelqu'un a aussi noté toutes les fois où la célèbre phrase de YAGOO a été prononcée et les a répertoriées dans les commentaires de la vidéo, en comptant également les « sou desune » de Kiara. Voici le score final :",
+      "text": "Pendant toute la durée de l’interview, Kiara a affiché un compteur de « sou desune » (« effectivement/n’est-ce pas »). Quelqu’un a aussi noté toutes les fois où la célèbre phrase de YAGOO a été prononcée et les a répertoriées dans les commentaires de la vidéo, en comptant également les « sou desune » de Kiara. Voici le score final :",
       "bbox": {
         "x": 0.5233,
         "y": 0.821,
@@ -86,7 +76,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "YAGOO: 58.5 - Kiara 11",
       "bbox": {
         "x": 0.5239,

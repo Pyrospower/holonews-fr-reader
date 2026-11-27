@@ -3,96 +3,66 @@
   "issueId": "holonews_fr_ver_2103_-_2703",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "GEN 6",
+      "bbox": {
+        "x": 0.4373,
+        "y": 0.0167,
+        "width": 0.1267,
+        "height": 0.0241
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iroha & Towa",
+      "bbox": {
+        "x": 0.2133,
+        "y": 0.1815,
+        "width": 0.2107,
+        "height": 0.0204
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Après avoir vaincu Chloe, Koyori et La+,",
+      "text": "Après avoir vaincu Chloe, Koyori et La+, l'adversaire suivante en liste pour Towa était Iroha, bien décidée à venger ses camarades tombées au combat et rendre à La+ le tant convoité suffixe « -sama ». Leur rencontre a pris place sur le tristement célèbre 51 Worldwide Games. Malgré son entraînement en vue de la collaboration, Iroha a été annihilée sur le score de 5 à 1 par Towa, ne parvenant à lui voler un point que sur Boxe miniature. Le sort et l'honneur de la 6e génération reposent maintenant sur les épaules de Lui, alors que Towa compte bien finir proprement le travail entrepris.",
       "bbox": {
         "x": 0.0694,
         "y": 0.2179,
-        "width": 0.3494,
-        "height": 0.0148
+        "width": 0.3919,
+        "height": 0.1884
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chloe",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.1806,
+        "width": 0.0933,
+        "height": 0.0204
       }
     },
     {
       "type": "paragraph",
-      "text": "Juste avant la sortie de sa dernière",
+      "text": "Juste avant la sortie de sa dernière chanson originale, « Kashi », Chloe nous a fait l'honneur d'un stream karaoké. Revêtue de son masque et déployant sa voix profonde, elle a interprété 10 chansons en l'espace de 90 minutes. Avec la sortie de sa nouvelle chanson, son projet de sortie mensuelle d'une chanson originale continue son cours et entre dans son 2e mois.",
       "bbox": {
         "x": 0.5356,
         "y": 0.2183,
-        "width": 0.3169,
-        "height": 0.0109
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "l'adversaire suivante en liste pour Towa était Iroha, bien décidée à venger ses camarades tombées au combat et rendre à La+ le tant",
-      "bbox": {
-        "x": 0.0694,
-        "y": 0.2313,
-        "width": 0.3881,
-        "height": 0.0373
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "chanson originale, « Kashi », Chloe nous a fait l'honneur d'un stream karaoké. Revêtue de son masque et déployant sa",
-      "bbox": {
-        "x": 0.5356,
-        "y": 0.2331,
-        "width": 0.3894,
-        "height": 0.0434
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "convoité suffixe « -sama ». Leur rencontre a pris place sur le tristement célèbre 51 Worldwide Games. Malgré son entraînement en vue de la collaboration, Iroha a été",
-      "bbox": {
-        "x": 0.07,
-        "y": 0.2717,
-        "width": 0.3913,
-        "height": 0.0525
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "voix profonde, elle a interprété 10 chansons en l'espace de 90 minutes. Avec la sortie de sa nouvelle chanson, son projet",
-      "bbox": {
-        "x": 0.5356,
-        "y": 0.2773,
         "width": 0.3931,
-        "height": 0.0434
+        "height": 0.1437
       }
     },
     {
-      "type": "paragraph",
-      "text": "annihilée sur le score de 5 à 1 par Towa, ne parvenant à lui voler un point que sur Boxe miniature. Le sort et l'honneur de la 6e",
+      "type": "heading",
+      "text": "La+",
       "bbox": {
-        "x": 0.07,
-        "y": 0.3255,
-        "width": 0.3806,
-        "height": 0.0373
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "de sortie mensuelle d'une chanson originale continue son cours et entre dans son 2e mois.",
-      "bbox": {
-        "x": 0.5363,
-        "y": 0.3216,
-        "width": 0.3781,
-        "height": 0.0404
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "génération reposent maintenant sur les épaules de Lui, alors que Towa compte bien finir proprement le travail entrepris.",
-      "bbox": {
-        "x": 0.0694,
-        "y": 0.3659,
-        "width": 0.385,
-        "height": 0.0404
+        "x": 0.1653,
+        "y": 0.4435,
+        "width": 0.0573,
+        "height": 0.0204
       }
     },
     {
@@ -116,173 +86,63 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Le challenge entrepris par Mio de finir",
+      "type": "heading",
+      "text": "Mio",
       "bbox": {
-        "x": 0.0712,
-        "y": 0.7049,
-        "width": 0.34,
-        "height": 0.0139
+        "x": 0.1707,
+        "y": 0.6667,
+        "width": 0.0613,
+        "height": 0.0204
       }
     },
     {
       "type": "paragraph",
-      "text": "Il n'a fallu qu'un peu plus de 12 heures à",
-      "bbox": {
-        "x": 0.5363,
-        "y": 0.7049,
-        "width": 0.3638,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Getting Over It 50 fois avant d'atteindre le million d'abonnés a continué son cours. Au",
+      "text": "Le challenge entrepris par Mio de finir Getting Over It 50 fois avant d'atteindre le million d'abonnés a continué son cours. Au cours de deux streams, elle a réduit le nombre de parties restantes de 30 à 17. Durant son tout dernier stream, elle a réussi à obtenir un record personnel de 17 minutes et 48 secondes.",
       "bbox": {
         "x": 0.0706,
-        "y": 0.7196,
+        "y": 0.7049,
         "width": 0.3863,
-        "height": 0.0256
+        "height": 0.1142
       }
     },
     {
-      "type": "paragraph",
-      "text": "Okayu pour finir Kirby et le Monde Oublié dans le cadre d'un challenge speedrun",
+      "type": "heading",
+      "text": "Okayu",
       "bbox": {
-        "x": 0.5356,
-        "y": 0.7196,
-        "width": 0.3725,
-        "height": 0.0286
+        "x": 0.628,
+        "y": 0.6676,
+        "width": 0.1053,
+        "height": 0.0222
       }
     },
     {
       "type": "paragraph",
-      "text": "cours de deux streams, elle a réduit le",
-      "bbox": {
-        "x": 0.0706,
-        "y": 0.7491,
-        "width": 0.3431,
-        "height": 0.0126
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "réparti sur deux streams. Mis à part la",
-      "bbox": {
-        "x": 0.5363,
-        "y": 0.7491,
-        "width": 0.3413,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "nombre de parties restantes de 30 à 17.",
-      "bbox": {
-        "x": 0.0706,
-        "y": 0.7639,
-        "width": 0.36,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "pause d'une heure qu'elle a prise pour les",
-      "bbox": {
-        "x": 0.5356,
-        "y": 0.7639,
-        "width": 0.3769,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Durant son tout dernier stream, elle a",
-      "bbox": {
-        "x": 0.0712,
-        "y": 0.7786,
-        "width": 0.3356,
-        "height": 0.0126
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "débuts de Kobo, Okayu a fait bon usage",
-      "bbox": {
-        "x": 0.5356,
-        "y": 0.7786,
-        "width": 0.3644,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "réussi à obtenir un record personnel de 17",
-      "bbox": {
-        "x": 0.0706,
-        "y": 0.7934,
-        "width": 0.3825,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "du pouvoir de Kirby pour mogu-manger",
-      "bbox": {
-        "x": 0.5356,
-        "y": 0.7934,
-        "width": 0.3563,
-        "height": 0.0139
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "minutes et 48 secondes.",
-      "bbox": {
-        "x": 0.0706,
-        "y": 0.8082,
-        "width": 0.2194,
-        "height": 0.0109
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "ses ennemis et affirmer sa place au sein des Gamers d'hololive.",
+      "text": "Il n'a fallu qu'un peu plus de 12 heures à Okayu pour finir Kirby et le Monde Oublié dans le cadre d'un challenge speedrun réparti sur deux streams. Mis à part la pause d'une heure qu'elle a prise pour les débuts de Kobo, Okayu a fait bon usage du pouvoir de Kirby pour mogu-manger ses ennemis et affirmer sa place au sein des Gamers d'hololive.",
       "bbox": {
         "x": 0.535,
-        "y": 0.8082,
-        "width": 0.3644,
-        "height": 0.0256
+        "y": 0.7049,
+        "width": 0.3775,
+        "height": 0.1289
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu & Korone",
+      "bbox": {
+        "x": 0.1867,
+        "y": 0.8815,
+        "width": 0.1493,
+        "height": 0.0602
       }
     },
     {
       "type": "paragraph",
-      "text": "Pendant 3 heures, Korone et Okayu se sont retrouvées pour jouer a...",
+      "text": "Pendant 3 heures, Korone et Okayu se sont retrouvées pour jouer à… APEX ! Bien que plutôt inhabituel pour ce duo, le jeu a donné l'opportunité d'entendre la première paniquer, crier et plaisanter avec Okayu, et d'assister à une imitation de Korone par cette dernière. Les deux amies ont même chanté ensemble pendant quelques moments.",
       "bbox": {
-        "x": 0.3581,
-        "y": 0.8759,
-        "width": 0.5962,
-        "height": 0.0174
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Okayu — APEX!Bien que plutôt inhabituel pour ce duo, le jeu a donné l'opportunité d'entendre la première paniquer, crier et plaisanter avec",
-      "bbox": {
-        "x": 0.2081,
-        "y": 0.8845,
-        "width": 0.73,
-        "height": 0.0365
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "& Korone Okeyu, et d'assister à une imitation de Korone par cette dernière. Les deux amies ont même chanté ensemble pendant quelques moments.",
-      "bbox": {
-        "x": 0.1894,
-        "y": 0.9214,
-        "width": 0.7613,
-        "height": 0.0291
+        "x": 0.356,
+        "y": 0.8769,
+        "width": 0.6013,
+        "height": 0.0731
       }
     }
   ],

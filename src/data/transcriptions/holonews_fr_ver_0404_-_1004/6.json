@@ -3,8 +3,28 @@
   "issueId": "holonews_fr_ver_0404_-_1004",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 1",
+      "bbox": {
+        "x": 0.44,
+        "y": 0.016,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.33,
+        "y": 0.178,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
     {
       "type": "paragraph",
       "text": "Haachama, Matsuri, Noel et Aki ont fait un karaoké en 3D où elles ont chanté, se sont chamaillées et se sont amusées. Haachama, en particulier, s'est amusée comme une folle, bougeant sans arrêt durant le stream. Elle était tellement énergique qu'elle a chanté « Onegai Muscle » en faisant des squats. De plus, elle s'est cogné la tête sur le bord de la table. Puis, quand Aki a chanté « Doraemon », les trois autres filles se sont transformées en bébés. Dans l'ensemble, tout le monde a passé un bon moment et les filles ont pu montrer les résultats de leurs entraînements.",
@@ -36,16 +56,6 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Haachama voulait se teindre les cheveux en blond avant le",
-      "bbox": {
-        "x": 0.3563,
-        "y": 0.4718,
-        "width": 0.5337,
-        "height": 0.0109
-      }
-    },
-    {
       "type": "heading",
       "text": "Haachama",
       "bbox": {
@@ -53,6 +63,16 @@
         "y": 0.4844,
         "width": 0.1663,
         "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama voulait se teindre les cheveux en blond avant le début du nouveau trimestre, mais son coiffeur s'est trompé et les a teints en argenté. Cela s'explique par la similitude entre les mots « doré » (kin) et « argenté » (gin) en japonais.",
+      "bbox": {
+        "x": 0.3556,
+        "y": 0.4718,
+        "width": 0.5806,
+        "height": 0.0585
       }
     },
     {
@@ -67,22 +87,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Haachama aime vraiment Nodoka-chan. Elle a lancé un stream discussion dans lequel elle allait dans la même école que Nodoka, s'asseyait à côté d'elle et la consultait pour prendre diverses décisions. Pendant ce temps, hébétées et terrifiées par le stream, A-chan et Nodoka en ont discuté sur Twitter. A-chan est arrivé à la conclusion qu'en faisant cela, Haachama a montré son amour... probablement. Plus tard, Haachama est intervenu dans la conversation et a dit a Nodoka de ne pas résister.",
+      "text": "Haachama aime vraiment Nodoka-chan. Elle a lancé un stream discussion dans lequel elle allait dans la même école que Nodoka, s'asseyait à côté d'elle et la consultait pour prendre diverses décisions. Pendant ce temps, hébétées et terrifiées par le stream, A-chan et Nodoka en ont discuté sur Twitter. A-chan est arrivé à la conclusion qu'en faisant cela, Haachama a montré son amour... probablement. Plus tard, Haachama est intervenu dans la conversation et a dit à Nodoka de ne pas résister.",
       "bbox": {
         "x": 0.0625,
         "y": 0.7205,
         "width": 0.41,
         "height": 0.1762
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "début du nouveau trimestre, mais son coiffeur s'est trompé et les a teints en argenté. Cela s'explique par la similitude entre les mots « doré » (kin) et « argenté » (gin) en japonais.",
-      "bbox": {
-        "x": 0.3556,
-        "y": 0.4865,
-        "width": 0.5806,
-        "height": 0.0438
       }
     },
     {

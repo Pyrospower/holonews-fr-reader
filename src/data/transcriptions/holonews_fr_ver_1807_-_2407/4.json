@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_1807_-_2407",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Towa & Luna",
+      "bbox": {
+        "x": 0.126,
+        "y": 0.02,
+        "width": 0.733,
+        "height": 0.118
+      }
+    },
     {
       "type": "paragraph",
       "text": "Le 21 juillet, la mystérieuse silhouette de Towa dans sa nouvelle tenue a enfin été dévoilée en stream. Towa regardait les prédictions qui ont été envoyées, et l'une d'entre elles était d'une précision effrayante, ce dont Towa se méfiait beaucoup. Mais dans l'ensemble, la plupart des soumissions étaient des uniformes de l'ère victorienne/gothique avec des jupes hautes, à l'exception d'un maillot de bain inspiré d'hololive summer.",
@@ -33,16 +43,6 @@
         "y": 0.7677,
         "width": 0.395,
         "height": 0.201
-      }
-    },
-    {
-      "type": "other",
-      "text": "£2016 COVER Corp",
-      "bbox": {
-        "x": 0.8178,
-        "y": 0.4124,
-        "width": 0.0956,
-        "height": 0.0116
       }
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour célébrer l'arrivée de sa nouvelle tenue, elle sort une couverture de traversin et une couverture de boîte à mouchoirs. Acheter le set complet vous permettra d'obtenir une carte bromure signée. Luna a également publié le clip de sa chanson originale, « Zettai Chuusei/Nanonanora ! », juste après le stream.",
+      "text": "Pour célébrer l’arrivée de sa nouvelle tenue, elle sort une couverture de traversin et une couverture de boîte à mouchoirs. Acheter le set complet vous permettra d'obtenir une carte bromure signée. Luna a également publié le clip de sa chanson originale, « Zettai Chuusei♡Nanonanora ! », juste après le stream.",
       "bbox": {
         "x": 0.5278,
         "y": 0.8546,

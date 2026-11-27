@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_2706_-_0307",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "LA+DARKNESSS",
+      "bbox": {
+        "x": 0.0344,
+        "y": 0.3573,
+        "width": 0.0133,
+        "height": 0.088
+      }
+    },
     {
       "type": "paragraph",
       "text": "La dernière membre de la Société Secrète holoX à révéler son modèle 3D n'est autre que la chef, La+ Darknesss, le 27 juin !",

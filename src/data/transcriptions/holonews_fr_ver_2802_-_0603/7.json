@@ -3,8 +3,48 @@
   "issueId": "holonews_fr_ver_2802_-_0603",
   "page": 7,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.184,
+        "y": 0.058,
+        "width": 0.165,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.158,
+        "y": 0.336,
+        "width": 0.137,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre bien-aimée Choco-sensei, comme la plupart des autres membres d’hololive, ne pouvait pas résister à la tentation de jouer à Vampire Survivors. Elle y a joué pendant quatre heures et demie d’une traite, montrant à quel point elle aimait ce jeu.",
+      "bbox": {
+        "x": 0.5194,
+        "y": 0.1207,
+        "width": 0.4156,
+        "height": 0.0929
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre sensei a aussi montré qu’elle était attentive, en évitant de tomber dans le piège de la flèche verte, ce même piège qui a mené Pekora à sa perte. La flèche verte qui montre le bas de l’écran incite le joueur à la suivre, en abandonnant de l’EXP et des coffres. Choco a su résister et est restée concentrée sur la montée de niveau, ce qui lui a permis de finir le jeu.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.23,
+        "width": 0.4206,
+        "height": 0.1398
+      }
+    },
     {
       "type": "heading",
       "text": "HOLO FANTASY",
@@ -16,8 +56,18 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Noel",
+      "bbox": {
+        "x": 0.154,
+        "y": 0.598,
+        "width": 0.103,
+        "height": 0.023
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Dans son stream Elden Ring, Noel a mentionné que sa mère regardait parfois ses streams sur des jeux. À certains moments, quand Noel disait « Maman, sauve moi ! », sa mère envoyait parfois un message disant « Qu'est-ce qu'il se passe ? » À cause de cela, Noel ne veut plus appeler sa mère à l'aide, au cas où celle-ci regarderait son stream.",
+      "text": "Dans son stream Elden Ring, Noel a mentionné que sa mère regardait parfois ses streams sur des jeux. À certains moments, quand Noel disait « Maman, sauve moi ! », sa mère envoyait parfois un message disant « Qu’est-ce qu’il se passe ? » À cause de cela, Noel ne veut plus appeler sa mère à l'aide, au cas où celle-ci regarderait son stream.",
       "bbox": {
         "x": 0.0513,
         "y": 0.6402,
@@ -36,28 +86,18 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Notre bien-aimée Choco-sensei, comme la plupart des autres membres d’hololive, ne pouvait pas résister à la tentation de jouer à Vampire Survivors. Elle y a joué pendant quatre heures et demie d’une traite, montrant à quel point elle aimait ce jeu.",
+      "type": "heading",
+      "text": "Flare",
       "bbox": {
-        "x": 0.5194,
-        "y": 0.1207,
-        "width": 0.4156,
-        "height": 0.0929
+        "x": 0.626,
+        "y": 0.598,
+        "width": 0.12,
+        "height": 0.025
       }
     },
     {
       "type": "paragraph",
-      "text": "Notre sensei a aussi montré qu'elle était attentive, en évitant de tomber dans le piège de la flèche verte, ce même piège qui a mené Pekora à sa perte. La flèche verte qui montre le bas de l'écran incite le joueur à la suivre, en abandonnant de 'EXP et des coffres. Choco a su résister et est restée concentrée sur la montée de niveau, ce qui lui a permis de finir le jeu.",
-      "bbox": {
-        "x": 0.52,
-        "y": 0.23,
-        "width": 0.4206,
-        "height": 0.1398
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Flare a montré son modèle 3D à domicile. Elle a chanté beaucoups de chansons comme « Tondemo Wonder », « S'il vous president », « Renai Circulation » et bien plus encore ! Flare a énormément apprécié son nouveau modèle 3D depuis qu'elle l’a reçu.",
+      "text": "Flare a montré son modèle 3D à domicile. Elle a chanté beaucoups de chansons comme « Tondemo Wonder », « S’il vous president », « Renai Circulation » et bien plus encore ! Flare a énormément apprécié son nouveau modèle 3D depuis qu’elle l’a reçu.",
       "bbox": {
         "x": 0.5231,
         "y": 0.6359,

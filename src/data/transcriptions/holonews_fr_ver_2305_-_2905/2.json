@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_2305_-_2905",
   "page": 2,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "Ninomae Ina'nis Birthday",
+      "bbox": {
+        "x": 0.029,
+        "y": 0.128,
+        "width": 0.553,
+        "height": 0.3
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Le 21 mai est la journée internationale des Tako ! Pour son anniversaire, Ina a organisé un stream dans lequel elle a reçu un appel de 30 membres des différentes branches d'hololive. Ame a été la première à appeler et a partagé une photo du terrarium contenant un takodachi qu'elle avait fabriqué pour Ina. Plus tard, Sana a rappelé à Ina qu'elle mérite son succès et l'amour de ses amis et de ses fans. En terminant la première partie du stream sur ce moment remplie d'émotion, Ina à partagé ses produits dérivés d'anniversaire :",
+      "text": "Le 21 mai est la journée internationale des Tako ! Pour son anniversaire, Ina a organisé un stream dans lequel elle a reçu un appel de 30 membres des différentes branches d'hololive. Ame a été la première à appeler et a partagé une photo du terrarium contenant un takodachi qu'elle avait fabriqué pour Ina. Plus tard, Sana a rappelé à Ina qu'elle mérite son succès et l'amour de ses amis et de ses fans. En terminant la première partie du stream sur ce moment remplie d'émotion, Ina a partagé ses produits dérivés d'anniversaire :",
       "bbox": {
         "x": 0.6261,
         "y": 0.2361,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "• Un badge a bouton avec un support",
+      "text": "• Un badge à bouton avec un support",
       "bbox": {
         "x": 0.6261,
         "y": 0.4722,
@@ -47,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "; Un sac à linge tako en filet, conçu par na",
+      "text": "• Un sac à linge tako en filet, conçu par Ina",
       "bbox": {
         "x": 0.6261,
         "y": 0.4969,
@@ -67,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La deuxième partie du stream avait l'atmosphère d'un jardin d'enfant, Ina et les autres membres se consolant mutuellement. Il s'agissait également du premier stream d'appelle d'holoHeroes, et Ina a déclaré qu'elle ferait de son mieux pour soutenir ses cadettes. Elle a dit qu'il est difficile de ne pas douter de soi lorsque l'on est entourée de personnes talentueuses, mais elle nous a assurés qu'elle ressentait la même chose et a dit que nous devions simplement faire de notre mieux. Elle est très reconnaissante envers les personnes qu'elle a rencontrées a ololive.",
+      "text": "La deuxième partie du stream avait l'atmosphère d'un jardin d'enfant, Ina et les autres membres se consolant mutuellement. Il s'agissait également du premier stream d'appelle d'holoHeroes, et Ina a déclaré qu'elle ferait de son mieux pour soutenir ses cadettes. Elle a dit qu'il est difficile de ne pas douter de soi lorsque l'on est entourée de personnes talentueuses, mais elle nous a assurés qu'elle ressentait la même chose et a dit que nous devions simplement faire de notre mieux. Elle est très reconnaissante envers les personnes qu'elle a rencontrées à hololive.",
       "bbox": {
         "x": 0.6261,
         "y": 0.6034,

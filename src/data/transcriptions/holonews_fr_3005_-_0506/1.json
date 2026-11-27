@@ -3,11 +3,11 @@
   "issueId": "holonews_fr_3005_-_0506",
   "page": 1,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "NEGI*U Live!",
+      "type": "other",
+      "text": "NEGI☆U Live!",
       "bbox": {
         "x": 0.0244,
         "y": 0.0069,
@@ -16,17 +16,7 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Risu Enragée",
-      "bbox": {
-        "x": 0.825,
-        "y": 0.0117,
-        "width": 0.1575,
-        "height": 0.0169
-      }
-    },
-    {
-      "type": "paragraph",
+      "type": "other",
       "text": "TeeTee entre Lamy et Botan",
       "bbox": {
         "x": 0.355,
@@ -36,13 +26,13 @@
       }
     },
     {
-      "type": "heading",
-      "text": "HOLONEWS",
+      "type": "other",
+      "text": "Risu Enragée",
       "bbox": {
-        "x": 0.0238,
-        "y": 0.0386,
-        "width": 0.9525,
-        "height": 0.1111
+        "x": 0.825,
+        "y": 0.0117,
+        "width": 0.1575,
+        "height": 0.0169
       }
     },
     {
@@ -53,6 +43,16 @@
         "y": 0.1536,
         "width": 0.2756,
         "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La Gen 1",
+      "bbox": {
+        "x": 0.016,
+        "y": 0.185,
+        "width": 0.249,
+        "height": 0.033
       }
     },
     {
@@ -97,12 +97,12 @@
     },
     {
       "type": "paragraph",
-      "text": "l'épisode 5 avec Calli, IRyS et Bae est disponible",
+      "text": "a une nouvelle coupe de cheveux",
       "bbox": {
-        "x": 0.0181,
-        "y": 0.9076,
-        "width": 0.235,
-        "height": 0.0642
+        "x": 0.017,
+        "y": 0.43,
+        "width": 0.266,
+        "height": 0.041
       }
     },
     {
@@ -146,7 +146,27 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Chad Cast",
+      "bbox": {
+        "x": 0.017,
+        "y": 0.869,
+        "width": 0.289,
+        "height": 0.033
+      }
+    },
+    {
       "type": "paragraph",
+      "text": "l'épisode 5 avec Calli, IRyS et Bae est disponible",
+      "bbox": {
+        "x": 0.0181,
+        "y": 0.9076,
+        "width": 0.235,
+        "height": 0.0642
+      }
+    },
+    {
+      "type": "other",
       "text": "Vous voulez nous aider ? Rejoignez notre Discord !",
       "bbox": {
         "x": 0.56,

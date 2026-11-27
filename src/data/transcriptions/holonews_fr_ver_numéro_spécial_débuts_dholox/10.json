@@ -3,11 +3,21 @@
   "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
   "page": 10,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
+      "type": "heading",
+      "text": "IROHA KAZAMA",
+      "bbox": {
+        "x": 0.152,
+        "y": 0.0796,
+        "width": 0.1333,
+        "height": 0.0111
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Apres avoir été largement leurrés par une reprise au début du stream, les spectateurs ont été témoin des excuses publiques données par Kazama Iroha dès son apparition.",
+      "text": "Après avoir été largement leurrés par une reprise au début du stream, les spectateurs ont été témoin des excuses publiques données par Kazama Iroha dès son apparition.",
       "bbox": {
         "x": 0.0369,
         "y": 0.1124,
@@ -17,27 +27,17 @@
     },
     {
       "type": "paragraph",
-      "text": "Suite a quelques tests, elle est apparue dans sa présentation avec un modificateur de voix, et s'est excusée d'avoir endommagé davantage son PC la veille en",
+      "text": "Suite à quelques tests, elle est apparue dans sa présentation avec un modificateur de voix, et s’est excusée d’avoir endommagé davantage son PC la veille en essayant de le réparer par la force.",
       "bbox": {
         "x": 0.0375,
         "y": 0.2765,
-        "width": 0.3638,
-        "height": 0.1094
-      }
-    },
-    {
-      "type": "other",
-      "text": ", essayant de le reparer par la force.",
-      "bbox": {
-        "x": 0.0381,
-        "y": 0.3919,
-        "width": 0.3713,
-        "height": 0.0208
+        "width": 0.3719,
+        "height": 0.1362
       }
     },
     {
       "type": "paragraph",
-      "text": "Elle a emprunté le PC du staff, et est parvenue a faire ses débuts sans encombre.",
+      "text": "Elle a emprunté le PC du staff, et est parvenue à faire ses débuts sans encombre.",
       "bbox": {
         "x": 0.0375,
         "y": 0.464,
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "THEE À la fin, elle a remercié les spectateurs d’être venus, et leur a + andé de ne pas manquer leur",
+      "text": "À la fin, elle a remercié les spectateurs d’être venus, et leur a demandé de ne pas manquer leur première collab en groupe sur la chaîne de Laplus !",
       "bbox": {
         "x": 0.3338,
         "y": 0.7726,

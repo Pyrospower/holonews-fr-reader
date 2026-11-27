@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "issueId": "holonews_sana_special_issue_fr_ver",
   "page": 2,
-  "lang": "fr",
-  "status": "auto",
+  "lang": "en",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
-      "text": "SANA INTERVIEW ec.",
+      "text": "SANA INTERVIEW PAGE 1",
       "bbox": {
         "x": 0.105,
         "y": 0.0321,
@@ -16,8 +16,18 @@
       }
     },
     {
+      "type": "other",
+      "text": "See you",
+      "bbox": {
+        "x": 0.1186,
+        "y": 0.1677,
+        "width": 0.1686,
+        "height": 0.0645
+      }
+    },
+    {
       "type": "paragraph",
-      "text": "Opening: Today we're lucky to have an opportunity to talk to the Astrogirl herself! Hi! Sana, thank you so much for agreeing to do this interview! How are you?",
+      "text": "Opening: Today we’re lucky to have an opportunity to talk to the Astrogirl herself! Hi! Sana, thank you so much for agreeing to do this interview! How are you?",
       "bbox": {
         "x": 0.1025,
         "y": 0.3924,
@@ -27,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: I'm good, I hope you are too!",
+      "text": "Answer: I’m good, I hope you are too!",
       "bbox": {
         "x": 0.1031,
         "y": 0.464,
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: We're fine, thank you! By the way, do you know about HoloNews, where this interview is being published?",
+      "text": "Question: We’re fine, thank you! By the way, do you know about HoloNews, where this interview is being published?",
       "bbox": {
         "x": 0.1025,
         "y": 0.503,
@@ -47,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: I've never heard about it! I'm only learning about you guys right now, in this interview!",
+      "text": "Answer: I’ve never heard about it! I’m only learning about you guys right now, in this interview!",
       "bbox": {
         "x": 0.1031,
         "y": 0.5603,
@@ -57,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: Well, let's get into it. First question, is there anything you want to recommend to HoloNews readers? It could be anything like a game, TV show, hobby, etc.",
+      "text": "Question: Well, let’s get into it. First question, is there anything you want to recommend to HoloNews readers? It could be anything like a game, TV show, hobby, etc.",
       "bbox": {
         "x": 0.1031,
         "y": 0.615,
@@ -67,7 +77,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: I've recently been talking to the other members about profiteroles, but none of them have ever heard of it! They didn't even think it was a food.",
+      "text": "Answer: I’ve recently been talking to the other members about profiteroles, but none of them have ever heard of it! They didn’t even think it was a food.",
       "bbox": {
         "x": 0.1031,
         "y": 0.701,
@@ -77,7 +87,7 @@
     },
     {
       "type": "paragraph",
-      "text": "It's like a cream puff but the outside is a Yorkshire pudding, a kind of bread pastry. You should try it sometime!",
+      "text": "It’s like a cream puff but the outside is a Yorkshire pudding, a kind of bread pastry. You should try it sometime!",
       "bbox": {
         "x": 0.1031,
         "y": 0.7726,
@@ -97,12 +107,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: Spiders (OAO; ; ) Question: What spiders in particular?",
+      "text": "Answer: Spiders (OΔO；；)",
       "bbox": {
-        "x": 0.5337,
-        "y": 0.4479,
-        "width": 0.3331,
-        "height": 0.0408
+        "x": 0.5329,
+        "y": 0.4484,
+        "width": 0.2786,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: What spiders in particular?",
+      "bbox": {
+        "x": 0.5329,
+        "y": 0.4752,
+        "width": 0.3386,
+        "height": 0.0159
       }
     },
     {
@@ -117,7 +137,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: Oh no! Let's fly away from Earth and talk about space for a bit. As the Speaker of Space, what would you do if humans started travelling across the universe in spaceships?",
+      "text": "Question: Oh no! Let’s fly away from Earth and talk about space for a bit. As the Speaker of Space, what would you do if humans started travelling across the universe in spaceships?",
       "bbox": {
         "x": 0.5337,
         "y": 0.5295,
@@ -127,7 +147,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: I wonder, are they actually ready for it? I'm not sure if I will want to bottle them up in a pool and let them think they're exploring space, or if I should let them go and find out the truth of the universe for themselves.",
+      "text": "Answer: I wonder, are they actually ready for it? I’m not sure if I will want to bottle them up in a pool and let them think they’re exploring space, or if I should let them go and find out the truth of the universe for themselves.",
       "bbox": {
         "x": 0.5331,
         "y": 0.6155,
@@ -137,7 +157,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: Sounds ominous for some reason...! Help us understand it a bit, what is your favourite space fact?",
+      "text": "Question: Sounds ominous for some reason…! Help us understand it a bit, what is your favourite space fact?",
       "bbox": {
         "x": 0.5337,
         "y": 0.7131,
@@ -147,7 +167,17 @@
     },
     {
       "type": "paragraph",
-      "text": "Question: And you're not alone! What's your favourite planet in the universe?",
+      "text": "Answer: The universe is fun now.♡ฅ(°´□ฅ`°♪)",
+      "bbox": {
+        "x": 0.5329,
+        "y": 0.7688,
+        "width": 0.4171,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: And you’re not alone! What's your favourite planet in the universe?",
       "bbox": {
         "x": 0.5331,
         "y": 0.796,
@@ -157,7 +187,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Answer: Of course, it's Earth!!",
+      "text": "Answer: Of course, it’s Earth!!",
       "bbox": {
         "x": 0.5337,
         "y": 0.839,
@@ -166,7 +196,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "Disclaimer: The Questions were gathered from Sana's Milky Way and HoloNews. The interview was executed by Sephi from Sana's Milky Way.",
       "bbox": {
         "x": 0.16,
@@ -176,7 +206,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "Everything you see on these pages are as we received from the interview itself, and neither questions nor answers were edited in any way by us.",
       "bbox": {
         "x": 0.1731,
@@ -186,7 +216,7 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "other",
       "text": "We thank COVER and Sephi/SMW for this opportunity!",
       "bbox": {
         "x": 0.2719,

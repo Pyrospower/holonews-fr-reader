@@ -3,8 +3,18 @@
   "issueId": "holonews_fr_ver_1402_-_2002",
   "page": 4,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
+    {
+      "type": "heading",
+      "text": "Temma & Miyabi",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.4413,
+        "width": 0.8015,
+        "height": 0.094
+      }
+    },
     {
       "type": "paragraph",
       "text": "Miyabi et Temma ont annoncé qu'ils allaient bientôt recevoir des tenues assorties, et les ont montrés le lendemain. Le premier était Miyabi ! Il a reçu un costume du style du Chaperon Rouge qui a été créé par son illustratrice, Hou, qui n'a pas créé de tenue pour lui depuis ses débuts. Ce nouveau style est complété par un loup appelé Lupinus, des lunettes et un pistolet.",
@@ -37,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Ils ont également introduit des produits commémoratifs : - Des supports en acrylique qui peuvent être combinés - Un miroir de poche rabattable",
+      "text": "Ils ont également introduit des produits commémoratifs :\n- Des supports en acrylique qui peuvent être combinés\n- Un miroir de poche rabattable",
       "bbox": {
         "x": 0.0467,
         "y": 0.8596,

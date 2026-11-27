@@ -3,7 +3,7 @@
   "issueId": "holonews_fr_ver_2305_-_2905",
   "page": 6,
   "lang": "fr",
-  "status": "auto",
+  "status": "corrected",
   "blocks": [
     {
       "type": "heading",
@@ -17,7 +17,7 @@
     },
     {
       "type": "heading",
-      "text": "@ / Korone",
+      "text": "Korone",
       "bbox": {
         "x": 0.0925,
         "y": 0.181,
@@ -36,23 +36,23 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Ce qui devait être le défi personnel de Mio s'est transformé en un stream à quatre. Elle a invité Okayu, Kanata et Koyori à jouer à Mario Kart en faisant des squats comme punition. Tout le monde, sauf le gagnant, devait faire des squats en fonction de sa place. Les résultats des 14 courses sont les suivants : Kanata - 48,",
+      "type": "heading",
+      "text": "Mio",
       "bbox": {
-        "x": 0.5319,
-        "y": 0.2166,
-        "width": 0.3944,
-        "height": 0.0924
+        "x": 0.6277,
+        "y": 0.1784,
+        "width": 0.0631,
+        "height": 0.0214
       }
     },
     {
       "type": "paragraph",
-      "text": "Okayu - 70, Mio - 127, Koyori - 148.",
+      "text": "Ce qui devait être le défi personnel de Mio s'est transformé en un stream à quatre. Elle a invité Okayu, Kanata et Koyori à jouer à Mario Kart en faisant des squats comme punition. Tout le monde, sauf le gagnant, devait faire des squats en fonction de sa place. Les résultats des 14 courses sont les suivants : Kanata - 48, Okayu - 70, Mio - 127, Koyori - 148.",
       "bbox": {
-        "x": 0.5325,
-        "y": 0.3108,
-        "width": 0.295,
-        "height": 0.013
+        "x": 0.5319,
+        "y": 0.2166,
+        "width": 0.3944,
+        "height": 0.1072
       }
     },
     {
@@ -86,16 +86,6 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "Watame a terminé un autre projet sur Minecraft, une ferme à canne à sucre, pour satisfaire sa gourmandise. Elle l'a construit à côté de Fujiki (I'arpenteur de lofi) et de la maison d'lofi.",
-      "bbox": {
-        "x": 0.0719,
-        "y": 0.895,
-        "width": 0.37,
-        "height": 0.0638
-      }
-    },
-    {
       "type": "heading",
       "text": "Pekora",
       "bbox": {
@@ -116,7 +106,37 @@
       }
     },
     {
+      "type": "heading",
+      "text": "Gen 4",
+      "bbox": {
+        "x": 0.4431,
+        "y": 0.6966,
+        "width": 0.1169,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.1662,
+        "y": 0.859,
+        "width": 0.1308,
+        "height": 0.0214
+      }
+    },
+    {
       "type": "paragraph",
+      "text": "Watame a terminé un autre projet sur Minecraft, une ferme à canne à sucre, pour satisfaire sa gourmandise. Elle l'a construit à côté de Fujiki (l'arpenteur de lofi) et de la maison d'Iofi.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.895,
+        "width": 0.37,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "heading",
       "text": "Kanata",
       "bbox": {
         "x": 0.6381,
