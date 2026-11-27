@@ -25,6 +25,13 @@
     parseQuery,
     QUERY_PARAM,
   } from "$lib/search";
+  import { DEFAULT_SPEECH_RATE, parseSpeechRate } from "$lib/speech";
+  import {
+    IDLE_SPEECH,
+    SpeechPlayer,
+    type SpeechControls,
+    type SpeechState,
+  } from "$lib/speechPlayer";
   import type { TalentLink } from "$lib/talentMentions";
   import type { PageTranscription } from "$lib/transcriptions";
   import type { CollectionEntry } from "astro:content";
@@ -59,6 +66,10 @@
   let hoveredBlock = $state<number | null>(null);
   // Search in the issue, mirrored in ?q=
   let query = $state("");
+  // Read aloud, only when the browser has speechSynthesis (known once mounted)
+  let speechPlayer = $state<SpeechPlayer | null>(null);
+  let speechState = $state<SpeechState>(IDLE_SPEECH);
+  let speechRate = $state(DEFAULT_SPEECH_RATE);
 
   const maxPage = $derived(issue.data.images.length);
   const currentImage = $derived(issue.data.images[currentPage - 1] ?? "");
@@ -83,6 +94,28 @@
     transcription?.blocks.flatMap((block, index) =>
       block.bbox && pageMatches?.[index]?.length ? [block.bbox] : [],
     ) ?? [],
+  );
+  const speakingArea = $derived(
+    speechState.block !== null
+      ? transcription?.blocks[speechState.block]?.bbox
+      : undefined,
+  );
+  // Commands of the transcription toolbar, undefined without speechSynthesis
+  const speech: SpeechControls | undefined = $derived(
+    speechPlayer
+      ? {
+          state: speechState,
+          rate: speechRate,
+          play: (from?: number) => {
+            if (!transcription) return;
+            speechPlayer?.play(transcription.blocks, transcription.lang, from);
+          },
+          pause: () => speechPlayer?.pause(),
+          resume: () => speechPlayer?.resume(),
+          stop: () => speechPlayer?.stop(),
+          setRate: setSpeechRate,
+        }
+      : undefined,
   );
   const highlight = $derived(
     DEV && hoveredBlock !== null
@@ -110,6 +143,8 @@
     if (page < 1 || page > maxPage || page === currentPage) return;
     currentPage = page;
     hoveredBlock = null;
+    // The reading belongs to the page
+    speechPlayer?.stop();
     syncUrl();
   }
 
@@ -133,13 +168,25 @@
     }
   }
 
-  onDestroy(() => clearTimeout(queryUrlTimeout));
+  onDestroy(() => {
+    clearTimeout(queryUrlTimeout);
+    speechPlayer?.destroy();
+  });
 
   function setMode(value: ReadingMode) {
     mode = value;
     imageShownFor = null;
     hoveredBlock = null;
+    // Original shows no text to follow along. Between Mixte and Texte the
+    // reading goes on.
+    if (value === "original") speechPlayer?.stop();
     writePreference(STORAGE_KEYS.mode, value);
+  }
+
+  function setSpeechRate(value: number) {
+    speechRate = value;
+    speechPlayer?.setRate(value);
+    writePreference(STORAGE_KEYS.speechRate, String(value));
   }
 
   function setTextSize(value: number) {
@@ -178,6 +225,16 @@
     }
     mode = parseReadingMode(readPreference(STORAGE_KEYS.mode));
     textSize = parseTextSize(readPreference(STORAGE_KEYS.textSize));
+    speechRate = parseSpeechRate(readPreference(STORAGE_KEYS.speechRate));
+
+    if ("speechSynthesis" in window && "SpeechSynthesisUtterance" in window) {
+      speechPlayer = new SpeechPlayer(
+        window.speechSynthesis,
+        (text) => new SpeechSynthesisUtterance(text),
+        (state) => (speechState = state),
+      );
+      speechPlayer.setRate(speechRate);
+    }
 
     // Shows the viewer, hidden before hydration when the restored state
     // differs from the prerendered one (see src/pages/issues/[...id].astro)
@@ -228,6 +285,7 @@
           class="w-full"
           {highlight}
           matches={matchedAreas}
+          speaking={speakingArea}
         />
         <!-- On desktop, the text column takes the height of the image and
              scrolls on its own -->
@@ -241,6 +299,7 @@
             variant="mixed"
             onblockhover={DEV ? (index) => (hoveredBlock = index) : undefined}
             matches={pageMatches}
+            {speech}
             class="md:absolute md:inset-0"
           />
         </div>
@@ -262,6 +321,7 @@
           ontextsizechange={setTextSize}
           variant="text"
           matches={pageMatches}
+          {speech}
           onshoworiginal={() => (imageShownFor = currentPage)}
         />
       </Card.Content>
@@ -349,4 +409,7 @@
   </Card.Root>
 </div>
 
-<svelte:window onkeydown={handleKeydown} />
+<svelte:window
+  onkeydown={handleKeydown}
+  onpagehide={() => speechPlayer?.stop()}
+/>
