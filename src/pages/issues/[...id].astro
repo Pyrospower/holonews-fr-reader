@@ -16,7 +16,12 @@ export async function getStaticPaths() {
   for (const { data } of await getCollection("transcriptions")) {
     const pages = transcriptionsByIssue.get(data.issueId) ?? {};
     // Only what the reader displays: the rest is serialized into the page
-    pages[data.page] = { status: data.status, blocks: data.blocks };
+    pages[data.page] = {
+      status: data.status,
+      blocks: data.blocks,
+      // Language of the read-aloud voice
+      lang: data.lang,
+    };
     transcriptionsByIssue.set(data.issueId, pages);
   }
   // Talents of each page, computed here rather than in the browser

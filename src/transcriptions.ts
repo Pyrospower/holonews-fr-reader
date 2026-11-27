@@ -51,7 +51,10 @@ export type TranscriptionStatus = Transcription["status"];
 export type TranscriptionBlock = Transcription["blocks"][number];
 
 // What the reader needs of a page's transcription, passed to the client.
-export type PageTranscription = Pick<Transcription, "status" | "blocks">;
+export type PageTranscription = Pick<
+  Transcription,
+  "status" | "blocks" | "lang"
+>;
 
 export function transcriptionText(
   transcription: Pick<Transcription, "blocks">,
