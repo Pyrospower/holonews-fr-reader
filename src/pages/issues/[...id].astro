@@ -3,6 +3,7 @@ import IssueViewer from "$lib/components/IssueViewer.svelte";
 import Layout from "$lib/layouts/Layout.astro";
 import { PAGE_PARAM, STORAGE_KEYS } from "$lib/reader";
 import { QUERY_PARAM } from "$lib/search";
+import { getMentionIndex } from "$lib/talentMentions";
 import type { PageTranscription } from "$lib/transcriptions";
 import { getCollection } from "astro:content";
 
@@ -18,13 +19,19 @@ export async function getStaticPaths() {
     pages[data.page] = { status: data.status, blocks: data.blocks };
     transcriptionsByIssue.set(data.issueId, pages);
   }
+  // Talents of each page, computed here rather than in the browser
+  const { pages } = await getMentionIndex();
   return issues.map((entry) => ({
     params: { id: entry.id },
-    props: { entry, transcriptions: transcriptionsByIssue.get(entry.id) ?? {} },
+    props: {
+      entry,
+      transcriptions: transcriptionsByIssue.get(entry.id) ?? {},
+      talents: pages.get(entry.id) ?? {},
+    },
   }));
 }
 
-const { entry, transcriptions } = Astro.props;
+const { entry, transcriptions, talents } = Astro.props;
 ---
 
 <Layout title={entry.data.title}>
@@ -74,7 +81,12 @@ const { entry, transcriptions } = Astro.props;
         document.documentElement.classList.add("reader-pending");
       }
     </script>
-    <IssueViewer client:load issue={entry} transcriptions={transcriptions} />
+    <IssueViewer
+      client:load
+      issue={entry}
+      transcriptions={transcriptions}
+      talents={talents}
+    />
   </article>
 </Layout>
 
