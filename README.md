@@ -144,11 +144,29 @@ La page [`/search`](src/pages/search.astro) cherche dans le texte de toutes les 
 
 Les règles de recherche et de surlignage sont dans [`src/search.ts`](src/search.ts), testées dans [`src/search.test.ts`](src/search.test.ts).
 
+## 🎤 Talents
+
+La page [`/talents`](src/pages/talents/index.astro) liste les talents cités dans les transcriptions, par branche et par génération, et chaque talent a sa page (`/talents/<slug>`) avec un extrait de chaque page qui le mentionne. Le lecteur affiche aussi, sous chaque page, les talents qu'elle mentionne.
+
+Les mentions sont repérées **au build**, sans IA : on cherche dans le texte les noms d'un dictionnaire versionné, [`src/data/talents.json`](src/data/talents.json). Le code ([`src/talents.ts`](src/talents.ts), testé dans [`src/talents.test.ts`](src/talents.test.ts)) ne part pas dans le navigateur : les pages reçoivent seulement le résultat.
+
+Pour chaque talent, le dictionnaire donne :
+
+- `slug` : l'identifiant stable utilisé dans l'URL, à ne pas changer ;
+- `name` : le nom affiché, aussi cherché dans le texte ;
+- `aliases` : les autres noms (prénom, surnoms, autres orthographes), cherchés sans tenir compte des majuscules ni des accents (`Pekora` trouve « Pékora » et « PEKORA ») ;
+- `casedAliases` : les noms qui sont aussi des mots courants ou d'autres noms (`Reine`, `Marine`, `Lui`, `Ame`, `Noel`…), cherchés seulement avec la même casse et les mêmes accents, ou tout en majuscules (`Reine` trouve « REINE » mais pas « reine », `Ame` ne trouve pas « âme »).
+
+Un nom n'est trouvé que comme mot entier (`Mel` ne trouve pas « Melfissa »), y compris après une élision ou avant un possessif (« l'Iroha », « Ina's »). La liste `ignore` contient des expressions qui contiennent un nom sans parler du talent (titres de chansons comme « Kira Kira », « Reine des Erreurs ») : elles sont écartées avant la recherche des noms.
+
+Pour ajouter un talent, ajoutez une entrée dans la bonne génération ; pour ajouter un surnom, complétez `aliases` (ou `casedAliases` si c'est aussi un mot courant). Lancez ensuite `pnpm test`, puis vérifiez dans le texte que le nouveau nom ne trouve pas de fausses mentions (par exemple avec la recherche du site, qui elle ignore la casse). Un talent sans aucune mention n'apparaît pas sur le site.
+
 ## 🎨 Interface
 
 - **Page d'accueil** : Liste tous les articles avec aperçu et filtrage
 - **Pages d'articles** : Affichage complet de chaque numéro avec images
 - **Recherche** : Recherche dans le texte de toutes les pages, avec surlignage dans le lecteur
+- **Talents** : Les talents mentionnés dans les numéros, avec les pages qui les citent
 - **Modes de lecture** : Original (image seule), Mixte (image et transcription côte à côte) et Texte (transcription seule), avec copie du texte et taille de texte réglable. Le mode et la taille sont mémorisés dans le navigateur, et la page courante est dans l'URL (`?page=N`)
 
 ## 🏷 Tags disponibles
