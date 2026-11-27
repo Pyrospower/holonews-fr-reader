@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Utsugi Uyu",
+      "bbox": {
+        "x": 0.0188,
+        "y": 0.0087,
+        "width": 0.3438,
+        "height": 0.1606
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le même jour que Fuma, Uyu a fait ses débuts juste après lui ! Contrairement à Fuma, qui a tout de suite commencé à se présenter, Uyu a passé 20 minutes à discuter avec le tchat avant de nous montrer ses diapositives.",
+      "bbox": {
+        "x": 0.0225,
+        "y": 0.178,
+        "width": 0.3613,
+        "height": 0.1849
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Uyu s'est présenté puis a parlé de ce qu'il aime et n'aime pas. Il semble être vraiment bavard, car il lui a fallu 10 minutes avant de passer à la diapositive suivante !",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.3776,
+        "width": 0.3288,
+        "height": 0.158
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "On nous a également présenté sa partenaire de crime, Jyako. Jyako est très talentueuse et peut faire plusieurs types de voix. De la voix d'une onee-san à celle d'un otaku, Jyako est si talentueuse qu'elle a presque volé le cœur de tous les spectateurs du stream. Presque seulement, car Uyu recevait des demandes en mariage du tchat et les a toutes acceptées avec joie.",
+      "bbox": {
+        "x": 0.4638,
+        "y": 0.5881,
+        "width": 0.5063,
+        "height": 0.2374
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuite, Uyu a poursuivi ses débuts en mentionnant ses objectifs, les personnes qui l'ont aidé à faire ses débuts et ses hashtags. Et avec cela, le premier jour des débuts était terminé !",
+      "bbox": {
+        "x": 0.4644,
+        "y": 0.8555,
+        "width": 0.51,
+        "height": 0.112
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xqns4f46wis81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

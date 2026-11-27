@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0321,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "03/28\n[Calliope/Gura] Q: 10M\n[Lamy/Nene] Hitorigoto: 250K\n[Aqua/Okayu] Sakura No Ame: 500K\n[Miyabi] Kaika Sengen: 25K\n[Risu] ALiCE&u: 500K",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.0707,
+        "width": 0.4419,
+        "height": 0.0838
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "03/29\n[Suisei] Stellar Stellar: 8M\n[Kobo] Mantra Hujan: 250K\n[Ollie] Medllie (Covers): 100K\n[AZKi] Uso Uso Uso Uso: 75K\n[Aqua/Fubuki/Mio/Rushia/Marine/Kanata] Umapyoi Densetsu: 3M\n[Aruran] W.I.M.: 100K",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.0707,
+        "width": 0.4406,
+        "height": 0.1172
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "03/30\n[Lui] Mira: 500K\n[Moona] Gekkou: 250K\n[Nene] Momonone: 500K\n[Zeta] Zankyosanka (Cover): 250K\n[Chloe] Jinsei Reset Button Pochi -w: 750K\n[HoloEN 1/2/Hope] Ochame Kinou: 6M\n[Chloe] Kagayakashi: 250K\n[Kanata] Fragile: 750K\n[IRyS] Identity: 500K",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.1688,
+        "width": 0.44,
+        "height": 0.1493
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "03/31\n[Suisei] King: 9M\n[Aqua] I Wanna: 1M\n[Kanata/Ui] Campanella: 250K\n[Astel] Hokori Takaki Aidoru: 100K\n[Okayu] Yona Yona Dance: 750K\n[Calliope] UnAlive: 1M",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.2018,
+        "width": 0.4406,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "04/01\n[Suisei] Comet: 5M\n[Nene] Nenenene Daibakusou: 750K\n[AZKi] Hatokkai Solar Cycle (Animated): 75K\n[AZKi] Kurogane No Mamoribito: 100K\n[AZKi] Over Light: 25K",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.332,
+        "width": 0.44,
+        "height": 0.0833
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "04/02\n[Suisei] Template: 500K\n[Aqua] Hokori Takaki Aidoru: 1M\n[Okayu/Korone] U&I (Cover): 100K\n[Calliope/Boogey Voxx] Graveyard Shift: 3M\n[Rio] Kimi no Myaku de Odoritakatta (Cover): 10K\n[Moona/Reine] Kawaiiku Naritai: 250K\n[Shion/Aqua] Nee Nee Nee: 500K\n[Matsuri] Kokoronashi: 4M",
+      "bbox": {
+        "x": 0.5112,
+        "y": 0.3168,
+        "width": 0.4412,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "04/03\n[Mumei] A New Start: 2M\n[NePoLaBo] Mr Music: 750K\n[Suisei] Champagne Days: 1M\n[Ame] Ookami Blues (Cover): 75K\n[Uproar] Envy Baby × King (Cover): 50K\n[Choco/Subaru/Luna] Kami No Manimani: 500K\n[Korone/Noel/Marine/Lamy] Friend Shitai: 500K\n[Fubuki/Shien] Roki (Cover): 100K\n[Aqua] Aqua Iro Palette: 6M\n[Astel/Oga] Garando: 100K",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.4293,
+        "width": 0.44,
+        "height": 0.1671
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE    ORIGINAL    NOUVEAU",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.4692,
+        "width": 0.4394,
+        "height": 0.0126
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL — Kobo — MANTRA HUJAN",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.6133,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL — IRyS — AKATSUKI TO HANA",
+      "bbox": {
+        "x": 0.2669,
+        "y": 0.6133,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL — Suisei & Calli — WICKED",
+      "bbox": {
+        "x": 0.5012,
+        "y": 0.6133,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL — Suisei — TEMPLATE",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.6133,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE — Rio — KIMI NO MYAKU DE ODORITAKATTA",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.7053,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE — Okayu & Korone — U&I",
+      "bbox": {
+        "x": 0.2669,
+        "y": 0.7053,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE — Amelia — OOKAMI BLUES",
+      "bbox": {
+        "x": 0.5012,
+        "y": 0.7053,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL — AZKi — OVER LIGHT",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.7053,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE — Ollie — MEDDLIE",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.7973,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE — Rio, Fuma, Uyu, Gamma — ENVY BABY × KING",
+      "bbox": {
+        "x": 0.2669,
+        "y": 0.7973,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE — Fubuki & Shien — ROKI",
+      "bbox": {
+        "x": 0.5012,
+        "y": 0.7973,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE — Zeta — ZANKYOU SANKA",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.7973,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL — Calvin — C-MAN",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.8893,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL — Calvin & Hayko — STREET FITE",
+      "bbox": {
+        "x": 0.2669,
+        "y": 0.8893,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL — Calvin — MY REALITY",
+      "bbox": {
+        "x": 0.5012,
+        "y": 0.8893,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL — Calvin — MONEY",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.8893,
+        "width": 0.2325,
+        "height": 0.0911
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/w3lnk4t6qws81.png",
+    "gifFrame": null,
+    "confidence": 85
+  }
+}

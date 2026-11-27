@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOX",
+      "bbox": {
+        "x": 0.164,
+        "y": 0.135,
+        "width": 0.208,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chloe",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.307,
+        "width": 0.125,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Chloe a tweeté un enregistrement vocal de sa petite sœur et d'elle-même dans le bain. C'était son premier bain depuis une semaine, contrairement à sa sœur qui, elle, se lave tous les jours. Chloe aime beaucoup sa sœur et est extrêmement protectrice envers elle, à tel point qu'elle a dit au tchat d'arrêter d'envoyer des messages d'amour pour celle-ci , sinon elle les bloquerait sans préavis. Il faudra lui passer sur le corps pour avoir sa sœur !",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.349,
+        "width": 0.428,
+        "height": 0.176
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori & La+",
+      "bbox": {
+        "x": 0.662,
+        "y": 0.311,
+        "width": 0.257,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, nous avons assisté à une combinaison unique entre le stream ASMR de Koyori et la diffusion par La+ de sa réaction en direct à celui-ci. Sous les attaques incessantes de Koyori (taquineries, caresses, nettoyage et doux chuchotements), La+ s'est lancée en réponse dans une série de bruitages plutôt étranges, qui ne pouvaient être décrits que comme dégoûtants. Ils étaient si indécents qu'à un moment, YouTube a signalé le stream comme inapproprié, ce qui aurait pu affecter la monétisation.",
+      "bbox": {
+        "x": 0.523,
+        "y": 0.349,
+        "width": 0.43,
+        "height": 0.174
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloX",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.679,
+        "width": 0.143,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À la suite de la diffusion du stream collaboration Among Us, holoX ont annoncé la sortie des produits commémoratifs de leurs débuts : un badge avec le logo holoX et une tapisserie au format B2 illustrée par Nmuri-sensei.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.718,
+        "width": 0.425,
+        "height": 0.096
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+ & Iroha",
+      "bbox": {
+        "x": 0.662,
+        "y": 0.679,
+        "width": 0.258,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La+ et Iroha se sont associées pour faire deux streams collab. Jouant sur leurs points forts, Iroha a entraîné La+ sur Ring Fit Adventure, et pour équilibrer le tout, La+ a regardé Iroha jouer au jeu d'horreur Night Delivery. Elles ont toutes deux crié, mais pour différentes raisons.",
+      "bbox": {
+        "x": 0.523,
+        "y": 0.718,
+        "width": 0.43,
+        "height": 0.113
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xtq505r7op881.png",
+    "gifFrame": null,
+    "confidence": 80
+  }
+}

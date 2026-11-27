@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_sana_special_issue_fr_ver",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Tsukumo Sana Special Issue",
+      "bbox": {
+        "x": 0.3967,
+        "y": 0.0262,
+        "width": 0.2078,
+        "height": 0.0131
+      }
+    },
+    {
+      "type": "heading",
+      "text": "MOMENTS MARQUANTS",
+      "bbox": {
+        "x": 0.0419,
+        "y": 0.0621,
+        "width": 0.9194,
+        "height": 0.0495
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela ne fait même pas un an que nous avons rencontré notre adorable Sana ici bas, mais cette courte période a été riche en événements, alors revenons sur les moments marquants de sa carrière chez hololive !",
+      "bbox": {
+        "x": 0.0806,
+        "y": 0.1367,
+        "width": 0.8388,
+        "height": 0.0499
+      }
+    },
+    {
+      "type": "other",
+      "text": "#1. La vidéo de pré-début de Sana,\nmignonne et drôle, qui explique\ncomment et pourquoi elle est venue\nsur Terre.",
+      "bbox": {
+        "x": 0.1,
+        "y": 0.3843,
+        "width": 0.3489,
+        "height": 0.0509
+      }
+    },
+    {
+      "type": "other",
+      "text": "#2. Sana a fait quelques streams\nparlant d’astrologie.",
+      "bbox": {
+        "x": 0.5644,
+        "y": 0.3881,
+        "width": 0.3256,
+        "height": 0.0285
+      }
+    },
+    {
+      "type": "other",
+      "text": "#3. La toute première collaboration\nde Sana sur sa chaîne avec Kronii,\nle duo du Temps et de l’Espace.",
+      "bbox": {
+        "x": 0.0956,
+        "y": 0.6404,
+        "width": 0.3567,
+        "height": 0.044
+      }
+    },
+    {
+      "type": "other",
+      "text": "#4. Le stream dans lequel Sana a\ndébloqué la fonction « rejoindre » et\noù elle a aussi accouché d'un cheval.",
+      "bbox": {
+        "x": 0.5511,
+        "y": 0.6404,
+        "width": 0.3522,
+        "height": 0.0417
+      }
+    },
+    {
+      "type": "other",
+      "text": "#5. Le stream retour de Sana\naprès une pause d'un mois.",
+      "bbox": {
+        "x": 0.1275,
+        "y": 0.9032,
+        "width": 0.285,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "other",
+      "text": "#6. La réaction de Yagoo à la lettre et\nau dessin de Sana et des Sanallites\npour lui, on dirait qu'il a aimé !",
+      "bbox": {
+        "x": 0.5478,
+        "y": 0.8943,
+        "width": 0.3556,
+        "height": 0.0432
+      }
+    },
+    {
+      "type": "other",
+      "text": "Highlights : Page 1",
+      "bbox": {
+        "x": 0.1475,
+        "y": 0.9601,
+        "width": 0.5125,
+        "height": 0.0178
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0ghn302un4f91.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

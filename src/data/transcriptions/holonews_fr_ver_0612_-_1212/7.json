@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.161,
+        "y": 0.051,
+        "width": 0.21,
+        "height": 0.033
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.2266,
+        "width": 0.167,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En jouant à Yakuza Zero, Subaru est finalement tombée sur la tristement célèbre scène du karaoké « 24-Hour Cinderella ». Elle a été tellement déstabilisée par la transition inattendue en idole de Majima qu'elle a décrite comme une « attaque psychologique ». Cependant, elle a quand même apprécié la scène et a rejoué la chanson afin de revoir la scène.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2678,
+        "width": 0.4113,
+        "height": 0.1367
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a mis en ligne l'enregistrement de son dernier Space Twitter SubaLuna. Il dure plus de 30 minutes et pèse près de 4 Go. Le lien de téléchargement est disponible jusqu'au 18 décembre.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.424,
+        "width": 0.4156,
+        "height": 0.0794
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le coup de grâce du catcheur japonais Great-O-Khan : « Oozora Subaru style Sheep Killer » a été élu à la première place des « Pro wrestling Popular Awards 2021 » dans la catégorie technique.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5256,
+        "width": 0.424,
+        "height": 0.071
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ayame",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.228,
+        "width": 0.152,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 13 décembre, Ayame a fait le maximum pour chanter et danser de son mieux afin de fêter son anniversaire avec son public. Assurez-vous de soutenir Ayame lors de ses performances !",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.2661,
+        "width": 0.41,
+        "height": 0.075
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ayame a recommencé à stream le 6 décembre. C’est son premier stream depuis son live d’anniversaire, soit il y a plus de deux mois. Dans ce stream poignant, elle a expliqué les raisons de sa pause et a déclaré qu'elle allait bien maintenant. Elle a également annoncé que sa figurine était en cours de production.",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.467,
+        "width": 0.425,
+        "height": 0.129
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shion",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.7335,
+        "width": 0.13,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion a reçu une cape, une couronne et même des variantes d'oreilles de chat pour ses deux anciennes tenues, tandis qu'elle a reçu une baguette magique et un gros nœud pour sa nouvelle tenue de soubrette. Elle a déclaré que ces mises à jour font partie de la célébration de son anniversaire.",
+      "bbox": {
+        "x": 0.053,
+        "y": 0.775,
+        "width": 0.417,
+        "height": 0.105
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a également annoncé qu'elle recevra une figurine et que celle-ci est déjà en production.",
+      "bbox": {
+        "x": 0.053,
+        "y": 0.9,
+        "width": 0.4,
+        "height": 0.043
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.734,
+        "width": 0.135,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a obtenu un nouveau surnom, « Chocoboss » ! Elle a été appelée ainsi parce que Miko a été impressionnée par ses 368 niveaux obtenus en tuant des Endermen. Depuis qu'elle a obtenu ce surnom, Choco a dit qu'elle voulait des lunettes de soleil pour coller avec son nouveau titre.",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.775,
+        "width": 0.425,
+        "height": 0.105
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a demandé à ses fans de faire des fanarts d'elle avec des solaires. Préparez-vous à un tsunami de lunettes de soleil !",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.9,
+        "width": 0.425,
+        "height": 0.043
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5kftsfp5i4781.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

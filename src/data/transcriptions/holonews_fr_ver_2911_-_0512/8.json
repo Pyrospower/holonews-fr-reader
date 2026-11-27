@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 8,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLO FANTASY",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.092,
+        "width": 0.5488,
+        "height": 0.0577
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Noel & Choco",
+      "bbox": {
+        "x": 0.188,
+        "y": 0.2639,
+        "width": 0.2867,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ui-mama a fait un stream ASMR qu’elle a commencé en imitant l’ASMR de Subaru tout en menaçant ses spectateurs avec un pistolet dans le cadre de son jeu de rôle. En même temps, elle a dit qu’elle a emprunté son micro binaural. C’est alors que Noel et Choco sont arrivées.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3051,
+        "width": 0.4206,
+        "height": 0.0994
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces dernières lui ont alors enseigné quelques techniques de base comme le tapotement et le massage d’oreilles. Lors de cette session en live, Noel a montré à Ui-mama comment souffler dans l'oreille, ce qui a conduit à une boutade sur la violence domestique.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.4227,
+        "width": 0.4194,
+        "height": 0.0881
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vers la fin, Choco s'est montrée un peu audacieuse au micro, ce qui a conduit Ui-mama à la menacer et à mettre fin au stream de manière abrupte pendant qu’elles commençaient à se chamailler.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.526,
+        "width": 0.4125,
+        "height": 0.0734
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.2639,
+        "width": 0.168,
+        "height": 0.0259
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Caravan Stories organise un événement spécial en collaboration avec Marine. Entre le 30 novembre et le 28 décembre, un gacha limité dans le temps vous permettra de débloquer Marine en tant que personnage jouable.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.3047,
+        "width": 0.4288,
+        "height": 0.0933
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Toutes ses répliques ont été doublées, et elle est disponible dans trois tenues différentes : sa tenue habituelle de capitaine, sa tenue d’idole, et son maillot de bain.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.4141,
+        "width": 0.4238,
+        "height": 0.0608
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Marine a aussi fait un stream promotionnel dans lequel elle a joué sa propre quête originale. Lors de sa toute première rencontre, un monstre l’a tuée en un coup. Avec l’aide des membres de son équipage, elle a pu compléter le reste des quêtes.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.4926,
+        "width": 0.4106,
+        "height": 0.0929
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Flare",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.7398,
+        "width": 0.1213,
+        "height": 0.0231
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En prévision de la visite éventuelle d’holoX et de la possibilité d'une nouvelle recrue, Flare s'est connectée sur Minecraft pour trouver l’entrepôt Shiranui en désordre. Piquant une crise mignonne, Flare a voulu appeler tous ses employés pour ranger tous les coffres.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7813,
+        "width": 0.4213,
+        "height": 0.1085
+      }
+    },
+    {
+      "type": "other",
+      "text": "THE HOLO ZONE\nAn Unofficial Hololive Zine",
+      "bbox": {
+        "x": 0.564,
+        "y": 0.6287,
+        "width": 0.3467,
+        "height": 0.0528
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rushia",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.7389,
+        "width": 0.16,
+        "height": 0.0241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "MASS, un serveur de projets liés aux VTubers, prévoit d’organiser un projet communautaire pour remonter le moral de Rushia pendant qu’elle traverse une mauvaise période. Ils veulent recueillir les messages des Fandeads et des fans d’hololive pour ensuite les compiler dans une vidéo pour elle. Si vous êtes intéressés, vous pouvez soumettre des messages via le lien Google Forms fourni.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.7813,
+        "width": 0.4263,
+        "height": 0.1324
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/9940wb7rjq581.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

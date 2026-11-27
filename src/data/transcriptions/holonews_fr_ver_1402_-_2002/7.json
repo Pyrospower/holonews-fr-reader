@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.1809,
+        "y": 0.0337,
+        "width": 0.1706,
+        "height": 0.0347
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.1951,
+        "width": 0.1706,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant que certains membres d'hololive diffusaient des streams ASMR, faisaient du chocolat ou chantaient à l'occasion de la Saint-Valentin, Subaru a étudié la voie de la saucisse et a essayé Sausage Legends 2, la suite d'un jeu mobile qu'elle adore. Elle a joué au mode campagne tout en découvrant l'histoire du jeu et en faisant quelques tirages au passage.",
+      "bbox": {
+        "x": 0.0485,
+        "y": 0.239,
+        "width": 0.4353,
+        "height": 0.1236
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ayame",
+      "bbox": {
+        "x": 0.6294,
+        "y": 0.1961,
+        "width": 0.1544,
+        "height": 0.0296
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ayame a invité Towa à jouer à Valorant avec elle. Elle a avoué qu'elle avait de l’appréhension avant d'inviter Towa, mais après un mois, Ayame a finalement trouvé le courage de le faire. Towa a accepté l'invitation, bien que choquée que ce soit Ayame qui en soit à l'origine. Le stream était très mignon.",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.237,
+        "width": 0.4324,
+        "height": 0.1246
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.4995,
+        "width": 0.1221,
+        "height": 0.0306
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aqua est de retour sur Minecraft pour reprendre son entreprise des mains de ses juniors Nene et Gura. Elle veut se vanter d'être le vrai PDG et les pousser à la capitulation. Soutenons le vrai PDG de l'Akukin Kensetsu !",
+      "bbox": {
+        "x": 0.0485,
+        "y": 0.5424,
+        "width": 0.4294,
+        "height": 0.097
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.6324,
+        "y": 0.4985,
+        "width": 0.1382,
+        "height": 0.0306
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a annoncé la sortie de son premier livre de recettes, Cooking With Choco ~Devilish Recipe Without Fire~, le 17 février. Les recettes présentées ont été vues pour la première fois sur ses streams de cuisine, et des commentaires de Subaru et Luna sont également inclus !",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.5444,
+        "width": 0.4338,
+        "height": 0.0991
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.7804,
+        "width": 0.1412,
+        "height": 0.0306
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a commissionné un dessin à Fumihiko et l'a montré en stream. Nous avons seulement vu la deuxième version du dessin car la direction a jugé l'original trop obscène et a poussé Fumihiko à le modifier. Choco a été époustouflée par les talents de Fumihiko. L'œuvre a été réalisée en quelques esquisses et la différence de qualité entre la dernière esquisse et la version finale était énorme.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7075,
+        "width": 0.4176,
+        "height": 0.2565
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.6309,
+        "y": 0.7814,
+        "width": 0.1235,
+        "height": 0.0306
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors d'un récent stream de cuisine, Aqua a préparé un gâteau au chocolat pour l'anniversaire de Choco. Aqua a essayé de cuire le gâteau aussi vite que possible en le faisant cuire à 300°C, car elle pensait que doubler la température accélérerait le processus. Le gâteau a fini par brûler à l'extérieur, mais n'était toujours pas cuit à l'intérieur. Selon Aqua, il avait un goût de « mélange de gâteaux crus ».",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.8251,
+        "width": 0.4138,
+        "height": 0.1397
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/wz3l9c9hplk81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

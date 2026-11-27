@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_holoid03_debut_special_-_fr_version",
+  "page": 11,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Merci d'avoir jeté un œil à notre édition commémorative des débuts d'HOLOH3ROES !",
+      "bbox": {
+        "x": 0.1981,
+        "y": 0.1311,
+        "width": 0.5944,
+        "height": 0.079
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "N'hésitez pas à lire nos numéros précédents et à nous suivre sur les réseaux sociaux !",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.2457,
+        "width": 0.6644,
+        "height": 0.079
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez apporter votre contribution à HoloNews, ou simplement vous tenir informé sur tout ce qui concerne hololive, n'hésitez pas non plus à rejoindre notre subreddit ou notre serveur Discord !",
+      "bbox": {
+        "x": 0.13,
+        "y": 0.3472,
+        "width": 0.7406,
+        "height": 0.1645
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d'avoir lu, et rendez-vous au prochain numéro !",
+      "bbox": {
+        "x": 0.1763,
+        "y": 0.6076,
+        "width": 0.6475,
+        "height": 0.0556
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/brxautayvis81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

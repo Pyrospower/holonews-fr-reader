@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.476,
+        "y": 0.0165,
+        "width": 0.047,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.221,
+        "width": 0.077,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie chante le refrain de la nouvelle chanson de DECO*27 intitulée « Zombies » qui a pour sujet une épidémie zombie, un thème très approprié pour la morte-vivante d’holoID ! Le clip est disponible sur la chaîne de DECO*27.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.2604,
+        "width": 0.3781,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kaela & Gura",
+      "bbox": {
+        "x": 0.1806,
+        "y": 0.6489,
+        "width": 0.2075,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant sa première visite du serveur ID, Gura a croisé la route de Kaela, et après avoir discuté, cette dernière a découvert que Gura avait du mal à obtenir les ressources nécessaires à la construction de l’Atlantide.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.6888,
+        "width": 0.3919,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kaela lui a alors promis deux Boîtes de Shulker pleines de Blocs de Quartz en échange d’une visite guidée du serveur EN. Kaela a alors récolté les blocs promis pendant plusieurs streams, l’un d’entre eux ayant duré neuf heures et demie et ayant cumulé plus de onze-mille spectateurs, ce qui n’était pas arrivé depuis ses débuts. A la fin de la semaine, Kaela et Gura ont visité le serveur EN ensemble, et cette dernière s’est vue offrir les deux Boîtes de Shulker ainsi que des Elytres portant le nom de Shorknado-69, un nom choisi par le tchat par le biais d’un sondage. Kaela a également réprimandé Gura qui était réticente à l’idée d’achever ses constructions, puis a décidé d’adopter celle-ci.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.7674,
+        "width": 0.3888,
+        "height": 0.2148
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.637,
+        "y": 0.18,
+        "width": 0.053,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine dans le Lundi Productif, le thème aléatoire de Iofi était « Cafards ». Après avoir initialement essayé de faire un dessin mignon, Iofi s'est déchaînée, a dessiné de vrais cafards et a joué à la poupée avec eux pendant presque tout le stream. Plusieurs personnes ont alors questionné leurs choix de vie les ayant menées jusqu'à cet instant.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.2183,
+        "width": 0.3875,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mumei in ID",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.729,
+        "width": 0.196,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mumei a décidé de diffuser un stream sur Minecraft afin de visiter le serveur ID avant de retrouver Bae qui faisait de même. Elles ont par la suite été rejointes par Zeta puis Risu et Kaela.",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.7674,
+        "width": 0.3794,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les cinq ont alors visité différents lieux du serveur, tels que le métro et les maisons de Kaela et Moona. Le groupe a été impressionné par l'immense collection d'Elytres de Kaela qui en a offert à tout le monde. Elles ont par la suite exploré des lieux d'intérêt du serveur EN, dont les maisons de Sana et Mumei. Elles ont aussi rencontré Mason, un Villageois (PNJ) vivant dans la maison de Bae.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.8481,
+        "width": 0.3819,
+        "height": 0.1311
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/oe0g9rg4fig91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2163,
+        "y": 0.0152,
+        "width": 0.5675,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/24\n[La+] Queen: 250K\n[Rio] CH4NGE: 100K\n[Subaru] Pleiades: 250K\n[Fuma/Uyu/Gamma/Rio] Brother Beat: 75K\n[Sora/Suzuna Subaru/Kosaka] Ready Steady: 100K\n[Bae] Strange: 100K\n[Kanata] Bug: 250K",
+      "bbox": {
+        "x": 0.021,
+        "y": 0.073,
+        "width": 0.474,
+        "height": 0.115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/25\n[Suisei] Kakero: 5M\n[Shien] BEGINNING: 25K\n[Nene] Ring-A-Linger: 100K\n[Nene/Mel] Inishie Romantic: 250K\n[Astel] Sen No Yoru Wo Koete (Cover): 10K\n[Kiara] Fever Night: 750K\n[Rikka] Overdose: 100K",
+      "bbox": {
+        "x": 0.021,
+        "y": 0.199,
+        "width": 0.474,
+        "height": 0.112
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/26\n[Miko] Darling Dance: 2M\n[Kanata/La+] Lower: 750K\n[Aqua] Internet Overdose: 1M\n[Shion/Aqua] Nee Nee Ne: 3M\n[Okayu] adieu, salauds: 500K\n[Fubuki] CREATION: 250K",
+      "bbox": {
+        "x": 0.021,
+        "y": 0.326,
+        "width": 0.474,
+        "height": 0.1
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/27\n[Shien] King: 1M\n[Okayu] Cinderella (Remix): 500K\n[Sora] Yumezora Fanfare: 25K",
+      "bbox": {
+        "x": 0.021,
+        "y": 0.436,
+        "width": 0.474,
+        "height": 0.048
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/28\n[Kanata] Additional Memory: 750K",
+      "bbox": {
+        "x": 0.508,
+        "y": 0.073,
+        "width": 0.47,
+        "height": 0.021
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/29\n[Risu] Mira (Cover): 75K\n[Aruran/Rikka] DAYS: 50K\n[La+] Carnivorous Plant: 750K\n[Rikka] Love Letter (Cover): 75K\n[Shion] Reincarnation Apple (Cover): 100K\n[Axel/Calliope/Ina/Ollie/Anya/Reine/Kronii/Altare/Vesper] Bad End Night (Cover): 100K\n[Miyabi] Kaika Sengen: 75K\n[Sora] Sora No Toki: 75K",
+      "bbox": {
+        "x": 0.508,
+        "y": 0.106,
+        "width": 0.47,
+        "height": 0.148
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/30\n[AZKi] equal: 25K\n[AZKi] Heartbeat: 100K\n[Ollie] Zombies (Cover): 50K\n[Miyabi/Temma] Suirenka: 50K\n[Mio] Yasashii Suisei (Cover): 75K\n[Watame] HOLLOW HUNGER: 750K\n[Fubuki] Kusaregedou to Chocolate: 750K\n[Reine/Kobo] Ai Kotoba IV (Cover): 100K\n[Fauna] Cute Na Kanojo (Cover): 100K\n[Okayu] Detabare Neko (Live): 75K\n[Watame] Venom (Cover): 50K\n[Kiara] Heart Challenger: 2M\n[Aqua] Aqua Iro Palette: 9M\n[Koyori] Bug: 500K",
+      "bbox": {
+        "x": 0.508,
+        "y": 0.265,
+        "width": 0.47,
+        "height": 0.231
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE",
+      "bbox": {
+        "x": 0.0225,
+        "y": 0.5126,
+        "width": 0.0763,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "other",
+      "text": "ORIGINALE",
+      "bbox": {
+        "x": 0.4525,
+        "y": 0.5126,
+        "width": 0.1069,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "other",
+      "text": "NOUVEAU",
+      "bbox": {
+        "x": 0.8788,
+        "y": 0.5126,
+        "width": 0.0963,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE · Fubuki · DAISHIKYU DAISHUKI\nREPRISE · Reine & Kobo · AI KOTOBA IV\nREPRISE · Ollie · ZOMBIES\nREPRISE · Watame · VENOM\nCHANSON ORIGINAL · Rikka · 3104\nCHANSON ORIGINAL · Sora · YUMEZORA FANFARE\nCHANSON ORIGINAL · AZKi · EQUAL\nREPRISE · Astel · SEN NO YORU WO KOETE\nREPRISE · Axel & Autres · BAD ∞ END ∞ NIGHT\nREPRISE · Rikka · LOVE LETTER\nREPRISE · Fauna · CUTE NA KANOJO\nREPRISE · Risu · MIRA\nREPRISE · Mio · YASASHII SUISEI\nREPRISE · Shion · TENSEI RINGO",
+      "bbox": {
+        "x": 0.021,
+        "y": 0.552,
+        "width": 0.958,
+        "height": 0.434
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/7f150h77o22a1.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

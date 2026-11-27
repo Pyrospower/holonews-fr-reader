@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.1957,
+        "y": 0.1508,
+        "width": 0.1229,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS   TEMPUS",
+      "bbox": {
+        "x": 0.3286,
+        "y": 0.1538,
+        "width": 0.1557,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel et Altare ont organisé une grande collab HOLOSTARS avec toutes les branches pour jouer à Left 4 Dead 2 en mode Versus, JP vs EN. Les JP avaient Astel, Shien, Gamma et Rio, tandis que pour les EN avaient les quatre membres de TEMPUS. Pour rendre les choses intéressantes, avant le stream, ils ont décidé que les perdants auraient une punition. La punition consistait à poster une photo de ses sous-vêtements sur Twitter.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.1914,
+        "width": 0.4456,
+        "height": 0.1272
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Leurs batailles ont été très serrées avec plusieurs moments drôles, comme les survivants Magni et Gamma qui se sont perdus et ont fini par mourir seul, ou lorsque le zombie Shien a mal dirigé sa charge et a fini par tomber dans la mer. Cependant, grâce à l'initiative d'Astel et à ses instructions de continuer à faire des clics droits, l'équipe JP a fini par gagner avec une marge très étroite.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.3346,
+        "width": 0.445,
+        "height": 0.1128
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En tant que perdants, les membres de TEMPUS ont commencé à poster leurs sous-vêtements sur Twitter, certains avec des rires et d'autres sans le vouloir. Peu de temps après, même s'ils ont gagné, l'équipe JP a fini par poster ses propres sous-vêtements par solidarité avec ses frères. Sasuga HOLOSTARS.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.464,
+        "width": 0.4457,
+        "height": 0.0954
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.6314,
+        "y": 0.1567,
+        "width": 0.14,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.78,
+        "y": 0.1597,
+        "width": 0.07,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir publié une reprise de « Mixed Nuts », Makaino Ririmu et Lain Patterson de Nijisanji, ainsi qu’Aruran, se sont rendus sur la chaîne de ce dernier pour parler de leur reprise. Ils y ont expliqué que c'était l'idée d'Aruran de faire cette reprise et que Ririmu n'a jamais regardé Spy x Family, l'anime dans lequel la chanson est utilisée comme OST. En plus d'être sympa, Aruran a été piégé par ses deux sœurs quand elles ont parlé du type d'Aruran, si c'est plutôt Lain ou Ririmu. Aruran est presque tombé dans le piège et a failli être renié par les deux, mais il a été sauvé par la gentillesse de Ririmu.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.1823,
+        "width": 0.4456,
+        "height": 0.2036
+      }
+    },
+    {
+      "type": "heading",
+      "text": "AGF 2022",
+      "bbox": {
+        "x": 0.5281,
+        "y": 0.4219,
+        "width": 0.4175,
+        "height": 0.0343
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS   UPROAR!!",
+      "bbox": {
+        "x": 0.7714,
+        "y": 0.4266,
+        "width": 0.1757,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De nouvelles informations ont été publiées pour HOLOSTARS et UPROAR!! qui se produiront à l'AGF ou Animate Girl Festival les 5 et 6 novembre prochains. Le thème de cette année est « Arabian Nights » et ils ont dévoilé le visuel clé pour Hanasaki Miyabi. Ils ont également publié des informations sur le merchandising qui comprend un stand acrylique sur le thème des Nuits d'Arabie et des badges pour les boîtes aveugles.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.4618,
+        "width": 0.445,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 18 septembre à 20h00 JST, un live stream sera diffusé sur la chaîne YouTube de HOLOSTARS pour annoncer officiellement l'AGF ainsi que leurs projets. En outre, une collaboration avec un café est prévue du 4 au 20 novembre, sur le thème des Mille et une nuits.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.6094,
+        "width": 0.445,
+        "height": 0.0838
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/yp52ri2kaqn91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

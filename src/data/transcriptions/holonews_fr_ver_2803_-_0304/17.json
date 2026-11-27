@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "DIVERS",
+      "bbox": {
+        "x": 0.4225,
+        "y": 0.0174,
+        "width": 0.1544,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive",
+      "bbox": {
+        "x": 0.1669,
+        "y": 0.1849,
+        "width": 0.1331,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La nouvelle membre du personnel d’hololive, Harusaki Nodoka, a eu son premier jour dans les bureaux d’hololive le 1er Avril (JST) ! Son modèle a été illustré par Ordan-sensei, qui a également dessiné celui de A-chan et le design actuel de Sora. Dans une courte animation, A-chan a donné à Nodoka une visite des locaux ou elle a expliqué comment le personnel restait préparé pour les bêtises destructrices des talents et que les talents non-humains sont « mis de côté en tant que rations d’urgences ». À la fin, Sora est apparue pour expliquer que c’était une farce de poisson d’Avril. Nodoka a été mise au travail de suite en s’engageant à faire de tout son mieux en tant que membre du personnel d’hololive. Vous pouvez la suivre sur Twitter @harusakinodoka.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.2209,
+        "width": 0.3919,
+        "height": 0.2487
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holo Ghost",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.5265,
+        "width": 0.1763,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’unité d’investigation Holo Ghost est de retour pour enquêter sur des activités paranormales qui se sont produites récemment. Cette fois, Koyori, Watame, Botan et Anya ont été envoyés. L’enquête s’est passée sans problème jusqu’à ce qu’elles ont dû enquêter dans une école abandonnée. Koyori et Watame ont perdu la vie pendant cette enquête.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.5638,
+        "width": 0.3919,
+        "height": 0.1285
+      }
+    },
+    {
+      "type": "heading",
+      "text": "APEX",
+      "bbox": {
+        "x": 0.1775,
+        "y": 0.7413,
+        "width": 0.0881,
+        "height": 0.0156
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après l’annonce des équipes de VSaikyo, qui se passera le 17 Avril, on a pu voir plusieurs membres d’hololive participer dans de nombreux lobby personnalisés pour affiner leurs niveaux juste avant le début des matchs officiels. Roberu est allé dans une des sessions tout seul, tandis que Matsuri, Towa, Aqua et Suisei sont allées avec leurs propres équipes. Astel a rejoint son équipe en retard mais avec les matchs officiels dans les parages, il est sûr de pouvoir utiliser Mad Maggie plus souvent. Allez voir leur streams pour voir comment ils se débrouillent !",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.786,
+        "width": 0.3913,
+        "height": 0.1801
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ina x Tsukumo",
+      "bbox": {
+        "x": 0.6312,
+        "y": 0.181,
+        "width": 0.2313,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des produits dérivés de collaboration entre holoMyth et Tsukumo sont maintenant en vente ! La période de précommande n’est que pour 15 jours seulement, à compter du 1er avril ! On retrouve parmi ces produits :",
+      "bbox": {
+        "x": 0.5281,
+        "y": 0.2214,
+        "width": 0.4025,
+        "height": 0.0655
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- Des peluches Myth\n- Des porte-clés en caoutchouc\n- Des porte-clés en caoutchouc\n- Des badges",
+      "bbox": {
+        "x": 0.5288,
+        "y": 0.2947,
+        "width": 0.2725,
+        "height": 0.0525
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina a également mentionné dans un stream récent de dessin qu’elle était en train de travailler sur autre chose pour cette collaboration, ce qui était en cours de réalisation depuis un certain temps. Il y a encore plus de choses à venir alors restez à l’écoute !",
+      "bbox": {
+        "x": 0.5288,
+        "y": 0.355,
+        "width": 0.385,
+        "height": 0.0885
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mario Kart",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.5052,
+        "width": 0.1688,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un tournoi Mario Kart s’est passé cette semaine entre 12 talents avec des membres de chaque génération de la branche JP : Suisei (0), Mel (1), Matsuri (1), Subaru (2), Choco (2), Mio (Gamers), Pekora (3), Towa (4), Watame (4), Nene (5), Chloe (6) et Koyori (6).",
+      "bbox": {
+        "x": 0.5288,
+        "y": 0.5417,
+        "width": 0.375,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei était constamment en première place au classement par points.",
+      "bbox": {
+        "x": 0.5294,
+        "y": 0.6597,
+        "width": 0.3431,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive Error",
+      "bbox": {
+        "x": 0.6263,
+        "y": 0.7569,
+        "width": 0.2238,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les sixième et septième épisodes de la série 2D holoERROR ont été publiés, faisant l’introduction de plusieurs nouveaux personnages. Dans les années 19XX, Shino (Sora) prie qu’elle pourra se faire des amis à l’école.",
+      "bbox": {
+        "x": 0.5281,
+        "y": 0.7995,
+        "width": 0.3913,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon le commentaire épinglé d’hololive sous le Chapitre 7, le prochain épisode sera disponible à minuit, le 9 Avril (JST), et sera la conclusion de « L’Arc Classique ».",
+      "bbox": {
+        "x": 0.5288,
+        "y": 0.9028,
+        "width": 0.3875,
+        "height": 0.0582
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4oiv8ys6qws81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

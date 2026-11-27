@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOCOUNCIL",
+      "bbox": {
+        "x": 0.0669,
+        "y": 0.0608,
+        "width": 0.4081,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fauna",
+      "bbox": {
+        "x": 0.1612,
+        "y": 0.2311,
+        "width": 0.1403,
+        "height": 0.0249
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le stream Resident Evil 7 de Fauna, prévu avec Bae en tant que soutien moral, s’est transformé en une réunion du Council. Mumei s’est joint après environ 1h20, alors que Kronii et Sana ont rejoint vers la fin du stream. Avec le support du Council (surtout les incroyables capacités de motivation de Bae), Fauna a réussi à surpasser ses peurs et à vaincre Jack le mutant. D’autres moments forts ont eu lieu, comme le fait que personne n’ait jamais été aussi excité dans RE7, les opinions de Kronii et de Sana sur Jack, une rare apparition du visage en colère de Fauna, et Mumei qui est imperturbable face à l’horreur, comme d’habitude.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.2782,
+        "width": 0.4281,
+        "height": 0.2617
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kronii",
+      "bbox": {
+        "x": 0.6328,
+        "y": 0.2301,
+        "width": 0.1493,
+        "height": 0.0259
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans son stream lecture de Super Chats et discussion, Kronii a dit qu’elle continuait d’écrire et de travailler pour faire un stream sur de la philosophie. Pendant qu’elle lisait un Super Chat parlant de Cortana - qui l’a attaqué pendant son stream sur Blue Archive - l’I.A. a frappé de nouveau ! Même après avoir été désactivée, elle est revenue en répétant « Hi, I’m Cortana » et en forçant son PC à redémarrer. Après ça, Kronii s’est moquée de Cortana en disant que c’était une perdante. Mais c’était une mauvaise idée, car Cortana est revenue pour une seconde manche, répétant toujours plus de « Hi » et redémarrant son PC une nouvelle fois.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2782,
+        "width": 0.4288,
+        "height": 0.2526
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana",
+      "bbox": {
+        "x": 0.1627,
+        "y": 0.6891,
+        "width": 0.1134,
+        "height": 0.0259
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sana nous a prouvé qu'elle était une joueuse dans l’âme et nous a encore une fois montré sa persévérance en jouant à Pokémon Perle Scintillante pendant 40 heures au total cette semaine. Elle a obtenu le titre de maître Pokémon et est devenue le premier membre d'holoEN à battre Cynthia. Même si elle a fini le jeu, Sana veut continuer d'y jouer la semaine prochaine parce qu'elle y prend beaucoup de plaisir.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.7326,
+        "width": 0.4044,
+        "height": 0.2131
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli & Baelz",
+      "bbox": {
+        "x": 0.6657,
+        "y": 0.687,
+        "width": 0.2806,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli et Bae ont réagi aux animaux de compagnie de leurs fans, tout en participant à un jeu d'alcool. Les règles étaient simples : elles boivent si ce n'est pas un animal, si c'est un bébé, ou si l'animal peut manger Bae. Calli nous a montré son incroyable tolérance à l'alcool, contrairement à Bae qui était très vite éméchée. Tous les animaux étaient mignons, mais certains étaient surprenants, comme le rat dénommé Bae, Snoop Cat, et Beppy le serpent ! Pendant le stream, Calli n'a pas cessé de mentionner son amour inconditionnel des chats, et à la fin, Bae a commencé à se demander si elle devrait prendre un chat. Elles ont annoncé une partie 2 pour décembre.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.737,
+        "width": 0.4256,
+        "height": 0.2144
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/npfnstdmjr381.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

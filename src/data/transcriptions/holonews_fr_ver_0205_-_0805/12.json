@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.2606,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shien & Oga",
+      "bbox": {
+        "x": 0.2075,
+        "y": 0.1801,
+        "width": 0.1688,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shien et Oga, également connus sous le nom de « Mafia », ont célébré leur deuxième anniversaire la semaine dernière. Dans leur stream rétrospectif, ils ont montré à quel point ils étaient devenus proches en parlant du fait qu'ils se voient hors stream plus souvent qu'ils ne font de collaborations.",
+      "bbox": {
+        "x": 0.0663,
+        "y": 0.2188,
+        "width": 0.38,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils ont également parlé de tout ce qui a changé depuis qu'ils ont commencé à streamer. Comme savoir quand libérer une certaine énergie en fonction de leur contenu et obtenir leurs chansons originales. Ils se sont même moqués l'un de l'autre en disant qu'ils devraient chanter les chansons de l'autre.",
+      "bbox": {
+        "x": 0.5444,
+        "y": 0.0586,
+        "width": 0.3856,
+        "height": 0.0881
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin, ils ont parlé de leurs projets et de leurs collaborations, notamment avec UPROAR !! dont l'interdiction de collaboration a été levée récemment. Ils ont tous deux déclaré qu'ils leur avaient déjà parlé hors stream au sujet des collaborations, mais qu'ils informeraient leurs spectateurs une fois que tout serait établi et concret. Ils ont terminé le stream en remerciant une fois de plus leurs spectateurs pour les deux années qu'ils ont passées ensemble et les ont invités à les soutenir une fois de plus cette année.",
+      "bbox": {
+        "x": 0.5444,
+        "y": 0.1628,
+        "width": 0.39,
+        "height": 0.1532
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.4727,
+        "y": 0.3308,
+        "width": 0.0564,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi & Ollie",
+      "bbox": {
+        "x": 0.1909,
+        "y": 0.4975,
+        "width": 0.1745,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Iofi a dénoncé Ollie pour avoir dessiné une illustration obscène d'elle par ennui. La preuve qu'elle a présentée était une capture d'écran de leur conversation sur Discord. Elle a évidemment dû censurer le dessin. Iofi a ensuite révélé qu'Ollie avait également dessiné une illustration obscène de Reine.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.5321,
+        "width": 0.385,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.1706,
+        "y": 0.7656,
+        "width": 0.0513,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Iofi a joué au remake du jeu d'horreur Ib. Alors qu'elle était effrayée par les jumpscares quasi constants et les créatures effrayantes, son intérêt est monté en flèche lorsqu'elle a découvert que le jeu comportait un PNJ représentant un très beau garçon.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.8051,
+        "width": 0.3838,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Reine & Zeta",
+      "bbox": {
+        "x": 0.6655,
+        "y": 0.4924,
+        "width": 0.2018,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Reine a déclaré que Zeta était un chat pendant leur collaboration sur Keywe. Cette déclaration a eu lieu après que Zeta ait harcelé le membre de holotori pour être un oiseau.",
+      "bbox": {
+        "x": 0.5444,
+        "y": 0.5321,
+        "width": 0.3638,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En guise de représailles, Reine a demandé si Zeta était vraiment une humaine et non pas plutôt un chat, car cette dernière avait « l'air d'un chat ». Elle a également menacé Zeta en disant que certains oiseaux mangent des chats. Zeta a essayé de se rebeller en ne participant pas au tutoriel tant que Reine ne retirait pas ses propos. Au lieu de cela, Reine a simplement organisé un sondage auprès du public et 86% des votes ont déclaré que Zeta était bien un chat.",
+      "bbox": {
+        "x": 0.5444,
+        "y": 0.6128,
+        "width": 0.3819,
+        "height": 0.1445
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/z9n8j2nspg091.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

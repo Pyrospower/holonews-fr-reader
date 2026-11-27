@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Divers",
+      "bbox": {
+        "x": 0.4369,
+        "y": 0.0169,
+        "width": 0.1263,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "other",
+      "text": "Game release commemorative special set\n8,000 yen (tax included)\n• Hololive ERROR full version horror game\n• Official setting reference materials • Group photo style acrylic panel • Selfie style postcards (4 types)",
+      "bbox": {
+        "x": 0.26,
+        "y": 0.19,
+        "width": 0.145,
+        "height": 0.086
+      }
+    },
+    {
+      "type": "other",
+      "text": "Game release commemorative special set limited benefits",
+      "bbox": {
+        "x": 0.067,
+        "y": 0.319,
+        "width": 0.231,
+        "height": 0.008
+      }
+    },
+    {
+      "type": "other",
+      "text": "Group photo style acrylic panel | Selfie-style postcards (4 types)",
+      "bbox": {
+        "x": 0.205,
+        "y": 0.399,
+        "width": 0.214,
+        "height": 0.009
+      }
+    },
+    {
+      "type": "heading",
+      "text": "hololive ERROR",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.4227,
+        "width": 0.2494,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le jeu d'horreur officiel hololive ERROR est sorti le 18 juillet. Le jeu a maintenant une traduction en anglais et l'histoire a été complètement remaniée par rapport à la démo, puisque vous jouez maintenant le rôle d'un journaliste qui enquête sur le lycée Aogami pour un magazine occulte.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.4609,
+        "width": 0.4069,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des produits dé commémoratifs sont désormais disponibles sur la boutique officielle :",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.5516,
+        "width": 0.3913,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Le jeu au format numérique\n• Une photo de groupe sur une plaque en acrylique, avec l'ensemble des membres.\n• Quatre cartes postales différentes style selfie\n• Une collection d'illustrations et de concept art",
+      "bbox": {
+        "x": 0.0888,
+        "y": 0.5907,
+        "width": 0.3844,
+        "height": 0.0647
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le jeu est uniquement disponible sous Windows. Pour connaître les configurations minimales et recommandées, veuillez consulter le site web d'holoERROR ou la page des produits dérivés.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.6693,
+        "width": 0.3981,
+        "height": 0.0512
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Bandai Candy",
+      "bbox": {
+        "x": 0.1706,
+        "y": 0.8724,
+        "width": 0.2181,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les snacks rectangulaires de Bandai seront accompagnés d'autocollants hololive. La première gamme se compose de dix-sept membres d'hololive ! Les autocollants viennent en deux variétés : un style régulier et un style rare.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.911,
+        "width": 0.4069,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "other",
+      "text": "COLLABORATION MENU\nMinato Aqua | Hoshimachi Suisei | Shirogane Noel | Houshou Marine",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.067,
+        "width": 0.426,
+        "height": 0.178
+      }
+    },
+    {
+      "type": "heading",
+      "text": "hololive x PASELA",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.274,
+        "width": 0.286,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La collaboration hololive x PASELA se compose d'Aqua, Suisei, Noel et Marine. Elle se déroulera en trois parties : la première est un menu de gâteaux et de boissons inspiré des talents, avec des articles comme des figurines en acrylique, des posters, des tapisseries et des pins. La deuxième partie, qui débutera le 8 août, consistera en des suites de karaoké PASELA décorées avec des œuvres d'art sur le thème des talents, où l'on pourra chanter leurs chansons originales ! Les détails de la troisième partie n'ont pas encore été annoncés.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.3151,
+        "width": 0.385,
+        "height": 0.1458
+      }
+    },
+    {
+      "type": "heading",
+      "text": "hololive x Tokyo Tower",
+      "bbox": {
+        "x": 0.6369,
+        "y": 0.8494,
+        "width": 0.3131,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aqua, Suisei, Noel et Marine font également partie de la collaboration hololive x Tokyo Tower. Nous avons de nouveau la chance d'acheter des articles comme des tapisseries, des figurines en acrylique, des badges et des t-shirts. Tous les articles sont disponibles sur la boutique officielle d'hololive et sur GeekJack.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.8885,
+        "width": 0.3931,
+        "height": 0.0938
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/gou7namo0qf91.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

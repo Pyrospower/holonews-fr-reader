@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Édition Noel",
+      "bbox": {
+        "x": 0.13,
+        "y": 0.168,
+        "width": 0.24,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Anniversaire d'Ayame",
+      "bbox": {
+        "x": 0.0189,
+        "y": 0.2643,
+        "width": 0.2239,
+        "height": 0.0459
+      }
+    },
+    {
+      "type": "other",
+      "text": "Et elle est mignonne",
+      "bbox": {
+        "x": 0.11,
+        "y": 0.368,
+        "width": 0.12,
+        "height": 0.049
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Troisième anniversaire de Melty Kiss",
+      "bbox": {
+        "x": 0.209,
+        "y": 0.675,
+        "width": 0.57,
+        "height": 0.063
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Second anniversaire de Temma",
+      "bbox": {
+        "x": 0.317,
+        "y": 0.786,
+        "width": 0.56,
+        "height": 0.068
+      }
+    },
+    {
+      "type": "other",
+      "text": "L'équipe d'Holonews est en pause jusqu'au 1er janvier",
+      "bbox": {
+        "x": 0.0411,
+        "y": 0.9356,
+        "width": 0.92,
+        "height": 0.0224
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/mdbr8fr7op881.gif",
+    "gifFrame": 37,
+    "confidence": 64
+  }
+}

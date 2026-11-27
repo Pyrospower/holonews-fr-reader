@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Finale Rust S2",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.1953,
+        "width": 0.2725,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La finale de la saison 2 de Rust est arrivée et apporte la guerre avec elle. Le premier conflit a éclaté quand Polka, Miko, Luna et Matsuri ont lancé des missiles dans le but de détruire la base de Suisei. En représailles, Suisei, Roboco, Kanata et Gura ont formé une alliance avec Pekora et Koyori, puis ont recruté Zeta. Avec la retraite de Matsuri et l’élimination de Polka, l’équipe de Suisei semblait avoir gagné la bataille.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.2352,
+        "width": 0.445,
+        "height": 0.1276
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cependant, un désastre s’est produit quand Pekora a trahi l’équipe Hoshimachi, anéantissant l’équipe de Suisei avec un lance-roquettes tout en annonçant qu’elle les attendrait dans sa base. La trahison de Pekora a forcé Suisei à déclarer la guerre et à former une alliance contre la criminelle de guerre en s’associant à ses anciennes ennemies. Luna est également tombée sur Bae et IRyS pendant qu’elles ramassaient des champignons et les a ajoutées à l’équipe d’assaut.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.3785,
+        "width": 0.4456,
+        "height": 0.1419
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La guerre a éclaté avec Suisei menant l’assaut au sol et Matsuri envoyant une salve de missiles sur la base de Pekora, tandis que Gura jouait le rôle de tireuse embusquée. Miko a essayé d’attaquer à l’aide de son hélicoptère mais a été abattue par le système de défense de Peko, alors que Pekora elle-même laissait derrière elle une traînée de corps. Suisei et Miko se sont accidentellement tuées en installant du C4 sur les deux portes, se piégeant au cœur de l’explosion.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.536,
+        "width": 0.4456,
+        "height": 0.1419
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Malgré les meilleurs efforts de ses membres, la Grande Alliance Hoshimachi n’a pas été capable de localiser l’armoire à outils de la base de Pekora à temps (l’objet déterminant à qui appartient un bâtiment), causant ainsi leur défaite. Une fois la guerre terminée, Pekora leur a montré l’emplacement de l’armoire à outils et leur a permis de la détruire.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.6936,
+        "width": 0.445,
+        "height": 0.1102
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ainsi, après avoir célébré la fin du conflit et pris des photos ensemble, la saison 2 de Rust prit fin.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.8225,
+        "width": 0.445,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.6319,
+        "y": 0.1953,
+        "width": 0.13,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen6",
+      "bbox": {
+        "x": 0.7837,
+        "y": 0.207,
+        "width": 0.0462,
+        "height": 0.0109
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La pauvre Koyori a été trahie et abandonnée par son alliée Pekora pendant la guerre de fin de saison de Rust. Tout cela est dû à un enchaînement de malheureuses coïncidences, Pekora ayant essayé d’informer le coyote de ses plans de trahison envers Suisei et de sa volonté de maintenir leur alliance. Malheureusement, Koyori n’a pas pu recevoir le message de Pekora, son inventaire étant plein, et Pekora a rapidement dû récupérer la note pour éviter qu’elle tombe entre les mains de Suisei. Plus tard, Koyori a essayé de retourner aux côtés de Pekora, mais a été abattue à plusieurs reprises par la criminelle de guerre qui était incapable de déterminer qui s’approchait à cause du chaos ambiant, ne laissant d’autre choix à Koyori que de se battre contre son ancienne alliée. Cette dernière a finalement trouvé le message après la guerre, lui faisant réaliser que Pekora n’avait jamais prévu de la trahir. Un malentendu digne d’un anime.",
+      "bbox": {
+        "x": 0.5112,
+        "y": 0.2348,
+        "width": 0.4456,
+        "height": 0.2687
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloEN",
+      "bbox": {
+        "x": 0.5887,
+        "y": 0.5247,
+        "width": 0.1425,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "holoEN",
+      "bbox": {
+        "x": 0.7612,
+        "y": 0.533,
+        "width": 0.0581,
+        "height": 0.0109
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Alors que la grande PekoGuerre faisait rage sur Rust, les membres d’holoEN faisaient ce qu’elles voulaient, comme d’habitude. Kiara a accouru pour soutenir Pekora, mais elle a fini par tuer la lapine à cause d’un faible champ visuel, à la surprise générale. Alors que BaeRys étaient mobilisées dans la lutte contre Pekora, Amelia a jeté sa voiture d’une falaise et a aidé Pekora en attaquant ses deux cadettes. Calli, de son côté, a formé un nouveau groupe avec Fubuki, Zeta et Kiara. La même Kiara qui, entre-temps, a conquis la base d’IRyS, a tué l’Espoir et l’a extorquée pendant que Bae se précipitait au secours de sa femme. Malheureusement pour Bae, son embuscade contre Kiara a échoué, et le phénix a ainsi complètement terrassé le duo. Calli a fini par rejoindre le champ de bataille dans les derniers instants du conflit quand elle s’est chamaillée avec Gura, poussant les deux à se chasser mutuellement pendant que tout le monde célébrait la fin de la guerre.",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.5642,
+        "width": 0.4463,
+        "height": 0.2843
+      }
+    },
+    {
+      "type": "other",
+      "text": "COUNCIL",
+      "bbox": {
+        "x": 0.1894,
+        "y": 0.8789,
+        "width": 0.0719,
+        "height": 0.0109
+      }
+    },
+    {
+      "type": "other",
+      "text": "HOPE",
+      "bbox": {
+        "x": 0.2025,
+        "y": 0.9023,
+        "width": 0.0456,
+        "height": 0.0104
+      }
+    },
+    {
+      "type": "heading",
+      "text": "BaeRys",
+      "bbox": {
+        "x": 0.0613,
+        "y": 0.9314,
+        "width": 0.1412,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le couple divorcé BaeRys est de retour sur Rust ! Après avoir rencontré Zeta qui était enfermée dans la même cellule qu’elle, IRyS a commencé à flirter avec l’agent neko, tout en étant en appel avec Bae. Bae et Zeta ne pouvaient entendre qu’IRyS, faisant ainsi « paniquer » Bae qui a essayé d’interrompre le flirt en tentant d’intimider Zeta et en cherchant des sauts de logique dans les avances d’IRyS avant de finalement tirer sur cette dernière en guise de punition.",
+      "bbox": {
+        "x": 0.2781,
+        "y": 0.8724,
+        "width": 0.6607,
+        "height": 0.0877
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/568mfgfkaqn91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

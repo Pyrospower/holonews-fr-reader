@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 11,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.2606,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Stars 1",
+      "bbox": {
+        "x": 0.314,
+        "y": 0.243,
+        "width": 0.11,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La première génération d’HOLOSTARS s’est réunit chez Aruran pour stream ensemble. Ils ont discuté avec le tchat et ont cuisiné ensemble des plats comme des pâtes, du rosbif et de la salade. Il y avait aussi du gâteau et de la pastèque à partager. A noter qu'apparemment Aruran n’avait pas de rizeuse. Le groupe a aussi prévu de se rendre chez un membre à tour de rôle pour stream ensemble. Il y a beaucoup de moment mémorable dans ce long stream de 4 heures, donc pensez à regarder la reddiffusion, si possible.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2817,
+        "width": 0.3875,
+        "height": 0.1745
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.59,
+        "width": 0.093,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shien a fait un compte à rebours pour atteindre les 200k abonnés avec ses spectateurs. En attendant le moment fatidique, il a joué avec des accessoires de son modèle, comme par exemple mettre un bukatachi sur sa tête, à se « déshabiller » pour avoir l’air musclé et à montrer son écriture. Il a atteint son objectif des 200k abonnés pendant qu’il faisait un solo de « Find It ».",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.6298,
+        "width": 0.3919,
+        "height": 0.1068
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.6306,
+        "y": 0.1784,
+        "width": 0.1181,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant que Roberu jouait à Mario Kart, alors qu’il a dit qu’il ferait une dernière course avant de terminer son stream, il a eu une soudaine envie pressante d’aller aux toilettes.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.2183,
+        "width": 0.3869,
+        "height": 0.0486
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a supplié pour que le choix de la course se fasse rapidement, s’est réjoui quand il a vu que c’était en 200cc et a dit que cela était en sa faveur. Roberu a mentionné qu’il devait urgemment faire ses besoins et que, même s’il pouvait s’uriner dessus, il ne pouvait pas se faire dessus. Il a réussi à se retenir et a fini la course. Après avoir franchi la ligne d’arrivée, il a rapidement dit au revoir à son audience et a fini son stream.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.2669,
+        "width": 0.3906,
+        "height": 0.1068
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.538,
+        "width": 0.116,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roberu fait un stream sur holoTEMPUS, alors que ces derniers n’avaient pas encore débuté (et qu’il n’avait aucune information dessus). Il a regardé le design de qu’un des membres du groupe, a lu leurs descriptions et a même regardé le prologue de leur mnaga en anglais. Il savait qu’il y avait une version en japonais, mais il voulait se mettre au défi de le lire en anglais. Il a également deviné la plupart des personnalités des membres de Altare qui a des airs de Temma à Noir qui ressemble à une personne qui rit facilement à des blagues de papa.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.5777,
+        "width": 0.3906,
+        "height": 0.1554
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fuma",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.812,
+        "width": 0.093,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après Rio, Fuma a aussi fait un stream uniquement en anglais sur Valorant, après avoir porté des lunettes de soleil. Lors du stream, Gamma l’a rejoint, suivi d’Astel, et ils ont essayé de parler uniquement en anglais. Il a aussi annoncé à la fin du stream qu’UPROAR!! va avoir ses abonnements ouverts à partir du 25 juillet.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.8503,
+        "width": 0.3831,
+        "height": 0.1072
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/hqc7zhlo0qf91.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

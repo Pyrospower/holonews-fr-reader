@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 14,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Vesper",
+      "bbox": {
+        "x": 0.1629,
+        "y": 0.1558,
+        "width": 0.1371,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "TEMPUS",
+      "bbox": {
+        "x": 0.31,
+        "y": 0.1577,
+        "width": 0.0814,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La semaine dernière, Vesper s'est lancé le défi de terminer FTL : Faster Than Light en mode difficile en un seul stream. Le mode difficile de ce jeu est tristement célèbre pour sa difficulté et ses spectateurs ont compris qu'il allait y passer un certain temps. Finalement, après plus de sept heures et de multiples essais, Vesper a réussi à terminer le jeu en mode difficile. Félicitations !",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.1944,
+        "width": 0.4456,
+        "height": 0.1163
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Magni",
+      "bbox": {
+        "x": 0.12,
+        "y": 0.3373,
+        "width": 0.1229,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "TEMPUS",
+      "bbox": {
+        "x": 0.2514,
+        "y": 0.3383,
+        "width": 0.0814,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après Vesper et son défi sur FTL: Faster Than Light, notre Maglord est arrivé avec son propre défi : le mode difficile de Subnautica avec une seule vie. Il avait prévu un stream plus long que d'habitude pour ce défi, mais ce stream a duré presque onze heures car il a fini par adorer ce mode de jeu. Magni a établi le record du plus long stream jamais réalisé par TEMPUS.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.3759,
+        "width": 0.4456,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Magni",
+      "bbox": {
+        "x": 0.1186,
+        "y": 0.6895,
+        "width": 0.1229,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "TEMPUS",
+      "bbox": {
+        "x": 0.25,
+        "y": 0.6935,
+        "width": 0.0814,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans son stream Minecraft, Magni occupait paisiblement son temps en créant une chambre de torture, en kidnappant des villageois et en les déposant dans ce lieu de douleur éternelle. Cependant, Sora a décidé de regarder son stream exactement à ce moment-là. Incapable de trouver un moyen de s'échapper, Magni a expliqué ce qu'il faisait de la manière la plus calme et détaillée possible.",
+      "bbox": {
+        "x": 0.0419,
+        "y": 0.7283,
+        "width": 0.4463,
+        "height": 0.1003
+      }
+    },
+    {
+      "type": "heading",
+      "text": "APEX",
+      "bbox": {
+        "x": 0.6929,
+        "y": 0.1597,
+        "width": 0.1029,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "TEMPUS   STARS\nUPROAR!!",
+      "bbox": {
+        "x": 0.8,
+        "y": 0.1538,
+        "width": 0.16,
+        "height": 0.0397
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Axel a rejoint son tout premier lobby personnalisé sur Apex avec Astel et Fuma. Ils ont rejoint Shibu Hal Custom, en utilisant « We are HOLOSTARS!! » comme nom d'équipe. Chacun d'entre eux a également reçu un tweet de YAGOO disant « Ganbatte ».",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.1984,
+        "width": 0.4469,
+        "height": 0.0751
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Leur lobby était rempli de joueurs professionnels et de streamers, comme rpr de SCARZ, qui a fait équipe avec Towa, CPT de CR, Rion, et Neth, Restia, Pakael, et bien d'autres. Astel a répété à Fuma et Axel qu'ils étaient là pour s'amuser et acquérir de l'expérience, et qu'ils n'avaient donc pas à être nerveux. Astel en a profité pour leur donner quelques conseils pour s'améliorer chaque fois qu'ils étaient mis à terre.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.2895,
+        "width": 0.4456,
+        "height": 0.1037
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Malgré le lag et le ping élevé d'Axel, ils ont réussi à obtenir treize kills au deuxième tour, mais la position des anneaux ne leur a pas été favorable, ce qui les a fait atterrir à la cinquième place. Au troisième et dernier tour, ils ont improvisé un jeu où celui qui faisait le moins de dégâts devait faire de l'ASMR et Fuma a perdu.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.4067,
+        "width": 0.4463,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Altare",
+      "bbox": {
+        "x": 0.5863,
+        "y": 0.5239,
+        "width": 0.1225,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "other",
+      "text": "TEMPUS",
+      "bbox": {
+        "x": 0.72,
+        "y": 0.5238,
+        "width": 0.0814,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir vu le stream de presque onze heures de Magni, Altare a décidé qu'il ne voulait pas perdre. Il a donc joué à Minecraft pendant douze heures (techniquement onze heures et cinquante minutes en raison des limites imposées par YouTube). Il a construit un château pour ses chiens. Au cours de ces heures, il a été témoin de quelques moments intéressants qui se sont produits, comme Axel qui a construit sa maison relié à celle de Vesper, et Vesper qui s'est connecté pour miner soixante-neuf diamants, et bien d'autres.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.5595,
+        "width": 0.4456,
+        "height": 0.1419
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À la neuvième heure, Dezmond s'est connecté et a rejoint Altare pour râler parce que le record ne lui appartiendrait plus. Après la raillerie d'Altare, Dez a menacé d'annuler ses streams, de les remplacer par Subnautica, et ainsi de suite jusqu'à ce que des streams TEMPUS aient lieu à n'importe quelle heure de la journée. C'est la guerre des streams d'endurance.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.7157,
+        "width": 0.4456,
+        "height": 0.1011
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ygevsr6kaqn91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

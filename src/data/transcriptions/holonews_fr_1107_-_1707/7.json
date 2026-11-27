@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.2606,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.1662,
+        "y": 0.187,
+        "width": 0.12,
+        "height": 0.0214
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roberu a également reçu une mise à jour 2.0 de sa tenue d'été. Il a maintenant plus de mouvement et de portée, et tous ses accessoires comme le calamar frit, l'éventail, la pomme d'amour et les balles peuvent bouger. Il nous a également montré ses différentes expressions faciales comme ses visages en colère, triste et euphorique.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2261,
+        "width": 0.3838,
+        "height": 0.0851
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a passé le reste du stream à parler à ses auditeurs, et comme d'habitude, les sujets étaient nombreux et variés.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.3234,
+        "width": 0.3656,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "other",
+      "text": "En colère",
+      "bbox": {
+        "x": 0.0781,
+        "y": 0.3672,
+        "width": 0.0775,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "other",
+      "text": "Clin d'œil",
+      "bbox": {
+        "x": 0.2838,
+        "y": 0.3672,
+        "width": 0.0756,
+        "height": 0.01
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rio",
+      "bbox": {
+        "x": 0.1662,
+        "y": 0.8141,
+        "width": 0.0585,
+        "height": 0.0203
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En raison de sa détermination à apprendre l'anglais, Rio s'est lancé le défi de jouer à Valorant et de communiquer uniquement en anglais. Il a toutefois précisé qu'il ne parlerait que l'anglais dans le jeu, mais qu'il pourrait parler japonais lorsqu'il ne jouerait pas. De nombreux collègues de Rio sont venus lui apporter leur soutien, comme ses coéquipiers Gamma et Fuma, Kobo d’holoID, et son aîné Astel.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8524,
+        "width": 0.3656,
+        "height": 0.1328
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.6308,
+        "y": 0.1859,
+        "width": 0.1138,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyabi a révélé la version 2.0 de sa tenue d'été le 17 juillet. Mais avant de pouvoir révéler le modèle mis à jour, il a dû manger 30 morceaux de crème glacée. Il a décidé de manger 30 morceaux de crème glacée Pino. La crème glacée contenait 900 calories au total, mais Miyabi a dit que ce n'était pas grave car la crème glacée allait fondre dans son estomac de toute façon.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2266,
+        "width": 0.3881,
+        "height": 0.1137
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après les avoir tous mangés, il a finalement révélé son nouveau modèle. Il est d'abord entré en portant ses lunettes de soleil et a commencé à montrer les différentes émotions qu'il peut maintenant faire et a beaucoup bougé. Il a également sorti sa chaise gaming pour montrer qu'elle bouge maintenant avec lui.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.3472,
+        "width": 0.3863,
+        "height": 0.0903
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.6827,
+        "width": 0.1492,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gamma a donné à Fuma une illustration d'anniversaire comme cadeau pour son anniversaire le 13 juillet. Tout en dessinant Fuma, il a également partagé comment il a obtenu la permission de dessiner Shibuya Hal.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.7231,
+        "width": 0.3856,
+        "height": 0.0668
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/iyzym265sqd91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

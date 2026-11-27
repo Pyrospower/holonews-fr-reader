@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOX",
+      "bbox": {
+        "x": 0.1638,
+        "y": 0.0315,
+        "width": 0.2077,
+        "height": 0.0262
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chloe",
+      "bbox": {
+        "x": 0.1546,
+        "y": 0.2163,
+        "width": 0.1269,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après beaucoup de travail et de combat, Chloe a terminé Undertale ! Elle a lutté un peu à travers les zones de puzzle avant d’atteindre le boss final, et s’est amusée comme une folle en le combattant. À la fin de ce combat, elle a beaucoup hésité entre le tuer ou l'épargner, et après y avoir réfléchi, elle a choisi de mettre fin à ses jours. Par la suite, elle a fait face à une version améliorée d’un personnage important, qui a fait du combat un véritable enfer. Après environ 8 tentatives, Chloe l’a battu, et a fini le jeu.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.2587,
+        "width": 0.4456,
+        "height": 0.2674
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+ & Shion",
+      "bbox": {
+        "x": 0.6346,
+        "y": 0.2147,
+        "width": 0.2669,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion et Laplus ont eu leur première collab ensemble, en jouant au « One Block Challenge » sur Minecraft. Dès le départ, ces deux-là se sont immédiatement attaquées et elles s’amusaient à s’envoyer des piques sans réserve. Dès qu’elles se sont connectées au serveur, Shion a pris l’initiative de frapper Laplus dans le vide, déclenchant ainsi un match de joutes entre les deux. La synergie entre les deux était sans surprise incroyable. Outre le comportement changeant de kusogaki entre les deux, elles étaient constamment engagées, se badinant l’une de l’autre, et en étant assez bien organisées. À peine un moment terne ou tranquille tout au long du stream, surtout dans les moments où l’une ou l’autre émettait des cris perçants à chacune de leurs morts.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.2587,
+        "width": 0.4263,
+        "height": 0.3012
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.6688,
+        "width": 0.0846,
+        "height": 0.0224
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La+ est redevenue un bébé et a chanté avec une tétine. Elle a commencé son karaoké avec « The Disappearance of Hatsune Miku », en ratant complètement la partie rappée. Ses choix de chansons pour le stream ont continué à sauter à travers les générations, chantant des sons sortis cette année, à des chansons sortis il y a plus de 20 ans. Elle a pris une courte pause avec la tétine après avoir chanté « God-ish », et un peu de « Peace Sign » ensuite. La+ cessa de chanter et révéla soudain l’ouverture des membres ! Qui aurait dû être ouvert le lendemain. Elle a commencé à chanter normalement pour le reste du stream et, comme toujours, a arrêté le stream brusquement.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.6319,
+        "width": 0.4263,
+        "height": 0.2496
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.6331,
+        "y": 0.7035,
+        "width": 0.1592,
+        "height": 0.0267
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le live « totsumachi » de Koyori a connu un succès au-delà de ses attentes, avec 15 personnes provenant de presque toutes les branches féminines d’hololive qui se sont montrées - Laplus, Marine, Fubuki, NePoLaBo (toutes ensemble), Towa, Matsuri, Iroha, Mel, Watame, Kiara, Subaru et Anya.",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.7461,
+        "width": 0.4144,
+        "height": 0.1311
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/y3zbvl3zeab81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

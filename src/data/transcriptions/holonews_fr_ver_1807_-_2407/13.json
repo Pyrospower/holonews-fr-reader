@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ID",
+      "bbox": {
+        "x": 0.476,
+        "y": 0.016,
+        "width": 0.048,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "other",
+      "text": "Presented to\nMoona Hoshinova hololive-ID\nFor passing 1,000,000 subscribers",
+      "bbox": {
+        "x": 0.067,
+        "y": 0.227,
+        "width": 0.355,
+        "height": 0.069
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.168,
+        "y": 0.362,
+        "width": 0.111,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moona a finalement reçu son Trophée du créateur en or de YouTube pour avoir atteint un million d'abonnés en février. Cependant, certains fans ont jugé nécessaire de la prévenir qu'elle ne pouvait pas le manger.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.398,
+        "width": 0.3688,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holoID",
+      "bbox": {
+        "x": 0.6363,
+        "y": 0.2795,
+        "width": 0.1106,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "holoID se prépare à un événement massif qui aura lieu sur le serveur Minecraft ID vers la mi-août. Beaucoup d'entre elles sont en train de construire d'immenses arènes et des projets de construction (à la fois en stream et hors stream). Kaela a également reçu l'autorisation de farmer sans limite afin de rassembler les matériaux nécessaires, et elle a l'intention d'utiliser pleinement cette autorisation, comme en témoignent déjà de nombreux streams de dix heures.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.3307,
+        "width": 0.3888,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ID-STARS",
+      "bbox": {
+        "x": 0.4006,
+        "y": 0.4909,
+        "width": 0.1981,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.34,
+        "y": 0.666,
+        "width": 0.106,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kobo a invité trois membres d'UPROAR!!, Fuma, Gamma et Rio, à une collaboration VALORANT. Elle a déclaré qu'elle avait initialement prévu de faire une collaboration complète avec les quatre membres d'UPROAR!! et Uyu. Cependant, Kobo a pensé qu'elle aurait besoin d'une personne capable de traduire pour elle et a donc aussi invité Ollie.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.7053,
+        "width": 0.3844,
+        "height": 0.1007
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme tous les streams impliquant Kobo, ce stream s'est rapidement transformé en un festival de cris et de rires. De Gamma apprenant à Kobo à appeler Fuma « zako » (ou « le novice ») à la punition « ara-ara » de Fuma, en passant par Ollie refusant de traduire les phrases douteuses de Kobo, sans oublier la colère habituelle de Kobo et ses coups de table lorsqu'elle perd. Cependant, UPROAR!! a rapidement appris le moyen d'apaiser sa colère, en l'appelant princesse. La princesse Kobo n'a pu s'empêcher de sourire et de rayonner à chaque fois.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8095,
+        "width": 0.3869,
+        "height": 0.1684
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Oga & Risu",
+      "bbox": {
+        "x": 0.66,
+        "y": 0.756,
+        "width": 0.168,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Oga et Risu, l'auto-baptisé « Duo de la domination mondiale », ont regardé ensemble leur dernière chanson originale en collaboration : « Harapan PanPanPan. Ils ont dit qu'ils voulaient une chanson combinant l’indonésien et le japonais, mais comme Oga ne savait pas parler indonésien, ils ont pensé à « Harapan », car ce mot a une signification dans les deux langues. Il signifie « espoir » en indonésien et « coup de poing » en japonais.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.7956,
+        "width": 0.3906,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir regardé la MV, ils ont tous deux souhaité que cette chanson soit ajoutée à un jeu de rythme.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.9401,
+        "width": 0.3725,
+        "height": 0.0399
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/9t9pknlo0qf91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

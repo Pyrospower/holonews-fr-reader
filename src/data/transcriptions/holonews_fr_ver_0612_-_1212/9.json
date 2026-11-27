@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOFORCE",
+      "bbox": {
+        "x": 0.0906,
+        "y": 0.0339,
+        "width": 0.3481,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.205,
+        "width": 0.185,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame se joint à la mêlée dans la battle de rap entre Laplus et Haachama en sortant un rap à propos des chikuwa.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.2461,
+        "width": 0.4069,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.205,
+        "width": 0.163,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata a tenu un karaoké d’endurance pour ses 1,111,111 abonnés mais il a pris fin prématurément à cause de problèmes du côté de YouTube.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2461,
+        "width": 0.4238,
+        "height": 0.0556
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Towa",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.444,
+        "width": 0.12,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa a tenu un stream sur Golf It dans lequel les spectateurs ont pu jouer avec elle. C’était une expérience dingue car 99 Kenzokus étaient en train de jouer en même temps avec Towa, ce qui donna lieu à plusieurs moments hilarants.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.4839,
+        "width": 0.4206,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Luna",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.442,
+        "width": 0.115,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Luna a fait un stream d’endurance pour capturer Barpau. Il lui a fallu environ 2 heures et 30 minutes pour enfin en attraper un. Son prochain défi est de faire éclore un Tiplouf chromatique.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.4839,
+        "width": 0.4269,
+        "height": 0.0794
+      }
+    },
+    {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.1144,
+        "y": 0.6011,
+        "width": 0.3044,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.772,
+        "width": 0.127,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sous le couvert de faire du camping, Izutsu a piégé Polka pour lui faire réaliser son tout premier saut à l’élastique. Polka ignorait sa participation jusqu’à ce qu'ils se trouvent sur place au Ryujin Big Suspension Bridge. Les deux ont pris leur courage à deux mains pour le saut de 100 mètres, et Izutsu a fait trois tentatives avant de faire le grand saut. Étonnamment pour Polka, elle n’eut aucune hésitation. C’est ce jour-là qu'elle est devenue une héroïne.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.8138,
+        "width": 0.4256,
+        "height": 0.135
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.772,
+        "width": 0.134,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron a fini Hotline Miami en un seul stream. Elle n’a montré aucune pitié envers ses ennemis, n’épargnant absolument personne. Les armes ne faisaient que la ralentir la plupart du temps. En enfilant le masque de tigre, elle a montré ses capacités de combat à mains nues.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.8138,
+        "width": 0.4256,
+        "height": 0.105
+      }
+    },
+    {
+      "type": "other",
+      "text": "Elle a surtout utilisé\nTony et Don Juan",
+      "bbox": {
+        "x": 0.705,
+        "y": 0.928,
+        "width": 0.184,
+        "height": 0.04
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3l7onpp5i4781.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

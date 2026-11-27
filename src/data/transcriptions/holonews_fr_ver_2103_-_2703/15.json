@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.4692,
+        "y": 0.016,
+        "width": 0.0615,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holoEN",
+      "bbox": {
+        "x": 0.1662,
+        "y": 0.1806,
+        "width": 0.12,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans l'épisode du Chad Cast de ce mois, Calli, IRyS et Bae ont discuté de l’holoEXPO et du holoFes. Elles ont parlé des bêtises de Smol Ame et de la façon dont les managers ont réussi à voler leurs vêtements pour les montrer à l'EXPO. Elles ont également parlé de la statue taille réelle de Gura, et Calli a annoncé que si elle gagnait l'enchère, elle mettrait la statue dans un bocal géant. Dans le même temps, ils ont partagé leurs réflexions sur les performances 3D de Myth et d'Area 15. Pendant la performance de Calli, tout le monde a utilisé des bâtons lumineux rouges au lieu des roses.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.2179,
+        "width": 0.3863,
+        "height": 0.194
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les Chads ont ensuite donné des conseils sur les problèmes des spectateurs exprimés sur Twitter : comment soutenir son oshi, comment tout plaquer et poursuivre son rêve irréalisable, comment prouver à un ami intolérant au lactose que l'on a besoin de lait. Pendant l'épisode, elles ont regardé le clip de Calli, « UnAlive » et ont parlé de son album, elles ont aidé IRyS à prononcer les noms des dieux grecs et ont accueilli les nouveaux membres d'holostars, « UPROAR !!! ».",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.4262,
+        "width": 0.3894,
+        "height": 0.1632
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les Chads ont fait quelques annonces : Calli sortira une nouvelle chanson en collaboration dans le courant de la semaine, en même temps que les trois grandes annonces promises pour son anniversaire, et IRyS sortira sa nouvelle chanson originale début avril.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.6068,
+        "width": 0.3925,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gura",
+      "bbox": {
+        "x": 0.1662,
+        "y": 0.766,
+        "width": 0.0846,
+        "height": 0.0267
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gura a avoué qu'elle détestait le lait à la fraise, disant que c'était seulement pour les bébés (et Calli).",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.8021,
+        "width": 0.3913,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gura",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.1806,
+        "width": 0.0846,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Neuf mois après la sortie de « REFLECT » de Gura, le clip de la chanson est sorti le 23 mars. La vidéo a été réalisée par Nebiru, et les illustrations ont été préparées par Mochizuki Mochi. Gura a annoncé la sortie de la vidéo la veille, à la fin de sa discussion au holoFes, au cours de laquelle elle a remercié toutes les personnes ayant continué d'écouter la musique pendant si longtemps.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.2179,
+        "width": 0.3919,
+        "height": 0.1246
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.4936,
+        "width": 0.08,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli a atteint deux millions d'abonnés cette semaine, ce qui fait d'elle la deuxième membre d'hololive et la troisième VTubeuse au monde à atteindre ce palier. Le 27 mars, elle a organisé une soirée karaoké pour fêter ça, au cours de laquelle elle a chanté des chansons d'anime et d'hololive, comme « Sorairo Days », « HINOTORI » et « End of a life ». Elle a aussi maladroitement rappé sur un instrumental de « Cruel Angel's Thesis » et a chanté les paroles de l'alter ego de Gura dans « REFLECT » avec la voix de Sheriff-Calli. Comme promis dans le sixième épisode de Mythbreakers, la Calli originale est revenue pour nous rendre heureux avec son « moe moe kyun » !",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.5308,
+        "width": 0.3975,
+        "height": 0.25
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a révélé à la fin qu'elle sera occupée à enregistrer le jour suivant, mais qu'il y a encore une chance qu'un stream d'Elden Ring soit organisé au cas où il lui resterait de l'énergie à son retour. Elle devra également se préparer pour le concert de lancement de « UnAlive » prévu le 28 mars.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.7964,
+        "width": 0.395,
+        "height": 0.1024
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/6zijamfnbjr81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Collab inter-branches",
+      "bbox": {
+        "x": 0.049,
+        "y": 0.432,
+        "width": 0.597,
+        "height": 0.057
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une énorme collaboration inter-branches sur Gartic Phone a eu lieu. Les participants étaient Roberu, Oga, et Shien d’holoStars, Iofi et Ollie d’holoID, ainsi que Bae et Mumei d’holoEN.",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.4934,
+        "width": 0.8611,
+        "height": 0.0417
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le stream était hilarant, notamment à cause des talents artistiques laissant à désirer de Roberu et Bae. Parmi les moments les plus marquants, citons le dessin de « Bae faisant de l’exercice » qui s’est transformé en « des bras musclés poussant sur la tête d’Aruran » rappelant les Gunmen de Gurren Lagann, ou encore la « Mumei de Shining », dessinée par Mumei, qui les a tous effarés.",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.5482,
+        "width": 0.8806,
+        "height": 0.0737
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un autre stream, Aruran a raconté à quel point Oga était nerveux pendant la préparation et a confirmé que la collaboration avait été organisée par Iofi. Il a également clarifié certaines choses, comme sa confusion quant à la raison pour laquelle le mot « drawer » (« tiroir ») se réfère au meuble et non aux personnes qui dessinent (draw).",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.6323,
+        "width": 0.8667,
+        "height": 0.059
+      }
+    },
+    {
+      "type": "other",
+      "text": "IMPORTANT",
+      "bbox": {
+        "x": 0.3322,
+        "y": 0.7068,
+        "width": 0.315,
+        "height": 0.0297
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloNews recherche des rédacteurs et des journalistes supplémentaires !",
+      "bbox": {
+        "x": 0.0589,
+        "y": 0.7573,
+        "width": 0.9106,
+        "height": 0.0177
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vous n’avez pas besoin d’expérience, mais nous attendons de vous que vous connaissiez l’anglais.",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.7851,
+        "width": 0.89,
+        "height": 0.0316
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous recherchons des personnes qui sont :\n• Motivées pour aider et qui s’intéressent à hololive\n• Majeures\n• Non scolarisés et qui n’ont pas d’examens et/ou d’absences prévues prochainement\n• Disponibles dans la semaine",
+      "bbox": {
+        "x": 0.0606,
+        "y": 0.8291,
+        "width": 0.8706,
+        "height": 0.0791
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "As HoloNews is a non-profit fan project, there is no payment involved.",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.9217,
+        "width": 0.685,
+        "height": 0.0154
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Domaines d'activité possibles : journalisme, rédaction, mise en page de numéros, correction d'épreuves, traduction dans d'autres langues et bien plus encore.",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.9502,
+        "width": 0.8028,
+        "height": 0.0305
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/tv8xlhf6x8f81.gif",
+    "gifFrame": 87,
+    "confidence": 92
+  }
+}

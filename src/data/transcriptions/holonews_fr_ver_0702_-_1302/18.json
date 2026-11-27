@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0702_-_1302",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projets de Fans",
+      "bbox": {
+        "x": 0.109,
+        "y": 0.032,
+        "width": 0.305,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu Fan Projet A",
+      "bbox": {
+        "x": 0.053,
+        "y": 0.079,
+        "width": 0.416,
+        "height": 0.03
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le serveur Discord anglophone des fans d’Okayu prépare un montage digital style Polaroid. Ils sont en train de collecter des photos d’objets, d’illustration, de nourriture, et de tout ce qui fait penser à elle. Vous pouvez envoyer votre image sur leur Google Forms avec votre message ou une signature. Il récolte des images jusqu’au 18 février, 23:59 JST.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.1185,
+        "width": 0.4231,
+        "height": 0.1385
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu Fan Projet B",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.0525,
+        "width": 0.4163,
+        "height": 0.059
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le second projet de ce serveur Discord est pour son anniversaire. Ils sont en train de récolter des illustrations incluant Okayu, des signatures, et des messages sur aggie.io ! Vous pouvez poster vos propres esquisses, mais s’il vous plaît n’oubliez pas de les renommer avec votre pseudo Discord. Une fois fini verrouillez-le. Vous pouvez retrouver le lien dans les sources. Le dernier délai est le 1 avril.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.1176,
+        "width": 0.4213,
+        "height": 0.1519
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan Fan project",
+      "bbox": {
+        "x": 0.0631,
+        "y": 0.3025,
+        "width": 0.3956,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« Shishiro Botan’s Den », le serveur Discord anglophone des fans de Botan, organise une surprise pour la Saint-Valentin.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.3424,
+        "width": 0.4275,
+        "height": 0.0456
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des SSBR du monde entier ont tweeté des illustrations, des photos de cookies ou de chocolats, et autres friandises en utilisant les hashtags #ししらーと et #SSRBvalentine. Tous inspirés par notre amour pour Shishiron.",
+      "bbox": {
+        "x": 0.5144,
+        "y": 0.3073,
+        "width": 0.435,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "heading",
+      "text": "LET’S PLAY",
+      "bbox": {
+        "x": 0.1988,
+        "y": 0.4175,
+        "width": 0.42,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "other",
+      "text": "LET'S PLAY\nTERMINÉS",
+      "bbox": {
+        "x": 0.8331,
+        "y": 0.4188,
+        "width": 0.0944,
+        "height": 0.0308
+      }
+    },
+    {
+      "type": "other",
+      "text": "Getting Over It with Bennett Foddy | MASAGORO | NO MAN'S SKY\nBESIEGE | unpacking | LITTLE NIGHTMARES II\nA Short Hike | RAFT | KIRBY'S ADVENTURE\nSplatoon 2 | Mom Hid My Game! | HYPNOSPACE OUTLAW\nTerraria | Bus Simulator 18 | SpongeBob SquarePants: Battle for Bikini Bottom Rehydrated\nŌKAMI HD | Frog Detective 2: the case of the invisible wizard | THE LEGEND OF ZELDA: BREATH OF THE WILD\nJump King | NEEDY STREAMER OVERLOAD | HEAVEN BURNS RED",
+      "bbox": {
+        "x": 0.14,
+        "y": 0.478,
+        "width": 0.819,
+        "height": 0.483
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/v1qafhoe17j81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

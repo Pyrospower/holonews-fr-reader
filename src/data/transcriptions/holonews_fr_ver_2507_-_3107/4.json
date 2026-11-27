@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Houshou Marine\n~4th season of 17th birthday~",
+      "bbox": {
+        "x": 0.0917,
+        "y": 0.228,
+        "width": 0.82,
+        "height": 0.0941
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Marine a fêté pour la quatrième fois son 17e anniversaire avec un concert en 3D et une nouvelle tenue ! Elle a commencé par une performance époustouflante de « Unison », puis a épaté la foule avec « Marine Set Sail!! ». Akirose l'a rejointe pour une merveilleuse interprétation de « Ankoku Tengoku » tandis que Lui est apparu pour un duo sur « Eh? Ah, Yes. ». Senchou a également chanté « Yuzurenai Negai » avec Sora et AZKi, qui l’ont ensuite poursuivie avec des épées, et « Gekkou Terasu wa Shiriaru » avec Chloe, qui l’a assassinée.",
+      "bbox": {
+        "x": 0.0789,
+        "y": 0.343,
+        "width": 0.3961,
+        "height": 0.196
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après « 1000% SPARKING! » avec Suisei (qui l'a traitée de naine), Marine a été rejointe par ses camarades d’holoFantasy pour une incroyable représentation de « Wonderful Rush », pendant laquelle Marine en a profité pour se changer et enfiler sa nouvelle tenue. Cette nouvelle tenue a été plus tard surnommée « Marine trentenaire » par Senchou elle-même. La pirate a terminé le concert avec sa chanson signature, « Ahoy!! We Are Houshou Pirates☆ », et a révélé et interprété sa toute nouvelle chanson originale, « I’m Your Treasure Box », produite par Camellia et U.Z. INU.",
+      "bbox": {
+        "x": 0.0783,
+        "y": 0.7068,
+        "width": 0.3911,
+        "height": 0.2323
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Marine a également dévoilé son set de produits dérivés d’anniversaire, qui comprend :",
+      "bbox": {
+        "x": 0.5239,
+        "y": 0.4186,
+        "width": 0.3567,
+        "height": 0.1223
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une tapisserie B2, avec une illustration d’Akasa Ai\n• Un T-shirt taille unique, illustré par saku㊴",
+      "bbox": {
+        "x": 0.5417,
+        "y": 0.5428,
+        "width": 0.3817,
+        "height": 0.0448
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un porte clé au hasard parmi quatre, avec des illustrations de Marine\n• Un agenda de style journal de bord",
+      "bbox": {
+        "x": 0.5417,
+        "y": 0.6049,
+        "width": 0.3544,
+        "height": 0.0455
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En achetant l’ensemble complet, vous aurez droit à un un pack de voix bonus ainsi qu’une carte postale avec un autographe gravé et un message.",
+      "bbox": {
+        "x": 0.5239,
+        "y": 0.6678,
+        "width": 0.405,
+        "height": 0.0606
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'ensemble en édition limitée, qui a depuis été vendu, contenait la carte postale avec un autographe écrit à la main de Marine. Marine a également saisi l'occasion pour annoncer le retour de hololive Summer, qui met en vedette tous les membres de la branche japonaise d’hololive.",
+      "bbox": {
+        "x": 0.5239,
+        "y": 0.8314,
+        "width": 0.3967,
+        "height": 0.1076
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/6p089nh4fig91.gif",
+    "gifFrame": 89,
+    "confidence": 88
+  }
+}

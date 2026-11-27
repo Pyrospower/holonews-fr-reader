@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.114,
+        "y": 0.068,
+        "width": 0.305,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.242,
+        "width": 0.11,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene a joué à Menherafflesia Flowering Abyss sur Switch. Ce n’est pas le fruit du hasard, puisqu’elle a prêté sa voix à Anemone Nenene, l’une des héroïnes du visual novel. Elle s’est sentie gênée en entendant son personnage pour la première fois. Le jeu a mis en valeur les talents d’actrice de Nene, le personnage qu’elle a joué contrastant fortement avec notre épouse insouciante habituelle.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.2804,
+        "width": 0.4275,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.447,
+        "width": 0.245,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Botan s’est procuré le tout nouveau Rainbow Six : Extraction. Dans ce jeu, quand un agent est abattu par un ennemi, il est porté disparu et devient indisponible jusqu’à ce qu’il soit secouru. Botan a principalement utilisé Lion ou Finka dès lors qu’ils étaient disponibles. Elle les appréciait tellement qu’elle lançait des missions de sauvetage dès qu’ils étaient portés disparus. Elle a invité Towa et Lui a la rejoindre lors de son prochain stream sur le jeu !",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5234,
+        "width": 0.4263,
+        "height": 0.171
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.762,
+        "width": 0.126,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans son stream nocturne de discussion alcoolisée du samedi soir, Lamy a joué avec ses spectateurs à un jeu où ils devaient deviner à chaque fois la direction dans laquelle elle allait être orientée. Ceux qui devinaient correctement pouvaient lui prendre 10 yens, et ceux qui échouaient devaient lui en donner autant.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.8108,
+        "width": 0.4213,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene & Botan",
+      "bbox": {
+        "x": 0.6594,
+        "y": 0.2253,
+        "width": 0.2744,
+        "height": 0.046
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le PC de Nene a été réparé par le support technique Botan. Celle-ci a inspecté méticuleusement les différents composants de son ordinateur, et il semblerait que le problème provienne de sa carte graphique. Les deux amies ont acheté ensemble une nouvelle 3080 TI ainsi qu’un nouveau SSD. Nene n’a pas perdu de temps et est directement retournée sur ARK pour mettre ses nouveaux composants à l’épreuve.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2813,
+        "width": 0.425,
+        "height": 0.1471
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.565,
+        "width": 0.129,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vers la fin de la semaine, Polka a parlé de ses activités récentes et de ses projets à court terme lors d’un stream discussion. Ainsi, elle a dit avoir beaucoup joué à ARK récemment et se préparer pour le tournoi Pokémon. Elle a également mentionné ses interactions avec YAGOO et ajouté que le PDG était resplendissant ces derniers temps. Pour conclure, Polka a annoncé un concert 3D pour son anniversaire le 30 janvier, et a révélé les silhouettes des invités.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.6055,
+        "width": 0.41,
+        "height": 0.1836
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un récent épisode de La légende de Polka, celle-ci a interrogé Mme Izutsu sur hololive et l'a également interviewée. Polka l’a par exemple questionnée sur sa chanteuse préférée au sein d’hololive (c'est Suisei) ainsi que sur son Pokémon favori.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.8199,
+        "width": 0.4269,
+        "height": 0.1176
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2mvamff6x8f81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

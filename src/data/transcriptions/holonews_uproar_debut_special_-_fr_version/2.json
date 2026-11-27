@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Yatogami Fuma",
+      "bbox": {
+        "x": 0.2933,
+        "y": 0.0031,
+        "width": 0.3989,
+        "height": 0.1157
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "J'adore les cadeaux ! J'adore les jeux ! J'adore discuter ! Un médiateur qui adore les activités humaines. Il est aussi un peu obsédé par la propreté. Je fais parti d'UPROAR !!! depuis que j'ai reçu une offre de travail bizarre.",
+      "bbox": {
+        "x": 0.3622,
+        "y": 0.1343,
+        "width": 0.5733,
+        "height": 0.1019
+      }
+    },
+    {
+      "type": "other",
+      "text": "Mode ayakashi",
+      "bbox": {
+        "x": 0.7556,
+        "y": 0.2978,
+        "width": 0.2022,
+        "height": 0.0193
+      }
+    },
+    {
+      "type": "other",
+      "text": "Grincheux",
+      "bbox": {
+        "x": 0.6589,
+        "y": 0.4221,
+        "width": 0.14,
+        "height": 0.0154
+      }
+    },
+    {
+      "type": "other",
+      "text": "Heureux",
+      "bbox": {
+        "x": 0.5978,
+        "y": 0.4915,
+        "width": 0.1133,
+        "height": 0.0162
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2olhh456wis81.gif",
+    "gifFrame": 55,
+    "confidence": 95
+  }
+}

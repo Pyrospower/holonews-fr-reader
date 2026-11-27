@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.4307,
+        "y": 0.0167,
+        "width": 0.1387,
+        "height": 0.0231
+      }
+    },
+    {
+      "type": "heading",
+      "text": "UPROAR",
+      "bbox": {
+        "x": 0.1667,
+        "y": 0.2176,
+        "width": 0.1427,
+        "height": 0.0194
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après presque deux ans, la famille d’holostars va accueillir un nouveau groupe qui se nomme UPROAR. Ce groupe va voir Yatogami Fuma et Utsugi Uyu, faire leurs débuts le 29 mars. Les deux autres membres, Hizaki Gamma et Minase Rio vont quant à eux faire leurs débuts le 30 mars. Depuis que leurs débuts ont été annoncés, les quatre membres se sont mis à interagir avec leurs aînés et les fans enthousiastes d’holostars. Malgré que les messages anglais aient été traduits par machine, l’effort des garçons pour avoir pris le temps de communiquer avec tous les fans ne passe pas inaperçu. Des échanges réconfortants et aussi marrants se sont déjà passés, alors assurez-vous de jeter un œil à leurs débuts la semaine prochaine !",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.2548,
+        "width": 0.3913,
+        "height": 0.2717
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.1769,
+        "width": 0.108,
+        "height": 0.0222
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyabi a déjà mis au courant ses spectateurs qu’il voulait essayer de nouvelles choses comme le Vlogging car il y a plusieurs contenus qui ne peuvent être fait qu’avec comme voyager, cuisiner, etc. Il a d’ailleurs demandé quelle caméra il devrait acheter entre une GoPro Hero 10 et une DJI Pocket 2. Il a finalement choisi la DJI Pocket 2 car il ne fera pas beaucoup d’actions comme de la plongée.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.2183,
+        "width": 0.3894,
+        "height": 0.1467
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ID3",
+      "bbox": {
+        "x": 0.4653,
+        "y": 0.5537,
+        "width": 0.0733,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holoID3",
+      "bbox": {
+        "x": 0.3067,
+        "y": 0.7093,
+        "width": 0.1293,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une nouvelle génération de VTubers débute enfin chez holoID. Vestia Zeta, l’agent secret, à fait ses débuts le 25 Mars. Kaela Kovalskia, la forgeronne, les a fait le 26 Mars. Et enfin, la dernière à faire ses débuts le 27 Mars était Kobo Kanaeru, une shaman de la pluie. Elles ont toutes montré plusieurs aspects d’elles-mêmes allant de leurs émojis et leurs hashtags sur les réseaux sociaux, aux talents de chacune. Elles ont également dédié une partie de leur stream de début pour montrer leurs tenues dans une séance photo de captures d’écrans.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.7535,
+        "width": 0.3913,
+        "height": 0.2057
+      }
+    },
+    {
+      "type": "other",
+      "text": "Attendez-vous d’ailleurs à voir un numéro spécial dédié aux débuts d’holoID3 et d’UPROAR sortir dans les jours qui suivent ! Cette section est encore en cours de développement.",
+      "bbox": {
+        "x": 0.5547,
+        "y": 0.5509,
+        "width": 0.4307,
+        "height": 0.1444
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/jglnjtfnbjr81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_3101_-_0602",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STATS ET NOUVELLES SORTIES",
+      "bbox": {
+        "x": 0.0938,
+        "y": 0.0911,
+        "width": 0.6587,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nORIGINAL\nNOUVEAU",
+      "bbox": {
+        "x": 0.8433,
+        "y": 0.0799,
+        "width": 0.105,
+        "height": 0.044
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/31\n[IRyS] Inochi: 750K\n[Sora] Melancholic: 750K\n[Polka] Tondemo Wonders: 750K\n[Temma] 1.15man Kilo No Film: 75K\n[Kanata] Soran Bushi Remix: 750K\n[Calliope] Cursed Night: 4M\n[Watame] My Song: 1M",
+      "bbox": {
+        "x": 0.0517,
+        "y": 0.1551,
+        "width": 0.4383,
+        "height": 0.1262
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/01\n[Lui] Phony (Cover): 100K\n[HoloMyth] Myth Or Treat: 4M\n[Polka] Hokori Takaaki Idol: 750K",
+      "bbox": {
+        "x": 0.5117,
+        "y": 0.1563,
+        "width": 0.4417,
+        "height": 0.0544
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/02\n[Sora] King: 1M\n[Okayu] Animal: 2M\n[Aruran/Astel] Houki Gumo: 75K\n[Pekora] Discommunication Alien: 15M\n[Suisei/Toko] Honeycomb Summer: 2M\n[Shien] Mafia: 1M",
+      "bbox": {
+        "x": 0.0517,
+        "y": 0.2986,
+        "width": 0.4383,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/03\n[Aqua] Kirakira: 1M\n[Suisei] Cry Baby: 4M\n[AZKi] Hitokuchi Chodai: 50K\n[HoloEN 1/2/Hope] Ochame Kinou: 4M",
+      "bbox": {
+        "x": 0.5117,
+        "y": 0.2269,
+        "width": 0.4417,
+        "height": 0.0706
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/04\n[Towa] Error: 8M\n[Suisei] Phony: 7M\n[Astel/Oga] Airhead: 75K\n[Moona] KSZK Song: 100K\n[Suisei/Toko] Holy Angel's Carol: 1M\n[Fubuki/Oga/Shien] Turing Love: 750K\n[Baelz] Hontou No Oto: 250K\n[Okayu] Otome Kaibou: 5M\n[Rushia] Omoikou: 250K\n[Sora] Angel: 250K",
+      "bbox": {
+        "x": 0.0517,
+        "y": 0.4213,
+        "width": 0.4383,
+        "height": 0.1771
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/05\n[Calliope/Gura] Q: 1M\n[Shion] Front Memory: 500K\n[Suisei] Lower (Cover): 750K\n[Haachama] Infinity (Live): 100K\n[Chloe] Animal (Cover): 500K\n[Watame] Fansa: 750K\n[AZKi] Heartbeat: 75K",
+      "bbox": {
+        "x": 0.5117,
+        "y": 0.3137,
+        "width": 0.4417,
+        "height": 0.125
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/06\n[Shion] Animal: 250K\n[Polka] Undercover: 750K\n[Oga] Silent Night Requiem: 10K\n[Sora] Kono Sekai De: 100K",
+      "bbox": {
+        "x": 0.0517,
+        "y": 0.6157,
+        "width": 0.4383,
+        "height": 0.0694
+      }
+    },
+    {
+      "type": "other",
+      "text": "15 MILLIONS DE VUES",
+      "bbox": {
+        "x": 0.5017,
+        "y": 0.6458,
+        "width": 0.4617,
+        "height": 0.0266
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nChloe\nANIMAL",
+      "bbox": {
+        "x": 0.0383,
+        "y": 0.7153,
+        "width": 0.2283,
+        "height": 0.0891
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nLui\nPHONY",
+      "bbox": {
+        "x": 0.2683,
+        "y": 0.7153,
+        "width": 0.2283,
+        "height": 0.0891
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nSuisei\nLOWER",
+      "bbox": {
+        "x": 0.4983,
+        "y": 0.7153,
+        "width": 0.23,
+        "height": 0.0891
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE",
+      "bbox": {
+        "x": 0.6533,
+        "y": 0.735,
+        "width": 0.0867,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nReine\nCINDERELLA",
+      "bbox": {
+        "x": 0.73,
+        "y": 0.7153,
+        "width": 0.2317,
+        "height": 0.0891
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nAZKi\nNEKO NARABA IKERU",
+      "bbox": {
+        "x": 0.0383,
+        "y": 0.8044,
+        "width": 0.3067,
+        "height": 0.1181
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nCalli & Gura\nQ",
+      "bbox": {
+        "x": 0.345,
+        "y": 0.8044,
+        "width": 0.3067,
+        "height": 0.1181
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nOga\nSILENT NIGHT REQUIEM",
+      "bbox": {
+        "x": 0.6517,
+        "y": 0.8044,
+        "width": 0.31,
+        "height": 0.1181
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4x14jafs4uh81.png",
+    "gifFrame": null,
+    "confidence": 87
+  }
+}

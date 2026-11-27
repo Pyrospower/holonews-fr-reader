@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2208_-_2808",
+  "page": 14,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.22,
+        "y": 0.0278,
+        "width": 0.56,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/22\n[Lui] Overd: 1M\n[Calliope] Holy Shitto: 1M\n[Flare] Mental Chainsaw: 2M\n[Hololive] Hololive Ondo: 250K\n[Okayu] Mogu Mogu Yummy!: 8M",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.0981,
+        "width": 0.4431,
+        "height": 0.0825
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/23\n[Fubuki] Cat Loving: 750K\n[Kanata] Ai Kotoba IV: 500K\n[Miyabi/Temma] Suirenka: 10K",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.1914,
+        "width": 0.4437,
+        "height": 0.0495
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/24\n[Kronii] Mafia: 500K\n[HoloID 1/2/3] Bebas: 750K\n[Aqua] Stay Blue (TV Size): 750K\n[Reine/Suisei/Calliope] Beat Eater: 4M\n[HoloEN 1/2/Hope] Ochame Kinou: 9M\n[Reine/Kotone] RAD DOGS: 50K\n[Marine] Ochame Kinou: 2M\n[HoloCouncil] Rise: 250K",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.2517,
+        "width": 0.4437,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/25\n[Sora] Polaris Solaris: 25K\n[Matsuri/Suisei/Flare/Nene] Niccori^ Survey Team Theme: 75K\n[Marine] I'm Your Treasure Box: 7M\n[Okayu] adieu, Salauds: 250K",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.395,
+        "width": 0.4437,
+        "height": 0.0825
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/26\n[Subaru/Ui] Adrenaline: 4M\n[HoloSummer] Sparklers: 100K\n[Kobo] Tondemo Wonders: 1M\n[Polka] Epilogue In The Attic: 75K\n[Suisei/Taku Inoue] SOS: 500K\n[Polka] S'il Vous President: 500K",
+      "bbox": {
+        "x": 0.5112,
+        "y": 0.0977,
+        "width": 0.4444,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/27\n[Mumei] A New Start: 3M\n[Fubuki] CREATION (Cover): 75K\n[Polka] SAIKYOUTICPOLKA: 500K\n[Towa/Nene] Rimokon (Cover): 100K\n[Baelz] A Million Miles Away (Cover): 100K\n[Moona/Pekora] Turing Love: 3M\n[Kiara] You Little Shit: 250K",
+      "bbox": {
+        "x": 0.5112,
+        "y": 0.2083,
+        "width": 0.4444,
+        "height": 0.1111
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "08/28\n[Noel] ours: 50K\n[Towa] Palette: 5M\n[Kanata] Roshin Yuukai: 250K\n[Polka/Kotone] Odo (Cover): 50K\n[Aqua/Okayu] Tenbyou No Uta: 2M\n[Koyori/Sora/Suisei/Subaru/Polka/Chloe] Kaibutsu (Cover): 750K\n[Nene] Kaisei: 100K",
+      "bbox": {
+        "x": 0.5112,
+        "y": 0.3299,
+        "width": 0.4444,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE   ORIGINALE   NOUVEAU",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.4935,
+        "width": 0.9387,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE — Baelz — A MILLION MILES AWAY\nCHANSON ORIGINAL — hololive IDOL PROJECT — SPARKLERS\nCHANSON ORIGINAL — Sora — POLARIS SOLARIS\nREPRISE — Kanata — ROSHIN YUUKAI",
+      "bbox": {
+        "x": 0.0313,
+        "y": 0.5499,
+        "width": 0.9369,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL — Polka — EPILOGUE IN THE ATTIC\nCHANSON ORIGINAL — hololive English -Council- — RISE\nCHANSON ORIGINAL — Noel — OURS",
+      "bbox": {
+        "x": 0.0313,
+        "y": 0.6411,
+        "width": 0.9369,
+        "height": 0.1215
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE — Polka & Tenjin Kotone — ODO\nREPRISE — Koyori, Sora, Suisei, Subaru, Polka & Chloe — KAIBUTSU\nREPRISE — Towa & Nene — RIMOKON\nREPRISE — Fubuki — CREATION",
+      "bbox": {
+        "x": 0.0313,
+        "y": 0.7639,
+        "width": 0.9369,
+        "height": 0.0911
+      }
+    },
+    {
+      "type": "other",
+      "text": "COLLAB\n2. Aqua - Heroine wa Heikin Ika.\n9. Shion - Otokonoko no Mokuteki wa Nani?\nHoneyWorks\nKOKUHAKU JIKKOU IINKAI FLYING SONGS: KOISHITERU",
+      "bbox": {
+        "x": 0.0313,
+        "y": 0.8559,
+        "width": 0.6388,
+        "height": 0.1076
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5jr7r6vzr1m91.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

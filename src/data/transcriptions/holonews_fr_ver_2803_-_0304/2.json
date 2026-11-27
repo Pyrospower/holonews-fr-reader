@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Hoshimachi Suisei",
+      "bbox": {
+        "x": 0.2444,
+        "y": 0.0185,
+        "width": 0.6978,
+        "height": 0.1003
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei a célébré son 4e anniversaire avec un concert diffusé gratuitement sur youtube le 31 mars, intitulé Selfish of a Rough Stone. Elle a notamment chanté « Kyoumen no Nami », « Kakusei » et « Ego Rock », mais elle n’était pas seule ! Elle était accompagnée de danseurs pendant une grande partie du spectacle.",
+      "bbox": {
+        "x": 0.2033,
+        "y": 0.5054,
+        "width": 0.3422,
+        "height": 0.1528
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a commencé le concert en utilisant son model 3D normal, pour rapidement changer vers son model du concert STELLAR into the GALAXY. Vers la fin du concert, elle a montré son nouveau model 3D basé sur sa tenu habituelle, avec les fameux collants couleur carotte.",
+      "bbox": {
+        "x": 0.2033,
+        "y": 0.6752,
+        "width": 0.3411,
+        "height": 0.1528
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au milieu du concert, Calliope a fait son apparition sur scène en tant qu’invitée spécial. Elles ont chanté deux musiques produites par Giga, dont « Wicked ». Et comme si ce n’était déjà pas assez, la dernière chanson que Suisei a chanté n’était autre qu’une nouvelle originale, « TEMPLATE ».",
+      "bbox": {
+        "x": 0.5589,
+        "y": 0.5054,
+        "width": 0.3833,
+        "height": 0.1235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a terminé le spectacle en faisant plusieurs annonces. Tout d’abord, son nouvel EP, TEMPLATE/Wicked, est sorti le 31 Mars, 24:00 JST. Ensuite, « TEMPLATE » sera présent dans Taiko no Tatsujin Plus: Shinkyoku Tori Houdai!. Par la suite, elle a annoncé un nouveau projet, en collaboration avec Taku Inoue, « Midnight Grand Orchestra », qui sera expliqué plus en détail le 6 avril. Enfin, elle a annoncé la vente de produits dérivé, incluant :",
+      "bbox": {
+        "x": 0.56,
+        "y": 0.6427,
+        "width": 0.38,
+        "height": 0.1867
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- Une figurine en acrylique, dessiné par Ugonba-sensei.\n- Une casquette\n- Une thermos\n- Une sonnerie de téléphone",
+      "bbox": {
+        "x": 0.5611,
+        "y": 0.8414,
+        "width": 0.3783,
+        "height": 0.0772
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le bonus pour l'achat de la série complète est une carte avec la signature de Suisei imprimée dessus.",
+      "bbox": {
+        "x": 0.5606,
+        "y": 0.9255,
+        "width": 0.3617,
+        "height": 0.0455
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2e2l5au6qws81.gif",
+    "gifFrame": 104,
+    "confidence": 93
+  }
+}

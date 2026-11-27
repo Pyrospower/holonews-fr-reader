@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 4",
+      "bbox": {
+        "x": 0.4444,
+        "y": 0.0174,
+        "width": 0.1119,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.1706,
+        "y": 0.0981,
+        "width": 0.1106,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Resolve ont publié des photos d’une figurine prototype de Kanata à échelle 1/7. Aux alentours de 260 mm de haut, avec le piédestal pris en compte. A part les grands détails, un échantillon de couleurs est actuellement en cours de réalisation.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.1354,
+        "width": 0.3681,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 5",
+      "bbox": {
+        "x": 0.442,
+        "y": 0.239,
+        "width": 0.116,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.402,
+        "width": 0.093,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron a été inclus dans la troisième colonne du site de Red Bull. Le sujet de ce mois est l’été et l’enthousiasme que provoque les événements en direct ! Shishiron est plus particulièrement impatiente pour le Tokyo Game Show 2022, ayant participé à celui de 2019. L’article a aussi révélé la réponse au lion caché dans la colonne de Juin. Le prochain sera publié vers mi-Août.",
+      "bbox": {
+        "x": 0.0669,
+        "y": 0.4418,
+        "width": 0.3894,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.443,
+        "width": 0.085,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene, notre épouse adorée, a été testé positif pour le COVID-19. Heureusement, le compte Twitter officiel d’hololive a signalé que Nene n'a eu « aucun contact avec les autres membres. » On espère que tu vas bientôt te sentir mieux, Nenechi !",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.4822,
+        "width": 0.3806,
+        "height": 0.079
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 6",
+      "bbox": {
+        "x": 0.4438,
+        "y": 0.5868,
+        "width": 0.1125,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.8,
+        "width": 0.106,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori a pu négocier un traité de paix avec Micomet sur Rust avec succès. C’est arrivé lorsqu’elle a été assassiné et pillé Suisei tout en ayant été abandonné par Miko. Suicopathe a aussi attiré Koyori en lui rendant ses armes, pour au final la tuer de manière sadique au moment où Koyori à récupérer ses armes. Finalement, Micomet se sont mis d’accord d’avoir la paix entre elles et Koyori, mais seulement en extorquant leur coyote cadette. Sasuga Micomet.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.8394,
+        "width": 0.3844,
+        "height": 0.1476
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holoX",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.881,
+        "width": 0.096,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La Société Secrète holoX est en vedette sur la couverture du numéro d’Août de VTuber Style. Ils ont également un article d’interview dans le numéro.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.9206,
+        "width": 0.3856,
+        "height": 0.0503
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/opnzsdlo0qf91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

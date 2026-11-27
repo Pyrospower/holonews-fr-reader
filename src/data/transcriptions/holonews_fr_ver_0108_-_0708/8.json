@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 8,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 3",
+      "bbox": {
+        "x": 0.208,
+        "y": 0.037,
+        "width": 0.12,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.156,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Marine a atteint les deux millions d’abonnés sur YouTube, ce qui fait d’elle la première membre d’hololive JP, la 3e membre d’hololive et la 4e VTubeuse au monde à atteindre ce palier. Elle a fêté ça avec un stream karaoké, durant lequel elle a chanté « Cirno’s Perfect Math Class », « Sorairo Days », et même une version courte de « Sakurakaze » de Miko. Marine a aussi posté une autre de ses courtes animations 3D dans laquelle elle dit « kimitachi » de différentes manières, d’un ton désinvolte à un ton séduisant.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.1957,
+        "width": 0.3794,
+        "height": 0.1558
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.493,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de son stream ayant pour but de « dessiner Mikochi en 1 heure », Marine a expliqué pourquoi elle n’avait pas poursuivi son rêve, qui était de devenir une artiste professionnelle. Senchou attribue cela principalement à sa vitesse de dessin : étant lente, la quantité de dessins qu’elle peut produire est plus limitée, ce qui rendrait difficile la survie avec des revenus d’artiste. Elle a également douté de ses talents de dessinatrice alors qu’elle est incroyable dans ce domaine. Quelle humble pirate.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.5313,
+        "width": 0.3875,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.179,
+        "y": 0.786,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La criminelle de guerre la plus mignonne du monde, Pekora, a atteint les deux millions d’abonnés. Cela fait d’elle la deuxième membre japonaise après Marine et la cinquième VTubeuse dans le monde à avoir atteint ce palier ! Elle a achevé cet exploit lors d’un karaoké d’endurance alors qu’elle chantait « Discommunication Alien ». Pekora a pris le temps de confier les sentiments qu’elle a ressenti jusqu’à ce moment et a remercié ses spectateurs pour leur soutien. Elle a également défié YAGOO pour le rôle de PDG. Peko, peko, peko !",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.826,
+        "width": 0.3969,
+        "height": 0.1554
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamers",
+      "bbox": {
+        "x": 0.6581,
+        "y": 0.0395,
+        "width": 0.1513,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.247,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le tapis de souris à l’effigie d’Okayu, sorti lors de la célébration des 600 000 abonnés, est à nouveau disponible ! Ne ratez pas cette occasion, la vente se termine le 5 septembre.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.2865,
+        "width": 0.3794,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Korone",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.46,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Korone a sorti de nouveaux produits dérivés dans le cadre d’une collaboration avec le jeu vidéo Nekketsu Kouha Kunio-kun (Renegade). L’édition limitée a été épuisée une minute après l’annonce, mais vous pouvez encore vous procurer la version normale jusqu’au 5 septembre !",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.4991,
+        "width": 0.3875,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 4",
+      "bbox": {
+        "x": 0.6781,
+        "y": 0.6124,
+        "width": 0.1125,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.773,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le dernier épisode de Girigiri Warukunai Watame, Watame a tenté d’attaquer Subaru dans son sommeil, mais Shuba a contre-attaqué inconsciemment et a accidentellement embrassé Watame. Noel, la fan numéro 1 de Subaru, s’en est indignée : elle s’est plainte (pour plaisanter) que la direction ne devrait pas autoriser du fan service aussi effronté. Shuba elle-même a répondu que la réaction de Noel, qui était jalouse, lui faisait « chaud au cœur », mais s’est demandé pourquoi sa poitrine semblait nettement plus grosse. Watame n’a vraiment rien fait de mal.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.8125,
+        "width": 0.3913,
+        "height": 0.1662
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xgl1ov56lwh91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

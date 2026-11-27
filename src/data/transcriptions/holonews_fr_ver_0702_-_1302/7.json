@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0702_-_1302",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOFORCE",
+      "bbox": {
+        "x": 0.0981,
+        "y": 0.0855,
+        "width": 0.3481,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.164,
+        "y": 0.257,
+        "width": 0.185,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame a fait la rencontre d’un Luxray chromatique lors de sa partie de Légendes Pokémon : Arceus. Elle l’a capturé à l’aide d’une Hyper Ball, qui partage la même palette de couleurs : noir et or. Watame l’a affectueusement nommé « LaLion », d’après une certaine reine des animaux.",
+      "bbox": {
+        "x": 0.049,
+        "y": 0.3,
+        "width": 0.431,
+        "height": 0.106
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Towa",
+      "bbox": {
+        "x": 0.156,
+        "y": 0.554,
+        "width": 0.122,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa est de retour sur le jeu de Blizzard pour jouer avec ses camarades du « Club féminin d’Overwatch ». Les 12 mêmes membres que d’habitude (Ratna Petit, Naraka et Ars Almal de Nijisanji, Kaga Sumire, Tachibana Hinano, Kurumi Noah, Kisaragi Ren, Shinomiya Runa et Hanabusa Lisa de VSPO, Komori Met de 774inc ainsi que Shishigami Leona de Re:Act) se sont retrouvées durant quatre parties sur le jeu. Les équipes ont été tirées au hasard pour chaque partie, donnant lieu à de drôles de situations comme Towa se retrouvant seule avec les 5 membres de VSPO et blaguant sur le fait qu’elle était une nouvelle membre de cette agence. Mais le plus impressionnant reste le fait que Towa a remporté 100% de ses parties !",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.5938,
+        "width": 0.4219,
+        "height": 0.2799
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.631,
+        "y": 0.262,
+        "width": 0.163,
+        "height": 0.021
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La productrice KanataP s’est mise au défi de réaliser le mix de la reprise de « Melancholic » réalisée par Choco-sensei en une seule prise. Bien qu’elle ne soit pas novice dans ce domaine, la tâche a donné tant de fil à retordre à Kanata qu’elle a presque versé une larme en écoutant le résultat final.",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.303,
+        "width": 0.43,
+        "height": 0.122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata a eu de la fièvre, atteignant une température de 39°C. Bien que celle-ci avait écarté la piste du Covid-19 la veille, Cover a annoncé le lendemain qu’elle avait effectivement attrapé le coronavirus. Son état était cependant stable, et elle n’avait vu aucun autre membre d’hololive ou du staff récemment.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4557,
+        "width": 0.4219,
+        "height": 0.1215
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Luna",
+      "bbox": {
+        "x": 0.631,
+        "y": 0.72,
+        "width": 0.111,
+        "height": 0.021
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Luna est de retour sur Monster Hunter Rise après une pause de deux mois. Avec le soutien de ses Luknights, elle a joué pendant 4h30 dans le cadre d’un stream de « rééducation ».",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.7578,
+        "width": 0.4181,
+        "height": 0.076
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8jlvjloe17j81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

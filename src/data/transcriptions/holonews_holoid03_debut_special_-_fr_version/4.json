@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_holoid03_debut_special_-_fr_version",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Kaela Kovalskia",
+      "bbox": {
+        "x": 0.0383,
+        "y": 0.0239,
+        "width": 0.525,
+        "height": 0.1119
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bonjour, ravie de vous rencontrer ! Je suis Kaela Kovalskia, la superbe forgeronne à votre service ! Puis-je faire quelque chose pour vous ?",
+      "bbox": {
+        "x": 0.0317,
+        "y": 0.1597,
+        "width": 0.5733,
+        "height": 0.0644
+      }
+    },
+    {
+      "type": "other",
+      "text": "Surprise",
+      "bbox": {
+        "x": 0.2882,
+        "y": 0.3391,
+        "width": 0.1882,
+        "height": 0.0335
+      }
+    },
+    {
+      "type": "other",
+      "text": "Déçue",
+      "bbox": {
+        "x": 0.2047,
+        "y": 0.5523,
+        "width": 0.1412,
+        "height": 0.0351
+      }
+    },
+    {
+      "type": "other",
+      "text": "debut!",
+      "bbox": {
+        "x": 0.0129,
+        "y": 0.7958,
+        "width": 0.1259,
+        "height": 0.049
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lrxqn7byvis81.gif",
+    "gifFrame": 67,
+    "confidence": 93
+  }
+}

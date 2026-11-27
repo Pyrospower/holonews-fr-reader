@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Édition allégée !",
+      "bbox": {
+        "x": 0.0313,
+        "y": 0.1727,
+        "width": 0.3,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Dans ce numéro :",
+      "bbox": {
+        "x": 0.0344,
+        "y": 0.2565,
+        "width": 0.2969,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "other",
+      "text": "Le miracle de Noël de Fubuki",
+      "bbox": {
+        "x": 0.035,
+        "y": 0.2912,
+        "width": 0.2369,
+        "height": 0.0456
+      }
+    },
+    {
+      "type": "other",
+      "text": "HoloTree ! Désormais alimenté par Yagoo !",
+      "bbox": {
+        "x": 0.0344,
+        "y": 0.3503,
+        "width": 0.3137,
+        "height": 0.0768
+      }
+    },
+    {
+      "type": "other",
+      "text": "Concert holostars",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.4362,
+        "width": 0.1425,
+        "height": 0.0447
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3wneo35zeab81.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.26,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "other",
+      "text": "GANKO",
+      "bbox": {
+        "x": 0.053,
+        "y": 0.218,
+        "width": 0.223,
+        "height": 0.15
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.385,
+        "width": 0.124,
+        "height": 0.021
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gamma a terminé deux dessins cette semaine. Un comme cadeau d’anniversaire pour Uyu et l’autre pour Ganko-chan (la version petite sœur de Gamma). Gamma a donné son cadeau pour Uyu un jour après sa fête d’anniversaire mais Uyu l’a accepté avec plaisir et en était reconnaissant. Pendant ce temps, Gamma a commencé à dessiner Ganko-chan juste après avoir terminé le cadeau d’Uyu, suite à la proposition de son chat. En ayant vu à quel point Ganko-chan était populaire, il a décidé d’en faire une illustration complète. Suite à ce stream, une tonne de fanart de Ganko-chan ont surgi dans le tag d’art de Gamma. Ganko-chan n’est pas une fétarde mais a une personnalité dynamique. Elle est étonnamment le genre de Rio.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.4258,
+        "width": 0.3888,
+        "height": 0.2075
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fuma",
+      "bbox": {
+        "x": 0.169,
+        "y": 0.693,
+        "width": 0.092,
+        "height": 0.021
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 12 Mai, Fuma a rejoint sa première custom sur Apex, SHIBUYA HALCUSTOM APEX LEGENDS, avec Makio d’Elecom et CHiCO d’HoneyWorks. Makio est celui qui a invité à la fois Fuma et CHiCO. Pour cela, YAGOO a mis sa foi en Makio qui a promis à Shinove qu’il pouvait lui faire confiance avec Fuma. Seulement, après avoir reçu la réponse de YAGOO, il n’a pas pu s’empêcher d’être sous pression.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.7339,
+        "width": 0.3881,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Malheureusement, suite aux nouvelles mises à jour, il y a eu beaucoup de bugs qui se sont produits lors du custom lobby donc les matchs n’étaient pas parfaits. Néanmoins, c’était une expérience très amusante pour Fuma.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.8819,
+        "width": 0.3844,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fuma & Uyu",
+      "bbox": {
+        "x": 0.657,
+        "y": 0.179,
+        "width": 0.19,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir été défiés par Astel, Uyu et Fuma ont décidé de faire un stream d’endurance sur Cuphead en essayant de tout finir en un stream. Astel prédit que cela va leur prendre autour de 10 heures pour terminer le jeu. Cependant, c’est aller au-delà de sa prévision, puisque Uyu et Fuma ont mis un peu plus de 32 heures pour le finir. Astel a pris sa responsabilité en restant dans l’appel vocal, en les encadrant et en leur offrant du soutien mental, allant même jusqu'à leur offrir d’acheter de la nourriture pour eux lorsqu’ils ont fini.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2166,
+        "width": 0.3887,
+        "height": 0.1662
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dès qu’ils approchaient la durée limite pour l’archivage d’un seul stream, ils continuaient en lançant un nouveau stream, ils en ont créé quatre au total. Entre le troisième et le quatrième stream, Uyu a pris une pause car il devait diffuser un stream qu’il avait planifié sur Duolingo pendant 1 heure. En attendant le retour d’Uyu, Fuma a également décidé de prendre une pause. En incluant la durée de son stream sur Duolingo, Uyu avait stream pendant une durée totale de 33 heures. Ce record de streaming dépasse celui de Korone qui était de 28 heures.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.3971,
+        "width": 0.3831,
+        "height": 0.1693
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Uyu & Temma",
+      "bbox": {
+        "x": 0.656,
+        "y": 0.702,
+        "width": 0.222,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour leur toute première collab en duo ensemble, Temma et Uyu ont décidé de jouer à Dead By Daylight. Cependant, les streams sont rapidement devenu des streams de discussion avec DBD en fond.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.7418,
+        "width": 0.3806,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au lieu de se concentrer sur le jeu, Uyu et Temma étaient plus intéressés par les différents sujets qu’ils discutaient comme la difficulté de faire un stream de discussion et des recommandations de jeux. Ils ont aussi parler de l’origine de leur nom de fan, « Kishimen » venant d’un nom de ramen. Bien sûr, ils se sont assurés d’embêter leur fans pendant le stream. Ils ont parlé de bien d’autres choses également alors assurez vous de regarder les archives du stream pour les découvrir !",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.8207,
+        "width": 0.3869,
+        "height": 0.158
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/mu6x71cndn191.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

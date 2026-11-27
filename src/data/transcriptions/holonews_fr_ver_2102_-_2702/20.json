@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 20,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENTS À VENIR",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.0347,
+        "width": 0.4135,
+        "height": 0.0721
+      }
+    },
+    {
+      "type": "other",
+      "text": "(Du 1er au 7 Mars)",
+      "bbox": {
+        "x": 0.1931,
+        "y": 0.112,
+        "width": 0.145,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 2 mars : Anniversaire de Nene et concert\n• 3 mars : Anniversaire de Miyabi\n• 4 mars : 4e début d'anniversaire de Roboco\n• 5 mars : Anniversaire de Miko\n• 5 mars : Holotalk avec Noel\n• 7 mars : Anniversaire d'IRyS",
+      "bbox": {
+        "x": 0.1019,
+        "y": 0.1484,
+        "width": 0.335,
+        "height": 0.2079
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PALIERS D’ABONNÉS",
+      "bbox": {
+        "x": 0.5692,
+        "y": 0.0387,
+        "width": 0.3423,
+        "height": 0.0694
+      }
+    },
+    {
+      "type": "other",
+      "text": "MOONA\n1 M",
+      "bbox": {
+        "x": 0.625,
+        "y": 0.1429,
+        "width": 0.1058,
+        "height": 0.0427
+      }
+    },
+    {
+      "type": "other",
+      "text": "LUI\n450K",
+      "bbox": {
+        "x": 0.7615,
+        "y": 0.1936,
+        "width": 0.0865,
+        "height": 0.0441
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci !",
+      "bbox": {
+        "x": 0.3885,
+        "y": 0.5995,
+        "width": 0.225,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0635,
+        "y": 0.6368,
+        "width": 0.8692,
+        "height": 0.1322
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.31,
+        "y": 0.7834,
+        "width": 0.3831,
+        "height": 0.056
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4hlcf6oae0m81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

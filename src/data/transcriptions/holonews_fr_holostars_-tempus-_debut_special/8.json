@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_holostars_-tempus-_debut_special",
+  "page": 8,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MAGNI DEZMOND",
+      "bbox": {
+        "x": 0.0803,
+        "y": 0.0642,
+        "width": 0.2561,
+        "height": 0.0737
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Venez nombreux pour découvrir les débuts de Magni Dezmond, le plus grand alchimiste de la guilde TEMPUS. Dans sa quête pour trouver la vérité sur ce monde, cet alchimiste est sûr de pouvoir nous impressionner.",
+      "bbox": {
+        "x": 0.0188,
+        "y": 0.2148,
+        "width": 0.3675,
+        "height": 0.1355
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Magni a commencé ses débuts en présentant sa carte de guilde, qui mettait en évidence sa grande chance et son intelligence, ainsi que sa maigre force et sa faible dextérité. Elle nous apprend également qu'il a 26 ans et qu'il est chargé des relations publiques de la guilde.",
+      "bbox": {
+        "x": 0.0194,
+        "y": 0.3676,
+        "width": 0.38,
+        "height": 0.1554
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuite, le grand Magni nous a révélé que c'est lui qui a inventé le Copium. Les spectateurs ont même pu en goûter un peu pendant ses débuts. Magni a ensuite présenté un philtre d'amour, qu'il a accidentellement brisé, ce qui l'a fait entrer en transe. Heureusement, il a pu guérir tout le monde grâce à une potion aux champignons.",
+      "bbox": {
+        "x": 0.4344,
+        "y": 0.5521,
+        "width": 0.5244,
+        "height": 0.1411
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Magni a ensuite parlé de ses goûts, ainsi que les types de jeux auxquels il prévoit de jouer. Il a également évoqué ses objectifs, notamment devenir un meilleur chanteur et apprendre le japonais.",
+      "bbox": {
+        "x": 0.4331,
+        "y": 0.7109,
+        "width": 0.5225,
+        "height": 0.0994
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfin, le tout-puissant Maglord a parlé de ses hashtags et du nom de ses fans. Il a décidé d'appeler ses disciples (ensemble) la MAGNATION. Venez nous rejoindre pour apprendre les secrets du grand alchimiste et découvrir les vérités de ce monde.",
+      "bbox": {
+        "x": 0.435,
+        "y": 0.8281,
+        "width": 0.4831,
+        "height": 0.1172
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/9667kj90eje91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 20,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENTS À VENIR",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.0321,
+        "width": 0.4063,
+        "height": 0.0738
+      }
+    },
+    {
+      "type": "other",
+      "text": "(Rien)",
+      "bbox": {
+        "x": 0.2219,
+        "y": 0.1489,
+        "width": 0.0581,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PALIERS D’ABONNÉS",
+      "bbox": {
+        "x": 0.5694,
+        "y": 0.0395,
+        "width": 0.34,
+        "height": 0.066
+      }
+    },
+    {
+      "type": "other",
+      "text": "AMELIA 1,6M\nCALLIOPE 1,9M\nHAKOS 450K\nRIKKA 200K",
+      "bbox": {
+        "x": 0.6306,
+        "y": 0.1593,
+        "width": 0.2175,
+        "height": 0.1853
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci !",
+      "bbox": {
+        "x": 0.3912,
+        "y": 0.6081,
+        "width": 0.23,
+        "height": 0.0321
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.6458,
+        "width": 0.8625,
+        "height": 0.1302
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.3137,
+        "y": 0.793,
+        "width": 0.3825,
+        "height": 0.056
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0jefs2huufg81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

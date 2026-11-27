@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Mel fait une pause • Fubuki a rencontré Chloe • Podcast holoSIMP",
+      "bbox": {
+        "x": 0.0663,
+        "y": 0.0113,
+        "width": 0.8738,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magazine hebdomadaire d'actualités",
+      "bbox": {
+        "x": 0.0236,
+        "y": 0.1528,
+        "width": 0.2909,
+        "height": 0.0114
+      }
+    },
+    {
+      "type": "heading",
+      "text": "hololive Golden Week",
+      "bbox": {
+        "x": 0.0145,
+        "y": 0.1894,
+        "width": 0.3182,
+        "height": 0.1048
+      }
+    },
+    {
+      "type": "heading",
+      "text": "YouTube Music Weekend",
+      "bbox": {
+        "x": 0.0145,
+        "y": 0.3106,
+        "width": 0.32,
+        "height": 0.053
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Bushimachi Suisei est de retour",
+      "bbox": {
+        "x": 0.0164,
+        "y": 0.3725,
+        "width": 0.2418,
+        "height": 0.077
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab Haachama et Kobo",
+      "bbox": {
+        "x": 0.0164,
+        "y": 0.4646,
+        "width": 0.2109,
+        "height": 0.0758
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka participe au Love Festival 24h relay",
+      "bbox": {
+        "x": 0.0145,
+        "y": 0.654,
+        "width": 0.1745,
+        "height": 0.1831
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Streams 3D Amelia et Gura",
+      "bbox": {
+        "x": 0.0145,
+        "y": 0.9116,
+        "width": 0.2109,
+        "height": 0.0795
+      }
+    },
+    {
+      "type": "heading",
+      "text": "YouTube Music Weekend",
+      "bbox": {
+        "x": 0.6545,
+        "y": 0.1881,
+        "width": 0.3291,
+        "height": 0.0833
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Maman Mori fait son apparition",
+      "bbox": {
+        "x": 0.6564,
+        "y": 0.2803,
+        "width": 0.3291,
+        "height": 0.1402
+      }
+    },
+    {
+      "type": "other",
+      "text": "explod bread",
+      "bbox": {
+        "x": 0.4673,
+        "y": 0.4104,
+        "width": 0.1564,
+        "height": 0.048
+      }
+    },
+    {
+      "type": "other",
+      "text": "Vous voulez nous aider ?\nRejoignez notre Discord !",
+      "bbox": {
+        "x": 0.5994,
+        "y": 0.9154,
+        "width": 0.3288,
+        "height": 0.0373
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4bdt9fnspg091.png",
+    "gifFrame": null,
+    "confidence": 77
+  }
+}

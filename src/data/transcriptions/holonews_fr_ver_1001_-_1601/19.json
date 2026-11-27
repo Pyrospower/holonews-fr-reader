@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STATS ET SORTIES",
+      "bbox": {
+        "x": 0.1456,
+        "y": 0.0595,
+        "width": 0.5588,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nORIGINAL\nNOUVEAU",
+      "bbox": {
+        "x": 0.8438,
+        "y": 0.053,
+        "width": 0.1031,
+        "height": 0.0408
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/10\n[Astel] Mirai Ginga to Kiteki no Melody: 75K\n[Holostars 1-3] Journey To Find Stars (Full): 75K\n[Miko/Flare/Patra] Umapyoi Densetsu: 75K",
+      "bbox": {
+        "x": 0.053,
+        "y": 0.13,
+        "width": 0.437,
+        "height": 0.069
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/11\n[IRyS] Palette: 500K\n[Watame] Phony: 500K\n[Koyori] Nh-Uh-Uh: 750K\n[Shion/Okayu] Suki Kirai: 750K\n[Shien/Izuru/Rikka/Astel] Fire Flower: 250K\n[Rikka/Calliope] Spiral Tones: 1M\n[Kanata] Ashura-chan: 500K\n[Calliope] Live Again: 10M\n[Watame] My Song: 500K",
+      "bbox": {
+        "x": 0.511,
+        "y": 0.13,
+        "width": 0.437,
+        "height": 0.158
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/12\n[Suisei] Stellar Stellar: 5M",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.218,
+        "width": 0.438,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/13\n[Mio] Animal: 500K\n[Flare] Mental Chainsaw: 1M\n[Polka] S'il Vous President: 250K\n[EN1] Journey Like A Thousand Years: 750K\n[Suisei] Bye Bye Rainy: 750K\n[Roboco] Secret Base: 100K\n[AZKi] Leaf Ticket: 25K",
+      "bbox": {
+        "x": 0.511,
+        "y": 0.306,
+        "width": 0.437,
+        "height": 0.123
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/14\n[Mio] Sparkle: 10M\n[Kanata/Towa] Madoromi: 1M\n[Okayu] Mogu Mogu Yummy!: 6M\n[Korone/Noel/Marine/Lamy] Friend Shitai (Cover): 250K",
+      "bbox": {
+        "x": 0.051,
+        "y": 0.256,
+        "width": 0.436,
+        "height": 0.086
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/15\n[Koyori] Ruma: 2M\n[Watame] Mayday, Mayday: 750K\n[Towa] FACT: 750K",
+      "bbox": {
+        "x": 0.511,
+        "y": 0.447,
+        "width": 0.437,
+        "height": 0.051
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "01/16\n[La+] God-ish: 6M\n[Risu] ALiCE&u: 50K\n[Korone] Love Trial: 7M\n[Anya] Gira Gira: 250K\n[Lui] Rabuka: 750K",
+      "bbox": {
+        "x": 0.051,
+        "y": 0.362,
+        "width": 0.436,
+        "height": 0.086
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nKorone, Lamy, Noel, Marine\nFRIEND SHITAI",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.529,
+        "width": 0.244,
+        "height": 0.11
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nRisu\nALICE&U",
+      "bbox": {
+        "x": 0.346,
+        "y": 0.529,
+        "width": 0.215,
+        "height": 0.106
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nSora\nKONO SEKAI DE",
+      "bbox": {
+        "x": 0.654,
+        "y": 0.529,
+        "width": 0.126,
+        "height": 0.11
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nTowa\nMY ROAR",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.651,
+        "width": 0.232,
+        "height": 0.108
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nPekora\nIIWAKE BUNNY",
+      "bbox": {
+        "x": 0.347,
+        "y": 0.651,
+        "width": 0.1,
+        "height": 0.11
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE\nOga\nSILENT NIGHT REQUIEM",
+      "bbox": {
+        "x": 0.654,
+        "y": 0.651,
+        "width": 0.181,
+        "height": 0.11
+      }
+    },
+    {
+      "type": "other",
+      "text": "NOUVEL ALBUM",
+      "bbox": {
+        "x": 0.041,
+        "y": 0.78,
+        "width": 0.06,
+        "height": 0.018
+      }
+    },
+    {
+      "type": "other",
+      "text": "1. Only in Hope\n2. Joy with You\n3. Nameless Sadness\n4. Bare your Teeth\n5. Sink Again, Rise Again\n6. Flower of Hope",
+      "bbox": {
+        "x": 0.272,
+        "y": 0.795,
+        "width": 0.522,
+        "height": 0.05
+      }
+    },
+    {
+      "type": "other",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.2738,
+        "y": 0.8637,
+        "width": 0.0456,
+        "height": 0.0161
+      }
+    },
+    {
+      "type": "heading",
+      "text": "JOURNEY",
+      "bbox": {
+        "x": 0.2744,
+        "y": 0.8863,
+        "width": 0.2994,
+        "height": 0.026
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/obuq7mi6i8e81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.2299,
+        "width": 0.1156,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen0",
+      "bbox": {
+        "x": 0.2956,
+        "y": 0.2315,
+        "width": 0.0711,
+        "height": 0.0216
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La sortie de la version « Midnight Grand Orchestra » des écouteurs ANW01 de ANIMA est prévue pour le 6 octobre. Comme on peut s'y attendre de la part de Hoshiyomis, les réservations se sont vendues en quelques heures chez certains revendeurs.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.27,
+        "width": 0.4444,
+        "height": 0.0694
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1211,
+        "y": 0.3681,
+        "width": 0.12,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen0",
+      "bbox": {
+        "x": 0.2533,
+        "y": 0.3696,
+        "width": 0.0711,
+        "height": 0.0216
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei et TAKU INOUE ont fait un stream réaction & rétrospective après leur récent « Midnight Grand Orchestra First Live -Overture » cette semaine. Pendant la discussion, ils ont révélé que le concert a été un succès financier et Suisei a exprimé ses souhaits de réaliser un deuxième album solo.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.4063,
+        "width": 0.445,
+        "height": 0.0838
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1656,
+        "y": 0.6582,
+        "width": 0.21,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.3844,
+        "y": 0.6597,
+        "width": 0.0711,
+        "height": 0.0216
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama est allée à Disneyland toute seule. Cependant, elle n'a réalisé qu'après coup qu'elle aurait besoin d'une autorisation pour presque tout ce qu'elle a enregistré là-bas, et elle a donc essayé de décrire ses expériences avec des dessins. Elle a essayé de faire face au fait d'aller seule à Disneyland, et a fini par conclure que si elle avait son ami imaginaire, sa solitude ne serait plus.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.6975,
+        "width": 0.445,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1233,
+        "y": 0.8519,
+        "width": 0.2111,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.3433,
+        "y": 0.8534,
+        "width": 0.0711,
+        "height": 0.0216
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 2 septembre, le premier « Haachama DIY » a été lancé. Haachama a montré ses talents d'artisan en fabriquant une cuillère et une fourchette à partir de rien. Elle a également essayé de les utiliser sur de la gelée. Nous attendons avec impatience d'autres « Haachama DIY » !",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.8906,
+        "width": 0.4456,
+        "height": 0.0868
+      }
+    },
+    {
+      "type": "heading",
+      "text": "MiComet",
+      "bbox": {
+        "x": 0.6444,
+        "y": 0.1736,
+        "width": 0.18,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen0",
+      "bbox": {
+        "x": 0.8333,
+        "y": 0.1752,
+        "width": 0.0711,
+        "height": 0.0216
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le Minecraft Summer Festival de cette année, MiComet ont travaillé avec le reste de Shiraken pour organiser une maison hantée. Flare et Noel ont géré les clients à l'extérieur, tandis que Miko les a guidés à l'intérieur, en faisant office de narratrice. Suisei s'occupait des effets sonores de la maison hantée en gérant le disque du juke-box, et jouait également le rôle du fantôme, appelé « Marie », qui sortait d'une bouche d'aération pour chasser les clients au point culminant de la maison hantée avec une hache en diamant. Polka a également joué quelques rôles supplémentaires. La maison hantée recevait de nombreux clients, deux ou trois à la fois, et Suisei a même tué quelques clients qui paniquaient et ne parvenaient pas à trouver la sortie. La toute dernière cliente, Haachama, a même été poursuivie juste à l'extérieur de la maison hantée et a été chassée avec succès par Suisei, pour servir de fin mémorable aux aventures de la maison hantée.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.2144,
+        "width": 0.445,
+        "height": 0.2821
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.6222,
+        "y": 0.6582,
+        "width": 0.21,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Gen1",
+      "bbox": {
+        "x": 0.8422,
+        "y": 0.6597,
+        "width": 0.0711,
+        "height": 0.0216
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bien qu'Haachama ait rejoint le summer festival tard dans la nuit, elle a quand même pu en profiter grâce aux nombreux membres qui tenaient les stands pour elle. Elle a pu découvrir la maison hantée avec Miko et explorer les stands avec Watame. Matsuri a même rempli les feux d'artifice pour les rallumer.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.6975,
+        "width": 0.445,
+        "height": 0.1016
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/phir6wkjaqn91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

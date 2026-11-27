@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.1671,
+        "y": 0.1508,
+        "width": 0.1014,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.2771,
+        "y": 0.1518,
+        "width": 0.07,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans son dernier stream de dessin, Astel a présenté son dernier ami animal : la chouette grise, Merck. Apolléon et Polneu ont rencontré Merck sur Mercure lorsqu'ils s'y sont rendus pour enquêter sur quelque chose. Après avoir résolu l'enquête, ils sont revenus avec Astel et Merck.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.1901,
+        "width": 0.445,
+        "height": 0.0812
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans ce stream, Astel n'a pas seulement dessiné et montré la carte de présentation de Merck, il a également présenté les chansons originales d'HOLOSTARS en les utilisant comme musique de fond pour son dessin. Après la fin de la playlist des chansons originales, il a ensuite diffusé des épisodes de « Star Collection, Top of the World » de TEMPUS, ainsi que ses propres clips.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.2813,
+        "width": 0.4456,
+        "height": 0.1128
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a ensuite clôturé le stream en montrant le design officiel de Merck, dessiné par Endou Hyouga.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.3958,
+        "width": 0.445,
+        "height": 0.0412
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.4466,
+        "width": 0.3762,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.3657,
+        "y": 0.4554,
+        "width": 0.07,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le groupe « Survival » composé d'Izuru, Temma, et Roberu a commencé son voyage pour continuer l'histoire du chapitre 3 de Raft. Ils ont exploré Varuna Point où ils se sont séparés pour rassembler les notes éparpillées dans le bâtiment. Roberu est monté tandis qu'Izuru et Temma sont descendus dans l'eau pour explorer le sous-sol. Après avoir rassemblé les notes et les objets nécessaires, ils sont tous montés sur la grue pour voir la dernière note nécessaire pour la prochaine île. Avant de terminer le stream, ils ont annoncé que la prochaine collaboration aura lieu le 6 septembre pour continuer l'histoire.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.4909,
+        "width": 0.4456,
+        "height": 0.1819
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PROJECT V",
+      "bbox": {
+        "x": 0.0588,
+        "y": 0.6866,
+        "width": 0.3419,
+        "height": 0.0365
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.3314,
+        "y": 0.6944,
+        "width": 0.07,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "HOLOSTARS a annoncé qu'ils seront les invités du programme de télévision japonais NTV \"PROJECT V\". Les membres qui apparaîtront sont Izuru, Rikka, Roberu, Shien, et Oga. Cette émission sera diffusée le 30 septembre à 00h59 JST sur le site de NTV.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.7318,
+        "width": 0.445,
+        "height": 0.0838
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Temma",
+      "bbox": {
+        "x": 0.6314,
+        "y": 0.1498,
+        "width": 0.1443,
+        "height": 0.0298
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.7929,
+        "y": 0.1538,
+        "width": 0.07,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans son jeu Cult of the Lamb, notre chevalier noir, Kishido Temma, a décidé de recruter et de nommer les membres de son culte d'après d'autres membres d'HOLOSTARS. En commençant par Miyabi, Temma a lentement mais sûrement continué à recruter d'autres adeptes dans son culte. Il a également modifié leur apparence pour qu'ils ressemblent aux HOLOSTARS. En tant que chef du culte, Temma s'assurait qu'aucun de ses adeptes ne s'endormait ou même ne mourait sans sa permission. Cependant, le moment venu, il n'a pas hésité à sacrifier facilement Aruran lors du rituel. N'oubliez pas de regarder le let’s play de Cult of the Lamb de Temma pour découvrir le sort des autres membres d'HOLOSTARS entre les mains de notre chevalier noir Kishido Temma.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.1897,
+        "width": 0.445,
+        "height": 0.2313
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.5919,
+        "y": 0.4431,
+        "width": 0.2131,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "other",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.7357,
+        "y": 0.4454,
+        "width": 0.07,
+        "height": 0.0188
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre fleuriste attitré, Hanasaki Miyabi, a publié un autre vlog. Cette fois, il a documenté sa visite à World Garden pour voir diverses plantes. Dans ce vlog, on nous a montré les différentes collections de plantes que World Garden possède. Nous avons également pu voir de nombreuses photos mignonnes que Miyabi a prises sur place.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.4809,
+        "width": 0.4456,
+        "height": 0.0985
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyabi était émerveillé par leur collection de cactus et a fini par en acheter un pour sa maison. Il nous a ensuite emmenés chez lui pour nous montrer comment il s'occupe de ses plantes, y compris le cactus qu'il vient d'acheter.",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.5911,
+        "width": 0.445,
+        "height": 0.0699
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a conclu le vlog en montrant le teaser de son prochain vlog, qui comprendra beaucoup de nourriture. Allez regarder le vlog de Miyabi pour voir son côté adorable pendant qu'il se promène autour des plantes.",
+      "bbox": {
+        "x": 0.515,
+        "y": 0.7938,
+        "width": 0.445,
+        "height": 0.0642
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/w763jdzjaqn91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

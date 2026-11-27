@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.47,
+        "y": 0.015,
+        "width": 0.06,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gura",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.179,
+        "width": 0.08,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gura a donné le coup d'envoi de la célébration de son anniversaire avec un stream d'appel téléphonique accompagné de cadeaux, de manigances et de fraises. Elle a reçu un artbook numérique de la part des Chumbuds, et a exprimé sa gratitude envers ses fans pour s'être réunis afin de créer quelque chose de si spécial. Les cadeaux des filles qui n'ont pas appelé étaient un bouquet de poissons morts dessiné à la main par Korone, une bague de Shion (que Gura a pris pour une pierre) et un message de Mel.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3869,
+        "height": 0.1467
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant les appels, les filles JP ont fait de leur mieux pour parler anglais, tandis que Gura a prononcé quelques phrases en japonais. Koyori a dit qu'elle voulait jouer à Mario Party avec Gura, mais qu'elle n’en avait pas le courage à cause de son anglais. Ina a prononcé une chanson d'anniversaire d’une voix rauque sur son Otamatone. Gura pensait qu'il fallait utiliser sa bouche pour en jouer et a donc pensé qu'Ina riait en jouant. Pendant ce temps, Calli, endormie, mais fière, a fait semblant d'être Sora avant que la vraie Sora ne l'appelle. Ne manquez pas de regarder le stream complet pour voir les amusantes interactions de chacune avec Gura !",
+      "bbox": {
+        "x": 0.071,
+        "y": 0.37,
+        "width": 0.398,
+        "height": 0.18
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.687,
+        "width": 0.08,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli a révélé dans son stream de lecture de manga qu'elle étudiait les moyens de retourner aux États-Unis. Elle a révélé que la principale raison de cette décision était que 80 % de ses revenus étaient consacrés aux impôts, puisqu'elle est citoyenne américaine et vit au Japon, tout en étant dans la tranche de taux d’imposition la plus élevée.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.7287,
+        "width": 0.3738,
+        "height": 0.0942
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.639,
+        "y": 0.179,
+        "width": 0.08,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 24 juin, Calli a participé au dernier épisode de Speak of the Devil, un talk-show en direct sur Twitch animé par Ironmouse de VShojo. Elles ont notamment discuté de leurs films et séries occidentaux préférés, et des interviews sur les nuances de la carrière de Calli en tant que VTuber et chanteuse.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2183,
+        "width": 0.3881,
+        "height": 0.0877
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Toutes deux ont également exprimé leur sentiment de solitude pendant certains de leurs streams et ont convenu de s'appeler à tout moment pour lutter contre cela. Calli a aussi parlé de « Villain Vibes », sa chanson en collaboration avec AmaLee, qui a également été diffusée en avant-première pendant le stream. Les filles ont également laissé entendre qu'elles souhaitaient collaborer un jour sur un stream karaoké ou une nouvelle chanson.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.3155,
+        "width": 0.3844,
+        "height": 0.1267
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.75,
+        "y": 0.58,
+        "width": 0.11,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Profitant d’être réunis ensemble, Ina, Kiara et Gura ont organisé une revue des saveurs de Pop-Tart. Après avoir passé en revue tous les parfums disponibles, chacune a déclaré son parfum préféré. Ina a préféré le sucre roux à la cannelle, Kiara le caramel au chocolat et Gura la fraise glacée.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.6207,
+        "width": 0.3869,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kiara a confié qu'elle était nerveuse au moment de se rencontrer, mais Ina lui a assuré qu'elles étaient bien les mêmes en personne qu'en ligne. Kiara a ajouté que nous devrions nous attendre à d'autres collaborations à l'avenir entre tous les talents d’holoMyth !",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.7253,
+        "width": 0.3813,
+        "height": 0.0938
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/vlsl4i82haa91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

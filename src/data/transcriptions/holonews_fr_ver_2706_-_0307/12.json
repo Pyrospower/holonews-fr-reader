@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.4713,
+        "y": 0.0165,
+        "width": 0.0581,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holoMyth Collab",
+      "bbox": {
+        "x": 0.1706,
+        "y": 0.1797,
+        "width": 0.2113,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 29 juin, holoMyth on enfin eu leur première collab en personne avec tous les membres du groupe ! Elles ont commencé avec un bras de fer sur la chaîne d’Ame avec leurs modèles 3D. À la surprise de tous, Ina est parvenue à gagner contre Gura. Les filles ont mentionné qu’elles allaient se rassembler pour le concert d’anniversaire 3D de Kiara qui arrive.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3831,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles sont ensuite passées sur la chaîne de Calli pour boire quelques boissons (préparées par Calli) et un karaoké. Calli a également commandé des microphones animés pour tout le monde ! Lorsqu’elles s'apprêtaient à chanter « Shiny Smily Story », elles ont révélé que Bae était présente en tant qu’invité surprise et en tant qu’« audience en direct ». Ells ont chantées « Myth or Treat », « Live Again », « VIOLET », « Excuse my Rudeness, But Could You Please RIP? » ainsi que « HINOTORI », et elles ont clôturé le tout avec « Journey Like a Thousand Years ».",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.3351,
+        "width": 0.3894,
+        "height": 0.164
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ame",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.635,
+        "width": 0.0731,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après quelques jours de collab assez épuisants et ayant était support technique pour le concert de Kiara, Ame a enfin pu stream seul avec ses Teamates après tant d’attente ! Dans ce stream, Ame a beaucoup raconté à propos de ses expériences avec les autres filles et a aussi répondu aux questions de la sorte de « qui est la meilleure ou la plus... » du chat comme par exemple « Qui est la plus affectueuse ? » ou encore « Qui a la meilleure odeur ? ».",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.6745,
+        "width": 0.3881,
+        "height": 0.1254
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant le stream, Ame a révélé qu’en plus de Fauna et Bae, holoMyth a également pu rencontrer Jenma, Mamamori, et Tante Watson ! Mamamori et Tante Watson se sont rencontrés et ont échanger des plaisantries ensemble, et Kiara a rendu Ame toute gênée devant Tante Watson en remerciant cette dernière de l’avoir bien élever.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8129,
+        "width": 0.3875,
+        "height": 0.0977
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après s’être séparé des autres filles, Ame a annoncé qu’elle aimerait prendre une pause de quelques jours pour se relaxer. Elle compte partir dans un spa et se faire les ongles lors de cette pause bien méritée.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.9262,
+        "width": 0.3762,
+        "height": 0.0625
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.6388,
+        "y": 0.1788,
+        "width": 0.0525,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina est revenue de sa pause avec un stream discussion et karaoké, suite à la collaboration en personne avec holoMyth. C'était son premier stream en dehors des concerts ou des collabs mettant en scène son modèle 3D. Elle a remarqué que les gens dessinaient son dos et a précisé qu'elle n'allait pas nous bonk si cela était fait avec modération.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2183,
+        "width": 0.385,
+        "height": 0.1007
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina a raconté que Kiara l'avait contactée quelques jours après sa pause tant attendue pour lui dire qu'elle se rendait chez Watson pour l'enregistrement de son concert d'anniversaire en 3D et qu'elle voulait que tout le monde l'accompagne. Malheureusement, elle n'a pas pu revoir Fauna, mais Ina a partagé de bons souvenirs avec holoMyth et les animaux d'Ame. Avant de nous quitter, Ina a chanté quelques chansons, dont « phony », qu'elle a dit n'avoir jamais reprise auparavant, « Mixed Nuts », « Sakayume », « Asphyxia », et « Pretender », qu'elle a chantée avec Gura lors de son mini-concert d'anniversaire.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.3325,
+        "width": 0.3906,
+        "height": 0.1788
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kronii",
+      "bbox": {
+        "x": 0.6369,
+        "y": 0.648,
+        "width": 0.1025,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kronii a joué à Silt, un jeu de puzzle et d'aventure qui se déroule sous la mer. Elle a baissé la luminosité de sa chambre pour créer une ambiance pendant qu'elle explorait les profondeurs monochromes, et a été choquée par les créatures qui s'y cachaient. Mais la chose la plus terrifiante a sans doute été le retour surprise de Cortana dans la discussion de fin de stream, tourmentant Kronii avec des barrages sans fin de « Hi, I'm Cortana! ».",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.6879,
+        "width": 0.3838,
+        "height": 0.1341
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/xoe62h635kb91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

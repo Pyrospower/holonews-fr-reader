@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MISC",
+      "bbox": {
+        "x": 0.1875,
+        "y": 0.0339,
+        "width": 0.1563,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le magasin officiel d'hololive est maintenant disponible sur Tokopedia, une plateforme d'e-commerce fondée en Indonésie. Actuellement, seuls les produits hololive Summer Festival sont en vente, mais la ligne de produits sera étendue dans le futur.",
+      "bbox": {
+        "x": 0.1844,
+        "y": 0.0864,
+        "width": 0.3,
+        "height": 0.1389
+      }
+    },
+    {
+      "type": "other",
+      "text": "Aogami High School Merch\nOn Sale November 29",
+      "bbox": {
+        "x": 0.0563,
+        "y": 0.332,
+        "width": 0.1875,
+        "height": 0.0577
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Seulement vendu en personne auparavant, les produits dérivés hololive Error sont maintenant sur Booth et GeekJack. Leurs nombres étant limités, achetez-les tant que vous le pouvez!",
+      "bbox": {
+        "x": 0.275,
+        "y": 0.2552,
+        "width": 0.205,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est bientôt Noël, et pour célébrer les vacances, Cover a annoncé une nouvelle série de produits dérivés pour fêter Noël, le Nouvel An ainsi que le 2e anniversaire de la 4e Génération ! Y sont inclus sont plusieurs ensembles de broches, des figurines acryliques, des peluches, et plus encore! Ils seront vendus au Tokyo Skytree le 17 décembre mais les fans japonais et internationaux pourront les acheter en ligne à partir du 1er janvier jusqu’au 31 janvier.",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.2279,
+        "width": 0.4344,
+        "height": 0.1615
+      }
+    },
+    {
+      "type": "heading",
+      "text": "LET’S PLAY",
+      "bbox": {
+        "x": 0.2269,
+        "y": 0.4214,
+        "width": 0.3406,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "other",
+      "text": "LET'S PLAY\nTERMINÉS",
+      "bbox": {
+        "x": 0.8375,
+        "y": 0.4201,
+        "width": 0.0975,
+        "height": 0.0326
+      }
+    },
+    {
+      "type": "other",
+      "text": "CARAVAN STORIES | COUNTER:SIDE | THE GREAT ACE ATTORNEY CHRONICLES\nTHE IDOLM@STER シンデレラガールズ STARLIGHT STAGE | Doki Doki Literature Club! / OUTLAST | SUPERLIMINAL\nMEGA MAN 2 | HALO INFINITE | Evil God Kotone\n★ Jump King — New Babe + | パワプロクンポケットR | Jump King / Ring Fit Adventure\nMom Hid My Game! / UNDERTALE | HITMAN 2 | Voice of Cards ドラゴンの島 / 空気読み。 KUUKIYOMI Consider It\nThe Radio Station | MARIO PARTY SUPERSTARS | Bus Simulator 18\nPokémon BRILLIANT DIAMOND / SHINING PEARL",
+      "bbox": {
+        "x": 0.0375,
+        "y": 0.4753,
+        "width": 0.9219,
+        "height": 0.4839
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/740ubz6rjq581.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

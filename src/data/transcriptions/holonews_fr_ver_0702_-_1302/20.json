@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0702_-_1302",
+  "page": 20,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENTS À VENIR",
+      "bbox": {
+        "x": 0.054,
+        "y": 0.029,
+        "width": 0.408,
+        "height": 0.073
+      }
+    },
+    {
+      "type": "other",
+      "text": "(du 15 au 22 février)",
+      "bbox": {
+        "x": 0.183,
+        "y": 0.115,
+        "width": 0.158,
+        "height": 0.014
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 15 Février: Anniversaire de Moona\n• 17 Février: Anniversaire d'Aki\n• 22 Février: Anniversaire d'Okayu",
+      "bbox": {
+        "x": 0.085,
+        "y": 0.137,
+        "width": 0.366,
+        "height": 0.078
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PALIERS D’ABONNÉS",
+      "bbox": {
+        "x": 0.57,
+        "y": 0.041,
+        "width": 0.344,
+        "height": 0.066
+      }
+    },
+    {
+      "type": "other",
+      "text": "RISU 600K\nFAUNA 450K\nHOLOLIVE INDONESIA CH 250K",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.142,
+        "width": 0.2,
+        "height": 0.162
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci !",
+      "bbox": {
+        "x": 0.391,
+        "y": 0.609,
+        "width": 0.227,
+        "height": 0.031
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.069,
+        "y": 0.647,
+        "width": 0.862,
+        "height": 0.131
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.3137,
+        "y": 0.793,
+        "width": 0.3825,
+        "height": 0.056
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/o9evvcoe17j81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

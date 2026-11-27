@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Otakulamps",
+      "bbox": {
+        "x": 0.1475,
+        "y": 0.1541,
+        "width": 0.2381,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après le succès retentissant lors du lancement la semaine passée, Otakulamps a refait un stock de produits dérivés hololive. Ils ont aussi revus certaines restrictions, et ont commencé à vendre dans le monde entier. À titre de rappel, les produits dérivés en question consistent en des lampes représentant les personnages d’holoMyth (holoEN première génération), Area 15, et HoloRo (holoID générations 1 et 2).",
+      "bbox": {
+        "x": 0.045,
+        "y": 0.1897,
+        "width": 0.4463,
+        "height": 0.1037
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holo Radio",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.2943,
+        "width": 0.285,
+        "height": 0.0486
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La toute nouvelle paire d’hôtes pour la radio de longue date : Holo Radio ~ Listen to our song! est constituée de Polka et de Flare. Les prochaines seront Sora et Iofi, marquant la première apparition d’un talent d’une autre branche que celle japonaise.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.3668,
+        "width": 0.4456,
+        "height": 0.0642
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloID",
+      "bbox": {
+        "x": 0.12,
+        "y": 0.451,
+        "width": 0.22,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le compte officiel d’hololive Indonesia a sorti un Digest Movie des présentations et et des mini concerts 3D de Area15 (holoID première génération : Iofi, Moona & Risu) qui ont eu lieu en septembre. La vidéo a été préparée par Rickchama et possède des sous-titres anglais.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.4978,
+        "width": 0.4463,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Among Us",
+      "bbox": {
+        "x": 0.122,
+        "y": 0.802,
+        "width": 0.22,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une nouvelle gamme de produits dérivés hololive x Among Us est disponible sur Geekjack : une figurine Diorama en acrylique et des peluches holoCrewmates (Fubuki, Mio, Okayu, Korone, Marine, Gura, Amelia, Moona, Risu). Les peluches font approximativement 8 centimètres, et peuvent être achetées individuellement.",
+      "bbox": {
+        "x": 0.0419,
+        "y": 0.849,
+        "width": 0.4463,
+        "height": 0.0881
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De plus, de nombreuses autres collaborations avec Among Us sont disponibles sur le même site.",
+      "bbox": {
+        "x": 0.0419,
+        "y": 0.9405,
+        "width": 0.4463,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "heading",
+      "text": "COVER",
+      "bbox": {
+        "x": 0.61,
+        "y": 0.1432,
+        "width": 0.1294,
+        "height": 0.0373
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "COVER Corp. a commencé un blog sur Note, dans lequel ils comptent partager un peu de la culture de leur entreprise, leurs valeurs et même des avis de leurs employés. Ils cherchent à montrer un peu plus de leur entreprise dans le but de créer un meilleur environnement pour les fans et les créateurs de contenu.",
+      "bbox": {
+        "x": 0.5131,
+        "y": 0.1949,
+        "width": 0.445,
+        "height": 0.0881
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.722,
+        "y": 0.434,
+        "width": 0.22,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanata a été l’hôte durant un challenge sur la chaîne officielle d’hololive, dans lequel elle a joué le rôle d’un sergent instructeur tyrannique pour les membres EN Kiara, Ina et IRyS. Ça a été la première apparence de Ina depuis sa pause. Le défi pour les 3 filles était de répondre aux questions en 10 secondes. Alors qu’elles ont réussi sans difficulté les questions de langue (Ina a fait de nombreux jeux de mots, pendant que IRyS était en train de traiter Kanata de gorille), le trio a cependant dû faire face à leur pire ennemi : les maths, et le stream fut arrêté prématurément. Tu nous manques, Ina !",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.4779,
+        "width": 0.4463,
+        "height": 0.1558
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holo's Bonjour",
+      "bbox": {
+        "x": 0.5125,
+        "y": 0.7565,
+        "width": 0.3594,
+        "height": 0.056
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "holo’s Bonjour est de retour avec son épisode final après 2 ans sur la chaîne officielle d’hololive. holo’s Bonjour est le talk show variété officiel d’hololive, durant lequel un cast de membres différent est choisi à chaque épisode, et consistant cette fois-ci de Kiara, Reine et IRyS. Dans cet épisode, IRyS a révélé que son aînée la plus effrayante était Calli, les holobirds mariées l’ont malmenée et Reine est devenue manageuse de KFP. Kiara a aussi raconté une histoire romantique avec beaucoup trop de violence et de blessures, tandis qu’IRyS a révélé un terrible secret.",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.8216,
+        "width": 0.4463,
+        "height": 0.1428
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8e1wbcz6o22a1.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

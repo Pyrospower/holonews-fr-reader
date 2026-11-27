@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 16,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projet de fans",
+      "bbox": {
+        "x": 0.3644,
+        "y": 0.0256,
+        "width": 0.2706,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "other",
+      "text": "Goresan Warna\nSebuah hadiah untuk iofi",
+      "bbox": {
+        "x": 0.0892,
+        "y": 0.1976,
+        "width": 0.1923,
+        "height": 0.0673
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ioforia",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.2735,
+        "width": 0.1092,
+        "height": 0.0224
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Atelier Ioforia, le serveur Discord des fans de Iofi, a réalisé un clip pour son dix-huitième anniversaire. Ils ont recueilli des félicitations de fans du monde entier, d'autres VTubers et même de créateurs de contenu. Joyeux anniversaire, Iofi !",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.3142,
+        "width": 0.4619,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4081,
+        "y": 0.424,
+        "width": 0.185,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.7323,
+        "y": 0.4241,
+        "width": 0.2138,
+        "height": 0.0203
+      }
+    },
+    {
+      "type": "other",
+      "text": "Mini Motorways",
+      "bbox": {
+        "x": 0.1908,
+        "y": 0.4658,
+        "width": 0.26,
+        "height": 0.063
+      }
+    },
+    {
+      "type": "other",
+      "text": "Klonoa: Door to Phantomile",
+      "bbox": {
+        "x": 0.1892,
+        "y": 0.5417,
+        "width": 0.2615,
+        "height": 0.063
+      }
+    },
+    {
+      "type": "other",
+      "text": "Cat Burglar: A Tail of Purrsuit",
+      "bbox": {
+        "x": 0.1908,
+        "y": 0.6175,
+        "width": 0.26,
+        "height": 0.0641
+      }
+    },
+    {
+      "type": "other",
+      "text": "Pathologic 2",
+      "bbox": {
+        "x": 0.1908,
+        "y": 0.6944,
+        "width": 0.26,
+        "height": 0.063
+      }
+    },
+    {
+      "type": "other",
+      "text": "Unpacking",
+      "bbox": {
+        "x": 0.1908,
+        "y": 0.7703,
+        "width": 0.26,
+        "height": 0.062
+      }
+    },
+    {
+      "type": "other",
+      "text": "Euro Truck Simulator 2",
+      "bbox": {
+        "x": 0.2662,
+        "y": 0.8568,
+        "width": 0.1677,
+        "height": 0.0395
+      }
+    },
+    {
+      "type": "other",
+      "text": "RUST",
+      "bbox": {
+        "x": 0.3185,
+        "y": 0.9295,
+        "width": 0.1169,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "other",
+      "text": "Phantasy Star Online 2",
+      "bbox": {
+        "x": 0.6538,
+        "y": 0.4658,
+        "width": 0.2631,
+        "height": 0.063
+      }
+    },
+    {
+      "type": "other",
+      "text": "Doki Doki Literature Club Plus!",
+      "bbox": {
+        "x": 0.6538,
+        "y": 0.5417,
+        "width": 0.2631,
+        "height": 0.063
+      }
+    },
+    {
+      "type": "other",
+      "text": "Hidden Through Time",
+      "bbox": {
+        "x": 0.6538,
+        "y": 0.6175,
+        "width": 0.2631,
+        "height": 0.0641
+      }
+    },
+    {
+      "type": "other",
+      "text": "Custom Robo",
+      "bbox": {
+        "x": 0.6538,
+        "y": 0.6944,
+        "width": 0.2631,
+        "height": 0.063
+      }
+    },
+    {
+      "type": "other",
+      "text": "I'm going to die if I don't eat sushi!",
+      "bbox": {
+        "x": 0.6538,
+        "y": 0.7703,
+        "width": 0.2631,
+        "height": 0.062
+      }
+    },
+    {
+      "type": "other",
+      "text": "GOLF IT",
+      "bbox": {
+        "x": 0.7338,
+        "y": 0.8568,
+        "width": 0.1723,
+        "height": 0.0395
+      }
+    },
+    {
+      "type": "other",
+      "text": "Mario Party Superstars",
+      "bbox": {
+        "x": 0.7338,
+        "y": 0.9295,
+        "width": 0.1723,
+        "height": 0.0438
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lcvmsu55sqd91.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

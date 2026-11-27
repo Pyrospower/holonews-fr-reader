@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 14,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOMYTH",
+      "bbox": {
+        "x": 0.0593,
+        "y": 0.0502,
+        "width": 0.4148,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ina",
+      "bbox": {
+        "x": 0.1611,
+        "y": 0.2225,
+        "width": 0.0778,
+        "height": 0.0257
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant qu'elle dessinait une de ses cadettes, Laplus Darknesss d'hololive Gen 6, Ina nous a révélé que Ninomaman était une animatrice et qu'elle essayait de la faire reprendre le dessin. Durant le stream, Laplus elle-même est passée et a donné à Ina la permission de la surnommer « Lap-chan ». Kagura Nana-sensei (l'illustratrice d'Ayame) a aussi fait son apparition, provoquant une très mignonne réaction de panique de la part d'Ina.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2648,
+        "width": 0.4338,
+        "height": 0.1467
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.1611,
+        "y": 0.5568,
+        "width": 0.1296,
+        "height": 0.0257
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kiara a finalement été vérifiée sur Twitter, faisant d'elle la dernière membre d'holomyth à être vérifiée, et la 13e membre d'hololive à être vérifiée avant Fubuki.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.5964,
+        "width": 0.4081,
+        "height": 0.0764
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli",
+      "bbox": {
+        "x": 0.1611,
+        "y": 0.8038,
+        "width": 0.1056,
+        "height": 0.0257
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli a fini sa partie de Pokémon Diamant Étincelant en mode Nuzlocke Lite sur le fil ! Son Carchacrok a été sauvé 2 fois par le pouvoir de l'amitié, ce qui lui a permis de gagner la bataille finale sans problème.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.8477,
+        "width": 0.4119,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La convention Anime NYC a pris place ce week-end avec un stand hololive, beaucoup de cosplays hololive, et une conférence en direct de holoCouncil le samedi, où les 5 membres étaient présents. D'après Fauna il y avait à peu près 2000 personnes, nombre impressionnant puisque toutes les conférences n'atteignent pas de tels chiffres. Il y avait aussi des produits dérivés holoEN comme des t-shirts, des épinglettes, un calendrier et autres, ainsi que des produits dérivés faits par des fans. L'ambassadeur japonais, M. Yamanouchi, était aussi présent à l'événement et à même pris une photo avec le panneau en carton représentant Gura. Vous pouvez trouver plus de photos des cosplayeurs sur Twitter en utilisant les hashtags #AnimeNYC et #hololive.",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.224,
+        "width": 0.4288,
+        "height": 0.2804
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.6469,
+        "width": 0.1056,
+        "height": 0.0296
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "IRyS a joué à Resident Evil: Village pour la troisième fois en stream. Comme pour les deux streams précédents, elle a utilisé un moniteur de fréquence cardiaque pour partager avec les IRyStocrats ce qu'elle ressentait en jouant. Pendant plus de 4 heures, elle nous a montré les compétences et le savoir-faire qu'elle a gagnés en jouant au jeu en éliminant les hordes de zombies qui se sont montrées sur son chemin. IRyS a quand même eu quelques frayeurs qui lui ont causé des pics de fréquence cardiaque. Comme prévu, IRyS a terminé le jeu et a fini le stream en lisant des Super Chats. Elle a aussi rétorqué au tchat qu'elle ne procrastinait pas et qu'elle finirait ses devoirs après le stream.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.6871,
+        "width": 0.4288,
+        "height": 0.2652
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/t3x3uudmjr381.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

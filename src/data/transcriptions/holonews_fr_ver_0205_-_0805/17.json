@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.4288,
+        "y": 0.0256,
+        "width": 0.1431,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.66,
+        "y": 0.1907,
+        "width": 0.1545,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "other",
+      "text": "Ina 1,4M\nRio 50k\nKobo 450k",
+      "bbox": {
+        "x": 0.6,
+        "y": 0.2626,
+        "width": 0.0891,
+        "height": 0.1237
+      }
+    },
+    {
+      "type": "other",
+      "text": "Roberu 250k\nGamma 50k\nZeta 350k",
+      "bbox": {
+        "x": 0.8327,
+        "y": 0.2626,
+        "width": 0.1055,
+        "height": 0.1237
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.5364,
+        "y": 0.4596,
+        "width": 0.3964,
+        "height": 0.0316
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 10 Mai : Anniversaire d'Uyu\n• 13 Mai : Anniversaire des débuts de Mel\n• 15 Mai : Anniverisaire de Sora",
+      "bbox": {
+        "x": 0.5655,
+        "y": 0.5303,
+        "width": 0.3527,
+        "height": 0.0985
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.6944,
+        "width": 0.5319,
+        "height": 0.1102
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.8242,
+        "width": 0.2537,
+        "height": 0.0373
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/60cho6nspg091.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

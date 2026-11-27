@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 6,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le plus grand clown de tous les temps est de retour avec une nouvelle tenue ! Polka va impressionner n’importe quelle personne croisant sa route avec son nouveau style, en plus de leur en mettre plein la vue.",
+      "bbox": {
+        "x": 0.0356,
+        "y": 0.2721,
+        "width": 0.4338,
+        "height": 0.0968
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka prend l’apparence d’une lycéenne gyaru. Elle porte l’uniforme classique avec des accessoires moins conventionnels pour l’aider à se démarquer.",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.3876,
+        "width": 0.4356,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sa tenue comporte une chemise blanche avec un ruban, ainsi qu’une jupe arborant ses couleurs habituelles : rouge, bleu et doré. Elle peut également se vêtir d’un manteau ou d’un pull. Elle porte également des chaussures simples avec des jambières.",
+      "bbox": {
+        "x": 0.0363,
+        "y": 0.4696,
+        "width": 0.4331,
+        "height": 0.0968
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour couronner le tout, sa tête est couverte d’épingles à cheveux ! Parmi celles-ci, on en retrouve une pour chaque membre de sa génération. Enfin, ses cheveux sont regroupés en une longue queue de cheval sur le côté de sa tête.",
+      "bbox": {
+        "x": 0.035,
+        "y": 0.7639,
+        "width": 0.2563,
+        "height": 0.1758
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/335o9ht5o22a1.gif",
+    "gifFrame": 74,
+    "confidence": 93
+  }
+}

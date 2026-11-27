@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STATS ET SORTIES",
+      "bbox": {
+        "x": 0.1456,
+        "y": 0.1024,
+        "width": 0.5588,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nORIGINALE\nNOUVEAU",
+      "bbox": {
+        "x": 0.837,
+        "y": 0.094,
+        "width": 0.12,
+        "height": 0.043
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/13\n[Suisei] Phony: 3M\n[Suisei/Hibiki Ao] Turing Love: 1M\n[Flare/Patra] Crazy Party Night: 50K\n[Fubuki/Oga] Okochama Sensou: 500K",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.17,
+        "width": 0.44,
+        "height": 0.07
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/14\n[Calliope] Roki: 9M\n[Sora] Vampire: 500K\n[Okayu] Gehenna: 750K\n[Suisei/HoloFantasy] Saga Jihen: 15M\n[AZKi] Gamen No Nakano Kimi Ga Suki: 25K\n[Astel] Mirai Ginga to Kiteki no Melody: 50K\n[AZKi] Inochi Ni Kirawarete Iru: 250K\n[Suisei] Shine!!: 500K\n[Aruran] W.I.M.: 50K",
+      "bbox": {
+        "x": 0.512,
+        "y": 0.17,
+        "width": 0.437,
+        "height": 0.159
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/15\n[Kanata] Outsider: 3M\n[Matsuri] Chichin Pui Pui: 100K\n[Suisei/Izuru/Astel] Cinema (Cover): 250K\n[Temma] 1.15man Kilo No Film (Cover): 10K\n[Korone] Fire Emblem Theme: 500K\n[Watame] Chikuwa Rap: 100K",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.26,
+        "width": 0.44,
+        "height": 0.103
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/16\n[AZKi] Felicia: 250K\n[Roberu] Rashisa: 75K",
+      "bbox": {
+        "x": 0.512,
+        "y": 0.349,
+        "width": 0.437,
+        "height": 0.034
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/17\n[Towa] Eye: 750K\n[Lamy] Asu E No Kyoukaisen: 250K\n[Kanata] Ashura-chan (Cover): 100K\n[AZKi] Sennou Sakushu Toranomaki: 75K\n[Calliope/Taku Inoue] Yona Yona Journey: 100K\n[Miko/Fubuki/Matsuri/Marine] Gimme Virtua Star: 750K\n[La+] God-ish: 3M",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.383,
+        "width": 0.44,
+        "height": 0.14
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/18\n[Sora] Envy Baby: 250K\n[Okayu] Animal (Cover): 250K\n[Aruran/Rikka/Roberu/Shien/Oga] Pentas: 75K",
+      "bbox": {
+        "x": 0.512,
+        "y": 0.402,
+        "width": 0.437,
+        "height": 0.052
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/19\n[Suisei] Stellar Stellar: 4M\n[Moona/Suisei] Saikai: 1M\n[AZKi] Nanawari Enemy: 75K\n[Reine] Gate Open: START!: 250K\n[Astel/Roberu] Hashire (Cover): 10K\n[Polka] S'il Vous President (Cover): 75K\n[Babudon] Mrs Pumpkin no Kokkei na Yume: 50K\n[Aqua/Fubuki/Mio/Rushia/Marine/Kanata] Umapyoi Densetsu: 2M",
+      "bbox": {
+        "x": 0.048,
+        "y": 0.544,
+        "width": 0.442,
+        "height": 0.16
+      }
+    },
+    {
+      "type": "other",
+      "text": "HOLOSTARS 1st ACT\nJOURNEY to FIND STARS!!",
+      "bbox": {
+        "x": 0.568,
+        "y": 0.5,
+        "width": 0.333,
+        "height": 0.092
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE — MelKiss — CHOCO♡ MELTY\nREPRISE — Temma — 115MAN KILO NO FILM\nREPRISE — Suisei, Izuru, Astel — CINEMA\nREPRISE — Astel & Roberu — HASHIRE\nREPRISE — Okayu — ANIMAL\nREPRISE — Kanata — ASHURA CHAN\nREPRISE — Polka — S'IL VOUS PRESIDENT\nREPRISE — Matsuri — CHICHIN PUI PUI",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.733,
+        "width": 0.922,
+        "height": 0.175
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/s9btd0rbop881.png",
+    "gifFrame": null,
+    "confidence": 74
+  }
+}

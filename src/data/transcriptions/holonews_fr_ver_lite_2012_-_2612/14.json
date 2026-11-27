@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 14,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLO EN",
+      "bbox": {
+        "x": 0.1156,
+        "y": 0.0339,
+        "width": 0.3,
+        "height": 0.0313
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli & Gura",
+      "bbox": {
+        "x": 0.1594,
+        "y": 0.204,
+        "width": 0.2656,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant de regarder Eight Crazy Nights, Calli et Gura ont annoncé la sortie d’une nouvelle chanson originale, simplement titré « [Q] ». La chanson sortira aux alentours de début Janvier, accompagnée d’un clip réalisé entièrement par une seule personne ! La personne à l’origine de l’animation et la réalisation de la musique ne sera dévoilée qu’à sortie mais Calli a révélé que le réalisateur est quelqu’un d’assez connu et Gura a dit que ça vaut la peine d’attendre !",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2478,
+        "width": 0.4213,
+        "height": 0.1424
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ame",
+      "bbox": {
+        "x": 0.6394,
+        "y": 0.2044,
+        "width": 0.1031,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De nulle part, Ame a sorti sa première chanson solo, une reprise du chant de Noël « Deck the Halls ». Ame a mentionné que cette chanson était un test pour le futur et a fait allusion à plusieurs chansons à venir !",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2487,
+        "width": 0.4044,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gura",
+      "bbox": {
+        "x": 0.1619,
+        "y": 0.5304,
+        "width": 0.1125,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant la fête de Noël de l’an dernier avec holoMyth, Gura avait avoué que sa famille lui manquait. Cette année, sa famille est venue et l’a surprise avec de la cuisine faite maison, elle a donc reporté ses streams pour pouvoir passer du temps avec. Elle nous a encouragé à faire de même.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5742,
+        "width": 0.4138,
+        "height": 0.1081
+      }
+    },
+    {
+      "type": "other",
+      "text": "hololive EN Song Addition\nSpecial Login Campaign\n12/26 2:00~1/1 7:59(UTC)",
+      "bbox": {
+        "x": 0.6356,
+        "y": 0.4883,
+        "width": 0.1994,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.6356,
+        "y": 0.5304,
+        "width": 0.1069,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La chanson « HERE COMES HOPE » d’IRyS et maintenant jouable dans D4DJ Groovy Mix. Pour fêter cette collaboration, il y a des objets de connexion thématiques et des boissons énergisantes.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.5664,
+        "width": 0.4325,
+        "height": 0.0707
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "IRyS et Bae se sont réconciliées ! Maman Mio a pu assister à leur mariage de réconciliation dans une partie de Mario Party lors d’une collaboration.",
+      "bbox": {
+        "x": 0.5188,
+        "y": 0.651,
+        "width": 0.4375,
+        "height": 0.0425
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOCOUNCIL",
+      "bbox": {
+        "x": 0.0669,
+        "y": 0.7214,
+        "width": 0.4075,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "EN 2",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.7839,
+        "width": 0.1,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Puisqu’il s’agit de la semaine de Noël, certains membres de holoCouncil sont retournés au néant et ont fait une pause. Malgré cela, les fans ont été gâtés par plusieurs streams karaokés de la part des membres au fil de la semaine ! Si vous n’avez pas pu les regarder, assurez vous de garder un œil sur leurs chaînes si jamais ils décident de les rediffuser.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.8173,
+        "width": 0.4275,
+        "height": 0.1476
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Baelz",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.7826,
+        "width": 0.1281,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un deuxième épisode de « Baewatch », Hatsuna et Murasaki ont révélé que Fumi est une enfant née à Noël mais qu’elle n’aime pas Noël car elle n’a jamais eu de réelle fête d’anniversaire auparavant. Pour la réconforter, Shiika et la bande ont décidé d’en organiser une ! Remarquant que Fumi était intéressée par un collier, elles le lui ont offert et Shiika à commentée que même si elle adore Noël, l’anniversaire de son amie est bien plus important.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8164,
+        "width": 0.4244,
+        "height": 0.1619
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/b7icc73zeab81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

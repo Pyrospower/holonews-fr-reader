@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "De retour de vacances",
+      "bbox": {
+        "x": 0.0092,
+        "y": 0.0983,
+        "width": 0.4154,
+        "height": 0.0577
+      }
+    },
+    {
+      "type": "other",
+      "text": "ANNIVERSAIRE D’AMELIA",
+      "bbox": {
+        "x": 0.0369,
+        "y": 0.2361,
+        "width": 0.3615,
+        "height": 0.0545
+      }
+    },
+    {
+      "type": "other",
+      "text": "CONCERT 3D DE TOWA",
+      "bbox": {
+        "x": 0.0369,
+        "y": 0.3088,
+        "width": 0.3062,
+        "height": 0.0556
+      }
+    },
+    {
+      "type": "other",
+      "text": "NOUVELLE FIGURINE DE MARINE",
+      "bbox": {
+        "x": 0.0369,
+        "y": 0.3825,
+        "width": 0.3062,
+        "height": 0.0865
+      }
+    },
+    {
+      "type": "other",
+      "text": "AME SOUS STÉROÏDES",
+      "bbox": {
+        "x": 0.0138,
+        "y": 0.5182,
+        "width": 0.3538,
+        "height": 0.1122
+      }
+    },
+    {
+      "type": "other",
+      "text": "KARAOKÉ D’ASTEL",
+      "bbox": {
+        "x": 0.7292,
+        "y": 0.2575,
+        "width": 0.2338,
+        "height": 0.0609
+      }
+    },
+    {
+      "type": "other",
+      "text": "OLLIE JOUE À JUMP KING",
+      "bbox": {
+        "x": 0.6462,
+        "y": 0.3269,
+        "width": 0.32,
+        "height": 0.0641
+      }
+    },
+    {
+      "type": "heading",
+      "text": "TOURNOI Mario Kart",
+      "bbox": {
+        "x": 0.1123,
+        "y": 0.8173,
+        "width": 0.8077,
+        "height": 0.1421
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/e0dk876kevc81.png",
+    "gifFrame": null,
+    "confidence": 59
+  }
+}

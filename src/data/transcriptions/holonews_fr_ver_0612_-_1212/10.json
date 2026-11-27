@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.115,
+        "y": 0.04,
+        "width": 0.304,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.215,
+        "width": 0.109,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene a montré les nouvelles expressions faciales de son modèle 2D. Elles incluent la tristesse et l’étonnement. Après une courte session de 5 chansons, elle a lâché une grosse annonce : Nene va faire un concert 3D de Noël avec Suisei et Towa le 21 décembre !",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2548,
+        "width": 0.4225,
+        "height": 0.0851
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cependant, la fête n'était pas encore terminée. Il restait une chanson à Nene avant de signer et de lire le nom de tous ceux qui lui ont envoyé un Super Chat.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.3581,
+        "width": 0.4181,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene a posté une vidéo de remerciements sur Reddit. Pendant deux minutes et demi, Nene a remercié ses fans d'outre-mer pour l'amour et le soutien qu'elle a reçu. Elle a aussi promis de continuer de se mettre au défi de nous rendre heureux et de nous combler de joie.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.4497,
+        "width": 0.425,
+        "height": 0.112
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.214,
+        "width": 0.126,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy a entamé son arc d'entraînement sur Pokémon. Au bout de deux streams, elle a fait monter de nouveau le niveau de ses Pokémons et en a capturé plusieurs autres, comme Insécateur. Le samedi, Lamy et Botan se sont affrontées pour la deuxième fois. Cette fois-ci, c'est Lamy qui a emporté la victoire avec 3 Pokémons restants ! Après ce combat intense, les deux ont procédé à des échanges pour faire évoluer le Gravalanch de Lamy ainsi que le Magmar, le Machopeur et le Gravalanch de Botan.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2543,
+        "width": 0.4269,
+        "height": 0.1736
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour faire bon usage de son modèle 3D à la maison récemment obtenu, Lamy a fait un stream ASMR à l'improviste avec un massage à l’huile. En tant que maîtresse de l’ASMR, Lamy a parlé avec une voix douce, s'est bien occupé de ses spectateurs, et les a endormis.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4518,
+        "width": 0.4213,
+        "height": 0.1059
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOX",
+      "bbox": {
+        "x": 0.164,
+        "y": 0.592,
+        "width": 0.208,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.766,
+        "width": 0.082,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La+ a désormais accès à la monétisation ! Pour fêter ça, elle a fait un stream karaoké pour chanter une grande variété de chansons et mettre en avant sa voix. En moins d’une heure, elle a chanté environ 14 chansons, et lorsqu’elle a été interrogée à propos d’une lecture des Super Chats, elle a dit qu’elle les lirait mais pas pendant son stream. La+ a mis fin à son stream brusquement, comme d’habitude.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.806,
+        "width": 0.4181,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chloe",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.765,
+        "width": 0.124,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer la sortie de Koyori de la prison Twitter et faire la promotion de ses camarades de génération, Chloe a fait un stream karaoké de 3 heures. Dans ce stream, elle a beaucoup parlé avec ses fans comme à son habitude, et bien sûr, elle a chanté des chansons japonaises telles que « God Knows », le classique « Promise », et bien plus !",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.8069,
+        "width": 0.4081,
+        "height": 0.1437
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/l819swo5i4781.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

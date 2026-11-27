@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 20,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.4288,
+        "y": 0.0256,
+        "width": 0.1431,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers (que nous avons loupés la semaine dernière)",
+      "bbox": {
+        "x": 0.0894,
+        "y": 0.0729,
+        "width": 0.3475,
+        "height": 0.0399
+      }
+    },
+    {
+      "type": "other",
+      "text": "Botan 1,2 M | Temma 120k\nSana 350k | Kaela 350k",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.152,
+        "width": 0.273,
+        "height": 0.09
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.66,
+        "y": 0.151,
+        "width": 0.151,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "other",
+      "text": "Uyu 60k | Miyabi 125k\nOmegaα 140k | Shien 200k\nholostars ch. 190k | Fuma 70k\nDezmond 90k | Altare 90k\nAxel 90k | Vesper 90k",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.207,
+        "width": 0.276,
+        "height": 0.291
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.068,
+        "y": 0.448,
+        "width": 0.397,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 24 juillet : Anniversaire de Rio\n• 30 juillet : Anniversaire de Marine\n• 30 Juillet : Concert virtuel de Watame et Botan dans VARK\n• 1er août : 4e anniversaire des débuts de Miko, « Baby Dance Live »",
+      "bbox": {
+        "x": 0.119,
+        "y": 0.504,
+        "width": 0.352,
+        "height": 0.146
+      }
+    },
+    {
+      "type": "other",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.691,
+        "width": 0.4944,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "other",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.8242,
+        "width": 0.2512,
+        "height": 0.0369
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/u2aubvlo0qf91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

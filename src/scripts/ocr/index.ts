@@ -101,7 +101,11 @@ async function fetchImage(url: string) {
 
 /** Extracts the frame to OCR and applies the preprocessing. */
 async function prepareImage(path: string, frameOverride?: number) {
-  const metadata = await sharp(path, { animated: true }).metadata();
+  // Long GIFs exceed sharp's default pixel limit once all frames are counted.
+  const metadata = await sharp(path, {
+    animated: true,
+    limitInputPixels: false,
+  }).metadata();
   const frames = metadata.pages ?? 1;
   const gifFrame =
     frames > 1

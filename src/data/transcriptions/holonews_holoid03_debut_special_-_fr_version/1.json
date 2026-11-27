@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_holoid03_debut_special_-_fr_version",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Édition spéciale débuts.",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.1341,
+        "width": 0.1869,
+        "height": 0.0135
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Vestia Zeta",
+      "bbox": {
+        "x": 0.0765,
+        "y": 0.3342,
+        "width": 0.0671,
+        "height": 0.0351
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kaela Kovalskia",
+      "bbox": {
+        "x": 0.3588,
+        "y": 0.3342,
+        "width": 0.0965,
+        "height": 0.0351
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kobo Kanaeru",
+      "bbox": {
+        "x": 0.6588,
+        "y": 0.3342,
+        "width": 0.0894,
+        "height": 0.0351
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holoID 3rd Gen Debut!",
+      "bbox": {
+        "x": 0.0565,
+        "y": 0.4395,
+        "width": 0.7659,
+        "height": 0.0335
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOH3ROES",
+      "bbox": {
+        "x": 0.0131,
+        "y": 0.4826,
+        "width": 0.9444,
+        "height": 0.0694
+      }
+    },
+    {
+      "type": "heading",
+      "text": "SPÉCIAL DÉBUTS",
+      "bbox": {
+        "x": 0.0082,
+        "y": 0.9297,
+        "width": 0.9835,
+        "height": 0.0531
+      }
+    },
+    {
+      "type": "other",
+      "text": "Illustration par : @sakonlieur",
+      "bbox": {
+        "x": 0.7581,
+        "y": 0.9852,
+        "width": 0.2275,
+        "height": 0.0117
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1k667zayvis81.png",
+    "gifFrame": null,
+    "confidence": 70
+  }
+}

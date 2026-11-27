@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1403_-_2003",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.4288,
+        "y": 0.0256,
+        "width": 0.1431,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "other",
+      "text": "Mumei’s Memory Juggling",
+      "bbox": {
+        "x": 0.1869,
+        "y": 0.0924,
+        "width": 0.1588,
+        "height": 0.0625
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fan Game",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.1901,
+        "width": 0.1556,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mumei’s Memory Juggling est un jeu de paires de cartes représentant tous les membres d’hololive et d'holostars, en commençant de la gen 0 jusqu'à holoX en incluant les EN, les ID, et quelques personnages bonus !",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.2283,
+        "width": 0.3806,
+        "height": 0.0877
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le jeu ajoute sa propre touche en permettant aux joueurs de réarranger au hasard les cartes sur la table pour gagner des points supplémentaires. De plus, chaque personnage jouable peut utiliser une compétence unique à son avantage pendant un match.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.3316,
+        "width": 0.3769,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il propose un mode histoire avec de petits dialogues en visual novel entre Mumei et les membres du Council, un mode contre l’IA, un local en mode 2 joueurs pour jouer avec un ami, et plus. Il est aussi possible de se connecter au PC d’un ami via Parsec, et ainsi d’y jouer en ligne.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.4497,
+        "width": 0.3825,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le jeu est actuellement disponible pour Windows et Linux, avec une version Google Play Store (mode solo seulement) toujours en développement.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.5677,
+        "width": 0.38,
+        "height": 0.0582
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.6594,
+        "y": 0.0712,
+        "width": 0.1519,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "Sana 300k\nAyame 1,25 M\nHakos 500k",
+      "bbox": {
+        "x": 0.6188,
+        "y": 0.1424,
+        "width": 0.3262,
+        "height": 0.0664
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Evénement à venir",
+      "bbox": {
+        "x": 0.5456,
+        "y": 0.4219,
+        "width": 0.3731,
+        "height": 0.0247
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 22 mars : Anniversaire de Suisei et 4ème anniversaire de ses débuts\n• 22 mars : Stream de célébration 24h Moona 1 million d’abonnés",
+      "bbox": {
+        "x": 0.5625,
+        "y": 0.5087,
+        "width": 0.3644,
+        "height": 0.076
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.6949,
+        "width": 0.53,
+        "height": 0.1124
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.8242,
+        "width": 0.2537,
+        "height": 0.0373
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/n98lfk61s5q81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

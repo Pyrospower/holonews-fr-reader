@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.26,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.169,
+        "y": 0.297,
+        "width": 0.124,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gamma a enfin terminé son dessin de TEMPUS en guise de cadeau de bienvenue pour eux. Axel est même passé voir son stream pour remercier Gamma pour son illustration. Ce dernier a dit qu’il aimerait pouvoir dessiner chaque membre de TEMPUS individuellement pour une prochaine fois alors de rester patient pour voir cela.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.3346,
+        "width": 0.3863,
+        "height": 0.0951
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.169,
+        "y": 0.615,
+        "width": 0.21,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la toute première collab entre HOLOSTARS et UPROAR avec tous les membres, ils ont décidé de jouer à Gartic Phone ensemble. Puisqu’ils ont des talents de dessinateur varié, ils ont dessiné leurs idées à la suite afin de s’assurer que tous les joueurs comprennent.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.6528,
+        "width": 0.3831,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme d’habitude avec les garçons, c’était la pagaille. On a pu voir Fuma faire des efforts pour censurer le mot « tuer », mais Aruran a mal compris et a dessiné une grande « épée » pour Temma. Astel, Miyabi et Rio, qui étaient les prochains, ont fait des blagues obscènes et se sont excusés auprès de Temma, ce dernier n’étant au courant de rien. Une autre manche notable est quand ils ont réussi à créer une histoire de Yurustar, où Miyabi tuait Aruran, allait en prison, puis Temma lui rendait visite avec une mine heureuse.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.7604,
+        "width": 0.3875,
+        "height": 0.158
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "C’était un stream vraiment marrant, vous pouvez visionner les archives sur les chaînes de Roberu, Oga et Gamma.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.9336,
+        "width": 0.3781,
+        "height": 0.0417
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.24,
+        "width": 0.109,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyabi a fait un autre épisode d’Hanasaki Miyabi Vlogs, et cette fois-ci il est allé au parc côtier d’Hitachi qui se trouve dans la préfecture d’Ibaraki pour voir des némophiles. Afin de préparer sa longue promenade, il a d’abord mangé du jambon rôti, un hot-dog au porc de 30cm, et une crème glacée au némophile bleue comme dessert.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.2804,
+        "width": 0.3888,
+        "height": 0.0981
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après en avoir fini avec son repas, il a commencé sa promenade. Il a vu 260,000 tulipes éparpillées dans les parages avec une variété de couleurs. La prochaine destination était les némophiles qui étaient en pleine floraison aux côtés de Nuisaki (la peluche de Miyabi). Pour finir, il a pris un selfie avec Nuisaki et les fleurs.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.3937,
+        "width": 0.3794,
+        "height": 0.0981
+      }
+    },
+    {
+      "type": "heading",
+      "text": "UPROAR!!",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.63,
+        "width": 0.166,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La souscription est enfin disponible pour les membres d’UPROAR. Fuma et Uyu l’ont fait le 25 juillet, Gamma et Rio le 26. Ils ont tous deux niveaux de souscription avec chacun des avantages différents. Pour Fuma, c’est son procédé de production de rap et ses notes quotidiennes. Pour Uyu, plus de streams « Jyako ». Pour Gamma, il va faire des streams d’entraînement de chant et doublage. Enfin pour Rio, des vidéos de son chat et de cuisine. Si l’une de ces choses vous intéresse, n'hésitez pas à souscrire à leurs chaînes.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.6693,
+        "width": 0.3881,
+        "height": 0.161
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/w6k76rg4fig91.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

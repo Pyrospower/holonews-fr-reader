@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Art by:\nyasu00kamiki\nやすゆき",
+      "bbox": {
+        "x": 0.0212,
+        "y": 0.0147,
+        "width": 0.1731,
+        "height": 0.0561
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Uruha Rushia",
+      "bbox": {
+        "x": 0.1769,
+        "y": 0.4459,
+        "width": 0.3231,
+        "height": 0.0334
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 24 février, COVER a annoncé qu'il mettait fin à son contrat avec Uruha Rushia, membre de la 3e génération d'hololive. Sa chaîne YouTube et ses membres seront fermées vers la fin du mois de mars. Les autres membres de la 3e génération ont organisé un stream sur la chaîne de Pekora concernant la situation, avec des sous-titres en anglais.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.5247,
+        "width": 0.8694,
+        "height": 0.1367
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour plus de détails, veuillez vous référer aux annonces officielles et aux liens ci-dessous. Conformément aux demandes précédentes de T-chan, veuillez montrer votre affection pour de Rushia dans le thread reddit dédié et toute discussion sur l'incident lui-même dans le thread de l'annonce.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.6897,
+        "width": 0.8769,
+        "height": 0.1094
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8307,
+        "width": 0.0819,
+        "height": 0.0174
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/mbwnn8eae0m81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

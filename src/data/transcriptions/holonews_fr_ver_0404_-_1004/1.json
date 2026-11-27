@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Retour du V-Carnival",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.0117,
+        "width": 0.25,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "Chloe a pris un bain",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.0117,
+        "width": 0.25,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "Détective Haato",
+      "bbox": {
+        "x": 0.7325,
+        "y": 0.0117,
+        "width": 0.19,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magazine hebdomadaire d'actu",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.1536,
+        "width": 0.258,
+        "height": 0.012
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shion 1 MIL D'ABONNÉS",
+      "bbox": {
+        "x": 0.72,
+        "y": 0.1719,
+        "width": 0.236,
+        "height": 0.147
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloNews recherche plus de journalistes",
+      "bbox": {
+        "x": 0.672,
+        "y": 0.3446,
+        "width": 0.304,
+        "height": 0.149
+      }
+    },
+    {
+      "type": "heading",
+      "text": "2e anniversaire d'holoID",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.4783,
+        "width": 0.389,
+        "height": 0.065
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Anniversaire d’Okayu",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.559,
+        "width": 0.33,
+        "height": 0.073
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Les deux concours de Miyabi",
+      "bbox": {
+        "x": 0.025,
+        "y": 0.644,
+        "width": 0.473,
+        "height": 0.072
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Stream en anglais de Temma",
+      "bbox": {
+        "x": 0.7325,
+        "y": 0.0117,
+        "width": 0.19,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ANNIVERSAIRE DE Calli",
+      "bbox": {
+        "x": 0.011,
+        "y": 0.81,
+        "width": 0.635,
+        "height": 0.132
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/447d9x59qau81.png",
+    "gifFrame": null,
+    "confidence": 66
+  }
+}

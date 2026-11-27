@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 11,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.26,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.3851,
+        "width": 0.1291,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans son stream matinal, Gamma a fini de dessiner Miyabi. Miyabi l’a aussitôt retweeté, disant qu’il était content du dessin et qu’il était ravi de voir un Miyabi aussi cool.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.4275,
+        "width": 0.3794,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.5505,
+        "width": 0.1291,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "De par des circonstances indépendantes de sa volonté, Gamma a perdu le dessin de Aruran. Heureusement que Gamma était optimiste, il a dit que même s’il a perdu le dessin, il peut en dessiner un encore meilleur.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.592,
+        "width": 0.38,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fuma",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.1705,
+        "width": 0.0964,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans son dernier stream discussion, Fuma a révélé qu’il était gaucher durant la salle d’attente du stream. Il a un peu parlé avec ses spectateurs dans le tchat en attendant que Uyu et Roberu finissent leur collaboration. Actuellement, Rikka et Fuma sont les seuls gauchers d’HOLOSTARS.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2092,
+        "width": 0.3863,
+        "height": 0.0903
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu & UPROAR!!",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.4306,
+        "width": 0.3145,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la Golden Week de cette année, Roberu a invité tous les membres d’UPROAR dans son bar. Roberu a invité chaque membre un par un du 1 au 4 mai. Le 5 mai, Roberu a fermé son bar pour inviter les 4 membres en même temps.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.4102,
+        "width": 0.4044,
+        "height": 0.1415
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme dans Bar ROBEL, Roberu a présenté les talents de chacun de ses invités et UPROAR n’en fait pas l’exception. Chaque stream était rempli de bienveillance et de moments drôles. Par exemple, Fuma a dit que Roberu est un modèle à suivre sauf quand il faut planifier des streams ou bien faire ses propres miniatures de stream. Un autre moment fort a été lorsque Roberu a découvert qu’Uyu passait aussi beaucoup de temps au toilette, lui montrant l’enfer des gachas. Gamma a aussi essayé d'affirmer sa dominance sur Roberu. Roberu a alors dit qu’après avoir découvert la chance de Rio, qu’il voulait tenir la main de Rio pour lui porter un peu chance lors de ses tirages dans un gacha, pari sportif ou tout ce qui nécessite de la chance.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.5655,
+        "width": 0.3856,
+        "height": 0.2387
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le dernier BAR ROBEL, les membres d’UPROAR!! ont confirmé une rumeur : une fois les quatres réunis, ils vont faire sauter le bar de Roberu !",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.8212,
+        "width": 0.3681,
+        "height": 0.0503
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Finalement, toutes ces collaborations ont été un bon moyen de mieux connaître UPROAR!!. Merci d’avoir planifier et organiser ses streams, Roberu !",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.8885,
+        "width": 0.385,
+        "height": 0.0521
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/rphaednspg091.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

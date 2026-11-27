@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Le retour de Zeta",
+      "bbox": {
+        "x": 0.0231,
+        "y": 0.0096,
+        "width": 0.2077,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "other",
+      "text": "L’annonce des HOLOSTARS EN",
+      "bbox": {
+        "x": 0.3123,
+        "y": 0.0096,
+        "width": 0.3723,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "other",
+      "text": "L'unboxing de Calli",
+      "bbox": {
+        "x": 0.7446,
+        "y": 0.0096,
+        "width": 0.2308,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magazine hebdomadaire d'actualités",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.1536,
+        "width": 0.2756,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fuma célèbre son anniversaire",
+      "bbox": {
+        "x": 0.0215,
+        "y": 0.1912,
+        "width": 0.2,
+        "height": 0.0929
+      }
+    },
+    {
+      "type": "heading",
+      "text": "L'anniversaire d'IRyS",
+      "bbox": {
+        "x": 0.0215,
+        "y": 0.3098,
+        "width": 0.2246,
+        "height": 0.0662
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi reporte son anniversaire",
+      "bbox": {
+        "x": 0.0215,
+        "y": 0.4071,
+        "width": 0.2138,
+        "height": 0.0983
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kiara a une nouvelle coiffure",
+      "bbox": {
+        "x": 0.0215,
+        "y": 0.5299,
+        "width": 0.1831,
+        "height": 0.1218
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora célèbre son troisième anniversaire",
+      "bbox": {
+        "x": 0.7446,
+        "y": 0.1923,
+        "width": 0.2354,
+        "height": 0.1218
+      }
+    },
+    {
+      "type": "heading",
+      "text": "STARS et leurs mise à jour 2.0",
+      "bbox": {
+        "x": 0.74,
+        "y": 0.3365,
+        "width": 0.2415,
+        "height": 0.1229
+      }
+    },
+    {
+      "type": "other",
+      "text": "Vous voulez nous aider ?\nRejoignez notre Discord !",
+      "bbox": {
+        "x": 0.5738,
+        "y": 0.9348,
+        "width": 0.2877,
+        "height": 0.0331
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/inupyz55sqd91.png",
+    "gifFrame": null,
+    "confidence": 85
+  }
+}

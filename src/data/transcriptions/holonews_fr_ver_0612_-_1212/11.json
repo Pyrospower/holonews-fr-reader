@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 11,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOX",
+      "bbox": {
+        "x": 0.164,
+        "y": 0.031,
+        "width": 0.208,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lui",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.205,
+        "width": 0.075,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le jour où Lui a obtenu sa monétisation, Ganmo, son partenaire, a fait ses débuts. L’oiseau à la voix grave, haut comme trois pommes, a un anniversaire tous les jours et aime l’alcool. Les deux petits qui se reposent sur sa tête s’appellent Tsumire et Tsukune. Ganmo a même chanté avant de redonner le contrôle à Lui pour le reste du stream.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2448,
+        "width": 0.4269,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lui a fait un stream entièrement en anglais dans lequel elle a répondu aux questions de la communauté. De nombreux sujets ont été abordés comme son parfum de glace préféré, son fruit préféré et son type de jeu préféré. Elle a également dit que son aînée préférée est Calliope, et qu'elle souhaite collaborer avec elle une fois que la restriction de collaboration aura été levée.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.3958,
+        "width": 0.4238,
+        "height": 0.126
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.204,
+        "width": 0.157,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori est enfin libérée de la Prison Twitter ! Après deux semaines, Koyori peut enfin utiliser Twitter et elle s'y adonne activement.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2448,
+        "width": 0.4313,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour fêter cette occasion, elle a fait un stream karaoké conjoint à la célébration de la monétisation de sa chaîne. Elle a chanté des chansons comme « Sorairo Days » et « Snow Halation ».",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3043,
+        "width": 0.4213,
+        "height": 0.0699
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer la monétisation de sa chaîne, Iroha a dessiné 3 émojis de membres en stream. Son tchat a blagué sur le fait que son émoji bâton fluorescent ressemblait plus à un sabre laser qu’une épée.",
+      "bbox": {
+        "x": 0.52,
+        "y": 0.4002,
+        "width": 0.2856,
+        "height": 0.1176
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.1431,
+        "y": 0.5508,
+        "width": 0.245,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki & Korone",
+      "bbox": {
+        "x": 0.18,
+        "y": 0.726,
+        "width": 0.292,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki a joué à Evil God Korone d’une manière particulière. Au début, nous avons été accueillis par une Fubuki Saiyan, qui a défié Korone dans le jeu et a vu en elle une adversaire de taille. Lors de la première partie, elle a complété la bonne fin dans laquelle elle ne se faisait pas transformer en koronesuki, prouvant ainsi qu’elle était plus forte. Cependant, lors de la deuxième partie, alors qu’elle était sous l'emprise de l'hypnose de Korone et qu’elle se dirigeait vers la mauvaise fin, Fubuki a changé d’apparence pour ressembler à un koronesuki et a rapidement commencé à chanter pour sa nouvelle déesse, complètement transformée en koronesuki.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.763,
+        "width": 0.4281,
+        "height": 0.2114
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mio",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.722,
+        "width": 0.087,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mio a eu une chance incroyable sur le gacha de Uma Musume ! Sur la bannière saisonnière, elle a pu tirer un total de 14 SSR en moins de 30 minutes, en maximisant complètement les cartes de soutien Mayano Top Gun et Narita Taishin.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.7635,
+        "width": 0.4231,
+        "height": 0.0955
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Afin de montrer l’ajout de leurs produits dérivés dans la machine à pince en ligne, Mio et Ayame ont fait une collab Molly Online plutôt réussie, durant laquelle elles ont réussi à gagner 6 produits en 1 heure, et ont eu plusieurs interactions mignonnes.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8832,
+        "width": 0.4231,
+        "height": 0.0929
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/hl8t1hp5i4781.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

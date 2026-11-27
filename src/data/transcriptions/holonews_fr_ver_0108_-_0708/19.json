@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.4288,
+        "y": 0.0256,
+        "width": 0.1431,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.0738,
+        "y": 0.2261,
+        "width": 0.3925,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 9 Août: MIX, le concert\n• anniversaire de 2022 de Towa\n• 10 Août: L’anniversaire de Haato\n• 10 Août: L’anniversaire de Haachama\n• 11 Août: Le 3e anniversaire des débuts de Marine\n• 12 Août: L’anniversaire de Izuru\n• 12 Août: Le 2e anniversaire des débuts de Lamy\n• 13 Août: Le 2e anniversaire des débuts de Nene\n• 14 Août: Le 2e anniversaire des débuts de Botan\n• 16 Août: Le 2e anniversaire des débuts de Polka",
+      "bbox": {
+        "x": 0.1213,
+        "y": 0.2765,
+        "width": 0.3425,
+        "height": 0.3442
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.662,
+        "y": 0.151,
+        "width": 0.15,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "other",
+      "text": "Marine 2M\nGamma 70k\nKobo 1,25M\nKaela 400k\nMumei 700k\nPekora 2M\nFauna 600k\nhololive ch. 1,8 M\nDezmond 130k\nAltare 125k\nholoSTARS EN ch. 55k\nVesper 125k",
+      "bbox": {
+        "x": 0.547,
+        "y": 0.195,
+        "width": 0.394,
+        "height": 0.38
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.691,
+        "width": 0.4944,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.8242,
+        "width": 0.2512,
+        "height": 0.0369
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/rrk4n166lwh91.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

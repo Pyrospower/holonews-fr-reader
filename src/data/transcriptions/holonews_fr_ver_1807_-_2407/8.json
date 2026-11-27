@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 8,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 1",
+      "bbox": {
+        "x": 0.2119,
+        "y": 0.0382,
+        "width": 0.1094,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.194,
+        "width": 0.1663,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama est devenue accro à VALORANT ! Elle se trouvait souvent en train de jouer entre ses cours pour faire quelques parties de VALORANT, faisant qu’elle finit par arriver en retard à ses cours à cause de cela. Elle aime bien également diffuser ses streams sur Twitch en parlant entièrement en anglais pour montrer qu’elle est une véritable membre d’holoEN. Elle a aussi tenté d’apprendre des nouveaux jargons anglais de Twitch avec ses spectateurs ! Mais Haachama, toujours aussi maladroite, confond Minecraft et VALORANT en montrant la permission de Mojang sur VALORANT et inversement.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2335,
+        "width": 0.3831,
+        "height": 0.1849
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aki & Matsuri",
+      "bbox": {
+        "x": 0.188,
+        "y": 0.569,
+        "width": 0.216,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aki et Matsuri se sont réunis ensemble pour jouer à hololive ERROR sur la chaîne d’Aki. Les deux ont joué pendant une heure, complètement immergés et terrifiés par le jeu. Elles ont réussi à avoir deux fins avant de terminer leur stream. Elles ont ensuite fait de la publicité pour le jeu et ont rappelé à tout le monde que le jeu est disponible sur le magasin d’hololive.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.6111,
+        "width": 0.3919,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mel & Kobo",
+      "bbox": {
+        "x": 0.1888,
+        "y": 0.7773,
+        "width": 0.1775,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mel a joué à VALORANT avec Kobo en guise de professeur. Elles ont pu communiquer ensemble grâce au japonais de Kobo, Mel a même pu apprendre un peu d’indonésien en plus d’apprendre à jouer à VALORANT. Kobo lui a également appris que le mot « TeeTee » est similaire au mot poitrine en indonésien, « Tetek ». Elles ont pu aussi gagner un match après que Mel ait motivé Kobo avec son ara-ara. En échange pour avoir gagner la partie, Mel a offert à Kobo un ara-ara supplémentaire, au grand plaisir de cette dernière.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8177,
+        "width": 0.3875,
+        "height": 0.161
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 2",
+      "bbox": {
+        "x": 0.679,
+        "y": 0.037,
+        "width": 0.112,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.637,
+        "y": 0.202,
+        "width": 0.1,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de son stream discussion, Choco discutait des coupes de cheveux actuellement à la mode pour les filles. Elle pense que ce sont les cheveux courts car c’est l’été et qu’elle aimerait avoir des cheveux courts avec une frange qui arrive jusqu’à ses paupières. L’un des commentaires du chat est que la coupe importe peu du moment que la fille a une grande poitrine. Choco s’est ensuite passionnément emporté sur le sujet en expliquant que la taille n’a aucune importance mais que c’est la forme qui est le plus important. Elle s’est même vantée qu’elle avait déjà vu une bonne petite poitrine mais s’est arrêtée d’aller plus avant qu’elle ne s’attire des ennuis.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2413,
+        "width": 0.3875,
+        "height": 0.1884
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.6381,
+        "y": 0.4878,
+        "width": 0.1131,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a regardé les épisodes 10 à 14 de STEINS;Gate le 22 Juillet. Pendant qu’elle regardait, Subaru s’est rendu compte que le papa de Kiara, huke-sensei, a réalisé le design des personnages. Elle a eu des superbes réactions sur les rebondissements présent dans l’épisode 12.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.526,
+        "width": 0.3894,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 3",
+      "bbox": {
+        "x": 0.668,
+        "y": 0.651,
+        "width": 0.116,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.81,
+        "width": 0.113,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora a tenté de piloter un hélicoptère sur Rust, et s’est immédiatement écrasé la première fois. Elle a reçu un autre hélicoptère de la part de Matsuri, qui a monté avec, et a aussi écrasé celui-la, tuant les deux suite à cela. Elle a enfin réussi avec son troisième hélicoptère, en volant avec Fubuki qui était avec jusqu'à sa destination voulu. Elle s’est cependant écrasé seulement quelques secondes lors de son arrivée.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.8503,
+        "width": 0.3775,
+        "height": 0.1311
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/vf0r5zko0qf91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

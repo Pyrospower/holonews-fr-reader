@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Miyabi",
+      "bbox": {
+        "x": 0.1469,
+        "y": 0.1536,
+        "width": 0.1288,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Miyabi, le genre de personne qui n’arrive pas à se souvenir des repas préférés des membres de sa famille et qui ne regarde pas beaucoup de streams d’HOLOSTARS, a pris le test d’HOLOSTARS, qui consiste en trente questions. Le test a trois catégories : profil, streams et musique. Une question qui est posée est sur l’occupation d’Astel, pour lequel Miyabi a répondu « vétérinaire », qui s’avérait ne pas être correct. Ce qui poussa Miyabi à dire qu’Astel est désormais un vet à partir d’aujourd’hui. Le Dai-senpai a réussi avec un score de 86%.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.1984,
+        "width": 0.4463,
+        "height": 0.1528
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.3793,
+        "width": 0.2125,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran est parmi ceux qui ont réalisé le quiz HOLOSTARS officiel de COVER Corp. Avec sa fierté en jeu, Aruran a tenté d’avoir le plus haut score possible. Cette fois, beaucoup de questions à propos d’UPROAR!! et Tempus ont été posées. Finalement, Aruran a réussi à avoir seulement 73%, le même score que celui de Shien.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.4301,
+        "width": 0.4456,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Temma",
+      "bbox": {
+        "x": 0.12,
+        "y": 0.686,
+        "width": 0.22,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir fini Factorio ce Lundi, Temma a enfin surmonté ses envies de jouer à Factorio pour tomber au piège d’un autre jeu. Cette fois-ci, il s’agit de Dicey Dungeons. Ce jeu àmène Temma dans des donjons en incarnant un dé géant qui essaie de défier la chance. Ce jeu a plusieurs personnages à débloquer, ce qui le fait tomber encore plus. Cette semaine, Temma a déjà fait des streams dessus chaque jour et n’a raté qu’un jour. Accueillez les Kishimen à leur nouvelle addiction !",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.724,
+        "width": 0.4469,
+        "height": 0.1272
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.61,
+        "y": 0.187,
+        "width": 0.22,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour son 3e anniversaire, Roberu a annoncé qu’il allait organiser les « Streams Awards de Yukoku Roberu » le 24 décembre. Il a demandé à ses spectateurs de choisir leurs moments favoris de ses streams, qui doivent venir de sa chaîne, collabs inclues. Il y a cinq catégories : Les streams de discussions, les streams de jeu, la meilleure miniature, les streams de variété, et sans genre (des streams quelconque).",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.2309,
+        "width": 0.4456,
+        "height": 0.1037
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vous avez jusqu’au 10 décembre à 23h59 (JST) pour envoyer vos réponses.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.3481,
+        "width": 0.4456,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.585,
+        "y": 0.409,
+        "width": 0.22,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les Astellas sont de retour de leur emploi du temps sans repos, pendant que notre alien bleu préféré retourne à son emploi du temps habituel. La semaine dernière, il était coincé sur Overwatch 2, cette semaine, il a abandonné les parties classées d’Overwatch 2 après dix-huit heures et demie du mardi au mercredi. Immédiatement après onze heures et demie d’Overwatch 2, il est passé sur Apex avec le but d’atteindre Diamant. Il l’a atteint après trois heures et demie le mercredi. Plus tard dans la nuit, Astel a commencé et a passé quatorze heures et demie sur VALORANT jusqu’à jeudi. Ce stream déjà pas mal long sur VALORANT a été prolongé encore plus longtemps car Izuru l’a rejoint. A part cela, on a aussi eu des streams normaux de trois à sept heures. Bonne chance les Astellas !",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.4501,
+        "width": 0.4456,
+        "height": 0.2049
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.585,
+        "y": 0.683,
+        "width": 0.22,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Connu pour ses miniatures bien pensées et uniques, Astel a encore été demandé à propos de celles-ci lors de son stream zatsutawaku. Dans ce stream, il avait encore une fois une miniature unique avec une femme étonnée qui couvre sa bouche, Astel a dit que ses miniatures ont du sens quand on y réfléchit bien. Plus tard, Astel a trouvé un quiz de ses fans où il faut deviner quelle miniature d’Astel est une miniature pour Apex. Astel était confus et en colère contre la personne qui a réalisé ces miniatures, exclâmant que cette personne (lui-même) est stupide. Astel n’est parvenu à avoir seulement 8 bonne réponses sur 10. Essayez le quiz vous-même pour voir si vous êtes aussi malin qu’Astel. Le lien se trouve dans les sources du commentaire sur Reddit !",
+      "bbox": {
+        "x": 0.51,
+        "y": 0.7222,
+        "width": 0.4475,
+        "height": 0.1923
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/fcad0hi6o22a1.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

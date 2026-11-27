@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Hakos Baelz",
+      "bbox": {
+        "x": 0.026,
+        "y": 0.02,
+        "width": 0.369,
+        "height": 0.09
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Joyeux… non-anniversaire, Bealz ! Elle a fêté son anniversaire le 28 février (JST), puisque le prochain jour intercalaire sera en 2024. Avant le stream, elle a diffusé en Première sa première chanson originale, « Play Dice ! », composée par Camellia.",
+      "bbox": {
+        "x": 0.0383,
+        "y": 0.115,
+        "width": 0.3561,
+        "height": 0.1073
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bealz a reçu des appels de ses camarades d’holoEN, d’holostars ou encore des membres d’holoJP. A-chan est même passée sur son stream.",
+      "bbox": {
+        "x": 0.037,
+        "y": 0.535,
+        "width": 0.345,
+        "height": 0.079
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Baelz a reçu beaucoup de propositions de streams de la part de ses interlocuteurs, dont une collaboration ASMR en personne avec Choco, une collaboration avec Kronii sur PowerWash Simulator, une collaboration dessin avec Reine et des collaborations encore indéterminées avec Koyori et Iroha. Nene a aussi annoncé qu’elle ferait son apparition dans l’un des Baewatch.",
+      "bbox": {
+        "x": 0.037,
+        "y": 0.638,
+        "width": 0.28,
+        "height": 0.274
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant ce stream de non-anniversaire, elle a annoncé quelques produits de non-anniversaire, dont :",
+      "bbox": {
+        "x": 0.43,
+        "y": 0.7296,
+        "width": 0.5311,
+        "height": 0.0343
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un tapis en caoutchouc illustré par sa maman, Mika Pikazo.\n• Une casquette officiel « BRUH ».\n• Un grand mug de 1,25 litres comportant une illustration par Snowmya.\n• Deux pack de voix d’anniversaire",
+      "bbox": {
+        "x": 0.4489,
+        "y": 0.7782,
+        "width": 0.4589,
+        "height": 0.093
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous achetez l’ensemble complet, vous obtiendrez un porte-clé Brat accompagné de deux véritables dés, un enregistrement audio de remerciement et une carte postale estampillée d’une dédicace, accompagnée d’un message de remerciement et illustrée par Mika Pikazo.",
+      "bbox": {
+        "x": 0.43,
+        "y": 0.8843,
+        "width": 0.5106,
+        "height": 0.0926
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/g1m45it6bdn81.gif",
+    "gifFrame": 91,
+    "confidence": 89
+  }
+}

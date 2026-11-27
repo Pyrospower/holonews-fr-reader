@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "La revue de sacs de Kiara",
+      "bbox": {
+        "x": 0.022,
+        "y": 0.01,
+        "width": 0.309,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "hololive summer",
+      "bbox": {
+        "x": 0.4056,
+        "y": 0.01,
+        "width": 0.199,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "Le retour de Kurokami",
+      "bbox": {
+        "x": 0.7219,
+        "y": 0.01,
+        "width": 0.2631,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magazine hebdomadaire d'actualités",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.1497,
+        "width": 0.3131,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mumei a fêté son anniversaire",
+      "bbox": {
+        "x": 0.022,
+        "y": 0.1888,
+        "width": 0.225,
+        "height": 0.094
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko célèbre son 4e anniversaire",
+      "bbox": {
+        "x": 0.022,
+        "y": 0.323,
+        "width": 0.247,
+        "height": 0.095
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel explique sa situation",
+      "bbox": {
+        "x": 0.0225,
+        "y": 0.4588,
+        "width": 0.1888,
+        "height": 0.0942
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Le troisième anniversaire des débuts de Flare",
+      "bbox": {
+        "x": 0.7369,
+        "y": 0.1836,
+        "width": 0.25,
+        "height": 0.1255
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora a atteint les 2 millions d’abonnés",
+      "bbox": {
+        "x": 0.7256,
+        "y": 0.3628,
+        "width": 0.2588,
+        "height": 0.1264
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene est de retour",
+      "bbox": {
+        "x": 0.7463,
+        "y": 0.5352,
+        "width": 0.2418,
+        "height": 0.1107
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona en a fini avec l’école",
+      "bbox": {
+        "x": 0.7606,
+        "y": 0.6463,
+        "width": 0.2288,
+        "height": 0.1159
+      }
+    },
+    {
+      "type": "other",
+      "text": "Vous voulez nous aider ?\nRejoignez notre Discord !",
+      "bbox": {
+        "x": 0.3525,
+        "y": 0.8611,
+        "width": 0.49,
+        "height": 0.1302
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/7cwhos56lwh91.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

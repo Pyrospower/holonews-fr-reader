@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 0",
+      "bbox": {
+        "x": 0.185,
+        "y": 0.0677,
+        "width": 0.165,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roboco",
+      "bbox": {
+        "x": 0.161,
+        "y": 0.2395,
+        "width": 0.167,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour fêter ses 800 000 abonnés, Roboco a organisé un stream de rap avec des invités. Les invités, qui ont fait leur rap eux-mêmes, étaient Koyori, Matsuri, Choco, Subaru et Lui. Suisei avait également écrit ses paroles, mais elle n'a pas pu venir, alors Roboco qui les a lues à sa place. Après tous ces appels, Roboco a annoncé son ensemble de produits dérivés des 800 000 abonnés, comprenant deux figurines en acrylique (une avec des cheveux longs, l'autre courts) et une peluche Robosa.",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.2808,
+        "width": 0.4269,
+        "height": 0.1918
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.24,
+        "width": 0.108,
+        "height": 0.021
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La semaine dernière, Sora et Iroha se sont rencontrées dans Minecraft ! Iroha a profité que Sora mette en place son stream pour se cacher d'elle. Après l'avoir trouvée, Sora lui a fait visiter sa maison. À sa grande surprise, elles ont visité la base d'Iroha juste après. Iroha a paniqué lorsque les connaissances de Sora sur le serveur lui ont permis de trouver immédiatement la base secrète d'Iroha.",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.2808,
+        "width": 0.4238,
+        "height": 0.1563
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine a bien commencé avec une collaboration entre Miko, Subaru et Okayu sur ARK. Le but de ce stream était que Miko apprenne à Subaru et Okayu à y jouer.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.5273,
+        "width": 0.42,
+        "height": 0.076
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle leur a expliqué les bases du jeu, puis elles sont parties à la chasse aux dinosaures. Pendant la chasse, elles ont réussi à apprivoiser quelques ptéranodons. Elles ont également assisté à des interactions intéressantes entre d'autres membres d’hololive qui étaient en ligne au même moment, comme une conversation entre MukiRose et Anya.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.6141,
+        "width": 0.4194,
+        "height": 0.1367
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vers la fin du stream, Subaru et Okayu ont effectué leur premier vol sur les ptéranodons nouvellement apprivoisés, résultant à la chute et la mort d'Okayu. Son personnage est mort en restant debout, alors Subaru et Miko ont pris des selfies et joué à la corde à sauter avec elle. Alors qu'elles étaient sur le point de mettre fin au stream, elles ont soudainement été attaquées par des dinosaures et ont salué leurs spectateurs avec une phrase improvisée : « OtsuRaptor! ».",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.7617,
+        "width": 0.4206,
+        "height": 0.1823
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/wofetfhuufg81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

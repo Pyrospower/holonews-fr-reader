@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2802_-_0603",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Sakura Miko",
+      "bbox": {
+        "x": 0.5078,
+        "y": 0.0675,
+        "width": 0.4644,
+        "height": 0.0471
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’anniversaire de Miko a eu lieu la semaine dernière, le 5 mars ! Le stream s’intitulait « Sakura Miko Birthday Party Virtual Live 2022 ».",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.1408,
+        "width": 0.3356,
+        "height": 0.0633
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a commencé par accueillir ses spectateurs et les a remerciés d’être là pour célébrer son anniversaire, puis elle a commencé à chanter la première chanson du stream dans sa tenue d’idole. Après avoir montré sa mignonnerie, elle s’est mise à danser avec des invités. Subaru, Mio, Noel, Flare, Polka, Marine et Suisei sont toutes venues chanter avec elle. Certaines ont même chanté en duo ou plusieurs fois avec Miko.",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.216,
+        "width": 0.3417,
+        "height": 0.2211
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "MiComet a eu une section spéciale remplie de leur bêtise, allant de leurs discussions habituels à Suisei qui a tenté de plonger le visage de Miko dans un gâteau ridiculement grand. Des moments drôles ont aussi lieu, avec Suisei a essayé de faire manger un gâteau ridiculement grand à Miko. Avant que Suisei ne parte, elles ont toutes les deux pris plusieurs poses pour des photos mignonnes et amusantes, affichant le pouvoir de MiComet !",
+      "bbox": {
+        "x": 0.041,
+        "y": 0.688,
+        "width": 0.585,
+        "height": 0.127
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour finir, Miko a présenté une de ses nouvelle coupe de cheveux et a également monter ses produits dérivés d’anniversaire pour cet année qui contiennent :",
+      "bbox": {
+        "x": 0.041,
+        "y": 0.827,
+        "width": 0.469,
+        "height": 0.063
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un tapis en caoutchouc avec des illustrations faite par Orudan\n• Trois porte-clés\n• Un T-shirt large\n• Une peluche 35P",
+      "bbox": {
+        "x": 0.061,
+        "y": 0.9,
+        "width": 0.353,
+        "height": 0.079
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/z2qk4bu6bdn81.gif",
+    "gifFrame": 89,
+    "confidence": 94
+  }
+}

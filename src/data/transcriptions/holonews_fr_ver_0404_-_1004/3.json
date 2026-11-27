@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.057,
+        "y": 0.05,
+        "width": 0.54,
+        "height": 0.121
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour son stream d’anniversaire, Okay a reçu des appels. Avant d'y répondre, Subaru et Korone l'ont aidée. Pour pimenter les choses, ces dernières ont établi des règles et choisi des phrases qu'Okayu devait dire pendant ses conversations.",
+      "bbox": {
+        "x": 0.0578,
+        "y": 0.4398,
+        "width": 0.2828,
+        "height": 0.1563
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu a reçu les appels de Watame, Polka, Nene, Chloe et Sora. Polka s’est faite passer pour un beau gosse pour tenter de gagner le cœur d'Okayu, mais elle a été repoussée grâce à des bouteilles d’eau. Sora en a fait de même plus tard et a taquiné Okayu avec sa voix de jeune garçon.",
+      "bbox": {
+        "x": 0.3572,
+        "y": 0.4398,
+        "width": 0.2822,
+        "height": 0.1609
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "[In the second segment], Okayu a perdu son sang-froid habituel après avoir vu ses célébrités préférées. Elle a reçu les félicitations de Yagoo, Matsusawa Chiaki et Hiyama Nobuyuki, pour n'en citer que quelques-uns.",
+      "bbox": {
+        "x": 0.6589,
+        "y": 0.439,
+        "width": 0.2717,
+        "height": 0.1439
+      }
+    },
+    {
+      "type": "other",
+      "text": "2022.4.6",
+      "bbox": {
+        "x": 0.694,
+        "y": 0.38,
+        "width": 0.176,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a complètement perdu la tête et a poussé des cris inhabituels quand le célèbre YouTubeur japonais Hikakin était à l'écran.",
+      "bbox": {
+        "x": 0.0583,
+        "y": 0.6184,
+        "width": 0.2778,
+        "height": 0.0764
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir repris ses esprits, elle a annoncé les produits dérivés vendus pour son anniversaire :",
+      "bbox": {
+        "x": 0.3583,
+        "y": 0.6184,
+        "width": 0.2556,
+        "height": 0.064
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un tapis de souris\n• Une statue en acrylique avec porteur en verre\n• Un certificat d’Onigirya avec un cordon",
+      "bbox": {
+        "x": 0.3589,
+        "y": 0.6836,
+        "width": 0.255,
+        "height": 0.0757
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’achat de l’ensemble complet donne droit à une carte postale avec un autographe d'Okayu elle-même. Elle a également publié une reprise de « Nani Yatte Mo Umaku Ikanai ». La Première a eu lieu alors qu'elle se remettait du choc provoqué par l’apparition d’Hikakin !",
+      "bbox": {
+        "x": 0.6594,
+        "y": 0.6192,
+        "width": 0.2778,
+        "height": 0.1439
+      }
+    },
+    {
+      "type": "other",
+      "text": "Nekomata Okayu\n3rd Anniversary Celebration\nOn Sale April 6\n3rd Anniversary Celebration Merch Complete Set\n3 Anniversary Merch Items\nRubber Mat\nBIG Acrylic Eyeglass Stand\nLanyard & Certificate of Onigiris\nBonus for 3rd Anniversary Celebration Merch Complete Set\nPostcard with duplicated foil-stamped autograph",
+      "bbox": {
+        "x": 0.27,
+        "y": 0.79,
+        "width": 0.2,
+        "height": 0.156
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4cpyy569qau81.gif",
+    "gifFrame": 104,
+    "confidence": 83
+  }
+}

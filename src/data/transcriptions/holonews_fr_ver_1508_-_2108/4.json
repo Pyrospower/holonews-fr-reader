@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1508_-_2108",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "SECOND ANNIV.",
+      "bbox": {
+        "x": 0.0391,
+        "y": 0,
+        "width": 0.9609,
+        "height": 0.1974
+      }
+    },
+    {
+      "type": "heading",
+      "text": "POLKA",
+      "bbox": {
+        "x": 0,
+        "y": 0.8829,
+        "width": 1,
+        "height": 0.1171
+      }
+    },
+    {
+      "type": "other",
+      "text": "IDOL Musical",
+      "bbox": {
+        "x": 0.0453,
+        "y": 0.128,
+        "width": 0.0266,
+        "height": 0.1345
+      }
+    },
+    {
+      "type": "other",
+      "text": "Merch",
+      "bbox": {
+        "x": 0.0453,
+        "y": 0.4534,
+        "width": 0.0266,
+        "height": 0.0586
+      }
+    },
+    {
+      "type": "other",
+      "text": "first EP",
+      "bbox": {
+        "x": 0.0453,
+        "y": 0.7809,
+        "width": 0.0281,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le live 3d du second anniversaire de Polka a été une comédie musicale! Il a été commencé avec «Hokori takai idol», mais Polka a rapidement eu affaire à la police d’Oozora –car dans cet univers, les idols n’ont pas le droit de sourire. Une fois leur avoir échappée, Polka s’est mise à se demander ce qu’est réellement une idol dans ce monde, avec la chanson « Loser girl ». Peu après, elle est tombée sur un concert de Miko et Luna, les deux plus grandes idols au monde. Alors qu’elle les confrontait, Polka a repéré un Zain (une mascotte de fan). Il l’a menée dans une zone abandonnée. Elle s’est ensuite de nouveau posée des questions sur ce qu’est une idol et a fantasmée en s’imaginant chantant devant une foule, ce qui a mené à la chanson « Persona ».",
+      "bbox": {
+        "x": 0.1011,
+        "y": 0.2157,
+        "width": 0.3817,
+        "height": 0.2716
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après cela, elle s’est mise à penser à ses amies, Lamy et Koyori, et a fait la promesse de changer la manière dont le monde voit les idols. À la suite de sa performance d’« Everblue », il a été révélé que Polka avait réussi à devenir la nouvelle meilleure idol ! Elle est alors montée sur scène et a présenté une toute nouvelle chanson originale « Saikyou tic Polka », réalisée par Kodama Saori et Tanaka Hidekazu. Enfin, son spectacle s’est terminé sur une une deuxième nouvelle chanson, « Attic Epilogue », réalisée par OSTER project. Le clip pour « Saikyou tic Polka » est sortie à la fin du spectacle.",
+      "bbox": {
+        "x": 0.0956,
+        "y": 0.6443,
+        "width": 0.3994,
+        "height": 0.2141
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suite à un générique de fin légèrement mouvementé, Polka a révélé ses produits dérivés spécial anniversaire:",
+      "bbox": {
+        "x": 0.5433,
+        "y": 0.3638,
+        "width": 0.3711,
+        "height": 0.0498
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une toile avec un dessin de Kuga Huna",
+      "bbox": {
+        "x": 0.5606,
+        "y": 0.4232,
+        "width": 0.3267,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Son premier EP, Welcome to Polka!, sur CD, comprenant toutes ses chansons originales, ce qui prend aussi en compte «Saikyou tic Polka», et «Attic epilogue»",
+      "bbox": {
+        "x": 0.5606,
+        "y": 0.4576,
+        "width": 0.3594,
+        "height": 0.081
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un lot de 3 cartes illustrées",
+      "bbox": {
+        "x": 0.5606,
+        "y": 0.5417,
+        "width": 0.2672,
+        "height": 0.0112
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un happi taille unique de la Troupe Omaru (un happi est un manteau porté durant les festivals japonais)",
+      "bbox": {
+        "x": 0.5606,
+        "y": 0.5583,
+        "width": 0.3744,
+        "height": 0.0478
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un bonus est inclus pour les personnes qui achètent la totalité de la collection : une copie d’une lettre écrite à la main par Polka et un enregistrement situationnelle.",
+      "bbox": {
+        "x": 0.5433,
+        "y": 0.6177,
+        "width": 0.4567,
+        "height": 0.0648
+      }
+    },
+    {
+      "type": "other",
+      "text": "Le clip de « Saikyou tic Polka » a été diffusé après le concert.",
+      "bbox": {
+        "x": 0.5433,
+        "y": 0.8264,
+        "width": 0.3511,
+        "height": 0.032
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lhhuwrsupok91.gif",
+    "gifFrame": 83,
+    "confidence": 92
+  }
+}

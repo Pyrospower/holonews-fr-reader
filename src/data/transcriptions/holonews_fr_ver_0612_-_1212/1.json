@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ASTEL EN 3D",
+      "bbox": {
+        "x": 0.0356,
+        "y": 0.1693,
+        "width": 0.2531,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ANNIVERSAIRE DE NOTRE TALENT PRÉFÉRÉ",
+      "bbox": {
+        "x": 0.0356,
+        "y": 0.2122,
+        "width": 0.3094,
+        "height": 0.0981
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ANNIVERSAIRE DE REINE",
+      "bbox": {
+        "x": 0.0356,
+        "y": 0.332,
+        "width": 0.3094,
+        "height": 0.0456
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ANNIVERSAIRE DE MIO ET NOUVELLE TENUE",
+      "bbox": {
+        "x": 0.2463,
+        "y": 0.6732,
+        "width": 0.5063,
+        "height": 0.0738
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ANNIVERSAIRE DE SHION EN 3D",
+      "bbox": {
+        "x": 0.4131,
+        "y": 0.7873,
+        "width": 0.4006,
+        "height": 0.072
+      }
+    },
+    {
+      "type": "other",
+      "text": "Également disponible en JP, RU, ID, CN, ES et PL !",
+      "bbox": {
+        "x": 0.0725,
+        "y": 0.9323,
+        "width": 0.8538,
+        "height": 0.0256
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5m6u9vp5i4781.png",
+    "gifFrame": null,
+    "confidence": 73
+  }
+}

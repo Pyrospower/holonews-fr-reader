@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 8,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.185,
+        "y": 0.128,
+        "width": 0.164,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.301,
+        "width": 0.137,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco a fait un Space Twitter où elle dormait et il est devenu premier des tendances au Japon. Après quelques heures, Matsuri a lancé son propre Space, où elle a fait de même, et elles ont toutes deux dormi ensemble sur Twitter.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.3411,
+        "width": 0.4188,
+        "height": 0.092
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.1625,
+        "y": 0.5894,
+        "width": 0.1656,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a organisé une séance de consultation pour toutes les inquiétudes de ses spectateurs au sujet des VTubers, comme par exemple :",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.6289,
+        "width": 0.4213,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- ”Le sentiment de culpabilité qu'on ressent en retirant l'emoji d'un VTuber que je ne regarde plus”",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.6931,
+        "width": 0.4225,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- ”Je n'arrive pas à trouver quelque chose à écrire sur mes Super Chats. Je peux l'envoyer sans message ?”",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.7413,
+        "width": 0.4081,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a souligné que ses réponses étaient purement subjectives et n’a pas autorisé les clips sur ce stream afin d’éviter que ces dires soient utilisés hors contexte.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.8056,
+        "width": 0.4219,
+        "height": 0.0599
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.3,
+        "width": 0.114,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des camions publicitaires pour le dernier spectacle d'Aqua, Aqua Iro in Wonder☆Land♪, pouvaient être vus circulant dans les quartiers de Shinjuku, Shibuya et Akihabara entre 12h00 et 20h00 JST. Ils étaient présents jusqu'à la date de son spectacle, soit le 28 janvier.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3411,
+        "width": 0.4269,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.591,
+        "width": 0.114,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aqua est de retour sur APEX Legends ! Après des mois d'absence, elle est enfin de retour afin de nous montrer une fois de plus son talent sur le jeu. Aqua a de nouveau tenté le défi d'atteindre le rang Master en jouant en solo. Elle a commencé à s'échauffer en atteignant le rang Platine 2 en dehors de ces streams. Il s'avère qu'Aqua est toujours aussi forte malgré sa pause sur le jeu. Elle a prouvé une fois de plus son talent en atteignant rapidement le rang Diamant en un seul stream.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.6311,
+        "width": 0.4275,
+        "height": 0.1918
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8yecplf6x8f81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

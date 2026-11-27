@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "AZKi",
+      "bbox": {
+        "x": 0.6278,
+        "y": 0.341,
+        "width": 0.2689,
+        "height": 0.0625
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le concert du quatrième anniversaire d'AZKi a eu lieu le 3 juillet, avec Sora et Suisei comme invités. Elle a commencé par chantées « Over Light » et « Existlog », suivies de « Gamen no Naka no Kimi ga Suki », qu'elle n'avait pas interprétées en public depuis le troisième hololive fes.",
+      "bbox": {
+        "x": 0.0639,
+        "y": 0.2377,
+        "width": 0.4039,
+        "height": 0.0837
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant le reste du concert, elle a chanté des chansons originales. « neko naraba ikeru » a été suivi par « Kurenai Chronicle » et « Miren Record » interprétées avec Sora, qui portait son costume d'idole. Suisei les a rejoints et a félicité AZKi d'avoir rejoint hololive.",
+      "bbox": {
+        "x": 0.5322,
+        "y": 0.2377,
+        "width": 0.405,
+        "height": 0.0841
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont interprété The Last Frontier » en duo, suivie de « Her Trail on the Celestial Sphere » de Suisei. La dernière chanson interprétée avec Sora et Suisei était « Intersection » d'AZKi. Elle a ensuite présenté et interprété sa nouvelle chanson « Afterglow ». AZKi a écrit les paroles et composé la chanson elle-même.",
+      "bbox": {
+        "x": 0.0639,
+        "y": 0.5355,
+        "width": 0.8733,
+        "height": 0.0409
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les produits dérivés commémoratifs et le bonus de l'édition limitée ont été annoncés :",
+      "bbox": {
+        "x": 0.0644,
+        "y": 0.6015,
+        "width": 0.7228,
+        "height": 0.0123
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une tapisserie B2 illustré par Miwano Rag\n• Un porte-clés en acrylique aléatoire parmis une sélection dessiné par Sameanko\n• Un verre et sous-verre\n• Un enregistrement situationnel « Dans une ville côtière avec vous »",
+      "bbox": {
+        "x": 0.0733,
+        "y": 0.6339,
+        "width": 0.3945,
+        "height": 0.0721
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les bonus pour l'achat de l'ensemble sont :",
+      "bbox": {
+        "x": 0.5333,
+        "y": 0.6335,
+        "width": 0.3639,
+        "height": 0.012
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un enregistrement situationnel « On se voit dans l'holo »\n• Une arte postale avec un double de l'autographe d'AZKi en relief.",
+      "bbox": {
+        "x": 0.5489,
+        "y": 0.6478,
+        "width": 0.3817,
+        "height": 0.0547
+      }
+    },
+    {
+      "type": "other",
+      "text": "Birthday Celebration 2022",
+      "bbox": {
+        "x": 0.0811,
+        "y": 0.8742,
+        "width": 0.51,
+        "height": 0.0455
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/j4omtq835kb91.gif",
+    "gifFrame": 75,
+    "confidence": 91
+  }
+}

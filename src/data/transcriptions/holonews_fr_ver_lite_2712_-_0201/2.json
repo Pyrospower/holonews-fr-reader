@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2712_-_0201",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 1",
+      "bbox": {
+        "x": 0.1681,
+        "y": 0.1272,
+        "width": 0.1963,
+        "height": 0.0343
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.6319,
+        "y": 0.3034,
+        "width": 0.1619,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Tandis qu’elle explorait la Tour Perdue dans Pokémon Diamant Étincelant, Fubuki a rencontré un couple à deux reprises, à son grand dam. La première fois, elle s’est s’est fâchée et les a cordialement invités à aller se faire voir. La seconde fois, elle leur a donné un « coup de poing de la justice » et est repartie heureuse.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.349,
+        "width": 0.4175,
+        "height": 0.1549
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki a fait un speedrun de la route génocide d’Undertale pour la dernière fois de l’année. Elle a battu Sans en moins de 10 minutes sans mourir, et la run entière lui a pris 1 heure et 22 minutes au total.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.5234,
+        "width": 0.41,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.1619,
+        "y": 0.3038,
+        "width": 0.1844,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La tenue du Nouvel An de Matsuri a été mise à jour à la version 2.0 ! Elle l’a annoncé dans son premier stream de 2022. Sa tenue du Nouvel An 2.0 a maintenant des accents bleu clair et des oreilles de chat. Lors du stream dans lequel elle l’a révélé, elle a aussi parlé de son premier rêve de l’année : dans ce dernier, Matsuri recevait des Super Chats de PDG de différentes entreprises de VTubers utilisant des faux noms, dont Yagoo avec le nom « Bread Roll » (Petit Pain).",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.7604,
+        "width": 0.4244,
+        "height": 0.1866
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ayja8gcubhb81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

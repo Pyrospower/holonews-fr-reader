@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MUSIC MILESTONES",
+      "bbox": {
+        "x": 0.1263,
+        "y": 0.0421,
+        "width": 0.5981,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nORIGINALE\nNOUVEAU",
+      "bbox": {
+        "x": 0.8363,
+        "y": 0.0343,
+        "width": 0.1187,
+        "height": 0.043
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/20\n[Ina] Tabi No Tochuu: 1M\n[Matsuri] ChichinPuiPui: 250K\n[Temma/Miyabi] Romeo: 100K\n[Temma] 115man Kilo No Film: 25K\n[Reine/Risu] Kakumei Dualism (Side A): 250K\n[Reine] Ano Aozora No Sei Da: 100K\n[Flare] Goodbye Sengen: 500K\n[AZKi/Aria] Sis X Love: 10K\n[Okayu] Nemurumachi: 1M",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.1159,
+        "width": 0.4375,
+        "height": 0.1584
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/21\n[Okayu] Animal: 500K\n[Polka] S'il Vous President: 100K\n[Suisei/Izuru/Astel] Cinema: 500K\n[Ollie/Etc] Utattemita No Uta: 100K\n[Fubuki] S'il Vous President: 750K",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.1159,
+        "width": 0.4375,
+        "height": 0.0868
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/22\n[Suisei] Phony: 4M\n[Noel] Homenobi: 1M\n[Botan] Animal (Cover): 100K\n[Watame] Phony (Cover): 100K\n[Aqua] Hokori Takaki Idol (Cover): 100K\n[Polka] Tondemo Wonders: 500K\n[Sora] Hot Limit (Short): 500K",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2934,
+        "width": 0.4375,
+        "height": 0.1215
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/23\n[Okayu] Animal: 750K\n[Polka] Cinderella: 500K\n[Kanata] Ashura-chan: 250K\n[Rushia] Hana Ni Bourei: 7M\n[Kiara/Ina] I~ya I~ya I~ya (Cover): 100K\n[Aruran/Rikka/Roberu/Shien/Oga] Pentas: 100K\n[Fubuki] Animal (Cover): 100K\n[HoloEN] The Twelve Days of Christmas (Cover): 500K",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.2205,
+        "width": 0.4375,
+        "height": 0.158
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/24\n[Calliope] Red: 10M\n[Astel/Roberu] Hashire: 25K\n[Fubuki] Animal (Cover): 250K\n[Kanata/Ui] Campanella (Cover): 100K\n[Kiara/Ina] I~ya I~ya I~ya (Cover): 250K\n[Coco] Weather Hackers: 2M\n[Calliope] end of a life: 6M\n[Kiara] Vampire: 1M",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.4332,
+        "width": 0.4375,
+        "height": 0.1402
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/25\n[Suisei] Bye Bye Rainy: 100K\n[Sora] Diamond Crevasse: 500K\n[Towa/Suisei] Haiiro to Ao (Cover): 500K\n[Calliope/BOOGEY VOXX] Graveyard Shift: 2M\nKoyori] Nh-Uh-Uh. (Cover): 100K\n[Suisei] Zenbu Anta No Sei: 1M",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.3976,
+        "width": 0.4375,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "12/26\n[La+] God-ish: 4M\n[Aqua] Kirakira: 500K\n[Suisei] melty world: 500K\n[Watame] Phony (Cover): 250K\n[Gura] Target For Love (Cover): 250K\n[Watame/Kanata] chocolate box: 750K\n[Ame] Deck The Halls (Cover): 100K\n[Lamy/Botan] Lion (Cover) 100K\n[IRyS] Sparks of Joy: 75K",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.5929,
+        "width": 0.4375,
+        "height": 0.1571
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE",
+      "bbox": {
+        "x": 0.0387,
+        "y": 0.7322,
+        "width": 0.0856,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "heading",
+      "text": "10 MILLION VIEWS!",
+      "bbox": {
+        "x": 0.5156,
+        "y": 0.7122,
+        "width": 0.4288,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "heading",
+      "text": "SORTIES MUSICALES",
+      "bbox": {
+        "x": 0.0288,
+        "y": 0.8164,
+        "width": 0.3844,
+        "height": 0.0794
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le rêve de YAGOO perdure, alors veuillez lire la page suivante s’il vous plaît",
+      "bbox": {
+        "x": 0.0588,
+        "y": 0.9141,
+        "width": 0.3619,
+        "height": 0.0473
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINALE",
+      "bbox": {
+        "x": 0.4581,
+        "y": 0.7743,
+        "width": 0.0862,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "other",
+      "text": "Holostars",
+      "bbox": {
+        "x": 0.48,
+        "y": 0.895,
+        "width": 0.1313,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "heading",
+      "text": "JOURNEY TO FIND STARS (SHORT)",
+      "bbox": {
+        "x": 0.4769,
+        "y": 0.9219,
+        "width": 0.4369,
+        "height": 0.0412
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8hjto73zeab81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

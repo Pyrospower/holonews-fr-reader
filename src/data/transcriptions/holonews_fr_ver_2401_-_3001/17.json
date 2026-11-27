@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "DIVERS",
+      "bbox": {
+        "x": 0.155,
+        "y": 0.1224,
+        "width": 0.2181,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Flare, Kanata, Iroha et Koyori",
+      "bbox": {
+        "x": 0.278,
+        "y": 0.283,
+        "width": 0.213,
+        "height": 0.034
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une collaboration surprise sur ARK a eu lieu avec Flare, Kanata, Iroha et Koyori. Flare a prêté une de ses Wyvernes à Iroha pour que tous les 4 puissent enfin faire des chasses Alpha ensemble. La Wyverne de Kanata a été tuée lors d'une mauvaise chasse, mais elles ont pu rentrées saines et sauves de la chasse et le groupe s'est séparé après avoir abattu un T-Rex Alpha.",
+      "bbox": {
+        "x": 0.054,
+        "y": 0.329,
+        "width": 0.426,
+        "height": 0.145
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli, Mumei, IRyS, Sana, Reine et Ollie",
+      "bbox": {
+        "x": 0.638,
+        "y": 0.283,
+        "width": 0.313,
+        "height": 0.034
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Juste avant qu’hololive n'ait plus la permission de diffuser Pokémon Diamant Étincelant et Pokémon Perle Scintillante, un tournoi amateur sur le jeu a été organisé par Calli. Six filles, d’holoEN et holoID, y ont participé : Calli, Mumei, Sana, IRyS, Ollie et Reine. Le tournoi s'est déroulé sous la forme d'un tournoi à la ronde : tous les participants se sont affrontés une fois, et les deux participants ayant obtenu le moins de victoires ont été éliminés. Un Pokémon légendaire était autorisé dans l'équipe, et tout le monde en avait un, sauf Sana, la joueuse la plus expérimentée de tous les participants.",
+      "bbox": {
+        "x": 0.527,
+        "y": 0.33,
+        "width": 0.428,
+        "height": 0.241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À un moment, Mumei a fait une équipe blague, composée de trois Hoothoot de niveau un et d'un Magicarpe du même niveau, puis a simplement abandonné ses matchs. IRyS n'a pas parlé et n'a pas streamé en raison de ses problèmes de gorge, mais a réussi à atteindre les demi-finales où elle a affronté Sana. Sana, qui n'avait pas de Pokémon légendaire, a eu du mal, mais a quand même réussi à gagner. En finale, elle a affronté Reine, qui avait dominé la phase de groupe. Leur combat a été un test d'endurance dans lequel aucune des deux ne pouvait gagner, mais le temps a fini par s'écouler et, comme prévu, Sana est devenue la championne de ce holoTournoi !",
+      "bbox": {
+        "x": 0.5275,
+        "y": 0.5872,
+        "width": 0.42,
+        "height": 0.2726
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco, Subaru et Luna",
+      "bbox": {
+        "x": 0.205,
+        "y": 0.621,
+        "width": 0.211,
+        "height": 0.035
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "SubaChocoLuna a publié un clip pour la reprise de « Kami no Manimani » pour célébrer le premier anniversaire du groupe. Avant la première de la chanson, elles ont organisé un stream sur la chaîne de Choco où elles ont annoncé la chanson et ont dévoilé les nouveaux produits dérivés. L'ensemble comprend des « emas du bonheur », un diorama en acrylique et une carte postale signée en bonus pour l'achat du set complet. Elles ont également répondu à des questions et à des demandes venant de Marshmallow, ont essayé de faire le portrait les uns des autres et ont discuté de leurs rôles dans le groupe.",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.6636,
+        "width": 0.425,
+        "height": 0.2161
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4874bvhuufg81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

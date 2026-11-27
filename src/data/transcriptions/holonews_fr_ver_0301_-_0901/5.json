@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MARIOKART",
+      "bbox": {
+        "x": 0.0354,
+        "y": 0.3568,
+        "width": 0.6046,
+        "height": 0.0353
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 7 janvier 2022 s'est tenue la Coupe Mario Kart hololive du Nouvel An. Les trois branches d'hololive se sont réunies pour le tournoi, à l'exception de Sora, AZKi, Haachama, Korone, Rushia, Botan, Shion et la 1ère génération d'hololive ID qui étaient absents.",
+      "bbox": {
+        "x": 0.0378,
+        "y": 0.4174,
+        "width": 0.4594,
+        "height": 0.0957
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'événement a aussi marqué la première méga-collaboration rassemblant toutes les branches d’hololive à laquelle holoX a participé.",
+      "bbox": {
+        "x": 0.0389,
+        "y": 0.5297,
+        "width": 0.4661,
+        "height": 0.0482
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Chacunes des participantes n'a diffusé que son propre point de vue de la compétition, Towa animant le stream principal du tournoi sur sa chaîne accompagnée d'A-chan. Les streams des participantes n'ont donc duré que la durée de leur participation et ont été plutôt courts, tout particulièrement pour celles s'étant fait éliminer de la compétition.",
+      "bbox": {
+        "x": 0.0383,
+        "y": 0.5988,
+        "width": 0.4667,
+        "height": 0.1281
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Seules les trois meilleures de chaque poule du tournoi ont pu avancer jusqu’en finale, et les trois dernières de chaque poule ont quant à elles été placées dans une coupe spéciale intitulée « Zako Cup ».",
+      "bbox": {
+        "x": 0.5422,
+        "y": 0.76,
+        "width": 0.4189,
+        "height": 0.0799
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu a remporté le tournoi, suivie de Suisei à la 2e place et de Marine à la 3e place. Mio, qui avait déclaré forfait suite à de malencontreux problèmes techniques, a réussi à se rattraper en gagnant la Zako Cup.",
+      "bbox": {
+        "x": 0.5428,
+        "y": 0.8592,
+        "width": 0.4122,
+        "height": 0.0949
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/5ape827kevc81.gif",
+    "gifFrame": 102,
+    "confidence": 91
+  }
+}

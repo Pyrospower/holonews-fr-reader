@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Hizaki Gamma",
+      "bbox": {
+        "x": 0.0181,
+        "y": 0.0156,
+        "width": 0.4219,
+        "height": 0.1476
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le lendemain, Gamma a été le premier à faire ses débuts, et il s'est avéré être un mangaka hyper fêtard, tel qu'il l'avait dit. Il a d'abord montré un gros plan de son visage, en précisant qu'il n'avait pas prévu de le faire.",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.1762,
+        "width": 0.3988,
+        "height": 0.1554
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gamma s'est ensuite présenté, puis a parlé de ses objectifs, de son papa et de sa maman et de ses hashtags. Un objectif particulièrement impressionnant était son désir d'économiser 2 milliards de yens sur son compte d'épargne.",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.3459,
+        "width": 0.3856,
+        "height": 0.1784
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a ensuite présenté ses camarades et a parlé de la personnalité de chacun d'entre eux, en l'accompagnant d'une bande dessinée. Il a appelé Fuma un grand-père, Uyu un joueur toxique et Rio une personne bavarde qui se sent seule. Gamma se considère comme la seule personne normale du groupe.",
+      "bbox": {
+        "x": 0.0319,
+        "y": 0.5838,
+        "width": 0.4131,
+        "height": 0.2478
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a conclu ses débuts en montrant le programme de la semaine et a fait un au revoir en bonne et due forme.",
+      "bbox": {
+        "x": 0.0319,
+        "y": 0.8494,
+        "width": 0.4056,
+        "height": 0.0903
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/sv65vd46wis81.png",
+    "gifFrame": null,
+    "confidence": 95
+  }
+}

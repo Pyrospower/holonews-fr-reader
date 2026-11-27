@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.0644,
+        "y": 0.4311,
+        "width": 0.4311,
+        "height": 0.112
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour fêter ses 100 000 abonnés, Aruran a reçu une nouvelle tenue ! Il a obtenu de nouveaux vêtements ainsi que de nouvelles lunettes, et a changé de coiffure pour une queue de cheval basse. Celle-ci s’accompagne également d’une variante sans la queue de cheval, et de la possibilité de garder sa coiffure habituelle. L’une des caractéristique intéressantes de sa tenue est la possibilité d’enfiler la capuche de sa veste. Mieux encore, Aruran peut enlever son t-shirt pour ne garder que le gilet, et même être torse nu. Aruran a montré son magnifique torse et a laissé sans voix tous ses spectateurs (dont Ollie, qui streamait sa réaction en direct).",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.5336,
+        "width": 0.5006,
+        "height": 0.2427
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran a de nouveaux produits dérivés pour célébrer l’occasion :",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.7928,
+        "width": 0.4678,
+        "height": 0.0309
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Une figurine en acrylique\n• Un porte-clés en métal\n• Un porte-clés Pizza-kun en acrylique",
+      "bbox": {
+        "x": 0.0733,
+        "y": 0.8438,
+        "width": 0.41,
+        "height": 0.0513
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’ensemble complet ne coûte que 5 000 ¥ et inclut une carte style polaroïd en revêtement laminé d’Aruran en bonus.",
+      "bbox": {
+        "x": 0.0517,
+        "y": 0.9117,
+        "width": 0.4767,
+        "height": 0.0478
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/f1fq2thuufg81.gif",
+    "gifFrame": 30,
+    "confidence": 91
+  }
+}

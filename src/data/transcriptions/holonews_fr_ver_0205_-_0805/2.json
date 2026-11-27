@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "hololive Golden Game Week",
+      "bbox": {
+        "x": 0.4382,
+        "y": 0.1869,
+        "width": 0.1273,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la Golden Week, une semaine spéciale ayant plusieurs jours fériés, Fubuki, A-chan et Nodoka ont organisé un stream spécial sur la chaîne YouTube officielle d’hololive pour diffuser un événement spécial appelé : « hololive Golden Game Week ». Le jeu auquel les équipes ont participé sont Taiko no Tatsujin (un jeu de rythme) et Tsuppari Oozumou (un jeu de combat de Sumo). AkiRose, Subaru, Towa et Lui étaient les cheffes d’équipes.",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.4036,
+        "width": 0.2819,
+        "height": 0.2353
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les équipes étaient composées de :\n• Équipe d’AkiRose - Watame, Lamy, Miko, Matsuri et Roboco (absente à cause de problème de santé.)\n• Équipe de Subaru - Polka, Suisei, Koyori, Chloe et Sora.\n• Équipe de Towa- Luna, Kanata, Laplus, Mel et Ayame (absente pour des raisons familiales.)\n• Équipe de Lui - Noel, Flare, Iroha, Marine, Nene.",
+      "bbox": {
+        "x": 0.3581,
+        "y": 0.4032,
+        "width": 0.2819,
+        "height": 0.2343
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont eu une semaine pour s’entraîner jusqu’à l’ultime confrontation. L’équipe gagnante remporte un trophée de YAGOO en or. Dans un premier temps, elles ont joué à Taiko no Tatsujin. Chaque équipe a envoyé trois représentantes pour récolter le plus de points possible pour leur équipe ! Cela permet de déterminer le classement de chaque équipe avec tous les points obtenus lors des différentes épreuves.",
+      "bbox": {
+        "x": 0.6587,
+        "y": 0.4036,
+        "width": 0.2825,
+        "height": 0.2205
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’équipe de Lui a obtenu le plus haut score, se plaçant à la première place avec 15 points. L’équipe d’AkiRose est elle à la deuxième place avec 11 points, suivie de l’équipe de Subaru avec 7 points et enfin, à la dernière place, l’équipe de Towa avec seulement 5 points. Les équipes se sont ensuite affrontées sur le second jeu : Tsuppari Oozumou.",
+      "bbox": {
+        "x": 0.0575,
+        "y": 0.6619,
+        "width": 0.2769,
+        "height": 0.1819
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Leurs scores étaient ajoutés au résultat de la première manche pour déterminer l’équipe gagnante ! L’équipe de AkiRose a failli perdre sa première place, dans cette manche, ayant obtenu 13 points, soit un point d’écart avec l’équipe de Lui. L’équipe de Subaru a eu la 3ème place avec 9 points et l’équipe de Towa finit dernière avec 6 points.",
+      "bbox": {
+        "x": 0.3581,
+        "y": 0.6619,
+        "width": 0.2819,
+        "height": 0.1819
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au total, l’équipe de Lui a obtenu 27 points, remportant ainsi l’hololive Golden Week Game. L’équipe de AkiRose finit deuxième, avec 25 points. En bas du podium, on retrouve l’équipe de Subaru avec 16 points et enfin, en dernière position, l’équipe de Towa avec 11 points.",
+      "bbox": {
+        "x": 0.6581,
+        "y": 0.6619,
+        "width": 0.2775,
+        "height": 0.1558
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L’équipe de Lui gagne donc le trophée YAGOO en or avec des serviettes et des gilets à l'effigie de Taiko no Tatsujin, ainsi que la possibilité de faire une chanson originale qui sera inclus dans le jeu principal, qui est le même titre que Sangoku Musou.",
+      "bbox": {
+        "x": 0.0581,
+        "y": 0.8655,
+        "width": 0.86,
+        "height": 0.0464
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko a aussi gagné une copie originale de Tsuppari Oozumou en recevant le titre de joueuse du match ! Félicitations à Lui, Noel, Flare, Iroha, Marine et Nene !",
+      "bbox": {
+        "x": 0.0575,
+        "y": 0.928,
+        "width": 0.8838,
+        "height": 0.0295
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ha0268nspg091.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

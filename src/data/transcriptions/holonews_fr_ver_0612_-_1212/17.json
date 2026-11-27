@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0612_-_1212",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MISC",
+      "bbox": {
+        "x": 0.189,
+        "y": 0.0616,
+        "width": 0.154,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des produits dérivés de Mio et d’Ayame vont être ajoutés à la collaboration entre hololive et Molly Online. Il y aura des tapisseries, des coussins, des figurines en acrylique, et des porte-clés. Les illustrations ont été faites par Koga-sensei et Guchico-sensei (illustratrice d’Aloe).",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.2292,
+        "width": 0.4038,
+        "height": 0.1028
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru et Okayu ont été annoncées comme participantes au Project V #6. Ce sera diffusé le 29 décembre. Plus de détails à venir.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.4735,
+        "width": 0.405,
+        "height": 0.0603
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les porte-bonheurs et les chaussettes à motifs d’holostars du Nouvel An sont disponibles à la vente sur la boutique officielle !",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2305,
+        "width": 0.4119,
+        "height": 0.0425
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka et Izuru, aussi appelés RIZnote, font partie de la collaboration limitée de Net Catcher, le jeu de machines à pince en ligne de Capcom. Les ventes commenceront le 14 décembre à 21:00 JST, et dureront jusqu’au 26 décembre à 23:59 JST, et seront livrées à partir de mi-mars 2022.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.3003,
+        "width": 0.4231,
+        "height": 0.1089
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les produits dérivés holostars x King of Prims sont disponibles du 8 au 26 décembre ! Il y a des figurines en acrylique, des porte-clés en acrylique, des badges en métal, une tapisserie, un diorama, une serviette pour le visage, un jeu d’intercalaires transparents A4, un pull et un sac.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4358,
+        "width": 0.4188,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Korone, Botan et Fubuki vont jouer au MMO Ragnarok Origin. Korone y jouera le 18 décembre, suivi de Shishiron et Fubuki le 19.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.68,
+        "width": 0.42,
+        "height": 0.061
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Calli sera présente sur la cinquième chanson du premier album original d'AmaLee, Rise of the Monarch, comme annoncé lors des débuts d'AmaLee en tant que VTubeuse.",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.68,
+        "width": 0.425,
+        "height": 0.079
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gura et Sora vont devenir des navigatrices dans la prochaine mise à jour de Groove Coaster: Wai Wai Party! sur Nintendo Switch. « Kirameki Rider » et « Reflect » seront également ajoutées à la liste de musiques hololive jouables.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.793,
+        "width": 0.4219,
+        "height": 0.1097
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2xyiqnp5i4781.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

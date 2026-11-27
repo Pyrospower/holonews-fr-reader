@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_uproar_debut_special_-_fr_version",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Programme de la première semaine",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.0438,
+        "width": 0.9019,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Fuma",
+      "bbox": {
+        "x": 0.6225,
+        "y": 0.2431,
+        "width": 0.2675,
+        "height": 0.0512
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "WEEKLY SCHEDULE 3/30-4/2\n30 Wed. — 振り返り配信 — 17:00\n31 Thu. — 4人初コラボ — 22:00\n4/1 Fri. — スプラトゥーン2 — 20:00\n2 Sat. — APEX — 20:00\n3 Sun. — マリオカート新マップ — 20:00",
+      "bbox": {
+        "x": 0.0375,
+        "y": 0.099,
+        "width": 0.3113,
+        "height": 0.1684
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme d’Uyu",
+      "bbox": {
+        "x": 0.1563,
+        "y": 0.4653,
+        "width": 0.21,
+        "height": 0.0538
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "3/31～4/3 SCHEDULE\nThu 31 — 22:00 — UPROAR!! 4人コラボ\nFri 1 — 22:00 — 閉店事件\nSat 2 — 22:00 — Dead by Daylight\nSun 3 — 22:00 — Apex",
+      "bbox": {
+        "x": 0.655,
+        "y": 0.3299,
+        "width": 0.2825,
+        "height": 0.1363
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Gamma",
+      "bbox": {
+        "x": 0.6112,
+        "y": 0.6866,
+        "width": 0.2687,
+        "height": 0.0521
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "★今後のスケジュール：\n今日：21：30くらい — イラストメイキング動画\n3/31(木)19：00～ — 振り返り配信！！\n3/31(木)22：00～ — UPROAR!!で初コラボ！！\n4/1(金)19：00～ — パスパルトゥで同期描いて売り捌く\n4/2(土)19：00～：パリピが空気読み\n4/3(日)17：00～：ひみつ☆",
+      "bbox": {
+        "x": 0.0737,
+        "y": 0.566,
+        "width": 0.2525,
+        "height": 0.1658
+      }
+    },
+    {
+      "type": "other",
+      "text": "ガンちゃん 春の配信祭り",
+      "bbox": {
+        "x": 0.5188,
+        "y": 0.5616,
+        "width": 0.05,
+        "height": 0.0712
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Gamma",
+      "bbox": {
+        "x": 0.1144,
+        "y": 0.9097,
+        "width": 0.2625,
+        "height": 0.0495
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "SCHEDULE 3/29-4/3 JST\n29 — 封魔 初配信 on封魔ch — 19:00 / 烏有 初配信 on烏有ch — 20:00\n30 — ガンマ 初配信 onガンマch — 19:00 / 燐央 初配信 — 20:00\n31 — 初配信 振り返り雑談 — 20:00 / UPROAR!! 初コラボ on封魔ch — 22:00\n4/1 — Unpacking 初見プレイ — 21:00\n2 — 歌ってみた公開→雑談 — 18:00\n3 — OMORI 初見プレイ — 21:00",
+      "bbox": {
+        "x": 0.41,
+        "y": 0.7648,
+        "width": 0.365,
+        "height": 0.2101
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ufxywg46wis81.png",
+    "gifFrame": null,
+    "confidence": 63
+  }
+}

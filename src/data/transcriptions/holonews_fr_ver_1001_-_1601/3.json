@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Anniversaire de Risu",
+      "bbox": {
+        "x": 0.0222,
+        "y": 0.4352,
+        "width": 0.72,
+        "height": 0.0857
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Risu a transformé son anniversaire en une parade. Elle a d'abord organisé un compte à rebours jusqu’à minuit, suivi le lendemain d'un stream totsumachi très inhabituel au cours duquel elle a reçu de nombreux appels de membres d’holopro dont Roboco, Towa, Ina, Kiara, Aruran, Oga, Ollie, Reine, Anya et deux messages vidéo, de Yagoo et Korone, qui l'ont laissée sans voix et chuintante.",
+      "bbox": {
+        "x": 0.0428,
+        "y": 0.5212,
+        "width": 0.86,
+        "height": 0.086
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir annoncé ses nouveaux produits dérivés (un porte-bonheur en forme de queue et un dakimakura à deux faces ainsi qu’une carte postale spéciale en bonus), Risu a visionné la Première de sa chanson originale « ALiCE&u » avec les Risuners. Elle a remercié ses fans et les a invités à partager leurs avis sur la chanson sur Twitter. La célébration de son anniversaire a ensuite continué pendant l'Area15 de ce mois avec Iofi et Moona, s’amusant et lisant des marshmallows qui contenaient des félicitations et des énigmes de ses fans (ainsi que de Reine, qui a envoyé un marshmallow en japonésien , le mélange maudit).",
+      "bbox": {
+        "x": 0.0422,
+        "y": 0.6219,
+        "width": 0.8739,
+        "height": 0.1377
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/rtncihi6i8e81.gif",
+    "gifFrame": 105,
+    "confidence": 93
+  }
+}

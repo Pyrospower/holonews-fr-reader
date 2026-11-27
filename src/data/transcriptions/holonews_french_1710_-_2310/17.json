@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_french_1710_-_2310",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2163,
+        "y": 0.0191,
+        "width": 0.5675,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/17\n[Suisei] Template: 5M\n[Shien] BEGINNING: 10K\n[Mio/Okayu] The Adult Code: 2M\n[Lamy] Asu No He Kyoukaisen: 750K\n[Holo ID 1/2/3] Bebas: 2M\n[Chloe] Zombies: 250K",
+      "bbox": {
+        "x": 0.0213,
+        "y": 0.0747,
+        "width": 0.4713,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/18\n[Ayame] King: 6M\n[Fubuki] KINGWORLD: 750K\n[Fubuki] KonKon Beats: 500K\n[HoloJP 0-6] Tonde K! hololive summer: 500K\n[Sora/Suisei/AZKi/Calliope/IRyS] Ifuudoudou: 1M\n[Calliope] Scuffed Up Age: 500K\n[Baelz/Mumei] Animal: 500K\nKoyori] Kokoro Yohou: 750K\n[Suisei] Comet: 6M",
+      "bbox": {
+        "x": 0.5075,
+        "y": 0.0747,
+        "width": 0.4713,
+        "height": 0.1519
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/19\n[Kronii] Mafia: 1M\n[Suisei/Miko ] Animal: 7M\n[Zeta/Kaela/Kobo] id:entity voices: 250K",
+      "bbox": {
+        "x": 0.0213,
+        "y": 0.1849,
+        "width": 0.4713,
+        "height": 0.0503
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/20\n[AZKi] canopus: 75K\n[Kanata] Ai Kotoba IV: 1M\n[Mumei/Baelz] Queen: 250K\n[Kanata] Tokyusa-Seizon Wonder-La-Der!!: 4M\n[Koyori] Mixed Nuts: 750K\n[Shion] Hakujitsu: 3M",
+      "bbox": {
+        "x": 0.5075,
+        "y": 0.2352,
+        "width": 0.4713,
+        "height": 0.099
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/21\n[Lui] Shikabaneeze: 250K\n[Towa/Suisei] Haiiro to Ao: 6M\n[Sora] Pit Shite Marmalade: 100K",
+      "bbox": {
+        "x": 0.0213,
+        "y": 0.2457,
+        "width": 0.4713,
+        "height": 0.0503
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/22\n[Chloe] Chimera: 2M\n[La+] Queen (Cover): 100K\n[Towa/Roboco/Mel/Lui/Chloe] Hikaru Nara: 750K\n[Akirose/Mel/Watame/Polka] Moon Pride (Live): 75K\n[Calliope/Boogey Voxx] Crown: 1M\n[Shion] Chandelier: 750K",
+      "bbox": {
+        "x": 0.5075,
+        "y": 0.3455,
+        "width": 0.4713,
+        "height": 0.0998
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "10/23\n[Aqua] Cassiopeia: 25K\n[Suisei] Yuurei Tokyo: 6M\n[Kanata] Bug (Cover): 100K\n[Baelz] STRANGE (Cover): 50K\n[Okayu] Mogu Mogu YUMMY!: 9M\n[Okayu/Korone] Orange Parade (Live): 100K\n[Magni] Escape From The City (Cover): 100K\n[AkiRose/Mel/Fubuki/Matsuri/Haachama] Plasmagic Seasons (Live): 75K\n[Rikka] Overdose (Cover): 75K\n[Nene] Ring-A-Linger: 75K\n[Iroha/La+] Identity: 3M",
+      "bbox": {
+        "x": 0.0213,
+        "y": 0.3056,
+        "width": 0.4713,
+        "height": 0.2005
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE   ORIGINALE   NOUVEAU",
+      "bbox": {
+        "x": 0.5088,
+        "y": 0.4757,
+        "width": 0.47,
+        "height": 0.0156
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nAqua\nCASSIOPEIA",
+      "bbox": {
+        "x": 0.0213,
+        "y": 0.5295,
+        "width": 0.4775,
+        "height": 0.1615
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nNene\nRING-A-\nLINGER",
+      "bbox": {
+        "x": 0.5,
+        "y": 0.5295,
+        "width": 0.4775,
+        "height": 0.1701
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nKanata\nBUG",
+      "bbox": {
+        "x": 0.0213,
+        "y": 0.6997,
+        "width": 0.3187,
+        "height": 0.1155
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nLa+\nQUEEN",
+      "bbox": {
+        "x": 0.34,
+        "y": 0.6997,
+        "width": 0.32,
+        "height": 0.1155
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nBaelz\nSTRANGE",
+      "bbox": {
+        "x": 0.6713,
+        "y": 0.7669,
+        "width": 0.2181,
+        "height": 0.0365
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nRikka\nOVERDOSE",
+      "bbox": {
+        "x": 0.0213,
+        "y": 0.8168,
+        "width": 0.4788,
+        "height": 0.1693
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nMagni\nESCAPE FROM\nTHE CITY",
+      "bbox": {
+        "x": 0.5,
+        "y": 0.8168,
+        "width": 0.4788,
+        "height": 0.1693
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/b8siebwaedy91.png",
+    "gifFrame": null,
+    "confidence": 79
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.1425,
+        "y": 0.049,
+        "width": 0.31,
+        "height": 0.0734
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Korone",
+      "bbox": {
+        "x": 0.161,
+        "y": 0.219,
+        "width": 0.168,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Korone est de retour de sa pause, qui a duré plus de deux semaines. Elle a streamé depuis une cellule de prison, partageant des anecdotes sur les moments qu’elle a passé avec Okayu ainsi que ses dessins et son opinion d’holoX. Après avoir chanté avec entrain et s’être essayée à des imitations, Korone s’est évadée de sa cellule pour punir les Koronesuki de leur infidélité, avant de se faire de nouveau capturer par la police appelée par ces derniers.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.26,
+        "width": 0.4238,
+        "height": 0.1428
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après son retour, Korone a joué à Ragnarok Origin dans le cadre d’un stream promotionnel. Elle a pris beaucoup de plaisir à explorer le jeu et interagir avec les Koronesuki qui ont pu rejoindre. Ravis de voir notre joueuse canine reprendre du service !",
+      "bbox": {
+        "x": 0.046,
+        "y": 0.426,
+        "width": 0.428,
+        "height": 0.112
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu & Mio",
+      "bbox": {
+        "x": 0.657,
+        "y": 0.217,
+        "width": 0.275,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu et Mio ont chanté ensemble durant un stream karaoké très sympathique. Unifiant leurs voix, elles ont interprété plusieurs chansons japonaises en duo ainsi qu’en solo.",
+      "bbox": {
+        "x": 0.519,
+        "y": 0.259,
+        "width": 0.415,
+        "height": 0.078
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu et Mio ont toutes deux streamé avec leurs modèles 3D à domicile cette semaine. Okayu l’a utilisé dans le cadre d’un stream discussion au cours duquel elle a reçu une “requête” particulière par Super Chat, alors que Mio a surpris ses spectateurs en leur offrant un karaoké dans sa tenue de Noël.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.3915,
+        "width": 0.4225,
+        "height": 0.1319
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.0919,
+        "y": 0.5625,
+        "width": 0.3525,
+        "height": 0.0486
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holostars",
+      "bbox": {
+        "x": 0.1619,
+        "y": 0.7161,
+        "width": 0.2238,
+        "height": 0.0386
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Izuru, Arurandeisu, Rikka, Astel et Shien ont participé au APEX Legends Duo Party de l’évènement YouTube Gaming Crosszone Vol. 7. Durant celui-ci, ils ont disputé 3 manches en équipes de 2 dans des parties privées. Astel et sa partenaire Kaga Sumire (VSPO) ont réussi à finir champions de la première manche, alors qu’Izuru et Kawase (Crazy Racoon) se sont emparés de la victoire lors de la deuxième manche.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.7743,
+        "width": 0.4131,
+        "height": 0.1723
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holostars",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.7118,
+        "width": 0.2231,
+        "height": 0.0521
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyabi, Arurandeisu, Shien et Oga ont participé à un test de condition physique en 3D. Il y avait 4 activités ayant pour but de mesurer leurs capacités physiques : pas de côté répétés, flexion en avant en position assise, crunchs, et saut en longueur sans élan.",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.7743,
+        "width": 0.3944,
+        "height": 0.1059
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme d’habitude, Arurandeisu est arrivée en première place, suivi de Shien, Oga et Miyabi. Bien que le résultat était écrit d’avance, Miyabi a quand même fait de son mieux pour compléter chaque exercice.",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.8924,
+        "width": 0.3963,
+        "height": 0.0729
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/spozawqbop881.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

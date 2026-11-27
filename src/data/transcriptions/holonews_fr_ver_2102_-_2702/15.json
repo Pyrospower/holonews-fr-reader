@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MISC",
+      "bbox": {
+        "x": 0.1925,
+        "y": 0.0443,
+        "width": 0.1544,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloEN",
+      "bbox": {
+        "x": 0.1594,
+        "y": 0.2131,
+        "width": 0.1675,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après la fin de la hololive EN Art Battle fin octobre 2021, le livre d'art numérique « hololive English×pixiv ART COLLECTION » est maintenant disponible gratuitement sur BOOTH jusqu'au 31 mars. Le livre contient les meilleures œuvres de plus de 5 000 entrées du concours. Vous devez avoir un compte pixiv ou BOOTH pour télécharger le livre.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.2491,
+        "width": 0.4181,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Bakatare",
+      "bbox": {
+        "x": 0.2615,
+        "y": 0.51,
+        "width": 0.2115,
+        "height": 0.0267
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki, Watame, Flare, un groupe également connu sous le nom de Bakatare, ont organisé un concert 3D le 24 février pour célébrer leur 2e anniversaire ! Elles ont fait de nombreuses performances en groupe et en solo comme « Cry Baby », « Tsuisou no Despair », « Yellow Yellow Happy », et plus encore. C'était un live d'une heure rempli de chansons, de danses et d'amusement.",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.5482,
+        "width": 0.4138,
+        "height": 0.115
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi & Oga",
+      "bbox": {
+        "x": 0.2,
+        "y": 0.7957,
+        "width": 0.2154,
+        "height": 0.0267
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Iofi a attiré l'attention du compte Twitter « TengaJP » (Tenga est un créateur renommé de jouets pour adultes, qui avait déjà commencé à suivre Astel). Oga, qui est entré dans la discussion, a été rapidement suivi également, tandis que les fans demandent déjà s'il y aura des partenariats ou des unboxings.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.7917,
+        "width": 0.4213,
+        "height": 0.1523
+      }
+    },
+    {
+      "type": "other",
+      "text": "COMING SOON",
+      "bbox": {
+        "x": 0.5135,
+        "y": 0.1108,
+        "width": 0.1346,
+        "height": 0.0147
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloJP",
+      "bbox": {
+        "x": 0.6288,
+        "y": 0.2109,
+        "width": 0.1731,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les figurines Nendoroid d'Okayu et Korone sont officiellement en développement ! De plus, la figurine Super Dream Aqua Iro 1/7 révélée par WonHobby est disponible en précommande et devrait sortir en février 2023. Encore mieux, GoodSmile a annoncé la date de sortie de la figurine 1/7 de Shirakami Fubuki Summer Event ver. Figure de Luminous Box qui avait été retardée depuis décembre 2020, elle sera enfin expédiée à partir du 25 février.",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.2561,
+        "width": 0.4163,
+        "height": 0.1706
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "JOYSOUND karaoke a ajouté d'autres chansons d’hololive à son répertoire. « Q » de Calli et Gura, « Mikkorone×Showtime !! » de Miko et Korone, « Silent Night Requiem » de Oga, « A New Start » de Mumei, « Pastel Tea Time » de Polka et son autre chanson, « PERSONA », ont tous été ajoutés à la liste de chansons de JOYSOUND.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4505,
+        "width": 0.425,
+        "height": 0.1215
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.7103,
+        "width": 0.1154,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a déclaré que TENGA lui appartenait et lui seul après avoir remarqué que Iofi avait également attiré leur l'attention. Les fans n'étaient pas les seuls à être confus par ce tweet, car Reimu de NIJISANJI EN a interrogé Astel qui a essayé de changer de sujet en lui demandant ce qu'elle avait mangé au déjeuner. Reimu a répondu, mais a tout de même demandé à Astel s'il avait vraiment acheté un TENGA ce à quoi il a répondu qu'il avait mangé des « ramens et un TENGA premium pour le déjeuner ».",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7552,
+        "width": 0.4281,
+        "height": 0.1866
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/f4oo2fg9e0m81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

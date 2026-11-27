@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_sana_special_issue_fr_ver",
+  "page": 11,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Tsukumo Sana Special Issue",
+      "bbox": {
+        "x": 0.3967,
+        "y": 0.0262,
+        "width": 0.2078,
+        "height": 0.0131
+      }
+    },
+    {
+      "type": "other",
+      "text": "#1. Sana et Bae ont été invitées\nau Smash! 2022.",
+      "bbox": {
+        "x": 0.115,
+        "y": 0.2765,
+        "width": 0.3119,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "other",
+      "text": "#2. Sana ramène une armée de\nSanallites dans son stream sur\nMetroid Dread.",
+      "bbox": {
+        "x": 0.5719,
+        "y": 0.2691,
+        "width": 0.3075,
+        "height": 0.0417
+      }
+    },
+    {
+      "type": "other",
+      "text": "#3. Le stream Tanabata\nd'Ina et Sana.",
+      "bbox": {
+        "x": 0.1522,
+        "y": 0.5633,
+        "width": 0.2378,
+        "height": 0.0293
+      }
+    },
+    {
+      "type": "other",
+      "text": "#4. La première reprise en\ncollaboration de Sana et Ina,\n« Futariboshi ».",
+      "bbox": {
+        "x": 0.5825,
+        "y": 0.5638,
+        "width": 0.2825,
+        "height": 0.0417
+      }
+    },
+    {
+      "type": "other",
+      "text": "#5. Sana a battu l'Ender Dragon aux\ncôtés du Council et d'IRyS.",
+      "bbox": {
+        "x": 0.0963,
+        "y": 0.8542,
+        "width": 0.3556,
+        "height": 0.0291
+      }
+    },
+    {
+      "type": "other",
+      "text": "#6. Le dernier stream de Sana sur\nsa chaîne.",
+      "bbox": {
+        "x": 0.56,
+        "y": 0.8615,
+        "width": 0.3331,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "other",
+      "text": "Highlights : Page 3",
+      "bbox": {
+        "x": 0.1475,
+        "y": 0.9618,
+        "width": 0.7788,
+        "height": 0.0161
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/inrl012un4f91.png",
+    "gifFrame": null,
+    "confidence": 81
+  }
+}

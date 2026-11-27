@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1807_-_2407",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0126,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/18\n[Botan] Animal: 1M\n[AZKi] Hatokkai Solar Cycle: 100K\n[Aqua/Subaru/Nene] Panight: 250K\n[Roberu/Temma/Astel] Ah, Osaka Dreamin' Night: 1M\n[Rikka] Haru Wo Tsugeru (Piano): 75K\n[Sana] Astrogirl: 500K",
+      "bbox": {
+        "x": 0.047,
+        "y": 0.056,
+        "width": 0.444,
+        "height": 0.1
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/19\n[Aqua] Kira Kira: 2M\n[Calliope] Holy Shitto: 750K\n[Calliope/AmaLee] Villain Vibes: 1M\n[AZKi/Suisei] The Last Frontier: 750K\n[Calliope] Ijimeko Bully: 5M\n[Iofi] Dekat Di Hati: 50K",
+      "bbox": {
+        "x": 0.511,
+        "y": 0.056,
+        "width": 0.442,
+        "height": 0.1
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/20\n[Aqua] Gyutto: 1M\n[Suisei/Taku Inoue] Highway: 100K\n[Ayame/Fubuki/Mio] Onikemodance: 2M\n[Watame] Chiki Chiki Ban Ban (Cover): 250K\n[Suisei] Yuurei Tokyo: 4M",
+      "bbox": {
+        "x": 0.047,
+        "y": 0.17,
+        "width": 0.444,
+        "height": 0.087
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/21\n[Fuma] Shanti: 50K\n[AZKi] Reflection: 100K\n[Koyori] Mixed Nuts (Cover): 100K\n[Aqua/Subaru/Nene] Yokubari Cute Girl: 100K\n[Koyori] Onegai Darling: 500K\n[Koyori] WAO!!: 500K",
+      "bbox": {
+        "x": 0.511,
+        "y": 0.175,
+        "width": 0.442,
+        "height": 0.097
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/22\n[Suisei] Template: 4M\n[Mel] Darling Dance: 250K\n[Rikka] Re: Hello world: 500K\n[Flare] Goodbye Sengen: 750K\n[Flare] Carnival Happy: 100K",
+      "bbox": {
+        "x": 0.047,
+        "y": 0.267,
+        "width": 0.444,
+        "height": 0.084
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/23\n[Baelz] Play Dice: 3M\n[Kobo] Mantra Hujan: 5M\n[IRyS] Internet Overdose: 1M\n[Gura] Reflect (Animated): 5M\n[Calliope] Make ‘Em Afraid: 250K\n[Risu/Oga] Harapan PanPanPan: 50K\n[Nene] Hammer Song to Itami no Tou: 100K\n[Reine/Towa] Cynical Night Plan (Cover): 50K\n[Sora] Sekai Wa Mada Hajimatte Sura Inai: 100K\n[Fubuki/Matsuri/Shion/Ayame/Choco/Subaru/Pekora/Marine/Kanata] Dreaming Days: 500K\n[Kanata] Tondemo Wonders (Live): 1M\n[Suisei/Flare/Kanata/Lamy/Nene/Botan/Polka/ETC] Peace: 250K\n[Sora] Shoujo Rei (Cover): 50K\n[Iroha] Color of Drops: 250K\n[IRyS] Diorama: 500K",
+      "bbox": {
+        "x": 0.511,
+        "y": 0.286,
+        "width": 0.442,
+        "height": 0.28
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/24\n[Matsuri] Jinsei wa Saikou no Hima Tsubushi (Cover): 100K\n[Altare] Heartache (Cover): 100K\n[Luna] Zettai Chuusei ♡ Nanonanora: 50K\n[Akirose] Shikisai No Blues (Live): 25K\n[Kanata] Odo (Bon-Odo Remix): 500K\n[Axel] Yoidore Shirazu (Cover): 100K\n[Kobo] Tondemo Wonders: 750K\n[Temma] Shooting Star 75K",
+      "bbox": {
+        "x": 0.047,
+        "y": 0.365,
+        "width": 0.444,
+        "height": 0.149
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE ORIGINALE NOUVEAU",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.5421,
+        "width": 0.4175,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE | Koyori | MIXED NUTS\nREPRISE | Matsuri | JINSEI WA SAIKOU NO HIMA TSUBUSHI\nREPRISE | Sora | SHOUJO REI\nREPRISE | Watame | CHIKI-CHIKI BAN-BAN",
+      "bbox": {
+        "x": 0.032,
+        "y": 0.583,
+        "width": 0.936,
+        "height": 0.086
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL | Calli | MAKE 'EM AFRAID\nCHANSON ORIGINAL | NEGI☆U | YOKUBARI CUTE GIRL\nCHANSON ORIGINAL | Sora | ZETTAI CHUUSEI ♡ NANONANORA!",
+      "bbox": {
+        "x": 0.032,
+        "y": 0.669,
+        "width": 0.936,
+        "height": 0.115
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL | Mel | AKAKU NARANAIDE\nCHANSON ORIGINAL | Pekora | RARARA RABBIT!\nCHANSON ORIGINAL | Matsuri | NEVER GIVE UP NATSUIRO STORY!",
+      "bbox": {
+        "x": 0.032,
+        "y": 0.784,
+        "width": 0.936,
+        "height": 0.115
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL | Risu & Oga | HARAPAN PANPANPAN\nREPRISE | Axel | YOIDORE SHIRAZU\nREPRISE | Altare | HEARTACHE\nREPRISE | Reine & Towa | CYNICAL NIGHT PLAN",
+      "bbox": {
+        "x": 0.032,
+        "y": 0.899,
+        "width": 0.936,
+        "height": 0.086
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2gksmulo0qf91.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

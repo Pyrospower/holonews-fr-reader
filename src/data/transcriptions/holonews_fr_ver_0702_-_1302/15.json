@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0702_-_1302",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MISC",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.07,
+        "width": 0.153,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.2391,
+        "width": 0.1856,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 11 février, la chaîne YouTube d’hololive a publié un mix de chansons ambiante d’hololive (version boîte à musique) d’environ 1 heure, des chansons tels que « Stellar Stellar » de Suisei, « Diorama » d’IRyS, ainsi que « Shiny Smily Story » par hololive IDOL PROJECT.",
+      "bbox": {
+        "x": 0.0519,
+        "y": 0.2799,
+        "width": 0.4244,
+        "height": 0.1055
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suite au stream de Flare la semaine dernière, Heaven Burns Red ont sponsorisé hololive pour qu’un de leur talent fasse un stream sur le jeu chaque jour, pendant deux semaines. Au total, quinze talents vont faire un live sur le jeu et ces lives seront à partir de 20h00 JST. En commençant par Noel le 10 février, suivi d’Ayame, Kanata, Nene, Iroha, Lui et Luna pour la première semaine. Pour la deuxième semaine, on aura Mio, La+, Fubuki, Chloe, Koyori, Lamy et enfin Subaru qui va fermer la marche le 23 février.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.4227,
+        "width": 0.4225,
+        "height": 0.1866
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive",
+      "bbox": {
+        "x": 0.151,
+        "y": 0.774,
+        "width": 0.186,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 10 février, le magazine Weekly Young Jump a sorti un autre numéro en collaboration avec hololive. Les choses notables de ce numéro sont les cosplays des filles de la 3e génération d’hololive JP (hololive Fantasy) et un livret spécial dessiné par sept dessinateurs très connus.",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.7747,
+        "width": 0.4219,
+        "height": 0.1519
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.826,
+        "y": 0.236,
+        "width": 0.121,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors d’un stream sur la chaîne YouTube d’hololive le 11 février, Watame et Botan ont décidé de donner un cours de japonais à Kiara et Iofi.",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.2804,
+        "width": 0.4138,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont décidé de leur apprendre des virelangues, en faisant réciter Iofi et Kiara ces derniers. Ensuite, Watame et Botan leur ont appris des proverbes, en laissant les deux élèves déduire ce qu’elles voulaient dire.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.3637,
+        "width": 0.4225,
+        "height": 0.0946
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces leçons sont petit à petit devenues plus un jeu télévisé qu’un cours. Professeur Watame fut elle-même confuse par l’un des proverbes et Botan a dû intervenir pour l’aider.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.48,
+        "width": 0.4269,
+        "height": 0.0816
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.826,
+        "y": 0.736,
+        "width": 0.121,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La Holo Ghost Investigation Team a reçu des rapports paranormaux d’une maison, d’une école abandonnée, et d’un campement. L’équipe a envoyé Fubuki, Botan ainsi que les deux nouvelles recrues, Koyori et Suisei, pour enquêter sur l’être paranormal résidant dans chacun de ces endroits.",
+      "bbox": {
+        "x": 0.5244,
+        "y": 0.7834,
+        "width": 0.4119,
+        "height": 0.1207
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/u7q04boe17j81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

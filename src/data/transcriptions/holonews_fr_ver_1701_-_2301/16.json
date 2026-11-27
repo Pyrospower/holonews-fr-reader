@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 16,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "DIVERS",
+      "bbox": {
+        "x": 0.1531,
+        "y": 0.0417,
+        "width": 0.2181,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Nendoroid Rushia sortira en août 2022 et est déjà disponible en précommande. La figurine sera livrée avec trois expressions faciales (normale, énervée et sadique) et une petite table qui peut être cassée. Les pièces optionnelles comprennent les figurines Piyoko et Fanded, ainsi qu'un couteau.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.214,
+        "width": 0.4275,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La troisième partie de Hololive IF petit - Relax time- présente six autres membres d'Hololive en pyjama. Les figurines en acrylique de Sora, Suisei, Miko, Kanata, Towa et Polka sont disponibles dans certains magasins au Japon.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.4865,
+        "width": 0.4131,
+        "height": 0.1202
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Wow, c'est un peu vide",
+      "bbox": {
+        "x": 0.5269,
+        "y": 0.138,
+        "width": 0.385,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous essayons toujours de reprendre notre charge de travail habituelle après notre pause et après que plusieurs de nos rédacteurs et éditeurs aient trouvé un emploi.",
+      "bbox": {
+        "x": 0.5269,
+        "y": 0.2153,
+        "width": 0.4119,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Toute aide pour la rédaction d'articles est la bienvenue !",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.3455,
+        "width": 0.3956,
+        "height": 0.0299
+      }
+    },
+    {
+      "type": "other",
+      "text": "---------> discord.gg/Holonews <----------",
+      "bbox": {
+        "x": 0.524,
+        "y": 0.448,
+        "width": 0.413,
+        "height": 0.018
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Family Mart et hololive collaborent pour la 6e fois dans le cadre du projet « Hololive X Family Mart vol. 6, Happy Happy Valentine, », qui se déroule du 25 janvier au 14 février. Le set de marchandises comprend des figurines en acrylique d'Ayame, Subaru, Mel, Choco et Aki, un poster B2, du chocolat blanc CRUNKY décoré sur le thème d'Hololive, et des cartes postales avec des messages des filles. Les cartes seront publiées par lots : le premier comprendra les cartes Ayame, Subaru et Mel, et le second, qui sera publié le 8 fervent, comprendra Akwa, Choco et Aki.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.6441,
+        "width": 0.4338,
+        "height": 0.217
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/08bviof6x8f81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

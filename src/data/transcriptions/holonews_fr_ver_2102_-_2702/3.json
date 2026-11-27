@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Kageyama Shien",
+      "bbox": {
+        "x": 0.6361,
+        "y": 0.0228,
+        "width": 0.2994,
+        "height": 0.0255
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 25 février, Shien a fêté son 25e anniversaire avec un concert en 3D ! C’est la première fois que nous voyons la scène des holostars depuis les débuts en 3D d’Astel en décembre dernier.",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.0625,
+        "width": 0.3306,
+        "height": 0.1169
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shien nous a donné à voir de magnifiques interprétations de « KING », « Panda Hero », « Zankyosanka » ainsi que « Yoshiwara Lament », avant de nous présenter les invités de la soirée. Il a chanté « Valentine Kiss » avec Miyabi, pendant que Nekoyama et Kyomu Suzume s’amusaient sur scène. Son partenaire suivant était Oga, avec lequel il a offert une très bonne interprétation de « Real Face ».",
+      "bbox": {
+        "x": 0.6339,
+        "y": 0.1952,
+        "width": 0.3439,
+        "height": 0.2388
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shien a réalisé une dernière performance avant de nous annoncer que sa chanson originale, « Beginning », allait sortir le soir-même. Il l’a chantée en live pour la première fois depuis le concert holostars en décembre.",
+      "bbox": {
+        "x": 0.6339,
+        "y": 0.4495,
+        "width": 0.3461,
+        "height": 0.1343
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des produits dérivées commémoratifs ont également été mis en vente :",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.5965,
+        "width": 0.3278,
+        "height": 0.0482
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "- Une plaque en acrylique\n- Un badge en métal\n- Un bracelet et un porte-bonheur pour l’été\n- Une peluche Nekoyama\n- Un pack de voix",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.6493,
+        "width": 0.2756,
+        "height": 0.103
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En achetant l’ensemble complet, vous obtiendrez une carte postale dédicacée et estampillée accompagnée d’un message de Shien.",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.7674,
+        "width": 0.3344,
+        "height": 0.0856
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la fin du show, il a enfilé sa tenue d’idole et a chanté un version solo de « Journey to Find Stars ». Cependant, les célébrations ne se sont pas arrêtées là pour le Patron.",
+      "bbox": {
+        "x": 0.6339,
+        "y": 0.8669,
+        "width": 0.3467,
+        "height": 0.1034
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/dcw55vv5e0m81.gif",
+    "gifFrame": 92,
+    "confidence": 92
+  }
+}

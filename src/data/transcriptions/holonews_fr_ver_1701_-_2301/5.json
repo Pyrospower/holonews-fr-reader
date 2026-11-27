@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Yagoo sur Holotalk",
+      "bbox": {
+        "x": 0.068,
+        "y": 0.366,
+        "width": 0.595,
+        "height": 0.138
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le très attendu 20e épisode d'Holotalk, Kiara a enfin interviewé nulle autre que notre fille préférée, le PDG de Cover Corp, YAGOO !",
+      "bbox": {
+        "x": 0.0578,
+        "y": 0.5363,
+        "width": 0.4256,
+        "height": 0.0575
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La majeure partie de l’interview a été préenregistrée pour ne pas perturber les horaires de sommeil de YAGOO. Kiara a dit qu’elle avait reçu des milliers de questions des spectateurs à poser à YAGOO, et bien qu’elle ne pouvait évidemment pas toutes les poser, elle a essayé de couvrir les plus populaires.",
+      "bbox": {
+        "x": 0.0578,
+        "y": 0.6084,
+        "width": 0.4239,
+        "height": 0.1208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils ont brièvement parlé de sa vie privée et de son travail avant hololive. YAGOO a refusé de révéler son âge, mais a dit que Cover était la deuxième entreprise qu'il avait créée et a aussi dit avoir eu des cours d'allemand à l'université. Kiara a ensuite montré à YAGOO un clip d'une réunion d'holoCouncil dans lequel il réagissait à la création de Sana et des Sanalites, Neighbula. Le clip montrait aussi le moment où Mumei a demandé qui était YAGOO : ce dernier a dit que ce n'était pas grave. Lorsque Baelz est apparue dans le chat, Kiara lui a demandé de s'assurer que Mumei regarde le stream, pour qu’elle apprenne enfin à connaître son PDG.",
+      "bbox": {
+        "x": 0.0578,
+        "y": 0.7411,
+        "width": 0.4278,
+        "height": 0.2423
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Poursuivant sur d’autres sujets, Kiara et YAGOO ont discuté des origines et de l’avenir d’hololive, en mentionnant des projets tels qu’hololive Alternative, hololive ERROR, et l’événement hololive 3rd Fes. N’hésitez pas à regarder le stream pour en savoir plus !",
+      "bbox": {
+        "x": 0.5233,
+        "y": 0.5363,
+        "width": 0.4122,
+        "height": 0.1084
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’y avait pas de Speed Round dans cet épisode, alors Kiara a montré une compilation des Speed Round d’Holotalk à la fin du stream, résumant les réponses de ses précédents invités. Vous pouvez désormais facilement vous remémorer la couleur des sous-vêtements de chacune des filles, ainsi que le fait que Subaru, Aki et Haachama ont admis dormir nues.",
+      "bbox": {
+        "x": 0.5233,
+        "y": 0.6628,
+        "width": 0.4122,
+        "height": 0.137
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant toute la durée de l’interview, Kiara a affiché un compteur de « sou desune » (« effectivement/n’est-ce pas »). Quelqu’un a aussi noté toutes les fois où la célèbre phrase de YAGOO a été prononcée et les a répertoriées dans les commentaires de la vidéo, en comptant également les « sou desune » de Kiara. Voici le score final :",
+      "bbox": {
+        "x": 0.5233,
+        "y": 0.821,
+        "width": 0.4189,
+        "height": 0.1215
+      }
+    },
+    {
+      "type": "other",
+      "text": "YAGOO: 58.5 - Kiara 11",
+      "bbox": {
+        "x": 0.5239,
+        "y": 0.968,
+        "width": 0.2461,
+        "height": 0.0116
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cd52pyf6x8f81.gif",
+    "gifFrame": 89,
+    "confidence": 93
+  }
+}

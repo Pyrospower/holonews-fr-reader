@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projets de fans",
+      "bbox": {
+        "x": 0.0413,
+        "y": 0.0408,
+        "width": 0.295,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les fans du Discord Holostars Fan Server ont fait un album virtuel sur yosetti.com, rempli de vœux d'anniversaire et de messages de remerciement pour Shinove, le manager des holostars, qui travaille dur et a supporté les garçons et les fans tout au long de l’année.",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.0877,
+        "width": 0.4438,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "other",
+      "text": "@dumplingart",
+      "bbox": {
+        "x": 0.81,
+        "y": 0.0825,
+        "width": 0.139,
+        "height": 0.017
+      }
+    },
+    {
+      "type": "heading",
+      "text": "LET’S PLAY",
+      "bbox": {
+        "x": 0.224,
+        "y": 0.223,
+        "width": 0.341,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "other",
+      "text": "LET’S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.8388,
+        "y": 0.2227,
+        "width": 0.0944,
+        "height": 0.0308
+      }
+    },
+    {
+      "type": "other",
+      "text": "Hidden through Time | Shadowverse | The Radio Station\nGrand Theft Auto V | Shadow Corridor | Dragon Quest VIII: Journey of the Cursed King\nLittle Nightmares | Ultimate Fishing Simulator | Super Mario 64\nNew Super Mario Bros. U Deluxe | Moonlighter | Monster Hunter World\nSaGa Frontier Remastered | ERROR | Dragon Quest V: Hand of the Heavenly Bride\nWarioWare: Get It Together! | Minecraft Disney DLC | PHOGS!\nBig Brain Academy: Brain vs. Brain | Left 4 Dead 2 | Overcooked! 2\nARK Lost Island",
+      "bbox": {
+        "x": 0.0375,
+        "y": 0.2786,
+        "width": 0.9225,
+        "height": 0.5729
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/djp3zei6i8e81.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

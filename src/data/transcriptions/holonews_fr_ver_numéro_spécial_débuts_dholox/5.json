@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Takane Lui",
+      "bbox": {
+        "x": 0.2822,
+        "y": 0.0536,
+        "width": 0.1133,
+        "height": 0.0123
+      }
+    },
+    {
+      "type": "other",
+      "text": "Birthday 6/11\nHeight 161 cm",
+      "bbox": {
+        "x": 0.7422,
+        "y": 0.0247,
+        "width": 0.2033,
+        "height": 0.0679
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Takane Lui",
+      "bbox": {
+        "x": 0.6289,
+        "y": 0.3627,
+        "width": 0.1722,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "other",
+      "text": "Triste",
+      "bbox": {
+        "x": 0.7778,
+        "y": 0.4784,
+        "width": 0.0978,
+        "height": 0.0193
+      }
+    },
+    {
+      "type": "other",
+      "text": "Enthousiaste",
+      "bbox": {
+        "x": 0.4822,
+        "y": 0.6435,
+        "width": 0.2211,
+        "height": 0.0185
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/e2zrxeq8kc481.gif",
+    "gifFrame": 92,
+    "confidence": 69
+  }
+}

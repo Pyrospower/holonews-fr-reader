@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.0386,
+        "width": 0.3525,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.212,
+        "width": 0.165,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran a fait deux collabs sur des jeux d'horreur cette semaine avec des VTubers en dehors d'holoPro. La première était sur Phasmophobia avec le VTuber indépendant Utai Meika, et Ange et Belmond de Nijisanji. Ange et Belmond étant des novices sur ce jeu, Aruran a pris le rôle de professeur et leur a montré les ficelles du métier. L’autre collab était sur Ghost Hunter Corp avec Kazami Kuku d'Animare et Naruse Naru de Nijisanji, et Hira, un VTuber indépendant. Cette fois, ils ont eu du mal avec l'anglais puisqu'ils ont dû lire à haute voix des phrases anglaises non traduites pour exorciser les fantômes. Les deux streams étaient remplis de cris, de terreur et de rires. Ne manquez pas de les regarder !",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2513,
+        "width": 0.4188,
+        "height": 0.2808
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.666,
+        "width": 0.112,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suite à la proposition de ses fans, Astel a décidé de jouer à Big Brain Academy pour mesurer la taille de son cerveau. Il est intéressant de noter que ce jeu a également fait faire de nombreux bruits amusants et mignons à Astel. Il a montré qu'il avait un gros cerveau en obtenant un score de 3353 à son premier essai : c'est le nouveau record de tout holoPro montré en stream.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.7066,
+        "width": 0.4175,
+        "height": 0.1567
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel semble désormais vivre à New York puisqu'il a tweeté « bonjour » à 21:00 JST, suscitant l'interrogation de son ami Pakael.",
+      "bbox": {
+        "x": 0.0475,
+        "y": 0.8937,
+        "width": 0.3988,
+        "height": 0.0655
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.212,
+        "width": 0.128,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Izuru a joué à Valorant pour la première fois lors d’un stream. Bien qu’il a dit avoir joué hors stream une fois, c’est encore un novice. Cela a donné lieu à quelques moments amusants, comme lorsqu'Izuru a essayé de faucher ses ennemis à l'aide d'une mitraillette après avoir vu un de ses coéquipiers le faire. Malheureusement, il s'est fait rapidement sniper sans pouvoir tuer personne. Au moment de la rédaction de cet article, Izuru a rejoué à Valorant en stream une seconde fois.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.2513,
+        "width": 0.4275,
+        "height": 0.2049
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.666,
+        "width": 0.164,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roberu a invité Kagura Meya au BAR ROBEL cette semaine, et il a dû esquiver toutes ces expressions douteuses, tel un expert. Dès le début, Mea a dit des phrases coquines, allant même jusqu'à dire qu'elle s'est réveillée dans le lit de Roberu. A part à la fin où Mea a refusé de laisser Roberu partir, il a réussi tant bien que mal à esquiver tout cela.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.7066,
+        "width": 0.4138,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il existe désormais un compte Reddit holostars officiel ! Il y a pour l’instant un post sur Reddit et sa création a également été annoncée sur Twitter.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.8937,
+        "width": 0.4119,
+        "height": 0.0686
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/dya8inf6x8f81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

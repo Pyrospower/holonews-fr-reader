@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "MISC",
+      "bbox": {
+        "x": 0.1881,
+        "y": 0.0282,
+        "width": 0.1563,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rapidement devenu une tradition annuelle, plusieurs membres de hololive se sont réunis sous la bannière de Mio pour un karaoké de Noël en relais ! 27 membres ont chacune chanté pendant 20 minutes sur leurs chaînes respectives, faisant un total de 9 heures de karaoké pour le plaisir des fans d’hololive. Vous trouverez une playlist dans les sources avec les streams de chaque membre!",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2018,
+        "width": 0.4219,
+        "height": 0.1519
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les fans d’hololive ont eu leur dose de chansons cette semaine! À travers toutes les branches d’hololive et d’holostars, un nombre impressionnant de 19 chansons et reprises sont sorties et annoncés! Si cela vous intéresse, vous pouvez jeter un œil à la section dédiée aux sorties musicales de la page 17 !",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.2027,
+        "width": 0.4225,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour fêter Noël, la chaîne officiel d’hololive ont organisé un stream « Sapin de Noël » avec la vidéo en direct d’un sapin de Noël décoré de plusieurs membres d’hololive, en direct pendant quelques heures de la journée. À certains moments de la journée, un spectacle de lumière était diffusé sur le sapin avec une playlist des chansons des membres d’hololive en fond. Ces streams sont maintenant non listés mais sont tout de même disponibles à travers nos liens à la fin de ce numéro.",
+      "bbox": {
+        "x": 0.0513,
+        "y": 0.4887,
+        "width": 0.8956,
+        "height": 0.1029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le troisième jour du stream, un autre stream fut diffusé qui a révélé que tout ce temps, un membre du personnel d’hololive était à l’origine de l’alimentation du sapin ! Ayant fait du vélo pendant trois jours, ce membre était bien trop fatigué, ce qui fut le moment parfait pour l’apparition surprise de YAGOO pour sauver la mise ! Le seul et unique PDG de Cover, encouragé par tout le monde, était aux manettes et à pu redonner vie à l’arbre et sauver Noël !",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.6102,
+        "width": 0.8969,
+        "height": 0.0994
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour fêter la saison de Noël avec leur Tenchou, certains poulets de KFP se sont réunis ensemble pour donner à Tenchou et à tout le reste de KFP quelques cadeaux:",
+      "bbox": {
+        "x": 0.0481,
+        "y": 0.7383,
+        "width": 0.4125,
+        "height": 0.0955
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 4 parodies de chansons de Noël\n• Une vidéo de célébration Minecraft dans une ville sur le thème de Noël\n• Une collection de cookies fait par KFP\n• La lecture d’une histoire originale de Noël",
+      "bbox": {
+        "x": 0.0681,
+        "y": 0.8442,
+        "width": 0.345,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "other",
+      "text": "Art: SoraNana / commissioned by KFP",
+      "bbox": {
+        "x": 0.9425,
+        "y": 0.7639,
+        "width": 0.0181,
+        "height": 0.191
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cesdba5zeab81.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

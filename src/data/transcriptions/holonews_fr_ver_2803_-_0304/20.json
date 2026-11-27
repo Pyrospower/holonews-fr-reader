@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 20,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Credits",
+      "bbox": {
+        "x": 0.4275,
+        "y": 0.0256,
+        "width": 0.145,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi's Nose",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.1914,
+        "width": 0.1613,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Iofi a fait tout un stream pour nous exhiber le nez de son model 3D. Mais, elle a fini par nous montrer tout son modèle 3D pendant un moment, ce qui a causé la hausse du taux de diabète chez les spectateurs.",
+      "bbox": {
+        "x": 0.07,
+        "y": 0.2274,
+        "width": 0.3881,
+        "height": 0.0681
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Smol ID",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.4457,
+        "width": 0.1275,
+        "height": 0.0191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant une collab discussion, Reine, Ollie, et Anya ont annoncé qu’une dangereuse « créature » ( qui peut être décrite comme une Smol Reine ) a été signalée et que d'autres créatures similaires pourraient être en approche aussi. La théorie la plus probable semble menée à un reveal de model 3D chibi pour HoloRo, et peut pas juste pour elle.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.4822,
+        "width": 0.3875,
+        "height": 0.1306
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Milestones",
+      "bbox": {
+        "x": 0.6169,
+        "y": 0.072,
+        "width": 0.2331,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Irys 800k\nIzuru 175k\nWatame 1,2M",
+      "bbox": {
+        "x": 0.6006,
+        "y": 0.1428,
+        "width": 0.1113,
+        "height": 0.1194
+      }
+    },
+    {
+      "type": "other",
+      "text": "Fauna 500k\nSuisei 1,4M\nTowa 1M",
+      "bbox": {
+        "x": 0.8319,
+        "y": 0.1428,
+        "width": 0.0956,
+        "height": 0.1194
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Evénement à venir",
+      "bbox": {
+        "x": 0.5456,
+        "y": 0.3733,
+        "width": 0.3781,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 6 avril : 3e anniversaire des débuts d’Okayu\n• 10 avril : 2e anniversaire des débuts de Risu\n• 11 avril : 2e anniversaire des débuts de Moona\n• 12 avril : 2e anniversaire des débuts d’Iofi",
+      "bbox": {
+        "x": 0.5644,
+        "y": 0.4379,
+        "width": 0.3119,
+        "height": 0.1749
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.6949,
+        "width": 0.5094,
+        "height": 0.1124
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.8242,
+        "width": 0.2537,
+        "height": 0.0373
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ytwwazs6qws81.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STATS ET NOUVELLES SORTIES",
+      "bbox": {
+        "x": 0.5188,
+        "y": 0.0603,
+        "width": 0.4319,
+        "height": 0.0443
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE | ORIGINAL | NOUVEAU",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.1345,
+        "width": 0.3956,
+        "height": 0.0109
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/21\n[Towa] King: 3M\n[Sora] Hot Limit: 750K\n[Moona] High Tide: 500K\n[Babudon] Mrs Pumpkin Kokkei Yume: 75K\n[Calliope/Milky Queen] Usseewa: 2M\n[Matsuri] Cinderella: 500K\n[Flare] RGB: 100K",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.0401,
+        "width": 0.4385,
+        "height": 0.1175
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/22\n[Choco] Secret Class: 100K\n[Haachama] Red Heart: 7M\n[Baelz] Hontou No Oto: 500K\n[Aqua] Dadadada Tenshi: 15M\n[Kiara/Ame] Dreamin Chuchu: 750K\n[Ayame/Fubuki/Mio] Onikemodance: 1M\n[Miyabi] Watashi Aidoru Sengen: 75K\n[Suisei/Sora] Hanamuke No Tori: 2M\n[Fubuki/Mirei/Tamaki/Dola/Kohaku] Super☆Affection: 500K",
+      "bbox": {
+        "x": 0.5115,
+        "y": 0.1896,
+        "width": 0.4346,
+        "height": 0.1629
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/23\n[Polka] Animal (Cover): 100K\n[Okayu] Detabare Neko: 100K\n[Oga] Silent Night Requiem: 25K\n[Suisei] Melty Land Nightmare: 250K\n[Izuru/Astel] Juggernaut: 500K",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.1736,
+        "width": 0.4385,
+        "height": 0.0788
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/24\n[Chloe] Animal: 1M\n[Koyori] Kokoro Yohou: 250K\n[Calliope] Reaper Ga Rapper?: 3M\n[Fubuki/Marine] Happiness World: 100K\n[Council] Hikaru Nara (Cover): 250K\n[AZKi] Hitokuchi Chodai: 75K",
+      "bbox": {
+        "x": 0.5115,
+        "y": 0.3698,
+        "width": 0.4346,
+        "height": 0.0988
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/25\n[Calli/Gura] Q: 6M\n[Izuru/Astel/Meika] Kaiju No Hanauta: 100K\n[Polka/Miko/Aqua/Flare/Watame/Towa] Adabana Necromancy (Live): 250K",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.271,
+        "width": 0.4385,
+        "height": 0.0654
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/26\n[Kanata] Fragile (Cover): 250K\n[Suisei/Natsushiro] Bluer Than Indigo: 25K",
+      "bbox": {
+        "x": 0.5115,
+        "y": 0.4833,
+        "width": 0.4346,
+        "height": 0.0347
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "02/27\n[Rushia] Omoikou: 500K\n[Reine] Love Me Love Me: 50K\n[La+] Bitter Choco Decoration: 1M\n[Temma] 1.15man Kilo No Film: 100K\n[Rikka] Yoru Naderu Menou (Cover): 50K\n[Chloe] Jinsei Reset Button Pochi w: 250K\n[HoloEN 1/2/Hope] Ochame Kinou: 5M\n[IRyS] See The World: 75K\n[Watame] Twinkle: 100K\n[Suisei] Kakusei: 6M",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3525,
+        "width": 0.4385,
+        "height": 0.1656
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nReine\nLOVE ME\nLOVE ME",
+      "bbox": {
+        "x": 0.0404,
+        "y": 0.5447,
+        "width": 0.3058,
+        "height": 0.1108
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nBabaCorn\nHAPPINESS\nWORLD",
+      "bbox": {
+        "x": 0.3462,
+        "y": 0.5447,
+        "width": 0.3077,
+        "height": 0.1108
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nChloe\nJINSEI RESET BUTTON\nPOCHII W",
+      "bbox": {
+        "x": 0.6538,
+        "y": 0.5447,
+        "width": 0.3077,
+        "height": 0.1108
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nIRyS\nSEE\nTHE WORLD",
+      "bbox": {
+        "x": 0.0404,
+        "y": 0.6555,
+        "width": 0.3058,
+        "height": 0.1108
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nSuisei & Natsushiro Takaaki\nBLUER THAN\nINDIGO",
+      "bbox": {
+        "x": 0.3462,
+        "y": 0.6555,
+        "width": 0.3077,
+        "height": 0.1108
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nOkayu\nDETABARE\nNEKO",
+      "bbox": {
+        "x": 0.6538,
+        "y": 0.6555,
+        "width": 0.3077,
+        "height": 0.1108
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nIzuru\nGAITOU GA\nSABITA MAMA",
+      "bbox": {
+        "x": 0.0404,
+        "y": 0.7664,
+        "width": 0.3058,
+        "height": 0.1108
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON\nORIGINAL\nShien\nBEGINNING",
+      "bbox": {
+        "x": 0.3462,
+        "y": 0.7664,
+        "width": 0.3077,
+        "height": 0.1108
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nRikka\nYORU NADERU\nMENOU",
+      "bbox": {
+        "x": 0.6538,
+        "y": 0.7664,
+        "width": 0.3077,
+        "height": 0.1108
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nLui\nMIRA",
+      "bbox": {
+        "x": 0.0404,
+        "y": 0.8772,
+        "width": 0.2288,
+        "height": 0.0895
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nKanata\nFRAGILE",
+      "bbox": {
+        "x": 0.2692,
+        "y": 0.8772,
+        "width": 0.2308,
+        "height": 0.0895
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nPolka\nANIMAL",
+      "bbox": {
+        "x": 0.5,
+        "y": 0.8772,
+        "width": 0.2308,
+        "height": 0.0895
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nHoloCouncil\nHIKARU\nNARA",
+      "bbox": {
+        "x": 0.7308,
+        "y": 0.8772,
+        "width": 0.2308,
+        "height": 0.0895
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/7rllf92ae0m81.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

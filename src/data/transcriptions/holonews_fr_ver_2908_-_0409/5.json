@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "hololive Summer 2022 Climax Story Live",
+      "bbox": {
+        "x": 0.0856,
+        "y": 0.0548,
+        "width": 0.8333,
+        "height": 0.0656
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "C'est la fin de l'été ! hololive production a célébré la fin d'hololive Summer 2022 avec un concert spécial, Climax Story Live.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.1377,
+        "width": 0.3756,
+        "height": 0.0621
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Tous les membres d'holoJP étaient présents dans des tenues d'été, il a même eu des apparitions spéciales en 3D de membres d'joloEN. Ina et Gura ont chanté avec le reste d'UMISEA et leur nouveau membre, Chloe. Les musiques étaient originales et énergiques, mais il y a aussi eu des chansons plus apaisantes. Vers la fin, elles ont enfilé des yukata et ont interprété une nouvelle chanson originale, « Sparklers ».",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2222,
+        "width": 0.38,
+        "height": 0.1836
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Répertoire :",
+      "bbox": {
+        "x": 0.1267,
+        "y": 0.3796,
+        "width": 0.1433,
+        "height": 0.017
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« Tonde K! hololive summer » w/ Sora, Marine, Watame, Lamy, Koyori\n« Kirameki Rider » w/ Robocosan, Okayu, Noel\n« Dreaming Days » w/ Shion, Choco, Kanata, Luna\n« BLUE CLAPPER » w/ NePoLaBo\n« Yumemiru Sora He » w/ Fubuki, Matsuri, Haato, Aki, Mel\n« AsuiroClearSky » w/ Miko, Flare, Lui\n« Domination! All the World Is an Ocean » as UMISEA\n« Prism Melody » w/ AZKi, Pekora, Watame\n« hololive ondo » w/ Subaru, Korone, Towa, Laplus\n« Sparklers » w/ Suisei, Mio, Ayame, Iroha",
+      "bbox": {
+        "x": 0.0922,
+        "y": 0.4275,
+        "width": 0.3778,
+        "height": 0.4861
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Produits dérivés :",
+      "bbox": {
+        "x": 0.5622,
+        "y": 0.6227,
+        "width": 0.2167,
+        "height": 0.0185
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des acryliques stands 3D, version Shiny Wave\nUne plaque en acrylique hololive Summer 2022\nDes badges version Shiny Wave (aléatoire)\nUn mini album hololive Summer 2022 (aléatoire)",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.6644,
+        "width": 0.3756,
+        "height": 0.1651
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La révélation surprise était une nouvelle interprétation de la chanson iconique d'hololive, la version 2022 de Shiny Smily Story, avec l'ensemble des trente-cinq membres de holoJP.",
+      "bbox": {
+        "x": 0.5372,
+        "y": 0.8468,
+        "width": 0.3811,
+        "height": 0.0718
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/whfafsbjaqn91.gif",
+    "gifFrame": 89,
+    "confidence": 92
+  }
+}

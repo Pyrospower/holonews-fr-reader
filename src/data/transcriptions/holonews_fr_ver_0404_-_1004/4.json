@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HoloID",
+      "bbox": {
+        "x": 0.063,
+        "y": 0.052,
+        "width": 0.562,
+        "height": 0.094
+      }
+    },
+    {
+      "type": "other",
+      "text": "Happy 2nd Anniversary!\n#holoID2mpengan",
+      "bbox": {
+        "x": 0.057,
+        "y": 0.209,
+        "width": 0.285,
+        "height": 0.134
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer le deuxième anniversaire de l'ouverture d'holoID, une vidéo commémorative a été publiée sur la chaîne officielle. Dans la première partie, Ollie et Reine, avec les commentaires de Kobo, ont parlé du segment indonésien de la SUPER EXPO, les jeux, les zones à thème, les menus, les mannequins avec leurs tenues et bien plus encore.",
+      "bbox": {
+        "x": 0.0578,
+        "y": 0.4379,
+        "width": 0.2744,
+        "height": 0.2242
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette séquence a été suivie d'un court clip des performances de Risu, Iofi et Moona au Holofes, avant qu'Ollie et Reine ne retournent au « studio ».",
+      "bbox": {
+        "x": 0.0567,
+        "y": 0.6709,
+        "width": 0.2828,
+        "height": 0.0918
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles ont été rejoints par Risu, et ensemble, elles ont montré plusieurs vidéos et croquis des concurrents des deux premières générations, avant que Zeta, l'espionne, n'infiltre les ondes avec ses reportages vidéo sur la troisième génération récemment lancée.",
+      "bbox": {
+        "x": 0.3583,
+        "y": 0.4414,
+        "width": 0.28,
+        "height": 0.1566
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En montrant la vidéo de félicitations de Yagoo, Elles ont annoncé une collaboration avec l'éditeur indonésien de bandes dessinées et de mangas m&C ! et ont dévoilé des produits dérivés commémoratifs : des figurines en acrylique représentant les membres des deux premières générations et des T-shirts sur le thème d'hololive.",
+      "bbox": {
+        "x": 0.3583,
+        "y": 0.4414,
+        "width": 0.5628,
+        "height": 0.3221
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La vidéo s'est terminée par l'annonce du prochain concours de coloriage IROfi soutenu par Clip Studio Paint, pour lequel Iofi prépare un linart.",
+      "bbox": {
+        "x": 0.6594,
+        "y": 0.5332,
+        "width": 0.2728,
+        "height": 0.0949
+      }
+    },
+    {
+      "type": "other",
+      "text": "IROfi!\nColoring Contest\nDengan Tema :\nholoID2mpengan\nPeriode :\n18 April 2022 - 9 Mei 2022",
+      "bbox": {
+        "x": 0.058,
+        "y": 0.803,
+        "width": 0.205,
+        "height": 0.128
+      }
+    },
+    {
+      "type": "other",
+      "text": "Collabration Plan in Progress!",
+      "bbox": {
+        "x": 0.555,
+        "y": 0.893,
+        "width": 0.369,
+        "height": 0.021
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2lhpqm59qau81.gif",
+    "gifFrame": 101,
+    "confidence": 91
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.2606,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran & Matsuri",
+      "bbox": {
+        "x": 0.192,
+        "y": 0.179,
+        "width": 0.275,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran a organisé un stream de discussion et de consommation d’alcool avec Matsuri. Les deux ont discuté de sujets intéressants comme la méthode pour briser la glace lors d’une collaboration, leur points de vue sur les relations entre un VTuber et ses fans et de ce qu’ils pensent du bonheur de leur VTuber préféré. Aruran a dit à Matsuri à quel point il avait du respect pour elle en tant qu'aînée et en tant que collègue, et pour une fois, nous avons pu voir Matsuri être innocente.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2231,
+        "width": 0.3869,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.492,
+        "width": 0.08,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Alors qu’il essayait d’atteindre le rang Diamant sur Apex, Astel a perdu la boule car il a perdu 60 points après s’être fait déconnecter d’une partie classée avec Fuma. Il en est devenu fou et a désinstallé le jeu. Ensuite, il a brièvement joué à Golf It en silence à part quelques bruits de coup sur son bureau et des réactions. En essayant de se calmer, il a ouvert et lu quelques marshmallows de ses spectateurs avant de mettre fin au stream.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.5313,
+        "width": 0.3881,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.812,
+        "width": 0.12,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roberu et Kagura Mea ont décidé de jouer à It Takes Two pour leur sixième collab ensemble. Les deux ont terminé le jeu en un stream de 11 heures et 30 minutes à travers deux streams. Le duo a fait de son mieux pour compléter tous les puzzles en bavardant et en s’embrouillant entre eux. Regardez la collaboration entière pour plus de moments amusants et loufoques du duo.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.8529,
+        "width": 0.3875,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.179,
+        "width": 0.12,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran a joué a Fall Guys avec ses spectateurs la veille de l’anniversaire d’HOLOSTARS. Shien et Rikka avaient discrètement participé aux côtés des spectateurs et ont rejoint Aruran en appel vocal plus tard. Aruran a ensuite passé le reste du stream à réaliser la forme d’un cœur et d’une étoile avec ses spectateurs.",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.2218,
+        "width": 0.3919,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.38,
+        "width": 0.09,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque Izuru a préparé ses affaires pour les donner aux déménageurs, ils ont également pris ses vêtements. Il a alors dû dormir dans une pièce vide tout nu pendant trente heures parce qu’il devait laver les vêtements qu’il a portés ce jour-là afin de pouvoir les porter de nouveau pour l'événement d’anniversaire.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.4236,
+        "width": 0.375,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.6992,
+        "width": 0.1138,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roberu a goûté au vegemite pour la première fois en stream après que Bae ait insisté qu’il teste ce trésor de l’Australie pendant le Bar Robel. Roberu était emparé par une envie de vomir directement après avoir ouvert le bocal, racontant que l’odeur lui faisait penser à des chips au goût de sauce de soja. Il a d’abord essayé un peu de vegemite tout seul et s’est mis à crier et tousser. Ensuite, il en a essayé avec du pain et a commencé à crier que c’était délicieux lorsqu’il mangeait. Bae a commenté qu’il avait l’air de souffrir lorsqu’il disait que c’était délicieux. Il en a ensuite essayé avec du beurre et plus tard du beurre et du fromage. A chaque dégustation, Roberu n’arrêtait pas de dire que le vegemite est dangereux mais délicieux. Comme le winning son qu’il est, Roberu a fini son toast.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.7378,
+        "width": 0.3881,
+        "height": 0.2387
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/oiuvl892haa91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Tsunomaki Watame",
+      "bbox": {
+        "x": 0.033,
+        "y": 0.025,
+        "width": 0.5,
+        "height": 0.091
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame est devenue encore plus douce !",
+      "bbox": {
+        "x": 0.0789,
+        "y": 0.7627,
+        "width": 0.3961,
+        "height": 0.0147
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans sa nouvelle tenue décontractée, elle porte maintenant des chaussons en forme de mouton, une veste bleu ciel à froufrous, une robe blanche et un chignon rebondi !",
+      "bbox": {
+        "x": 0.0789,
+        "y": 0.7932,
+        "width": 0.4017,
+        "height": 0.0745
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Avec cette coiffure plus courte, vous pouvez désormais profiter des douces oreilles de Watame aussi !",
+      "bbox": {
+        "x": 0.0789,
+        "y": 0.8873,
+        "width": 0.3633,
+        "height": 0.0424
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sa veste possède une fermeture éclair qu'elle peut ouvrir et fermer, et une capuche dinosaure ! Les yeux du « dinosaure » suit même les mouvements des yeux de Watame et ses expressions, et elle peut bien évidemment se faire « manger » par sa capuche.",
+      "bbox": {
+        "x": 0.5767,
+        "y": 0.5031,
+        "width": 0.375,
+        "height": 0.125
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsqu'elle porte la capuche, elle a également des plaques de dinosaure sur son bras droit.",
+      "bbox": {
+        "x": 0.5767,
+        "y": 0.6435,
+        "width": 0.3528,
+        "height": 0.044
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vers la fin du stream, elle a annoncé de nouveaux produits dérivés pour sa nouvelle tenue et pour fêter le million d'abonnés.",
+      "bbox": {
+        "x": 0.5756,
+        "y": 0.706,
+        "width": 0.3789,
+        "height": 0.0594
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette fois-ci, c'est une peluche « SUPER GRANDE » de 50x39x30 cm qui sera vendue. La peluche est à l'effigie de Watame dans sa nouvelle tenue, et elle possède même sa capuche dinosaure ! Bien sûr, il est tout à fait possible de retirer la capuche.",
+      "bbox": {
+        "x": 0.5761,
+        "y": 0.7836,
+        "width": 0.3761,
+        "height": 0.11
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles sont fabriquées sur commande, mais elles sont vendues jusqu'au 25 avril alors prenez-en une tant qu'il en est encore temps !",
+      "bbox": {
+        "x": 0.5767,
+        "y": 0.909,
+        "width": 0.3528,
+        "height": 0.0621
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/bfq810gnbjr81.gif",
+    "gifFrame": 105,
+    "confidence": 92
+  }
+}

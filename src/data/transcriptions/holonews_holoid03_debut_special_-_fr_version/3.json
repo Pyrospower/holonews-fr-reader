@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_holoid03_debut_special_-_fr_version",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Vestia Zeta",
+      "bbox": {
+        "x": 0.0353,
+        "y": 0.0278,
+        "width": 0.4882,
+        "height": 0.067
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'agent V.7, Vestia Zeta, est la première membre de la 3e génération d'holoID à faire ses débuts. Elle a commencé par déclarer qu'elle n'était pas « sus » et a montré sa tablette contenant les nombreuses informations confidentielles qu’elle a recueillies. Bien qu’elle ne soit pas « sus », il semblerait qu’elle soit un peu maladroite, puisqu’elle a accidentellement laissé ses spectateurs voir ses notes personnelles.",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.122,
+        "width": 0.4813,
+        "height": 0.2352
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hormis l'anglais et l'indonésien, Zeta peut parler plusieurs langues. Elle l'a démontré en parlant japonais et coréen. Après cela, elle a montré une vidéo de sa vie quotidienne en tant qu'agent secret, ce qui a (peut-être) changé l'image que ses spectateurs se faisaient d'elle.",
+      "bbox": {
+        "x": 0.0319,
+        "y": 0.3754,
+        "width": 0.4681,
+        "height": 0.1623
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de ce stream, Zeta a également montré une liste des choses qu'elle aime, et a expliqué à quel point elle appréciait le jazz. Bien entendu, elle a aussi montré la liste de ses « Deezlikes » (ce qu’elle n’aime pas), qui comprend la chaleur, les personnes louches, les légumes, le suspense et le fait d’oublier des choses.",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.6107,
+        "width": 0.915,
+        "height": 0.0894
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme Zeta est un agent secret, il n’est pas surprenant qu’elle aime les FPS, comme APEX, Valorant, etc. Cela lui rappelle l'époque de ses études à l'académie des espions. Elle a même fait d'obtenir le rang de maître dans APEX l'un de ses objectifs futurs !",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.7326,
+        "width": 0.9319,
+        "height": 0.0859
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a terminé le stream en faisant la promotion de sa première reprise, « Zankyou Sankya », en diffusant une bande-annonce de celle-ci. Toutes les illustrations du clip ont été réalisées par Zeta elle-même. Allez voir ça si vous ne l'avez pas encore fait !",
+      "bbox": {
+        "x": 0.0338,
+        "y": 0.8537,
+        "width": 0.9131,
+        "height": 0.0655
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "N’oubliez pas d’aller voir notre maladroite (et absolument pas suspecte) agent secret !",
+      "bbox": {
+        "x": 0.0344,
+        "y": 0.9514,
+        "width": 0.9263,
+        "height": 0.0161
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/qygvcsayvis81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

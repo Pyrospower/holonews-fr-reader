@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Divers",
+      "bbox": {
+        "x": 0.4369,
+        "y": 0.0169,
+        "width": 0.1263,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Zeta & Ina",
+      "bbox": {
+        "x": 0.1723,
+        "y": 0.4103,
+        "width": 0.1615,
+        "height": 0.0224
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina et Zeta ont fait un stream de dessin calme, durant lequel elles ont discuté de divers sujets. Voici quelques révélations tirées de cette discussion : Ina préfère le café noir fort alors que Zeta aime le café au lait (comme on peut s'y attendre de la part d'un chat), le personnage préféré de Zeta dans One Piece est Big Mom, Ina est capable de manger du curry Coco Ichibanya de niveau 10 sans transpirer et Zeta a déjà goûté de la cervelle de vache. Elles ont dessiné leurs mascottes en maillot de bain, et Ina a fait un adorable dessin de Zeta tandis que cette dernière lui a rendu la pareille en dessinant le dos d'Ina. D’ailleurs, Ina a également réussi à obtenir une confession inattendue de Zeta, qui ne voulait pas la laisser partir. Les Takodachis ont accepté et ont vendu leur oshi, disant à Zeta qu'elle pouvait avoir Ina, à condition d’obtenir en échange « une douzaine de cookies ». On dirait qu’ils vont bientôt se faire taper.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.4497,
+        "width": 0.3869,
+        "height": 0.2595
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holoERROR",
+      "bbox": {
+        "x": 0.1692,
+        "y": 0.86,
+        "width": 0.2154,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme annoncé après le dernier chapitre de la série 2D hololiveERROR, le jeu d'horreur officiel du projet, qui était disponible sous forme de démo depuis plusieurs mois, est désormais terminé. Le jeu est sorti le 18 juillet.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.9015,
+        "width": 0.3825,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.6354,
+        "y": 0.2479,
+        "width": 0.0815,
+        "height": 0.0214
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a fait équipe avec Tempplex et dtto lors de la TZ CUP de cette année. C'était sa toute première participation à un tournoi Apex en tant que joueuse. Elle a joué Loba, soutenant ses coéquipiers bien qu'elle ne soit que rang Or. Ils se sont classés 10e au premier tour avec deux kills, 3e au deuxième tour avec treize kills, et 6e au dernier tour avec quatre kills. Elle a versé quelques larmes de frustration après avoir mal joué au dernier tour, mais elle a quand même vécu une expérience formidable et précieuse. Leur équipe s'est classée troisième au classement général du tournoi, et Ollie et dtto ont même remporté une victoire lors d'une partie classique juste après.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.2878,
+        "width": 0.3775,
+        "height": 0.1953
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Omegaα",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.6007,
+        "width": 0.1338,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Omegaα, un membre du staff d’hololive English, a fait son premier tweet en quatre mois ! Sa dernière activité sur Twitter était un retweet de l'annonce de l'audition masculine d'holoEN en mars. Omegaα a fait son retour avec une page de manga, ainsi que le hashtag #TEMPUSManga, lié à la prochaine génération « holoTEMPUS ».",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.638,
+        "width": 0.3894,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona & Kaela",
+      "bbox": {
+        "x": 0.6456,
+        "y": 0.8537,
+        "width": 0.2319,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Moona et Kaela sont passées en mode PNJ et ont diffusé plus de 10 heures de Rust. Elles n'avaient jamais joué au jeu avant le stream et ont donc décidé d'apprendre ensemble. À la fin, elles avaient créé un bâtiment avec de nombreux raffinements et qui était autosuffisant.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.8924,
+        "width": 0.3981,
+        "height": 0.0803
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/m4x6l765sqd91.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

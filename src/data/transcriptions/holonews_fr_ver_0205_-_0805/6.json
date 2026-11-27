@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0205_-_0805",
+  "page": 6,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 1",
+      "bbox": {
+        "x": 0.443,
+        "y": 0.017,
+        "width": 0.115,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.1768,
+        "width": 0.1273,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuri voulait un animal de compagnie depuis l'année dernière et elle en a enfin un. Lors d'un récent stream karaoké, Matsuri a dit qu'elle a adopté un chat appelé Inochi-chan. Cette dernière a deux mois, et elle n'a fait que miauler lors de son introduction.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2179,
+        "width": 0.3806,
+        "height": 0.0773
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.6327,
+        "y": 0.1806,
+        "width": 0.1109,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki a fait un stream le matin lors de la Golden Week, durant lequel elle a dessiné plusieurs membres d’hololive et des memes en lien avec ces derniers.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.2183,
+        "width": 0.365,
+        "height": 0.0503
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 2",
+      "bbox": {
+        "x": 0.4418,
+        "y": 0.3535,
+        "width": 0.1182,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.5143,
+        "width": 0.1131,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru est allée voir le nouveau film Doctor Strange en avant-première et a posté sur Twitter une photo d'elle devant le poster. Elle a passé un bon moment.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.5543,
+        "width": 0.3888,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.1673,
+        "y": 0.7525,
+        "width": 0.1236,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a parlé à Towa récemment et a été invitée chez elle pour rencontrer sa mère. Subaru a été très secouée par cette invitation, car cela ressemblait à une demande en mariage ! Même s'il ne s'agissait pas d'une demande en mariage de la part de Towa, Subaru a tout de même déclaré qu'elle était ravie de rencontrer sa mère. Attendez-vous à ce que leur cérémonie de « mariage » ait lieu en juin !",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.7943,
+        "width": 0.38,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ayame",
+      "bbox": {
+        "x": 0.6369,
+        "y": 0.5161,
+        "width": 0.1056,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ayame a dit sur Twitter qu'elle était rentrée chez elle pour s'occuper d'un proche et qu'elle ne pouvait pas participer aux événements holoGGW. Towa l'a ensuite remplacée.",
+      "bbox": {
+        "x": 0.5406,
+        "y": 0.5538,
+        "width": 0.3831,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.6345,
+        "y": 0.7525,
+        "width": 0.1055,
+        "height": 0.0303
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco et Ui-mama ont fait une collab la semaine dernière ! Parmi les moments mémorables du stream, on peut citer l'imitation de Doraemon par Choco, l'affirmation par Ui-mama qu'elle était la chose la plus célèbre de la préfecture de Mie, et la parfaite imitation de l'intro de Haachama par Choco. Ui-mama a même fait une belle imitation du « Shuba shuba shuba » de sa fille.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.7938,
+        "width": 0.3869,
+        "height": 0.1176
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3m9h2wmspg091.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

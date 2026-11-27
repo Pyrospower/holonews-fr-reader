@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projets de fans et divers",
+      "bbox": {
+        "x": 0.2638,
+        "y": 0.0317,
+        "width": 0.4706,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mori's Realm",
+      "bbox": {
+        "x": 0.166,
+        "y": 0.106,
+        "width": 0.205,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour célébrer l’anniversaire de la faucheuse, les Dead Beats ont mis en avant quatre cartes de fan artworks et de messages de célébration.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.1424,
+        "width": 0.3888,
+        "height": 0.0412
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Onigiriyas",
+      "bbox": {
+        "x": 0.632,
+        "y": 0.106,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Des Onigiriyas du monde entier se sont rassemblés sur le serveur Discord « Okayu Fan Discord » et ont créé une oeuvre collaborative regroupant des fanarts et signatures pour célébrer le 3e anniversaire d'Okayu !",
+      "bbox": {
+        "x": 0.5356,
+        "y": 0.1445,
+        "width": 0.3906,
+        "height": 0.0707
+      }
+    },
+    {
+      "type": "other",
+      "text": "MOGU MOGU Okayu",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.341,
+        "width": 0.12,
+        "height": 0.051
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Let's play",
+      "bbox": {
+        "x": 0.4088,
+        "y": 0.4227,
+        "width": 0.1844,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.4266,
+        "width": 0.2094,
+        "height": 0.0152
+      }
+    },
+    {
+      "type": "other",
+      "text": "Ring Fit Adventure\nRune Factory 5\nNieR Replicant ver.1.22474487139...\nPotion Craft\nTO THE MOON\nKeyWe\nVISCERA CLEANUP DETAIL",
+      "bbox": {
+        "x": 0.19,
+        "y": 0.466,
+        "width": 0.263,
+        "height": 0.515
+      }
+    },
+    {
+      "type": "other",
+      "text": "LEAGUE OF LEGENDS Wild Rift\n★ Yakuza 0\nGHOSTWIRE TOKYO\nPAYDAY 2\nTHERE IS NO GAME WRONG DIMENSION\nOVERWATCH\nRAFT",
+      "bbox": {
+        "x": 0.62,
+        "y": 0.466,
+        "width": 0.309,
+        "height": 0.515
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/zaqhfz59qau81.png",
+    "gifFrame": null,
+    "confidence": 87
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 11,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.0499,
+        "width": 0.3525,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.2211,
+        "width": 0.1367,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka a fêté ses 200 000 abonnés avec un karaoké ! À la demande de ses fans, il a chanté « Gira Gira », « Magnet », « God Knows » et d'autres encore. Rikka a également annoncé qu'il allait recevoir d'une guitare 3D et qu'il effectuerait un stream 3D le 12 mars pour fêter l'occasion !",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.2609,
+        "width": 0.415,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rikka a participé à un tournoi APEX personnalisé le 26 février avec les streamers Tanaka-desu et Banchou. L'équipe a joué 4 rounds sérieux, puis 2 autres plus détendus par la suite. Rikka a annoncé qu'il participerait au tournoi APEX de Makio le 4 mars.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.4076,
+        "width": 0.4244,
+        "height": 0.1089
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.6574,
+        "width": 0.1283,
+        "height": 0.0255
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En lisant les Super Chats de sa fête d'anniversaire, Shien a dit qu'il pouvait lire et parler un peu de coréen. Il n'est pas en mesure de comprendre pleinement ce qu'il lit, mais il peut saisir le sens. Il a également précisé qu'il était autodidacte et que sa prononciation et sa grammaire pouvaient donc être médiocres.",
+      "bbox": {
+        "x": 0.0588,
+        "y": 0.7005,
+        "width": 0.4113,
+        "height": 0.1276
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a ensuite montré le cadeau d'anniversaire qu'Oga lui a donné, un Nekoyama animé. Nekoyama peut respirer, cligner des yeux, bâiller, remuer la queue, s'asseoir et se coucher. Il a également dit qu'il était reconnaissant à Oga pour de nombreuses choses, du Nekoyama offert à l'interprétation de « Real Face » ensemble.",
+      "bbox": {
+        "x": 0.0588,
+        "y": 0.8364,
+        "width": 0.4019,
+        "height": 0.1402
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.75,
+        "y": 0.2222,
+        "width": 0.1433,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Izuru, Temma et Roberu ont poursuivi leur voyage à la recherche d'indices pour résoudre les mystères de Raft. Comme d'habitude, ils ont commencé le stream par une introduction très énergique alors qu'ils rassemblaient les objets nécessaires pour explorer une île. Alors qu'ils se séparaient tous, à la recherche d'indices, Izuru a failli mourir après avoir été confronté à un ours. Heureusement, il a battu l'ours et a survécu avec peu de vie. Pendant ce temps, Temma et Roberu se disputaient pour savoir comment activer le levier du pont.",
+      "bbox": {
+        "x": 0.5306,
+        "y": 0.2609,
+        "width": 0.4181,
+        "height": 0.207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir débarqué sur la nouvelle île, Roberu et Izuru ont décidé de jouer à un jeu de rôle romantique. Malheureusement, un requin a tué Temma, ruinant ainsi leur rendez-vous. Après avoir ramené Temma, Izuru a essayé de le poignarder dans son sommeil. Après tout cette histoire, ils ont finalement exploré toute l'île et trouvé de nombreux indices. Alors qu'ils se dirigeaient vers la prochaine île, ils ont découvert que leur prochain stream Raft ensemble serait probablement leur dernier avant la mise à jour du jeu. Ils l'ont tous nié, surtout Izuru, car il adore le jeu.",
+      "bbox": {
+        "x": 0.53,
+        "y": 0.4779,
+        "width": 0.42,
+        "height": 0.2217
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rikka",
+      "bbox": {
+        "x": 0.6317,
+        "y": 0.8218,
+        "width": 0.135,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'émission RiTunes Labo de Rikka est de retour après deux mois. Cette fois, son invitée était la VSinger HACHI ! Ils ont chanté de nombreuses ballades, dans lesquelles HACHI excelle, et ont également parlé de leurs passions et de guitare.",
+      "bbox": {
+        "x": 0.5281,
+        "y": 0.8641,
+        "width": 0.4088,
+        "height": 0.1115
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/mpiwp3n8e0m81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

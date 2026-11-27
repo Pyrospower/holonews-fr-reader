@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.1144,
+        "y": 0.072,
+        "width": 0.3044,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.246,
+        "width": 0.109,
+        "height": 0.021
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En raison d'une défaillance matérielle potentielle, l'ordinateur de Nene a planté pendant son stream sur ARK. Elle a demandé de l'aide sur Twitter. Suivant les conseils qu’elle a reçus, Nene a essayé de mettre à jour ses pilotes graphiques et a vérifié si l’ordinateur ne surchauffait pas, en vain. À l'heure où nous écrivons cet article, elle n'a toujours pas réussi à relancer l'ordinateur et a sollicité l’aide du support technique Botan.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.2847,
+        "width": 0.4225,
+        "height": 0.1471
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Nene a tenté sa chance au défi APEX consistant à faire 1500 de dégâts en une partie. En six parties, son maximum a été de 976, ce qui prouve qu’elle s’améliore !",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.4553,
+        "width": 0.4244,
+        "height": 0.0829
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.161,
+        "y": 0.678,
+        "width": 0.125,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy a travaillé dur sur ARK cette semaine, avec 6 streams totalisant plus de 25h. Elle a pris plaisir à surmonter les défis du jeu, comme apprivoiser Mii-kun et Sacc-chan (ses ptéranodons), se faire attaquer à l'intérieur d'un bâtiment parce qu'un dinosaure a traversé un mur, ou encore tomber dans le piège d'un spectateur, qui lui a dit d'appuyer sur E pendant qu'elle volait. Elle a produit beaucoup de tranquillisants pour apprivoiser d'autres dinosaures à l'avenir.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.717,
+        "width": 0.4225,
+        "height": 0.1923
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.246,
+        "width": 0.136,
+        "height": 0.021
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Botan a interviewé YAGOO, le questionnant à propos du metaverse d’hololive. Il a répondu à diverses questions de Botan ainsi que des employés de Cover, partageant ses idées et sa vision du projet. Pour résumer brièvement, « HoloEarth » est un endroit où tout le monde s'amusera de la même manière, sans tenir compte des milieux d’origine de chacun.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.2847,
+        "width": 0.4225,
+        "height": 0.1398
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En ce qui concerne le lien avec les talents d’hololive, ce sera un endroit similaire à Minecraft, ou à Summer Wars, dans lequel ils pourront être eux-même tout en s'amusant avec leurs fans.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4414,
+        "width": 0.4069,
+        "height": 0.0738
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.677,
+        "width": 0.128,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans l’épisode de La Légende de Polka de cette semaine, Polka a pris des nouvelles de ses collègues d'hololive en les appelant une par une. La première à répondre au téléphone était Botan, qui se préparait à aller chez le dentiste. La deuxième était Lamy, qui regardait Escape Room. Ensuite, c'était Nene, qui cherchait son logo pour poster le clip de sa chanson originale. Elle était suivie de Luna, qui signait ses produits dérivés. Enfin, la dernière à répondre était Rushia, qui fixait le plafond pour se vider l’esprit avant de lancer son stream. Polka et Rushia ont découvert qu'elles avaient plus en commun qu'elles ne le pensaient.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7174,
+        "width": 0.4225,
+        "height": 0.227
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/da0p0hh6i8e81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_3005_-_0506",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3713,
+        "y": 0.0156,
+        "width": 0.26,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fuma",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.173,
+        "width": 0.096,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir terminé sa maison dans un style japonais sur Minecraft la semaine précédente, Fuma a continué en y rajoutant un jardin. Accompagné de Gamma, Fuma a appris beaucoup de choses, comme la physique de l'eau dans Minecraft, la pierre lumineuse et même la plantation de bambous. Au milieu de la construction, Fuma a également reçu l'aide de Rio qui a débarqué dans l'appel alors qu'il venait juste de se réveiller.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.2127,
+        "width": 0.3838,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "heading",
+      "text": "UPROAR!!",
+      "bbox": {
+        "x": 0.1731,
+        "y": 0.4961,
+        "width": 0.1575,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après leur collab sur Overcooked, UPROAR!! a annoncé que leur groupe a maintenant un signe représentatif officiel. Il s'agit de l'emoji « UP ! » sur iOS et Android. Ils ont dit qu'ils sont toujours reconnaissants pour tout l'amour et le soutien qui leur est donné et ils encouragent à utiliser leur signe représentatif à partir de maintenant chaque fois que les fans se réfèrent à eux en tant que groupe.",
+      "bbox": {
+        "x": 0.075,
+        "y": 0.5343,
+        "width": 0.3913,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.789,
+        "width": 0.13,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après leur collaboration sur Nintendo Switch Sports, Gamma a décidé qu'il était temps de dessiner son aîné chevalier, Kishido Temma. Gamma l'a dessiné dans deux streams. Cependant, dans son deuxième stream, Gamma a dessiné Temma trop rayonnant, et sa tablette a gelé et buggué. Gamma a alors posté son dessin presque terminé de Temma sur son Twitter.",
+      "bbox": {
+        "x": 0.075,
+        "y": 0.829,
+        "width": 0.3787,
+        "height": 0.1176
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Uyu",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.173,
+        "width": 0.065,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir terminé sa maison dans un style japonais sur Minecraft la semaine précédente, Fuma a continué en y rajoutant un jardin. Accompagné de Gamma, Fuma a appris beaucoup de choses, comme la physique de l'eau dans Minecraft, la pierre lumineuse et même la plantation de bambous. Au milieu de la construction, Fuma a également reçu l'aide de Rio qui a débarqué dans l'appel alors qu'il venait juste de se réveiller.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.2127,
+        "width": 0.3831,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Temma & UPROAR!!",
+      "bbox": {
+        "x": 0.639,
+        "y": 0.507,
+        "width": 0.305,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Temma a continué sa quête de combattre tout UPROAR!!. Cette semaine, il a défié Rio et Gamma.",
+      "bbox": {
+        "x": 0.5425,
+        "y": 0.5473,
+        "width": 0.385,
+        "height": 0.0369
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a défié Rio sur 51 Worldwide Games. Apparaissant comme « Dark Kishi », Temma a commencé fort. Cependant, Rio n'est pas un ennemi facile à battre, mais avec sa chance, Rio a réussi à gagner la plupart des parties.",
+      "bbox": {
+        "x": 0.5425,
+        "y": 0.5998,
+        "width": 0.39,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Gamma à quant à lui était défié sur Nintendo Switch Sports. Cette fois, avec le nombre de cris qu'ils ont tous les deux poussés, on aurait dit qu'ils communiquaient et se battaient par le biais de cris. Cette fois-ci, notre « Dark Kishi » est arrivé sans pitié et a battu Gamma sans retenue.",
+      "bbox": {
+        "x": 0.5431,
+        "y": 0.6793,
+        "width": 0.3831,
+        "height": 0.0907
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il achèvera ensuite sa quête en défiant Fuma à Mario Kart. Restez à l'écoute !",
+      "bbox": {
+        "x": 0.5431,
+        "y": 0.7856,
+        "width": 0.3756,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aruran",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.867,
+        "width": 0.121,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran a célébré son 1000e jour de streaming depuis ses débuts en faisant un stream d'endurance sur Ring Fit Adventure. Il a dû effectuer l'entraînement de 1000 kcal en RFA et à chaque pause, il a chanté une chanson.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.9067,
+        "width": 0.3819,
+        "height": 0.0668
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lg1g5cgvbt591.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

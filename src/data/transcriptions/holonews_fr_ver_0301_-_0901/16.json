@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 16,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projets de fans",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.0502,
+        "width": 0.2969,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le serveur Discord Hoshiyomi EN a un projet en cours pour célébrer les nombreuses étapes que Suisei a franchies tout au long de sa carrière de VTubeuse. Pour montrer leur reconnaissance, ils tentent de réaliser une animation pour célébrer ses exploits, et font appel à tous les animateurs et illustrateurs intéressés pour aider à ce projet volontaire. Le projet a une date limite indéterminée pour s'adapter à l'emploi du temps chargé de ses participants, mais si tout se passe bien, il pourrait être publié à temps pour le prochain palier d’abonnés de Suisei.",
+      "bbox": {
+        "x": 0.0554,
+        "y": 0.1068,
+        "width": 0.4292,
+        "height": 0.2158
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Toute personne intéressée peut s'inscrire via le formulaire dans les sources. N'hésitez pas à rejoindre le serveur Discord des Hoshiyomi EN si vous avez des questions !",
+      "bbox": {
+        "x": 0.5,
+        "y": 0.2447,
+        "width": 0.4138,
+        "height": 0.078
+      }
+    },
+    {
+      "type": "heading",
+      "text": "LET’S PLAY",
+      "bbox": {
+        "x": 0.1756,
+        "y": 0.3563,
+        "width": 0.4331,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "other",
+      "text": "LET'S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.8385,
+        "y": 0.3547,
+        "width": 0.1015,
+        "height": 0.0331
+      }
+    },
+    {
+      "type": "other",
+      "text": "METAL WOLF CHAOS XD | PLANET ZOO | Ao Oni\nEMILY WANTS TO PLAY | Jump King | YOMAWARI THE LONG NIGHT COLLECTION\n“DEATHLOOP” | Phoenix Wright Ace Attorney TRILOGY | ARAGAMI 2\nPHASMOPHOBIA | MASAGORO | HATSUNE MIKU COLORFUL STAGE!\nUNO | WORMS W.M.D | ERROR",
+      "bbox": {
+        "x": 0.0385,
+        "y": 0.4135,
+        "width": 0.9215,
+        "height": 0.3419
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/691e766kevc81.png",
+    "gifFrame": null,
+    "confidence": 78
+  }
+}

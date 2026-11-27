@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 11,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOX",
+      "bbox": {
+        "x": 0.1632,
+        "y": 0.0337,
+        "width": 0.2103,
+        "height": 0.0337
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.1574,
+        "y": 0.2094,
+        "width": 0.1618,
+        "height": 0.0317
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 6 février, Koyori a publié un sondage intitulé « Sondage sur le genre de femmes populaires chez les fans d’hololive ». Comme le titre le suggère, Koyori souhaite découvrir quel type de femme était populaire auprès des fans d'Hololive grâce à ce sondage. Une fois l'enquête terminée, Koyori a montré les résultats le 14 février.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2522,
+        "width": 0.4256,
+        "height": 0.1146
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "D’après son sondage, le type de femme le plus populaire auprès des fans d'hololive est une femme correcte, aux cheveux noirs raides et à la personnalité héroïque. Idéalement, elle serait habillée d'un chemisier, un bas long, de collants noirs, et aurait un joli maquillage. La « femme idéale des fans d'hololive » a également été dessinée par Amimi-sensei et Koyori a montré cette illustration sur son stream. Elle a clôturé ce dernier avec la sortie de sa quatrième reprise, « Heart Forecast ».",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.385,
+        "width": 0.4244,
+        "height": 0.1619
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori s'est mise au défi de donner le nom et l'emplacement des 47 préfectures du Japon. Si elle obtenait un score parfait, elle organiserait une collab ASMR dans un bain avec Noel. Malgré quelques doutes, Koyori a fait un sans fautes. Plus tard, Noel l'a appelée pour la féliciter. La date de la collab ASMR sera annoncée prochainement.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.5686,
+        "width": 0.4281,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori",
+      "bbox": {
+        "x": 0.1588,
+        "y": 0.8253,
+        "width": 0.1618,
+        "height": 0.0327
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Koyori a invité Suisei, Subaru, Okayu et Lamy pour une partie de Loups-Garous. Le hashtag de la collab était #holothemewerewolfgame, cependant, leur phrase de fin de stream, « otsuyagoo », était en tendances au Japon, à la grande surprise de Koyori.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.8702,
+        "width": 0.4244,
+        "height": 0.0881
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lui & Koyori",
+      "bbox": {
+        "x": 0.6647,
+        "y": 0.2063,
+        "width": 0.2853,
+        "height": 0.0327
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les grandes sœurs d'holoX se sont à nouveau réunies pour un stream, cette fois-ci sur ARK. Le duo espérait apprivoiser une mante religieuse rose chacune. Koyori, par miracle, a réussi à en attraper une avec seulement une tenue de chasse et sans insecticide. La chance n'était pas de leur côté lorsqu'elles ont tenté d'en attraper une deuxième : le piège qu'elles ont posé à fait buguer l'insecte et il était impossible de l'attraper. Juste avant qu'elles perdent espoir, Polka est apparue et leur a donné l'insecticide pour apprivoiser des mantes religieuses roses.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2539,
+        "width": 0.4219,
+        "height": 0.207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Grâce aux cadeaux de Polka, elles ont capturé deux autres mantes roses et sont retournées dans la base de Koyori pour les faire se reproduire avant de mettre fin au stream. Après ce stream, elles ont continué à jouer jusqu'à 7h JST : Koyori n'a donc pas dormi pendant une journée entière.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4753,
+        "width": 0.4244,
+        "height": 0.115
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iroha",
+      "bbox": {
+        "x": 0.6309,
+        "y": 0.7324,
+        "width": 0.1309,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors d'un de ses streams discussions, Iroha a parlé de son séjour dans sa ville natale. Elle a révélé que Laplus lui envoyait des messages pour lui dire qu'elle lui manquait. Cette dernière a surpris Iroha par sa franchise. Iroha a envoyé des photos de sa ville natale à Laplus et a révélé qu'elle lui envoyait des messages tous les jours, en précisant qu'elles n'entretiennent pas ce genre de relations, pour éviter toute confusion pour leurs fans.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.7756,
+        "width": 0.4338,
+        "height": 0.1758
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/e8oyxd9hplk81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOCOUNCIL",
+      "bbox": {
+        "x": 0.066,
+        "y": 0.078,
+        "width": 0.41,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kronii & Others",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.251,
+        "width": 0.3,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La chaîne de Kronii a enfin accueilli une nouvelle collaboration et celle-ci a joué à Mario Party avec IRyS, Reine et Anya. Elle s’est faite taquiner tout du long et était à la dernière place pendant presque toute la partie. Résignée à la défaite pendant le dernier tour, Kronii a joué le tout pour le tout et a volé toutes les pièces de Reine au cours d’un duel. Grâce à cela, elle a gagné l’étoile bonus pour avoir le plus de pièces, suivie d’une autre étoile bonus, lui permettant de faire un retour magistral et de gagner la partie à la surprise générale.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2904,
+        "width": 0.4131,
+        "height": 0.171
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kronii a réussi à manger un bol entier de « Nuclear Fire Noodles » à 10 000 scovilles sans vomir, tout en niant avoir pleuré durant le défi. Elle a promis de tenter le « One Paqui Chip challenge », encore plus piquant, pour le million d’abonnés.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.5508,
+        "width": 0.4206,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fauna",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.249,
+        "width": 0.14,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pas même un tremblement de terre ou un enlèvement par les aliens n’ont pu empêcher Fauna de prendre soin de son enfant dans son stream sur Mother Simulator, comme on pouvait s’y attendre venant de Mère Nature elle-même. Après avoir rapidement fini tous les scénarios, elle s’est assise avec une tasse de thé et a eu une conversation relaxante avec ses spectateurs, tout en lisant ses Super Chats.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.2904,
+        "width": 0.4213,
+        "height": 0.1437
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "C’était une grosse semaine pour Fauna. Elle a réussi à finir son premier jeu d’horreur, Resident Evil 7, avec l’aide de Bae et ses talents de motivatrice, puis a fini Getting Over It le lendemain. Les deux streams regorgent de moments incroyables, les meilleurs étant le dessin inopiné de Fauna et Bae sur MS Paint durant RE7, et le « redébut » de Fauna pendant Getting Over It.",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.4618,
+        "width": 0.4269,
+        "height": 0.1732
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holo Council",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.6849,
+        "width": 0.3081,
+        "height": 0.0447
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le chaos a éclaté au sein du Bunkeronii sur le serveur Minecraft d’holoEN, en raison d’une malheureuse série d’événements qui ont conduit Kronii à attaquer Mumei sous les yeux de Sana, résultant en deux morts successives de Mumei sous les attaques des chiens de Kronii. Dans la confusion, Sana a libéré les renards de Mumei, maintenant hostiles, dans la chambre de Kronii et y a assiégé cette dernière. Pendant ce temps, Mumei en a profité pour enquiquiner Kronii d'autant plus en piétinant ses champs et détruisant une partie de ses plantations dans son dos. Après s’être réconciliées, il a fallu près d’une heure aux deux amis pour ramener les renards dans la chambre de Mumei. De plus, Kronii a proposé au reste du Council de relever le « Spicy Noodle » challenge , et Mumei a accepté.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7834,
+        "width": 0.8894,
+        "height": 0.1502
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/othl11rbop881.png",
+    "gifFrame": null,
+    "confidence": 83
+  }
+}

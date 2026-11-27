@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "OMO x holoEN",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.0117,
+        "width": 0.1731,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "Collab holoMyth",
+      "bbox": {
+        "x": 0.402,
+        "y": 0.0117,
+        "width": 0.196,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "Le retour d'Ina ?",
+      "bbox": {
+        "x": 0.7831,
+        "y": 0.0117,
+        "width": 0.1913,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La+",
+      "bbox": {
+        "x": 0.022,
+        "y": 0.195,
+        "width": 0.121,
+        "height": 0.037
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "nous a montré son nouvelle modèle 3D",
+      "bbox": {
+        "x": 0.022,
+        "y": 0.24,
+        "width": 0.184,
+        "height": 0.097
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holoX",
+      "bbox": {
+        "x": 0.022,
+        "y": 0.37,
+        "width": 0.194,
+        "height": 0.037
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Leur première collab en 3D",
+      "bbox": {
+        "x": 0.022,
+        "y": 0.415,
+        "width": 0.201,
+        "height": 0.072
+      }
+    },
+    {
+      "type": "heading",
+      "text": "AZKi",
+      "bbox": {
+        "x": 0.022,
+        "y": 0.519,
+        "width": 0.158,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Azki fête son 4ème anniversaire",
+      "bbox": {
+        "x": 0.0219,
+        "y": 0.5638,
+        "width": 0.1569,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shuba",
+      "bbox": {
+        "x": 0.7469,
+        "y": 0.3954,
+        "width": 0.2313,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "célèbre son anniversaire",
+      "bbox": {
+        "x": 0.7938,
+        "y": 0.4401,
+        "width": 0.1825,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Mio",
+      "bbox": {
+        "x": 0.86,
+        "y": 0.519,
+        "width": 0.116,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "nous vend maintenant son sweat à capuche",
+      "bbox": {
+        "x": 0.707,
+        "y": 0.564,
+        "width": 0.27,
+        "height": 0.071
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rio",
+      "bbox": {
+        "x": 0.864,
+        "y": 0.67,
+        "width": 0.113,
+        "height": 0.036
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "et sa folie des karaokés",
+      "bbox": {
+        "x": 0.7631,
+        "y": 0.7131,
+        "width": 0.2113,
+        "height": 0.0451
+      }
+    },
+    {
+      "type": "other",
+      "text": "Vous voulez nous aider ?\nRejoignez notre Discord !",
+      "bbox": {
+        "x": 0.1244,
+        "y": 0.8251,
+        "width": 0.7256,
+        "height": 0.1749
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/lzth3o635kb91.png",
+    "gifFrame": null,
+    "confidence": 83
+  }
+}

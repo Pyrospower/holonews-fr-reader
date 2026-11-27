@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 14,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.47,
+        "y": 0.015,
+        "width": 0.06,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.338,
+        "y": 0.179,
+        "width": 0.11,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme annoncé dans le stream de dégustation de Pop-Tarts, Kiara, Ame, Ina et Gura ont joué ensemble à Smash Ultimate, mais il s'agissait plutôt d'un stream discussion. Ina s'est rapprochée de Bubba, le chien d'Ame, rendant Kiara jalouse. Elles nous ont rappelé leur participation à l’Anime Expo 2022 et nous ont montré les produits dérivés qui y seront vendus.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2183,
+        "width": 0.3838,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils ont annoncé d'autres « choses amusantes » sur la chaîne d'Ame. Calli les rejoindra bientôt pour un stream où elles seront au complet. À la fin du stream, elles ont répondu à des questions et ont parlé de leurs interactions dans la vie réelle.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.3398,
+        "width": 0.3756,
+        "height": 0.0707
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Baelz",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.548,
+        "width": 0.09,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de son stream sur Yakiniku Simulation, Bae s’est mise au défi dans lequel elle devait faire un squat pour chaque Super Chat qui lui était envoyé. Cela a entraîné une pluie de Super Chats de la part de ses spectateurs, ce qui a amené Bae à déclarer que les Super Chats rouges auraient 10 secondes de squats à la place. Bae a fait 76 squats au total pendant ce stream.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.5877,
+        "width": 0.3838,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS & Bae",
+      "bbox": {
+        "x": 0.652,
+        "y": 0.179,
+        "width": 0.18,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bae et IRyS se sont à nouveau disputés après que Bae ait affirmé qu'IRyS avait des « seins qui tombent ». Bae a déclaré que c'était parce qu’IRyS, ayant une plus grosse poitrine, ne portait pas de soutien-gorge.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.2183,
+        "width": 0.3856,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "IRyS a menacé de divorcer (encore) en représailles et a utilisé divers objets, dont une banane et un flacon de lotion, pour souligner les défauts de la poitrine de sa femme. Les deux femmes ont également « fusionné » l'une avec l'autre pour comparer les formes de leur poitrine. Les spectateurs ont pu beaucoup observer dans ce qui était, ironiquement, un stream sur le jeu I'm On Observation Duty 4.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2938,
+        "width": 0.3888,
+        "height": 0.1137
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fauna",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.548,
+        "width": 0.1,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fauna a révélé qu'elle s'était « faufilée » dans le studio d’Ame pour rencontrer les filles d'holoMyth. C'était la première fois qu'elle rencontrait Kiara et Gura dans la vraie vie.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.5877,
+        "width": 0.3787,
+        "height": 0.0503
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fauna a également révélé qu'elle avait particulièrement voulu rencontrer Kiara parce qu'elle vit sur un autre continent, et qu'elle a été inspirée en voyant le travail de Kiara. Fauna a également révélé que les membres d’holoMyth sentaient bon et a souhaité bonne chance aux Saplings qui ont été attirés par le studio d'Ame.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.6549,
+        "width": 0.3787,
+        "height": 0.1042
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2m142j82haa91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

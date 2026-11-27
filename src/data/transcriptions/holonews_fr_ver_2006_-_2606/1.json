@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Bazo prend les devants",
+      "bbox": {
+        "x": 0.0188,
+        "y": 0.0117,
+        "width": 0.3038,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "other",
+      "text": "HoloCure",
+      "bbox": {
+        "x": 0.4488,
+        "y": 0.0117,
+        "width": 0.1106,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "Le nouveau PC de Botan",
+      "bbox": {
+        "x": 0.65,
+        "y": 0.01,
+        "width": 0.3319,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magazine hebdomadaire d'actualités",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.1536,
+        "width": 0.2756,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lui a montré son nouveau modèle 3D",
+      "bbox": {
+        "x": 0.02,
+        "y": 0.177,
+        "width": 0.22,
+        "height": 0.12
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gura a eu 9 486 ans le 21 juin",
+      "bbox": {
+        "x": 0.8,
+        "y": 0.177,
+        "width": 0.18,
+        "height": 0.12
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Izuru a fêté son 3e anniversaire",
+      "bbox": {
+        "x": 0.78,
+        "y": 0.32,
+        "width": 0.2,
+        "height": 0.12
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Noel",
+      "bbox": {
+        "x": 0.82,
+        "y": 0.47,
+        "width": 0.16,
+        "height": 0.04
+      }
+    },
+    {
+      "type": "other",
+      "text": "Noel a dévoilé une nouvelle tenue 3D et une chanson",
+      "bbox": {
+        "x": 0.77,
+        "y": 0.516,
+        "width": 0.21,
+        "height": 0.125
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Annonces pour l’anniversaire des STARS",
+      "bbox": {
+        "x": 0.69,
+        "y": 0.669,
+        "width": 0.29,
+        "height": 0.1
+      }
+    },
+    {
+      "type": "other",
+      "text": "Vous voulez nous aider ?\nRejoignez notre Discord !",
+      "bbox": {
+        "x": 0.5769,
+        "y": 0.9453,
+        "width": 0.2794,
+        "height": 0.0321
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/a4m7wf92haa91.png",
+    "gifFrame": null,
+    "confidence": 78
+  }
+}

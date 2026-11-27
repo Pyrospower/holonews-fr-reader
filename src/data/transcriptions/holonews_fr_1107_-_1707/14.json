@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 14,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Les collaborations de Sana",
+      "bbox": {
+        "x": 0.235,
+        "y": 0.0161,
+        "width": 0.5313,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana & Ame",
+      "bbox": {
+        "x": 0.1708,
+        "y": 0.3665,
+        "width": 0.1908,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la première collaboration d'une longue liste, Sana a dégusté du pain avec Ame. Elles ont reçu des images de fans qui ont été envoyées sur Twitter avec le hashtag #SanaPanAme. Sana s'était préparé une miche de pain et l'a mangée tout en examinant les dessins des pains. Ame a nourri Sana avec quelques dessins. Elles ont échangé des messages réconfortants, se sont complimentées mutuellement sur leur travail et ont souhaité le meilleur pour la graduation de Sana. Pour finir, Sana a parlé de sa prochaine collaboration, qu'elle fera avec Reine.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.4071,
+        "width": 0.3906,
+        "height": 0.1745
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana & Reine",
+      "bbox": {
+        "x": 0.1723,
+        "y": 0.8013,
+        "width": 0.2108,
+        "height": 0.0214
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour sa deuxième collaboration, Sana et Reine ont joué à des jeux Super Famicom grâce à la console virtuelle de la Switch. Elles ont surtout joué à divers jeux de la série Kirby, à Harvest Moon et à des jeux en duo comme Joe & Mac. Sana et Reine ont décidé de nommer leur duo « SanaRei », un jeu de mot avec « sun ray » (rayon de soleil). Elles ont promis de jouer à Hoshi no Kirby Super Deluxe un jour.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.8416,
+        "width": 0.3919,
+        "height": 0.1341
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana & Kobo",
+      "bbox": {
+        "x": 0.5438,
+        "y": 0.1667,
+        "width": 0.2944,
+        "height": 0.043
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour sa première collaboration avec Kobo, et la troisième collaboration avant sa graduation, Sana à joue à PowerWash Simulator. Sana a appris quelques mots indonésiens comme « bacod » qui signifie « tais-toi ». Après plusieurs tentatives, Sana a finalement réussi à le prononcer correctement, et Kobo l'a reconnue comme indonésienne d'honneur. Kobo a également parlé de l'argot indonésien, non seulement en indonésien, mais aussi dans d'autres dialectes. Vers la fin du stream, Kobo était triste car elles ne pourraient pas refaire de collaboration en raison de l'emploi du temps chargé de Sana. Ensuite, Sana a promis de garder un œil sur elle depuis l'espace, et Kobo a chanté une chanson pour Sana pour lui dire combien elle était heureuse de la connaître.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.2222,
+        "width": 0.3906,
+        "height": 0.2253
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana & Watame",
+      "bbox": {
+        "x": 0.6415,
+        "y": 0.7895,
+        "width": 0.2477,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En guise de quatrième collaboration, Sana a joué à Minecraft avec Watame. Elles ont surtout discuté en japonais et ont construit une boulangerie sur le serveur JP qu'elles ont nommé « La boulangerie de Sana et Watame ». Le stream n'a pas duré longtemps, mais elles ont apprécié le temps passé ensemble, et la boulangerie en sera le souvenir. Plus tard, Sana a joué une dernière fois à Tsunomaki Janken et a laissé un message disant qu'elle s'était beaucoup amusée avec Watame. Elles ont mis fin au stream après avoir fait des captures d'écran de l'extérieur de leur boulangerie.",
+      "bbox": {
+        "x": 0.535,
+        "y": 0.8307,
+        "width": 0.3925,
+        "height": 0.158
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/31jeru55sqd91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

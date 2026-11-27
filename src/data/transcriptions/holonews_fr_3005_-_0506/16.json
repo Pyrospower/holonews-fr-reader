@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_3005_-_0506",
+  "page": 16,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.471,
+        "y": 0.014,
+        "width": 0.059,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sana",
+      "bbox": {
+        "x": 0.167,
+        "y": 0.179,
+        "width": 0.085,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sana a fait un gâteau Karby, et a informé les Sanallites de ses progrès avec des photos. Le stream a commencé par la présentation de son nouveau couteau à pastèque. Elle a streamé pendant cinq heures terrestres, ce qui a surpris tout le monde puisque sa blessure au dos l'empêchait de faire de longs streams.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2179,
+        "width": 0.8388,
+        "height": 0.053
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a fouetté le tchat, fait deux ASMRs de mixage et a dû aller au magasin pour acheter de la crème au milieu du stream car il n'y en avait pas assez pour couvrir le gâteau. Après avoir terminé le gâteau, comme promis au début du stream, elle a révélé l'annonce : la semaine prochaine, il y aura un stream pour son anniversaire et sa première chanson originale sera présentée en avant-première !",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.276,
+        "width": 0.8444,
+        "height": 0.053
+      }
+    },
+    {
+      "type": "heading",
+      "text": "MISC",
+      "bbox": {
+        "x": 0.4469,
+        "y": 0.3516,
+        "width": 0.1069,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "NEGI☆U × LIVE DAM Ai",
+      "bbox": {
+        "x": 0.1675,
+        "y": 0.5109,
+        "width": 0.2931,
+        "height": 0.0143
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "LIVE DAM Ai a collaboré avec hololive pour célébrer le premier EP de NEGI☆U : Negi☆u No Panaiuta. Il s'agit d'une campagne visant à faire gagner des marchandises autographiées en nombre limité à cinq heureux gagnants.",
+      "bbox": {
+        "x": 0.0738,
+        "y": 0.5469,
+        "width": 0.3856,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour postuler, vous devez suivre hololive music et DAM Anison sur Twitter et poster avec le hashtag #DAMでNEGIU. La date limite est fixée au 15 juin.",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.6259,
+        "width": 0.39,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Poker Tournament",
+      "bbox": {
+        "x": 0.1737,
+        "y": 0.7352,
+        "width": 0.295,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A-chan a organisé un tournoi de poker hololive sur la chaîne officielle hololive, avec Iroha, Laplus, Lui et Towa comme participants. Towa a remporté l'ensemble du tournoi, poursuivant sa série de domination contre holoX dans les jeux (elle avait déjà battu tous les holoX individuellement dans Clubhouse 51). Bien que Lui ait perdu contre Towa en finale, elle a réussi à usurper le titre de fondateur d'holoX à Laplus en battant ce dernier lors des préliminaires. Cependant, les spectateurs s'accordent à dire que malgré l'élimination de Laplus au premier tour, elle a gagné en esprit, simplement parce qu'elle était jumelée (comme des cartes) avec son oshi Towa.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.7721,
+        "width": 0.3906,
+        "height": 0.2014
+      }
+    },
+    {
+      "type": "heading",
+      "text": "FamilyMart",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.501,
+        "width": 0.196,
+        "height": 0.027
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La troisième partie de la collaboration avec Family Mart a commencé avec Sora, Suisei, Kanata et Lamy qui complètent le casting. L'événement se déroule jusqu'au 13 juin.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.5412,
+        "width": 0.3656,
+        "height": 0.0534
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holoJEI",
+      "bbox": {
+        "x": 0.6369,
+        "y": 0.7431,
+        "width": 0.1156,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame a organisé un stream collaboratif avec des membres de chaque branche d'hololive (JP, EN, et ID), appelé ainsi holoJEI. Ina, Anya et Ollie se sont joints à eux pour jouer à Human : Fall Flat. Ina était en hiatus à ce moment-là, mais elle avait déjà mentionné lors de son stream d'anniversaire qu'il y aurait une collaboration à laquelle elle pourrait se joindre. Chaque membre a été capable de communiquer couramment en japonais pendant le jeu. Ils ont pu s'entraider et même chanter en harmonie, malgré la tendance du jeu à provoquer des conflits.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.7821,
+        "width": 0.3856,
+        "height": 0.1745
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/a9e19ggvbt591.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

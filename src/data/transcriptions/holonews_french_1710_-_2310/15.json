@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_french_1710_-_2310",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Staff",
+      "bbox": {
+        "x": 0.1925,
+        "y": 0.1536,
+        "width": 0.0875,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les trois membres du staff de la branche japonaise d’hololive (Shinove, A-chan et Nodoka), se sont rassemblés sur la chaîne officiel d’HOLOSTARS pour visionner ensemble l’archive du concert avec les fans. Pour A-chan et Nodoka, il semblerait que ce soit la première fois qu’elles aient vu le concert, tandis que Shinove l’a déjà vu en direct. A-chan et Nodoka étaient impressionnées par la performance d’HOLOSTARS et ont commenté de temps en temps pendant le concert avec leurs opinions. Shinove a fini par pleurer une fois de plus en regardant l’archive. L’archive du concert est toujours disponible sur SPWN jusqu’au 13 Novembre 2022 (23:59 JST) alors dépêchez-vous, avant qu’il ne soit trop tard !",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.1953,
+        "width": 0.4463,
+        "height": 0.1814
+      }
+    },
+    {
+      "type": "heading",
+      "text": "A-chan",
+      "bbox": {
+        "x": 0.1219,
+        "y": 0.6233,
+        "width": 0.1331,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A-chan a révélé qu’elle était la plus jeune des trois holostaff entre elle, Nodoka et Shinove. Et ce, malgré le fait qu’elle ait le plus d'ancienneté chez hololive . Avec cela en tête, A-chan a commencé à exercer sa « pression de supérieure » sur les deux autres en abandonnant toute marque honorifique. Shinove a également annoncé qu’il allait avoir trente-trois ans bientôt et que A-chan et Nodoka avaient approximativement douze ans de moins que lui. A-chan a aussi mis l’accent sur le fait qu’elle et Nodoka n'étaient pas des managers, contrairement à ce que tout le monde pensait, tandis que c’est le cas pour Shinove.",
+      "bbox": {
+        "x": 0.0456,
+        "y": 0.6671,
+        "width": 0.4463,
+        "height": 0.1662
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Otakulamps",
+      "bbox": {
+        "x": 0.6075,
+        "y": 0.1528,
+        "width": 0.2462,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Otakulamps ont sorti une collection de plusieurs lampes en collaboration avec hololive. La collection, apparue le 21 Octobre, inclus tous les talents d’yth, Area15 et HoloRo (Amelia, Calli, Gura, Ina, Kiara, Iofi, Moona, Risu, Anya, Ollie, Reine). La plupart des modèles sont déjà hors stock mais le compte Twitter d’Otakulamps a annoncé un réapprovisionnement des stocks dans un tweet. Plus de détails à venir les semaines suivantes.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.197,
+        "width": 0.4456,
+        "height": 0.1137
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Youmacon",
+      "bbox": {
+        "x": 0.7181,
+        "y": 0.3316,
+        "width": 0.2056,
+        "height": 0.0195
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fauna, Reine, Risu et Mumei seront des invités pour la Youmacon à Detroit du 3 au 6 Novembre. Les participants auront la chance de gagner une rencontre en tête-à-tête avec les différents talents (sauf Mumei à cause des problèmes de planification). Allez voir sur le site de Youmacon pour plus de détails !",
+      "bbox": {
+        "x": 0.5163,
+        "y": 0.3746,
+        "width": 0.4456,
+        "height": 0.0777
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Famitsu",
+      "bbox": {
+        "x": 0.6763,
+        "y": 0.48,
+        "width": 0.1613,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aqua est sur la première page du magazine Famitsu Weekly. Il y a un article spécial sur la page 18 avec Aqua, Fubuki et Marine.",
+      "bbox": {
+        "x": 0.5156,
+        "y": 0.5256,
+        "width": 0.4456,
+        "height": 0.0399
+      }
+    },
+    {
+      "type": "other",
+      "text": "Chatting with Kiara",
+      "bbox": {
+        "x": 0.7575,
+        "y": 0.6189,
+        "width": 0.0775,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "other",
+      "text": "Art by @tsukimi_mm",
+      "bbox": {
+        "x": 0.5138,
+        "y": 0.6536,
+        "width": 0.1113,
+        "height": 0.0113
+      }
+    },
+    {
+      "type": "heading",
+      "text": "A-chan",
+      "bbox": {
+        "x": 0.59,
+        "y": 0.6849,
+        "width": 0.1412,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "A-chan va commencer un show de discussion qui est focalisé sur les invités de EN et d’ID :",
+      "bbox": {
+        "x": 0.5163,
+        "y": 0.7309,
+        "width": 0.4463,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "« Moi, A-chan, vais commencer une série de vidéos de discussion, où je vais inviter des membres d’hololive ID et de EN et avoir une conversation informelle avec ! (Les vidéos seront disponibles sur mon Twitter et mon Instagram !) »",
+      "bbox": {
+        "x": 0.5169,
+        "y": 0.7565,
+        "width": 0.4456,
+        "height": 0.0647
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vous pouvez faire partie du show en remplissant le sondage qu’elle a mis à disposition (les liens se trouvent dans la section Sources). Sa première invitée sera Takanashi Kiara !",
+      "bbox": {
+        "x": 0.5169,
+        "y": 0.8351,
+        "width": 0.445,
+        "height": 0.0486
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/jk8wveoaedy91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

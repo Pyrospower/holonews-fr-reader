@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2908_-_0409",
+  "page": 6,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Hololive Server Summer Festival",
+      "bbox": {
+        "x": 0.1056,
+        "y": 0.1497,
+        "width": 0.3322,
+        "height": 0.0154
+      }
+    },
+    {
+      "type": "other",
+      "text": "Organized by UsaKen",
+      "bbox": {
+        "x": 0.1933,
+        "y": 0.1358,
+        "width": 0.1233,
+        "height": 0.0139
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le hololive summer festival a de nouveau été accueilli par UsaKen cette année !",
+      "bbox": {
+        "x": 0.55,
+        "y": 0.0656,
+        "width": 0.3072,
+        "height": 0.0448
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le festival présentait de petits stands dans lesquels les holomems pouvaient se promener pour trouver des références cachées et jouer à des mini-jeux amusants. En plus de cela, il y avait aussi des stands plus interactifs où ils pouvaient interagir avec les membres stationnés dans les stands, tels que :",
+      "bbox": {
+        "x": 0.55,
+        "y": 0.1331,
+        "width": 0.34,
+        "height": 0.1485
+      }
+    },
+    {
+      "type": "other",
+      "text": "- Le stand de paris hippiques de Mio où elle nourrissait l'addiction au jeu de tout le monde.",
+      "bbox": {
+        "x": 0.0933,
+        "y": 0.4653,
+        "width": 0.3389,
+        "height": 0.0471
+      }
+    },
+    {
+      "type": "other",
+      "text": "- Le stand de diamants de Choco, situé juste en face de celui de Mio, où elle distribuait des diamants et autres objets de valeur en échange de confessions amoureuses.",
+      "bbox": {
+        "x": 0.5522,
+        "y": 0.4306,
+        "width": 0.3511,
+        "height": 0.0818
+      }
+    },
+    {
+      "type": "other",
+      "text": "- Le club de combat souterrain de Kaela où les holomems pouvaient se défier contre des zombies surpuissants avec des équipements en diamant entièrement enchantés.",
+      "bbox": {
+        "x": 0.0933,
+        "y": 0.6451,
+        "width": 0.3444,
+        "height": 0.0826
+      }
+    },
+    {
+      "type": "other",
+      "text": "- La Maison de l'horreur de Shiraken, remplie de références horrifiques loufoques ; cette fois, ils ont utilisé des packs de sons personnalisés combinés au talent d'acteur de Suisei pour immerger davantage les clients dans la pièce.",
+      "bbox": {
+        "x": 0.5522,
+        "y": 0.6335,
+        "width": 0.36,
+        "height": 0.0934
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais le point culminant du festival a été, bien sûr, la course de chevaux organisée par Towa et Mio, qui a été accueillie très positivement par tous les parieurs. Tous les membres pouvaient participer à la course ou la regarder tout en pariant sur le vainqueur.",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.7813,
+        "width": 0.495,
+        "height": 0.098
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce festival s'est terminé par un énorme feu d'artifice lancé depuis une grande scène d'idoles, contrairement au Yagura de l'année précédente.",
+      "bbox": {
+        "x": 0.095,
+        "y": 0.8831,
+        "width": 0.45,
+        "height": 0.0471
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/rtwizwhjaqn91.gif",
+    "gifFrame": 85,
+    "confidence": 91
+  }
+}

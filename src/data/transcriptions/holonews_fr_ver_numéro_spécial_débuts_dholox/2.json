@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_numéro_spécial_débuts_dholox",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "La+ Darknesss",
+      "bbox": {
+        "x": 0.5625,
+        "y": 0.0321,
+        "width": 0.4144,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Avec l’annonce soudaine d’une nouvelle génération d’hololive, le début de la Gen 6 a été révélé ! Dix heures plus tard dans la même journée, La+ Darknesss a fait ses débuts !",
+      "bbox": {
+        "x": 0.4938,
+        "y": 0.0851,
+        "width": 0.4825,
+        "height": 0.1119
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Surplombant le monde du haut de ses 139 cm, elle a commencé par se présenter et en faire de même pour ses parents, maman Kurone et papa Jujube.",
+      "bbox": {
+        "x": 0.5594,
+        "y": 0.2218,
+        "width": 0.4075,
+        "height": 0.0964
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après cela, elle a montré une vidéo de présentation faisant son éloge, racontant dans les grandes lignes son passé et présentant son opinion sur chacune de ses camarades de génération. On y découvre également sa bête noire, le corbeau qui la suit partout.",
+      "bbox": {
+        "x": 0.5581,
+        "y": 0.339,
+        "width": 0.4175,
+        "height": 0.1549
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Conformément à son caractère arrogant, elle a ensuite commandé à ses spectateurs de répondre par « Yes My Dark » (« Oui, mon Dark ») lorsqu’elle s’adresse à eux, et leur a ordonné de se prosterner devant elle (le dogeza japonais)",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.5977,
+        "width": 0.4069,
+        "height": 0.1241
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Plus tard au cours de sa présentation, elle a eu l’agréable surprise de découvrir que non seulement elle, mais aussi la phrase « Yes My Dark » occupaient le top des tendances Twitter. Elle a également révélé qu’elle allait bientôt publier une reprise de « God-ish » par PinocchioP.",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.74,
+        "width": 0.4238,
+        "height": 0.1419
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a terminé le stream par une courte séquence montrant l’ordre dans lequel les autres membres feront leur début, Takane Lui étant la prochaine.",
+      "bbox": {
+        "x": 0.0394,
+        "y": 0.9006,
+        "width": 0.425,
+        "height": 0.0673
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/x6j349p8kc481.png",
+    "gifFrame": null,
+    "confidence": 87
+  }
+}

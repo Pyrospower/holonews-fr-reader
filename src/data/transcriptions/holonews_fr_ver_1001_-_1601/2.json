@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Usada Pekora",
+      "bbox": {
+        "x": 0.08,
+        "y": 0.411,
+        "width": 0.42,
+        "height": 0.082
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora, qui avait 111 ans à ses débuts, a fêté ses 111 111 ans à l'occasion de son 3e anniversaire.",
+      "bbox": {
+        "x": 0.0711,
+        "y": 0.5093,
+        "width": 0.4011,
+        "height": 0.0394
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans ce stream 3D, après avoir chanté et dansé sur « Otsukimi Recital » et « Koizora Yohou », Pekora a chanté « Pekorandombrain » avec un modèle 3D mis à jour lui permettant de faire de nouvelles expressions faciales et voyant ses cheveux bouger de manière plus fluide. Après la chanson, Pekora a été surprise avec une vidéo de l’Université de musique de Kunitachi jouant un medley de musiques de Dragon Quest en son honneur.",
+      "bbox": {
+        "x": 0.071,
+        "y": 0.558,
+        "width": 0.415,
+        "height": 0.141
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuite, elle a chanté en duo avec Subaru puis Korone, avant de chanter au sein d’un nouveau groupe dénommé « Pet Bottle » (composé d'elle-même, de Towa, de Botan et de Rushia). Chaque performance a été suivie de leurs habituels échanges remplis de bonne humeur.",
+      "bbox": {
+        "x": 0.072,
+        "y": 0.709,
+        "width": 0.417,
+        "height": 0.083
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir chanté « Ai Kotoba III », Pekora a révélé son ensemble de produits dérivés d’anniversaire :",
+      "bbox": {
+        "x": 0.507,
+        "y": 0.679,
+        "width": 0.406,
+        "height": 0.054
+      }
+    },
+    {
+      "type": "other",
+      "text": "• Une diorama en acrylique, dont l’illustration a été réalisée par Yuuki Hagure\n• Un tapis en caoutchouc et 60 pochettes de protection pour cartes, illustrées par Naoki Saito\n• Un stylo à bille et un bloc-notes sur le thème de la « Pekoland Bank »\n• Une peluche Nousagi",
+      "bbox": {
+        "x": 0.506,
+        "y": 0.729,
+        "width": 0.372,
+        "height": 0.146
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le bonus pour l’achat de l’ensemble complet est une carte postale illustrée par Yuuki Hagure accompagnée d’un autographe ainsi que d’un message secret rédigé par Pekora.",
+      "bbox": {
+        "x": 0.507,
+        "y": 0.885,
+        "width": 0.399,
+        "height": 0.056
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ldw5o6h6i8e81.gif",
+    "gifFrame": 89,
+    "confidence": 90
+  }
+}

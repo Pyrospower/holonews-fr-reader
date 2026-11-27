@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_sana_special_issue_fr_ver",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Tsukumo Sana Special Issue",
+      "bbox": {
+        "x": 0.3967,
+        "y": 0.0262,
+        "width": 0.2078,
+        "height": 0.0131
+      }
+    },
+    {
+      "type": "heading",
+      "text": "#1 Sana & Anya",
+      "bbox": {
+        "x": 0.095,
+        "y": 0.0725,
+        "width": 0.3162,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "C'est avec Anya que Sana a fait sa première collaboration pré-graduation ! Elles voulaient jouer à des jeux ayant un rapport avec la banane, mais elles n'en ont trouvé aucun sur la console virtuelle du Nintendo Switch Online. Elles ont donc joué à Mario Tennis, Mario Kart 64, Kirby 64: The Crystal Shards et à Dr. Mario 64. Sana a dit qu'elle jouait habituellement à Kirby seule, et qu'elle n'avait joué en multijoueur que rarement avec des amis ou lors de sa première collaboration avec Watame.",
+      "bbox": {
+        "x": 0.095,
+        "y": 0.2235,
+        "width": 0.3563,
+        "height": 0.1693
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sana a aussi grondé le tchat car ils n'arrivaient pas à écrire #Sananabananya correctement. D'une manière ou d'une autre, cela a lancé une discussion sur le fait de fourrer la bouche d'Anya de plein de pain à la banane. Avant de finir, Sana a souhaité qu'Anya puisse faire ses débuts en 3D et a dit qu'elle penserait à elle à chaque fois qu'elle entendrait des tondeuses à gazon. Elles ont combiné leurs adieux pour mettre fin au stream, Sanaotsukrisanara !",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.4054,
+        "width": 0.3613,
+        "height": 0.1667
+      }
+    },
+    {
+      "type": "heading",
+      "text": "#2 Sana & Ame",
+      "bbox": {
+        "x": 0.0931,
+        "y": 0.5868,
+        "width": 0.365,
+        "height": 0.0829
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour sa seconde collaboration pré-graduation, Sana a dégusté du pain avec Ame. Elles ont reçu des images de fans qui ont été envoyées sur Twitter avec le hashtag #SanaPanAme. Sana s'était préparé une miche de pain et l'a mangée tout en examinant les dessins des pains. Ame a nourri Sana avec quelques dessins. Elles ont échangé des messages réconfortants, se sont complimentées mutuellement sur leur travail et ont souhaité le meilleur pour la graduation de Sana. Pour finir, Sana a parlé de sa prochaine collaboration, qu'elle fera avec Reine.",
+      "bbox": {
+        "x": 0.0944,
+        "y": 0.737,
+        "width": 0.3575,
+        "height": 0.2057
+      }
+    },
+    {
+      "type": "heading",
+      "text": "#3 Sana & Reine",
+      "bbox": {
+        "x": 0.5389,
+        "y": 0.071,
+        "width": 0.3311,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour sa troisième collaboration, Sana et Reine ont joué à des jeux Super Famicom grâce à la console virtuelle de la Switch. Elles ont surtout joué à divers jeux de la série Kirby, à Harvest Moon et à des jeux en duo comme Joe & Mac. Sana et Reine ont décidé de nommer leur duo « SanaRei », un jeu de mot avec « sun ray » (rayon de soleil). Elles ont promis de jouer à Kirby's Fun Pak un jour.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.27,
+        "width": 0.3681,
+        "height": 0.1393
+      }
+    },
+    {
+      "type": "heading",
+      "text": "#4 Sana & Kobo",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.4392,
+        "width": 0.3162,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour sa première collaboration avec Kobo, et la troisième collaboration avant sa graduation, Sana à joue à PowerWash Simulator. Sana a appris quelques mots indonésiens comme « bacod » qui signifie « tais-toi ». Après plusieurs tentatives, Sana a finalement réussi à le prononcer correctement, et Kobo l'a reconnue comme indonésienne d'honneur.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.6102,
+        "width": 0.3613,
+        "height": 0.1359
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kobo a également parlé de l'argot indonésien, non seulement en indonésien, mais aussi dans d'autres dialectes. Vers la fin du stream, Kobo était triste car elles ne pourraient pas refaire de collaboration en raison de l'emploi du temps chargé de Sana.",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.763,
+        "width": 0.3306,
+        "height": 0.0977
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuite, Sana a promis de garder un œil sur elle depuis l'espace, et Kobo a chanté une chanson pour Sana pour lui dire combien elle était heureuse de la connaître.",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.8746,
+        "width": 0.3638,
+        "height": 0.066
+      }
+    },
+    {
+      "type": "other",
+      "text": "Collaborations : Page 1",
+      "bbox": {
+        "x": 0.0994,
+        "y": 0.9601,
+        "width": 0.485,
+        "height": 0.0187
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/nkpcua2un4f91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

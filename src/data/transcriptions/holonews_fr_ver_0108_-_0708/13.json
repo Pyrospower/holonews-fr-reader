@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0108_-_0708",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.3694,
+        "y": 0.0174,
+        "width": 0.2606,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gamma",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.356,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La dernière fois que Polka est venue sur un stream dessin de Gama, ce dernier lui a demandé sa permission pour la dessiner, ce qu'elle a accepté. Cette semaine, Gamma a dessiné Polka comme promis et l'a félicitée pour avoir atteint un million d'abonnés sur YouTube la semaine dernière.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.3976,
+        "width": 0.3838,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rio",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.644,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rio a montré son côté perfectionniste en jouant à Cooking Simulator. Il s'assurait que tout était parfait et riait de sa maladresse chaque fois qu'il ratait un de ses plats. Il a fini par casser beaucoup d'assiettes et a passé un long moment à jeter tous les morceaux à la poubelle.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.6819,
+        "width": 0.3869,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.166,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Astel a obtenu la permission d'expliquer pourquoi il n'apparaît pas dans de nombreux programmes officiels tels que WACHAStars. C'est lié à son état de santé et au conséquence de son stress : sa vision se brouille au point qu'il ne voit plus rien, il voit des lumières clignotantes même après avoir fermé les yeux, et il peut même perdre connaissance. Cela peux le rendre incapable de bouger pendant toute une journée et ne peut pas être soignée avec des médicaments. Il vit avec cette maladie depuis huit ans et gère ses crises de mieux en mieux,notamment en se reposant quand il sent qu'une crise se prépare. Cependant, il est toujours possible qu'une crise se produise pendant un stream important.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.2023,
+        "width": 0.3875,
+        "height": 0.2214
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "C'est pourquoi, après avoir discuté avec sa direction, il a décidé de se concentrer sur son travail et ses projets personnels. Il a indiqué qu'il travaillait sur de nombreuses choses sans précédent, et qu'il était donc le premier à en poser les bases. Heureusement, il a maintenant trois managers pour l'aider et s'assurer que ses projets se déroulent correctement.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.4306,
+        "width": 0.3869,
+        "height": 0.1141
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shien",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.766,
+        "width": 0.23,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour fêter ses 200 000 abonnés sur YouTube, Shien a reçu des appels d'autres membres d'holopro. Des membres d'HOLOSTARS et d'UPROAR!! sont venus ainsi que Bae, Ollie, Iofi, Anya et Kazami Kuku de AniMare. Certains lui ont offert des illustrations en guise de cadeau, tandis que d'autres ont parlé des moments mémorables qu'ils partagent avec lui, comme ses conseils, les collaborations ou les dîners qu'ils ont eus ensemble. Shien a remercié les Subordinates et ses collègues pour avoir atteint les 200 000 abonnés, mais ce n'est pas son objectif. Il a encore beaucoup de projets à faire et à accomplir, alors n'hésitez pas à le soutenir davantage à partir de maintenant.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.8043,
+        "width": 0.3875,
+        "height": 0.1823
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ihfx3x56lwh91.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

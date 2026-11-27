@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0702_-_1302",
+  "page": 16,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "DIVERS",
+      "bbox": {
+        "x": 0.1563,
+        "y": 0.0569,
+        "width": 0.2181,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.354,
+        "y": 0.253,
+        "width": 0.123,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie, accompagnée de sa collègue de Kureiji Kensetsu, Risu, a invité Aruran et Astel sur le serveur Minecraft d’holoID. Elles ont donné aux deux honorables invités une visite guidée du serveur. La visite a commencé de manière étrange avec Astel qui refusait d’agir normalement, plongeant dans l’eau et disant qu’il était un holoroid, pendant qu’Ollie niais qu’Astel était son frère.",
+      "bbox": {
+        "x": 0.0544,
+        "y": 0.2925,
+        "width": 0.4188,
+        "height": 0.1567
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le live était rempli de farces des deux côtés. Astel a indirectement mis fin à sa propre vie en frappant Ollie, Ollie et Risu ont jouaient un tour à Aruran et Astel avec un lit explosif. Partout où ils mettaient les pieds se trouvait une farce, l’île de Risu, les alentours de la maison d’Ollie et le Nether. La plupart étaient à l’origine d’Astel et Ollie.",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.4609,
+        "width": 0.4225,
+        "height": 0.1407
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Aruran et Astel étaient abasourdis lorsqu’ils ont vu la beauté du serveur ID. Ils étaient étonnés du concept général du serveur, la conception des bâtiments, la décoration intérieure et surtout la station de train sous-marine conçue et construite par Ollie. Ils ne pouvaient s’empêcher de faire des comparaisons à leur propre serveur et se sont rendus compte que leur serveur manquait de beaucoup de choses par rapport au serveur ID.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.1163,
+        "width": 0.4119,
+        "height": 0.171
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie et Risu ont ensuite terminé la visite guidée en emmenant les garçons dans un train qu’elles ont proclamé être une commémoration pour la sortie de Star Collection. Il s’agissait apparemment d’une autre farce conçue pour lentement enterrer Aruran et Astel en vie, avec Ollie et Risu en train de leur construire une tombe rapidement. Finalement, Aruran et Astel ont promis d’inviter les filles sur leur propre serveur mais pas avant qu’ils aient réparé leur serveur et aient construit quelque chose d’impressionnant.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.296,
+        "width": 0.4219,
+        "height": 0.2023
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hololive",
+      "bbox": {
+        "x": 0.1606,
+        "y": 0.7882,
+        "width": 0.185,
+        "height": 0.0308
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 10 Février, hololive a publié Hololive Valentine’s Day Voice Pack 2022 avec la voix de nombreux membres d’hololive JP, pour faire passer un bon moment au auditeur. Les ventes sont prévues d’être en cours jusqu’au 11 Avril à 18h00 JST.",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.8468,
+        "width": 0.4263,
+        "height": 0.0959
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.827,
+        "y": 0.761,
+        "width": 0.122,
+        "height": 0.02
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Roboco a invité Polka, Luna et Koyori à jouer à Momotetsu mais dû à certaines circonstances, elles ont finalement joué à Mario Maker 2 suite à une proposition de Polka. Pendant le stream, Luna a facilement parcouru les niveaux tandis que les autres traînaient derrière en criant. Elles ont demandé à Luna comment maîtriser le jeu, cette dernière a répondu qu’elles devaient tout simplement sauter et éviter de tomber.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.8043,
+        "width": 0.4231,
+        "height": 0.1554
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/zyj0iloe17j81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

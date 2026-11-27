@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2211_-_2811",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.162,
+        "y": 0.0619,
+        "width": 0.2125,
+        "height": 0.0355
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.1625,
+        "y": 0.237,
+        "width": 0.1656,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a confié, lors d'un stream discussion, que l'annonce de la 6e génération d'hololive l'avait fait se sentir comme une mamie. Elle a également dit avoir décidé d'endosser le rôle de la gentille grand-mère plutôt que de mettre ses cadets sous pression.",
+      "bbox": {
+        "x": 0.0556,
+        "y": 0.2791,
+        "width": 0.4269,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.1614,
+        "y": 0.5377,
+        "width": 0.1147,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la première fois en plus d'un an, Aqua a publié un planning de ses streams sur Twitter. En plus de cela, l'anniversaire d'Aqua aura lieu le 1er décembre. Attendez donc avec impatience de voir ce qu'elle vous réserve !",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.5807,
+        "width": 0.3925,
+        "height": 0.1172
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.6315,
+        "y": 0.2366,
+        "width": 0.1158,
+        "height": 0.0272
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après que son chat lui a demandé ce qu'elle avait prévu pour Noël, Onyan a répondu vouloir organiser une fête avec ses collègues de génération et a envoyé un message dans leur salon textuel sur Discord. Malheureusement, celui-ci n'est pas très actif, et seule Choco-sensei lui a répondu. Subaru a indiqué dans un stream discussion qu'elle ne l'a remarqué qu'après en avoir été informée par son chat.",
+      "bbox": {
+        "x": 0.5206,
+        "y": 0.2786,
+        "width": 0.425,
+        "height": 0.1602
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.6348,
+        "y": 0.5785,
+        "width": 0.1364,
+        "height": 0.0242
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco-sensei nous a montré ses statistiques sur Minecraft, révélant qu'elle a tué plus de 397 000 Endermen au cours de sa carrière.",
+      "bbox": {
+        "x": 0.525,
+        "y": 0.625,
+        "width": 0.4206,
+        "height": 0.0651
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.8406,
+        "width": 0.1679,
+        "height": 0.0242
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru a débuté son Let's play de Yakuza 0 et a été très impressionnée par l'atmosphère années 1980 dégagée par le début du jeu. Les robes d'époque, les cabines téléphoniques et en particulier le pager ont donné lieu à des réactions mignonnes et enthousiasmées de sa part.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.8828,
+        "width": 0.8763,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a été encore plus surprise de rencontrer pour la première fois Majima lorsqu'elle se trouvait à Osaka. Subaru n'a pas pu s'empêcher de pousser un cri lorsqu'il a prononcé son nom.",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.9418,
+        "width": 0.8888,
+        "height": 0.0291
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/addr02emjr381.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Les 1 million de Polka ? Le nouveau clip de Marine ? Les 1 million de Sora",
+      "bbox": {
+        "x": 0.0263,
+        "y": 0.0117,
+        "width": 0.9494,
+        "height": 0.0169
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magazine hebdomadaire d'actualités",
+      "bbox": {
+        "x": 0.0244,
+        "y": 0.1528,
+        "width": 0.2794,
+        "height": 0.0126
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rio célèbre son anniversaire",
+      "bbox": {
+        "x": 0.0213,
+        "y": 0.1875,
+        "width": 0.2281,
+        "height": 0.1081
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Le dernier stream de Sana",
+      "bbox": {
+        "x": 0.7937,
+        "y": 0.1866,
+        "width": 0.1994,
+        "height": 0.1059
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Marine fête son anniversaire et à un nouveau costume",
+      "bbox": {
+        "x": 0.0206,
+        "y": 0.3277,
+        "width": 0.2556,
+        "height": 0.1984
+      }
+    },
+    {
+      "type": "heading",
+      "text": "UPROAR!! ont les souscriptions",
+      "bbox": {
+        "x": 0.725,
+        "y": 0.3338,
+        "width": 0.2569,
+        "height": 0.1619
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chadcast Épisode camping",
+      "bbox": {
+        "x": 0.0194,
+        "y": 0.5582,
+        "width": 0.1881,
+        "height": 0.158
+      }
+    },
+    {
+      "type": "other",
+      "text": "MINASE RIO",
+      "bbox": {
+        "x": 0.2562,
+        "y": 0.8655,
+        "width": 0.4875,
+        "height": 0.0421
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1coo2kg4fig91.png",
+    "gifFrame": null,
+    "confidence": 79
+  }
+}

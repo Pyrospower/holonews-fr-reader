@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_holostars_-tempus-_debut_special",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Les garçons se sont réunis pour la première fois après les débuts de Vesper. Le stream était sur la chaîne de Dezmond et c'était juste une bande de potes se comportant comme des frères.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.0334,
+        "width": 0.4275,
+        "height": 0.1098
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il y a eu beaucoup de moments amusants comme Dez cachant le visage d'Axel avec un panneau, les garçons se moquant d'Altare pour avoir lavé son kimchi (chou fermenté coréen) quand il était plus jeune, et Vesper ne sachant pas qu'ils ont en fait un troisième produit dérivé. Ils ont également parlé de l'ananas sur la pizza, de nourritures épicées et de champignons.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.1654,
+        "width": 0.4325,
+        "height": 0.2266
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils sont tous revenus sur leurs débuts et leur période de préparation. Dezmond a notamment déclaré qu'il était heureux d'avoir trouvé une famille.",
+      "bbox": {
+        "x": 0.5225,
+        "y": 0.4136,
+        "width": 0.4263,
+        "height": 0.0833
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour commémorer leurs débuts, TEMPUS sort trois types de produits dérivés :\n• Un diorama en acrylique\n• Un thermos\n• Des porte-clés de motel",
+      "bbox": {
+        "x": 0.0313,
+        "y": 0.5855,
+        "width": 0.4169,
+        "height": 0.1411
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les produits seront en vente jusqu'au 29 août, 18h00 JST. Ils sortent également leur première chanson originale en tant que groupe. Le clip et la chanson sortiront dans le courant du mois d'août.",
+      "bbox": {
+        "x": 0.0319,
+        "y": 0.7457,
+        "width": 0.4425,
+        "height": 0.1372
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils ont remercié tout le monde pour leur soutien et ils sont impatients de tous vous voir dans leurs streams.",
+      "bbox": {
+        "x": 0.0313,
+        "y": 0.9049,
+        "width": 0.4094,
+        "height": 0.0634
+      }
+    },
+    {
+      "type": "other",
+      "text": "TEMPUS Debut Celebration",
+      "bbox": {
+        "x": 0.5591,
+        "y": 0.6505,
+        "width": 0.1606,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "other",
+      "text": "The 3 layers of acrylic give off a three-dimensional look!\nArt by 雨壱絵穹 (Esora Umaichi)\n•Size: Approx. H150 x W210 x D40mm",
+      "bbox": {
+        "x": 0.6394,
+        "y": 0.6126,
+        "width": 0.3242,
+        "height": 0.0621
+      }
+    },
+    {
+      "type": "other",
+      "text": "•Size: Approx. H130 x W90 x D90mm (Volume: Approx. 300ml)\n•Material: PP, Thermoplastic Elastomer, Silicon Rubber",
+      "bbox": {
+        "x": 0.5136,
+        "y": 0.7811,
+        "width": 0.2227,
+        "height": 0.0105
+      }
+    },
+    {
+      "type": "other",
+      "text": "4 Types\nRegis Altare\nMagni Dezmond\nAxel Syrios\nNoir Vesper",
+      "bbox": {
+        "x": 0.7576,
+        "y": 0.6758,
+        "width": 0.197,
+        "height": 0.0916
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/fq3b1a90eje91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

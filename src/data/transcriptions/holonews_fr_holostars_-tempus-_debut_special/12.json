@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_holostars_-tempus-_debut_special",
+  "page": 12,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Noir Vesper",
+      "bbox": {
+        "x": 0.1015,
+        "y": 0.0063,
+        "width": 0.3303,
+        "height": 0.1116
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dernier, mais non le moindre, le Vampire Noir Vesper, pas si vieux que ça. En tant qu'érudit résident de la guilde TEMPUS à la Grande Bibliothèque, son entrée en scène a clôturé la vague des débuts.",
+      "bbox": {
+        "x": 0.0288,
+        "y": 0.1284,
+        "width": 0.4742,
+        "height": 0.0916
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il nous a salués tout en essayant de se calmer en prétendant qu'il n'y avait que 10 spectateurs qui regardaient ses débuts.",
+      "bbox": {
+        "x": 0.0288,
+        "y": 0.2242,
+        "width": 0.4742,
+        "height": 0.0537
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir repris ses esprits, il a présenté sa carte de guilde pour permettre au tchat d'en savoir plus sur lui. Il a 28 ans, mais ne lui demandez pas depuis combien de temps il a cet âge. Il a dit que son rôle de conseiller académique de la guilde est d'apprendre à lire à Axel. Il a ensuite commencé à faire l'éloge de son compagnon de guilde pendant quelques minutes, ce qu'Axel a compris.",
+      "bbox": {
+        "x": 0.0288,
+        "y": 0.2821,
+        "width": 0.4742,
+        "height": 0.1674
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Faisant état de sa maladresse, il est passé directement à ce qu'il aime et n'aime pas. Il a donné des exemples très précis pour donner aux spectateurs une meilleure idée de qui il est en tant que personne.",
+      "bbox": {
+        "x": 0.0288,
+        "y": 0.4547,
+        "width": 0.4742,
+        "height": 0.0905
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'exemple très spécifique qu'il a cité est la sensation de décoller le film plastique d'un nouvel appareil électronique. Il avait conservé tout le plastique acquis grâce à son précédent emploi et l'avait enveloppé jusqu’à avoir une boule de la taille d'un ballon de volley-ball, et avait gardé ce trésor dans sa voiture pendant six ans. La balle en plastique lui rappelait qu'il s'amuserait à nouveau au travail. Vesper a ensuite déclaré qu'il était ravi d'être dans HOLOSTARS.",
+      "bbox": {
+        "x": 0.4227,
+        "y": 0.5716,
+        "width": 0.5364,
+        "height": 0.1958
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a ensuite parlé de ses animés et jeux préférés, puis a montré ses hashtags, ses objectifs et ses attentes. Il a déclaré que l'un de ses objectifs était d'atteindre le million d'abonnés pour pouvoir demander à jouer au golf avec YAGOO et le battre haut la main.",
+      "bbox": {
+        "x": 0.4227,
+        "y": 0.7695,
+        "width": 0.5303,
+        "height": 0.1168
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour terminer ses débuts, il a montré son écran de fin où il était écrit « S'il vous plaît, rentrez chez vous maintenant » mais il a dit « Ne rentrez pas encore chez vous, nous avons encore une collaboration de groupe ! ».",
+      "bbox": {
+        "x": 0.4227,
+        "y": 0.8916,
+        "width": 0.5394,
+        "height": 0.0947
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/9lxhek90eje91.png",
+    "gifFrame": null,
+    "confidence": 86
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 11,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "STARS",
+      "bbox": {
+        "x": 0.4338,
+        "y": 0.0174,
+        "width": 0.1331,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.1667,
+        "y": 0.1806,
+        "width": 0.116,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après une absence de 12 jours due au Covid, Roberu peut à nouveau streamer. Il est plein d'énergie et le public l'a accueilli chaleureusement. Sa voix est encore rauque et il a toujours une toux, mais il est déjà très bavard. Il nous a dit qu'il a souffert de symptômes très désagréables : il avait 39,7°C de fièvre, avait perdu le goût et l'odorat, et avait mal à la tête et aux dents. Roberu ne sait pas exactement comment il a contracté la maladie, car il ne sortait que pour aller au magasin, portait toujours un masque et se lavait souvent les mains.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.2183,
+        "width": 0.3931,
+        "height": 0.191
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir partagé son histoire, il a commencé à parler de Elden Ring, jeu auquel il a joué pendant qu'il était malade, de l'épisode de WachaSTARS avec Shibasaki Noriko, de la SUPER EXPO et de sa prochaine apparition au tournoi VTuber Saikyou avec Kaga Sumire et Hanabusa Lisa. Roberu reprend les streams à son propre rythme, mais tout le monde est heureux qu'il se sente enfin mieux.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.4249,
+        "width": 0.3787,
+        "height": 0.1584
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Astel",
+      "bbox": {
+        "x": 0.1667,
+        "y": 0.7231,
+        "width": 0.0787,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant qu'Astel était en pause, ses membres et sa monétisation ont été désactivés. Quatre jours plus tard, le management a annoncé que la monétisation de sa chaîne avait été rétablie.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.7656,
+        "width": 0.3306,
+        "height": 0.0846
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Vous pouvez désormais redevenir membres et recevoir chaque mois un fond d'écran d'ordinateur et de téléphone d'un auteur différent, ainsi que des voix off sur le sujet de ces illustrations. Le 1er avril sera le premier anniversaire de cet abonnement.",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.8689,
+        "width": 0.3825,
+        "height": 0.0994
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Roberu",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.1806,
+        "width": 0.116,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La radio de Roberu et Yuuki Ono, Hen na Radio, s'est arrêtée à 52 émissions, après un an d'antenne. Cela a toujours été le rêve de Roberu d'animer une radio, il était donc très heureux de pouvoir le faire avec quelqu'un comme Yuuki Ono. Roberu a remercié tous ceux qui ont aidé la radio au cours de l'année écoulée pour leur travail acharné.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.2183,
+        "width": 0.39,
+        "height": 0.1172
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HOLOSTARS",
+      "bbox": {
+        "x": 0.6319,
+        "y": 0.4783,
+        "width": 0.2063,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Holostars et Family Mart se sont associés pour sortir des produits dérivés le 24 mars, qui comprennent deux types de marchandises : des pochettes et des supports en acrylique avec des images de Natsuo-sensei. Les dossiers comportent trois séries : la série A avec Miyabi, Rikka et Shien; la série B avec Aruran, Astel et Roberu; et la série C avec Izuru, Temma et Oga.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.5156,
+        "width": 0.3831,
+        "height": 0.1385
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les pochettes sont disponibles à l'achat dans toutes les succursales de Family Mart. Les supports en acrylique peuvent également être commandés en ligne, mais ne peuvent être obtenus qu'auprès de Family Mart. Les stands réservés peuvent être retirés du 2 au 15 juillet. Malheureusement, ce produit n'est disponible qu'au Japon.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.6684,
+        "width": 0.38,
+        "height": 0.1246
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Izuru",
+      "bbox": {
+        "x": 0.6373,
+        "y": 0.8565,
+        "width": 0.0853,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Izuru a ré-enregistré certaines chansons de ses streams intitulés « Goodnight unarchived piano ». Il l'a fait parce que son chant doux peut aider ceux qui ont du mal à s'endormir. Allez voir ses archives de superbes berceuses.",
+      "bbox": {
+        "x": 0.5269,
+        "y": 0.9015,
+        "width": 0.425,
+        "height": 0.0729
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/pcshx2gnbjr81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2102_-_2702",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "L’anniversaire d’Okayu",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.1697,
+        "width": 0.2062,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan de retour de son séjour d’une semaine à l’hôpital",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.2218,
+        "width": 0.2475,
+        "height": 0.089
+      }
+    },
+    {
+      "type": "heading",
+      "text": "HoloID ont fini leur navire",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.3255,
+        "width": 0.215,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "heading",
+      "text": "L’anniversaire de Shien",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.3819,
+        "width": 0.2519,
+        "height": 0.0425
+      }
+    },
+    {
+      "type": "heading",
+      "text": "La nouvelle tenue d’Izuru",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.4384,
+        "width": 0.2606,
+        "height": 0.0434
+      }
+    },
+    {
+      "type": "other",
+      "text": "Assurez-vous de ne manquer aucune sortie en rejoignant r/HoloNews",
+      "bbox": {
+        "x": 0.0163,
+        "y": 0.9657,
+        "width": 0.9475,
+        "height": 0.0217
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cpqvl105e0m81.png",
+    "gifFrame": null,
+    "confidence": 78
+  }
+}

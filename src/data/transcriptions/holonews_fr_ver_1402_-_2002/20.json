@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1402_-_2002",
+  "page": 20,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENTS À VENIR",
+      "bbox": {
+        "x": 0.0528,
+        "y": 0.0393,
+        "width": 0.4057,
+        "height": 0.0655
+      }
+    },
+    {
+      "type": "other",
+      "text": "(Du 22 au 28 février)",
+      "bbox": {
+        "x": 0.1875,
+        "y": 0.1115,
+        "width": 0.1588,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 22 février : Anniversaire et concert d'Okayu\n• 24 février : 2e anniversaire de Bakatare et concert « Bakataration party »\n• 25 février : Anniversaire de Shien\n• 28 février : Anniversaire d'A-chan\n• 29 février : Anniversaire de Bae",
+      "bbox": {
+        "x": 0.0869,
+        "y": 0.1372,
+        "width": 0.3606,
+        "height": 0.1883
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PALIERS D’ABONNÉS",
+      "bbox": {
+        "x": 0.5717,
+        "y": 0.0393,
+        "width": 0.3321,
+        "height": 0.0668
+      }
+    },
+    {
+      "type": "other",
+      "text": "LAPLUS 700K\nIROHA 500K\nNENE 900K",
+      "bbox": {
+        "x": 0.6226,
+        "y": 0.1402,
+        "width": 0.2208,
+        "height": 0.152
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci !",
+      "bbox": {
+        "x": 0.3906,
+        "y": 0.6081,
+        "width": 0.2264,
+        "height": 0.0328
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0717,
+        "y": 0.6461,
+        "width": 0.8585,
+        "height": 0.1298
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.3137,
+        "y": 0.793,
+        "width": 0.3825,
+        "height": 0.056
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/38e8fj9hplk81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

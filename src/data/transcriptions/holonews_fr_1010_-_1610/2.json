@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1010_-_1610",
+  "page": 2,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Le 13 octobre, Ollie a fêté son anniversaire ! Elle a organisé un stream de décompte trente minutes avant minuit. À minuit pile, elle a révélé un nouvel accessoire, le masque Panji, pour sa tenue de la fête de l'indépendance indonésienne. Elle peut le porter sur son visage, sur le côté de sa tête ou le tenir dans sa main. Le masque a été créé par Zearu-sensei (@rirukurara).",
+      "bbox": {
+        "x": 0.0644,
+        "y": 0.4067,
+        "width": 0.3863,
+        "height": 0.1775
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour son stream d'anniversaire, elle a organisé un karaoké en appel, où elle chantait avec des invités qui avaient envoyé leurs voix préenregistrées. Pendant près de cinq heures, elle a chanté quarante-deux chansons (sans compter les répétitions) avec quarante-neuf invités, dont vingt-neuf membres d'hololive, des VTubers d'autres agences et des indépendants, comme Obake PAM de Playasia, la chanteuse indépendante splendiferachie et Zen Gunawan de MAHA5.",
+      "bbox": {
+        "x": 0.065,
+        "y": 0.5964,
+        "width": 0.3863,
+        "height": 0.2253
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour ses produits dérivés d'anniversaire, elle propose deux ensembles distincts avec leurs propres bonus. Le premier est un ensemble de voix, qui comprend deux voix de situation (une en indonésien, l'autre en japonais et en anglais). En achetant les deux, vous obtenez une voix bonus et le scénario écrit.",
+      "bbox": {
+        "x": 0.5644,
+        "y": 0.276,
+        "width": 0.3863,
+        "height": 0.145
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le second est un ensemble de produits dérivés, qui comprend :\n• Un paillasson en caoutchouc\n• Un collier\n• Un étui pour PC/tablette\n• Un ensemble de bombes de bain",
+      "bbox": {
+        "x": 0.565,
+        "y": 0.6033,
+        "width": 0.385,
+        "height": 0.0981
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Tous les articles comportent une image clé de LAM-mama (sauf le collier, qui n'a pas d'image). Le bonus du set complet est une carte postale avec une signature manuscrite et un message d'Ollie. Le set de merchandising est déjà en rupture de stock sur le holoshop.",
+      "bbox": {
+        "x": 0.5644,
+        "y": 0.714,
+        "width": 0.3856,
+        "height": 0.1298
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Parmi les autres annonces, on retrouve sa prochaine émission de radio bihebdomadaire intitulée « RADIOLLIE » ainsi qu'une reprise de « Zombie » de DECO*27, dont l'original comportait Ollie dans le refrain. Gardez l'œil ouvert pour plus d'informations !",
+      "bbox": {
+        "x": 0.565,
+        "y": 0.8542,
+        "width": 0.3856,
+        "height": 0.1263
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/d01519587cw91.gif",
+    "gifFrame": 81,
+    "confidence": 93
+  }
+}

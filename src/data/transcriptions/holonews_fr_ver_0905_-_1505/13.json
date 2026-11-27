@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "EN",
+      "bbox": {
+        "x": 0.472,
+        "y": 0.017,
+        "width": 0.058,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.169,
+        "y": 0.179,
+        "width": 0.075,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "IRyS a révélé que PapaRyS est un grand fan d'elle et de Bae. Il s'avère que PapaRyS, qui ne regarde pas d'anime, a déjà rempli une pièce entière de produits IRyS pour soutenir sa fille. Il a également acheté récemment des cartes Weiss Schwarz avec IRyS et Bae et les a mises côte à côte car il « pensait que ce serait bien d'avoir les tourtereaux ensemble », au choc et à la stupéfaction d'IRyS.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.2183,
+        "width": 0.385,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "other",
+      "text": "HiRYS",
+      "bbox": {
+        "x": 0.6,
+        "y": 0.113,
+        "width": 0.064,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.179,
+        "width": 0.073,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "IRyS est revenue de sa pause ! Elle a fait un stream « court » (de plus de quatre heures) durant lequel elle a discuté avec son public. Elle avait pris une pause pour des raisons médicales (problèmes de gorge), mais elle va mieux. Son tchat a relevé le fait qu'elle avait l'air plus innocente après sa pause.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.2183,
+        "width": 0.3794,
+        "height": 0.0938
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fauna",
+      "bbox": {
+        "x": 0.172,
+        "y": 0.417,
+        "width": 0.098,
+        "height": 0.019
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 15 mai, Fauna a sorti sa première chanson originale, « Let Me Stay Here », produite par Shibayan Records. Le clip a été réalisé par awa, avec des illustrations de a20. La chanson met en valeur le registre aigu et la voix douce de Fauna. Lors du stream débrief, elle a fait une analyse rapide des paroles avant de porter son attention sur un album numérique que ses fans ont fait pour son anniversaire, qui était plein de fanarts, de photos de la nature et de photos d’animaux domestiques. Après cela, elle a donné des détails sur la production de la chanson.",
+      "bbox": {
+        "x": 0.1737,
+        "y": 0.3659,
+        "width": 0.7401,
+        "height": 0.1028
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Divers",
+      "bbox": {
+        "x": 0.4369,
+        "y": 0.4909,
+        "width": 0.1263,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "heading",
+      "text": "The Anime Man",
+      "bbox": {
+        "x": 0.169,
+        "y": 0.648,
+        "width": 0.248,
+        "height": 0.022
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors d'une récente collaboration avec The Anime Man, Iofi, Calli et Ollie ont partagé leur anime préféré. Cette collaboration mettait en scène 108 créateurs de contenu, dont d'autres VTubers tels que Kizuna AI, Ironmouse et Monarch, mais surtout des YouTubers, streamers, artistes et des acteurs de vidéos pour adultes.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.6892,
+        "width": 0.3869,
+        "height": 0.1072
+      }
+    },
+    {
+      "type": "heading",
+      "text": "hololive",
+      "bbox": {
+        "x": 0.6369,
+        "y": 0.6493,
+        "width": 0.1256,
+        "height": 0.0174
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ina et Kiara ont officiellement annoncé la collaboration d'Hololive avec Valkyrie Connect sur la chaîne de Kiara. Elles ont visionné des illustrations promotionnelles à leur effigie, à celle de Pekora et de La+ et ont lu les commentaires des artistes. Elles ont également annoncé un événement dans le jeu appelé Dreams Come True = Connect Your Wish. Il s'agit d'un programme de cadeaux en trois phases dans lequel la progression du joueur dans le jeu sera liée à la remise de cadeaux réels aux talents par les fans et entre eux, et les talents pourront souhaiter des cadeaux offert par le personnel de Valkyrie Connect. Ina et Kiara ont encouragé les téléspectateurs à jouer le jeu et à partager leurs progrès sous le hashtag #HolokyrieConnect. Elles ont joué à un petit jeu où elles devaient répondre à la même question de la même manière, puis ont terminé le stream en partageant des informations sur Twitter.",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.6884,
+        "width": 0.3868,
+        "height": 0.2743
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0iwz07cndn191.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

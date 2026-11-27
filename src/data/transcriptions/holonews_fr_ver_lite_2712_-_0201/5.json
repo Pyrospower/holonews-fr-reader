@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2712_-_0201",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.1144,
+        "y": 0.1176,
+        "width": 0.3063,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.1613,
+        "y": 0.2899,
+        "width": 0.11,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Au terme de neuf mois de construction, de morts et de procrastination, Nene a enfin fini de construire son château dans Minecraft, juste avant que l’année ne se termine. Elle a également pointé du doigt les époux (ses fans) qui doutaient qu’elle puisse le finir.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.3316,
+        "width": 0.4188,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.6331,
+        "y": 0.2895,
+        "width": 0.11,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Apparemment, Nene ignorait jusqu’à l’annonce officielle qu’elle allait recevoir un costume pour le Nouvel An. Le fait que Nene ne sache pas garder un secret y est sûrement pour quelque chose.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.3312,
+        "width": 0.4175,
+        "height": 0.0799
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ShishiLamy",
+      "bbox": {
+        "x": 0.1644,
+        "y": 0.572,
+        "width": 0.2694,
+        "height": 0.0286
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron et Lamy ont terminé l’année 2021 avec un troisième combat Pokémon, les départageant suite à leur égalité de un partout. Celle qui sortirait vainqueur démarrerait l’année avec un avantage au score. Les règles étaient celles d’un duel standard en 6 contre 6, avec la particularité de devoir utiliser 3 Pokémon tout juste attrapés. Épaulée d’un Kaimorse surnommé Nene-chi, Shishiron a remporté la victoire ! Lamy et Botan ont toutes deux complimenté son Pachirisu, affectueusement surnommé « Passan », pour avoir excellé durant la partie.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.6155,
+        "width": 0.4175,
+        "height": 0.1858
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Démarrant l’année en beauté, les deux amies ont toutes capturé de rares Pokémon pour gonfler les rangs de leurs équipes. Lamy est parvenue à capturer un autre Magicarpe doré ainsi qu’un Barpau chromatique. LaLion, quant à elle, a réussi l’exploit d’attraper quatre Passan chromatiques ! Un cinquième aurait pu venir s’ajouter à la liste, sans une malencontreuse bévue de la part de Shishiron.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.816,
+        "width": 0.4206,
+        "height": 0.1285
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.5725,
+        "width": 0.1288,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Polka voulant se relaxer pour le réveillon du nouvel an, Izutsu-san a préparé un kotatsu autour duquel partager du vin et des collations pour cet épisode de la « Légende de Polka ». Polka a souligné le fait que 28 épisodes ont été tournés en 2021, « l’équivalent de deux saisons » selon elle. Izutsu-san, quant à elle, a exprimé son admiration pour la créativité et les idées trouvées par Polka pour chaque épisode. En ce qui concerne 2022, les objectifs de Polka sont les suivants : faire une collaboration avec Matsuko Deluxe (une vedette de la télé japonaise), ainsi qu’enregistrer un épisode en direct, éventuellement au Shinjuku Loft Plus One (lieu souvent utilisé par des comédiens). Polka a clôturé l’année 2021 en déclarant que même si l’année prenait fin, la légende de Polka continuerait de s’écrire !",
+      "bbox": {
+        "x": 0.5213,
+        "y": 0.6159,
+        "width": 0.4244,
+        "height": 0.2964
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/b6luaicubhb81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2401_-_3001",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holo ID",
+      "bbox": {
+        "x": 0.157,
+        "y": 0.059,
+        "width": 0.213,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.232,
+        "width": 0.103,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La semaine dernière, Ollie a partagé une photo de son chat, Piscok, marquant son retour sur Twitter après une semaine d'absence. Elle a aussi montré une image d’une portée de trois chatons qui sont chez ses parents. Elle a affiché l’image sur son stream et a même donné les noms des chatons : Molen, Bapit et Antonio. Elle prévoit même de les ramener chez elle quand ils auront un peu grandi.",
+      "bbox": {
+        "x": 0.0538,
+        "y": 0.2739,
+        "width": 0.4231,
+        "height": 0.1602
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a été invitée en tant que commentatrice du tournoi AEGIS pour VTubers sur Apex. Elle a commenté les quatres matchs principaux, en compagnie d’un joueur pro, RPR. Elle a même joué dans un cinquième match bonus en trio avec ce dernier et IPN, un autre joueur pro.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.4787,
+        "width": 0.4238,
+        "height": 0.112
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ollie",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.232,
+        "width": 0.103,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a enfin terminé son nuzlocke sur Pokémon Diamant Étincelant. Durant son parcours, elle a suivi les règles d’un nuzlocke et n’a pas réanimé un seul Pokémon. Cependant, elle a dû utiliser un rappel durant son combat contre Cynthia, après avoir soigné sans relâche son dernier Pokémon. De plus, elle a réussi à finir son nuzlocke durant les dernières heures restantes des droits de diffusion du jeu.",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.2739,
+        "width": 0.4194,
+        "height": 0.1762
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ollie a proposé un chant écrit via discord de « id:entity », qui a été fait sur le serveur privé d’holoro, qui a été publié et doublé par Ollie elle-même avec des sous-titres anglais. Dans la vidéo, Ollie a oublié les paroles du premiers vers, Reine n'arrêtait pas d’utiliser l’emoji pleure et essayait de détourner l’attention en chantant d'autres musiques. Moona a rejoint le groupe vers la fin de la chanson, n’ayant aucune idée de ce qu’il se passe. Quant à Anya, elle n’a pas participé au chant, étant donné qu’elle dormait.",
+      "bbox": {
+        "x": 0.5269,
+        "y": 0.4905,
+        "width": 0.4194,
+        "height": 0.1875
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Anya",
+      "bbox": {
+        "x": 0.156,
+        "y": 0.728,
+        "width": 0.115,
+        "height": 0.029
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Anya a participé à une collaboration avec son illustratrice, Uekura Eku, et ses filles. Le tout a été stream sur la chaîne de Tenteru Aparade. Elles ont joué à Gartic Phone et ont passé un moment adorable tout en dessinant. A la fin du live, tous les participants ont lu leurs lettres d’adieu pour le départ de Luca Polka, étant donné que sa dernière apparition en stream date de décembre 2021.",
+      "bbox": {
+        "x": 0.0525,
+        "y": 0.7687,
+        "width": 0.4231,
+        "height": 0.1567
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona, Anya & Iofi",
+      "bbox": {
+        "x": 0.6375,
+        "y": 0.8164,
+        "width": 0.3181,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette semaine, Moona, Anya et Iofi ont rejoint le serveur ARK d’hololive. Elles ont rencontré le PNJ Mukiroze, ont essayé de construire leur propre base et plus généralement, de ne pas mourir, chose que leurs tchats s’attendaient le plus de voir.",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.8542,
+        "width": 0.4194,
+        "height": 0.0868
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/tnixxkhuufg81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_2410_-_3010",
+  "page": 20,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.0275,
+        "y": 0.2548,
+        "width": 0.4444,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 1er novembre : Anniversaire d'Axel\n• 1er novembre : NonStop NN\n• 3 novembre : Stream 3D pour l'anniversaire de début de Marine\n• 5 novembre : Début 3D de Rio\n• 6 novembre : Festival de Sports hololive 2022\n• 7 november : Anniversaire de Zeta",
+      "bbox": {
+        "x": 0.0656,
+        "y": 0.3364,
+        "width": 0.3901,
+        "height": 0.2057
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.673,
+        "y": 0.26,
+        "width": 0.154,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "other",
+      "text": "Fubuki 2M\nOga 170k\nRikka 220k",
+      "bbox": {
+        "x": 0.65,
+        "y": 0.355,
+        "width": 0.26,
+        "height": 0.093
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.651,
+        "width": 0.28,
+        "height": 0.046
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou juste rester à jour sur tout ce qui concerne hololive,",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.7023,
+        "width": 0.548,
+        "height": 0.056
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "n'hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d'HoloNews !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.779,
+        "width": 0.56,
+        "height": 0.078
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d'avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.8681,
+        "width": 0.2888,
+        "height": 0.0386
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce numéro sera pour l'instant le dernier traduit en français, merci à tous pour votre soutien !",
+      "bbox": {
+        "x": 0.0569,
+        "y": 0.9171,
+        "width": 0.3925,
+        "height": 0.0725
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/cbumokb7o22a1.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

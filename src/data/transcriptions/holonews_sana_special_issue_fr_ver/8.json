@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_sana_special_issue_fr_ver",
+  "page": 8,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "SES DEBUTS",
+      "bbox": {
+        "x": 0.0533,
+        "y": 0.0802,
+        "width": 0.4944,
+        "height": 0.0424
+      }
+    },
+    {
+      "type": "other",
+      "text": "PAGE 2",
+      "bbox": {
+        "x": 0.6433,
+        "y": 0.0949,
+        "width": 0.1111,
+        "height": 0.017
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sana aime les pâtes, les macarons et les objets ronds, mais n'aime pas éternuer, car il y a un risque que son limiteur fonctionne mal et déclenche tous les volcans de la planète. Elle aime les jeux mignons comme Animal Crossing, les kusoge et ceux qui provoquent des crises existentielles. Pour les anime, elle recommande Kyousougiga, Uchouten Kazoku et Katanagatari. Elle est fan d'artistes EDM, comme Camellia et Snail's House. Ses passe-temps sont l'astronomie, l'astrologie, le dessin et les voyages. Elle fait également du graphisme et a réalisé elle-même le décor du stream !",
+      "bbox": {
+        "x": 0.0428,
+        "y": 0.3708,
+        "width": 0.9217,
+        "height": 0.1154
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuite, Sana a présenté son illustrateur, Pako (@pakosun), qui a travaillé sur Fate/Grand Order, et son rigger Live2D, tou_ilie, qui a déjà rig 12 autres holomems avant elle. Sana a également révélé son emoji (planet□) et le nom de ses fans, les Sanallites !",
+      "bbox": {
+        "x": 0.0561,
+        "y": 0.5266,
+        "width": 0.4439,
+        "height": 0.1073
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour les prochains streams, Sana a prévu de parler d'astrologie et de faire des revues de signes astrologiques mensuellement, en commençant par la Vierge. Elle a également prévu de jouer à un kusoge tous les lundis. Enfin, ses objectifs étaient les suivants :",
+      "bbox": {
+        "x": 0.0572,
+        "y": 0.6528,
+        "width": 0.4444,
+        "height": 0.0968
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Acheter un télescope et essayer l'astrophotographie\n• Voir Yatagarasu en 3D\n• Faire rire et sourire tout le monde\n• Rester un an sans détruire la terre",
+      "bbox": {
+        "x": 0.5211,
+        "y": 0.6682,
+        "width": 0.4244,
+        "height": 0.0795
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme le veut la tradition, Sana nous a présenté son modèle en détail, montrant la limace de mer et le crabe présents sur les planètes dans ses cheveux, Yatagarasu, qui suit ses mouvements, et même ses pieds. Cependant, en montrant ses yeux brillants, Sana a décidé d'enlever son limiteur de taille, provoquant un désastre ! Sa vraie taille a fait sortir la Terre de son orbite et l'a envoyée dans le vide ! On peut dire que son dernier objectif n'a pas tenu longtemps. Bien sûr, Sana se sentait coupable d'avoir détruit la Terre et, estimant qu'elle nous devait quelque chose, a décidé de chanter le premier couplet de « Seikan Hikou » de Macross Frontier. Sana nous a dit au revoir, laissant la place à Fauna pour faire revivre la Terre, posant ainsi les bases de la vie une fois de plus.",
+      "bbox": {
+        "x": 0.055,
+        "y": 0.7978,
+        "width": 0.89,
+        "height": 0.1466
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/9f168h2un4f91.gif",
+    "gifFrame": 83,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2803_-_0304",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 0",
+      "bbox": {
+        "x": 0.4375,
+        "y": 0.0174,
+        "width": 0.1256,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "heading",
+      "text": "AZKI",
+      "bbox": {
+        "x": 0.1619,
+        "y": 0.1823,
+        "width": 0.0794,
+        "height": 0.0178
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "AZKi est finalement passé de INNK Music à Hololive et a marqué le coup avec un court stream relaxant samedi. Elle a commencé avec une nouvelle animation pour son écran de chargement. Miko a même laissé un message de soutien en tant que camarade de génération. Un peu plus tard, au milieu du stream, elle a montré ses nouveaux décor de stream, contenant des images de son nouvel album solo, des chibis de son ancien modèle à elle et Sora, et une photo de groupe de la gen 0. Elle a même un nouvel écran de fin de stream.",
+      "bbox": {
+        "x": 0.065,
+        "y": 0.2153,
+        "width": 0.4013,
+        "height": 0.1879
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sur un ton plus sérieux, elle a parlé de ses sentiments concernant la transition d'INNK Music à hololive. AZKi a déclaré que dans une autre réalité, elle aurait simplement pris sa retraite le 31 mars en même temps que la clôture du projet, mais elle a décidé de rester et de tourner la page. Elle a de grands projets, alors accueillons chaleureusement AZKi dans les rangs d'hololive et souhaitons-lui bonne chance pour l'avenir !",
+      "bbox": {
+        "x": 0.065,
+        "y": 0.4219,
+        "width": 0.4044,
+        "height": 0.1467
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.1656,
+        "y": 0.7105,
+        "width": 0.0925,
+        "height": 0.0165
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La radio du dimanche après midi de Suisei et Azusa Tadokoro continuera ! Il a été annoncé sur twitter que la radio continuera pour une seconde année et qu’il y aura un teaser pour le prochain épisode.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.75,
+        "width": 0.3863,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.6275,
+        "y": 0.1819,
+        "width": 0.0813,
+        "height": 0.0178
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Miko a essayé pour la première fois Elden Ring, la semaine dernière ! Elle semblait s'amuser sur le jeu, tellement qu’elle a même essayé de battre la Sentinelle de l’arbre en ne prenant aucun dégât. Elle a passé plus de 4 heures sur le combat mais à la fin, elle a réussi son défi.",
+      "bbox": {
+        "x": 0.5313,
+        "y": 0.2153,
+        "width": 0.3881,
+        "height": 0.1011
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Sora",
+      "bbox": {
+        "x": 0.6288,
+        "y": 0.4553,
+        "width": 0.0744,
+        "height": 0.0182
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sora n’a pas fait tant de poisson d’avril. Son tweet matinal était un peu différent que d’habitude, avec une vidéo d’Ankimo en train de danser. Plus tard le même jour, elle a montré un accessoire 3D pour Pâques, un panier à œuf mis sur sa tête. Le panier est assorti à ses écouteurs.",
+      "bbox": {
+        "x": 0.5394,
+        "y": 0.4974,
+        "width": 0.3838,
+        "height": 0.1024
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Miko",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.7548,
+        "width": 0.0806,
+        "height": 0.0178
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Récemment, Miko a été très proche d’Haachama, tellement proche qu’elles ont même eu un rencard ensemble. De nombreux spectateurs l’ont accusé de tromperie, parce qu’elle a déjà déclaré sa flamme à Ame et Sora.",
+      "bbox": {
+        "x": 0.54,
+        "y": 0.7947,
+        "width": 0.3869,
+        "height": 0.0846
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/yxqpv5t6qws81.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2911_-_0512",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Kureiji Ollie",
+      "bbox": {
+        "x": 0.1067,
+        "y": 0.0448,
+        "width": 0.3228,
+        "height": 0.039
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce 4 décembre, Ollie a célébré son premier anniversaire depuis ses débuts en regardant son tout premier stream ! Nostalgique, elle a utilisé à nouveau l’écran de chargement, l’overlay et la musique de fond qu’elle avait lors de ses débuts. Elle est allée jusqu’à rejouer le cri légendaire qu’elle a poussé alors qu’elle rencontrait le tchat pour la première fois.",
+      "bbox": {
+        "x": 0.0178,
+        "y": 0.1057,
+        "width": 0.505,
+        "height": 0.0999
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant sa réaction à ses débuts, elle n’a cessé de grimacer face à son ancienne personnalité, puis s’est mise à comparer son comportement et son activité actuels avec ceux de cette époque. Elle est même allée jusqu’à essayer de chanter à nouveau la chanson « Karakuri Pierrot » pour confirmer sa progression. Ollie a pu remarquer de nombreux messages de ses aînées dans le tchat de la rediffusion, comme des « STONKS » inopinés d'Aruran, la réaction d’Astel quand elle a évoqué son amour pour les films Disney, et Moona, exaltée devant ses débuts.",
+      "bbox": {
+        "x": 0.0167,
+        "y": 0.2199,
+        "width": 0.5078,
+        "height": 0.1551
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En second lieu, elle a réagi à un clip vidéo créé par des fans contenant des messages de Zomrades, Zomilies, clippeurs, et même d'amis. Elle fut tellement touchée qu’elle se mit à pleurer à chaudes larmes. Après s’être calmée, elle a continué à lire les lettres individuelles envoyées par des Zomrades sur Twitter.",
+      "bbox": {
+        "x": 0.0178,
+        "y": 0.392,
+        "width": 0.4872,
+        "height": 0.086
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a terminé en lisant une lettre qu’elle avait écrite elle-même afin de remercier tout le monde de l’avoir soutenue et aimée malgré ses travers.",
+      "bbox": {
+        "x": 0.0183,
+        "y": 0.4923,
+        "width": 0.5089,
+        "height": 0.0428
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Anya Melfissa",
+      "bbox": {
+        "x": 0.0582,
+        "y": 0.5934,
+        "width": 0.4091,
+        "height": 0.0366
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Anya fête son 1er anniversaire ! Elle a commencé son stream en faisant une rétrospective de ses débuts. Elle a parlé de ses anciens Visual Novel qu’elle voulait montrer en entier, mais elle n’a pas pu retrouver les fichiers, donc elle est finalement allée sur son PowerPoint de l’époque. Anya a ensuite demandé au tchat qu’elles avaient été leurs moments préférés de ses débuts. Les réponses allaient de son Visual Novel à ses cris d'amour pour Fubuki. Anya enchaîna avec une lecture de lettres de fan ainsi qu’un tour des différents fanarts, Reine et Astel en ont profité pour apparaître dans le tchat.",
+      "bbox": {
+        "x": 0.0236,
+        "y": 0.6477,
+        "width": 0.5018,
+        "height": 0.1768
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À l’approche de la fin du stream, Anya dit que plutôt que recevoir plus, elle donnerait plus à partir de maintenant. Elle annonça ensuite qu’elle comptait organiser 12 heures de stream en relais le 8 décembre pour le premier anniversaire d’holoRo. Le programme pourra être trouvé sur son Twitter. Elle a aussi annoncé l’apparition de produits dérivés holoRo spécial anniversaire. Elle a terminé en remerciant ses spectateurs et Melfriends d’être venus pour son stream Anyaversaire.",
+      "bbox": {
+        "x": 0.0236,
+        "y": 0.8396,
+        "width": 0.5018,
+        "height": 0.1465
+      }
+    },
+    {
+      "type": "other",
+      "text": "HoloLiveID 2nd Generation\nHOLORO\n1st Anniversary\n12 HOURS RELAY\n8th Dec. 2021\n10 AM-10 PM GMT+7",
+      "bbox": {
+        "x": 0.5709,
+        "y": 0.8119,
+        "width": 0.3527,
+        "height": 0.1578
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/y903pm7rjq581.gif",
+    "gifFrame": 101,
+    "confidence": 89
+  }
+}

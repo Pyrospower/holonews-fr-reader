@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2712_-_0201",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Projets de fans",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.0451,
+        "width": 0.2969,
+        "height": 0.0269
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Holostars",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.115,
+        "width": 0.2275,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Our Stars, un fanzine basé sur les holostars paru récemment, contient une série de fan art et d’histoires sur les membres passés et actuels. Le fanzine est téléchargeable dès maintenant avec des produits dérivés numériques des membres d’holostars pour un usage personnel.",
+      "bbox": {
+        "x": 0.0494,
+        "y": 0.1827,
+        "width": 0.4244,
+        "height": 0.1115
+      }
+    },
+    {
+      "type": "other",
+      "text": "OUR STARS\nFanzine",
+      "bbox": {
+        "x": 0.53,
+        "y": 0.1866,
+        "width": 0.3925,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "heading",
+      "text": "LET’S PLAY",
+      "bbox": {
+        "x": 0.1913,
+        "y": 0.3676,
+        "width": 0.3419,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "other",
+      "text": "★ LET’S PLAY TERMINÉS",
+      "bbox": {
+        "x": 0.7619,
+        "y": 0.3628,
+        "width": 0.1706,
+        "height": 0.0369
+      }
+    },
+    {
+      "type": "other",
+      "text": "BlueArchive | MARIO STORY | SPELUNKER PARTY!\n★ Jump King | Animal Crossing New Horizons | ★ Jump King NEW BABE +\nTHE LEGEND OF ZELDA BREATH OF THE WILD | DRAGON QUEST X | INSCRYPTION\nGranny Simulator | GOD FIELD | Passpartout The Starving Artist",
+      "bbox": {
+        "x": 0.125,
+        "y": 0.4319,
+        "width": 0.83,
+        "height": 0.2565
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4cz7kicubhb81.png",
+    "gifFrame": null,
+    "confidence": 79
+  }
+}

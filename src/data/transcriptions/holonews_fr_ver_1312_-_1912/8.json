@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1312_-_1912",
+  "page": 8,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLOFORCE",
+      "bbox": {
+        "x": 0.0906,
+        "y": 0.0291,
+        "width": 0.3481,
+        "height": 0.0256
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kanata",
+      "bbox": {
+        "x": 0.163,
+        "y": 0.202,
+        "width": 0.162,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors d’un stream Pokémon Diamant Étincelant, l’un des Pokémon de Kanata a attrapé le Pokérus, qui s’est ensuite répandu dans le reste de son équipe. Les chances d’un tel évènement sont d’1 sur 21 845. Sa chance ne s’est pas arrêtée là : elle a rencontré un Maraiste chromatique dans le Parc Safari ! Malheureusement, il s’est enfui après s’être échappé des nombreuses Pokéballs lancées par Kanata.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.2413,
+        "width": 0.4238,
+        "height": 0.1554
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Mio a lu l’avenir de Kanata dans des cartes de Tarot en stream. Mio lui a donné des conseils pour affronter l’année 2022, qui promet d’être mouvementée pour notre Tenshi. Sans surprise, la carte la plus tirée pour Kanata a été celle de la « Force ».",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.4214,
+        "width": 0.4144,
+        "height": 0.1172
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Towa",
+      "bbox": {
+        "x": 0.634,
+        "y": 0.202,
+        "width": 0.122,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant son stream Overwatch matinal, Towa a frappé son bureau après s’être faite tuer, renversant son thé qui s’est répandu sur tout son équipement. Bien qu’elle en ait ri sur l’instant, elle s’est plus tard rendu compte que les dommages n’étaient peut-être pas si bénins qu’elle pensait.",
+      "bbox": {
+        "x": 0.522,
+        "y": 0.241,
+        "width": 0.42,
+        "height": 0.132
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suite au succès du précédent, Towa organise un nouveau tournoi Mario Kart rassemblant un total de 44 membres répartis sur toutes les générations d’hololive. Il est planifié pour le 7 janvier.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.4253,
+        "width": 0.4231,
+        "height": 0.0959
+      }
+    },
+    {
+      "type": "heading",
+      "text": "NEPOLABO",
+      "bbox": {
+        "x": 0.0238,
+        "y": 0.5573,
+        "width": 0.3956,
+        "height": 0.0508
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.164,
+        "y": 0.738,
+        "width": 0.134,
+        "height": 0.025
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shishiron a révélé son modèle 3D à domicile, rejoignant le reste du NePoLaBo. Vêtue de sa tenue originelle, dont elle peut retirer le manteau, la lionne a passé en revue ses nombreuses adorables expressions avant de faire le tour de son modèle. Pour les fêtes, Botan était également équipée d’un second costume de Mère Noël, avec pour accessoires une tête de bonhomme de neige, un serre-tête à bois de cerf et un bonnet de Noël. Mais ce n’est pas tout ! Comme cadeau de Noël en avance, Botan a également ajouté un SSRB (disponible en chacune des trois couleurs) à son modèle 2D. Ses fans siègent maintenant avec joie sur sa tête.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.7791,
+        "width": 0.4256,
+        "height": 0.194
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.738,
+        "width": 0.126,
+        "height": 0.028
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy s’est jointe à ses aînées, Kanata et Okayu, pour se préparer au tournoi Mario Kart qui approche. Le trio a formé le groupe KAOKAYUI, qui veut aussi dire « visage qui démange ». La course mise à part, Kanata et Okayu ont essayé d’apprendre à Lamy comment faire une voix de beau garçon. Malheureusement pour Lamy, son personnage surnommé Lamio avait la voix d’Orochimaru.",
+      "bbox": {
+        "x": 0.524,
+        "y": 0.779,
+        "width": 0.426,
+        "height": 0.154
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8qzv4gr7op881.png",
+    "gifFrame": null,
+    "confidence": 88
+  }
+}

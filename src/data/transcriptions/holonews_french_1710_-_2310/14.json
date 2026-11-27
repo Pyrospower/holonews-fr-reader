@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_french_1710_-_2310",
+  "page": 14,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Kiara",
+      "bbox": {
+        "x": 0.14,
+        "y": 0.1528,
+        "width": 0.1075,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un coup d’état a eu lieu à KFP, où Frogiwawa a détrôné notre chère Kiara de son poste de Tenchou, causant la « semaine Frogiwawa » durant laquelle les streams de Kiara (qui portait une tenue 3D de grenouille, ainsi qu’une arme à feu) avaient tous un lien avec les grenouilles.",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.1897,
+        "width": 0.4456,
+        "height": 0.0777
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Durant le règne de Frogiwawa, il a été dévoilé que cette dernière avait deux ans et aimait les pommes accompagnées de lucioles. Elle a également menacé « d’étrangler ce p*tain de poulet » pendant son let’s play sur Time on Frog Island. Elle a aussi suivi l’exemple d’Ame dans Frog Detective, s’est vantée d’avoir tué la femme de Reine, et a calmement dévoilé que Calli laissait sa nourriture à l’air libre tellement longtemps que des mouches étaient attirées. Longue vie à Frogiwawa !",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.2678,
+        "width": 0.4456,
+        "height": 0.1298
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.2425,
+        "y": 0.4123,
+        "width": 0.1237,
+        "height": 0.0252
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fauna, Bae, Mumei et Haachama ont organisé une collab sur Fall Guys, où elles ont démontré la vraie puissance d’holoEN. Bae a également mentionné l’adorable accent australien qu’Haachama utilise parfois, précisant qu’elle en a même parlé à Fauna avant le stream.",
+      "bbox": {
+        "x": 0.0406,
+        "y": 0.457,
+        "width": 0.445,
+        "height": 0.0751
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holoX",
+      "bbox": {
+        "x": 0.12,
+        "y": 0.5495,
+        "width": 0.1175,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Un manga holoX intitulé holoX MEETing a été annoncé ! Il a été dévoilé lors d’une annonce d’Ultra Jump le 19 octobre, et sera illustré par Okada Anmitsu-sensei. La prépublication du manga débutera le 17 novembre.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.5946,
+        "width": 0.4463,
+        "height": 0.0621
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ame",
+      "bbox": {
+        "x": 0.6075,
+        "y": 0.1493,
+        "width": 0.0938,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le terrifiant mois d’octobre, nous avons assisté au retour de Ghost Ame ! Lors d’un stream simplement intitulé 🅑🅞🅞🅞🅞🅞🅞🅞🅞🅞, les fans ont eu le droit à un karaoké de plus d’une heure de la part de l’apparition fantomatique. Dans un stream ultérieur, l’effrayante Ame a même présenté de nouvelles tenues dont une Ghost Ame en kimono, une Ame cyclope unijambiste avec une jupe à la place de son visage, une Ame à trois jambes, une sorcière smol Ame, ainsi qu’une Ame vampire.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.1949,
+        "width": 0.4463,
+        "height": 0.1298
+      }
+    },
+    {
+      "type": "heading",
+      "text": "IRyS",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.3359,
+        "width": 0.1594,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les IRyStocrats frappent encore ! Notre chère nephilim a été témoin d’un afflux de nouveaux membres alors qu’elle parlait de sa collaboration avec Suisei, Calli et AZKi pour la reprise de « Ifuudoudou » de Sora. Cette musique est connue pour être assez sensuelle. IRyS a révélé avoir en sa possession les enregistrements de ses gémissements et a dit sur le ton de la plaisanterie qu’elle les dévoilerait peut-être lors d’un stream réservé aux membres puisque le tchat serait « trop excité par ça ». Ces mots ont déclenché une vague de nouveaux membres (faisant paniquer IRyS), l’obligeant à préciser qu’elle devait « garder ses streams tous publics ».",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.3819,
+        "width": 0.4463,
+        "height": 0.1688
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iroha",
+      "bbox": {
+        "x": 0.5875,
+        "y": 0.6953,
+        "width": 0.1087,
+        "height": 0.0243
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre samouraï Iroha a décidé de prolonger sa pause jusqu’au 2 novembre, sa gorge n’étant pas totalement rétablie. Bien qu’elle voudrait reprendre les streams, elle veut avant tout être en parfaite santé pour participer au festival de sport sur Minecraft le 6 novembre.",
+      "bbox": {
+        "x": 0.5106,
+        "y": 0.7405,
+        "width": 0.4469,
+        "height": 0.0751
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Laplus",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.8247,
+        "width": 0.2031,
+        "height": 0.0421
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Laplus a lu quelque part que beaucoup de Kaigai Niki (les fans étrangers) regardaient ses streams, elle a donc essayé de les invoquer avec la fameuse formule « Hey guys ! » Les réponses rapides et enthousiastes des spectateurs occidentaux ont provoqué une réponse spontanée de Laplus avec un tonitruant « Let’s FAQing gooooo ! »",
+      "bbox": {
+        "x": 0.5119,
+        "y": 0.8759,
+        "width": 0.4456,
+        "height": 0.0903
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/p0005ykaedy91.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.44,
+        "y": 0.016,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Choco",
+      "bbox": {
+        "x": 0.155,
+        "y": 0.18,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Choco est un démon insatiable, mais pas de la manière dont on pourrait le croire ! Elle est connue pour s’investir beaucoup dans les jeux et Core Keeper ne fait pas exception. Elle a stream près de 22 heures sur Core Keeper. Au moment où Roboco était sur le point de mettre fin à leur collaboration, Choco l'a arrêtée et lui a suggéré de battre un autre boss, au grand désarroi de Roboco, mais heureusement pour elle, elles n'ont fait que 30 minutes de streaming de plus.",
+      "bbox": {
+        "x": 0.0638,
+        "y": 0.2157,
+        "width": 0.4006,
+        "height": 0.1571
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.51,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Akindo Sushiro, une chaîne de restaurants de sushis sur tapis roulant, a annoncé un menu promotionnel à durée limitée mettant en vedette Aqua. Le menu comprend des sushis au toro (thon), des œufs, des nigiri au gunkan, des nigiri au hamachi, des nigiri au saumon, des sushis au calmar et des sushis aux œufs de saumon. Des supports acryliques et des autocollants en édition limitée peuvent également être achetés avec la commande.",
+      "bbox": {
+        "x": 0.0625,
+        "y": 0.5477,
+        "width": 0.3894,
+        "height": 0.1584
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La promotion est valable du 22 avril jusqu'à épuisement des stocks. Les repas seront servis selon le principe du premier arrivé, premier servi et un seul repas pourra être commandé par client.",
+      "bbox": {
+        "x": 0.0619,
+        "y": 0.7248,
+        "width": 0.38,
+        "height": 0.0729
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shion",
+      "bbox": {
+        "x": 0.625,
+        "y": 0.18,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Shion a lancé un stream karaoké en attendant le million d'abonnés. Elle a chanté plusieurs chansons avant de franchir le cap, notamment « Reflect » et sa première chanson originale, « Mage of Violet ». Elle a atteint le million d'abonnés pendant qu'elle chantait « Mage of Violet », et a crié à cause de cela.",
+      "bbox": {
+        "x": 0.5331,
+        "y": 0.2157,
+        "width": 0.3906,
+        "height": 0.1111
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une fois qu'elle a fini de chanter « Mage of Violet », elle est devenue très émotive et a remercié tous ses spectateurs de l'avoir aidée à franchir ce cap, et a également sorti un accessoire pour le bouton du million d'abonnés qu'elle avait préparé. Elle a même dit « Je vous aime » à ses spectateurs pour la première fois en trois ans d'activité, à leur grande joie. Félicitations Shion !",
+      "bbox": {
+        "x": 0.5325,
+        "y": 0.3451,
+        "width": 0.4044,
+        "height": 0.128
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.628,
+        "y": 0.628,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru est une grande fan de Baki, un manga de combat. Il se trouve que l'équipe de Baki Expo en a eu vent et a invité Subaru et Noel à leur événement. Subaru pensait que cela reviendrait à un billet gratuit. À sa grande surprise, elles ont eu droit à une visite VIP, avec leur propre guide touristique !",
+      "bbox": {
+        "x": 0.5344,
+        "y": 0.6658,
+        "width": 0.3894,
+        "height": 0.1172
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/8onp0069qau81.png",
+    "gifFrame": null,
+    "confidence": 94
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0178,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/20\n[Koyori] WAO!!: 250K\n[Polka] Empress: 100K\n[AZKi] why, or why not: 250K\n[Roboco] Boukoku Kakusei Catharsis (Live): 75K\n[AZKi/Polka] SPACE! WAVE! AKIBA-POP!!: 50K\n[Akirose/AZKi/Mio] Your Silver Garden (Live): 100K\n[Kiara] Heart Challenger (Live): 25K\n[Mumei] Dilemma: 750K\n[Chloe] Chimera: 500K",
+      "bbox": {
+        "x": 0.047,
+        "y": 0.058,
+        "width": 0.445,
+        "height": 0.157
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/21\n[Zeta] Zankyousanka: 750K\n[Aqua/Mea] Naisho No Hanashi: 100K\n[Okayu] Nani Yatte Mo Umaku Ikanai: 1M",
+      "bbox": {
+        "x": 0.047,
+        "y": 0.229,
+        "width": 0.445,
+        "height": 0.053
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/22\n[Iroha/La+] Identity: 1M\n[Shion/Gura] Platinum Disco: 750K\n[Calli] The Grim Reaper is a Live Streamer: 5M\n[Lui] Kimi Sora Kiseki (Cover): 100K\n[Aqua/Shion] Nee Nee Nee: 2M",
+      "bbox": {
+        "x": 0.047,
+        "y": 0.295,
+        "width": 0.445,
+        "height": 0.09
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/23\n[Kanata] Drain: 100K\n[La+] Nigoame (Cover): 100K\n[Nene] Salamander (Cover): 100K\n[AZKi] Rotate Repeat: 100K",
+      "bbox": {
+        "x": 0.047,
+        "y": 0.397,
+        "width": 0.445,
+        "height": 0.072
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/24\n[Ina] Nainai: 2M\n[Area15] HI-15!: 500K\n[Rikka] Chameleon: 100K\n[Uyu] Fragile (Cover): 10K\n[Okayu/Korone] U&I: 750K\n[Matsuri] Chichin Pui Pui: 1M\n[Polka] Internet Overdose: 500K\n[Chloe] Nisemono Ningen 40-gou: 1M\n[HoloMyth] Myth or Treat: 5M\n[Sora/Ruri] Mousou Kanshou Daishou Renmei: 250K\n[Moona] High Tide: 3M\n[Fuma] Infection: 25K",
+      "bbox": {
+        "x": 0.511,
+        "y": 0.058,
+        "width": 0.444,
+        "height": 0.226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/25\n[Okayu] Rinkai Diver: 500K\n[IRyS] Internet Overdose: 750K\n[Kobo] Tondemo Wonders (Cover): 100K\n[Calliope/AmaLee] Villain Vibes: 100K\n[Astel] Boku Wa Kyou Mo: 50K",
+      "bbox": {
+        "x": 0.511,
+        "y": 0.298,
+        "width": 0.444,
+        "height": 0.088
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/26\n[Lui] Prologue: 500K\n[Noel] Lyrical Monster: 100K\n[Flare/KOTOKO] Sakuranbo Kiss: Bakuhatsu Da Mon (Cover): 100K\n[Fubuki/Flare/Watame] Bakataration: 10K\n[Choco/Subaru/Luna] Cherry Bomb: 500K\n[Fubuki] KINGWORLD: 100K",
+      "bbox": {
+        "x": 0.511,
+        "y": 0.401,
+        "width": 0.444,
+        "height": 0.122
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE ORIGINALE NOUVEAU",
+      "bbox": {
+        "x": 0.0594,
+        "y": 0.4987,
+        "width": 0.4175,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nNoel\nLYRICAL\nMONSTER",
+      "bbox": {
+        "x": 0.034,
+        "y": 0.543,
+        "width": 0.311,
+        "height": 0.118
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nFubuki, Flare, Watame\nSUSUME ↑\nBAKATARATION",
+      "bbox": {
+        "x": 0.345,
+        "y": 0.543,
+        "width": 0.311,
+        "height": 0.118
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nFubuki\nKINGWORLD",
+      "bbox": {
+        "x": 0.656,
+        "y": 0.543,
+        "width": 0.311,
+        "height": 0.118
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nNene\nSALAMANDER",
+      "bbox": {
+        "x": 0.034,
+        "y": 0.662,
+        "width": 0.311,
+        "height": 0.118
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nCalli & AmaLee\nVILLAIN\nVIBES",
+      "bbox": {
+        "x": 0.345,
+        "y": 0.662,
+        "width": 0.311,
+        "height": 0.118
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nFlare & KOTOKO\nSAKURANBO KISS:\nBAKUHATSU DA MON",
+      "bbox": {
+        "x": 0.656,
+        "y": 0.662,
+        "width": 0.311,
+        "height": 0.118
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nLa+\nNIGOAME",
+      "bbox": {
+        "x": 0.034,
+        "y": 0.78,
+        "width": 0.233,
+        "height": 0.086
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nUyu\nFRAGILE",
+      "bbox": {
+        "x": 0.267,
+        "y": 0.78,
+        "width": 0.233,
+        "height": 0.086
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nKobo\nTONDEMO\nWONDERS",
+      "bbox": {
+        "x": 0.5,
+        "y": 0.78,
+        "width": 0.233,
+        "height": 0.086
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nLui\nKIMI SORA\nKISEKI",
+      "bbox": {
+        "x": 0.7330000000000001,
+        "y": 0.78,
+        "width": 0.233,
+        "height": 0.086
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nFlare\nZENRYOKU-\nJUMPING!",
+      "bbox": {
+        "x": 0.034,
+        "y": 0.866,
+        "width": 0.311,
+        "height": 0.118
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nLui\nOVERD",
+      "bbox": {
+        "x": 0.345,
+        "y": 0.866,
+        "width": 0.311,
+        "height": 0.118
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nMel\nNAGAREBOSHI\nKIRAKIRA",
+      "bbox": {
+        "x": 0.656,
+        "y": 0.866,
+        "width": 0.311,
+        "height": 0.118
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/n384f4a2haa91.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Smol Ame 3D amélioré",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.0117,
+        "width": 0.3013,
+        "height": 0.013
+      }
+    },
+    {
+      "type": "other",
+      "text": "Revue de nourriture",
+      "bbox": {
+        "x": 0.381,
+        "y": 0.011,
+        "width": 0.24,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "Radio de nuit de Risu",
+      "bbox": {
+        "x": 0.708,
+        "y": 0.011,
+        "width": 0.26,
+        "height": 0.015
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magazine hebdomadaire d'actualités",
+      "bbox": {
+        "x": 0.024,
+        "y": 0.153,
+        "width": 0.293,
+        "height": 0.012
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Anniversaire et nouvelle tenue de Sora",
+      "bbox": {
+        "x": 0.014,
+        "y": 0.183,
+        "width": 0.33,
+        "height": 0.171
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Koyori a atteint les 600k",
+      "bbox": {
+        "x": 0.014,
+        "y": 0.38,
+        "width": 0.19,
+        "height": 0.091
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Chanson originale de Fauna",
+      "bbox": {
+        "x": 0.014,
+        "y": 0.485,
+        "width": 0.21,
+        "height": 0.091
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Anniversaire d'Uyu",
+      "bbox": {
+        "x": 0.014,
+        "y": 0.59,
+        "width": 0.3,
+        "height": 0.061
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Anniversaire de Mel",
+      "bbox": {
+        "x": 0.014,
+        "y": 0.665,
+        "width": 0.3,
+        "height": 0.061
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Les aventures de Miko sur WWE2k22",
+      "bbox": {
+        "x": 0.7,
+        "y": 0.201,
+        "width": 0.286,
+        "height": 0.099
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora fait une pause",
+      "bbox": {
+        "x": 0.73,
+        "y": 0.329,
+        "width": 0.257,
+        "height": 0.115
+      }
+    },
+    {
+      "type": "other",
+      "text": "AVEC UNE NOUVELLE TENUE 3D",
+      "bbox": {
+        "x": 0.012,
+        "y": 0.77,
+        "width": 0.281,
+        "height": 0.115
+      }
+    },
+    {
+      "type": "other",
+      "text": "Vous voulez nous aider ?\nRejoignez notre Discord !",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.9158,
+        "width": 0.3181,
+        "height": 0.0356
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/6d08rvbndn191.png",
+    "gifFrame": null,
+    "confidence": 84
+  }
+}

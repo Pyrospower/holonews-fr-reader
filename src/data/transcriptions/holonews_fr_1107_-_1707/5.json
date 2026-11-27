@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gen 0",
+      "bbox": {
+        "x": 0.4438,
+        "y": 0.0174,
+        "width": 0.1131,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Robocosan",
+      "bbox": {
+        "x": 0.1708,
+        "y": 0.1774,
+        "width": 0.1754,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Notre robot national Roboco a défié l'arène de Fall Guys dans l'espoir d'obtenir une couronne. On pensait qu'un robot de haute technologie comme elle serait capable de relever ce défi, mais en réalité, le stream était rempli de Roboco en train de se faire pon, criant, riant et tapant sur la table alors qu'elle se faisait malmener par l'arène et ses spectateurs. Bon courage, Roboco.",
+      "bbox": {
+        "x": 0.0756,
+        "y": 0.2183,
+        "width": 0.3825,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "other",
+      "text": "MC Hoshimachi Suisei (VTuber)",
+      "bbox": {
+        "x": 0.6275,
+        "y": 0.0877,
+        "width": 0.0794,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "other",
+      "text": "MC Daisuke Shiozawa (NHK announcer)",
+      "bbox": {
+        "x": 0.845,
+        "y": 0.0877,
+        "width": 0.0781,
+        "height": 0.0264
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Suisei",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.2318,
+        "width": 0.1015,
+        "height": 0.0224
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Suisei va co-animer « ぶいあーる » ! sur la radio NHK. Il s'agit d'un programme spécial axé sur la musique des VTubeurs. Veuillez utiliser le hashtag #ぶいあーる pour vos demandes et questions. L'émission sera diffusée le 12 août.",
+      "bbox": {
+        "x": 0.5387,
+        "y": 0.2713,
+        "width": 0.3581,
+        "height": 0.0781
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Gen 1",
+      "bbox": {
+        "x": 0.4463,
+        "y": 0.3746,
+        "width": 0.1094,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Matsuri",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.5353,
+        "width": 0.1292,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuri est devenue le deuxième membre de HoloJP à atteindre la barre des trente minutes sur HoloCure ! Elle a utilisé Mumei pour y parvenir, mais a malheureusement été vaincue par l'essaim de YAGOOs qui s'est déclenché automatiquement au bout de trente minutes. Matsuri a également commenté qu’ils sont apparus pour la féliciter avant qu'il ne soit un PNJ. Félicitations, Matsuri !",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.5755,
+        "width": 0.3875,
+        "height": 0.1159
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Haachama",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.8494,
+        "width": 0.1692,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Haachama a organisé un stream consacré à une partie de Yahtzee avec ses spectateurs sur 51 Worldwide Games. Elle a montré que la chance était de son côté en obtenant trois yachts et a gagné trois des cinq matchs. Cependant, lors de son dernier match, elle a manqué de chance et a perdu. Après le match, elle a fait un mini stream discussion.",
+      "bbox": {
+        "x": 0.075,
+        "y": 0.8898,
+        "width": 0.3713,
+        "height": 0.0968
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.6308,
+        "y": 0.5353,
+        "width": 0.1185,
+        "height": 0.0224
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Fubuki s'est proclamé « BURGER KING FOX » sur Twitter, ce qui a entraîné une réponse du compte japonais de Burger King, qui a posté une photo de son burger signature avec les traits de Fubuki. Quelques autres messages mignons ont ensuite été échangés.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.576,
+        "width": 0.3831,
+        "height": 0.0803
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GAMERS",
+      "bbox": {
+        "x": 0.6469,
+        "y": 0.6871,
+        "width": 0.1788,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.6338,
+        "y": 0.8472,
+        "width": 0.1062,
+        "height": 0.0235
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu ne voulait pas utiliser l'objet dakimakura dans HoloCure car il ressemblait à YAGOO dans une pose de gravure. Sous l'impulsion des Onigiriyas, elle a découvert la puissance de cet objet pour protéger les idoles. Elle a même crié « Protège-moi ! YAGOO ! » dans une situation désespérée.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.8854,
+        "width": 0.3738,
+        "height": 0.0938
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/zdrtoz55sqd91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

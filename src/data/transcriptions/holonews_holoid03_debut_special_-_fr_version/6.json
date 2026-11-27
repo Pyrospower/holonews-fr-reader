@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_holoid03_debut_special_-_fr_version",
+  "page": 6,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Kobo Kanaeru",
+      "bbox": {
+        "x": 0.0333,
+        "y": 0.0463,
+        "width": 0.7856,
+        "height": 0.1269
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bokobokobo- Kobo Kanaeru à votre service ! Votre chamane des pluies de la 3e génération d'holoID est là ;)",
+      "bbox": {
+        "x": 0.1444,
+        "y": 0.1593,
+        "width": 0.8111,
+        "height": 0.0478
+      }
+    },
+    {
+      "type": "other",
+      "text": "En colère",
+      "bbox": {
+        "x": 0.7278,
+        "y": 0.3256,
+        "width": 0.2072,
+        "height": 0.0278
+      }
+    },
+    {
+      "type": "other",
+      "text": "Heureuse",
+      "bbox": {
+        "x": 0.5165,
+        "y": 0.531,
+        "width": 0.2129,
+        "height": 0.031
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/4wcnxfbyvis81.gif",
+    "gifFrame": 58,
+    "confidence": 78
+  }
+}

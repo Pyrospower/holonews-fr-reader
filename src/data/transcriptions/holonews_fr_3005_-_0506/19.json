@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_3005_-_0506",
+  "page": 19,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crédits",
+      "bbox": {
+        "x": 0.4288,
+        "y": 0.0256,
+        "width": 0.1431,
+        "height": 0.0221
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Paliers",
+      "bbox": {
+        "x": 0.6625,
+        "y": 0.076,
+        "width": 0.1456,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "other",
+      "text": "Noel 1,5 M",
+      "bbox": {
+        "x": 0.6019,
+        "y": 0.1376,
+        "width": 0.0881,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "other",
+      "text": "Zeta 400k",
+      "bbox": {
+        "x": 0.7663,
+        "y": 0.1181,
+        "width": 0.1713,
+        "height": 0.0495
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Événements à venir",
+      "bbox": {
+        "x": 0.536,
+        "y": 0.402,
+        "width": 0.401,
+        "height": 0.034
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• 8 juin : 3e anniversaire des débuts de Miyabi\n• 9 juin : Début 3D d'Iroha\n• 10 : Anniversaire de Sana\n• 11 juin : Anniversaire de Lui\n• 12 juin : Nouvelle tenue de Kiara",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.4049,
+        "width": 0.3925,
+        "height": 0.2192
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.691,
+        "width": 0.5444,
+        "height": 0.1124
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.0463,
+        "y": 0.8255,
+        "width": 0.2537,
+        "height": 0.0369
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/yf6d8hgvbt591.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

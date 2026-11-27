@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_sana_special_issue_fr_ver",
+  "page": 1,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "other",
+      "text": "Moments marquants • Interview exclusive •",
+      "bbox": {
+        "x": 0.0269,
+        "y": 0.0113,
+        "width": 0.6587,
+        "height": 0.0187
+      }
+    },
+    {
+      "type": "other",
+      "text": "Collaboration",
+      "bbox": {
+        "x": 0.8025,
+        "y": 0.0113,
+        "width": 0.1713,
+        "height": 0.0148
+      }
+    },
+    {
+      "type": "other",
+      "text": "Magazine hebdomadaire d'actualités",
+      "bbox": {
+        "x": 0.0256,
+        "y": 0.1536,
+        "width": 0.2763,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "TSUKUMO SANA",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2083,
+        "width": 0.1357,
+        "height": 0.7589
+      }
+    },
+    {
+      "type": "heading",
+      "text": "SPECIAL ISSUE",
+      "bbox": {
+        "x": 0.8071,
+        "y": 0.2083,
+        "width": 0.1429,
+        "height": 0.748
+      }
+    },
+    {
+      "type": "other",
+      "text": "INTERVIEW EXCLUSIVE",
+      "bbox": {
+        "x": 0.3214,
+        "y": 0.872,
+        "width": 0.3571,
+        "height": 0.0565
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/dri6gk1un4f91.png",
+    "gifFrame": null,
+    "confidence": 76
+  }
+}

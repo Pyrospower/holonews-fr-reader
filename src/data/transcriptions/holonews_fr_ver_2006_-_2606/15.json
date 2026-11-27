@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2006_-_2606",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Divers",
+      "bbox": {
+        "x": 0.4369,
+        "y": 0.0169,
+        "width": 0.1263,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Darts Hive",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.18,
+        "width": 0.17,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Darts Hive a entamé une collaboration avec hololive pour créer des articles de fléchettes sur le thème des VTubers. Les talents impliqués dans cette collaboration sont Sora, Pekora et Marine. Vous pouvez acheter trois articles différents, avec des versions de chaque fille. Il existe des jeux de fléchettes avec un support de fléchettes en acrylique, un coussin en forme de fléchette et un t-shirt avec l'illustration de l'une des filles réalisée spécialement pour cette collaboration. Les illustrations ont été réalisées par Kei Mochizuki. Malheureusement, les ventes de ce produit sont limitées au Japon, mais si vous vous trouvez dans ce pays, la période de précommande commence le 29 juin et se termine le 17 juillet.",
+      "bbox": {
+        "x": 0.0712,
+        "y": 0.2183,
+        "width": 0.3869,
+        "height": 0.201
+      }
+    },
+    {
+      "type": "heading",
+      "text": "holoJP Among Us",
+      "bbox": {
+        "x": 0.17,
+        "y": 0.557,
+        "width": 0.28,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Les membres JP ont encore joué à Among Us ! Miko, Suisei, AZKi, Fubuki, Marine, Noel, Lamy, Koyori et Lui ont participé. Elles ont eu leurs moments de briller, comme AZKi et Suisei qui se sont fait passer pour des vieux pervers quand elles étaient les imposteurs, chassant les lolis (l'équipage), Lami se moquant de Marine après qu'elle est dit que Marine était vieille, et Koyori et Miko se chamaillant constamment.",
+      "bbox": {
+        "x": 0.0719,
+        "y": 0.5968,
+        "width": 0.385,
+        "height": 0.1311
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le vieux pervers Suisei a également agi de manière très effrayante envers Aqua (qui ne jouait même pas), a chassé Miko pour essayer de la lécher, et a carrément avoué un meurtre tout en réussissant à faire croire à tout le monde qu'elle plaisantait. Ne manquez pas de regarder le stream complet pour voir toutes leurs mésaventures !",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.7448,
+        "width": 0.3888,
+        "height": 0.1042
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Calli & AmaLee",
+      "bbox": {
+        "x": 0.635,
+        "y": 0.179,
+        "width": 0.24,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 25 juin, la Monarque du Multivers AmaLee a publié sa nouvelle chanson Villain Vibes sur YouTube. La chanson est en collaboration avec Calliope Mori. La chanson correspond à leur image commune de « méchante », puisque l'une est une faucheuse et l'autre une méchante reine conquérant le monde. Vous pouvez écouter ou télécharger la chanson sur diverses plateformes telles que Spotify et iTunes. Elle fait partie de son premier album original, Rise of the Monarch. D'autres CD physiques sont prévus, alors restez à l'écoute !",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.2183,
+        "width": 0.3869,
+        "height": 0.161
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Collab",
+      "bbox": {
+        "x": 0.8,
+        "y": 0.558,
+        "width": 0.11,
+        "height": 0.024
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le sixième cours d'anglais, Calli et Sana ont enseigné l'anglais à Roboco et Miko ! Cet épisode avait pour thème la plage, la plupart des questions et de l'argo ayant un rapport à la plage. Miko a également donné quelques leçons d'anglais d'élite. Comme d'habitude, la leçon a tourné au chaos, surtout à cause des méthodes inhabituelles de Sana.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.5838,
+        "width": 0.39,
+        "height": 0.1172
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/86fl4d92haa91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

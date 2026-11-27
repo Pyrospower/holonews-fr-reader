@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_sana_special_issue_fr_ver",
+  "page": 18,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "TWITTER",
+      "bbox": {
+        "x": 0.0215,
+        "y": 0.0385,
+        "width": 0.3723,
+        "height": 0.0438
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sana a reçu de nombreux messages de la part de ses amis et de ses aînés à hololive, ainsi que du staff et d'autres illustrateurs et riggers de VTuber sur Twitter.",
+      "bbox": {
+        "x": 0.0288,
+        "y": 0.0924,
+        "width": 0.4138,
+        "height": 0.0339
+      }
+    },
+    {
+      "type": "other",
+      "text": "@tsukumosana\nThank you, I love you too!",
+      "bbox": {
+        "x": 0.4877,
+        "y": 0.0353,
+        "width": 0.4892,
+        "height": 0.1282
+      }
+    },
+    {
+      "type": "other",
+      "text": "@ourokronii\nShoot for the stars. No matter what you do, we'll always be here. We love you.",
+      "bbox": {
+        "x": 0.0215,
+        "y": 0.172,
+        "width": 0.4615,
+        "height": 0.1015
+      }
+    },
+    {
+      "type": "other",
+      "text": "@hakosbaelz\nYou are one of a kind ❤️ will always be supporting you and will always love you ❤️❤️❤️❤️",
+      "bbox": {
+        "x": 0.4877,
+        "y": 0.172,
+        "width": 0.4892,
+        "height": 0.1015
+      }
+    },
+    {
+      "type": "other",
+      "text": "@ourokronii\nI'm really glad that I got to know you. Wish you all the best.",
+      "bbox": {
+        "x": 0.0215,
+        "y": 0.2746,
+        "width": 0.4615,
+        "height": 0.0748
+      }
+    },
+    {
+      "type": "other",
+      "text": "@ceresfauna\n💛🍡🪐🌌🚀🍞💛\n💛Love Sana forever💛",
+      "bbox": {
+        "x": 0.4846,
+        "y": 0.2746,
+        "width": 0.2277,
+        "height": 0.1015
+      }
+    },
+    {
+      "type": "other",
+      "text": "@nanashimumei_en\n💚💙💛🤎❤️",
+      "bbox": {
+        "x": 0.7138,
+        "y": 0.2746,
+        "width": 0.2615,
+        "height": 0.0737
+      }
+    },
+    {
+      "type": "other",
+      "text": "@ninomaeinanis\nwe love you and want you to be the happiest!!! My ball of sunshine!!\nI'll miss you a lot.....your place with us is eternal💛",
+      "bbox": {
+        "x": 0.0215,
+        "y": 0.3526,
+        "width": 0.4615,
+        "height": 0.11
+      }
+    },
+    {
+      "type": "other",
+      "text": "@watsonameliaEN\nSANA IS ETERNAL",
+      "bbox": {
+        "x": 0.7231,
+        "y": 0.3515,
+        "width": 0.2523,
+        "height": 0.0342
+      }
+    },
+    {
+      "type": "other",
+      "text": "@takanashikiara\n😢😭😢😭",
+      "bbox": {
+        "x": 0.4846,
+        "y": 0.3889,
+        "width": 0.2385,
+        "height": 0.0823
+      }
+    },
+    {
+      "type": "other",
+      "text": "@gawrgura\nsupporting you forever!! 💙 poyo!!",
+      "bbox": {
+        "x": 0.0277,
+        "y": 0.4647,
+        "width": 0.3815,
+        "height": 0.1004
+      }
+    },
+    {
+      "type": "other",
+      "text": "@moricalliope\nWhat a bright and beautiful star Sana is, has been and always will be no matter where she goes.\n\nWe love you forever no matter what!!!!",
+      "bbox": {
+        "x": 0.4215,
+        "y": 0.4829,
+        "width": 0.5538,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "other",
+      "text": "@pakosun\nI support your chosen path as I said when you first kissed nature's feet.",
+      "bbox": {
+        "x": 0.0246,
+        "y": 0.5694,
+        "width": 0.5585,
+        "height": 0.0897
+      }
+    },
+    {
+      "type": "other",
+      "text": "@achan_UGA\nThank you so much! I'm so happy to see you. We'll never forget your BIG love. ありがとうございます、最後までたくさん思い出を作りましょう",
+      "bbox": {
+        "x": 0.5954,
+        "y": 0.6036,
+        "width": 0.3815,
+        "height": 0.0876
+      }
+    },
+    {
+      "type": "other",
+      "text": "@tanigox\n今までありがとう！",
+      "bbox": {
+        "x": 0.0323,
+        "y": 0.6677,
+        "width": 0.2877,
+        "height": 0.094
+      }
+    },
+    {
+      "type": "other",
+      "text": "@tokino_sora\nLove you",
+      "bbox": {
+        "x": 0.3308,
+        "y": 0.6677,
+        "width": 0.2477,
+        "height": 0.0865
+      }
+    },
+    {
+      "type": "other",
+      "text": "@AZKi_VDiVA\nSanaちゃんのオリ曲めちゃいい...😭",
+      "bbox": {
+        "x": 0.6215,
+        "y": 0.6998,
+        "width": 0.3538,
+        "height": 0.0652
+      }
+    },
+    {
+      "type": "other",
+      "text": "@sakuramiko35\nI love big sana 😢❤️🪐\nbig love!!!!!!\nlet's chill！！",
+      "bbox": {
+        "x": 0.0292,
+        "y": 0.7703,
+        "width": 0.2723,
+        "height": 0.1058
+      }
+    },
+    {
+      "type": "other",
+      "text": "@natsuiromatsuri\nsana🥺🥺\ni love u💓💞",
+      "bbox": {
+        "x": 0.2969,
+        "y": 0.7639,
+        "width": 0.2877,
+        "height": 0.0983
+      }
+    },
+    {
+      "type": "other",
+      "text": "@akirosenthal\nI have very fond memories of you talking so energetically when we met at Micra!\n\nI wish we could have talked and laughed a lot more. My regret is that I could not do that. 😢\nI love you Sanna. 🥲💕\nThank you so much.\nI wish you all the best.",
+      "bbox": {
+        "x": 0.5923,
+        "y": 0.766,
+        "width": 0.3831,
+        "height": 0.1549
+      }
+    },
+    {
+      "type": "other",
+      "text": "@inugamikorone\nSana has always been my friend.\n\nLove you 🤝",
+      "bbox": {
+        "x": 0.2969,
+        "y": 0.86,
+        "width": 0.2892,
+        "height": 0.1068
+      }
+    },
+    {
+      "type": "other",
+      "text": "@shirakamifubuki\nlove❤️sana",
+      "bbox": {
+        "x": 0.0308,
+        "y": 0.8878,
+        "width": 0.2492,
+        "height": 0.062
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/n4dcuw1un4f91.png",
+    "gifFrame": null,
+    "confidence": 80
+  }
+}

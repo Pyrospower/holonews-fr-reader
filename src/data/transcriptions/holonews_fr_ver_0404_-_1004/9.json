@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0404_-_1004",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 5",
+      "bbox": {
+        "x": 0.44,
+        "y": 0.0174,
+        "width": 0.1206,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.1613,
+        "y": 0.1871,
+        "width": 0.095,
+        "height": 0.0273
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Botan était en feu durant son récent stream sur Elden Ring. Elle a trouvé son chemin vers Haligtree de Miquella et a esquivé des attaques de façon si spectaculaire, qu’elle était elle-même surprise. Elle a continué son chemin en tuant plusieurs boss à la suite, dont Loretta et le chevalier d’Haligtree. Mais ce n’était pas tout, elle a continué sur sa lancée en battant le Général Radahn, le seul boss sur lequel elle a dû faire des invocations. Et enfin, elle a tué Astel, le rejeton de la vie pour finir la quête de Ranni.",
+      "bbox": {
+        "x": 0.0656,
+        "y": 0.2244,
+        "width": 0.39,
+        "height": 0.1714
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lamy",
+      "bbox": {
+        "x": 0.64,
+        "y": 0.187,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamy envisage de déménager, car pour l'instant, il lui faut beaucoup de temps pour se rendre de chez elle à son lieu d'étude et d'enregistrement. Les jours où elle devait voyager pour son travail, elle ne pouvait pas streamer par manque de temps et d'énergie. En outre, Lamy pense qu'il serait plus facile d'organiser des collaborations si elle déménage. Marine, qui envisageait également de déménager, lui a suggéré de chercher des appartements dans le même quartier. Il s'est avéré que le logement que Lamy envisageait était celui au dessus de celui que Marine voulait.",
+      "bbox": {
+        "x": 0.5431,
+        "y": 0.2244,
+        "width": 0.395,
+        "height": 0.1753
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Botan",
+      "bbox": {
+        "x": 0.16,
+        "y": 0.465,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après 1 an, 4 mois et 17 jours, Shishiron a finalement pu mettre la main sur une PS5. Avec l’autorisation de l’équipe en charge de Babylon’s Fall, avec lesquels elle a fait un stream sponsorisé, elle a maintenant une Xbox et une PS5 pour compléter sa collection.",
+      "bbox": {
+        "x": 0.2713,
+        "y": 0.4366,
+        "width": 0.6725,
+        "height": 0.0582
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Polka",
+      "bbox": {
+        "x": 0.165,
+        "y": 0.643,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans l’épisode de La légende de Polka de cette semaine, Polka mourrait de faim dans le studio, elle a donc demandé à Izutsu d’envoyer un message à sa manageuse pour la dépanner. Sa manageuse a donc apporté des collations de haute qualité : des onigiris au porc ibérique et de la Red Bull pour Polka ainsi que des pétoncles grillées d’Hokkaido avec une sauce soja accompagné de beurre pour Izutsu. Elles ont décidé d'apporter encore plus de collations. Izutsu est revenue avec du pain de yakisoba, des bonbons au beurre, des ramen de poulet en forme de flocons au chocolat et du curry « pour les fins de soirée », qui, selon Izutsu, est une boisson. Polka n’a pas ramené de la nourriture mais un livre sur comment réduire le stress, une bouteille de 2 litres et un magazine légèrement pornographique.",
+      "bbox": {
+        "x": 0.0663,
+        "y": 0.6797,
+        "width": 0.3881,
+        "height": 0.286
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nene",
+      "bbox": {
+        "x": 0.63,
+        "y": 0.643,
+        "width": 0.18,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "À cause d'un des spectateurs de Nene, elle et Mel se sont mises à discuter des comportements indécents commis par les filles à chevelure blonde d'hololive. Listant toutes les filles à cheveux flavescents de l'agence une par une, elles ont conclu que chacune d'entre elles étaient des perverses potentielles ou confirmées. Elles ont également fait le serment de convertir à leur cause toutes les blondes d'hololive à la vertu rémanente.",
+      "bbox": {
+        "x": 0.5344,
+        "y": 0.6801,
+        "width": 0.3894,
+        "height": 0.1584
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ng2jez59qau81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

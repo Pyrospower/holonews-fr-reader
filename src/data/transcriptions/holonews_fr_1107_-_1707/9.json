@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1107_-_1707",
+  "page": 9,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ID1",
+      "bbox": {
+        "x": 0.4646,
+        "y": 0.015,
+        "width": 0.0754,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Risu",
+      "bbox": {
+        "x": 0.1631,
+        "y": 0.1763,
+        "width": 0.0723,
+        "height": 0.0224
+      }
+    },
+    {
+      "type": "other",
+      "text": "illustration by : @Marff_73\nRISU EXPRESS",
+      "bbox": {
+        "x": 0.2446,
+        "y": 0.0716,
+        "width": 0.1723,
+        "height": 0.0524
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La camionneuse professionnelle Ayunda Risu a joué à Euro Truck Simulator, promettant de livrer ses marchandises dans les meilleurs délais et avec le plus de délicatesse. Même en conduisant de manière imprudente, souvent en excès de vitesse, Risu a étonnamment respecté le Code de la route, bien qu'avec une interprétation approximative. Elle évitait les autres véhicules sur la route, roulait du bon côté et utilisait même parfois son clignotant. Ceux qui avaient la chance d'être heurtés par le camion de Risu étaient isekai-ed comme un service supplémentaire en plus de la livraison ! Risu prévoit d'acheter le DLC à l'avenir, il y a donc de fortes chances que le jeu continue.",
+      "bbox": {
+        "x": 0.0669,
+        "y": 0.2183,
+        "width": 0.3913,
+        "height": 0.1892
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.6306,
+        "y": 0.2726,
+        "width": 0.0531,
+        "height": 0.0265
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "La célébration de l'anniversaire de Iofi a été retardée en raison de ses problèmes de santé. Elle était toujours active sur Twitter, postant de petits messages, et a publié une nouvelle cover sur YouTube de « Dekat di Hati ». Ne manquez pas de la regarder ! Bon rétablissement, Iofi !",
+      "bbox": {
+        "x": 0.5375,
+        "y": 0.3125,
+        "width": 0.3719,
+        "height": 0.0924
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ID3",
+      "bbox": {
+        "x": 0.4631,
+        "y": 0.4274,
+        "width": 0.0785,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Kaela",
+      "bbox": {
+        "x": 0.1677,
+        "y": 0.6816,
+        "width": 0.0954,
+        "height": 0.0224
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Kaela a suivi les instructions de Moona et a mis tout son inventaire dans un coffre avant la maintenance de Minecraft. Sans le savoir à l'époque, les coffres de l’End ne se comportent pas de la même manière que les coffres ordinaires et Kaela a malheureusement perdu plus de dix boites de Shulker complet d'objets. Imperturbable et déterminée, la forgeronne a pris cela comme une raison de se motiver.",
+      "bbox": {
+        "x": 0.0706,
+        "y": 0.7218,
+        "width": 0.3781,
+        "height": 0.1163
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Zeta",
+      "bbox": {
+        "x": 0.6323,
+        "y": 0.6838,
+        "width": 0.0754,
+        "height": 0.0214
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Zeta est de retour après avoir pris deux semaines d'arrêt à cause du COVID-19. Son stream de deux heures a détaillé ce qu'elle a fait pendant son absence, et combien le café lui manque. Les Zecretaries l'ont embêté en noyant le stream de Super Chats.",
+      "bbox": {
+        "x": 0.5354,
+        "y": 0.7233,
+        "width": 0.3785,
+        "height": 0.0823
+      }
+    },
+    {
+      "type": "other",
+      "text": "Coffee",
+      "bbox": {
+        "x": 0.5723,
+        "y": 0.9167,
+        "width": 0.0308,
+        "height": 0.0684
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/njk2ov55sqd91.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

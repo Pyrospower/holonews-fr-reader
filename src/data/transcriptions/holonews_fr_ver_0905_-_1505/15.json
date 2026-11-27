@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0905_-_1505",
+  "page": 15,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats et nouvelles sorties",
+      "bbox": {
+        "x": 0.2381,
+        "y": 0.0304,
+        "width": 0.5244,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/09\n[Suisei/Inoue] SOS: 250K\n[Kanata] Ashura-chan: 1M\n[AZKi] Fake Fake Fake: 1M\n[Suisei/Nene/MaiR/Ruri/Saki] Absolute 5: 1M\n[Watame] Midnight Watamedley: 50K\n[Choco] ChocoLove: 250K\n[Risu] ALiCE&u: 750K",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.078,
+        "width": 0.439,
+        "height": 0.122
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/10\n[IRyS] Ghost: 1M\n[Gura] Reflect (Animated): 3M\n[Shion/Hoshikawa] Magical Girl and Chocolate: 1M\n[Okayu] Nani Yatte Mo Umaku Ikanai: 750K\n[Watame] Ohayo No Uta: 750K",
+      "bbox": {
+        "x": 0.512,
+        "y": 0.078,
+        "width": 0.435,
+        "height": 0.09
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/11\n[La+] Life: 500K\n[Shion] Animal: 500K\n[Aruran/Miyabi/Temma] Nice Holiday: 50K\n[Aqua/Suisei/Towa] Asu no Yozora Shoukaihan: 3M\n[Kanata/Towa (ORIO)] Over Time: 100K\n[HoloEN 1/2/Hope] Ochame Kinou: 7M\n[Lui] Phony: 500K",
+      "bbox": {
+        "x": 0.045,
+        "y": 0.214,
+        "width": 0.444,
+        "height": 0.123
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/12\n[Kiara] Sparks: 4M\n[Koyori] S'il Vous President: 750K\n[Iofi] Q&A=E | Kyawaii: 250K\n[Sora/Aoi] Lion: 4M",
+      "bbox": {
+        "x": 0.512,
+        "y": 0.18,
+        "width": 0.434,
+        "height": 0.07
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/13\n[Marine] Unison: 7M\n[Towa/Suisei] Haiiro to Ao: 4M\n[AZKi/Else] Turing Love (Cover): 10K\n[Fubuki/Shien] Roki: 500K",
+      "bbox": {
+        "x": 0.056,
+        "y": 0.35,
+        "width": 0.433,
+        "height": 0.07
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/14\n[Ayame] Yoi No Yo Yoi: 3M\n[Polka] Internet Overdose (Cover): 100K\n[Nene] Nenenenenenenene Daibakusou: 1M\n[AZKi/Fubuki/Marine] Maware Setsugetsuka: 1M\n[AZKi] Sekai Wa Meguri, Yagate Kimi No Mono Ni Naru: 75K",
+      "bbox": {
+        "x": 0.512,
+        "y": 0.265,
+        "width": 0.434,
+        "height": 0.104
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "05/15\n[Suisei] Stellar Stellar: 10M\n[Fauna] Let Me Stay Here: 100K\n[Shion] Yoidore Shirazu (Cover): 50K\n[Astel/Nana] Yukoku Yume To Mimagau: 75K\n[Kanata/Mel/Akirose/Subaru/Nene] Tondemo Wonders (Live Cover): 25K\n[Ollie] Jollie Jollie: 250K",
+      "bbox": {
+        "x": 0.056,
+        "y": 0.434,
+        "width": 0.433,
+        "height": 0.122
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE | ORIGINALE | NOUVEAU",
+      "bbox": {
+        "x": 0.5238,
+        "y": 0.3932,
+        "width": 0.4206,
+        "height": 0.0117
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nouvelles sorties",
+      "bbox": {
+        "x": 0.317,
+        "y": 0.582,
+        "width": 0.367,
+        "height": 0.026
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nFauna\nLET ME STAY HERE",
+      "bbox": {
+        "x": 0.033,
+        "y": 0.635,
+        "width": 0.31,
+        "height": 0.121
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nORIO (Kanata & Towa)\nOVER TIME",
+      "bbox": {
+        "x": 0.345,
+        "y": 0.635,
+        "width": 0.31,
+        "height": 0.121
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nMel\nCARAMEL DEVIL",
+      "bbox": {
+        "x": 0.657,
+        "y": 0.635,
+        "width": 0.31,
+        "height": 0.121
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nShion\nYOIDORE SHIRAZU",
+      "bbox": {
+        "x": 0.033,
+        "y": 0.757,
+        "width": 0.31,
+        "height": 0.121
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nAZKi & Else\nTURING LOVE",
+      "bbox": {
+        "x": 0.345,
+        "y": 0.757,
+        "width": 0.31,
+        "height": 0.121
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nPolka\nINTERNET OVERDOSE",
+      "bbox": {
+        "x": 0.657,
+        "y": 0.757,
+        "width": 0.31,
+        "height": 0.121
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/zf57hpbndn191.png",
+    "gifFrame": null,
+    "confidence": 91
+  }
+}

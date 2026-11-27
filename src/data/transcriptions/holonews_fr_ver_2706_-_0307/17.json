@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2706_-_0307",
+  "page": 17,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stats",
+      "bbox": {
+        "x": 0.4494,
+        "y": 0.0221,
+        "width": 0.1019,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/27\n[La+] Aien Jihen: 500K\n[Kobo] Tondemo Wonders: 250K\n[Koyori/Kiara] Newton Dance: 500K\n[Choco/Subaru/Luna] Kami No Manimani: 750K\n[Aqua/Mea] Naisho No Hanashi: 250K\n[Calliope/AmaLee] Villain Vibes: 250K\n[Matsuri/Rikka] Preserved Roses: 2M",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.0655,
+        "width": 0.4425,
+        "height": 0.1207
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/28\n[La+] Nigoame: 250K\n[Nene] Salamander: 250K\n[Calliope] Holy Shitto: 250K\n[Shion/Gura] Platinum Disco: 1M\n[Fubuki/Flare/Watame] Bakataration: 100K\n[Okayu] Yona Yona Dance: 2M\n[Aqua/Suisei/Towa] Asu no Yozora Shoukaihan: 5M\n[Calliope/Gura] Q: 15M\n[Aqua] Gyutto: 750K",
+      "bbox": {
+        "x": 0.5112,
+        "y": 0.0655,
+        "width": 0.4406,
+        "height": 0.1723
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/29\n[Holostars] Find It: 50K\n[Miyabi] Kaika Sengen: 50K\n[Suisei] Ranbu No Melody: 6M\n[Towa/Miko/AkiRose/Polka/Iroha] Sakura No Ame: 1M\n[Chloe] Chimera: 750K",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.2018,
+        "width": 0.4437,
+        "height": 0.1046
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "06/30\n[Flare] RGB: 750K\n[Roboco] Little Bit (Live): 75K\n[Okayu] Rinkai Diver: 750K",
+      "bbox": {
+        "x": 0.5112,
+        "y": 0.2539,
+        "width": 0.4406,
+        "height": 0.0516
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/01\n[Calliope/Suisei] Capsule: 4M\n[Sora] Bocca Della Verita (Cover): 100K\n[Reine/Suisei/Calliope] Beat Eater: 3M\n[Rikka] Zetsubou-san (Cover): 100K\n[Izuru] Aishite Aishite Aishite: 1M",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.3207,
+        "width": 0.4425,
+        "height": 0.0864
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/02\n[Towa] Error: 10M\n[Nene] Palette (Live Cover): 75K\n[Calliope/AmaLee] Villain Vibes: 500K\n[Akirose/Mel/Watame/Polka] Moon Pride: 50K\n[Towa/Okayu] Cat Loving (Cover): 100K\n[Watame] Hitsuji no Blanket: 25K",
+      "bbox": {
+        "x": 0.5112,
+        "y": 0.3207,
+        "width": 0.4406,
+        "height": 0.1037
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "07/03\n[Suisei/Inoue] 3:12: 3M\n[Oga] Silent Night Requiem: 50K\n[AZKi/Polka] SPACE! WAVE! AKIBA-POP!!: 75K\n[Kiara/Reine] Animal (Cover): 100K\n[AZKi] Afterglow: 10K",
+      "bbox": {
+        "x": 0.0469,
+        "y": 0.4227,
+        "width": 0.4425,
+        "height": 0.0868
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE ORIGINALE NOUVEAU",
+      "bbox": {
+        "x": 0.5263,
+        "y": 0.4696,
+        "width": 0.4175,
+        "height": 0.0122
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nouvelles sorties",
+      "bbox": {
+        "x": 0.3238,
+        "y": 0.5356,
+        "width": 0.3619,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nRikka\nZETSUBOU-SAN",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.5859,
+        "width": 0.2338,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nWatame\nHITSUJI NO BLANKET",
+      "bbox": {
+        "x": 0.2669,
+        "y": 0.5859,
+        "width": 0.2338,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nCalli\nHOLY SHITTO",
+      "bbox": {
+        "x": 0.5012,
+        "y": 0.5859,
+        "width": 0.2338,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nSora\nBOCCA DELLA VERITA",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.5859,
+        "width": 0.2338,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nKiara & Reine\nANIMAL",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.6788,
+        "width": 0.2338,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nAstel & Itsuki Natsune\nHAPPY WEDDING MAE SONG",
+      "bbox": {
+        "x": 0.2669,
+        "y": 0.6788,
+        "width": 0.2338,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nHolostars\nFIND IT",
+      "bbox": {
+        "x": 0.5012,
+        "y": 0.6788,
+        "width": 0.2338,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "REPRISE\nTowa & Okayu\nCAT LOVING",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.6788,
+        "width": 0.2338,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nAZKi\nAFTERGLOW",
+      "bbox": {
+        "x": 0.0325,
+        "y": 0.7717,
+        "width": 0.2338,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nSubaru\nSUMMER HIGH HEELS",
+      "bbox": {
+        "x": 0.2669,
+        "y": 0.7717,
+        "width": 0.2338,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nIRyS\nONE STEP AT A TIME",
+      "bbox": {
+        "x": 0.5012,
+        "y": 0.7717,
+        "width": 0.2338,
+        "height": 0.0855
+      }
+    },
+    {
+      "type": "other",
+      "text": "CHANSON ORIGINAL\nOkayu\nADIEU, SALAUDS",
+      "bbox": {
+        "x": 0.7356,
+        "y": 0.7717,
+        "width": 0.2338,
+        "height": 0.0855
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/tm45wx635kb91.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

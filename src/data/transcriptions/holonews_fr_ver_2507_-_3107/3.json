@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2507_-_3107",
+  "page": 3,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "TOKINO SORA ONE MILION",
+      "bbox": {
+        "x": 0.3073,
+        "y": 0.1252,
+        "width": 0.381,
+        "height": 0.016
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sora, qui est celle avec qui tout a débuté, a enfin atteint le palier des un million d’abonnées sur YouTube ! Elle a été très émue et a faillit pleuré lorsqu’elle a franchi ce palier. Après cela, elle a regardé avec ses spectateurs son début en stream, parlant de ses treize premiers spectateurs et mentionnant le fait qu’elle surjouait son rôle idole à cette époque.",
+      "bbox": {
+        "x": 0.1206,
+        "y": 0.1759,
+        "width": 0.3489,
+        "height": 0.1794
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sora a ensuite chanté « Hanadoki no Sora », une balade sur « le chemin qu’elle a parcouru », quelque chose dont elle est très fière. Sora s’est remémorée ses cinq dernières années, durant lesquelles l’objectif des un million d’abonnées lui semblait impossible. Elle a raconté sa frustration lorsqu’elle n’était pas reconnue dans certains évènements, alors qu’elle travaillait dur pour avoir plus d’abonnées. C’était difficile pour elle, mais elle est heureuse d’avoir tenu le coups.",
+      "bbox": {
+        "x": 0.1206,
+        "y": 0.375,
+        "width": 0.7556,
+        "height": 0.1134
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sora a dit qu’aller de l’avant n’était pas toujours simple, et qu’il y avait tellement de chemins a arpenté, mais que le temps qu’elle a passé avec ses abonnées était prévieux avec tout le soutien qu’elle a eu, ajoutant que c’est ce qu’elle a fait continué le streaming. Si bien qu’elle veut en faire plus, que ça soit pour les cinq ou dix prochaines années.",
+      "bbox": {
+        "x": 0.1206,
+        "y": 0.5069,
+        "width": 0.7489,
+        "height": 0.0802
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Sora a aussi reçu une nouvelle coupe de cheveux pour célébrer ce cap, qui n’est pas une queue de cheval cette fois-ci. Sa nouvelle coiffure est composé de deux tresses avec une frange. Elle a commencé à mettre ses différents accessoires comme ses lunettes, son casque et ses lentilles de contact bleu. Sora a aussi dit que sa queue de cheval la rendait plus agée, donc elle voulait une coupe plus mignonne.",
+      "bbox": {
+        "x": 0.1206,
+        "y": 0.8322,
+        "width": 0.7389,
+        "height": 0.0968
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/1k1ddfh4fig91.gif",
+    "gifFrame": 84,
+    "confidence": 89
+  }
+}

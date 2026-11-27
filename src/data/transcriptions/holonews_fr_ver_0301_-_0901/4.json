@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_0301_-_0901",
+  "page": 4,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Himemori Luna",
+      "bbox": {
+        "x": 0.04,
+        "y": 0.3835,
+        "width": 0.48,
+        "height": 0.1047
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Luna a célébré son second anniversaire avec pour invitées Roboco, Aki, Choco, Subaru et Botan.",
+      "bbox": {
+        "x": 0.0489,
+        "y": 0.5143,
+        "width": 0.4017,
+        "height": 0.0498
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Luna a donné le meilleur d'elle-même en dansant et en chantant de tout coeur tout au long du stream sans jamais se fatiguer. Elle a chanté « Balalaika », « Heavy Rotation » ainsi que « Snow Halation ». Elle a aussi présenté ses produits dérivés commémoratifs :",
+      "bbox": {
+        "x": 0.0472,
+        "y": 0.5837,
+        "width": 0.3983,
+        "height": 0.1343
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "• Un tapis en caoutchouc\n• Un porte-lunettes en acrylique\n• Un chiffon microfibre pour nettoyer ses lunettes\n• Un insigne Luknight",
+      "bbox": {
+        "x": 0.0911,
+        "y": 0.7396,
+        "width": 0.3656,
+        "height": 0.086
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "L'achat de l'ensemble complet inclut une carte postale signée ainsi qu'un pack de voix spécial.",
+      "bbox": {
+        "x": 0.0489,
+        "y": 0.8438,
+        "width": 0.3822,
+        "height": 0.0513
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour finir son concert, Luna a chanté sa chanson originale « Zettai Chuusei ♡ Nanonanora! ».",
+      "bbox": {
+        "x": 0.0489,
+        "y": 0.9128,
+        "width": 0.3978,
+        "height": 0.0482
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/ahkv077kevc81.gif",
+    "gifFrame": 104,
+    "confidence": 84
+  }
+}

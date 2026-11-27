@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_2103_-_2703",
+  "page": 7,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "GEN 1",
+      "bbox": {
+        "x": 0.4387,
+        "y": 0.0167,
+        "width": 0.1253,
+        "height": 0.0231
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aki",
+      "bbox": {
+        "x": 0.164,
+        "y": 0.1796,
+        "width": 0.0547,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En essayant de rappeler à r/Hololive la date limite pour les commandes de ses produits dérivés d'anniversaire, Aki a accidentellement envoyé quatre fois le même post sur r/Hololive. Les commandes pour ses produits dérivés ont été fermées le 21 mars à 18h00 JST.",
+      "bbox": {
+        "x": 0.0681,
+        "y": 0.2161,
+        "width": 0.3875,
+        "height": 0.0994
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Fubuki",
+      "bbox": {
+        "x": 0.6333,
+        "y": 0.1796,
+        "width": 0.1147,
+        "height": 0.0204
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir disparu de la scène publique pendant deux jours, notre renard otaku de compétition, Fubuki, est revenue avec un tweet. Ce tweet était un rapport de survie sur les choses qu'elle avait faites pendant sa disparition. Elle a regardé beaucoup d'anime, dont les trois saisons actuelles d'Overlord, en préparation de la saison 4. Elle a également fait quelques enregistrements et un peu de gacha, avec des captures d'écran de ses tirages comme preuve. Fubuki est revenue au streaming un jour plus tard, comme si de rien n'était.",
+      "bbox": {
+        "x": 0.5363,
+        "y": 0.207,
+        "width": 0.3913,
+        "height": 0.1801
+      }
+    },
+    {
+      "type": "heading",
+      "text": "GEN 2",
+      "bbox": {
+        "x": 0.4406,
+        "y": 0.4162,
+        "width": 0.1188,
+        "height": 0.0208
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Aqua",
+      "bbox": {
+        "x": 0.1693,
+        "y": 0.5019,
+        "width": 0.084,
+        "height": 0.0222
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un de ses récents streams karaoké, Aqua a partagé une bricole qui lui était arrivée avant le concert Link Your Wish. Elle nous a dit que son téléphone était tombé sur son visage alors qu'elle était dans son lit en faisant défiler Twitter et YouTube et avait cassé son nez. Elle nous a également dit qu'il ne fallait pas s'inquiéter, car il est à peu près guéri maintenant.",
+      "bbox": {
+        "x": 0.0694,
+        "y": 0.5373,
+        "width": 0.3875,
+        "height": 0.1246
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Shion",
+      "bbox": {
+        "x": 0.1693,
+        "y": 0.8019,
+        "width": 0.0933,
+        "height": 0.0222
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir vu les réactions d'holoX lors de sa performance pendant l'Holofes, Shion a découvert que Chloe était une grande fan d'elle. Lorsqu'elle a découvert cela, son chat a alors révélé que Chloe avait regardé le stream des débuts de Shion, au grand embarras de notre sorcière. Shion n'a pas encore parlé à Chloe, elle attend donc qu'elle la contacte.",
+      "bbox": {
+        "x": 0.0681,
+        "y": 0.8242,
+        "width": 0.3906,
+        "height": 0.1441
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.6453,
+        "y": 0.5787,
+        "width": 0.1173,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru aime vraiment les beautés cool, surtout si elles ont un côté mignon. Le gap moe est quelque chose dont elle ne peut s'empêcher de tomber amoureuse. Cette description décrit parfaitement Botan, que Subaru trouve extrêmement mignonne. Subaru pense qu'elle est devenue une SSRB et LaLion le sait. Botan a également mentionné que Subaru aimait son style même avant ses débuts. Elle admet que Subaru est une des plus anciennes SSRB.",
+      "bbox": {
+        "x": 0.5381,
+        "y": 0.6198,
+        "width": 0.3731,
+        "height": 0.1523
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Subaru",
+      "bbox": {
+        "x": 0.6373,
+        "y": 0.825,
+        "width": 0.1173,
+        "height": 0.0213
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Subaru crée ses miniatures pour ses streams sur son téléphone et les envoie sur son propre serveur privé, mais un soir tard dans la nuit, elle a fait une erreur ! Elle a accidentellement envoyé une miniature sur le serveur Discord hololive que les filles et le personnel utilisent. Shion, Lamy et Mio ont taquiné Subaru à cause de cela.",
+      "bbox": {
+        "x": 0.5369,
+        "y": 0.8602,
+        "width": 0.39,
+        "height": 0.1172
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/0w3wwrfnbjr81.png",
+    "gifFrame": null,
+    "confidence": 89
+  }
+}

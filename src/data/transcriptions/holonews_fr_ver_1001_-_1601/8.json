@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1001_-_1601",
+  "page": 8,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HOLO FANTASY",
+      "bbox": {
+        "x": 0.06,
+        "y": 0.0898,
+        "width": 0.4125,
+        "height": 0.0239
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Rushia & Suisei",
+      "bbox": {
+        "x": 0.186,
+        "y": 0.266,
+        "width": 0.263,
+        "height": 0.019
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Rushia a invité Suisei pour une compétition amicale sur Super Smash Bros. avec trois vies et les objets activés. Malgré une pause de neuf mois, Suisei n'a montré aucun signe de faiblesse, Rushia Rushia étant incapable de tenir tête à son Villageois même en jouant Ridley, le personnage avec lequel elle s’est le plus entraînée. Le score final était 10-2 pour Suisei. Rushia va devoir jouer à un jeu d’horreur en guise de gage.",
+      "bbox": {
+        "x": 0.0506,
+        "y": 0.3008,
+        "width": 0.4156,
+        "height": 0.2075
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.161,
+        "y": 0.652,
+        "width": 0.16,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pekora a enfin réussi à trouver un Métamorph chromatique ! Cependant, elle n’a pas eu de chance avec ses lancés de Poké Balls car elle en a manqué cinq avant que le Métamorph ne perde tous ses PP et se mette à utiliser « Lutte » jusqu’à sa mort. Lorsque Pekora s’est mise à lire les Super Chats, elle était tellement attristée qu’elle s’est demandée si Dieu l’avait abandonnée. Heureusement, les Nousagis ont fait de leur mieux pour lui remonter le moral, l’un d’entre eux allant jusqu’à dire que même si Dieu l’abandonnait, eux ne l'abandonneraient jamais.",
+      "bbox": {
+        "x": 0.0488,
+        "y": 0.7027,
+        "width": 0.4263,
+        "height": 0.2769
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Marine",
+      "bbox": {
+        "x": 0.6344,
+        "y": 0.26,
+        "width": 0.1638,
+        "height": 0.0217
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Marine a fait une collaboration avec un autre membre d’holoX, cette fois-ci Iroha ! La pureté de cette dernière a fait face à… tout ce qui compose Marine, mais peu à peu, cette dernière est parvenue à faire sombrer Iroha dans le côté obscur. Elle a fait faire à Iroha des recherches sur les loli/shota, l’a poussée à révéler l’un de ses fétiches et l’a même convaincue de dire « Shukkou » de sa voix la plus sensuelle possible. Le pouvoir de perversion de Marine est sans égal.",
+      "bbox": {
+        "x": 0.5231,
+        "y": 0.3012,
+        "width": 0.4306,
+        "height": 0.2244
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Noel",
+      "bbox": {
+        "x": 0.633,
+        "y": 0.652,
+        "width": 0.101,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Noel a été démonétisée sur YouTube il y a un an et la crainte que cela se reproduise ne l’a jamais quittée depuis. Elle avait peur que cela se reproduise de nouveau cette année, mais ça n’a pas été le cas. Les nombreux Super Chats envoyés par ses fans pour tester l’état de sa monétisation ont permis de le prouver. Il y avait tant de Super Chats qu’un spectateur a suspecté Noel d’avoir préparé le coup et de les avoir fait volontairement envoyer. Noel a nié les accusations.",
+      "bbox": {
+        "x": 0.5219,
+        "y": 0.6927,
+        "width": 0.4244,
+        "height": 0.2214
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/3fitkhh6i8e81.png",
+    "gifFrame": null,
+    "confidence": 93
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_holostars_-tempus-_debut_special",
+  "page": 5,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Regis Altare",
+      "bbox": {
+        "x": 0.3258,
+        "y": 0.0758,
+        "width": 0.2788,
+        "height": 0.1
+      }
+    },
+    {
+      "type": "other",
+      "text": "« Le Héros »",
+      "bbox": {
+        "x": 0.4848,
+        "y": 0.1895,
+        "width": 0.2818,
+        "height": 0.0295
+      }
+    },
+    {
+      "type": "other",
+      "text": "Content",
+      "bbox": {
+        "x": 0.5182,
+        "y": 0.3642,
+        "width": 0.1106,
+        "height": 0.0211
+      }
+    },
+    {
+      "type": "other",
+      "text": "Grincheux",
+      "bbox": {
+        "x": 0.6494,
+        "y": 0.5235,
+        "width": 0.1678,
+        "height": 0.0162
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/9me7cj90eje91.gif",
+    "gifFrame": 79,
+    "confidence": 63
+  }
+}

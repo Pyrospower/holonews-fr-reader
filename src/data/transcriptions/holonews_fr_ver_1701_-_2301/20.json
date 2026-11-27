@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_1701_-_2301",
+  "page": 20,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ÉVÉNEMENT À VENIR",
+      "bbox": {
+        "x": 0.08,
+        "y": 0.0326,
+        "width": 0.37,
+        "height": 0.073
+      }
+    },
+    {
+      "type": "other",
+      "text": "• 27 janvier : Tournoi Pokémon holoJP (NicoNico)\n• 30 janvier : Tournoi Pokémon holoEN x holoID\n• 28 janvier : Second concert solo d’Aqua\n• 30 janvier : Anniversaire de Polka",
+      "bbox": {
+        "x": 0.0744,
+        "y": 0.1285,
+        "width": 0.3756,
+        "height": 0.1728
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PALIERS D’ABONNÉS",
+      "bbox": {
+        "x": 0.572,
+        "y": 0.041,
+        "width": 0.335,
+        "height": 0.065
+      }
+    },
+    {
+      "type": "other",
+      "text": "OKAYU\n1,3 M",
+      "bbox": {
+        "x": 0.636,
+        "y": 0.159,
+        "width": 0.09,
+        "height": 0.043
+      }
+    },
+    {
+      "type": "other",
+      "text": "KOYORI\n500 K",
+      "bbox": {
+        "x": 0.7394,
+        "y": 0.2057,
+        "width": 0.0988,
+        "height": 0.042
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Merci !",
+      "bbox": {
+        "x": 0.3913,
+        "y": 0.6033,
+        "width": 0.2263,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous voulez voir votre oshi dans les actualités ou aimeriez rester à jour sur tout ce qui se rapporte à hololive, n’hésitez pas à rejoindre notre subreddit ou notre serveur Discord pour participer et donner un coup de main à la création d’HoloNews !",
+      "bbox": {
+        "x": 0.0688,
+        "y": 0.6515,
+        "width": 0.8588,
+        "height": 0.1332
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Merci d’avoir lu et à la semaine prochaine !",
+      "bbox": {
+        "x": 0.325,
+        "y": 0.7986,
+        "width": 0.36,
+        "height": 0.0525
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/l83xopf6x8f81.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}

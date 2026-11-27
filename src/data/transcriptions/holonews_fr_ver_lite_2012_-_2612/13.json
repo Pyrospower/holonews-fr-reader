@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_ver_lite_2012_-_2612",
+  "page": 13,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "AREA15",
+      "bbox": {
+        "x": 0.1369,
+        "y": 0.0651,
+        "width": 0.2537,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Moona",
+      "bbox": {
+        "x": 0.1431,
+        "y": 0.2399,
+        "width": 0.1562,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon Moona, la résonance de sa voix sous la douche est parfaite. D'après les preuves qu'elle a fournies, elle a raison.",
+      "bbox": {
+        "x": 0.05,
+        "y": 0.2196,
+        "width": 0.3881,
+        "height": 0.1089
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Risu",
+      "bbox": {
+        "x": 0.6362,
+        "y": 0.235,
+        "width": 0.1038,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le jour où elle a terminé son marathon Padoru (le 25 décembre), Risu a décidé de faire un effort supplémentaire en offrant à ses spectateurs un karaoké spécial Noël.",
+      "bbox": {
+        "x": 0.5256,
+        "y": 0.2808,
+        "width": 0.4244,
+        "height": 0.0638
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Iofi",
+      "bbox": {
+        "x": 0.1615,
+        "y": 0.5913,
+        "width": 0.0862,
+        "height": 0.0246
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Iofi a décidé de dessiner d'autres membres d'holoID avec des « coiffures alternatives ».",
+      "bbox": {
+        "x": 0.0531,
+        "y": 0.5734,
+        "width": 0.4269,
+        "height": 0.0282
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Malgré la miniature dérangeante, les portraits des holoRo qu'elle a dessinés sont tout simplement stupéfiants.",
+      "bbox": {
+        "x": 0.5263,
+        "y": 0.4089,
+        "width": 0.38,
+        "height": 0.0477
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la #holoIDWeek2021, Risu a organisé un épisode spécial de « VS Risu », invitant d'autres membres de HoloID à participer en tant qu'invités à la bataille de doublage. Après plus d'une heure et demie de chaos et d'anarchie, Reine a remporté la victoire, perdant sa dignité au passage.",
+      "bbox": {
+        "x": 0.1513,
+        "y": 0.8737,
+        "width": 0.7937,
+        "height": 0.0638
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/2kqs765zeab81.png",
+    "gifFrame": null,
+    "confidence": 92
+  }
+}

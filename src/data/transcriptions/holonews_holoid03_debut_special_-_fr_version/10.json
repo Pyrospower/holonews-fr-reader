@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_holoid03_debut_special_-_fr_version",
+  "page": 10,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Programme de la première semaine !",
+      "bbox": {
+        "x": 0.046,
+        "y": 0.0419,
+        "width": 0.9095,
+        "height": 0.0276
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Zeta",
+      "bbox": {
+        "x": 0.1863,
+        "y": 0.3542,
+        "width": 0.3831,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "Schedule",
+      "bbox": {
+        "x": 0.4476,
+        "y": 0.0948,
+        "width": 0.2032,
+        "height": 0.0364
+      }
+    },
+    {
+      "type": "other",
+      "text": "MON 28 — Song Cover MV Premiere!!!!! — 13:00 WIB / 15:00 JST / 02:00 EST\nMON 28 — APEX — Challenge: Pistols only — 19:00 WIB / 21:00 JST / 08:00 EST\nTUE 29 — Recharging.......\nWED 30 — Raft w/ HoloID Gen 3 — 20:00 WIB / 22:00 JST / 09:00 EST\nTHU 31 — Late comfy night talk — 23:00 WIB / 01:00 JST / 12:00 EST\nFRI 01 — Outlast 2 — 19:00 WIB / 21:00 JST / 08:00 EST\nSAT 02 — Unarchive Karaoke — 12:00 WIB / 14:00 JST / 01:00 EST\nSUN 03 — Super Bunny Man w/ Kaela — 14:00 WIB / 16:00 JST",
+      "bbox": {
+        "x": 0.1175,
+        "y": 0.097,
+        "width": 0.3175,
+        "height": 0.2459
+      }
+    },
+    {
+      "type": "other",
+      "text": "@VESTIAZETA",
+      "bbox": {
+        "x": 0.5571,
+        "y": 0.3264,
+        "width": 0.0571,
+        "height": 0.0099
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Kaela",
+      "bbox": {
+        "x": 0.4194,
+        "y": 0.6484,
+        "width": 0.4069,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "other",
+      "text": "WEEKLY SCHEDULE\n28/3 - 3/4\nGMT+7",
+      "bbox": {
+        "x": 0.3063,
+        "y": 0.3903,
+        "width": 0.6619,
+        "height": 0.0386
+      }
+    },
+    {
+      "type": "other",
+      "text": "Mon 28 — PEJUANG SENIN 05.30 / #ELAONDUTY (TFT) 20.00\nTue 29 — GETTING OVER IT 14.00\nWed 30 — RAFT WITH 3RD GEN. 20.00\nThurs 31 — HEARTHSTONE 20.00\nSat 02 — MARO #KAELABORATION 19.30\nSun 03 — SUPER BUNNY MAN WITH ZETA 14.00",
+      "bbox": {
+        "x": 0.5921,
+        "y": 0.4322,
+        "width": 0.3413,
+        "height": 0.2051
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Programme de Kobo",
+      "bbox": {
+        "x": 0.18,
+        "y": 0.9297,
+        "width": 0.3944,
+        "height": 0.0365
+      }
+    },
+    {
+      "type": "other",
+      "text": "SCHEDULE",
+      "bbox": {
+        "x": 0.0746,
+        "y": 0.7133,
+        "width": 0.0206,
+        "height": 0.1731
+      }
+    },
+    {
+      "type": "other",
+      "text": "sun 27 MARCH — 20:00 Debut / 21:30 Mantra Hujan MV Premiere / 22:00 Post Debut w/ Zeta w/ Ela\nmon 28 MARCH — 20:00 Valorant\ntue 29 MARCH — (REST)\nwed 30 MARCH — 20:00 Raft COLLAB w/ Zeta w/ Ela\nthu 31 MARCH — 23:00 Koboo Maro! MalJum w/ Kobo!\nfri 01 APRIL — 21:00 Karaoke Stream\nsat 02 APRIL — (REST)\nsun 03 APRIL — 09:00 Morning Talk",
+      "bbox": {
+        "x": 0.1222,
+        "y": 0.7255,
+        "width": 0.5698,
+        "height": 0.1411
+      }
+    },
+    {
+      "type": "other",
+      "text": "* Times in GMT +7 (WIB)",
+      "bbox": {
+        "x": 0.5175,
+        "y": 0.8975,
+        "width": 0.1571,
+        "height": 0.0265
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/iaef6vayvis81.png",
+    "gifFrame": null,
+    "confidence": 77
+  }
+}

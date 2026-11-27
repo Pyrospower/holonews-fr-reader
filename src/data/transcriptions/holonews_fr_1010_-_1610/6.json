@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "issueId": "holonews_fr_1010_-_1610",
+  "page": 6,
+  "lang": "fr",
+  "status": "corrected",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Okayu",
+      "bbox": {
+        "x": 0.1688,
+        "y": 0.1571,
+        "width": 0.1313,
+        "height": 0.0304
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Okayu va prendre des vacances pour visiter sa ville natale pour la première fois depuis 4 ans jusqu’au 15 Novembre, comme elle l'a annoncé lors de son stream de discussion. Okayu à remémoré le stream de ses débuts pour voir comment tout a commencé. À la fin, elle a suggéré qu’il y aurait potentiellement une reprise qui sera publiée durant ses vacances pour que les onigirya ne se sentent pas trop seuls.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.1979,
+        "width": 0.445,
+        "height": 0.1033
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.1181,
+        "y": 0.3329,
+        "width": 0.1688,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Une des tendances récentes sur Twitter est d’utiliser le modèle des holomems qui dansent sur la chanson de Marine « I’m your Treasure Box ». Lorsque Watame a remarqué son propre modèle en train de danser, elle a commenté, perplexe, que bien que la musique soit du type sexy, la danse n’en avait pas du tout l’air lorsque c’est elle qui danse.",
+      "bbox": {
+        "x": 0.0438,
+        "y": 0.3707,
+        "width": 0.4444,
+        "height": 0.1007
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Watame",
+      "bbox": {
+        "x": 0.1181,
+        "y": 0.6402,
+        "width": 0.1688,
+        "height": 0.0234
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Watame a rendu visite au stream de karaoké d’Akuma Saki d’ Axel-V un jour avant le dernier stream de cette-dernière, laissant un court message dans son tchat, la remerçiant d’avoir été proche d’elle depuis ses débuts.",
+      "bbox": {
+        "x": 0.0431,
+        "y": 0.6775,
+        "width": 0.445,
+        "height": 0.0629
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.6375,
+        "y": 0.1563,
+        "width": 0.1425,
+        "height": 0.0226
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir annoncé lors de son watchalong de Fate/Zero qu’elle a eu l’autorisation de faire plus de stream sur l’histoire de FGO, Pekora en a profité pour se lancer dans la 6e Singularité, Camelot. Ce n’était pas rose de jouer à travers les quêtes pour elle, plus particulièrement face à Gawain. Elle a dû essayer plusieurs fois pour vaincre le gorille buster même avec une Euryale grailed niveau 80 qu’elle a emprunté de Nodoka. Heureusement, Pekora est parvenue à le battre en empruntant une différente Euryale, qui était grailed au niveau 100, et a après pu continuer avec l’histoire.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.1975,
+        "width": 0.4463,
+        "height": 0.1532
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pekora",
+      "bbox": {
+        "x": 0.5269,
+        "y": 0.3628,
+        "width": 0.1963,
+        "height": 0.0369
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors d’un autre stream FGO intense, Pekora a fait des tirages sur le gacha et s’est fait complètement avoir en ayant eu un Servant qui illustre un jeune garçon. La voix de ce nouveau Servant était cependant une voix grave et mature. Pekora en était abasourdie pendant un petit moment à cause de cet écart, et n’est parvenue qu'à pousser des bruits ahuris tout ce temps.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.4154,
+        "width": 0.445,
+        "height": 0.1128
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Towa",
+      "bbox": {
+        "x": 0.5869,
+        "y": 0.6762,
+        "width": 0.1069,
+        "height": 0.023
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Towa s’est alliée avec Nekota Tsuna de VSPO ainsi que HASESHIN de Rush Gaming pour rejoindre le 4e tournoi d’Epematsuri (Le festival d’Apex), et a fini 3e. En se remémorant la partie, elle a dit que les deux membres de son équipe étaient très coopératifs, et que c’était la première victoire qu’elle a eu avec Gibraltar depuis un moment.",
+      "bbox": {
+        "x": 0.5113,
+        "y": 0.7118,
+        "width": 0.4463,
+        "height": 0.0907
+      }
+    }
+  ],
+  "source": {
+    "engine": "tesseract.js",
+    "engineVersion": "7.0.0 (Tesseract 5.1.0-288-g2a9c1)",
+    "models": "fra+eng 4.0.0_best_int",
+    "pipelineVersion": 1,
+    "imageUrl": "https://i.redd.it/w6wc6oz87cw91.png",
+    "gifFrame": null,
+    "confidence": 90
+  }
+}
